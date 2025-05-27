@@ -1974,7 +1974,7 @@ Let’s also try to identify the OGs (gene name and function) using BLAST.
         
 - Use PANGEA to do pathway enrichment
     
-    Rosa suggested using PANGEA (https://www.flyrnai.org/tools/pangea/web) that Lisy is using for the arthropod paper to try to get more information on the functions of the top 130.
+    We used PANGEA (https://www.flyrnai.org/tools/pangea/web) to try to get more information on the functions of the top 130.
     
     - Genes from *Drosophila*
         
