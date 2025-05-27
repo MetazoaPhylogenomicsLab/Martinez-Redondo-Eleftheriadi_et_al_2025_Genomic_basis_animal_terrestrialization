@@ -1,0 +1,1039 @@
+GO:0008355	21	GO:0007613	memory
+GO:0044179	14	GO:0046649	lymphocyte activation
+GO:0046324	13	GO:0034220	ion transmembrane transport
+GO:0046325	13	GO:0034220	ion transmembrane transport
+GO:0046326	13	GO:0034220	ion transmembrane transport
+GO:0035150	22	GO:0051241	negative regulation of multicellular organismal process
+GO:0070096	12	GO:0030474	spindle pole body duplication
+GO:0042953	13	GO:0034220	ion transmembrane transport
+GO:0035126	1	GO:0016331	morphogenesis of embryonic epithelium
+GO:0035112	2	GO:0001655	urogenital system development
+GO:0003156	2	GO:0001655	urogenital system development
+GO:0003159	1	GO:0016331	morphogenesis of embryonic epithelium
+GO:0051660	13	GO:0034220	ion transmembrane transport
+GO:0035147	1	GO:0016331	morphogenesis of embryonic epithelium
+GO:0035148	1	GO:0016331	morphogenesis of embryonic epithelium
+GO:0051653	11	GO:0008283	cell population proliferation
+GO:0061063	3	GO:2000026	regulation of multicellular organismal development
+GO:0061057	8	GO:0007166	cell surface receptor signaling pathway
+GO:0061058	7	GO:0009968	negative regulation of signal transduction
+GO:0061059	7	GO:0009968	negative regulation of signal transduction
+GO:0001963	14	GO:0046649	lymphocyte activation
+GO:0051601	13	GO:0034220	ion transmembrane transport
+GO:1904778	9	GO:1904377	positive regulation of protein localization to cell periphery
+GO:0035212	6	GO:0045664	regulation of neuron differentiation
+GO:0035215	2	GO:0001655	urogenital system development
+GO:0046401	16	GO:0015074	DNA integration
+GO:0035249	14	GO:0046649	lymphocyte activation
+GO:0035235	8	GO:0007166	cell surface receptor signaling pathway
+GO:0044782	12	GO:0030474	spindle pole body duplication
+GO:0110110	3	GO:2000026	regulation of multicellular organismal development
+GO:0006963	18	GO:0002727	regulation of natural killer cell cytokine production
+GO:0006958	18	GO:0002727	regulation of natural killer cell cytokine production
+GO:0006911	13	GO:0034220	ion transmembrane transport
+GO:0006919	17	GO:1902680	positive regulation of RNA biosynthetic process
+GO:0099515	13	GO:0034220	ion transmembrane transport
+GO:0030317	14	GO:0046649	lymphocyte activation
+GO:1903078	9	GO:1904377	positive regulation of protein localization to cell periphery
+GO:0010092	2	GO:0001655	urogenital system development
+GO:0072012	2	GO:0001655	urogenital system development
+GO:1903034	22	GO:0051241	negative regulation of multicellular organismal process
+GO:1903006	17	GO:1902680	positive regulation of RNA biosynthetic process
+GO:0030474	12	GO:0030474	spindle pole body duplication
+GO:0035844	2	GO:0001655	urogenital system development
+GO:0018108	15	GO:0006468	protein phosphorylation
+GO:0051988	10	GO:0050865	regulation of cell activation
+GO:0016925	15	GO:0006468	protein phosphorylation
+GO:0075732	19	GO:0044826	viral genome integration into host DNA
+GO:0043007	16	GO:0015074	DNA integration
+GO:0051917	22	GO:0051241	negative regulation of multicellular organismal process
+GO:0051918	22	GO:0051241	negative regulation of multicellular organismal process
+GO:0046755	19	GO:0044826	viral genome integration into host DNA
+GO:0030195	22	GO:0051241	negative regulation of multicellular organismal process
+GO:0061387	10	GO:0050865	regulation of cell activation
+GO:0030166	16	GO:0015074	DNA integration
+GO:0030150	13	GO:0034220	ion transmembrane transport
+GO:0046718	19	GO:0044826	viral genome integration into host DNA
+GO:0030157	21	GO:0007613	memory
+GO:0035581	7	GO:0009968	negative regulation of signal transduction
+GO:0044501	19	GO:0044826	viral genome integration into host DNA
+GO:0035589	8	GO:0007166	cell surface receptor signaling pathway
+GO:0032351	22	GO:0051241	negative regulation of multicellular organismal process
+GO:2001238	7	GO:0009968	negative regulation of signal transduction
+GO:0044650	19	GO:0044826	viral genome integration into host DNA
+GO:0007097	13	GO:0034220	ion transmembrane transport
+GO:0046855	16	GO:0015074	DNA integration
+GO:0039020	1	GO:0016331	morphogenesis of embryonic epithelium
+GO:0035668	8	GO:0007166	cell surface receptor signaling pathway
+GO:0035669	7	GO:0009968	negative regulation of signal transduction
+GO:0039019	2	GO:0001655	urogenital system development
+GO:0035655	7	GO:0009968	negative regulation of signal transduction
+GO:0046813	19	GO:0044826	viral genome integration into host DNA
+GO:0046838	16	GO:0015074	DNA integration
+GO:0039007	1	GO:0016331	morphogenesis of embryonic epithelium
+GO:0039008	1	GO:0016331	morphogenesis of embryonic epithelium
+GO:0007043	12	GO:0030474	spindle pole body duplication
+GO:0070121	3	GO:2000026	regulation of multicellular organismal development
+GO:0030204	16	GO:0015074	DNA integration
+GO:0030206	16	GO:0015074	DNA integration
+GO:0045040	13	GO:0034220	ion transmembrane transport
+GO:0061154	1	GO:0016331	morphogenesis of embryonic epithelium
+GO:0010375	3	GO:2000026	regulation of multicellular organismal development
+GO:0032197	11	GO:0008283	cell population proliferation
+GO:0010324	12	GO:0030474	spindle pole body duplication
+GO:0043385	14	GO:0046649	lymphocyte activation
+GO:0043386	16	GO:0015074	DNA integration
+GO:0015718	13	GO:0034220	ion transmembrane transport
+GO:0030727	4	GO:0007281	germ cell development
+GO:0008653	16	GO:0015074	DNA integration
+GO:0052027	14	GO:0046649	lymphocyte activation
+GO:1903475	12	GO:0030474	spindle pole body duplication
+GO:0010496	11	GO:0008283	cell population proliferation
+GO:0010497	11	GO:0008283	cell population proliferation
+GO:0000122	17	GO:1902680	positive regulation of RNA biosynthetic process
+GO:0010457	12	GO:0030474	spindle pole body duplication
+GO:0046626	7	GO:0009968	negative regulation of signal transduction
+GO:0046627	7	GO:0009968	negative regulation of signal transduction
+GO:0070782	13	GO:0034220	ion transmembrane transport
+GO:0048332	1	GO:0016331	morphogenesis of embryonic epithelium
+GO:0048333	5	GO:0048666	neuron development
+GO:0072175	1	GO:0016331	morphogenesis of embryonic epithelium
+GO:0043407	7	GO:0009968	negative regulation of signal transduction
+GO:0072114	2	GO:0001655	urogenital system development
+GO:0007369	1	GO:0016331	morphogenesis of embryonic epithelium
+GO:0007352	3	GO:2000026	regulation of multicellular organismal development
+GO:0010172	1	GO:0016331	morphogenesis of embryonic epithelium
+GO:0030514	7	GO:0009968	negative regulation of signal transduction
+GO:0030516	6	GO:0045664	regulation of neuron differentiation
+GO:0030517	6	GO:0045664	regulation of neuron differentiation
+GO:0043114	22	GO:0051241	negative regulation of multicellular organismal process
+GO:0043116	21	GO:0007613	memory
+GO:0007338	14	GO:0046649	lymphocyte activation
+GO:0007339	14	GO:0046649	lymphocyte activation
+GO:0019062	19	GO:0044826	viral genome integration into host DNA
+GO:0019064	19	GO:0044826	viral genome integration into host DNA
+GO:0019055	9	GO:1904377	positive regulation of protein localization to cell periphery
+GO:0030509	7	GO:0009968	negative regulation of signal transduction
+GO:0007498	1	GO:0016331	morphogenesis of embryonic epithelium
+GO:1905451	7	GO:0009968	negative regulation of signal transduction
+GO:0000722	16	GO:0015074	DNA integration
+GO:0002164	2	GO:0001655	urogenital system development
+GO:0002168	3	GO:2000026	regulation of multicellular organismal development
+GO:0034087	12	GO:0030474	spindle pole body duplication
+GO:0021545	2	GO:0001655	urogenital system development
+GO:0019042	19	GO:0044826	viral genome integration into host DNA
+GO:1900076	7	GO:0009968	negative regulation of signal transduction
+GO:1900077	7	GO:0009968	negative regulation of signal transduction
+GO:0070593	5	GO:0048666	neuron development
+GO:1900010	8	GO:0007166	cell surface receptor signaling pathway
+GO:1900011	7	GO:0009968	negative regulation of signal transduction
+GO:0007483	1	GO:0016331	morphogenesis of embryonic epithelium
+GO:1900016	18	GO:0002727	regulation of natural killer cell cytokine production
+GO:0002119	3	GO:2000026	regulation of multicellular organismal development
+GO:0043280	17	GO:1902680	positive regulation of RNA biosynthetic process
+GO:0048168	10	GO:0050865	regulation of cell activation
+GO:0007411	5	GO:0048666	neuron development
+GO:0007415	5	GO:0048666	neuron development
+GO:0045478	12	GO:0030474	spindle pole body duplication
+GO:0045428	17	GO:1902680	positive regulation of RNA biosynthetic process
+GO:0040024	3	GO:2000026	regulation of multicellular organismal development
+GO:0032816	9	GO:1904377	positive regulation of protein localization to cell periphery
+GO:0040025	2	GO:0001655	urogenital system development
+GO:0048132	4	GO:0007281	germ cell development
+GO:0040029	18	GO:0002727	regulation of natural killer cell cytokine production
+GO:0048134	4	GO:0007281	germ cell development
+GO:0048135	4	GO:0007281	germ cell development
+GO:0021682	3	GO:2000026	regulation of multicellular organismal development
+GO:0040014	22	GO:0051241	negative regulation of multicellular organismal process
+GO:0021675	2	GO:0001655	urogenital system development
+GO:0007191	7	GO:0009968	negative regulation of signal transduction
+GO:0007193	8	GO:0007166	cell surface receptor signaling pathway
+GO:0040032	1	GO:0016331	morphogenesis of embryonic epithelium
+GO:0040037	7	GO:0009968	negative regulation of signal transduction
+GO:1903746	9	GO:1904377	positive regulation of protein localization to cell periphery
+GO:0010760	9	GO:1904377	positive regulation of protein localization to cell periphery
+GO:0010764	9	GO:1904377	positive regulation of protein localization to cell periphery
+GO:0007163	11	GO:0008283	cell population proliferation
+GO:0040001	12	GO:0030474	spindle pole body duplication
+GO:0007167	8	GO:0007166	cell surface receptor signaling pathway
+GO:0007169	8	GO:0007166	cell surface receptor signaling pathway
+GO:0061512	13	GO:0034220	ion transmembrane transport
+GO:0007155	11	GO:0008283	cell population proliferation
+GO:0007156	14	GO:0046649	lymphocyte activation
+GO:0007158	14	GO:0046649	lymphocyte activation
+GO:0002225	18	GO:0002727	regulation of natural killer cell cytokine production
+GO:0031023	12	GO:0030474	spindle pole body duplication
+GO:0007186	8	GO:0007166	cell surface receptor signaling pathway
+GO:0007187	8	GO:0007166	cell surface receptor signaling pathway
+GO:0007188	8	GO:0007166	cell surface receptor signaling pathway
+GO:0048262	3	GO:2000026	regulation of multicellular organismal development
+GO:0048263	3	GO:2000026	regulation of multicellular organismal development
+GO:0002230	18	GO:0002727	regulation of natural killer cell cytokine production
+GO:0048240	4	GO:0007281	germ cell development
+GO:0018996	21	GO:0007613	memory
+GO:0032532	9	GO:1904377	positive regulation of protein localization to cell periphery
+GO:0045138	1	GO:0016331	morphogenesis of embryonic epithelium
+GO:0010862	17	GO:1902680	positive regulation of RNA biosynthetic process
+GO:0002777	16	GO:0015074	DNA integration
+GO:0007282	4	GO:0007281	germ cell development
+GO:0007284	4	GO:0007281	germ cell development
+GO:0050766	10	GO:0050865	regulation of cell activation
+GO:0007213	7	GO:0009968	negative regulation of signal transduction
+GO:0050771	6	GO:0045664	regulation of neuron differentiation
+GO:0007218	8	GO:0007166	cell surface receptor signaling pathway
+GO:0048729	1	GO:0016331	morphogenesis of embryonic epithelium
+GO:1903565	9	GO:1904377	positive regulation of protein localization to cell periphery
+GO:1903567	9	GO:1904377	positive regulation of protein localization to cell periphery
+GO:1903568	9	GO:1904377	positive regulation of protein localization to cell periphery
+GO:0048714	6	GO:0045664	regulation of neuron differentiation
+GO:0034391	9	GO:1904377	positive regulation of protein localization to cell periphery
+GO:0034392	9	GO:1904377	positive regulation of protein localization to cell periphery
+GO:0034393	9	GO:1904377	positive regulation of protein localization to cell periphery
+GO:0007200	8	GO:0007166	cell surface receptor signaling pathway
+GO:0045217	12	GO:0030474	spindle pole body duplication
+GO:0042051	5	GO:0048666	neuron development
+GO:0090092	8	GO:0007166	cell surface receptor signaling pathway
+GO:0010594	9	GO:1904377	positive regulation of protein localization to cell periphery
+GO:0042074	1	GO:0016331	morphogenesis of embryonic epithelium
+GO:0048703	1	GO:0016331	morphogenesis of embryonic epithelium
+GO:1905786	17	GO:1902680	positive regulation of RNA biosynthetic process
+GO:0034377	22	GO:0051241	negative regulation of multicellular organismal process
+GO:0039724	9	GO:1904377	positive regulation of protein localization to cell periphery
+GO:0010573	21	GO:0007613	memory
+GO:0010574	18	GO:0002727	regulation of natural killer cell cytokine production
+GO:0010575	18	GO:0002727	regulation of natural killer cell cytokine production
+GO:0034331	12	GO:0030474	spindle pole body duplication
+GO:0010525	10	GO:0050865	regulation of cell activation
+GO:0010526	10	GO:0050865	regulation of cell activation
+GO:0010528	10	GO:0050865	regulation of cell activation
+GO:0015937	16	GO:0015074	DNA integration
+GO:0002804	18	GO:0002727	regulation of natural killer cell cytokine production
+GO:0002807	18	GO:0002727	regulation of natural killer cell cytokine production
+GO:0045773	6	GO:0045664	regulation of neuron differentiation
+GO:0048841	6	GO:0045664	regulation of neuron differentiation
+GO:0048842	6	GO:0045664	regulation of neuron differentiation
+GO:0021955	5	GO:0048666	neuron development
+GO:0050804	7	GO:0009968	negative regulation of signal transduction
+GO:0048803	1	GO:0016331	morphogenesis of embryonic epithelium
+GO:0048805	1	GO:0016331	morphogenesis of embryonic epithelium
+GO:0048808	1	GO:0016331	morphogenesis of embryonic epithelium
+GO:0009103	16	GO:0015074	DNA integration
+GO:0010656	9	GO:1904377	positive regulation of protein localization to cell periphery
+GO:0048598	2	GO:0001655	urogenital system development
+GO:0043652	13	GO:0034220	ion transmembrane transport
+GO:0010642	7	GO:0009968	negative regulation of signal transduction
+GO:0043622	12	GO:0030474	spindle pole body duplication
+GO:0045880	7	GO:0009968	negative regulation of signal transduction
+GO:0034196	13	GO:0034220	ion transmembrane transport
+GO:0034197	13	GO:0034220	ion transmembrane transport
+GO:0009244	16	GO:0015074	DNA integration
+GO:0002691	9	GO:1904377	positive regulation of protein localization to cell periphery
+GO:0007597	16	GO:0015074	DNA integration
+GO:0039573	9	GO:1904377	positive regulation of protein localization to cell periphery
+GO:0039540	9	GO:1904377	positive regulation of protein localization to cell periphery
+GO:1905515	12	GO:0030474	spindle pole body duplication
+GO:0034145	7	GO:0009968	negative regulation of signal transduction
+GO:1900115	8	GO:0007166	cell surface receptor signaling pathway
+GO:0098743	11	GO:0008283	cell population proliferation
+GO:1900116	7	GO:0009968	negative regulation of signal transduction
+GO:0098730	4	GO:0007281	germ cell development
+GO:0050650	16	GO:0015074	DNA integration
+GO:0050654	15	GO:0006468	protein phosphorylation
+GO:0048662	10	GO:0050865	regulation of cell activation
+GO:0002638	18	GO:0002727	regulation of natural killer cell cytokine production
+GO:0039502	7	GO:0009968	negative regulation of signal transduction
+GO:0039693	19	GO:0044826	viral genome integration into host DNA
+GO:0032928	9	GO:1904377	positive regulation of protein localization to cell periphery
+GO:0042362	16	GO:0015074	DNA integration
+GO:0042368	16	GO:0015074	DNA integration
+GO:0039663	19	GO:0044826	viral genome integration into host DNA
+GO:0042359	16	GO:0015074	DNA integration
+GO:0039656	19	GO:0044826	viral genome integration into host DNA
+GO:0039673	19	GO:0044826	viral genome integration into host DNA
+GO:0042310	21	GO:0007613	memory
+GO:0036462	8	GO:0007166	cell surface receptor signaling pathway
+GO:2000379	10	GO:0050865	regulation of cell activation
+GO:0039644	17	GO:1902680	positive regulation of RNA biosynthetic process
+GO:0039645	9	GO:1904377	positive regulation of protein localization to cell periphery
+GO:2000310	7	GO:0009968	negative regulation of signal transduction
+GO:0097090	12	GO:0030474	spindle pole body duplication
+GO:1902459	22	GO:0051241	negative regulation of multicellular organismal process
+GO:0007629	21	GO:0007613	memory
+GO:0042307	13	GO:0034220	ion transmembrane transport
+GO:0042490	5	GO:0048666	neuron development
+GO:0031103	5	GO:0048666	neuron development
+GO:0031106	12	GO:0030474	spindle pole body duplication
+GO:0045672	6	GO:0045664	regulation of neuron differentiation
+GO:0090305	16	GO:0015074	DNA integration
+GO:0080164	17	GO:1902680	positive regulation of RNA biosynthetic process
+GO:2000492	7	GO:0009968	negative regulation of signal transduction
+GO:0007606	21	GO:0007613	memory
+GO:2000494	7	GO:0009968	negative regulation of signal transduction
+GO:0007608	21	GO:0007613	memory
+GO:0022010	5	GO:0048666	neuron development
+GO:0043954	12	GO:0030474	spindle pole body duplication
+GO:0043922	19	GO:0044826	viral genome integration into host DNA
+GO:0043923	19	GO:0044826	viral genome integration into host DNA
+GO:0006357	17	GO:1902680	positive regulation of RNA biosynthetic process
+GO:0098664	7	GO:0009968	negative regulation of signal transduction
+GO:0098670	19	GO:0044826	viral genome integration into host DNA
+GO:0098671	19	GO:0044826	viral genome integration into host DNA
+GO:0050996	17	GO:1902680	positive regulation of RNA biosynthetic process
+GO:0042119	14	GO:0046649	lymphocyte activation
+GO:0009690	16	GO:0015074	DNA integration
+GO:0009691	16	GO:0015074	DNA integration
+GO:0002949	16	GO:0015074	DNA integration
+GO:0050911	21	GO:0007613	memory
+GO:0050912	21	GO:0007613	memory
+GO:0050914	21	GO:0007613	memory
+GO:0060369	7	GO:0009968	negative regulation of signal transduction
+GO:0090100	7	GO:0009968	negative regulation of signal transduction
+GO:0033028	14	GO:0046649	lymphocyte activation
+GO:0099054	5	GO:0048666	neuron development
+GO:0033032	9	GO:1904377	positive regulation of protein localization to cell periphery
+GO:0033033	9	GO:1904377	positive regulation of protein localization to cell periphery
+GO:0050907	21	GO:0007613	memory
+GO:0050909	21	GO:0007613	memory
+GO:0060317	2	GO:0001655	urogenital system development
+GO:0099024	12	GO:0030474	spindle pole body duplication
+GO:0060333	7	GO:0009968	negative regulation of signal transduction
+GO:0099018	19	GO:0044826	viral genome integration into host DNA
+GO:0090251	1	GO:0016331	morphogenesis of embryonic epithelium
+GO:2000272	7	GO:0009968	negative regulation of signal transduction
+GO:0090288	7	GO:0009968	negative regulation of signal transduction
+GO:1905941	3	GO:2000026	regulation of multicellular organismal development
+GO:0045998	17	GO:1902680	positive regulation of RNA biosynthetic process
+GO:0016339	14	GO:0046649	lymphocyte activation
+GO:0019695	16	GO:0015074	DNA integration
+GO:0090200	10	GO:0050865	regulation of cell activation
+GO:0051300	12	GO:0030474	spindle pole body duplication
+GO:0045916	18	GO:0002727	regulation of natural killer cell cytokine production
+GO:0051460	9	GO:1904377	positive regulation of protein localization to cell periphery
+GO:0042730	22	GO:0051241	negative regulation of multicellular organismal process
+GO:0051482	7	GO:0009968	negative regulation of signal transduction
+GO:1902850	12	GO:0030474	spindle pole body duplication
+GO:0071880	8	GO:0007166	cell surface receptor signaling pathway
+GO:0044071	10	GO:0050865	regulation of cell activation
+GO:0001759	3	GO:2000026	regulation of multicellular organismal development
+GO:0031509	17	GO:1902680	positive regulation of RNA biosynthetic process
+GO:0060153	9	GO:1904377	positive regulation of protein localization to cell periphery
+GO:0044000	19	GO:0044826	viral genome integration into host DNA
+GO:0001710	1	GO:0016331	morphogenesis of embryonic epithelium
+GO:0035073	3	GO:2000026	regulation of multicellular organismal development
+GO:0006278	16	GO:0015074	DNA integration
+GO:0035036	14	GO:0046649	lymphocyte activation
+GO:0001702	1	GO:0016331	morphogenesis of embryonic epithelium
+GO:0001707	1	GO:0016331	morphogenesis of embryonic epithelium
+GO:0003012	21	GO:0007613	memory
+GO:0003018	21	GO:0007613	memory
+GO:0035002	3	GO:2000026	regulation of multicellular organismal development
+GO:0035007	18	GO:0002727	regulation of natural killer cell cytokine production
+GO:0035008	18	GO:0002727	regulation of natural killer cell cytokine production
+GO:0031643	6	GO:0045664	regulation of neuron differentiation
+GO:0031645	22	GO:0051241	negative regulation of multicellular organismal process
+GO:0031648	22	GO:0051241	negative regulation of multicellular organismal process
+GO:0009950	3	GO:2000026	regulation of multicellular organismal development
+GO:0097164	16	GO:0015074	DNA integration
+GO:0031639	16	GO:0015074	DNA integration
+GO:0097155	5	GO:0048666	neuron development
+GO:0071545	16	GO:0015074	DNA integration
+GO:0060263	22	GO:0051241	negative regulation of multicellular organismal process
+GO:0060267	22	GO:0051241	negative regulation of multicellular organismal process
+GO:0060268	22	GO:0051241	negative regulation of multicellular organismal process
+GO:0071539	13	GO:0034220	ion transmembrane transport
+GO:0060259	22	GO:0051241	negative regulation of multicellular organismal process
+GO:0060271	12	GO:0030474	spindle pole body duplication
+GO:0090598	2	GO:0001655	urogenital system development
+GO:0051293	12	GO:0030474	spindle pole body duplication
+GO:0001844	13	GO:0034220	ion transmembrane transport
+GO:0051298	12	GO:0030474	spindle pole body duplication
+GO:0071696	3	GO:2000026	regulation of multicellular organismal development
+GO:0071697	1	GO:0016331	morphogenesis of embryonic epithelium
+GO:0097105	12	GO:0030474	spindle pole body duplication
+GO:1902667	6	GO:0045664	regulation of neuron differentiation
+GO:0110077	11	GO:0008283	cell population proliferation
+GO:0097264	15	GO:0006468	protein phosphorylation
+GO:0008045	5	GO:0048666	neuron development
+GO:0008037	11	GO:0008283	cell population proliferation
+GO:0008039	5	GO:0048666	neuron development
+GO:0016201	5	GO:0048666	neuron development
+GO:0060788	1	GO:0016331	morphogenesis of embryonic epithelium
+GO:1904377	9	GO:1904377	positive regulation of protein localization to cell periphery
+GO:0090675	12	GO:0030474	spindle pole body duplication
+GO:0051715	14	GO:0046649	lymphocyte activation
+GO:1904491	13	GO:0034220	ion transmembrane transport
+GO:0001655	2	GO:0001655	urogenital system development
+GO:0044331	14	GO:0046649	lymphocyte activation
+GO:0001675	4	GO:0007281	germ cell development
+GO:0051709	10	GO:0050865	regulation of cell activation
+GO:0006581	16	GO:0015074	DNA integration
+GO:2001056	17	GO:1902680	positive regulation of RNA biosynthetic process
+GO:0099177	8	GO:0007166	cell surface receptor signaling pathway
+GO:2001023	22	GO:0051241	negative regulation of multicellular organismal process
+GO:0035335	15	GO:0006468	protein phosphorylation
+GO:0060562	1	GO:0016331	morphogenesis of embryonic epithelium
+GO:0060556	17	GO:1902680	positive regulation of RNA biosynthetic process
+GO:0015074	16	GO:0015074	DNA integration
+GO:0044406	19	GO:0044826	viral genome integration into host DNA
+GO:0044409	19	GO:0044826	viral genome integration into host DNA
+GO:0060526	1	GO:0016331	morphogenesis of embryonic epithelium
+GO:0060527	1	GO:0016331	morphogenesis of embryonic epithelium
+GO:1990403	2	GO:0001655	urogenital system development
+GO:0015014	16	GO:0015074	DNA integration
+GO:0015015	16	GO:0015074	DNA integration
+GO:0030010	11	GO:0008283	cell population proliferation
+GO:0060536	2	GO:0001655	urogenital system development
+GO:0060042	2	GO:0001655	urogenital system development
+GO:1904580	10	GO:0050865	regulation of cell activation
+GO:2001034	17	GO:1902680	positive regulation of RNA biosynthetic process
+GO:1902018	12	GO:0030474	spindle pole body duplication
+GO:1902019	9	GO:1904377	positive regulation of protein localization to cell periphery
+GO:0043010	2	GO:0001655	urogenital system development
+GO:1902003	17	GO:1902680	positive regulation of RNA biosynthetic process
+GO:0120036	12	GO:0030474	spindle pole body duplication
+GO:0048701	1	GO:0016331	morphogenesis of embryonic epithelium
+GO:0010984	22	GO:0051241	negative regulation of multicellular organismal process
+GO:0043009	3	GO:2000026	regulation of multicellular organismal development
+GO:0010977	6	GO:0045664	regulation of neuron differentiation
+GO:0010923	9	GO:1904377	positive regulation of protein localization to cell periphery
+GO:0010927	5	GO:0048666	neuron development
+GO:0007398	1	GO:0016331	morphogenesis of embryonic epithelium
+GO:0030951	12	GO:0030474	spindle pole body duplication
+GO:0048854	2	GO:0001655	urogenital system development
+GO:0007350	3	GO:2000026	regulation of multicellular organismal development
+GO:0035151	3	GO:2000026	regulation of multicellular organismal development
+GO:0035172	11	GO:0008283	cell population proliferation
+GO:0007379	3	GO:2000026	regulation of multicellular organismal development
+GO:0035122	1	GO:0016331	morphogenesis of embryonic epithelium
+GO:0072132	2	GO:0001655	urogenital system development
+GO:0021952	5	GO:0048666	neuron development
+GO:0021953	5	GO:0048666	neuron development
+GO:0021954	5	GO:0048666	neuron development
+GO:0035113	1	GO:0016331	morphogenesis of embryonic epithelium
+GO:0007317	4	GO:0007281	germ cell development
+GO:0048844	1	GO:0016331	morphogenesis of embryonic epithelium
+GO:0048846	5	GO:0048666	neuron development
+GO:0035141	1	GO:0016331	morphogenesis of embryonic epithelium
+GO:0007342	4	GO:0007281	germ cell development
+GO:0048806	2	GO:0001655	urogenital system development
+GO:0019800	15	GO:0006468	protein phosphorylation
+GO:0044278	19	GO:0044826	viral genome integration into host DNA
+GO:0031345	10	GO:0050865	regulation of cell activation
+GO:0048566	2	GO:0001655	urogenital system development
+GO:0035264	3	GO:2000026	regulation of multicellular organismal development
+GO:0048557	1	GO:0016331	morphogenesis of embryonic epithelium
+GO:0035282	3	GO:2000026	regulation of multicellular organismal development
+GO:0001952	10	GO:0050865	regulation of cell activation
+GO:0001954	9	GO:1904377	positive regulation of protein localization to cell periphery
+GO:0048546	2	GO:0001655	urogenital system development
+GO:0044790	19	GO:0044826	viral genome integration into host DNA
+GO:0044793	19	GO:0044826	viral genome integration into host DNA
+GO:0050975	21	GO:0007613	memory
+GO:0060395	8	GO:0007166	cell surface receptor signaling pathway
+GO:0032814	9	GO:1904377	positive regulation of protein localization to cell periphery
+GO:0001945	2	GO:0001655	urogenital system development
+GO:0001946	2	GO:0001655	urogenital system development
+GO:0001938	9	GO:1904377	positive regulation of protein localization to cell periphery
+GO:0046008	22	GO:0051241	negative regulation of multicellular organismal process
+GO:0060378	22	GO:0051241	negative regulation of multicellular organismal process
+GO:0008543	7	GO:0009968	negative regulation of signal transduction
+GO:0048666	5	GO:0048666	neuron development
+GO:0007160	14	GO:0046649	lymphocyte activation
+GO:0007164	1	GO:0016331	morphogenesis of embryonic epithelium
+GO:0007166	8	GO:0007166	cell surface receptor signaling pathway
+GO:0007168	8	GO:0007166	cell surface receptor signaling pathway
+GO:0038061	8	GO:0007166	cell surface receptor signaling pathway
+GO:0007157	14	GO:0046649	lymphocyte activation
+GO:0051382	12	GO:0030474	spindle pole body duplication
+GO:0007189	8	GO:0007166	cell surface receptor signaling pathway
+GO:0038083	15	GO:0006468	protein phosphorylation
+GO:0099563	12	GO:0030474	spindle pole body duplication
+GO:0035725	13	GO:0034220	ion transmembrane transport
+GO:0099565	7	GO:0009968	negative regulation of signal transduction
+GO:0048644	2	GO:0001655	urogenital system development
+GO:0003356	9	GO:1904377	positive regulation of protein localization to cell periphery
+GO:1903846	7	GO:0009968	negative regulation of signal transduction
+GO:0031128	3	GO:2000026	regulation of multicellular organismal development
+GO:0007281	4	GO:0007281	germ cell development
+GO:1990074	17	GO:1902680	positive regulation of RNA biosynthetic process
+GO:0035886	5	GO:0048666	neuron development
+GO:0007272	5	GO:0048666	neuron development
+GO:0044805	14	GO:0046649	lymphocyte activation
+GO:0031102	5	GO:0048666	neuron development
+GO:1903596	12	GO:0030474	spindle pole body duplication
+GO:1903598	9	GO:1904377	positive regulation of protein localization to cell periphery
+GO:0043410	7	GO:0009968	negative regulation of signal transduction
+GO:0051444	17	GO:1902680	positive regulation of RNA biosynthetic process
+GO:0042078	4	GO:0007281	germ cell development
+GO:0060173	3	GO:2000026	regulation of multicellular organismal development
+GO:1901046	22	GO:0051241	negative regulation of multicellular organismal process
+GO:0072553	12	GO:0030474	spindle pole body duplication
+GO:0120192	12	GO:0030474	spindle pole body duplication
+GO:0000226	12	GO:0030474	spindle pole body duplication
+GO:0002062	5	GO:0048666	neuron development
+GO:0002063	5	GO:0048666	neuron development
+GO:0035556	8	GO:0007166	cell surface receptor signaling pathway
+GO:1903508	17	GO:1902680	positive regulation of RNA biosynthetic process
+GO:1902173	9	GO:1904377	positive regulation of protein localization to cell periphery
+GO:0120169	21	GO:0007613	memory
+GO:0002088	2	GO:0001655	urogenital system development
+GO:1902116	12	GO:0030474	spindle pole body duplication
+GO:0043123	7	GO:0009968	negative regulation of signal transduction
+GO:0060295	9	GO:1904377	positive regulation of protein localization to cell periphery
+GO:0051146	5	GO:0048666	neuron development
+GO:0060296	9	GO:1904377	positive regulation of protein localization to cell periphery
+GO:0051148	6	GO:0045664	regulation of neuron differentiation
+GO:0003197	2	GO:0001655	urogenital system development
+GO:0006355	17	GO:1902680	positive regulation of RNA biosynthetic process
+GO:0060260	17	GO:1902680	positive regulation of RNA biosynthetic process
+GO:0060252	6	GO:0045664	regulation of neuron differentiation
+GO:0072697	13	GO:0034220	ion transmembrane transport
+GO:0014015	6	GO:0045664	regulation of neuron differentiation
+GO:0014041	6	GO:0045664	regulation of neuron differentiation
+GO:0014042	6	GO:0045664	regulation of neuron differentiation
+GO:0034080	12	GO:0030474	spindle pole body duplication
+GO:0043297	12	GO:0030474	spindle pole body duplication
+GO:0072672	14	GO:0046649	lymphocyte activation
+GO:1902284	5	GO:0048666	neuron development
+GO:0120255	16	GO:0015074	DNA integration
+GO:0051216	2	GO:0001655	urogenital system development
+GO:0035640	21	GO:0007613	memory
+GO:0051241	22	GO:0051241	negative regulation of multicellular organismal process
+GO:0051231	12	GO:0030474	spindle pole body duplication
+GO:0035633	21	GO:0007613	memory
+GO:0095500	7	GO:0009968	negative regulation of signal transduction
+GO:0006470	15	GO:0006468	protein phosphorylation
+GO:0003281	2	GO:0001655	urogenital system development
+GO:0003272	1	GO:0016331	morphogenesis of embryonic epithelium
+GO:0003279	2	GO:0001655	urogenital system development
+GO:0003231	2	GO:0001655	urogenital system development
+GO:0051781	10	GO:0050865	regulation of cell activation
+GO:0051782	10	GO:0050865	regulation of cell activation
+GO:0003203	1	GO:0016331	morphogenesis of embryonic epithelium
+GO:0003205	2	GO:0001655	urogenital system development
+GO:0007526	2	GO:0001655	urogenital system development
+GO:0042391	22	GO:0051241	negative regulation of multicellular organismal process
+GO:0007517	2	GO:0001655	urogenital system development
+GO:0032941	21	GO:0007613	memory
+GO:0017015	7	GO:0009968	negative regulation of signal transduction
+GO:0051702	19	GO:0044826	viral genome integration into host DNA
+GO:0060856	5	GO:0048666	neuron development
+GO:0060857	5	GO:0048666	neuron development
+GO:0031589	11	GO:0008283	cell population proliferation
+GO:1901346	3	GO:2000026	regulation of multicellular organismal development
+GO:0038166	7	GO:0009968	negative regulation of signal transduction
+GO:0042304	17	GO:1902680	positive regulation of RNA biosynthetic process
+GO:0018105	15	GO:0006468	protein phosphorylation
+GO:1905207	6	GO:0045664	regulation of neuron differentiation
+GO:0034390	14	GO:0046649	lymphocyte activation
+GO:0071875	8	GO:0007166	cell surface receptor signaling pathway
+GO:0042461	5	GO:0048666	neuron development
+GO:0042462	5	GO:0048666	neuron development
+GO:0031664	7	GO:0009968	negative regulation of signal transduction
+GO:0007602	8	GO:0007166	cell surface receptor signaling pathway
+GO:0007605	21	GO:0007613	memory
+GO:1903977	6	GO:0045664	regulation of neuron differentiation
+GO:0030030	12	GO:0030474	spindle pole body duplication
+GO:0042476	2	GO:0001655	urogenital system development
+GO:0034383	22	GO:0051241	negative regulation of multicellular organismal process
+GO:0090090	7	GO:0009968	negative regulation of signal transduction
+GO:1905787	22	GO:0051241	negative regulation of multicellular organismal process
+GO:1905789	22	GO:0051241	negative regulation of multicellular organismal process
+GO:0060537	1	GO:0016331	morphogenesis of embryonic epithelium
+GO:0060538	2	GO:0001655	urogenital system development
+GO:0097009	22	GO:0051241	negative regulation of multicellular organismal process
+GO:1903901	19	GO:0044826	viral genome integration into host DNA
+GO:0034333	12	GO:0030474	spindle pole body duplication
+GO:0046777	15	GO:0006468	protein phosphorylation
+GO:0046716	11	GO:0008283	cell population proliferation
+GO:0018209	15	GO:0006468	protein phosphorylation
+GO:2000027	2	GO:0001655	urogenital system development
+GO:2000042	17	GO:1902680	positive regulation of RNA biosynthetic process
+GO:0070098	7	GO:0009968	negative regulation of signal transduction
+GO:1990266	14	GO:0046649	lymphocyte activation
+GO:1902680	17	GO:1902680	positive regulation of RNA biosynthetic process
+GO:0045467	5	GO:0048666	neuron development
+GO:0045450	4	GO:0007281	germ cell development
+GO:0061053	1	GO:0016331	morphogenesis of embryonic epithelium
+GO:1901224	7	GO:0009968	negative regulation of signal transduction
+GO:0071630	16	GO:0015074	DNA integration
+GO:0046596	19	GO:0044826	viral genome integration into host DNA
+GO:0046597	19	GO:0044826	viral genome integration into host DNA
+GO:0061041	22	GO:0051241	negative regulation of multicellular organismal process
+GO:0045444	5	GO:0048666	neuron development
+GO:0045446	5	GO:0048666	neuron development
+GO:0006816	13	GO:0034220	ion transmembrane transport
+GO:1905521	9	GO:1904377	positive regulation of protein localization to cell periphery
+GO:1905522	9	GO:1904377	positive regulation of protein localization to cell periphery
+GO:1905517	14	GO:0046649	lymphocyte activation
+GO:1905508	13	GO:0034220	ion transmembrane transport
+GO:0034260	22	GO:0051241	negative regulation of multicellular organismal process
+GO:1904036	9	GO:1904377	positive regulation of protein localization to cell periphery
+GO:0034220	13	GO:0034220	ion transmembrane transport
+GO:0046662	22	GO:0051241	negative regulation of multicellular organismal process
+GO:0098868	3	GO:2000026	regulation of multicellular organismal development
+GO:0042733	1	GO:0016331	morphogenesis of embryonic epithelium
+GO:0002760	18	GO:0002727	regulation of natural killer cell cytokine production
+GO:1904000	22	GO:0051241	negative regulation of multicellular organismal process
+GO:0002762	6	GO:0045664	regulation of neuron differentiation
+GO:1990874	14	GO:0046649	lymphocyte activation
+GO:0002780	18	GO:0002727	regulation of natural killer cell cytokine production
+GO:0002786	18	GO:0002727	regulation of natural killer cell cytokine production
+GO:0046619	1	GO:0016331	morphogenesis of embryonic epithelium
+GO:0030466	17	GO:1902680	positive regulation of RNA biosynthetic process
+GO:0002778	18	GO:0002727	regulation of natural killer cell cytokine production
+GO:0002727	18	GO:0002727	regulation of natural killer cell cytokine production
+GO:2000369	9	GO:1904377	positive regulation of protein localization to cell periphery
+GO:0002716	18	GO:0002727	regulation of natural killer cell cytokine production
+GO:0002717	18	GO:0002727	regulation of natural killer cell cytokine production
+GO:0009880	3	GO:2000026	regulation of multicellular organismal development
+GO:2000370	9	GO:1904377	positive regulation of protein localization to cell periphery
+GO:1902991	17	GO:1902680	positive regulation of RNA biosynthetic process
+GO:0090303	22	GO:0051241	negative regulation of multicellular organismal process
+GO:0090307	12	GO:0030474	spindle pole body duplication
+GO:1902966	9	GO:1904377	positive regulation of protein localization to cell periphery
+GO:0090497	14	GO:0046649	lymphocyte activation
+GO:0097400	7	GO:0009968	negative regulation of signal transduction
+GO:0051984	10	GO:0050865	regulation of cell activation
+GO:0014894	22	GO:0051241	negative regulation of multicellular organismal process
+GO:0030155	10	GO:0050865	regulation of cell activation
+GO:0051931	21	GO:0007613	memory
+GO:0030178	7	GO:0009968	negative regulation of signal transduction
+GO:0033333	3	GO:2000026	regulation of multicellular organismal development
+GO:0070306	5	GO:0048666	neuron development
+GO:0033338	3	GO:2000026	regulation of multicellular organismal development
+GO:0014829	21	GO:0007613	memory
+GO:0043903	10	GO:0050865	regulation of cell activation
+GO:0002803	18	GO:0002727	regulation of natural killer cell cytokine production
+GO:0002805	18	GO:0002727	regulation of natural killer cell cytokine production
+GO:0019080	19	GO:0044826	viral genome integration into host DNA
+GO:0002808	18	GO:0002727	regulation of natural killer cell cytokine production
+GO:0019083	19	GO:0044826	viral genome integration into host DNA
+GO:0045742	7	GO:0009968	negative regulation of signal transduction
+GO:0045738	17	GO:1902680	positive regulation of RNA biosynthetic process
+GO:0019045	19	GO:0044826	viral genome integration into host DNA
+GO:0019046	19	GO:0044826	viral genome integration into host DNA
+GO:0061303	2	GO:0001655	urogenital system development
+GO:0008063	8	GO:0007166	cell surface receptor signaling pathway
+GO:0045893	17	GO:1902680	positive regulation of RNA biosynthetic process
+GO:0090175	1	GO:0016331	morphogenesis of embryonic epithelium
+GO:0042692	5	GO:0048666	neuron development
+GO:0042661	6	GO:0045664	regulation of neuron differentiation
+GO:0022612	2	GO:0001655	urogenital system development
+GO:0042659	6	GO:0045664	regulation of neuron differentiation
+GO:0030243	16	GO:0015074	DNA integration
+GO:0090101	7	GO:0009968	negative regulation of signal transduction
+GO:0002699	18	GO:0002727	regulation of natural killer cell cytokine production
+GO:0010761	14	GO:0046649	lymphocyte activation
+GO:0016322	5	GO:0048666	neuron development
+GO:0010762	9	GO:1904377	positive regulation of protein localization to cell periphery
+GO:0016325	4	GO:0007281	germ cell development
+GO:0010758	9	GO:1904377	positive regulation of protein localization to cell periphery
+GO:0010770	6	GO:0045664	regulation of neuron differentiation
+GO:0016331	1	GO:0016331	morphogenesis of embryonic epithelium
+GO:0045596	6	GO:0045664	regulation of neuron differentiation
+GO:0002689	9	GO:1904377	positive regulation of protein localization to cell periphery
+GO:0010717	6	GO:0045664	regulation of neuron differentiation
+GO:0036331	2	GO:0001655	urogenital system development
+GO:0006956	18	GO:0002727	regulation of natural killer cell cytokine production
+GO:0006957	18	GO:0002727	regulation of natural killer cell cytokine production
+GO:0018991	21	GO:0007613	memory
+GO:0036303	2	GO:0001655	urogenital system development
+GO:0097746	21	GO:0007613	memory
+GO:0021782	5	GO:0048666	neuron development
+GO:1903053	10	GO:0050865	regulation of cell activation
+GO:1903055	10	GO:0050865	regulation of cell activation
+GO:1904407	17	GO:1902680	positive regulation of RNA biosynthetic process
+GO:0072091	10	GO:0050865	regulation of cell activation
+GO:0061298	2	GO:0001655	urogenital system development
+GO:0010810	10	GO:0050865	regulation of cell activation
+GO:0010811	10	GO:0050865	regulation of cell activation
+GO:0030850	2	GO:0001655	urogenital system development
+GO:0030856	6	GO:0045664	regulation of neuron differentiation
+GO:1903036	22	GO:0051241	negative regulation of multicellular organismal process
+GO:0045664	6	GO:0045664	regulation of neuron differentiation
+GO:0045665	6	GO:0045664	regulation of neuron differentiation
+GO:0045666	6	GO:0045664	regulation of neuron differentiation
+GO:0045667	6	GO:0045664	regulation of neuron differentiation
+GO:0045668	6	GO:0045664	regulation of neuron differentiation
+GO:2000780	17	GO:1902680	positive regulation of RNA biosynthetic process
+GO:0010838	9	GO:1904377	positive regulation of protein localization to cell periphery
+GO:0050795	10	GO:0050865	regulation of cell activation
+GO:0045687	6	GO:0045664	regulation of neuron differentiation
+GO:0001764	5	GO:0048666	neuron development
+GO:0090735	12	GO:0030474	spindle pole body duplication
+GO:0045671	6	GO:0045664	regulation of neuron differentiation
+GO:0001755	5	GO:0048666	neuron development
+GO:0001756	1	GO:0016331	morphogenesis of embryonic epithelium
+GO:0045617	6	GO:0045664	regulation of neuron differentiation
+GO:0019373	16	GO:0015074	DNA integration
+GO:0010595	9	GO:1904377	positive regulation of protein localization to cell periphery
+GO:0010596	9	GO:1904377	positive regulation of protein localization to cell periphery
+GO:0001736	1	GO:0016331	morphogenesis of embryonic epithelium
+GO:0001738	1	GO:0016331	morphogenesis of embryonic epithelium
+GO:0045601	6	GO:0045664	regulation of neuron differentiation
+GO:0008366	3	GO:2000026	regulation of multicellular organismal development
+GO:0009952	3	GO:2000026	regulation of multicellular organismal development
+GO:0009953	3	GO:2000026	regulation of multicellular organismal development
+GO:0009954	3	GO:2000026	regulation of multicellular organismal development
+GO:0030510	7	GO:0009968	negative regulation of signal transduction
+GO:0030511	7	GO:0009968	negative regulation of signal transduction
+GO:0030512	7	GO:0009968	negative regulation of signal transduction
+GO:0010508	9	GO:1904377	positive regulation of protein localization to cell periphery
+GO:0097529	14	GO:0046649	lymphocyte activation
+GO:0001886	5	GO:0048666	neuron development
+GO:0050877	21	GO:0007613	memory
+GO:0010660	9	GO:1904377	positive regulation of protein localization to cell periphery
+GO:0001838	1	GO:0016331	morphogenesis of embryonic epithelium
+GO:0061709	12	GO:0030474	spindle pole body duplication
+GO:0010657	14	GO:0046649	lymphocyte activation
+GO:0016239	9	GO:1904377	positive regulation of protein localization to cell periphery
+GO:1904799	6	GO:0045664	regulation of neuron differentiation
+GO:0002922	18	GO:0002727	regulation of natural killer cell cytokine production
+GO:0070830	12	GO:0030474	spindle pole body duplication
+GO:0007052	12	GO:0030474	spindle pole body duplication
+GO:1904776	9	GO:1904377	positive regulation of protein localization to cell periphery
+GO:0008407	2	GO:0001655	urogenital system development
+GO:0007010	12	GO:0030474	spindle pole body duplication
+GO:0007017	11	GO:0008283	cell population proliferation
+GO:0040011	11	GO:0008283	cell population proliferation
+GO:0040012	10	GO:0050865	regulation of cell activation
+GO:0040015	22	GO:0051241	negative regulation of multicellular organismal process
+GO:0040018	22	GO:0051241	negative regulation of multicellular organismal process
+GO:0040034	6	GO:0045664	regulation of neuron differentiation
+GO:1904705	10	GO:0050865	regulation of cell activation
+GO:0040036	7	GO:0009968	negative regulation of signal transduction
+GO:1904707	9	GO:1904377	positive regulation of protein localization to cell periphery
+GO:0031055	12	GO:0030474	spindle pole body duplication
+GO:1900182	9	GO:1904377	positive regulation of protein localization to cell periphery
+GO:0052372	22	GO:0051241	negative regulation of multicellular organismal process
+GO:0000070	12	GO:0030474	spindle pole body duplication
+GO:0033522	15	GO:0006468	protein phosphorylation
+GO:0033523	15	GO:0006468	protein phosphorylation
+GO:0061564	5	GO:0048666	neuron development
+GO:0045950	17	GO:1902680	positive regulation of RNA biosynthetic process
+GO:0000022	12	GO:0030474	spindle pole body duplication
+GO:0045989	22	GO:0051241	negative regulation of multicellular organismal process
+GO:0045910	17	GO:1902680	positive regulation of RNA biosynthetic process
+GO:2000646	17	GO:1902680	positive regulation of RNA biosynthetic process
+GO:0019221	8	GO:0007166	cell surface receptor signaling pathway
+GO:0035332	7	GO:0009968	negative regulation of signal transduction
+GO:0001649	5	GO:0048666	neuron development
+GO:1904801	6	GO:0045664	regulation of neuron differentiation
+GO:0060059	1	GO:0016331	morphogenesis of embryonic epithelium
+GO:0008284	10	GO:0050865	regulation of cell activation
+GO:0008285	10	GO:0050865	regulation of cell activation
+GO:0060071	6	GO:0045664	regulation of neuron differentiation
+GO:0060078	22	GO:0051241	negative regulation of multicellular organismal process
+GO:0060079	7	GO:0009968	negative regulation of signal transduction
+GO:0051092	17	GO:1902680	positive regulation of RNA biosynthetic process
+GO:0060027	1	GO:0016331	morphogenesis of embryonic epithelium
+GO:0008217	22	GO:0051241	negative regulation of multicellular organismal process
+GO:0033627	11	GO:0008283	cell population proliferation
+GO:0048713	6	GO:0045664	regulation of neuron differentiation
+GO:0061647	15	GO:0006468	protein phosphorylation
+GO:0051017	12	GO:0030474	spindle pole body duplication
+GO:0019722	8	GO:0007166	cell surface receptor signaling pathway
+GO:0043046	16	GO:0015074	DNA integration
+GO:0010951	17	GO:1902680	positive regulation of RNA biosynthetic process
+GO:0010970	13	GO:0034220	ion transmembrane transport
+GO:0030950	12	GO:0030474	spindle pole body duplication
+GO:0030989	13	GO:0034220	ion transmembrane transport
+GO:0010934	18	GO:0002727	regulation of natural killer cell cytokine production
+GO:0010935	18	GO:0002727	regulation of natural killer cell cytokine production
+GO:0007368	3	GO:2000026	regulation of multicellular organismal development
+GO:0039700	13	GO:0034220	ion transmembrane transport
+GO:0032760	18	GO:0002727	regulation of natural killer cell cytokine production
+GO:0003007	2	GO:0001655	urogenital system development
+GO:0003009	21	GO:0007613	memory
+GO:0007316	4	GO:0007281	germ cell development
+GO:0031397	17	GO:1902680	positive regulation of RNA biosynthetic process
+GO:0048839	2	GO:0001655	urogenital system development
+GO:0032743	18	GO:0002727	regulation of natural killer cell cytokine production
+GO:0021915	2	GO:0001655	urogenital system development
+GO:1904600	12	GO:0030474	spindle pole body duplication
+GO:0007304	4	GO:0007281	germ cell development
+GO:0035296	22	GO:0051241	negative regulation of multicellular organismal process
+GO:0007484	1	GO:0016331	morphogenesis of embryonic epithelium
+GO:0007485	1	GO:0016331	morphogenesis of embryonic epithelium
+GO:0048570	1	GO:0016331	morphogenesis of embryonic epithelium
+GO:0007420	2	GO:0001655	urogenital system development
+GO:0050951	21	GO:0007613	memory
+GO:0050954	21	GO:0007613	memory
+GO:0048512	21	GO:0007613	memory
+GO:0048514	2	GO:0001655	urogenital system development
+GO:0007413	5	GO:0048666	neuron development
+GO:0032873	7	GO:0009968	negative regulation of signal transduction
+GO:0007417	2	GO:0001655	urogenital system development
+GO:0007442	1	GO:0016331	morphogenesis of embryonic epithelium
+GO:0050974	21	GO:0007613	memory
+GO:0048535	2	GO:0001655	urogenital system development
+GO:0050910	21	GO:0007613	memory
+GO:0001935	14	GO:0046649	lymphocyte activation
+GO:0032836	3	GO:2000026	regulation of multicellular organismal development
+GO:0070979	15	GO:0006468	protein phosphorylation
+GO:1903722	12	GO:0030474	spindle pole body duplication
+GO:1903724	12	GO:0030474	spindle pole body duplication
+GO:0006029	15	GO:0006468	protein phosphorylation
+GO:0060322	3	GO:2000026	regulation of multicellular organismal development
+GO:0060323	1	GO:0016331	morphogenesis of embryonic epithelium
+GO:0035794	13	GO:0034220	ion transmembrane transport
+GO:0048667	5	GO:0048666	neuron development
+GO:0048675	5	GO:0048666	neuron development
+GO:0051310	13	GO:0034220	ion transmembrane transport
+GO:0048640	22	GO:0051241	negative regulation of multicellular organismal process
+GO:0007140	4	GO:0007281	germ cell development
+GO:0007141	4	GO:0007281	germ cell development
+GO:0032536	12	GO:0030474	spindle pole body duplication
+GO:0051303	13	GO:0034220	ion transmembrane transport
+GO:0051308	4	GO:0007281	germ cell development
+GO:0060485	2	GO:0001655	urogenital system development
+GO:0038007	8	GO:0007166	cell surface receptor signaling pathway
+GO:0000165	8	GO:0007166	cell surface receptor signaling pathway
+GO:0031175	5	GO:0048666	neuron development
+GO:0044826	19	GO:0044826	viral genome integration into host DNA
+GO:0031122	12	GO:0030474	spindle pole body duplication
+GO:0060445	1	GO:0016331	morphogenesis of embryonic epithelium
+GO:0003341	14	GO:0046649	lymphocyte activation
+GO:0007268	14	GO:0046649	lymphocyte activation
+GO:0007283	4	GO:0007281	germ cell development
+GO:0007288	4	GO:0007281	germ cell development
+GO:0000132	12	GO:0030474	spindle pole body duplication
+GO:0015838	13	GO:0034220	ion transmembrane transport
+GO:0032653	18	GO:0002727	regulation of natural killer cell cytokine production
+GO:0032656	18	GO:0002727	regulation of natural killer cell cytokine production
+GO:0086005	21	GO:0007613	memory
+GO:0086009	13	GO:0034220	ion transmembrane transport
+GO:0007224	8	GO:0007166	cell surface receptor signaling pathway
+GO:0032674	18	GO:0002727	regulation of natural killer cell cytokine production
+GO:0035845	5	GO:0048666	neuron development
+GO:0031294	10	GO:0050865	regulation of cell activation
+GO:0031295	9	GO:1904377	positive regulation of protein localization to cell periphery
+GO:1903564	9	GO:1904377	positive regulation of protein localization to cell periphery
+GO:0032616	21	GO:0007613	memory
+GO:1903569	9	GO:1904377	positive regulation of protein localization to cell periphery
+GO:0032649	18	GO:0002727	regulation of natural killer cell cytokine production
+GO:1902404	12	GO:0030474	spindle pole body duplication
+GO:0043405	17	GO:1902680	positive regulation of RNA biosynthetic process
+GO:0043408	7	GO:0009968	negative regulation of signal transduction
+GO:0042073	13	GO:0034220	ion transmembrane transport
+GO:0031288	1	GO:0016331	morphogenesis of embryonic epithelium
+GO:0032609	21	GO:0007613	memory
+GO:0042045	13	GO:0034220	ion transmembrane transport
+GO:0060117	5	GO:0048666	neuron development
+GO:0003416	21	GO:0007613	memory
+GO:0052548	17	GO:1902680	positive regulation of RNA biosynthetic process
+GO:0003418	1	GO:0016331	morphogenesis of embryonic epithelium
+GO:0060140	10	GO:0050865	regulation of cell activation
+GO:0060141	9	GO:1904377	positive regulation of protein localization to cell periphery
+GO:0060143	6	GO:0045664	regulation of neuron differentiation
+GO:0075713	19	GO:0044826	viral genome integration into host DNA
+GO:0003433	5	GO:0048666	neuron development
+GO:0106030	5	GO:0048666	neuron development
+GO:0046323	13	GO:0034220	ion transmembrane transport
+GO:1905349	12	GO:0030474	spindle pole body duplication
+GO:0046329	7	GO:0009968	negative regulation of signal transduction
+GO:1902110	13	GO:0034220	ion transmembrane transport
+GO:0046314	16	GO:0015074	DNA integration
+GO:0014065	8	GO:0007166	cell surface receptor signaling pathway
+GO:0015697	13	GO:0034220	ion transmembrane transport
+GO:1902108	13	GO:0034220	ion transmembrane transport
+GO:0006388	16	GO:0015074	DNA integration
+GO:0060284	6	GO:0045664	regulation of neuron differentiation
+GO:0002009	1	GO:0016331	morphogenesis of embryonic epithelium
+GO:0060211	17	GO:1902680	positive regulation of RNA biosynthetic process
+GO:0060213	17	GO:1902680	positive regulation of RNA biosynthetic process
+GO:1905488	6	GO:0045664	regulation of neuron differentiation
+GO:0060243	10	GO:0050865	regulation of cell activation
+GO:0003143	1	GO:0016331	morphogenesis of embryonic epithelium
+GO:0060236	12	GO:0030474	spindle pole body duplication
+GO:0000743	13	GO:0034220	ion transmembrane transport
+GO:0043277	13	GO:0034220	ion transmembrane transport
+GO:0006468	15	GO:0006468	protein phosphorylation
+GO:0007596	22	GO:0051241	negative regulation of multicellular organismal process
+GO:0051764	12	GO:0030474	spindle pole body duplication
+GO:1902742	3	GO:2000026	regulation of multicellular organismal development
+GO:0018401	15	GO:0006468	protein phosphorylation
+GO:0042327	9	GO:1904377	positive regulation of protein localization to cell periphery
+GO:0042311	21	GO:0007613	memory
+GO:0051893	9	GO:1904377	positive regulation of protein localization to cell periphery
+GO:0051894	9	GO:1904377	positive regulation of protein localization to cell periphery
+GO:0051898	7	GO:0009968	negative regulation of signal transduction
+GO:0060840	2	GO:0001655	urogenital system development
+GO:1902884	22	GO:0051241	negative regulation of multicellular organismal process
+GO:0002367	18	GO:0002727	regulation of natural killer cell cytokine production
+GO:0042306	13	GO:0034220	ion transmembrane transport
+GO:0007622	21	GO:0007613	memory
+GO:0007623	14	GO:0046649	lymphocyte activation
+GO:0007626	21	GO:0007613	memory
+GO:0002377	18	GO:0002727	regulation of natural killer cell cytokine production
+GO:0007613	21	GO:0007613	memory
+GO:0065001	3	GO:2000026	regulation of multicellular organismal development
+GO:1902808	9	GO:1904377	positive regulation of protein localization to cell periphery
+GO:0007600	21	GO:0007613	memory
+GO:0022407	10	GO:0050865	regulation of cell activation
+GO:0042446	22	GO:0051241	negative regulation of multicellular organismal process
+GO:0031641	6	GO:0045664	regulation of neuron differentiation
+GO:0031646	22	GO:0051241	negative regulation of multicellular organismal process
+GO:1905710	22	GO:0051241	negative regulation of multicellular organismal process
+GO:0043583	2	GO:0001655	urogenital system development
+GO:0018243	15	GO:0006468	protein phosphorylation
+GO:1902532	7	GO:0009968	negative regulation of signal transduction
+GO:2000026	3	GO:2000026	regulation of multicellular organismal development
+GO:0071507	7	GO:0009968	negative regulation of signal transduction
+GO:0042130	9	GO:1904377	positive regulation of protein localization to cell periphery
+GO:0046850	22	GO:0051241	negative regulation of multicellular organismal process
+GO:0060633	17	GO:1902680	positive regulation of RNA biosynthetic process
+GO:1902686	13	GO:0034220	ion transmembrane transport
+GO:1905815	6	GO:0045664	regulation of neuron differentiation
+GO:0046824	9	GO:1904377	positive regulation of protein localization to cell periphery
+GO:0045494	21	GO:0007613	memory
+GO:0006897	11	GO:0008283	cell population proliferation
+GO:0061060	7	GO:0009968	negative regulation of signal transduction
+GO:0045451	4	GO:0007281	germ cell development
+GO:0051639	12	GO:0030474	spindle pole body duplication
+GO:0071679	5	GO:0048666	neuron development
+GO:0061081	18	GO:0002727	regulation of natural killer cell cytokine production
+GO:0061082	18	GO:0002727	regulation of natural killer cell cytokine production
+GO:0110011	10	GO:0050865	regulation of cell activation
+GO:0045475	21	GO:0007613	memory
+GO:0006805	11	GO:0008283	cell population proliferation
+GO:0034109	14	GO:0046649	lymphocyte activation
+GO:0045124	22	GO:0051241	negative regulation of multicellular organismal process
+GO:0002761	6	GO:0045664	regulation of neuron differentiation
+GO:0090382	12	GO:0030474	spindle pole body duplication
+GO:0002720	18	GO:0002727	regulation of natural killer cell cytokine production
+GO:0046649	14	GO:0046649	lymphocyte activation
+GO:0000902	1	GO:0016331	morphogenesis of embryonic epithelium
+GO:0002718	18	GO:0002727	regulation of natural killer cell cytokine production
+GO:0046605	12	GO:0030474	spindle pole body duplication
+GO:0006685	16	GO:0015074	DNA integration
+GO:0002702	18	GO:0002727	regulation of natural killer cell cytokine production
+GO:0002705	18	GO:0002727	regulation of natural killer cell cytokine production
+GO:0060973	3	GO:2000026	regulation of multicellular organismal development
+GO:0060976	2	GO:0001655	urogenital system development
+GO:0051960	3	GO:2000026	regulation of multicellular organismal development
+GO:0030194	22	GO:0051241	negative regulation of multicellular organismal process
+GO:0030198	12	GO:0030474	spindle pole body duplication
+GO:0030199	12	GO:0030474	spindle pole body duplication
+GO:0010171	1	GO:0016331	morphogenesis of embryonic epithelium
+GO:0060907	18	GO:0002727	regulation of natural killer cell cytokine production
+GO:0043970	15	GO:0006468	protein phosphorylation
+GO:0030168	22	GO:0051241	negative regulation of multicellular organismal process
+GO:0002823	18	GO:0002727	regulation of natural killer cell cytokine production
+GO:0030154	5	GO:0048666	neuron development
+GO:0030182	5	GO:0048666	neuron development
+GO:0019094	4	GO:0007281	germ cell development
+GO:0042552	3	GO:2000026	regulation of multicellular organismal development
+GO:0070303	7	GO:0009968	negative regulation of signal transduction
+GO:0014874	22	GO:0051241	negative regulation of multicellular organismal process
+GO:0014877	22	GO:0051241	negative regulation of multicellular organismal process
+GO:0014820	21	GO:0007613	memory
+GO:0048015	8	GO:0007166	cell surface receptor signaling pathway
+GO:0048017	8	GO:0007166	cell surface receptor signaling pathway
+GO:0019043	19	GO:0044826	viral genome integration into host DNA
+GO:0090169	12	GO:0030474	spindle pole body duplication
+GO:0008088	13	GO:0034220	ion transmembrane transport
+GO:1900087	9	GO:1904377	positive regulation of protein localization to cell periphery
+GO:1900048	22	GO:0051241	negative regulation of multicellular organismal process
+GO:0030278	22	GO:0051241	negative regulation of multicellular organismal process
+GO:0030210	16	GO:0015074	DNA integration
+GO:0098609	11	GO:0008283	cell population proliferation
+GO:2000143	17	GO:1902680	positive regulation of RNA biosynthetic process
+GO:0034587	16	GO:0015074	DNA integration
+GO:0022603	6	GO:0045664	regulation of neuron differentiation
+GO:0030202	16	GO:0015074	DNA integration
+GO:0070167	3	GO:2000026	regulation of multicellular organismal development
+GO:0046959	21	GO:0007613	memory
+GO:0016319	2	GO:0001655	urogenital system development
+GO:0045595	6	GO:0045664	regulation of neuron differentiation
+GO:0045597	6	GO:0045664	regulation of neuron differentiation
+GO:0010720	6	GO:0045664	regulation of neuron differentiation
+GO:0032006	7	GO:0009968	negative regulation of signal transduction
+GO:0090278	9	GO:1904377	positive regulation of protein localization to cell periphery
+GO:0099004	8	GO:0007166	cell surface receptor signaling pathway
+GO:0002637	18	GO:0002727	regulation of natural killer cell cytokine production
+GO:0046902	13	GO:0034220	ion transmembrane transport
+GO:0006977	9	GO:1904377	positive regulation of protein localization to cell periphery
+GO:0097711	12	GO:0030474	spindle pole body duplication
+GO:0018969	16	GO:0015074	DNA integration
+GO:0006948	19	GO:0044826	viral genome integration into host DNA
+GO:0030705	13	GO:0034220	ion transmembrane transport
+GO:0010877	13	GO:0034220	ion transmembrane transport
+GO:0010824	12	GO:0030474	spindle pole body duplication
+GO:0030858	6	GO:0045664	regulation of neuron differentiation
+GO:0010842	1	GO:0016331	morphogenesis of embryonic epithelium
+GO:0015012	16	GO:0015074	DNA integration
+GO:0035050	2	GO:0001655	urogenital system development
+GO:0070207	12	GO:0030474	spindle pole body duplication
+GO:0001751	5	GO:0048666	neuron development
+GO:0001754	5	GO:0048666	neuron development
+GO:0050767	6	GO:0045664	regulation of neuron differentiation
+GO:0050770	6	GO:0045664	regulation of neuron differentiation
+GO:0001745	1	GO:0016331	morphogenesis of embryonic epithelium
+GO:0001746	1	GO:0016331	morphogenesis of embryonic epithelium
+GO:0021846	3	GO:2000026	regulation of multicellular organismal development
+GO:0036158	12	GO:0030474	spindle pole body duplication
+GO:0098976	14	GO:0046649	lymphocyte activation
+GO:0150117	10	GO:0050865	regulation of cell activation
+GO:0010543	10	GO:0050865	regulation of cell activation
+GO:0009968	7	GO:0009968	negative regulation of signal transduction
+GO:0061762	8	GO:0007166	cell surface receptor signaling pathway
+GO:0008344	21	GO:0007613	memory
+GO:0050893	21	GO:0007613	memory
+GO:0048478	17	GO:1902680	positive regulation of RNA biosynthetic process
+GO:0050860	7	GO:0009968	negative regulation of signal transduction
+GO:0050865	10	GO:0050865	regulation of cell activation
+GO:0050867	10	GO:0050865	regulation of cell activation
+GO:0030536	21	GO:0007613	memory
+GO:0050852	7	GO:0009968	negative regulation of signal transduction
+GO:0050856	7	GO:0009968	negative regulation of signal transduction
+GO:0050858	7	GO:0009968	negative regulation of signal transduction
+GO:0001822	2	GO:0001655	urogenital system development
+GO:0050820	22	GO:0051241	negative regulation of multicellular organismal process
+GO:0001843	1	GO:0016331	morphogenesis of embryonic epithelium
+GO:0001845	12	GO:0030474	spindle pole body duplication
+GO:0090559	22	GO:0051241	negative regulation of multicellular organismal process
+GO:0048199	13	GO:0034220	ion transmembrane transport
+GO:0007080	12	GO:0030474	spindle pole body duplication
+GO:0061824	12	GO:0030474	spindle pole body duplication
+GO:0001570	5	GO:0048666	neuron development
+GO:0032481	18	GO:0002727	regulation of natural killer cell cytokine production
+GO:0007018	11	GO:0008283	cell population proliferation
+GO:1904731	13	GO:0034220	ion transmembrane transport
+GO:0040026	3	GO:2000026	regulation of multicellular organismal development
+GO:0031099	3	GO:2000026	regulation of multicellular organismal development
+GO:0048100	1	GO:0016331	morphogenesis of embryonic epithelium
+GO:0031065	17	GO:1902680	positive regulation of RNA biosynthetic process
+GO:0070588	13	GO:0034220	ion transmembrane transport
+GO:0090660	21	GO:0007613	memory
+GO:0072393	12	GO:0030474	spindle pole body duplication
+GO:0044380	13	GO:0034220	ion transmembrane transport
+GO:0001508	22	GO:0051241	negative regulation of multicellular organismal process
+GO:0070527	22	GO:0051241	negative regulation of multicellular organismal process
+GO:0032196	11	GO:0008283	cell population proliferation
+GO:0050691	18	GO:0002727	regulation of natural killer cell cytokine production
+GO:0072327	5	GO:0048666	neuron development
+GO:0001654	2	GO:0001655	urogenital system development
+GO:0008103	4	GO:0007281	germ cell development
+GO:0045926	22	GO:0051241	negative regulation of multicellular organismal process
+GO:1904878	13	GO:0034220	ion transmembrane transport
+GO:0061511	12	GO:0030474	spindle pole body duplication
+GO:2000648	10	GO:0050865	regulation of cell activation
+GO:0050688	18	GO:0002727	regulation of natural killer cell cytokine production
+GO:0008298	13	GO:0034220	ion transmembrane transport
+GO:0050673	11	GO:0008283	cell population proliferation
+GO:0019226	11	GO:0008283	cell population proliferation
+GO:0019228	22	GO:0051241	negative regulation of multicellular organismal process
+GO:0070661	11	GO:0008283	cell population proliferation
+GO:0033696	17	GO:1902680	positive regulation of RNA biosynthetic process
+GO:0099111	13	GO:0034220	ion transmembrane transport
+GO:1903478	12	GO:0030474	spindle pole body duplication
+GO:0044458	12	GO:0030474	spindle pole body duplication
+GO:0008283	11	GO:0008283	cell population proliferation
+GO:1903429	6	GO:0045664	regulation of neuron differentiation
+GO:0048793	2	GO:0001655	urogenital system development
+GO:0060021	3	GO:2000026	regulation of multicellular organismal development
+GO:1903441	13	GO:0034220	ion transmembrane transport
+GO:0033674	9	GO:1904377	positive regulation of protein localization to cell periphery
+GO:1903431	6	GO:0045664	regulation of neuron differentiation

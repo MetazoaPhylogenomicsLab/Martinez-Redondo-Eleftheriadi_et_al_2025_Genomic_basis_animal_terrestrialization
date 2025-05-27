@@ -1,0 +1,32 @@
+GO:0004714	2	GO:0039660	structural constituent of virion
+GO:0004962	2	GO:0039660	structural constituent of virion
+GO:0003691	3	GO:0005515	protein binding
+GO:0032422	3	GO:0005515	protein binding
+GO:0003714	2	GO:0039660	structural constituent of virion
+GO:0004945	2	GO:0039660	structural constituent of virion
+GO:0003964	2	GO:0039660	structural constituent of virion
+GO:0003968	2	GO:0039660	structural constituent of virion
+GO:0008009	3	GO:0005515	protein binding
+GO:0000405	3	GO:0005515	protein binding
+GO:0031435	3	GO:0005515	protein binding
+GO:0005179	3	GO:0005515	protein binding
+GO:0005125	3	GO:0005515	protein binding
+GO:0004803	2	GO:0039660	structural constituent of virion
+GO:0051428	3	GO:0005515	protein binding
+GO:0004336	2	GO:0039660	structural constituent of virion
+GO:0032399	3	GO:0005515	protein binding
+GO:0042162	3	GO:0005515	protein binding
+GO:0030291	2	GO:0039660	structural constituent of virion
+GO:0005021	2	GO:0039660	structural constituent of virion
+GO:0016892	1	GO:0016892	endoribonuclease activity, producing 3'-phosphomonoesters
+GO:0016894	1	GO:0016892	endoribonuclease activity, producing 3'-phosphomonoesters
+GO:0004579	2	GO:0039660	structural constituent of virion
+GO:0004517	2	GO:0039660	structural constituent of virion
+GO:0039660	2	GO:0039660	structural constituent of virion
+GO:0015189	2	GO:0039660	structural constituent of virion
+GO:0140416	2	GO:0039660	structural constituent of virion
+GO:0000213	1	GO:0016892	endoribonuclease activity, producing 3'-phosphomonoesters
+GO:0005515	3	GO:0005515	protein binding
+GO:0005516	3	GO:0005515	protein binding
+GO:0042379	3	GO:0005515	protein binding
+GO:0038085	3	GO:0005515	protein binding

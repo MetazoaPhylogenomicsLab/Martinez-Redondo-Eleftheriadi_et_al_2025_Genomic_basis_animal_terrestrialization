@@ -1,0 +1,111 @@
+GO:0030424	5	GO:0120025	plasma membrane bounded cell projection
+GO:0030425	5	GO:0120025	plasma membrane bounded cell projection
+GO:0008074	8	GO:0016020	membrane
+GO:0008076	6	GO:0098797	plasma membrane protein complex
+GO:0005686	7	GO:0001669	acrosomal vesicle
+GO:0032432	4	GO:0032432	actin filament bundle
+GO:0097518	4	GO:0032432	actin filament bundle
+GO:0070648	4	GO:0032432	actin filament bundle
+GO:0110085	4	GO:0032432	actin filament bundle
+GO:0016020	8	GO:0016020	membrane
+GO:0005925	7	GO:0001669	acrosomal vesicle
+GO:0016027	6	GO:0098797	plasma membrane protein complex
+GO:0030670	7	GO:0001669	acrosomal vesicle
+GO:0098021	2	GO:0005581	collagen trimer
+GO:0031234	6	GO:0098797	plasma membrane protein complex
+GO:0005797	7	GO:0001669	acrosomal vesicle
+GO:0001669	7	GO:0001669	acrosomal vesicle
+GO:0043025	8	GO:0016020	membrane
+GO:0020002	1	GO:0033643	host cell part
+GO:0005834	6	GO:0098797	plasma membrane protein complex
+GO:0034705	6	GO:0098797	plasma membrane protein complex
+GO:0005581	2	GO:0005581	collagen trimer
+GO:0061645	8	GO:0016020	membrane
+GO:0005576	8	GO:0016020	membrane
+GO:0005615	8	GO:0016020	membrane
+GO:0030479	4	GO:0032432	actin filament bundle
+GO:0044298	8	GO:0016020	membrane
+GO:0043204	8	GO:0016020	membrane
+GO:0005814	4	GO:0032432	actin filament bundle
+GO:0019005	2	GO:0005581	collagen trimer
+GO:0055036	8	GO:0016020	membrane
+GO:0044167	1	GO:0033643	host cell part
+GO:0032809	8	GO:0016020	membrane
+GO:0044172	1	GO:0033643	host cell part
+GO:0044177	1	GO:0033643	host cell part
+GO:0044178	1	GO:0033643	host cell part
+GO:0030864	4	GO:0032432	actin filament bundle
+GO:0033644	1	GO:0033643	host cell part
+GO:0098595	8	GO:0016020	membrane
+GO:0043160	7	GO:0001669	acrosomal vesicle
+GO:0005935	8	GO:0016020	membrane
+GO:0044156	1	GO:0033643	host cell part
+GO:0044219	1	GO:0033643	host cell part
+GO:0019029	2	GO:0005581	collagen trimer
+GO:0019013	2	GO:0005581	collagen trimer
+GO:0051285	7	GO:0001669	acrosomal vesicle
+GO:0045273	6	GO:0098797	plasma membrane protein complex
+GO:0019031	2	GO:0005581	collagen trimer
+GO:0045171	8	GO:0016020	membrane
+GO:0098803	6	GO:0098797	plasma membrane protein complex
+GO:0097517	4	GO:0032432	actin filament bundle
+GO:0070772	6	GO:0098797	plasma membrane protein complex
+GO:0001750	5	GO:0120025	plasma membrane bounded cell projection
+GO:0033645	1	GO:0033643	host cell part
+GO:0033648	1	GO:0033643	host cell part
+GO:0070469	8	GO:0016020	membrane
+GO:0035869	5	GO:0120025	plasma membrane bounded cell projection
+GO:0031097	7	GO:0001669	acrosomal vesicle
+GO:0097731	5	GO:0120025	plasma membrane bounded cell projection
+GO:0097733	5	GO:0120025	plasma membrane bounded cell projection
+GO:0000940	7	GO:0001669	acrosomal vesicle
+GO:0001725	4	GO:0032432	actin filament bundle
+GO:0042025	1	GO:0033643	host cell part
+GO:0008305	6	GO:0098797	plasma membrane protein complex
+GO:0030430	1	GO:0033643	host cell part
+GO:0018995	8	GO:0016020	membrane
+GO:0000159	2	GO:0005581	collagen trimer
+GO:0035032	6	GO:0098797	plasma membrane protein complex
+GO:0033655	1	GO:0033643	host cell part
+GO:0031983	7	GO:0001669	acrosomal vesicle
+GO:0043657	1	GO:0033643	host cell part
+GO:0033643	1	GO:0033643	host cell part
+GO:0044423	2	GO:0005581	collagen trimer
+GO:0005942	6	GO:0098797	plasma membrane protein complex
+GO:0044297	8	GO:0016020	membrane
+GO:0030427	8	GO:0016020	membrane
+GO:0042600	8	GO:0016020	membrane
+GO:0005844	2	GO:0005581	collagen trimer
+GO:0072669	2	GO:0005581	collagen trimer
+GO:0009579	8	GO:0016020	membrane
+GO:0034357	8	GO:0016020	membrane
+GO:0043197	5	GO:0120025	plasma membrane bounded cell projection
+GO:0042651	8	GO:0016020	membrane
+GO:0016234	8	GO:0016020	membrane
+GO:0005934	8	GO:0016020	membrane
+GO:0065010	7	GO:0001669	acrosomal vesicle
+GO:0043189	3	GO:0035267	NuA4 histone acetyltransferase complex
+GO:0035267	3	GO:0035267	NuA4 histone acetyltransferase complex
+GO:0031160	8	GO:0016020	membrane
+GO:0043230	8	GO:0016020	membrane
+GO:0032777	3	GO:0035267	NuA4 histone acetyltransferase complex
+GO:1903561	7	GO:0001669	acrosomal vesicle
+GO:0051286	8	GO:0016020	membrane
+GO:0060106	8	GO:0016020	membrane
+GO:0000791	4	GO:0032432	actin filament bundle
+GO:0071782	7	GO:0001669	acrosomal vesicle
+GO:0120025	5	GO:0120025	plasma membrane bounded cell projection
+GO:0042588	7	GO:0001669	acrosomal vesicle
+GO:0005929	5	GO:0120025	plasma membrane bounded cell projection
+GO:0098797	6	GO:0098797	plasma membrane protein complex
+GO:0033255	3	GO:0035267	NuA4 histone acetyltransferase complex
+GO:0031528	5	GO:0120025	plasma membrane bounded cell projection
+GO:0005902	5	GO:0120025	plasma membrane bounded cell projection
+GO:0031514	5	GO:0120025	plasma membrane bounded cell projection
+GO:0030055	8	GO:0016020	membrane
+GO:0031941	4	GO:0032432	actin filament bundle
+GO:0033583	5	GO:0120025	plasma membrane bounded cell projection
+GO:0019028	2	GO:0005581	collagen trimer
+GO:0043656	1	GO:0033643	host cell part
+GO:0033646	1	GO:0033643	host cell part
+GO:0031256	8	GO:0016020	membrane

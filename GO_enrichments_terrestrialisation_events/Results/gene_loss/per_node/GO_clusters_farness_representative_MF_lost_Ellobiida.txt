@@ -1,0 +1,168 @@
+GO:0005540	2	GO:0120160	intraciliary transport particle A binding
+GO:0005545	2	GO:0120160	intraciliary transport particle A binding
+GO:0005546	2	GO:0120160	intraciliary transport particle A binding
+GO:0070325	3	GO:0005102	signaling receptor binding
+GO:0032217	7	GO:0015101	organic cation transmembrane transporter activity
+GO:0005249	7	GO:0015101	organic cation transmembrane transporter activity
+GO:0051428	3	GO:0005102	signaling receptor binding
+GO:0055106	9	GO:0004857	enzyme inhibitor activity
+GO:0001848	4	GO:0001848	complement binding
+GO:0005068	2	GO:0120160	intraciliary transport particle A binding
+GO:0015185	7	GO:0015101	organic cation transmembrane transporter activity
+GO:0070300	2	GO:0120160	intraciliary transport particle A binding
+GO:0015125	7	GO:0015101	organic cation transmembrane transporter activity
+GO:0048018	3	GO:0005102	signaling receptor binding
+GO:0048306	4	GO:0001848	complement binding
+GO:0015101	7	GO:0015101	organic cation transmembrane transporter activity
+GO:0019902	4	GO:0001848	complement binding
+GO:0030331	1	GO:0042974	retinoic acid receptor binding
+GO:0003677	5	GO:0003677	DNA binding
+GO:0015293	8	GO:0022857	transmembrane transporter activity
+GO:0005483	11	GO:0140110	transcription regulator activity
+GO:0000995	11	GO:0140110	transcription regulator activity
+GO:0090482	8	GO:0022857	transmembrane transporter activity
+GO:1990846	9	GO:0004857	enzyme inhibitor activity
+GO:0005427	7	GO:0015101	organic cation transmembrane transporter activity
+GO:0003712	11	GO:0140110	transcription regulator activity
+GO:0003713	11	GO:0140110	transcription regulator activity
+GO:0000981	11	GO:0140110	transcription regulator activity
+GO:0039660	11	GO:0140110	transcription regulator activity
+GO:0070851	3	GO:0005102	signaling receptor binding
+GO:0015355	7	GO:0015101	organic cation transmembrane transporter activity
+GO:0038024	11	GO:0140110	transcription regulator activity
+GO:0120160	2	GO:0120160	intraciliary transport particle A binding
+GO:0000978	5	GO:0003677	DNA binding
+GO:0004862	9	GO:0004857	enzyme inhibitor activity
+GO:0004857	9	GO:0004857	enzyme inhibitor activity
+GO:0003700	11	GO:0140110	transcription regulator activity
+GO:0008227	6	GO:0004888	transmembrane signaling receptor activity
+GO:0071813	2	GO:0120160	intraciliary transport particle A binding
+GO:0015347	7	GO:0015101	organic cation transmembrane transporter activity
+GO:0008097	5	GO:0003677	DNA binding
+GO:0043325	2	GO:0120160	intraciliary transport particle A binding
+GO:0009374	5	GO:0003677	DNA binding
+GO:0004129	7	GO:0015101	organic cation transmembrane transporter activity
+GO:0001786	2	GO:0120160	intraciliary transport particle A binding
+GO:0005179	3	GO:0005102	signaling receptor binding
+GO:0008083	3	GO:0005102	signaling receptor binding
+GO:0008028	7	GO:0015101	organic cation transmembrane transporter activity
+GO:0008013	4	GO:0001848	complement binding
+GO:0030165	4	GO:0001848	complement binding
+GO:0030169	2	GO:0120160	intraciliary transport particle A binding
+GO:0042974	1	GO:0042974	retinoic acid receptor binding
+GO:0005104	3	GO:0005102	signaling receptor binding
+GO:0050750	3	GO:0005102	signaling receptor binding
+GO:0140110	11	GO:0140110	transcription regulator activity
+GO:0070530	2	GO:0120160	intraciliary transport particle A binding
+GO:0140142	11	GO:0140110	transcription regulator activity
+GO:0072341	4	GO:0001848	complement binding
+GO:0004993	6	GO:0004888	transmembrane signaling receptor activity
+GO:0098631	4	GO:0001848	complement binding
+GO:0098632	2	GO:0120160	intraciliary transport particle A binding
+GO:0003690	5	GO:0003677	DNA binding
+GO:0015026	6	GO:0004888	transmembrane signaling receptor activity
+GO:0051010	2	GO:0120160	intraciliary transport particle A binding
+GO:0015291	8	GO:0022857	transmembrane transporter activity
+GO:0004970	7	GO:0015101	organic cation transmembrane transporter activity
+GO:0004896	6	GO:0004888	transmembrane signaling receptor activity
+GO:0062037	5	GO:0003677	DNA binding
+GO:0015318	8	GO:0022857	transmembrane transporter activity
+GO:0003730	5	GO:0003677	DNA binding
+GO:0046966	1	GO:0042974	retinoic acid receptor binding
+GO:0004867	9	GO:0004857	enzyme inhibitor activity
+GO:0022857	8	GO:0022857	transmembrane transporter activity
+GO:0031768	3	GO:0005102	signaling receptor binding
+GO:0019955	4	GO:0001848	complement binding
+GO:0072349	7	GO:0015101	organic cation transmembrane transporter activity
+GO:0000900	5	GO:0003677	DNA binding
+GO:0019901	4	GO:0001848	complement binding
+GO:0030296	9	GO:0004857	enzyme inhibitor activity
+GO:0030371	11	GO:0140110	transcription regulator activity
+GO:0016608	3	GO:0005102	signaling receptor binding
+GO:0030594	6	GO:0004888	transmembrane signaling receptor activity
+GO:0030345	11	GO:0140110	transcription regulator activity
+GO:0019838	4	GO:0001848	complement binding
+GO:0016907	6	GO:0004888	transmembrane signaling receptor activity
+GO:1904315	7	GO:0015101	organic cation transmembrane transporter activity
+GO:0043565	5	GO:0003677	DNA binding
+GO:0008603	9	GO:0004857	enzyme inhibitor activity
+GO:0030545	9	GO:0004857	enzyme inhibitor activity
+GO:0030546	9	GO:0004857	enzyme inhibitor activity
+GO:0005516	4	GO:0001848	complement binding
+GO:0005200	11	GO:0140110	transcription regulator activity
+GO:0046965	1	GO:0042974	retinoic acid receptor binding
+GO:0043422	2	GO:0120160	intraciliary transport particle A binding
+GO:0019212	9	GO:0004857	enzyme inhibitor activity
+GO:0042834	2	GO:0120160	intraciliary transport particle A binding
+GO:0030228	11	GO:0140110	transcription regulator activity
+GO:0043035	5	GO:0003677	DNA binding
+GO:0030627	5	GO:0003677	DNA binding
+GO:0005243	7	GO:0015101	organic cation transmembrane transporter activity
+GO:0042802	4	GO:0001848	complement binding
+GO:0042809	1	GO:0042974	retinoic acid receptor binding
+GO:0140375	6	GO:0004888	transmembrane signaling receptor activity
+GO:0035033	9	GO:0004857	enzyme inhibitor activity
+GO:0035034	9	GO:0004857	enzyme inhibitor activity
+GO:0061980	5	GO:0003677	DNA binding
+GO:0070577	2	GO:0120160	intraciliary transport particle A binding
+GO:0008656	9	GO:0004857	enzyme inhibitor activity
+GO:0004930	6	GO:0004888	transmembrane signaling receptor activity
+GO:0042169	4	GO:0001848	complement binding
+GO:0038023	6	GO:0004888	transmembrane signaling receptor activity
+GO:0051018	4	GO:0001848	complement binding
+GO:0003691	5	GO:0003677	DNA binding
+GO:0035197	5	GO:0003677	DNA binding
+GO:0001227	11	GO:0140110	transcription regulator activity
+GO:0001228	11	GO:0140110	transcription regulator activity
+GO:0042975	3	GO:0005102	signaling receptor binding
+GO:0008201	2	GO:0120160	intraciliary transport particle A binding
+GO:0000977	5	GO:0003677	DNA binding
+GO:0051400	4	GO:0001848	complement binding
+GO:0003682	4	GO:0001848	complement binding
+GO:0030346	2	GO:0120160	intraciliary transport particle A binding
+GO:0050700	4	GO:0001848	complement binding
+GO:0055102	9	GO:0004857	enzyme inhibitor activity
+GO:0044548	4	GO:0001848	complement binding
+GO:0140444	11	GO:0140110	transcription regulator activity
+GO:0140033	4	GO:0001848	complement binding
+GO:0038187	6	GO:0004888	transmembrane signaling receptor activity
+GO:1990782	2	GO:0120160	intraciliary transport particle A binding
+GO:0019865	2	GO:0120160	intraciliary transport particle A binding
+GO:0043274	4	GO:0001848	complement binding
+GO:0030882	2	GO:0120160	intraciliary transport particle A binding
+GO:0035259	1	GO:0042974	retinoic acid receptor binding
+GO:0030023	11	GO:0140110	transcription regulator activity
+GO:0030414	9	GO:0004857	enzyme inhibitor activity
+GO:0003714	11	GO:0140110	transcription regulator activity
+GO:0005035	6	GO:0004888	transmembrane signaling receptor activity
+GO:0042608	3	GO:0005102	signaling receptor binding
+GO:0034987	3	GO:0005102	signaling receptor binding
+GO:0005001	6	GO:0004888	transmembrane signaling receptor activity
+GO:0023026	2	GO:0120160	intraciliary transport particle A binding
+GO:0019198	6	GO:0004888	transmembrane signaling receptor activity
+GO:0045499	3	GO:0005102	signaling receptor binding
+GO:0089720	4	GO:0001848	complement binding
+GO:0002020	4	GO:0001848	complement binding
+GO:0008009	3	GO:0005102	signaling receptor binding
+GO:0001849	4	GO:0001848	complement binding
+GO:0005178	3	GO:0005102	signaling receptor binding
+GO:0004864	9	GO:0004857	enzyme inhibitor activity
+GO:0005125	3	GO:0005102	signaling receptor binding
+GO:0005126	3	GO:0005102	signaling receptor binding
+GO:0005127	3	GO:0005102	signaling receptor binding
+GO:0004869	9	GO:0004857	enzyme inhibitor activity
+GO:0005521	4	GO:0001848	complement binding
+GO:0003823	4	GO:0001848	complement binding
+GO:0004888	6	GO:0004888	transmembrane signaling receptor activity
+GO:0005138	3	GO:0005102	signaling receptor binding
+GO:0005537	2	GO:0120160	intraciliary transport particle A binding
+GO:0005539	2	GO:0120160	intraciliary transport particle A binding
+GO:0010385	5	GO:0003677	DNA binding
+GO:0048020	3	GO:0005102	signaling receptor binding
+GO:0005102	3	GO:0005102	signaling receptor binding
+GO:0070410	4	GO:0001848	complement binding
+GO:0050693	4	GO:0001848	complement binding
+GO:0050699	4	GO:0001848	complement binding
+GO:0030291	9	GO:0004857	enzyme inhibitor activity
+GO:0008140	1	GO:0042974	retinoic acid receptor binding
+GO:0042826	4	GO:0001848	complement binding

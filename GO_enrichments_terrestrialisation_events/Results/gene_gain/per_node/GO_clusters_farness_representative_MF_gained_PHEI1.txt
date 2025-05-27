@@ -1,0 +1,15 @@
+GO:0004364	1	GO:0016860	intramolecular oxidoreductase activity
+GO:0003785	2	GO:0051082	unfolded protein binding
+GO:0070566	1	GO:0016860	intramolecular oxidoreductase activity
+GO:0000287	2	GO:0051082	unfolded protein binding
+GO:0051082	2	GO:0051082	unfolded protein binding
+GO:0016860	1	GO:0016860	intramolecular oxidoreductase activity
+GO:0016863	1	GO:0016860	intramolecular oxidoreductase activity
+GO:0051087	2	GO:0051082	unfolded protein binding
+GO:0048306	2	GO:0051082	unfolded protein binding
+GO:0005125	2	GO:0051082	unfolded protein binding
+GO:0030544	2	GO:0051082	unfolded protein binding
+GO:0050178	1	GO:0016860	intramolecular oxidoreductase activity
+GO:0004602	1	GO:0016860	intramolecular oxidoreductase activity
+GO:0061750	1	GO:0016860	intramolecular oxidoreductase activity
+GO:0051015	2	GO:0051082	unfolded protein binding

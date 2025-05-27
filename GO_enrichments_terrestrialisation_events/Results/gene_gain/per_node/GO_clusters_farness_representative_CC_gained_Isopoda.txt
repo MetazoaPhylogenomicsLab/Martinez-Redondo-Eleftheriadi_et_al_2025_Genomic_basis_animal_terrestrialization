@@ -1,0 +1,29 @@
+GO:0035974	3	GO:0000775	chromosome, centromeric region
+GO:0055036	2	GO:0005576	extracellular region
+GO:0043656	1	GO:0033643	host cell part
+GO:0043657	1	GO:0033643	host cell part
+GO:0005628	2	GO:0005576	extracellular region
+GO:0043160	2	GO:0005576	extracellular region
+GO:0005615	2	GO:0005576	extracellular region
+GO:0000792	3	GO:0000775	chromosome, centromeric region
+GO:0099115	3	GO:0000775	chromosome, centromeric region
+GO:0018995	1	GO:0033643	host cell part
+GO:0042600	2	GO:0005576	extracellular region
+GO:0005576	2	GO:0005576	extracellular region
+GO:0000781	3	GO:0000775	chromosome, centromeric region
+GO:0000782	3	GO:0000775	chromosome, centromeric region
+GO:0000775	3	GO:0000775	chromosome, centromeric region
+GO:0000776	3	GO:0000775	chromosome, centromeric region
+GO:0005933	2	GO:0005576	extracellular region
+GO:0001669	2	GO:0005576	extracellular region
+GO:0032153	2	GO:0005576	extracellular region
+GO:0005816	3	GO:0000775	chromosome, centromeric region
+GO:0020002	1	GO:0033643	host cell part
+GO:0019031	2	GO:0005576	extracellular region
+GO:0019033	2	GO:0005576	extracellular region
+GO:0033643	1	GO:0033643	host cell part
+GO:0033644	1	GO:0033643	host cell part
+GO:0033646	1	GO:0033643	host cell part
+GO:0031934	3	GO:0000775	chromosome, centromeric region
+GO:0005721	3	GO:0000775	chromosome, centromeric region
+GO:0030870	2	GO:0005576	extracellular region

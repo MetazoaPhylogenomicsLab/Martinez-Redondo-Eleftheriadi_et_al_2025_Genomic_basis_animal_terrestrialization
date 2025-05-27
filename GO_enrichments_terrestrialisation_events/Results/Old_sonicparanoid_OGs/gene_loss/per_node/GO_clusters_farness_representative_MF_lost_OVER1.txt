@@ -1,0 +1,124 @@
+GO:0005549	2	GO:0005549	odorant binding
+GO:0004993	5	GO:0004888	transmembrane signaling receptor activity
+GO:0005537	2	GO:0005549	odorant binding
+GO:0030551	1	GO:0046906	tetrapyrrole binding
+GO:0030552	1	GO:0046906	tetrapyrrole binding
+GO:0097153	4	GO:0097153	cysteine-type endopeptidase activity involved in apoptotic process
+GO:0030291	8	GO:0090729	toxin activity
+GO:1990782	2	GO:0005549	odorant binding
+GO:0005216	6	GO:0005216	ion channel activity
+GO:0005509	2	GO:0005549	odorant binding
+GO:0022834	6	GO:0005216	ion channel activity
+GO:0061809	7	GO:0008395	steroid hydroxylase activity
+GO:0050700	3	GO:0005102	signaling receptor binding
+GO:0005249	6	GO:0005216	ion channel activity
+GO:0051428	3	GO:0005102	signaling receptor binding
+GO:0001848	3	GO:0005102	signaling receptor binding
+GO:0004970	6	GO:0005216	ion channel activity
+GO:0089720	3	GO:0005102	signaling receptor binding
+GO:0030545	8	GO:0090729	toxin activity
+GO:0030546	8	GO:0090729	toxin activity
+GO:0030548	8	GO:0090729	toxin activity
+GO:0005068	2	GO:0005549	odorant binding
+GO:0019955	3	GO:0005102	signaling receptor binding
+GO:0005344	8	GO:0090729	toxin activity
+GO:0004930	5	GO:0004888	transmembrane signaling receptor activity
+GO:0045130	7	GO:0008395	steroid hydroxylase activity
+GO:0048018	3	GO:0005102	signaling receptor binding
+GO:0003964	7	GO:0008395	steroid hydroxylase activity
+GO:0048306	3	GO:0005102	signaling receptor binding
+GO:0003968	7	GO:0008395	steroid hydroxylase activity
+GO:0015145	6	GO:0005216	ion channel activity
+GO:0015149	6	GO:0005216	ion channel activity
+GO:0003697	1	GO:0046906	tetrapyrrole binding
+GO:0030371	8	GO:0090729	toxin activity
+GO:0005044	8	GO:0090729	toxin activity
+GO:0008188	5	GO:0004888	transmembrane signaling receptor activity
+GO:0005031	5	GO:0004888	transmembrane signaling receptor activity
+GO:0031956	7	GO:0008395	steroid hydroxylase activity
+GO:0098960	5	GO:0004888	transmembrane signaling receptor activity
+GO:0015101	6	GO:0005216	ion channel activity
+GO:0030345	8	GO:0090729	toxin activity
+GO:0019900	3	GO:0005102	signaling receptor binding
+GO:0019901	3	GO:0005102	signaling receptor binding
+GO:0030331	2	GO:0005549	odorant binding
+GO:0099094	6	GO:0005216	ion channel activity
+GO:0004712	7	GO:0008395	steroid hydroxylase activity
+GO:0004714	5	GO:0004888	transmembrane signaling receptor activity
+GO:0046966	2	GO:0005549	odorant binding
+GO:0003677	1	GO:0046906	tetrapyrrole binding
+GO:0015293	6	GO:0005216	ion channel activity
+GO:0090729	8	GO:0090729	toxin activity
+GO:0001517	7	GO:0008395	steroid hydroxylase activity
+GO:0043565	1	GO:0046906	tetrapyrrole binding
+GO:0051119	6	GO:0005216	ion channel activity
+GO:0017046	2	GO:0005549	odorant binding
+GO:0050135	7	GO:0008395	steroid hydroxylase activity
+GO:0062037	1	GO:0046906	tetrapyrrole binding
+GO:0003779	3	GO:0005102	signaling receptor binding
+GO:1990188	2	GO:0005549	odorant binding
+GO:0001227	8	GO:0090729	toxin activity
+GO:0001228	8	GO:0090729	toxin activity
+GO:0001216	8	GO:0090729	toxin activity
+GO:0015276	6	GO:0005216	ion channel activity
+GO:0015277	6	GO:0005216	ion channel activity
+GO:0002020	3	GO:0005102	signaling receptor binding
+GO:0004896	5	GO:0004888	transmembrane signaling receptor activity
+GO:0097200	4	GO:0097153	cysteine-type endopeptidase activity involved in apoptotic process
+GO:0000981	8	GO:0090729	toxin activity
+GO:0039660	8	GO:0090729	toxin activity
+GO:0008528	5	GO:0004888	transmembrane signaling receptor activity
+GO:0070851	3	GO:0005102	signaling receptor binding
+GO:0098632	2	GO:0005549	odorant binding
+GO:0038023	5	GO:0004888	transmembrane signaling receptor activity
+GO:0000977	1	GO:0046906	tetrapyrrole binding
+GO:0120160	2	GO:0005549	odorant binding
+GO:0000978	1	GO:0046906	tetrapyrrole binding
+GO:0046906	1	GO:0046906	tetrapyrrole binding
+GO:0004862	8	GO:0090729	toxin activity
+GO:0004867	8	GO:0090729	toxin activity
+GO:0008395	7	GO:0008395	steroid hydroxylase activity
+GO:0004857	8	GO:0090729	toxin activity
+GO:0003700	8	GO:0090729	toxin activity
+GO:0004888	5	GO:0004888	transmembrane signaling receptor activity
+GO:0016907	5	GO:0004888	transmembrane signaling receptor activity
+GO:0016493	5	GO:0004888	transmembrane signaling receptor activity
+GO:0070840	2	GO:0005549	odorant binding
+GO:0019865	2	GO:0005549	odorant binding
+GO:0000900	1	GO:0046906	tetrapyrrole binding
+GO:0031435	2	GO:0005549	odorant binding
+GO:0016712	7	GO:0008395	steroid hydroxylase activity
+GO:0001618	2	GO:0005549	odorant binding
+GO:0019825	2	GO:0005549	odorant binding
+GO:0004175	4	GO:0097153	cysteine-type endopeptidase activity involved in apoptotic process
+GO:0008066	5	GO:0004888	transmembrane signaling receptor activity
+GO:0008201	2	GO:0005549	odorant binding
+GO:0031404	2	GO:0005549	odorant binding
+GO:0097718	3	GO:0005102	signaling receptor binding
+GO:0005123	3	GO:0005102	signaling receptor binding
+GO:0005125	3	GO:0005102	signaling receptor binding
+GO:0008083	3	GO:0005102	signaling receptor binding
+GO:0005112	3	GO:0005102	signaling receptor binding
+GO:0043014	2	GO:0005549	odorant binding
+GO:0020037	1	GO:0046906	tetrapyrrole binding
+GO:0016709	7	GO:0008395	steroid hydroxylase activity
+GO:0043621	3	GO:0005102	signaling receptor binding
+GO:0005149	3	GO:0005102	signaling receptor binding
+GO:0008028	6	GO:0005216	ion channel activity
+GO:1990226	3	GO:0005102	signaling receptor binding
+GO:0008013	3	GO:0005102	signaling receptor binding
+GO:0043035	1	GO:0046906	tetrapyrrole binding
+GO:0005139	3	GO:0005102	signaling receptor binding
+GO:0030165	3	GO:0005102	signaling receptor binding
+GO:0008017	2	GO:0005549	odorant binding
+GO:0008307	8	GO:0090729	toxin activity
+GO:0042974	2	GO:0005549	odorant binding
+GO:0043495	8	GO:0090729	toxin activity
+GO:1904315	6	GO:0005216	ion channel activity
+GO:0005102	3	GO:0005102	signaling receptor binding
+GO:0070530	2	GO:0005549	odorant binding
+GO:0004519	7	GO:0008395	steroid hydroxylase activity
+GO:0030594	5	GO:0004888	transmembrane signaling receptor activity
+GO:0005262	6	GO:0005216	ion channel activity
+GO:0097199	4	GO:0097153	cysteine-type endopeptidase activity involved in apoptotic process
+GO:0005516	3	GO:0005102	signaling receptor binding

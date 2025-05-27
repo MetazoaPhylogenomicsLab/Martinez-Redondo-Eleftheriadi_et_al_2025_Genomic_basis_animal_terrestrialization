@@ -1,0 +1,22 @@
+GO:0097447	3	GO:0110165	cellular anatomical entity
+GO:0000794	1	GO:0033557	Slx1-Slx4 complex
+GO:0031011	1	GO:0033557	Slx1-Slx4 complex
+GO:0042025	3	GO:0110165	cellular anatomical entity
+GO:0033150	1	GO:0033557	Slx1-Slx4 complex
+GO:0008076	2	GO:0031265	CD95 death-inducing signaling complex
+GO:0055036	3	GO:0110165	cellular anatomical entity
+GO:0033644	3	GO:0110165	cellular anatomical entity
+GO:0005680	1	GO:0033557	Slx1-Slx4 complex
+GO:0035631	2	GO:0031265	CD95 death-inducing signaling complex
+GO:0110165	3	GO:0110165	cellular anatomical entity
+GO:0005861	1	GO:0033557	Slx1-Slx4 complex
+GO:0031265	2	GO:0031265	CD95 death-inducing signaling complex
+GO:0000346	1	GO:0033557	Slx1-Slx4 complex
+GO:0005863	1	GO:0033557	Slx1-Slx4 complex
+GO:0000347	1	GO:0033557	Slx1-Slx4 complex
+GO:0080008	2	GO:0031265	CD95 death-inducing signaling complex
+GO:0032839	3	GO:0110165	cellular anatomical entity
+GO:0005637	1	GO:0033557	Slx1-Slx4 complex
+GO:0030425	3	GO:0110165	cellular anatomical entity
+GO:0030430	3	GO:0110165	cellular anatomical entity
+GO:0033557	1	GO:0033557	Slx1-Slx4 complex

@@ -1,0 +1,117 @@
+GO:0062023	6	GO:0030312	external encapsulating structure
+GO:0005697	2	GO:0005788	endoplasmic reticulum lumen
+GO:0005576	8	GO:0110165	cellular anatomical entity
+GO:0035032	4	GO:0005581	collagen trimer
+GO:0034045	7	GO:0034270	Cvt complex
+GO:0070772	2	GO:0005788	endoplasmic reticulum lumen
+GO:0060205	2	GO:0005788	endoplasmic reticulum lumen
+GO:0009897	6	GO:0030312	external encapsulating structure
+GO:0031012	6	GO:0030312	external encapsulating structure
+GO:0001669	2	GO:0005788	endoplasmic reticulum lumen
+GO:0005615	8	GO:0110165	cellular anatomical entity
+GO:0031983	2	GO:0005788	endoplasmic reticulum lumen
+GO:0031160	6	GO:0030312	external encapsulating structure
+GO:0042600	6	GO:0030312	external encapsulating structure
+GO:0019005	4	GO:0005581	collagen trimer
+GO:0009277	6	GO:0030312	external encapsulating structure
+GO:0034774	2	GO:0005788	endoplasmic reticulum lumen
+GO:0030312	6	GO:0030312	external encapsulating structure
+GO:0005942	4	GO:0005581	collagen trimer
+GO:0042025	1	GO:0033646	host intracellular part
+GO:0044423	4	GO:0005581	collagen trimer
+GO:0098793	8	GO:0110165	cellular anatomical entity
+GO:0140445	3	GO:0098687	chromosomal region
+GO:0033644	1	GO:0033646	host intracellular part
+GO:0000781	3	GO:0098687	chromosomal region
+GO:0000776	3	GO:0098687	chromosomal region
+GO:0043025	8	GO:0110165	cellular anatomical entity
+GO:0030424	5	GO:0043005	neuron projection
+GO:0030425	5	GO:0043005	neuron projection
+GO:0000428	4	GO:0005581	collagen trimer
+GO:0032590	5	GO:0043005	neuron projection
+GO:0039715	1	GO:0033646	host intracellular part
+GO:0044297	8	GO:0110165	cellular anatomical entity
+GO:0098687	3	GO:0098687	chromosomal region
+GO:0048046	8	GO:0110165	cellular anatomical entity
+GO:0031430	3	GO:0098687	chromosomal region
+GO:0005788	2	GO:0005788	endoplasmic reticulum lumen
+GO:0000793	3	GO:0098687	chromosomal region
+GO:0043189	2	GO:0005788	endoplasmic reticulum lumen
+GO:0097447	5	GO:0043005	neuron projection
+GO:0035267	2	GO:0005788	endoplasmic reticulum lumen
+GO:0005933	8	GO:0110165	cellular anatomical entity
+GO:0005818	3	GO:0098687	chromosomal region
+GO:0031461	4	GO:0005581	collagen trimer
+GO:0005796	2	GO:0005788	endoplasmic reticulum lumen
+GO:0000151	4	GO:0005581	collagen trimer
+GO:1902711	4	GO:0005581	collagen trimer
+GO:0033650	1	GO:0033646	host intracellular part
+GO:0005581	4	GO:0005581	collagen trimer
+GO:0036338	4	GO:0005581	collagen trimer
+GO:0055036	8	GO:0110165	cellular anatomical entity
+GO:0031934	3	GO:0098687	chromosomal region
+GO:0020002	1	GO:0033646	host intracellular part
+GO:0099115	3	GO:0098687	chromosomal region
+GO:0044177	1	GO:0033646	host intracellular part
+GO:0019031	4	GO:0005581	collagen trimer
+GO:0031380	2	GO:0005788	endoplasmic reticulum lumen
+GO:0005721	3	GO:0098687	chromosomal region
+GO:0008076	4	GO:0005581	collagen trimer
+GO:0042597	8	GO:0110165	cellular anatomical entity
+GO:0043656	1	GO:0033646	host intracellular part
+GO:0030430	1	GO:0033646	host intracellular part
+GO:0044732	3	GO:0098687	chromosomal region
+GO:0005619	6	GO:0030312	external encapsulating structure
+GO:0036477	8	GO:0110165	cellular anatomical entity
+GO:0044165	1	GO:0033646	host intracellular part
+GO:0034364	7	GO:0034270	Cvt complex
+GO:0031676	3	GO:0098687	chromosomal region
+GO:0034358	7	GO:0034270	Cvt complex
+GO:0098024	4	GO:0005581	collagen trimer
+GO:0044178	1	GO:0033646	host intracellular part
+GO:0032994	4	GO:0005581	collagen trimer
+GO:1990777	4	GO:0005581	collagen trimer
+GO:0033655	1	GO:0033646	host intracellular part
+GO:0031082	7	GO:0034270	Cvt complex
+GO:0031083	7	GO:0034270	Cvt complex
+GO:0042729	2	GO:0005788	endoplasmic reticulum lumen
+GO:0030089	7	GO:0034270	Cvt complex
+GO:0033645	1	GO:0033646	host intracellular part
+GO:0033646	1	GO:0033646	host intracellular part
+GO:0000214	2	GO:0005788	endoplasmic reticulum lumen
+GO:0034705	4	GO:0005581	collagen trimer
+GO:0035861	3	GO:0098687	chromosomal region
+GO:0046696	4	GO:0005581	collagen trimer
+GO:0090734	3	GO:0098687	chromosomal region
+GO:0031253	5	GO:0043005	neuron projection
+GO:0072562	8	GO:0110165	cellular anatomical entity
+GO:0043235	4	GO:0005581	collagen trimer
+GO:0043186	3	GO:0098687	chromosomal region
+GO:0032809	6	GO:0030312	external encapsulating structure
+GO:0035371	3	GO:0098687	chromosomal region
+GO:0043204	8	GO:0110165	cellular anatomical entity
+GO:0099503	2	GO:0005788	endoplasmic reticulum lumen
+GO:0016324	6	GO:0030312	external encapsulating structure
+GO:0031143	5	GO:0043005	neuron projection
+GO:0034270	7	GO:0034270	Cvt complex
+GO:0030141	2	GO:0005788	endoplasmic reticulum lumen
+GO:0043005	5	GO:0043005	neuron projection
+GO:0005816	3	GO:0098687	chromosomal region
+GO:0016020	8	GO:0110165	cellular anatomical entity
+GO:0005886	6	GO:0030312	external encapsulating structure
+GO:0044199	1	GO:0033646	host intracellular part
+GO:0005604	6	GO:0030312	external encapsulating structure
+GO:0110165	8	GO:0110165	cellular anatomical entity
+GO:0000795	3	GO:0098687	chromosomal region
+GO:0009506	7	GO:0034270	Cvt complex
+GO:0044200	1	GO:0033646	host intracellular part
+GO:0055044	8	GO:0110165	cellular anatomical entity
+GO:0034518	4	GO:0005581	collagen trimer
+GO:0019028	4	GO:0005581	collagen trimer
+GO:0033643	1	GO:0033646	host intracellular part
+GO:0005634	2	GO:0005788	endoplasmic reticulum lumen
+GO:0032010	2	GO:0005788	endoplasmic reticulum lumen
+GO:0000408	4	GO:0005581	collagen trimer
+GO:0048471	7	GO:0034270	Cvt complex
+GO:0042718	7	GO:0034270	Cvt complex
+GO:0036019	2	GO:0005788	endoplasmic reticulum lumen

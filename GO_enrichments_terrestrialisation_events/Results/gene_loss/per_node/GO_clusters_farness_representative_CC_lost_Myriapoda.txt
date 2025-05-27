@@ -1,0 +1,675 @@
+GO:0000235	23	GO:0005881	cytoplasmic microtubule
+GO:0044423	4	GO:0019028	viral capsid
+GO:0042597	21	GO:0042995	cell projection
+GO:0033655	5	GO:0033646	host intracellular part
+GO:0044666	12	GO:0035097	histone methyltransferase complex
+GO:0009897	11	GO:0005886	plasma membrane
+GO:0009941	17	GO:0000139	Golgi membrane
+GO:0030430	5	GO:0033646	host intracellular part
+GO:0044732	23	GO:0005881	cytoplasmic microtubule
+GO:0016234	19	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0033645	5	GO:0033646	host intracellular part
+GO:0033648	5	GO:0033646	host intracellular part
+GO:0044196	5	GO:0033646	host intracellular part
+GO:0005736	14	GO:0033557	Slx1-Slx4 complex
+GO:0044163	5	GO:0033646	host intracellular part
+GO:0044167	5	GO:0033646	host intracellular part
+GO:0044156	5	GO:0033646	host intracellular part
+GO:0005615	21	GO:0042995	cell projection
+GO:0000408	3	GO:0032991	protein-containing complex
+GO:0044177	5	GO:0033646	host intracellular part
+GO:0044178	5	GO:0033646	host intracellular part
+GO:0005920	7	GO:0098984	neuron to neuron synapse
+GO:0044094	5	GO:0033646	host intracellular part
+GO:0005918	7	GO:0098984	neuron to neuron synapse
+GO:0005933	21	GO:0042995	cell projection
+GO:0005935	8	GO:0031012	extracellular matrix
+GO:0031676	20	GO:0034045	phagophore assembly site membrane
+GO:0042716	19	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0042717	20	GO:0034045	phagophore assembly site membrane
+GO:0005865	23	GO:0005881	cytoplasmic microtubule
+GO:0005882	23	GO:0005881	cytoplasmic microtubule
+GO:0000943	15	GO:0005634	nucleus
+GO:0020002	5	GO:0033646	host intracellular part
+GO:0099070	22	GO:0005856	cytoskeleton
+GO:0001401	17	GO:0000139	Golgi membrane
+GO:0030056	7	GO:0098984	neuron to neuron synapse
+GO:0005823	22	GO:0005856	cytoskeleton
+GO:0005816	22	GO:0005856	cytoskeleton
+GO:0030075	22	GO:0005856	cytoskeleton
+GO:0042600	8	GO:0031012	extracellular matrix
+GO:0030313	21	GO:0042995	cell projection
+GO:0044219	5	GO:0033646	host intracellular part
+GO:0019028	4	GO:0019028	viral capsid
+GO:0019029	4	GO:0019028	viral capsid
+GO:0019013	4	GO:0019028	viral capsid
+GO:0031021	22	GO:0005856	cytoskeleton
+GO:0055036	11	GO:0005886	plasma membrane
+GO:0019030	4	GO:0019028	viral capsid
+GO:0019031	4	GO:0019028	viral capsid
+GO:0019033	4	GO:0019028	viral capsid
+GO:0042025	5	GO:0033646	host intracellular part
+GO:0005576	21	GO:0042995	cell projection
+GO:0098654	3	GO:0032991	protein-containing complex
+GO:0000214	13	GO:0140513	nuclear protein-containing complex
+GO:0031315	17	GO:0000139	Golgi membrane
+GO:0097427	22	GO:0005856	cytoskeleton
+GO:0000793	24	GO:0000775	chromosome, centromeric region
+GO:0000794	14	GO:0033557	Slx1-Slx4 complex
+GO:0033011	22	GO:0005856	cytoskeleton
+GO:0072487	12	GO:0035097	histone methyltransferase complex
+GO:0046536	14	GO:0033557	Slx1-Slx4 complex
+GO:0019005	2	GO:1905360	GTPase complex
+GO:0099086	15	GO:0005634	nucleus
+GO:0043160	16	GO:0031410	cytoplasmic vesicle
+GO:0033150	22	GO:0005856	cytoskeleton
+GO:0008076	9	GO:0008076	voltage-gated potassium channel complex
+GO:0097517	22	GO:0005856	cytoskeleton
+GO:0045177	21	GO:0042995	cell projection
+GO:0001725	23	GO:0005881	cytoplasmic microtubule
+GO:0034703	9	GO:0008076	voltage-gated potassium channel complex
+GO:0034705	9	GO:0008076	voltage-gated potassium channel complex
+GO:0016324	11	GO:0005886	plasma membrane
+GO:0005704	24	GO:0000775	chromosome, centromeric region
+GO:0001669	16	GO:0031410	cytoplasmic vesicle
+GO:0033646	5	GO:0033646	host intracellular part
+GO:0033647	5	GO:0033646	host intracellular part
+GO:0042641	22	GO:0005856	cytoskeleton
+GO:0030870	13	GO:0140513	nuclear protein-containing complex
+GO:0098687	22	GO:0005856	cytoskeleton
+GO:0030849	24	GO:0000775	chromosome, centromeric region
+GO:0060388	8	GO:0031012	extracellular matrix
+GO:0005634	15	GO:0005634	nucleus
+GO:0005637	17	GO:0000139	Golgi membrane
+GO:0016456	14	GO:0033557	Slx1-Slx4 complex
+GO:0031464	2	GO:1905360	GTPase complex
+GO:0030915	24	GO:0000775	chromosome, centromeric region
+GO:0000805	24	GO:0000775	chromosome, centromeric region
+GO:0032432	22	GO:0005856	cytoskeleton
+GO:0001940	15	GO:0005634	nucleus
+GO:0000940	24	GO:0000775	chromosome, centromeric region
+GO:0098595	21	GO:0042995	cell projection
+GO:0031594	7	GO:0098984	neuron to neuron synapse
+GO:0031597	19	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0120200	6	GO:0043005	neuron projection
+GO:0072686	23	GO:0005881	cytoplasmic microtubule
+GO:1990752	23	GO:0005881	cytoplasmic microtubule
+GO:0009705	17	GO:0000139	Golgi membrane
+GO:0032994	3	GO:0032991	protein-containing complex
+GO:0061803	20	GO:0034045	phagophore assembly site membrane
+GO:0042734	11	GO:0005886	plasma membrane
+GO:0045169	19	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:1990777	2	GO:1905360	GTPase complex
+GO:0005964	19	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0044174	5	GO:0033646	host intracellular part
+GO:0044175	5	GO:0033646	host intracellular part
+GO:0034451	22	GO:0005856	cytoskeleton
+GO:0000120	14	GO:0033557	Slx1-Slx4 complex
+GO:0043195	6	GO:0043005	neuron projection
+GO:0060102	8	GO:0031012	extracellular matrix
+GO:0101003	16	GO:0031410	cytoplasmic vesicle
+GO:0010494	23	GO:0005881	cytoplasmic microtubule
+GO:0000118	12	GO:0035097	histone methyltransferase complex
+GO:0005923	7	GO:0098984	neuron to neuron synapse
+GO:0000138	17	GO:0000139	Golgi membrane
+GO:0043186	23	GO:0005881	cytoplasmic microtubule
+GO:0031968	17	GO:0000139	Golgi membrane
+GO:0030981	23	GO:0005881	cytoplasmic microtubule
+GO:0044291	7	GO:0098984	neuron to neuron synapse
+GO:0005905	11	GO:0005886	plasma membrane
+GO:0044295	6	GO:0043005	neuron projection
+GO:0005640	17	GO:0000139	Golgi membrane
+GO:0150034	6	GO:0043005	neuron projection
+GO:0035861	24	GO:0000775	chromosome, centromeric region
+GO:1902710	2	GO:1905360	GTPase complex
+GO:1902711	2	GO:1905360	GTPase complex
+GO:1902712	9	GO:0008076	voltage-gated potassium channel complex
+GO:0098975	7	GO:0098984	neuron to neuron synapse
+GO:0005604	8	GO:0031012	extracellular matrix
+GO:0005741	17	GO:0000139	Golgi membrane
+GO:0005742	17	GO:0000139	Golgi membrane
+GO:0030017	22	GO:0005856	cytoskeleton
+GO:0016235	20	GO:0034045	phagophore assembly site membrane
+GO:0000228	14	GO:0033557	Slx1-Slx4 complex
+GO:0090733	8	GO:0031012	extracellular matrix
+GO:0090734	22	GO:0005856	cytoskeleton
+GO:0097381	6	GO:0043005	neuron projection
+GO:0005700	24	GO:0000775	chromosome, centromeric region
+GO:0055028	23	GO:0005881	cytoplasmic microtubule
+GO:0016342	9	GO:0008076	voltage-gated potassium channel complex
+GO:0060077	7	GO:0098984	neuron to neuron synapse
+GO:0043541	17	GO:0000139	Golgi membrane
+GO:0000325	18	GO:0005773	vacuole
+GO:0035805	8	GO:0031012	extracellular matrix
+GO:0098636	3	GO:0032991	protein-containing complex
+GO:0008540	3	GO:0032991	protein-containing complex
+GO:0005863	23	GO:0005881	cytoplasmic microtubule
+GO:0070821	16	GO:0031410	cytoplasmic vesicle
+GO:0030426	6	GO:0043005	neuron projection
+GO:0030427	21	GO:0042995	cell projection
+GO:0039624	4	GO:0019028	viral capsid
+GO:0009535	17	GO:0000139	Golgi membrane
+GO:0038039	9	GO:0008076	voltage-gated potassium channel complex
+GO:0042575	2	GO:1905360	GTPase complex
+GO:0005881	23	GO:0005881	cytoplasmic microtubule
+GO:0005886	11	GO:0005886	plasma membrane
+GO:0039615	4	GO:0019028	viral capsid
+GO:0019867	11	GO:0005886	plasma membrane
+GO:0005874	23	GO:0005881	cytoplasmic microtubule
+GO:0005876	23	GO:0005881	cytoplasmic microtubule
+GO:0001939	15	GO:0005634	nucleus
+GO:0005813	22	GO:0005856	cytoskeleton
+GO:0005815	22	GO:0005856	cytoskeleton
+GO:0005819	22	GO:0005856	cytoskeleton
+GO:0043204	21	GO:0042995	cell projection
+GO:0000785	22	GO:0005856	cytoskeleton
+GO:0000786	24	GO:0000775	chromosome, centromeric region
+GO:0043083	21	GO:0042995	cell projection
+GO:1903561	16	GO:0031410	cytoplasmic vesicle
+GO:0009986	21	GO:0042995	cell projection
+GO:1990512	13	GO:0140513	nuclear protein-containing complex
+GO:0043073	15	GO:0005634	nucleus
+GO:0001772	11	GO:0005886	plasma membrane
+GO:0036064	23	GO:0005881	cytoplasmic microtubule
+GO:0015630	22	GO:0005856	cytoskeleton
+GO:0034361	1	GO:0042571	immunoglobulin complex, circulating
+GO:0034358	1	GO:0042571	immunoglobulin complex, circulating
+GO:0034385	1	GO:0042571	immunoglobulin complex, circulating
+GO:0097442	6	GO:0043005	neuron projection
+GO:0035230	6	GO:0043005	neuron projection
+GO:0035371	23	GO:0005881	cytoplasmic microtubule
+GO:0072357	2	GO:1905360	GTPase complex
+GO:0005581	3	GO:0032991	protein-containing complex
+GO:0032580	17	GO:0000139	Golgi membrane
+GO:0032589	10	GO:0031253	cell projection membrane
+GO:1990026	7	GO:0098984	neuron to neuron synapse
+GO:0055120	22	GO:0005856	cytoskeleton
+GO:0070187	14	GO:0033557	Slx1-Slx4 complex
+GO:0005694	22	GO:0005856	cytoskeleton
+GO:0031511	24	GO:0000775	chromosome, centromeric region
+GO:0005721	24	GO:0000775	chromosome, centromeric region
+GO:0030998	15	GO:0005634	nucleus
+GO:0071986	17	GO:0000139	Golgi membrane
+GO:0051285	20	GO:0034045	phagophore assembly site membrane
+GO:0033167	13	GO:0140513	nuclear protein-containing complex
+GO:0000781	24	GO:0000775	chromosome, centromeric region
+GO:0000782	24	GO:0000775	chromosome, centromeric region
+GO:0000775	24	GO:0000775	chromosome, centromeric region
+GO:0000776	24	GO:0000775	chromosome, centromeric region
+GO:0030958	14	GO:0033557	Slx1-Slx4 complex
+GO:1902562	12	GO:0035097	histone methyltransferase complex
+GO:0005628	11	GO:0005886	plasma membrane
+GO:0034045	20	GO:0034045	phagophore assembly site membrane
+GO:0046930	9	GO:0008076	voltage-gated potassium channel complex
+GO:0033061	3	GO:0032991	protein-containing complex
+GO:0099115	24	GO:0000775	chromosome, centromeric region
+GO:1990342	24	GO:0000775	chromosome, centromeric region
+GO:0005934	8	GO:0031012	extracellular matrix
+GO:0042651	20	GO:0034045	phagophore assembly site membrane
+GO:0000164	19	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0034270	19	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0035102	12	GO:0035097	histone methyltransferase complex
+GO:0000153	19	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0009277	8	GO:0031012	extracellular matrix
+GO:0045170	22	GO:0005856	cytoskeleton
+GO:0000939	24	GO:0000775	chromosome, centromeric region
+GO:0031976	18	GO:0005773	vacuole
+GO:0005811	22	GO:0005856	cytoskeleton
+GO:0034518	3	GO:0032991	protein-containing complex
+GO:0009526	18	GO:0005773	vacuole
+GO:0031934	24	GO:0000775	chromosome, centromeric region
+GO:0017053	2	GO:1905360	GTPase complex
+GO:0042170	17	GO:0000139	Golgi membrane
+GO:0009534	18	GO:0005773	vacuole
+GO:0055035	17	GO:0000139	Golgi membrane
+GO:0097546	21	GO:0042995	cell projection
+GO:0044200	5	GO:0033646	host intracellular part
+GO:0000331	18	GO:0005773	vacuole
+GO:0030428	21	GO:0042995	cell projection
+GO:0031012	8	GO:0031012	extracellular matrix
+GO:0016607	15	GO:0005634	nucleus
+GO:0016592	13	GO:0140513	nuclear protein-containing complex
+GO:0000346	13	GO:0140513	nuclear protein-containing complex
+GO:0000137	17	GO:0000139	Golgi membrane
+GO:0031160	8	GO:0031012	extracellular matrix
+GO:0106068	2	GO:1905360	GTPase complex
+GO:0043202	18	GO:0005773	vacuole
+GO:0071944	21	GO:0042995	cell projection
+GO:0031080	13	GO:0140513	nuclear protein-containing complex
+GO:0034704	9	GO:0008076	voltage-gated potassium channel complex
+GO:0016327	11	GO:0005886	plasma membrane
+GO:0016328	11	GO:0005886	plasma membrane
+GO:0031519	13	GO:0140513	nuclear protein-containing complex
+GO:0030667	16	GO:0031410	cytoplasmic vesicle
+GO:0034362	1	GO:0042571	immunoglobulin complex, circulating
+GO:0005705	24	GO:0000775	chromosome, centromeric region
+GO:0033117	16	GO:0031410	cytoplasmic vesicle
+GO:0033118	16	GO:0031410	cytoplasmic vesicle
+GO:0032982	8	GO:0031012	extracellular matrix
+GO:0098025	4	GO:0019028	viral capsid
+GO:0005921	7	GO:0098984	neuron to neuron synapse
+GO:0005861	23	GO:0005881	cytoplasmic microtubule
+GO:0020009	18	GO:0005773	vacuole
+GO:0045121	11	GO:0005886	plasma membrane
+GO:0045095	23	GO:0005881	cytoplasmic microtubule
+GO:0005847	13	GO:0140513	nuclear protein-containing complex
+GO:0071254	19	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0044220	5	GO:0033646	host intracellular part
+GO:0070725	19	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0031045	16	GO:0031410	cytoplasmic vesicle
+GO:0005579	9	GO:0008076	voltage-gated potassium channel complex
+GO:0031264	9	GO:0008076	voltage-gated potassium channel complex
+GO:0043235	3	GO:0032991	protein-containing complex
+GO:0062023	8	GO:0031012	extracellular matrix
+GO:0015030	15	GO:0005634	nucleus
+GO:0005773	18	GO:0005773	vacuole
+GO:0005774	18	GO:0005773	vacuole
+GO:0044199	5	GO:0033646	host intracellular part
+GO:0034364	1	GO:0042571	immunoglobulin complex, circulating
+GO:0005641	15	GO:0005634	nucleus
+GO:0034357	20	GO:0034045	phagophore assembly site membrane
+GO:0001726	6	GO:0043005	neuron projection
+GO:0072562	21	GO:0042995	cell projection
+GO:0042627	1	GO:0042571	immunoglobulin complex, circulating
+GO:0009579	19	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0005834	9	GO:0008076	voltage-gated potassium channel complex
+GO:0031091	16	GO:0031410	cytoplasmic vesicle
+GO:0031093	16	GO:0031410	cytoplasmic vesicle
+GO:0033583	10	GO:0031253	cell projection membrane
+GO:0098799	17	GO:0000139	Golgi membrane
+GO:0044201	5	GO:0033646	host intracellular part
+GO:0032587	10	GO:0031253	cell projection membrane
+GO:0005577	1	GO:0042571	immunoglobulin complex, circulating
+GO:0031253	10	GO:0031253	cell projection membrane
+GO:0031256	11	GO:0005886	plasma membrane
+GO:1905360	2	GO:1905360	GTPase complex
+GO:0044165	5	GO:0033646	host intracellular part
+GO:0000801	15	GO:0005634	nucleus
+GO:0033644	5	GO:0033646	host intracellular part
+GO:0005664	14	GO:0033557	Slx1-Slx4 complex
+GO:1990423	24	GO:0000775	chromosome, centromeric region
+GO:0071751	1	GO:0042571	immunoglobulin complex, circulating
+GO:0032783	12	GO:0035097	histone methyltransferase complex
+GO:0071745	2	GO:1905360	GTPase complex
+GO:0071746	1	GO:0042571	immunoglobulin complex, circulating
+GO:0042151	22	GO:0005856	cytoskeleton
+GO:0071749	1	GO:0042571	immunoglobulin complex, circulating
+GO:0110085	23	GO:0005881	cytoplasmic microtubule
+GO:0005890	9	GO:0008076	voltage-gated potassium channel complex
+GO:0009574	22	GO:0005856	cytoskeleton
+GO:0031470	24	GO:0000775	chromosome, centromeric region
+GO:0042571	1	GO:0042571	immunoglobulin complex, circulating
+GO:0031436	12	GO:0035097	histone methyltransferase complex
+GO:0005814	22	GO:0005856	cytoskeleton
+GO:0016602	13	GO:0140513	nuclear protein-containing complex
+GO:0016459	22	GO:0005856	cytoskeleton
+GO:0039713	5	GO:0033646	host intracellular part
+GO:0019814	3	GO:0032991	protein-containing complex
+GO:0032590	10	GO:0031253	cell projection membrane
+GO:0062129	8	GO:0031012	extracellular matrix
+GO:0036379	22	GO:0005856	cytoskeleton
+GO:0043656	5	GO:0033646	host intracellular part
+GO:0043657	21	GO:0042995	cell projection
+GO:0031674	22	GO:0005856	cytoskeleton
+GO:0033643	5	GO:0033646	host intracellular part
+GO:0001891	11	GO:0005886	plasma membrane
+GO:0018995	21	GO:0042995	cell projection
+GO:0000347	13	GO:0140513	nuclear protein-containing complex
+GO:0045495	19	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0060293	20	GO:0034045	phagophore assembly site membrane
+GO:0016593	12	GO:0035097	histone methyltransferase complex
+GO:0070876	13	GO:0140513	nuclear protein-containing complex
+GO:0005668	14	GO:0033557	Slx1-Slx4 complex
+GO:0031430	22	GO:0005856	cytoskeleton
+GO:0005927	7	GO:0098984	neuron to neuron synapse
+GO:0042729	14	GO:0033557	Slx1-Slx4 complex
+GO:0031672	22	GO:0005856	cytoskeleton
+GO:0005853	19	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0005901	11	GO:0005886	plasma membrane
+GO:0036338	4	GO:0019028	viral capsid
+GO:0033270	6	GO:0043005	neuron projection
+GO:0030018	22	GO:0005856	cytoskeleton
+GO:0005777	18	GO:0005773	vacuole
+GO:0005778	17	GO:0000139	Golgi membrane
+GO:0045111	22	GO:0005856	cytoskeleton
+GO:0000500	14	GO:0033557	Slx1-Slx4 complex
+GO:0030875	15	GO:0005634	nucleus
+GO:0000333	12	GO:0035097	histone methyltransferase complex
+GO:0033557	14	GO:0033557	Slx1-Slx4 complex
+GO:0030288	8	GO:0031012	extracellular matrix
+GO:1902911	2	GO:1905360	GTPase complex
+GO:0005675	12	GO:0035097	histone methyltransferase complex
+GO:0000439	13	GO:0140513	nuclear protein-containing complex
+GO:0005751	17	GO:0000139	Golgi membrane
+GO:0005788	18	GO:0005773	vacuole
+GO:0000112	13	GO:0140513	nuclear protein-containing complex
+GO:0071752	1	GO:0042571	immunoglobulin complex, circulating
+GO:0071756	1	GO:0042571	immunoglobulin complex, circulating
+GO:0000131	2	GO:1905360	GTPase complex
+GO:0036128	9	GO:0008076	voltage-gated potassium channel complex
+GO:0070685	6	GO:0043005	neuron projection
+GO:0071748	1	GO:0042571	immunoglobulin complex, circulating
+GO:0032806	12	GO:0035097	histone methyltransferase complex
+GO:0070648	23	GO:0005881	cytoplasmic microtubule
+GO:0031588	2	GO:1905360	GTPase complex
+GO:1902773	2	GO:1905360	GTPase complex
+GO:0031520	11	GO:0005886	plasma membrane
+GO:0005854	19	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0030076	19	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0031143	6	GO:0043005	neuron projection
+GO:0030479	23	GO:0005881	cytoplasmic microtubule
+GO:0035658	19	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0005825	22	GO:0005856	cytoskeleton
+GO:0045335	16	GO:0031410	cytoplasmic vesicle
+GO:0097539	21	GO:0042995	cell projection
+GO:0051286	21	GO:0042995	cell projection
+GO:0031260	10	GO:0031253	cell projection membrane
+GO:1904090	3	GO:0032991	protein-containing complex
+GO:0042788	24	GO:0000775	chromosome, centromeric region
+GO:1990819	23	GO:0005881	cytoplasmic microtubule
+GO:0061496	23	GO:0005881	cytoplasmic microtubule
+GO:0071957	23	GO:0005881	cytoplasmic microtubule
+GO:0043332	6	GO:0043005	neuron projection
+GO:0005937	6	GO:0043005	neuron projection
+GO:1902554	2	GO:1905360	GTPase complex
+GO:1902555	2	GO:1905360	GTPase complex
+GO:1990528	3	GO:0032991	protein-containing complex
+GO:0061802	20	GO:0034045	phagophore assembly site membrane
+GO:1990907	13	GO:0140513	nuclear protein-containing complex
+GO:0090533	9	GO:0008076	voltage-gated potassium channel complex
+GO:0032992	3	GO:0032991	protein-containing complex
+GO:0005952	2	GO:1905360	GTPase complex
+GO:0031526	10	GO:0031253	cell projection membrane
+GO:0031514	6	GO:0043005	neuron projection
+GO:0030289	2	GO:1905360	GTPase complex
+GO:0005925	7	GO:0098984	neuron to neuron synapse
+GO:0005915	7	GO:0098984	neuron to neuron synapse
+GO:0005652	15	GO:0005634	nucleus
+GO:0043159	18	GO:0005773	vacuole
+GO:0032010	16	GO:0031410	cytoplasmic vesicle
+GO:0048788	23	GO:0005881	cytoplasmic microtubule
+GO:0005902	6	GO:0043005	neuron projection
+GO:0044297	21	GO:0042995	cell projection
+GO:0005757	17	GO:0000139	Golgi membrane
+GO:0030665	16	GO:0031410	cytoplasmic vesicle
+GO:0005771	16	GO:0031410	cytoplasmic vesicle
+GO:0035869	21	GO:0042995	cell projection
+GO:0098982	7	GO:0098984	neuron to neuron synapse
+GO:0031083	19	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0031941	23	GO:0005881	cytoplasmic microtubule
+GO:0019008	3	GO:0032991	protein-containing complex
+GO:0000220	17	GO:0000139	Golgi membrane
+GO:0098794	21	GO:0042995	cell projection
+GO:0060053	23	GO:0005881	cytoplasmic microtubule
+GO:0044354	16	GO:0031410	cytoplasmic vesicle
+GO:1990184	9	GO:0008076	voltage-gated potassium channel complex
+GO:0005701	24	GO:0000775	chromosome, centromeric region
+GO:0000242	22	GO:0005856	cytoskeleton
+GO:0044099	21	GO:0042995	cell projection
+GO:0097209	16	GO:0031410	cytoplasmic vesicle
+GO:0000329	17	GO:0000139	Golgi membrane
+GO:1990131	3	GO:0032991	protein-containing complex
+GO:0005856	22	GO:0005856	cytoskeleton
+GO:0000792	24	GO:0000775	chromosome, centromeric region
+GO:0005885	22	GO:0005856	cytoskeleton
+GO:0033111	17	GO:0000139	Golgi membrane
+GO:0016006	18	GO:0005773	vacuole
+GO:0044753	18	GO:0005773	vacuole
+GO:0043209	21	GO:0042995	cell projection
+GO:0009925	11	GO:0005886	plasma membrane
+GO:0030121	17	GO:0000139	Golgi membrane
+GO:0002199	3	GO:0032991	protein-containing complex
+GO:0030125	17	GO:0000139	Golgi membrane
+GO:0042622	10	GO:0031253	cell projection membrane
+GO:0032585	16	GO:0031410	cytoplasmic vesicle
+GO:0030136	16	GO:0031410	cytoplasmic vesicle
+GO:0032983	9	GO:0008076	voltage-gated potassium channel complex
+GO:0031254	21	GO:0042995	cell projection
+GO:0090619	23	GO:0005881	cytoplasmic microtubule
+GO:0031207	17	GO:0000139	Golgi membrane
+GO:0031332	2	GO:1905360	GTPase complex
+GO:0002080	16	GO:0031410	cytoplasmic vesicle
+GO:1990124	2	GO:1905360	GTPase complex
+GO:0140453	22	GO:0005856	cytoskeleton
+GO:0140445	24	GO:0000775	chromosome, centromeric region
+GO:0008305	9	GO:0008076	voltage-gated potassium channel complex
+GO:0062159	22	GO:0005856	cytoskeleton
+GO:0098802	9	GO:0008076	voltage-gated potassium channel complex
+GO:0042581	16	GO:0031410	cytoplasmic vesicle
+GO:0005912	7	GO:0098984	neuron to neuron synapse
+GO:0031969	17	GO:0000139	Golgi membrane
+GO:0032116	13	GO:0140513	nuclear protein-containing complex
+GO:0033255	12	GO:0035097	histone methyltransferase complex
+GO:0097342	19	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0043293	19	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0031265	9	GO:0008076	voltage-gated potassium channel complex
+GO:0035301	2	GO:1905360	GTPase complex
+GO:0044172	5	GO:0033646	host intracellular part
+GO:0071012	13	GO:0140513	nuclear protein-containing complex
+GO:0016589	14	GO:0033557	Slx1-Slx4 complex
+GO:0005677	13	GO:0140513	nuclear protein-containing complex
+GO:0071006	12	GO:0035097	histone methyltransferase complex
+GO:0005776	18	GO:0005773	vacuole
+GO:0055044	21	GO:0042995	cell projection
+GO:0070822	14	GO:0033557	Slx1-Slx4 complex
+GO:0038037	9	GO:0008076	voltage-gated potassium channel complex
+GO:0009279	8	GO:0031012	extracellular matrix
+GO:0097648	9	GO:0008076	voltage-gated potassium channel complex
+GO:0009506	7	GO:0098984	neuron to neuron synapse
+GO:0051233	22	GO:0005856	cytoskeleton
+GO:0032133	23	GO:0005881	cytoplasmic microtubule
+GO:0000322	18	GO:0005773	vacuole
+GO:0000324	18	GO:0005773	vacuole
+GO:0032045	2	GO:1905360	GTPase complex
+GO:0032421	21	GO:0042995	cell projection
+GO:0042718	19	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0032839	6	GO:0043005	neuron projection
+GO:0031983	16	GO:0031410	cytoplasmic vesicle
+GO:0036019	16	GO:0031410	cytoplasmic vesicle
+GO:0098533	9	GO:0008076	voltage-gated potassium channel complex
+GO:0016939	23	GO:0005881	cytoplasmic microtubule
+GO:0071682	16	GO:0031410	cytoplasmic vesicle
+GO:0031097	20	GO:0034045	phagophore assembly site membrane
+GO:0008250	17	GO:0000139	Golgi membrane
+GO:0042599	16	GO:0031410	cytoplasmic vesicle
+GO:1990251	15	GO:0005634	nucleus
+GO:0120119	7	GO:0098984	neuron to neuron synapse
+GO:0033063	13	GO:0140513	nuclear protein-containing complex
+GO:0044185	5	GO:0033646	host intracellular part
+GO:0097470	7	GO:0098984	neuron to neuron synapse
+GO:0030314	19	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0098871	23	GO:0005881	cytoplasmic microtubule
+GO:0098833	21	GO:0042995	cell projection
+GO:0032993	3	GO:0032991	protein-containing complex
+GO:0043655	21	GO:0042995	cell projection
+GO:0042629	18	GO:0005773	vacuole
+GO:0001740	14	GO:0033557	Slx1-Slx4 complex
+GO:0005859	23	GO:0005881	cytoplasmic microtubule
+GO:0072494	5	GO:0033646	host intracellular part
+GO:0030485	23	GO:0005881	cytoplasmic microtubule
+GO:0030016	23	GO:0005881	cytoplasmic microtubule
+GO:0043240	13	GO:0140513	nuclear protein-containing complex
+GO:0045334	16	GO:0031410	cytoplasmic vesicle
+GO:0070772	17	GO:0000139	Golgi membrane
+GO:0031262	24	GO:0000775	chromosome, centromeric region
+GO:0070732	18	GO:0005773	vacuole
+GO:1990477	13	GO:0140513	nuclear protein-containing complex
+GO:0016020	21	GO:0042995	cell projection
+GO:0030993	22	GO:0005856	cytoskeleton
+GO:0000779	24	GO:0000775	chromosome, centromeric region
+GO:0033268	6	GO:0043005	neuron projection
+GO:0005587	8	GO:0031012	extracellular matrix
+GO:0030175	6	GO:0043005	neuron projection
+GO:0018444	19	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0033620	13	GO:0140513	nuclear protein-containing complex
+GO:0098683	7	GO:0098984	neuron to neuron synapse
+GO:0020016	21	GO:0042995	cell projection
+GO:0005938	19	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0002189	2	GO:1905360	GTPase complex
+GO:0120044	6	GO:0043005	neuron projection
+GO:0070985	12	GO:0035097	histone methyltransferase complex
+GO:0016323	11	GO:0005886	plasma membrane
+GO:0034706	9	GO:0008076	voltage-gated potassium channel complex
+GO:0048188	12	GO:0035097	histone methyltransferase complex
+GO:0005791	18	GO:0005773	vacuole
+GO:0005793	18	GO:0005773	vacuole
+GO:0005794	18	GO:0005773	vacuole
+GO:0098984	7	GO:0098984	neuron to neuron synapse
+GO:0005798	16	GO:0031410	cytoplasmic vesicle
+GO:0097431	23	GO:0005881	cytoplasmic microtubule
+GO:0016282	19	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0098978	7	GO:0098984	neuron to neuron synapse
+GO:0070603	14	GO:0033557	Slx1-Slx4 complex
+GO:0030424	6	GO:0043005	neuron projection
+GO:0030425	6	GO:0043005	neuron projection
+GO:0022625	23	GO:0005881	cytoplasmic microtubule
+GO:0070176	13	GO:0140513	nuclear protein-containing complex
+GO:0005764	18	GO:0005773	vacuole
+GO:0035997	10	GO:0031253	cell projection membrane
+GO:0071683	6	GO:0043005	neuron projection
+GO:0005768	16	GO:0031410	cytoplasmic vesicle
+GO:0005769	16	GO:0031410	cytoplasmic vesicle
+GO:0031528	10	GO:0031253	cell projection membrane
+GO:0008021	16	GO:0031410	cytoplasmic vesicle
+GO:0042588	16	GO:0031410	cytoplasmic vesicle
+GO:0000791	24	GO:0000775	chromosome, centromeric region
+GO:0097731	6	GO:0043005	neuron projection
+GO:0031201	19	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0005789	17	GO:0000139	Golgi membrane
+GO:1990904	3	GO:0032991	protein-containing complex
+GO:0005770	16	GO:0031410	cytoplasmic vesicle
+GO:0098862	21	GO:0042995	cell projection
+GO:0030990	3	GO:0032991	protein-containing complex
+GO:0030991	3	GO:0032991	protein-containing complex
+GO:0098852	17	GO:0000139	Golgi membrane
+GO:0031461	2	GO:1905360	GTPase complex
+GO:0031463	2	GO:1905360	GTPase complex
+GO:0005667	3	GO:0032991	protein-containing complex
+GO:0044613	13	GO:0140513	nuclear protein-containing complex
+GO:0030659	16	GO:0031410	cytoplasmic vesicle
+GO:0005669	12	GO:0035097	histone methyltransferase complex
+GO:0070062	20	GO:0034045	phagophore assembly site membrane
+GO:0070820	16	GO:0031410	cytoplasmic vesicle
+GO:0016514	14	GO:0033557	Slx1-Slx4 complex
+GO:0030687	2	GO:1905360	GTPase complex
+GO:0008328	9	GO:0008076	voltage-gated potassium channel complex
+GO:0005657	22	GO:0005856	cytoskeleton
+GO:0032991	3	GO:0032991	protein-containing complex
+GO:0005680	12	GO:0035097	histone methyltransferase complex
+GO:0000783	14	GO:0033557	Slx1-Slx4 complex
+GO:0098878	9	GO:0008076	voltage-gated potassium channel complex
+GO:0016533	2	GO:1905360	GTPase complex
+GO:0034399	15	GO:0005634	nucleus
+GO:0070847	13	GO:0140513	nuclear protein-containing complex
+GO:0005739	18	GO:0005773	vacuole
+GO:1990023	23	GO:0005881	cytoplasmic microtubule
+GO:0036396	19	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0031428	2	GO:1905360	GTPase complex
+GO:0031410	16	GO:0031410	cytoplasmic vesicle
+GO:0005614	8	GO:0031012	extracellular matrix
+GO:1904724	16	GO:0031410	cytoplasmic vesicle
+GO:0010008	16	GO:0031410	cytoplasmic vesicle
+GO:0098839	7	GO:0098984	neuron to neuron synapse
+GO:0035097	12	GO:0035097	histone methyltransferase complex
+GO:0035098	12	GO:0035097	histone methyltransferase complex
+GO:0035145	13	GO:0140513	nuclear protein-containing complex
+GO:0005911	7	GO:0098984	neuron to neuron synapse
+GO:0060205	16	GO:0031410	cytoplasmic vesicle
+GO:0005947	17	GO:0000139	Golgi membrane
+GO:0042995	21	GO:0042995	cell projection
+GO:0000922	22	GO:0005856	cytoskeleton
+GO:0000151	2	GO:1905360	GTPase complex
+GO:0048237	18	GO:0005773	vacuole
+GO:0033290	19	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0090665	3	GO:0032991	protein-containing complex
+GO:0097361	19	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0098562	11	GO:0005886	plasma membrane
+GO:0000930	22	GO:0005856	cytoskeleton
+GO:0071013	13	GO:0140513	nuclear protein-containing complex
+GO:0030054	21	GO:0042995	cell projection
+GO:0098552	21	GO:0042995	cell projection
+GO:0045178	21	GO:0042995	cell projection
+GO:0099020	18	GO:0005773	vacuole
+GO:0005829	19	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0110092	15	GO:0005634	nucleus
+GO:0097038	18	GO:0005773	vacuole
+GO:1904115	6	GO:0043005	neuron projection
+GO:0009523	20	GO:0034045	phagophore assembly site membrane
+GO:0000139	17	GO:0000139	Golgi membrane
+GO:0032838	20	GO:0034045	phagophore assembly site membrane
+GO:0080008	2	GO:1905360	GTPase complex
+GO:0016605	15	GO:0005634	nucleus
+GO:0071561	21	GO:0042995	cell projection
+GO:0097228	21	GO:0042995	cell projection
+GO:0140513	13	GO:0140513	nuclear protein-containing complex
+GO:0002102	22	GO:0005856	cytoskeleton
+GO:0098793	21	GO:0042995	cell projection
+GO:0043296	7	GO:0098984	neuron to neuron synapse
+GO:0098797	9	GO:0008076	voltage-gated potassium channel complex
+GO:0005593	2	GO:1905360	GTPase complex
+GO:0005594	2	GO:1905360	GTPase complex
+GO:0045293	3	GO:0032991	protein-containing complex
+GO:0043034	22	GO:0005856	cytoskeleton
+GO:0014069	7	GO:0098984	neuron to neuron synapse
+GO:0035579	16	GO:0031410	cytoplasmic vesicle
+GO:0032281	9	GO:0008076	voltage-gated potassium channel complex
+GO:0120111	6	GO:0043005	neuron projection
+GO:0099572	21	GO:0042995	cell projection
+GO:1990779	9	GO:0008076	voltage-gated potassium channel complex
+GO:0032279	7	GO:0098984	neuron to neuron synapse
+GO:0071540	19	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0055037	16	GO:0031410	cytoplasmic vesicle
+GO:0034774	16	GO:0031410	cytoplasmic vesicle
+GO:0043005	6	GO:0043005	neuron projection
+GO:0031011	14	GO:0033557	Slx1-Slx4 complex
+GO:0039620	4	GO:0019028	viral capsid
+GO:0016363	15	GO:0005634	nucleus
+GO:0030496	21	GO:0042995	cell projection
+GO:0042383	11	GO:0005886	plasma membrane
+GO:0098685	7	GO:0098984	neuron to neuron synapse
+GO:0031312	18	GO:0005773	vacuole
+GO:0045211	11	GO:0005886	plasma membrane
+GO:0000307	2	GO:1905360	GTPase complex
+GO:0120025	6	GO:0043005	neuron projection
+GO:0097014	20	GO:0034045	phagophore assembly site membrane
+GO:0030312	21	GO:0042995	cell projection
+GO:0000152	12	GO:0035097	histone methyltransferase complex
+GO:0005930	22	GO:0005856	cytoskeleton
+GO:0042764	21	GO:0042995	cell projection
+GO:0097447	6	GO:0043005	neuron projection
+GO:0048046	21	GO:0042995	cell projection
+GO:0099523	20	GO:0034045	phagophore assembly site membrane
+GO:0099524	20	GO:0034045	phagophore assembly site membrane
+GO:0002177	22	GO:0005856	cytoskeleton
+GO:0060170	10	GO:0031253	cell projection membrane
+GO:0044304	6	GO:0043005	neuron projection
+GO:0005852	19	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0016460	23	GO:0005881	cytoplasmic microtubule
+GO:0005879	23	GO:0005881	cytoplasmic microtubule
+GO:0000813	17	GO:0000139	Golgi membrane
+GO:0000803	24	GO:0000775	chromosome, centromeric region
+GO:0070993	19	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0031904	16	GO:0031410	cytoplasmic vesicle
+GO:0099503	16	GO:0031410	cytoplasmic vesicle
+GO:0098686	7	GO:0098984	neuron to neuron synapse
+GO:1904813	16	GO:0031410	cytoplasmic vesicle
+GO:0101002	16	GO:0031410	cytoplasmic vesicle
+GO:0046696	9	GO:0008076	voltage-gated potassium channel complex
+GO:0009898	11	GO:0005886	plasma membrane
+GO:1990972	8	GO:0031012	extracellular matrix
+GO:0071008	12	GO:0035097	histone methyltransferase complex
+GO:0031838	3	GO:0032991	protein-containing complex
+GO:0008180	13	GO:0140513	nuclear protein-containing complex
+GO:0110143	21	GO:0042995	cell projection
+GO:0140220	5	GO:0033646	host intracellular part
+GO:0005784	17	GO:0000139	Golgi membrane
+GO:0019908	12	GO:0035097	histone methyltransferase complex
+GO:0150005	3	GO:0032991	protein-containing complex
+GO:0030670	16	GO:0031410	cytoplasmic vesicle
+GO:0043292	22	GO:0005856	cytoskeleton
+GO:0043218	21	GO:0042995	cell projection
+GO:0061702	19	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0008024	12	GO:0035097	histone methyltransferase complex
+GO:0000419	12	GO:0035097	histone methyltransferase complex
+GO:0042611	9	GO:0008076	voltage-gated potassium channel complex
+GO:0071256	17	GO:0000139	Golgi membrane

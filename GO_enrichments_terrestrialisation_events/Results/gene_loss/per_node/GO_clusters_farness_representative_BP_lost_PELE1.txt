@@ -1,0 +1,396 @@
+GO:0060042	3	GO:0048705	skeletal system morphogenesis
+GO:0060043	9	GO:0051094	positive regulation of developmental process
+GO:0048762	2	GO:0048762	mesenchymal cell differentiation
+GO:0060033	4	GO:0009653	anatomical structure morphogenesis
+GO:0060038	2	GO:0048762	mesenchymal cell differentiation
+GO:0048755	4	GO:0009653	anatomical structure morphogenesis
+GO:0051053	10	GO:0045892	negative regulation of transcription, DNA-templated
+GO:0043053	4	GO:0009653	anatomical structure morphogenesis
+GO:0061626	3	GO:0048705	skeletal system morphogenesis
+GO:0048729	4	GO:0009653	anatomical structure morphogenesis
+GO:0048713	8	GO:0048713	regulation of oligodendrocyte differentiation
+GO:0048714	8	GO:0048713	regulation of oligodendrocyte differentiation
+GO:0048738	3	GO:0048705	skeletal system morphogenesis
+GO:0043031	21	GO:1905155	positive regulation of membrane invagination
+GO:0010954	19	GO:0060393	regulation of pathway-restricted SMAD protein phosphorylation
+GO:0048701	3	GO:0048705	skeletal system morphogenesis
+GO:0048703	3	GO:0048705	skeletal system morphogenesis
+GO:0048705	3	GO:0048705	skeletal system morphogenesis
+GO:0010923	19	GO:0060393	regulation of pathway-restricted SMAD protein phosphorylation
+GO:0010927	2	GO:0048762	mesenchymal cell differentiation
+GO:0007398	4	GO:0009653	anatomical structure morphogenesis
+GO:0003018	14	GO:0007586	digestion
+GO:0048863	2	GO:0048762	mesenchymal cell differentiation
+GO:0072171	3	GO:0048705	skeletal system morphogenesis
+GO:0007389	4	GO:0009653	anatomical structure morphogenesis
+GO:0048821	2	GO:0048762	mesenchymal cell differentiation
+GO:0007379	4	GO:0009653	anatomical structure morphogenesis
+GO:0003002	4	GO:0009653	anatomical structure morphogenesis
+GO:0048827	4	GO:0009653	anatomical structure morphogenesis
+GO:0007317	1	GO:0042078	germ-line stem cell division
+GO:0048844	3	GO:0048705	skeletal system morphogenesis
+GO:0007343	13	GO:0060180	female mating behavior
+GO:0007338	13	GO:0060180	female mating behavior
+GO:0032736	15	GO:0051241	negative regulation of multicellular organismal process
+GO:0007306	1	GO:0042078	germ-line stem cell division
+GO:1903224	9	GO:0051094	positive regulation of developmental process
+GO:0048596	3	GO:0048705	skeletal system morphogenesis
+GO:0007498	4	GO:0009653	anatomical structure morphogenesis
+GO:0035265	4	GO:0009653	anatomical structure morphogenesis
+GO:0007469	3	GO:0048705	skeletal system morphogenesis
+GO:0048580	9	GO:0051094	positive regulation of developmental process
+GO:0035277	4	GO:0009653	anatomical structure morphogenesis
+GO:0048520	15	GO:0051241	negative regulation of multicellular organismal process
+GO:0048521	15	GO:0051241	negative regulation of multicellular organismal process
+GO:0046044	19	GO:0060393	regulation of pathway-restricted SMAD protein phosphorylation
+GO:0007411	8	GO:0048713	regulation of oligodendrocyte differentiation
+GO:0035212	9	GO:0051094	positive regulation of developmental process
+GO:0035214	3	GO:0048705	skeletal system morphogenesis
+GO:0060393	19	GO:0060393	regulation of pathway-restricted SMAD protein phosphorylation
+GO:0032825	8	GO:0048713	regulation of oligodendrocyte differentiation
+GO:0060395	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0048538	3	GO:0048705	skeletal system morphogenesis
+GO:0035235	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0039573	12	GO:0030451	regulation of complement activation, alternative pathway
+GO:0070986	4	GO:0009653	anatomical structure morphogenesis
+GO:0039576	19	GO:0060393	regulation of pathway-restricted SMAD protein phosphorylation
+GO:0048690	7	GO:0048679	regulation of axon regeneration
+GO:0048691	7	GO:0048679	regulation of axon regeneration
+GO:0007193	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0050907	14	GO:0007586	digestion
+GO:0050909	14	GO:0007586	digestion
+GO:0038092	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0060348	3	GO:0048705	skeletal system morphogenesis
+GO:0060349	3	GO:0048705	skeletal system morphogenesis
+GO:0039502	12	GO:0030451	regulation of complement activation, alternative pathway
+GO:0007155	18	GO:0001775	cell activation
+GO:0038066	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0048680	7	GO:0048679	regulation of axon regeneration
+GO:0048681	7	GO:0048679	regulation of axon regeneration
+GO:0048687	7	GO:0048679	regulation of axon regeneration
+GO:0051382	17	GO:0006338	chromatin remodeling
+GO:0007186	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0007188	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0048679	7	GO:0048679	regulation of axon regeneration
+GO:0007179	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0039693	16	GO:0019083	viral transcription
+GO:0039695	16	GO:0019083	viral transcription
+GO:0035728	11	GO:1990834	response to odorant
+GO:0071363	11	GO:1990834	response to odorant
+GO:0048619	3	GO:0048705	skeletal system morphogenesis
+GO:0048645	3	GO:0048705	skeletal system morphogenesis
+GO:0048646	4	GO:0009653	anatomical structure morphogenesis
+GO:0071375	11	GO:1990834	response to odorant
+GO:0039656	16	GO:0019083	viral transcription
+GO:0039686	16	GO:0019083	viral transcription
+GO:0039671	16	GO:0019083	viral transcription
+GO:0039673	16	GO:0019083	viral transcription
+GO:0051302	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0039645	21	GO:1905155	positive regulation of membrane invagination
+GO:1903844	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:1903846	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0031122	17	GO:0006338	chromatin remodeling
+GO:0060412	3	GO:0048705	skeletal system morphogenesis
+GO:0060443	3	GO:0048705	skeletal system morphogenesis
+GO:0000122	10	GO:0045892	negative regulation of transcription, DNA-templated
+GO:1902455	9	GO:0051094	positive regulation of developmental process
+GO:1902459	9	GO:0051094	positive regulation of developmental process
+GO:0035850	2	GO:0048762	mesenchymal cell differentiation
+GO:0051482	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0032656	15	GO:0051241	negative regulation of multicellular organismal process
+GO:0007218	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0031290	8	GO:0048713	regulation of oligodendrocyte differentiation
+GO:0031294	21	GO:1905155	positive regulation of membrane invagination
+GO:0031295	21	GO:1905155	positive regulation of membrane invagination
+GO:0032616	14	GO:0007586	digestion
+GO:0043433	10	GO:0045892	negative regulation of transcription, DNA-templated
+GO:0042067	3	GO:0048705	skeletal system morphogenesis
+GO:0022010	8	GO:0048713	regulation of oligodendrocyte differentiation
+GO:0032649	15	GO:0051241	negative regulation of multicellular organismal process
+GO:1901076	21	GO:1905155	positive regulation of membrane invagination
+GO:0071417	11	GO:1990834	response to odorant
+GO:0007200	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0031268	17	GO:0006338	chromatin remodeling
+GO:0031269	17	GO:0006338	chromatin remodeling
+GO:0060180	13	GO:0060180	female mating behavior
+GO:1903523	15	GO:0051241	negative regulation of multicellular organismal process
+GO:0042078	1	GO:0042078	germ-line stem cell division
+GO:1901046	15	GO:0051241	negative regulation of multicellular organismal process
+GO:0032609	14	GO:0007586	digestion
+GO:0031272	21	GO:1905155	positive regulation of membrane invagination
+GO:0031274	21	GO:1905155	positive regulation of membrane invagination
+GO:0060122	8	GO:0048713	regulation of oligodendrocyte differentiation
+GO:0060140	9	GO:0051094	positive regulation of developmental process
+GO:0060141	9	GO:0051094	positive regulation of developmental process
+GO:0060142	9	GO:0051094	positive regulation of developmental process
+GO:0060143	9	GO:0051094	positive regulation of developmental process
+GO:0106014	12	GO:0030451	regulation of complement activation, alternative pathway
+GO:0106016	12	GO:0030451	regulation of complement activation, alternative pathway
+GO:1903507	10	GO:0045892	negative regulation of transcription, DNA-templated
+GO:0035589	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0060100	21	GO:1905155	positive regulation of membrane invagination
+GO:0002089	3	GO:0048705	skeletal system morphogenesis
+GO:0043123	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0043129	14	GO:0007586	digestion
+GO:0051146	2	GO:0048762	mesenchymal cell differentiation
+GO:0003197	3	GO:0048705	skeletal system morphogenesis
+GO:0014059	21	GO:1905155	positive regulation of membrane invagination
+GO:0006357	10	GO:0045892	negative regulation of transcription, DNA-templated
+GO:0044650	16	GO:0019083	viral transcription
+GO:0003156	3	GO:0048705	skeletal system morphogenesis
+GO:0002009	4	GO:0009653	anatomical structure morphogenesis
+GO:0034080	17	GO:0006338	chromatin remodeling
+GO:0003179	3	GO:0048705	skeletal system morphogenesis
+GO:0014033	2	GO:0048762	mesenchymal cell differentiation
+GO:1905456	9	GO:0051094	positive regulation of developmental process
+GO:0006338	17	GO:0006338	chromatin remodeling
+GO:0051260	17	GO:0006338	chromatin remodeling
+GO:0043282	3	GO:0048705	skeletal system morphogenesis
+GO:0051216	3	GO:0048705	skeletal system morphogenesis
+GO:0000706	19	GO:0060393	regulation of pathway-restricted SMAD protein phosphorylation
+GO:0051241	15	GO:0051241	negative regulation of multicellular organismal process
+GO:0071286	11	GO:1990834	response to odorant
+GO:0071287	11	GO:1990834	response to odorant
+GO:0031860	19	GO:0060393	regulation of pathway-restricted SMAD protein phosphorylation
+GO:0060788	4	GO:0009653	anatomical structure morphogenesis
+GO:1905155	21	GO:1905155	positive regulation of membrane invagination
+GO:0060711	3	GO:0048705	skeletal system morphogenesis
+GO:0007586	14	GO:0007586	digestion
+GO:0007525	4	GO:0009653	anatomical structure morphogenesis
+GO:0007526	3	GO:0048705	skeletal system morphogenesis
+GO:0007517	3	GO:0048705	skeletal system morphogenesis
+GO:0032924	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0007534	19	GO:0060393	regulation of pathway-restricted SMAD protein phosphorylation
+GO:0017015	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0007501	2	GO:0048762	mesenchymal cell differentiation
+GO:0031532	17	GO:0006338	chromatin remodeling
+GO:0038166	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0007621	13	GO:0060180	female mating behavior
+GO:0007631	14	GO:0007586	digestion
+GO:0030029	18	GO:0001775	cell activation
+GO:0060563	2	GO:0048762	mesenchymal cell differentiation
+GO:0031663	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0007606	14	GO:0007586	digestion
+GO:0007608	14	GO:0007586	digestion
+GO:0009414	11	GO:1990834	response to odorant
+GO:0009415	11	GO:1990834	response to odorant
+GO:0006278	10	GO:0045892	negative regulation of transcription, DNA-templated
+GO:0042472	3	GO:0048705	skeletal system morphogenesis
+GO:0030036	17	GO:0006338	chromatin remodeling
+GO:0051592	11	GO:1990834	response to odorant
+GO:0090090	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0006230	19	GO:0060393	regulation of pathway-restricted SMAD protein phosphorylation
+GO:0090092	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0015979	18	GO:0001775	cell activation
+GO:1905770	9	GO:0051094	positive regulation of developmental process
+GO:0031643	9	GO:0051094	positive regulation of developmental process
+GO:0097009	14	GO:0007586	digestion
+GO:0046718	16	GO:0019083	viral transcription
+GO:0035914	2	GO:0048762	mesenchymal cell differentiation
+GO:0090022	5	GO:0030334	regulation of cell migration
+GO:0071559	11	GO:1990834	response to odorant
+GO:2000055	9	GO:0051094	positive regulation of developmental process
+GO:0071588	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:2000027	3	GO:0048705	skeletal system morphogenesis
+GO:0035909	3	GO:0048705	skeletal system morphogenesis
+GO:0060675	3	GO:0048705	skeletal system morphogenesis
+GO:0070098	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:1990264	19	GO:0060393	regulation of pathway-restricted SMAD protein phosphorylation
+GO:0070050	18	GO:0001775	cell activation
+GO:0060603	3	GO:0048705	skeletal system morphogenesis
+GO:0061098	19	GO:0060393	regulation of pathway-restricted SMAD protein phosphorylation
+GO:0046813	16	GO:0019083	viral transcription
+GO:0034405	11	GO:1990834	response to odorant
+GO:0061061	4	GO:0009653	anatomical structure morphogenesis
+GO:0061062	9	GO:0051094	positive regulation of developmental process
+GO:0061065	9	GO:0051094	positive regulation of developmental process
+GO:0002119	4	GO:0009653	anatomical structure morphogenesis
+GO:0045450	1	GO:0042078	germ-line stem cell division
+GO:0061041	12	GO:0030451	regulation of complement activation, alternative pathway
+GO:0033002	18	GO:0001775	cell activation
+GO:0061045	12	GO:0030451	regulation of complement activation, alternative pathway
+GO:0033005	21	GO:1905155	positive regulation of membrane invagination
+GO:0045434	13	GO:0060180	female mating behavior
+GO:0009200	19	GO:0060393	regulation of pathway-restricted SMAD protein phosphorylation
+GO:0034113	18	GO:0001775	cell activation
+GO:0061005	2	GO:0048762	mesenchymal cell differentiation
+GO:0098722	18	GO:0001775	cell activation
+GO:0098728	1	GO:0042078	germ-line stem cell division
+GO:0098742	18	GO:0001775	cell activation
+GO:0002228	12	GO:0030451	regulation of complement activation, alternative pathway
+GO:0030325	3	GO:0048705	skeletal system morphogenesis
+GO:0045187	15	GO:0051241	negative regulation of multicellular organismal process
+GO:0045123	5	GO:0030334	regulation of cell migration
+GO:0042789	10	GO:0045892	negative regulation of transcription, DNA-templated
+GO:0030334	5	GO:0030334	regulation of cell migration
+GO:0030335	5	GO:0030334	regulation of cell migration
+GO:0030336	5	GO:0030334	regulation of cell migration
+GO:0046697	3	GO:0048705	skeletal system morphogenesis
+GO:1904018	9	GO:0051094	positive regulation of developmental process
+GO:0045138	4	GO:0009653	anatomical structure morphogenesis
+GO:0042742	12	GO:0030451	regulation of complement activation, alternative pathway
+GO:0042749	15	GO:0051241	negative regulation of multicellular organismal process
+GO:0046662	15	GO:0051241	negative regulation of multicellular organismal process
+GO:0098868	14	GO:0007586	digestion
+GO:0042730	12	GO:0030451	regulation of complement activation, alternative pathway
+GO:0002755	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0030466	10	GO:0045892	negative regulation of transcription, DNA-templated
+GO:0030451	12	GO:0030451	regulation of complement activation, alternative pathway
+GO:0017158	21	GO:1905155	positive regulation of membrane invagination
+GO:0002711	12	GO:0030451	regulation of complement activation, alternative pathway
+GO:1990834	11	GO:1990834	response to odorant
+GO:0030474	17	GO:0006338	chromatin remodeling
+GO:0009880	4	GO:0009653	anatomical structure morphogenesis
+GO:0046601	21	GO:1905155	positive regulation of membrane invagination
+GO:0017145	18	GO:0001775	cell activation
+GO:0030449	12	GO:0030451	regulation of complement activation, alternative pathway
+GO:0034765	21	GO:1905155	positive regulation of membrane invagination
+GO:0090305	19	GO:0060393	regulation of pathway-restricted SMAD protein phosphorylation
+GO:0097435	17	GO:0006338	chromatin remodeling
+GO:0034728	17	GO:0006338	chromatin remodeling
+GO:0010150	3	GO:0048705	skeletal system morphogenesis
+GO:0030195	12	GO:0030451	regulation of complement activation, alternative pathway
+GO:0030199	17	GO:0006338	chromatin remodeling
+GO:0060900	3	GO:0048705	skeletal system morphogenesis
+GO:0043970	19	GO:0060393	regulation of pathway-restricted SMAD protein phosphorylation
+GO:0045766	9	GO:0051094	positive regulation of developmental process
+GO:0014855	18	GO:0001775	cell activation
+GO:0019062	16	GO:0019083	viral transcription
+GO:0061326	3	GO:0048705	skeletal system morphogenesis
+GO:0061318	2	GO:0048762	mesenchymal cell differentiation
+GO:0019083	16	GO:0019083	viral transcription
+GO:1901534	9	GO:0051094	positive regulation of developmental process
+GO:0030101	18	GO:0001775	cell activation
+GO:0098670	16	GO:0019083	viral transcription
+GO:0098671	16	GO:0019083	viral transcription
+GO:0045892	10	GO:0045892	negative regulation of transcription, DNA-templated
+GO:0045893	10	GO:0045892	negative regulation of transcription, DNA-templated
+GO:1900074	21	GO:1905155	positive regulation of membrane invagination
+GO:0008015	14	GO:0007586	digestion
+GO:1900016	15	GO:0051241	negative regulation of multicellular organismal process
+GO:0009653	4	GO:0009653	anatomical structure morphogenesis
+GO:0032094	11	GO:1990834	response to odorant
+GO:1900047	15	GO:0051241	negative regulation of multicellular organismal process
+GO:0042661	8	GO:0048713	regulation of oligodendrocyte differentiation
+GO:0098609	18	GO:0001775	cell activation
+GO:1904385	11	GO:1990834	response to odorant
+GO:0042659	9	GO:0051094	positive regulation of developmental process
+GO:0045822	15	GO:0051241	negative regulation of multicellular organismal process
+GO:0061428	10	GO:0045892	negative regulation of transcription, DNA-templated
+GO:2000146	5	GO:0030334	regulation of cell migration
+GO:2000147	5	GO:0030334	regulation of cell migration
+GO:0090100	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0001172	10	GO:0045892	negative regulation of transcription, DNA-templated
+GO:0009631	11	GO:1990834	response to odorant
+GO:0002695	21	GO:1905155	positive regulation of membrane invagination
+GO:0010760	5	GO:0030334	regulation of cell migration
+GO:0010764	5	GO:0030334	regulation of cell migration
+GO:0016318	3	GO:0048705	skeletal system morphogenesis
+GO:0070121	4	GO:0009653	anatomical structure morphogenesis
+GO:0002689	5	GO:0030334	regulation of cell migration
+GO:0090287	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0036345	2	GO:0048762	mesenchymal cell differentiation
+GO:1905909	9	GO:0051094	positive regulation of developmental process
+GO:0061154	3	GO:0048705	skeletal system morphogenesis
+GO:0002638	19	GO:0060393	regulation of pathway-restricted SMAD protein phosphorylation
+GO:0045589	8	GO:0048713	regulation of oligodendrocyte differentiation
+GO:0006957	12	GO:0030451	regulation of complement activation, alternative pathway
+GO:0018991	13	GO:0060180	female mating behavior
+GO:2000243	15	GO:0051241	negative regulation of multicellular organismal process
+GO:0097746	14	GO:0007586	digestion
+GO:0061138	4	GO:0009653	anatomical structure morphogenesis
+GO:0006941	14	GO:0007586	digestion
+GO:0006942	15	GO:0051241	negative regulation of multicellular organismal process
+GO:0006948	16	GO:0019083	viral transcription
+GO:0006949	4	GO:0009653	anatomical structure morphogenesis
+GO:0030703	1	GO:0042078	germ-line stem cell division
+GO:0006937	15	GO:0051241	negative regulation of multicellular organismal process
+GO:0010862	19	GO:0060393	regulation of pathway-restricted SMAD protein phosphorylation
+GO:1903078	21	GO:1905155	positive regulation of membrane invagination
+GO:0070229	21	GO:1905155	positive regulation of membrane invagination
+GO:0010825	21	GO:1905155	positive regulation of membrane invagination
+GO:0035095	14	GO:0007586	digestion
+GO:0030851	2	GO:0048762	mesenchymal cell differentiation
+GO:1903034	12	GO:0030451	regulation of complement activation, alternative pathway
+GO:1903035	12	GO:0030451	regulation of complement activation, alternative pathway
+GO:0030887	21	GO:1905155	positive regulation of membrane invagination
+GO:0048368	3	GO:0048705	skeletal system morphogenesis
+GO:0050795	15	GO:0051241	negative regulation of multicellular organismal process
+GO:0045686	8	GO:0048713	regulation of oligodendrocyte differentiation
+GO:0045687	8	GO:0048713	regulation of oligodendrocyte differentiation
+GO:0035051	2	GO:0048762	mesenchymal cell differentiation
+GO:0001763	4	GO:0009653	anatomical structure morphogenesis
+GO:0001766	17	GO:0006338	chromatin remodeling
+GO:0035071	2	GO:0048762	mesenchymal cell differentiation
+GO:0001775	18	GO:0001775	cell activation
+GO:0033209	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0010594	5	GO:0030334	regulation of cell migration
+GO:0010595	5	GO:0030334	regulation of cell migration
+GO:0001710	2	GO:0048762	mesenchymal cell differentiation
+GO:0050727	12	GO:0030451	regulation of complement activation, alternative pathway
+GO:0001748	4	GO:0009653	anatomical structure morphogenesis
+GO:0050728	12	GO:0030451	regulation of complement activation, alternative pathway
+GO:0072009	3	GO:0048705	skeletal system morphogenesis
+GO:0050729	12	GO:0030451	regulation of complement activation, alternative pathway
+GO:0045601	9	GO:0051094	positive regulation of developmental process
+GO:0048308	17	GO:0006338	chromatin remodeling
+GO:0010573	14	GO:0007586	digestion
+GO:0010574	15	GO:0051241	negative regulation of multicellular organismal process
+GO:0010575	15	GO:0051241	negative regulation of multicellular organismal process
+GO:0001892	3	GO:0048705	skeletal system morphogenesis
+GO:0010543	21	GO:1905155	positive regulation of membrane invagination
+GO:0008345	14	GO:0007586	digestion
+GO:0009954	4	GO:0009653	anatomical structure morphogenesis
+GO:0030511	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0030512	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0030514	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0030536	14	GO:0007586	digestion
+GO:0030537	14	GO:0007586	digestion
+GO:0009949	4	GO:0009653	anatomical structure morphogenesis
+GO:0021556	4	GO:0009653	anatomical structure morphogenesis
+GO:0001825	4	GO:0009653	anatomical structure morphogenesis
+GO:0001845	17	GO:0006338	chromatin remodeling
+GO:0050819	15	GO:0051241	negative regulation of multicellular organismal process
+GO:0021545	4	GO:0009653	anatomical structure morphogenesis
+GO:0055013	2	GO:0048762	mesenchymal cell differentiation
+GO:0070848	11	GO:1990834	response to odorant
+GO:0010632	5	GO:0030334	regulation of cell migration
+GO:0010634	5	GO:0030334	regulation of cell migration
+GO:0055006	2	GO:0048762	mesenchymal cell differentiation
+GO:0021697	4	GO:0009653	anatomical structure morphogenesis
+GO:0055007	2	GO:0048762	mesenchymal cell differentiation
+GO:1904778	21	GO:1905155	positive regulation of membrane invagination
+GO:0001570	2	GO:0048762	mesenchymal cell differentiation
+GO:1904747	9	GO:0051094	positive regulation of developmental process
+GO:0048133	1	GO:0042078	germ-line stem cell division
+GO:0040024	4	GO:0009653	anatomical structure morphogenesis
+GO:0001541	3	GO:0048705	skeletal system morphogenesis
+GO:0090693	4	GO:0009653	anatomical structure morphogenesis
+GO:0040013	5	GO:0030334	regulation of cell migration
+GO:0040017	5	GO:0030334	regulation of cell migration
+GO:1903356	5	GO:0030334	regulation of cell migration
+GO:0048102	18	GO:0001775	cell activation
+GO:0040034	9	GO:0051094	positive regulation of developmental process
+GO:0008156	10	GO:0045892	negative regulation of transcription, DNA-templated
+GO:0007008	17	GO:0006338	chromatin remodeling
+GO:0070571	7	GO:0048679	regulation of axon regeneration
+GO:0031055	17	GO:0006338	chromatin remodeling
+GO:1903319	19	GO:0060393	regulation of pathway-restricted SMAD protein phosphorylation
+GO:0021602	4	GO:0009653	anatomical structure morphogenesis
+GO:0048263	4	GO:0009653	anatomical structure morphogenesis
+GO:0045955	21	GO:1905155	positive regulation of membrane invagination
+GO:0045957	12	GO:0030451	regulation of complement activation, alternative pathway
+GO:0044332	9	GO:0051094	positive regulation of developmental process
+GO:1903307	21	GO:1905155	positive regulation of membrane invagination
+GO:0001657	3	GO:0048705	skeletal system morphogenesis
+GO:0001658	3	GO:0048705	skeletal system morphogenesis
+GO:0045921	21	GO:1905155	positive regulation of membrane invagination
+GO:2000615	19	GO:0060393	regulation of pathway-restricted SMAD protein phosphorylation
+GO:0045910	10	GO:0045892	negative regulation of transcription, DNA-templated
+GO:0045916	12	GO:0030451	regulation of complement activation, alternative pathway
+GO:0001675	1	GO:0042078	germ-line stem cell division
+GO:0045944	10	GO:0045892	negative regulation of transcription, DNA-templated
+GO:0045933	15	GO:0051241	negative regulation of multicellular organismal process
+GO:0035305	19	GO:0060393	regulation of pathway-restricted SMAD protein phosphorylation
+GO:0060088	8	GO:0048713	regulation of oligodendrocyte differentiation
+GO:0051094	9	GO:0051094	positive regulation of developmental process

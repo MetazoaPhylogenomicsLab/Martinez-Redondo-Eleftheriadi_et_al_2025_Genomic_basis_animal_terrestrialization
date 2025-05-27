@@ -1,0 +1,28 @@
+GO:0051285	1	GO:0030496	midbody
+GO:0042025	2	GO:0030430	host cell cytoplasm
+GO:0031519	3	GO:0000930	gamma-tubulin complex
+GO:0000922	3	GO:0000930	gamma-tubulin complex
+GO:0000776	4	GO:0098687	chromosomal region
+GO:0000779	4	GO:0098687	chromosomal region
+GO:0031011	3	GO:0000930	gamma-tubulin complex
+GO:0000930	3	GO:0000930	gamma-tubulin complex
+GO:0005813	3	GO:0000930	gamma-tubulin complex
+GO:0030430	2	GO:0030430	host cell cytoplasm
+GO:0005703	4	GO:0098687	chromosomal region
+GO:0031097	1	GO:0030496	midbody
+GO:0020002	2	GO:0030430	host cell cytoplasm
+GO:0030496	1	GO:0030496	midbody
+GO:0044156	2	GO:0030430	host cell cytoplasm
+GO:0000792	4	GO:0098687	chromosomal region
+GO:0030056	1	GO:0030496	midbody
+GO:0035974	3	GO:0000930	gamma-tubulin complex
+GO:0044177	2	GO:0030430	host cell cytoplasm
+GO:0044178	2	GO:0030430	host cell cytoplasm
+GO:0019031	1	GO:0030496	midbody
+GO:0019033	1	GO:0030496	midbody
+GO:0097546	1	GO:0030496	midbody
+GO:0098687	4	GO:0098687	chromosomal region
+GO:1990393	1	GO:0030496	midbody
+GO:0005628	1	GO:0030496	midbody
+GO:0005912	1	GO:0030496	midbody
+GO:0045171	1	GO:0030496	midbody

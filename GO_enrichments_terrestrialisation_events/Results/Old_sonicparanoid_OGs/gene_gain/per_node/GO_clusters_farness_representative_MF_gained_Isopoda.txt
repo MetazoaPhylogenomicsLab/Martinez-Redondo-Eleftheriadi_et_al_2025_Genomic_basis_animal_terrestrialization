@@ -1,0 +1,24 @@
+GO:0005198	2	GO:0005198	structural molecule activity
+GO:0003714	2	GO:0005198	structural molecule activity
+GO:0030246	2	GO:0005198	structural molecule activity
+GO:0042162	3	GO:0043565	sequence-specific DNA binding
+GO:0015144	1	GO:0015145	monosaccharide transmembrane transporter activity
+GO:0005515	2	GO:0005198	structural molecule activity
+GO:0015145	1	GO:0015145	monosaccharide transmembrane transporter activity
+GO:0005516	2	GO:0005198	structural molecule activity
+GO:0015149	1	GO:0015145	monosaccharide transmembrane transporter activity
+GO:0090729	2	GO:0005198	structural molecule activity
+GO:0051119	1	GO:0015145	monosaccharide transmembrane transporter activity
+GO:0003690	3	GO:0043565	sequence-specific DNA binding
+GO:0005213	2	GO:0005198	structural molecule activity
+GO:0043565	3	GO:0043565	sequence-specific DNA binding
+GO:0005125	2	GO:0005198	structural molecule activity
+GO:0000981	2	GO:0005198	structural molecule activity
+GO:0017056	2	GO:0005198	structural molecule activity
+GO:0004517	2	GO:0005198	structural molecule activity
+GO:0005149	2	GO:0005198	structural molecule activity
+GO:0000978	3	GO:0043565	sequence-specific DNA binding
+GO:0005139	2	GO:0005198	structural molecule activity
+GO:0120160	2	GO:0005198	structural molecule activity
+GO:0106006	2	GO:0005198	structural molecule activity
+GO:0000014	2	GO:0005198	structural molecule activity

@@ -1,0 +1,477 @@
+GO:0042402	5	GO:0006665	sphingolipid metabolic process
+GO:0035589	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0045907	15	GO:0051241	negative regulation of multicellular organismal process
+GO:0050870	12	GO:0050866	negative regulation of cell activation
+GO:0046632	11	GO:0046632	alpha-beta T cell differentiation
+GO:0031145	5	GO:0006665	sphingolipid metabolic process
+GO:0019229	15	GO:0051241	negative regulation of multicellular organismal process
+GO:0042267	10	GO:0006952	defense response
+GO:0042269	8	GO:0050778	positive regulation of immune response
+GO:0016540	5	GO:0006665	sphingolipid metabolic process
+GO:0090305	5	GO:0006665	sphingolipid metabolic process
+GO:1904799	14	GO:0045664	regulation of neuron differentiation
+GO:0019722	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0051482	1	GO:0062208	positive regulation of pattern recognition receptor signaling pathway
+GO:0033629	12	GO:0050866	negative regulation of cell activation
+GO:0060326	9	GO:0006935	chemotaxis
+GO:0043367	11	GO:0046632	alpha-beta T cell differentiation
+GO:0006278	5	GO:0006665	sphingolipid metabolic process
+GO:0042723	5	GO:0006665	sphingolipid metabolic process
+GO:0010447	9	GO:0006935	chemotaxis
+GO:0043370	11	GO:0046632	alpha-beta T cell differentiation
+GO:0072538	8	GO:0050778	positive regulation of immune response
+GO:1903039	12	GO:0050866	negative regulation of cell activation
+GO:0035025	1	GO:0062208	positive regulation of pattern recognition receptor signaling pathway
+GO:0038093	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:1901550	14	GO:0045664	regulation of neuron differentiation
+GO:0010154	13	GO:1905392	plant organ morphogenesis
+GO:0097746	17	GO:0007586	digestion
+GO:1904801	14	GO:0045664	regulation of neuron differentiation
+GO:0070593	14	GO:0045664	regulation of neuron differentiation
+GO:0007317	14	GO:0045664	regulation of neuron differentiation
+GO:0007340	17	GO:0007586	digestion
+GO:0048168	1	GO:0062208	positive regulation of pattern recognition receptor signaling pathway
+GO:0043433	6	GO:0006140	regulation of nucleotide metabolic process
+GO:0035924	9	GO:0006935	chemotaxis
+GO:0042596	10	GO:0006952	defense response
+GO:0090208	6	GO:0006140	regulation of nucleotide metabolic process
+GO:0042531	6	GO:0006140	regulation of nucleotide metabolic process
+GO:0007411	14	GO:0045664	regulation of neuron differentiation
+GO:0006805	9	GO:0006935	chemotaxis
+GO:0042509	6	GO:0006140	regulation of nucleotide metabolic process
+GO:0050920	1	GO:0062208	positive regulation of pattern recognition receptor signaling pathway
+GO:0006595	5	GO:0006665	sphingolipid metabolic process
+GO:0006596	5	GO:0006665	sphingolipid metabolic process
+GO:0032101	1	GO:0062208	positive regulation of pattern recognition receptor signaling pathway
+GO:0010720	14	GO:0045664	regulation of neuron differentiation
+GO:0002437	10	GO:0006952	defense response
+GO:0007186	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0007188	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0014041	14	GO:0045664	regulation of neuron differentiation
+GO:0007189	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0014042	14	GO:0045664	regulation of neuron differentiation
+GO:0061028	14	GO:0045664	regulation of neuron differentiation
+GO:0030195	15	GO:0051241	negative regulation of multicellular organismal process
+GO:0031649	17	GO:0007586	digestion
+GO:0006691	5	GO:0006665	sphingolipid metabolic process
+GO:0009753	9	GO:0006935	chemotaxis
+GO:0070098	1	GO:0062208	positive regulation of pattern recognition receptor signaling pathway
+GO:0046456	5	GO:0006665	sphingolipid metabolic process
+GO:0009733	9	GO:0006935	chemotaxis
+GO:0036092	5	GO:0006665	sphingolipid metabolic process
+GO:0007218	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:1903431	14	GO:0045664	regulation of neuron differentiation
+GO:0002292	11	GO:0046632	alpha-beta T cell differentiation
+GO:0002293	11	GO:0046632	alpha-beta T cell differentiation
+GO:0002294	11	GO:0046632	alpha-beta T cell differentiation
+GO:0001660	10	GO:0006952	defense response
+GO:0001662	10	GO:0006952	defense response
+GO:0042093	11	GO:0046632	alpha-beta T cell differentiation
+GO:0032725	4	GO:0032652	regulation of interleukin-1 production
+GO:0007200	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0016322	14	GO:0045664	regulation of neuron differentiation
+GO:0016325	14	GO:0045664	regulation of neuron differentiation
+GO:0048841	14	GO:0045664	regulation of neuron differentiation
+GO:0048843	14	GO:0045664	regulation of neuron differentiation
+GO:0002287	11	GO:0046632	alpha-beta T cell differentiation
+GO:0045580	11	GO:0046632	alpha-beta T cell differentiation
+GO:0045582	11	GO:0046632	alpha-beta T cell differentiation
+GO:0002228	10	GO:0006952	defense response
+GO:0033333	13	GO:1905392	plant organ morphogenesis
+GO:0002209	10	GO:0006952	defense response
+GO:1903140	14	GO:0045664	regulation of neuron differentiation
+GO:0032823	11	GO:0046632	alpha-beta T cell differentiation
+GO:0032825	11	GO:0046632	alpha-beta T cell differentiation
+GO:0032816	12	GO:0050866	negative regulation of cell activation
+GO:0045664	14	GO:0045664	regulation of neuron differentiation
+GO:0045666	14	GO:0045664	regulation of neuron differentiation
+GO:0038166	1	GO:0062208	positive regulation of pattern recognition receptor signaling pathway
+GO:0002711	8	GO:0050778	positive regulation of immune response
+GO:0002714	8	GO:0050778	positive regulation of immune response
+GO:0002715	8	GO:0050778	positive regulation of immune response
+GO:0045621	11	GO:0046632	alpha-beta T cell differentiation
+GO:0045619	11	GO:0046632	alpha-beta T cell differentiation
+GO:0002708	8	GO:0050778	positive regulation of immune response
+GO:0002709	8	GO:0050778	positive regulation of immune response
+GO:0002891	8	GO:0050778	positive regulation of immune response
+GO:0022407	12	GO:0050866	negative regulation of cell activation
+GO:0022409	12	GO:0050866	negative regulation of cell activation
+GO:0002883	10	GO:0006952	defense response
+GO:0009651	10	GO:0006952	defense response
+GO:0008407	13	GO:1905392	plant organ morphogenesis
+GO:0016114	5	GO:0006665	sphingolipid metabolic process
+GO:0006968	10	GO:0006952	defense response
+GO:0002821	8	GO:0050778	positive regulation of immune response
+GO:0002822	8	GO:0050778	positive regulation of immune response
+GO:0002824	8	GO:0050778	positive regulation of immune response
+GO:0006952	10	GO:0006952	defense response
+GO:0006953	10	GO:0006952	defense response
+GO:0006954	10	GO:0006952	defense response
+GO:0006955	10	GO:0006952	defense response
+GO:0032695	4	GO:0032652	regulation of interleukin-1 production
+GO:0006935	9	GO:0006935	chemotaxis
+GO:0090066	15	GO:0051241	negative regulation of multicellular organismal process
+GO:0019369	5	GO:0006665	sphingolipid metabolic process
+GO:0030595	9	GO:0006935	chemotaxis
+GO:0035710	11	GO:0046632	alpha-beta T cell differentiation
+GO:0019370	5	GO:0006665	sphingolipid metabolic process
+GO:0042364	5	GO:0006665	sphingolipid metabolic process
+GO:0032645	4	GO:0032652	regulation of interleukin-1 production
+GO:0001910	12	GO:0050866	negative regulation of cell activation
+GO:0008103	14	GO:0045664	regulation of neuron differentiation
+GO:0002523	10	GO:0006952	defense response
+GO:0030516	14	GO:0045664	regulation of neuron differentiation
+GO:0030517	14	GO:0045664	regulation of neuron differentiation
+GO:0032604	3	GO:0032612	interleukin-1 production
+GO:0050771	14	GO:0045664	regulation of neuron differentiation
+GO:0031343	12	GO:0050866	negative regulation of cell activation
+GO:0031347	10	GO:0006952	defense response
+GO:0031348	10	GO:0006952	defense response
+GO:0050778	8	GO:0050778	positive regulation of immune response
+GO:0042492	11	GO:0046632	alpha-beta T cell differentiation
+GO:0007606	17	GO:0007586	digestion
+GO:0007608	17	GO:0007586	digestion
+GO:0002687	12	GO:0050866	negative regulation of cell activation
+GO:0008207	5	GO:0006665	sphingolipid metabolic process
+GO:0045954	8	GO:0050778	positive regulation of immune response
+GO:0002675	10	GO:0006952	defense response
+GO:0034308	5	GO:0006665	sphingolipid metabolic process
+GO:0016567	5	GO:0006665	sphingolipid metabolic process
+GO:1901223	1	GO:0062208	positive regulation of pattern recognition receptor signaling pathway
+GO:0046579	1	GO:0062208	positive regulation of pattern recognition receptor signaling pathway
+GO:0043030	12	GO:0050866	negative regulation of cell activation
+GO:0043031	12	GO:0050866	negative regulation of cell activation
+GO:2000036	15	GO:0051241	negative regulation of multicellular organismal process
+GO:0070301	9	GO:0006935	chemotaxis
+GO:0043007	5	GO:0006665	sphingolipid metabolic process
+GO:0010760	9	GO:0006935	chemotaxis
+GO:0031297	5	GO:0006665	sphingolipid metabolic process
+GO:0000209	5	GO:0006665	sphingolipid metabolic process
+GO:0070121	13	GO:1905392	plant organ morphogenesis
+GO:0032435	6	GO:0006140	regulation of nucleotide metabolic process
+GO:0120162	7	GO:1903578	regulation of ATP metabolic process
+GO:0070213	5	GO:0006665	sphingolipid metabolic process
+GO:0045087	10	GO:0006952	defense response
+GO:0042138	5	GO:0006665	sphingolipid metabolic process
+GO:0060761	1	GO:0062208	positive regulation of pattern recognition receptor signaling pathway
+GO:0010508	6	GO:0006140	regulation of nucleotide metabolic process
+GO:0050728	10	GO:0006952	defense response
+GO:0007622	17	GO:0007586	digestion
+GO:0048512	17	GO:0007586	digestion
+GO:0002164	13	GO:1905392	plant organ morphogenesis
+GO:0045005	5	GO:0006665	sphingolipid metabolic process
+GO:0043470	7	GO:1903578	regulation of ATP metabolic process
+GO:0007601	17	GO:0007586	digestion
+GO:0043410	1	GO:0062208	positive regulation of pattern recognition receptor signaling pathway
+GO:0002119	13	GO:1905392	plant organ morphogenesis
+GO:0010611	15	GO:0051241	negative regulation of multicellular organismal process
+GO:0010614	15	GO:0051241	negative regulation of multicellular organismal process
+GO:0034309	5	GO:0006665	sphingolipid metabolic process
+GO:0032720	4	GO:0032652	regulation of interleukin-1 production
+GO:0043122	1	GO:0062208	positive regulation of pattern recognition receptor signaling pathway
+GO:0043123	1	GO:0062208	positive regulation of pattern recognition receptor signaling pathway
+GO:0043124	1	GO:0062208	positive regulation of pattern recognition receptor signaling pathway
+GO:0042753	15	GO:0051241	negative regulation of multicellular organismal process
+GO:0032715	4	GO:0032652	regulation of interleukin-1 production
+GO:0002218	8	GO:0050778	positive regulation of immune response
+GO:0051781	12	GO:0050866	negative regulation of cell activation
+GO:0032897	15	GO:0051241	negative regulation of multicellular organismal process
+GO:1903578	7	GO:1903578	regulation of ATP metabolic process
+GO:1900016	4	GO:0032652	regulation of interleukin-1 production
+GO:0032880	15	GO:0051241	negative regulation of multicellular organismal process
+GO:0031664	1	GO:0062208	positive regulation of pattern recognition receptor signaling pathway
+GO:0002719	4	GO:0032652	regulation of interleukin-1 production
+GO:0070534	5	GO:0006665	sphingolipid metabolic process
+GO:0051873	10	GO:0006952	defense response
+GO:0071897	5	GO:0006665	sphingolipid metabolic process
+GO:0039644	6	GO:0006140	regulation of nucleotide metabolic process
+GO:0062208	1	GO:0062208	positive regulation of pattern recognition receptor signaling pathway
+GO:0035305	6	GO:0006140	regulation of nucleotide metabolic process
+GO:2001141	6	GO:0006140	regulation of nucleotide metabolic process
+GO:0140527	5	GO:0006665	sphingolipid metabolic process
+GO:0010923	6	GO:0006140	regulation of nucleotide metabolic process
+GO:0002832	1	GO:0062208	positive regulation of pattern recognition receptor signaling pathway
+GO:0010934	3	GO:0032612	interleukin-1 production
+GO:0010935	4	GO:0032652	regulation of interleukin-1 production
+GO:0032691	4	GO:0032652	regulation of interleukin-1 production
+GO:0032692	4	GO:0032652	regulation of interleukin-1 production
+GO:0044278	17	GO:0007586	digestion
+GO:0014741	15	GO:0051241	negative regulation of multicellular organismal process
+GO:0014743	15	GO:0051241	negative regulation of multicellular organismal process
+GO:0002699	8	GO:0050778	positive regulation of immune response
+GO:0033692	5	GO:0006665	sphingolipid metabolic process
+GO:0050953	17	GO:0007586	digestion
+GO:0072528	5	GO:0006665	sphingolipid metabolic process
+GO:0000019	6	GO:0006140	regulation of nucleotide metabolic process
+GO:0001960	1	GO:0062208	positive regulation of pattern recognition receptor signaling pathway
+GO:0006110	6	GO:0006140	regulation of nucleotide metabolic process
+GO:0006140	6	GO:0006140	regulation of nucleotide metabolic process
+GO:0035825	5	GO:0006665	sphingolipid metabolic process
+GO:0045824	8	GO:0050778	positive regulation of immune response
+GO:0009048	7	GO:1903578	regulation of ATP metabolic process
+GO:0097485	14	GO:0045664	regulation of neuron differentiation
+GO:0051092	6	GO:0006140	regulation of nucleotide metabolic process
+GO:0010468	4	GO:0032652	regulation of interleukin-1 production
+GO:0061098	6	GO:0006140	regulation of nucleotide metabolic process
+GO:0061041	10	GO:0006952	defense response
+GO:0048477	14	GO:0045664	regulation of neuron differentiation
+GO:0007131	5	GO:0006665	sphingolipid metabolic process
+GO:1900047	15	GO:0051241	negative regulation of multicellular organismal process
+GO:0032070	6	GO:0006140	regulation of nucleotide metabolic process
+GO:0015074	5	GO:0006665	sphingolipid metabolic process
+GO:0035588	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0009995	9	GO:0006935	chemotaxis
+GO:0050819	15	GO:0051241	negative regulation of multicellular organismal process
+GO:0036120	9	GO:0006935	chemotaxis
+GO:1901224	1	GO:0062208	positive regulation of pattern recognition receptor signaling pathway
+GO:0006486	5	GO:0006665	sphingolipid metabolic process
+GO:0042113	12	GO:0050866	negative regulation of cell activation
+GO:0042130	12	GO:0050866	negative regulation of cell activation
+GO:0097191	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0035666	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0042102	12	GO:0050866	negative regulation of cell activation
+GO:0042104	12	GO:0050866	negative regulation of cell activation
+GO:0046637	11	GO:0046632	alpha-beta T cell differentiation
+GO:0060907	4	GO:0032652	regulation of interleukin-1 production
+GO:1990264	6	GO:0006140	regulation of nucleotide metabolic process
+GO:1990268	9	GO:0006935	chemotaxis
+GO:0002067	14	GO:0045664	regulation of neuron differentiation
+GO:0032945	12	GO:0050866	negative regulation of cell activation
+GO:0051384	9	GO:0006935	chemotaxis
+GO:0031295	12	GO:0050866	negative regulation of cell activation
+GO:0045342	5	GO:0006665	sphingolipid metabolic process
+GO:0045346	7	GO:1903578	regulation of ATP metabolic process
+GO:0045348	7	GO:1903578	regulation of ATP metabolic process
+GO:0014823	10	GO:0006952	defense response
+GO:0048366	13	GO:1905392	plant organ morphogenesis
+GO:0034104	15	GO:0051241	negative regulation of multicellular organismal process
+GO:0050671	12	GO:0050866	negative regulation of cell activation
+GO:0050672	12	GO:0050866	negative regulation of cell activation
+GO:0050678	12	GO:0050866	negative regulation of cell activation
+GO:0050679	12	GO:0050866	negative regulation of cell activation
+GO:1990785	10	GO:0006952	defense response
+GO:0019724	8	GO:0050778	positive regulation of immune response
+GO:0072567	3	GO:0032612	interleukin-1 production
+GO:0045428	6	GO:0006140	regulation of nucleotide metabolic process
+GO:0045429	6	GO:0006140	regulation of nucleotide metabolic process
+GO:0009312	5	GO:0006665	sphingolipid metabolic process
+GO:0002923	8	GO:0050778	positive regulation of immune response
+GO:0060340	1	GO:0062208	positive regulation of pattern recognition receptor signaling pathway
+GO:0002912	15	GO:0051241	negative regulation of multicellular organismal process
+GO:0042711	17	GO:0007586	digestion
+GO:0043372	11	GO:0046632	alpha-beta T cell differentiation
+GO:0022611	13	GO:1905392	plant organ morphogenesis
+GO:0042730	15	GO:0051241	negative regulation of multicellular organismal process
+GO:0032351	7	GO:1903578	regulation of ATP metabolic process
+GO:0030902	13	GO:1905392	plant organ morphogenesis
+GO:0032353	6	GO:0006140	regulation of nucleotide metabolic process
+GO:1903038	12	GO:0050866	negative regulation of cell activation
+GO:0008625	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0022600	17	GO:0007586	digestion
+GO:1990868	9	GO:0006935	chemotaxis
+GO:1990869	9	GO:0006935	chemotaxis
+GO:0060457	15	GO:0051241	negative regulation of multicellular organismal process
+GO:0038066	1	GO:0062208	positive regulation of pattern recognition receptor signaling pathway
+GO:0006772	5	GO:0006665	sphingolipid metabolic process
+GO:1990834	9	GO:0006935	chemotaxis
+GO:0032497	9	GO:0006935	chemotaxis
+GO:0044058	15	GO:0051241	negative regulation of multicellular organismal process
+GO:1903974	1	GO:0062208	positive regulation of pattern recognition receptor signaling pathway
+GO:0006700	5	GO:0006665	sphingolipid metabolic process
+GO:0007338	17	GO:0007586	digestion
+GO:0006704	5	GO:0006665	sphingolipid metabolic process
+GO:0071392	9	GO:0006935	chemotaxis
+GO:0016064	8	GO:0050778	positive regulation of immune response
+GO:1905392	13	GO:1905392	plant organ morphogenesis
+GO:0035970	5	GO:0006665	sphingolipid metabolic process
+GO:0043407	6	GO:0006140	regulation of nucleotide metabolic process
+GO:0043409	1	GO:0062208	positive regulation of pattern recognition receptor signaling pathway
+GO:0048148	9	GO:0006935	chemotaxis
+GO:0071385	9	GO:0006935	chemotaxis
+GO:0007494	13	GO:1905392	plant organ morphogenesis
+GO:0016048	9	GO:0006935	chemotaxis
+GO:0030311	5	GO:0006665	sphingolipid metabolic process
+GO:0035902	10	GO:0006952	defense response
+GO:0009110	5	GO:0006665	sphingolipid metabolic process
+GO:0001706	13	GO:1905392	plant organ morphogenesis
+GO:1904692	12	GO:0050866	negative regulation of cell activation
+GO:1904697	12	GO:0050866	negative regulation of cell activation
+GO:0051241	15	GO:0051241	negative regulation of multicellular organismal process
+GO:1904699	12	GO:0050866	negative regulation of cell activation
+GO:0030300	17	GO:0007586	digestion
+GO:0070664	12	GO:0050866	negative regulation of cell activation
+GO:0030309	5	GO:0006665	sphingolipid metabolic process
+GO:0022037	13	GO:1905392	plant organ morphogenesis
+GO:2000516	12	GO:0050866	negative regulation of cell activation
+GO:0050961	17	GO:0007586	digestion
+GO:0050965	17	GO:0007586	digestion
+GO:0050966	17	GO:0007586	digestion
+GO:0050951	17	GO:0007586	digestion
+GO:0006809	5	GO:0006665	sphingolipid metabolic process
+GO:0050911	17	GO:0007586	digestion
+GO:1904645	9	GO:0006935	chemotaxis
+GO:0051767	5	GO:0006665	sphingolipid metabolic process
+GO:0051769	7	GO:1903578	regulation of ATP metabolic process
+GO:0007193	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0007197	1	GO:0062208	positive regulation of pattern recognition receptor signaling pathway
+GO:0071470	9	GO:0006935	chemotaxis
+GO:0042661	14	GO:0045664	regulation of neuron differentiation
+GO:0016925	5	GO:0006665	sphingolipid metabolic process
+GO:0002429	1	GO:0062208	positive regulation of pattern recognition receptor signaling pathway
+GO:0051770	7	GO:1903578	regulation of ATP metabolic process
+GO:0045779	15	GO:0051241	negative regulation of multicellular organismal process
+GO:0003073	17	GO:0007586	digestion
+GO:0030432	17	GO:0007586	digestion
+GO:0007187	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0006516	5	GO:0006665	sphingolipid metabolic process
+GO:0031663	1	GO:0062208	positive regulation of pattern recognition receptor signaling pathway
+GO:0043278	9	GO:0006935	chemotaxis
+GO:0061081	4	GO:0032652	regulation of interleukin-1 production
+GO:0002407	9	GO:0006935	chemotaxis
+GO:1903318	7	GO:1903578	regulation of ATP metabolic process
+GO:0018146	5	GO:0006665	sphingolipid metabolic process
+GO:0014002	14	GO:0045664	regulation of neuron differentiation
+GO:0051707	10	GO:0006952	defense response
+GO:0003009	17	GO:0007586	digestion
+GO:0031638	5	GO:0006665	sphingolipid metabolic process
+GO:0031639	5	GO:0006665	sphingolipid metabolic process
+GO:0009755	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:1903492	9	GO:0006935	chemotaxis
+GO:0006665	5	GO:0006665	sphingolipid metabolic process
+GO:0034650	5	GO:0006665	sphingolipid metabolic process
+GO:0006682	5	GO:0006665	sphingolipid metabolic process
+GO:0060729	17	GO:0007586	digestion
+GO:0048708	13	GO:1905392	plant organ morphogenesis
+GO:0060710	13	GO:1905392	plant organ morphogenesis
+GO:0007252	6	GO:0006140	regulation of nucleotide metabolic process
+GO:0060742	13	GO:1905392	plant organ morphogenesis
+GO:0060746	17	GO:0007586	digestion
+GO:0060736	13	GO:1905392	plant organ morphogenesis
+GO:0019098	17	GO:0007586	digestion
+GO:0051838	10	GO:0006952	defense response
+GO:1903428	6	GO:0006140	regulation of nucleotide metabolic process
+GO:0032760	4	GO:0032652	regulation of interleukin-1 production
+GO:0032761	4	GO:0032652	regulation of interleukin-1 production
+GO:0032757	4	GO:0032652	regulation of interleukin-1 production
+GO:1900744	1	GO:0062208	positive regulation of pattern recognition receptor signaling pathway
+GO:1990051	6	GO:0006140	regulation of nucleotide metabolic process
+GO:0010596	15	GO:0051241	negative regulation of multicellular organismal process
+GO:0032727	4	GO:0032652	regulation of interleukin-1 production
+GO:0032728	4	GO:0032652	regulation of interleukin-1 production
+GO:0032729	4	GO:0032652	regulation of interleukin-1 production
+GO:0080164	6	GO:0006140	regulation of nucleotide metabolic process
+GO:0048827	13	GO:1905392	plant organ morphogenesis
+GO:0002250	8	GO:0050778	positive regulation of immune response
+GO:0030259	5	GO:0006665	sphingolipid metabolic process
+GO:0002286	11	GO:0046632	alpha-beta T cell differentiation
+GO:0032733	4	GO:0032652	regulation of interleukin-1 production
+GO:0032735	4	GO:0032652	regulation of interleukin-1 production
+GO:0071222	9	GO:0006935	chemotaxis
+GO:0071223	9	GO:0006935	chemotaxis
+GO:0010572	12	GO:0050866	negative regulation of cell activation
+GO:0032700	4	GO:0032652	regulation of interleukin-1 production
+GO:0032707	4	GO:0032652	regulation of interleukin-1 production
+GO:0071219	9	GO:0006935	chemotaxis
+GO:0002246	10	GO:0006952	defense response
+GO:0046184	5	GO:0006665	sphingolipid metabolic process
+GO:2000027	13	GO:1905392	plant organ morphogenesis
+GO:0031016	13	GO:1905392	plant organ morphogenesis
+GO:0070989	17	GO:0007586	digestion
+GO:0031047	7	GO:1903578	regulation of ATP metabolic process
+GO:0140052	9	GO:0006935	chemotaxis
+GO:0002768	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0002755	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:1905770	14	GO:0045664	regulation of neuron differentiation
+GO:0060571	13	GO:1905392	plant organ morphogenesis
+GO:0002713	8	GO:0050778	positive regulation of immune response
+GO:0019932	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0038183	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0045622	11	GO:0046632	alpha-beta T cell differentiation
+GO:0045624	11	GO:0046632	alpha-beta T cell differentiation
+GO:0045628	11	GO:0046632	alpha-beta T cell differentiation
+GO:0048507	13	GO:1905392	plant organ morphogenesis
+GO:0043569	1	GO:0062208	positive regulation of pattern recognition receptor signaling pathway
+GO:0002730	4	GO:0032652	regulation of interleukin-1 production
+GO:0045630	11	GO:0046632	alpha-beta T cell differentiation
+GO:0031960	9	GO:0006935	chemotaxis
+GO:0003344	13	GO:1905392	plant organ morphogenesis
+GO:1902644	5	GO:0006665	sphingolipid metabolic process
+GO:1903223	1	GO:0062208	positive regulation of pattern recognition receptor signaling pathway
+GO:0040024	13	GO:1905392	plant organ morphogenesis
+GO:0040025	13	GO:1905392	plant organ morphogenesis
+GO:0040028	13	GO:1905392	plant organ morphogenesis
+GO:0023035	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0030890	12	GO:0050866	negative regulation of cell activation
+GO:0002890	8	GO:0050778	positive regulation of immune response
+GO:0003309	13	GO:1905392	plant organ morphogenesis
+GO:0022408	12	GO:0050866	negative regulation of cell activation
+GO:0032570	9	GO:0006935	chemotaxis
+GO:0031943	6	GO:0006140	regulation of nucleotide metabolic process
+GO:0031946	6	GO:0006140	regulation of nucleotide metabolic process
+GO:0032526	9	GO:0006935	chemotaxis
+GO:1903203	1	GO:0062208	positive regulation of pattern recognition receptor signaling pathway
+GO:1903209	1	GO:0062208	positive regulation of pattern recognition receptor signaling pathway
+GO:0030888	12	GO:0050866	negative regulation of cell activation
+GO:0007597	7	GO:1903578	regulation of ATP metabolic process
+GO:0070391	9	GO:0006935	chemotaxis
+GO:0098542	10	GO:0006952	defense response
+GO:0021549	13	GO:1905392	plant organ morphogenesis
+GO:0002830	8	GO:0050778	positive regulation of immune response
+GO:0007586	17	GO:0007586	digestion
+GO:0006937	15	GO:0051241	negative regulation of multicellular organismal process
+GO:0070373	1	GO:0062208	positive regulation of pattern recognition receptor signaling pathway
+GO:0043615	14	GO:0045664	regulation of neuron differentiation
+GO:0032651	4	GO:0032652	regulation of interleukin-1 production
+GO:0032652	4	GO:0032652	regulation of interleukin-1 production
+GO:0032653	4	GO:0032652	regulation of interleukin-1 production
+GO:0032655	4	GO:0032652	regulation of interleukin-1 production
+GO:0032680	4	GO:0032652	regulation of interleukin-1 production
+GO:0045064	11	GO:0046632	alpha-beta T cell differentiation
+GO:0007501	14	GO:0045664	regulation of neuron differentiation
+GO:0032611	3	GO:0032612	interleukin-1 production
+GO:0032612	3	GO:0032612	interleukin-1 production
+GO:0032613	3	GO:0032612	interleukin-1 production
+GO:0032615	3	GO:0032612	interleukin-1 production
+GO:0001973	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0032640	3	GO:0032612	interleukin-1 production
+GO:0032649	4	GO:0032652	regulation of interleukin-1 production
+GO:0035700	9	GO:0006935	chemotaxis
+GO:0001937	12	GO:0050866	negative regulation of cell activation
+GO:0046851	15	GO:0051241	negative regulation of multicellular organismal process
+GO:0032609	3	GO:0032612	interleukin-1 production
+GO:1903867	13	GO:1905392	plant organ morphogenesis
+GO:0002537	10	GO:0006952	defense response
+GO:2000341	4	GO:0032652	regulation of interleukin-1 production
+GO:2000343	4	GO:0032652	regulation of interleukin-1 production
+GO:0008285	12	GO:0050866	negative regulation of cell activation
+GO:0035883	14	GO:0045664	regulation of neuron differentiation
+GO:0036462	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0007631	17	GO:0007586	digestion
+GO:0002695	12	GO:0050866	negative regulation of cell activation
+GO:0035821	17	GO:0007586	digestion
+GO:0070430	1	GO:0062208	positive regulation of pattern recognition receptor signaling pathway
+GO:0070434	1	GO:0062208	positive regulation of pattern recognition receptor signaling pathway
+GO:0036475	9	GO:0006935	chemotaxis
+GO:0002665	15	GO:0051241	negative regulation of multicellular organismal process
+GO:0002668	15	GO:0051241	negative regulation of multicellular organismal process
+GO:0010951	6	GO:0006140	regulation of nucleotide metabolic process
+GO:1904407	6	GO:0006140	regulation of nucleotide metabolic process
+GO:0010955	6	GO:0006140	regulation of nucleotide metabolic process
+GO:0042481	13	GO:1905392	plant organ morphogenesis
+GO:0042487	13	GO:1905392	plant organ morphogenesis
+GO:0071676	12	GO:0050866	negative regulation of cell activation
+GO:2000458	14	GO:0045664	regulation of neuron differentiation
+GO:0002644	15	GO:0051241	negative regulation of multicellular organismal process
+GO:0035590	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0060037	13	GO:1905392	plant organ morphogenesis
+GO:0045916	8	GO:0050778	positive regulation of immune response
+GO:1903557	4	GO:0032652	regulation of interleukin-1 production
+GO:0002639	7	GO:1903578	regulation of ATP metabolic process
+GO:0051918	15	GO:0051241	negative regulation of multicellular organismal process
+GO:0051930	17	GO:0007586	digestion
+GO:0050866	12	GO:0050866	negative regulation of cell activation
+GO:0050868	12	GO:0050866	negative regulation of cell activation
+GO:1902931	7	GO:1903578	regulation of ATP metabolic process
+GO:0046541	17	GO:0007586	digestion
+GO:1900017	4	GO:0032652	regulation of interleukin-1 production
+GO:0043032	12	GO:0050866	negative regulation of cell activation

@@ -1,0 +1,351 @@
+GO:0003431	9	GO:0060465	pharynx development
+GO:0035199	6	GO:0034097	response to cytokine
+GO:0071940	13	GO:0051276	chromosome organization
+GO:0042994	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:1904263	2	GO:0050848	regulation of calcium-mediated signaling
+GO:0035166	9	GO:0060465	pharynx development
+GO:0035167	9	GO:0060465	pharynx development
+GO:0070096	13	GO:0051276	chromosome organization
+GO:1904271	7	GO:0015780	nucleotide-sugar transmembrane transport
+GO:1902905	15	GO:0010942	positive regulation of cell death
+GO:0046330	2	GO:0050848	regulation of calcium-mediated signaling
+GO:0055085	7	GO:0015780	nucleotide-sugar transmembrane transport
+GO:0070050	15	GO:0010942	positive regulation of cell death
+GO:0055014	9	GO:0060465	pharynx development
+GO:0042940	7	GO:0015780	nucleotide-sugar transmembrane transport
+GO:0038202	2	GO:0050848	regulation of calcium-mediated signaling
+GO:0061057	2	GO:0050848	regulation of calcium-mediated signaling
+GO:0097676	4	GO:0019695	choline metabolic process
+GO:0032069	14	GO:0032069	regulation of nuclease activity
+GO:1901216	15	GO:0010942	positive regulation of cell death
+GO:0032074	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0075130	11	GO:0051702	biological process involved in interaction with symbiont
+GO:0075131	11	GO:0051702	biological process involved in interaction with symbiont
+GO:0035209	9	GO:0060465	pharynx development
+GO:0000076	15	GO:0010942	positive regulation of cell death
+GO:0000011	13	GO:0051276	chromosome organization
+GO:0006964	14	GO:0032069	regulation of nuclease activity
+GO:0006958	3	GO:0060368	regulation of Fc receptor mediated stimulatory signaling pathway
+GO:0035725	7	GO:0015780	nucleotide-sugar transmembrane transport
+GO:0030325	9	GO:0060465	pharynx development
+GO:0008258	9	GO:0060465	pharynx development
+GO:0030307	15	GO:0010942	positive regulation of cell death
+GO:0060992	6	GO:0034097	response to cytokine
+GO:0044826	11	GO:0051702	biological process involved in interaction with symbiont
+GO:1903027	15	GO:0010942	positive regulation of cell death
+GO:1990823	6	GO:0034097	response to cytokine
+GO:0060963	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0033674	14	GO:0032069	regulation of nuclease activity
+GO:0044831	14	GO:0032069	regulation of nuclease activity
+GO:1990830	6	GO:0034097	response to cytokine
+GO:0033617	13	GO:0051276	chromosome organization
+GO:0043065	15	GO:0010942	positive regulation of cell death
+GO:0035883	9	GO:0060465	pharynx development
+GO:0030476	8	GO:0007277	pole cell development
+GO:0035822	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0010034	6	GO:0034097	response to cytokine
+GO:0030449	3	GO:0060368	regulation of Fc receptor mediated stimulatory signaling pathway
+GO:0075713	11	GO:0051702	biological process involved in interaction with symbiont
+GO:0051984	15	GO:0010942	positive regulation of cell death
+GO:0051987	15	GO:0010942	positive regulation of cell death
+GO:0035803	8	GO:0007277	pole cell development
+GO:0075732	11	GO:0051702	biological process involved in interaction with symbiont
+GO:0046775	14	GO:0032069	regulation of nuclease activity
+GO:0002077	4	GO:0019695	choline metabolic process
+GO:0030150	7	GO:0015780	nucleotide-sugar transmembrane transport
+GO:0046717	7	GO:0015780	nucleotide-sugar transmembrane transport
+GO:0046718	11	GO:0051702	biological process involved in interaction with symbiont
+GO:2001251	13	GO:0051276	chromosome organization
+GO:0035584	2	GO:0050848	regulation of calcium-mediated signaling
+GO:0035589	2	GO:0050848	regulation of calcium-mediated signaling
+GO:2001270	14	GO:0032069	regulation of nuclease activity
+GO:2001228	2	GO:0050848	regulation of calcium-mediated signaling
+GO:0061303	9	GO:0060465	pharynx development
+GO:0032328	7	GO:0015780	nucleotide-sugar transmembrane transport
+GO:0000372	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0000376	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0030252	7	GO:0015780	nucleotide-sugar transmembrane transport
+GO:0046843	8	GO:0007277	pole cell development
+GO:1903394	13	GO:0051276	chromosome organization
+GO:0030214	4	GO:0019695	choline metabolic process
+GO:0030217	9	GO:0060465	pharynx development
+GO:0000492	13	GO:0051276	chromosome organization
+GO:0032480	14	GO:0032069	regulation of nuclease activity
+GO:1903350	6	GO:0034097	response to cytokine
+GO:1903351	6	GO:0034097	response to cytokine
+GO:0018894	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0000463	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0045040	7	GO:0015780	nucleotide-sugar transmembrane transport
+GO:0015766	7	GO:0015780	nucleotide-sugar transmembrane transport
+GO:0018879	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0015780	7	GO:0015780	nucleotide-sugar transmembrane transport
+GO:0015771	7	GO:0015780	nucleotide-sugar transmembrane transport
+GO:0015772	7	GO:0015780	nucleotide-sugar transmembrane transport
+GO:0010375	9	GO:0060465	pharynx development
+GO:0032197	13	GO:0051276	chromosome organization
+GO:0030728	8	GO:0007277	pole cell development
+GO:0072499	9	GO:0060465	pharynx development
+GO:0017085	6	GO:0034097	response to cytokine
+GO:0021766	9	GO:0060465	pharynx development
+GO:0046692	8	GO:0007277	pole cell development
+GO:0046693	8	GO:0007277	pole cell development
+GO:0052028	11	GO:0051702	biological process involved in interaction with symbiont
+GO:0030704	8	GO:0007277	pole cell development
+GO:0010493	4	GO:0019695	choline metabolic process
+GO:0046668	10	GO:0045638	negative regulation of myeloid cell differentiation
+GO:0008643	7	GO:0015780	nucleotide-sugar transmembrane transport
+GO:0046669	10	GO:0045638	negative regulation of myeloid cell differentiation
+GO:0008645	7	GO:0015780	nucleotide-sugar transmembrane transport
+GO:1903432	2	GO:0050848	regulation of calcium-mediated signaling
+GO:0002320	9	GO:0060465	pharynx development
+GO:0015874	7	GO:0015780	nucleotide-sugar transmembrane transport
+GO:0015812	7	GO:0015780	nucleotide-sugar transmembrane transport
+GO:0015816	7	GO:0015780	nucleotide-sugar transmembrane transport
+GO:0009059	4	GO:0019695	choline metabolic process
+GO:0015838	7	GO:0015780	nucleotide-sugar transmembrane transport
+GO:0032273	13	GO:0051276	chromosome organization
+GO:0032222	2	GO:0050848	regulation of calcium-mediated signaling
+GO:0032223	2	GO:0050848	regulation of calcium-mediated signaling
+GO:0070741	6	GO:0034097	response to cytokine
+GO:0009047	14	GO:0032069	regulation of nuclease activity
+GO:0002495	1	GO:0002586	regulation of antigen processing and presentation of peptide antigen via MHC class II
+GO:0043409	2	GO:0050848	regulation of calcium-mediated signaling
+GO:0007391	9	GO:0060465	pharynx development
+GO:0007398	9	GO:0060465	pharynx development
+GO:1903142	10	GO:0045638	negative regulation of myeloid cell differentiation
+GO:1905342	15	GO:0010942	positive regulation of cell death
+GO:0043154	14	GO:0032069	regulation of nuclease activity
+GO:0002431	3	GO:0060368	regulation of Fc receptor mediated stimulatory signaling pathway
+GO:0002433	3	GO:0060368	regulation of Fc receptor mediated stimulatory signaling pathway
+GO:0043111	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0010102	9	GO:0060465	pharynx development
+GO:0034097	6	GO:0034097	response to cytokine
+GO:0032729	14	GO:0032069	regulation of nuclease activity
+GO:0007305	8	GO:0007277	pole cell development
+GO:0019069	11	GO:0051702	biological process involved in interaction with symbiont
+GO:0015695	7	GO:0015780	nucleotide-sugar transmembrane transport
+GO:0019076	11	GO:0051702	biological process involved in interaction with symbiont
+GO:0007494	9	GO:0060465	pharynx development
+GO:1905451	3	GO:0060368	regulation of Fc receptor mediated stimulatory signaling pathway
+GO:0021537	9	GO:0060465	pharynx development
+GO:1900074	2	GO:0050848	regulation of calcium-mediated signaling
+GO:0070591	8	GO:0007277	pole cell development
+GO:0061817	13	GO:0051276	chromosome organization
+GO:0010288	6	GO:0034097	response to cytokine
+GO:0043252	7	GO:0015780	nucleotide-sugar transmembrane transport
+GO:1905449	3	GO:0060368	regulation of Fc receptor mediated stimulatory signaling pathway
+GO:0048168	2	GO:0050848	regulation of calcium-mediated signaling
+GO:0007426	9	GO:0060465	pharynx development
+GO:0070555	6	GO:0034097	response to cytokine
+GO:0010249	4	GO:0019695	choline metabolic process
+GO:0043243	15	GO:0010942	positive regulation of cell death
+GO:0048143	9	GO:0060465	pharynx development
+GO:0045429	14	GO:0032069	regulation of nuclease activity
+GO:0040018	10	GO:0045638	negative regulation of myeloid cell differentiation
+GO:0040032	9	GO:0060465	pharynx development
+GO:1905130	7	GO:0015780	nucleotide-sugar transmembrane transport
+GO:0002244	9	GO:0060465	pharynx development
+GO:0010742	8	GO:0007277	pole cell development
+GO:0010743	10	GO:0045638	negative regulation of myeloid cell differentiation
+GO:0070673	6	GO:0034097	response to cytokine
+GO:1903863	8	GO:0007277	pole cell development
+GO:0032525	9	GO:0060465	pharynx development
+GO:0061698	4	GO:0019695	choline metabolic process
+GO:0032526	6	GO:0034097	response to cytokine
+GO:0061699	4	GO:0019695	choline metabolic process
+GO:0048236	8	GO:0007277	pole cell development
+GO:0048239	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0018963	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0007296	8	GO:0007277	pole cell development
+GO:0018958	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0002759	3	GO:0060368	regulation of Fc receptor mediated stimulatory signaling pathway
+GO:0032508	13	GO:0051276	chromosome organization
+GO:0050795	15	GO:0010942	positive regulation of cell death
+GO:0002784	14	GO:0032069	regulation of nuclease activity
+GO:0036065	4	GO:0019695	choline metabolic process
+GO:0007250	14	GO:0032069	regulation of nuclease activity
+GO:0002775	14	GO:0032069	regulation of nuclease activity
+GO:0007277	8	GO:0007277	pole cell development
+GO:0007279	8	GO:0007277	pole cell development
+GO:0007210	2	GO:0050848	regulation of calcium-mediated signaling
+GO:0036046	4	GO:0019695	choline metabolic process
+GO:0036047	4	GO:0019695	choline metabolic process
+GO:0036048	4	GO:0019695	choline metabolic process
+GO:0036049	4	GO:0019695	choline metabolic process
+GO:0032677	14	GO:0032069	regulation of nuclease activity
+GO:0010800	14	GO:0032069	regulation of nuclease activity
+GO:0010804	2	GO:0050848	regulation of calcium-mediated signaling
+GO:0034383	15	GO:0010942	positive regulation of cell death
+GO:0039724	14	GO:0032069	regulation of nuclease activity
+GO:0042048	6	GO:0034097	response to cytokine
+GO:0034341	6	GO:0034097	response to cytokine
+GO:0050860	3	GO:0060368	regulation of Fc receptor mediated stimulatory signaling pathway
+GO:0090077	8	GO:0007277	pole cell development
+GO:1903504	15	GO:0010942	positive regulation of cell death
+GO:0050852	3	GO:0060368	regulation of Fc receptor mediated stimulatory signaling pathway
+GO:0050858	3	GO:0060368	regulation of Fc receptor mediated stimulatory signaling pathway
+GO:0050870	15	GO:0010942	positive regulation of cell death
+GO:0072695	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0045766	10	GO:0045638	negative regulation of myeloid cell differentiation
+GO:0090031	14	GO:0032069	regulation of nuclease activity
+GO:0050848	2	GO:0050848	regulation of calcium-mediated signaling
+GO:0090009	9	GO:0060465	pharynx development
+GO:0010508	15	GO:0010942	positive regulation of cell death
+GO:1903688	8	GO:0007277	pole cell development
+GO:0031398	14	GO:0032069	regulation of nuclease activity
+GO:0045747	2	GO:0050848	regulation of calcium-mediated signaling
+GO:0010696	13	GO:0051276	chromosome organization
+GO:0045737	14	GO:0032069	regulation of nuclease activity
+GO:0048800	9	GO:0060465	pharynx development
+GO:0034486	7	GO:0015780	nucleotide-sugar transmembrane transport
+GO:0002580	1	GO:0002586	regulation of antigen processing and presentation of peptide antigen via MHC class II
+GO:0002581	1	GO:0002586	regulation of antigen processing and presentation of peptide antigen via MHC class II
+GO:0002583	1	GO:0002586	regulation of antigen processing and presentation of peptide antigen via MHC class II
+GO:0002584	1	GO:0002586	regulation of antigen processing and presentation of peptide antigen via MHC class II
+GO:0002586	1	GO:0002586	regulation of antigen processing and presentation of peptide antigen via MHC class II
+GO:0002587	1	GO:0002586	regulation of antigen processing and presentation of peptide antigen via MHC class II
+GO:0002577	1	GO:0002586	regulation of antigen processing and presentation of peptide antigen via MHC class II
+GO:0002578	1	GO:0002586	regulation of antigen processing and presentation of peptide antigen via MHC class II
+GO:0009263	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:1905803	2	GO:0050848	regulation of calcium-mediated signaling
+GO:0048520	15	GO:0010942	positive regulation of cell death
+GO:0006067	4	GO:0019695	choline metabolic process
+GO:0048542	9	GO:0060465	pharynx development
+GO:0070936	4	GO:0019695	choline metabolic process
+GO:0039557	14	GO:0032069	regulation of nuclease activity
+GO:0071354	6	GO:0034097	response to cytokine
+GO:0048665	9	GO:0060465	pharynx development
+GO:0007527	9	GO:0060465	pharynx development
+GO:0071371	6	GO:0034097	response to cytokine
+GO:0039501	14	GO:0032069	regulation of nuclease activity
+GO:0032968	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0039505	1	GO:0002586	regulation of antigen processing and presentation of peptide antigen via MHC class II
+GO:0050679	15	GO:0010942	positive regulation of cell death
+GO:0007549	14	GO:0032069	regulation of nuclease activity
+GO:0007533	8	GO:0007277	pole cell development
+GO:0007534	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0071346	6	GO:0034097	response to cytokine
+GO:0045582	10	GO:0045638	negative regulation of myeloid cell differentiation
+GO:0048625	8	GO:0007277	pole cell development
+GO:0048626	8	GO:0007277	pole cell development
+GO:0039693	11	GO:0051702	biological process involved in interaction with symbiont
+GO:0032928	14	GO:0032069	regulation of nuclease activity
+GO:0007509	9	GO:0060465	pharynx development
+GO:0039665	11	GO:0051702	biological process involved in interaction with symbiont
+GO:0042359	4	GO:0019695	choline metabolic process
+GO:0039686	11	GO:0051702	biological process involved in interaction with symbiont
+GO:0016062	2	GO:0050848	regulation of calcium-mediated signaling
+GO:0090363	13	GO:0051276	chromosome organization
+GO:0090364	13	GO:0051276	chromosome organization
+GO:0045500	10	GO:0045638	negative regulation of myeloid cell differentiation
+GO:0016056	2	GO:0050848	regulation of calcium-mediated signaling
+GO:0034219	7	GO:0015780	nucleotide-sugar transmembrane transport
+GO:0031112	13	GO:0051276	chromosome organization
+GO:0031117	13	GO:0051276	chromosome organization
+GO:0071425	9	GO:0060465	pharynx development
+GO:0045677	10	GO:0045638	negative regulation of myeloid cell differentiation
+GO:0090305	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0045621	10	GO:0045638	negative regulation of myeloid cell differentiation
+GO:0042464	14	GO:0032069	regulation of nuclease activity
+GO:1902404	13	GO:0051276	chromosome organization
+GO:0034769	13	GO:0051276	chromosome organization
+GO:0045638	10	GO:0045638	negative regulation of myeloid cell differentiation
+GO:0042420	4	GO:0019695	choline metabolic process
+GO:0042421	4	GO:0019695	choline metabolic process
+GO:0019748	4	GO:0019695	choline metabolic process
+GO:0042446	4	GO:0019695	choline metabolic process
+GO:0042448	4	GO:0019695	choline metabolic process
+GO:0090481	7	GO:0015780	nucleotide-sugar transmembrane transport
+GO:0043968	4	GO:0019695	choline metabolic process
+GO:0043984	4	GO:0019695	choline metabolic process
+GO:0010942	15	GO:0010942	positive regulation of cell death
+GO:0019853	4	GO:0019695	choline metabolic process
+GO:0006383	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0090199	2	GO:0050848	regulation of calcium-mediated signaling
+GO:0098664	2	GO:0050848	regulation of calcium-mediated signaling
+GO:0006310	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0090158	13	GO:0051276	chromosome organization
+GO:0042135	4	GO:0019695	choline metabolic process
+GO:0002920	3	GO:0060368	regulation of Fc receptor mediated stimulatory signaling pathway
+GO:0071276	6	GO:0034097	response to cytokine
+GO:0071222	6	GO:0034097	response to cytokine
+GO:0060368	3	GO:0060368	regulation of Fc receptor mediated stimulatory signaling pathway
+GO:0060369	3	GO:0060368	regulation of Fc receptor mediated stimulatory signaling pathway
+GO:0071236	6	GO:0034097	response to cytokine
+GO:0019566	4	GO:0019695	choline metabolic process
+GO:0009635	6	GO:0034097	response to cytokine
+GO:1902204	2	GO:0050848	regulation of calcium-mediated signaling
+GO:0042273	13	GO:0051276	chromosome organization
+GO:2000253	15	GO:0010942	positive regulation of cell death
+GO:0060333	2	GO:0050848	regulation of calcium-mediated signaling
+GO:0090263	2	GO:0050848	regulation of calcium-mediated signaling
+GO:0090266	13	GO:0051276	chromosome organization
+GO:0016320	13	GO:0051276	chromosome organization
+GO:0099008	11	GO:0051702	biological process involved in interaction with symbiont
+GO:0038093	3	GO:0060368	regulation of Fc receptor mediated stimulatory signaling pathway
+GO:0038094	3	GO:0060368	regulation of Fc receptor mediated stimulatory signaling pathway
+GO:0038096	3	GO:0060368	regulation of Fc receptor mediated stimulatory signaling pathway
+GO:0031848	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0090231	15	GO:0010942	positive regulation of cell death
+GO:0019695	4	GO:0019695	choline metabolic process
+GO:0060465	9	GO:0060465	pharynx development
+GO:0090200	2	GO:0050848	regulation of calcium-mediated signaling
+GO:0042753	15	GO:0010942	positive regulation of cell death
+GO:0019677	4	GO:0019695	choline metabolic process
+GO:0071897	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:2000786	13	GO:0051276	chromosome organization
+GO:0051461	15	GO:0010942	positive regulation of cell death
+GO:0016485	4	GO:0019695	choline metabolic process
+GO:0071867	6	GO:0034097	response to cytokine
+GO:0071868	6	GO:0034097	response to cytokine
+GO:0071869	6	GO:0034097	response to cytokine
+GO:0016476	10	GO:0045638	negative regulation of myeloid cell differentiation
+GO:0071852	13	GO:0051276	chromosome organization
+GO:0071870	6	GO:0034097	response to cytokine
+GO:0001762	7	GO:0015780	nucleotide-sugar transmembrane transport
+GO:1901098	13	GO:0051276	chromosome organization
+GO:0001755	9	GO:0060465	pharynx development
+GO:0031505	13	GO:0051276	chromosome organization
+GO:0060123	15	GO:0010942	positive regulation of cell death
+GO:0060124	15	GO:0010942	positive regulation of cell death
+GO:0006278	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:1990001	14	GO:0032069	regulation of nuclease activity
+GO:0022416	9	GO:0060465	pharynx development
+GO:0001702	9	GO:0060465	pharynx development
+GO:0097192	2	GO:0050848	regulation of calcium-mediated signaling
+GO:0022400	2	GO:0050848	regulation of calcium-mediated signaling
+GO:0031638	4	GO:0019695	choline metabolic process
+GO:1902530	14	GO:0032069	regulation of nuclease activity
+GO:0033327	8	GO:0007277	pole cell development
+GO:0006775	4	GO:0019695	choline metabolic process
+GO:0001844	13	GO:0051276	chromosome organization
+GO:0001836	2	GO:0050848	regulation of calcium-mediated signaling
+GO:0006749	4	GO:0019695	choline metabolic process
+GO:0110077	7	GO:0015780	nucleotide-sugar transmembrane transport
+GO:0051276	13	GO:0051276	chromosome organization
+GO:0006702	4	GO:0019695	choline metabolic process
+GO:0006704	4	GO:0019695	choline metabolic process
+GO:0090502	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0060785	15	GO:0010942	positive regulation of cell death
+GO:0001573	4	GO:0019695	choline metabolic process
+GO:0042675	9	GO:0060465	pharynx development
+GO:0001504	7	GO:0015780	nucleotide-sugar transmembrane transport
+GO:0001507	4	GO:0019695	choline metabolic process
+GO:0060701	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0001694	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0090615	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0051702	11	GO:0051702	biological process involved in interaction with symbiont
+GO:0006581	4	GO:0019695	choline metabolic process
+GO:0006589	4	GO:0019695	choline metabolic process
+GO:0051897	2	GO:0050848	regulation of calcium-mediated signaling
+GO:1901343	10	GO:0045638	negative regulation of myeloid cell differentiation
+GO:2001032	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0051873	11	GO:0051702	biological process involved in interaction with symbiont
+GO:0006508	4	GO:0019695	choline metabolic process
+GO:0051838	11	GO:0051702	biological process involved in interaction with symbiont
+GO:0015074	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0051591	6	GO:0034097	response to cytokine
+GO:0051597	6	GO:0034097	response to cytokine
+GO:0033209	2	GO:0050848	regulation of calcium-mediated signaling
+GO:0008364	9	GO:0060465	pharynx development
+GO:0006635	4	GO:0019695	choline metabolic process

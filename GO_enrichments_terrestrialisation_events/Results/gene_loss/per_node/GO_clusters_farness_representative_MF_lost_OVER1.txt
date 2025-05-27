@@ -1,0 +1,111 @@
+GO:0005540	5	GO:0005549	odorant binding
+GO:0008422	3	GO:0016829	lyase activity
+GO:0005549	5	GO:0005549	odorant binding
+GO:0004993	1	GO:0004888	transmembrane signaling receptor activity
+GO:0004222	3	GO:0016829	lyase activity
+GO:0004364	3	GO:0016829	lyase activity
+GO:0030551	4	GO:0003677	DNA binding
+GO:0030552	4	GO:0003677	DNA binding
+GO:0005509	5	GO:0005549	odorant binding
+GO:0061809	3	GO:0016829	lyase activity
+GO:0005243	2	GO:0022803	passive transmembrane transporter activity
+GO:0005249	2	GO:0022803	passive transmembrane transporter activity
+GO:0051428	7	GO:0005102	signaling receptor binding
+GO:0061134	3	GO:0016829	lyase activity
+GO:0004970	2	GO:0022803	passive transmembrane transporter activity
+GO:0089720	6	GO:0019900	kinase binding
+GO:0022803	2	GO:0022803	passive transmembrane transporter activity
+GO:0030548	3	GO:0016829	lyase activity
+GO:0005313	2	GO:0022803	passive transmembrane transporter activity
+GO:0005200	3	GO:0016829	lyase activity
+GO:0005068	6	GO:0019900	kinase binding
+GO:0019955	7	GO:0005102	signaling receptor binding
+GO:0015172	2	GO:0022803	passive transmembrane transporter activity
+GO:0004930	1	GO:0004888	transmembrane signaling receptor activity
+GO:0003964	3	GO:0016829	lyase activity
+GO:0048306	7	GO:0005102	signaling receptor binding
+GO:0003968	3	GO:0016829	lyase activity
+GO:0004017	3	GO:0016829	lyase activity
+GO:0030247	5	GO:0005549	odorant binding
+GO:0015145	2	GO:0022803	passive transmembrane transporter activity
+GO:0003690	4	GO:0003677	DNA binding
+GO:0015149	2	GO:0022803	passive transmembrane transporter activity
+GO:0003697	4	GO:0003677	DNA binding
+GO:0005044	3	GO:0016829	lyase activity
+GO:0008188	1	GO:0004888	transmembrane signaling receptor activity
+GO:0005031	1	GO:0004888	transmembrane signaling receptor activity
+GO:0098960	1	GO:0004888	transmembrane signaling receptor activity
+GO:0032036	7	GO:0005102	signaling receptor binding
+GO:0030345	3	GO:0016829	lyase activity
+GO:0019900	6	GO:0019900	kinase binding
+GO:0030331	7	GO:0005102	signaling receptor binding
+GO:0099094	2	GO:0022803	passive transmembrane transporter activity
+GO:0004712	3	GO:0016829	lyase activity
+GO:0004714	1	GO:0004888	transmembrane signaling receptor activity
+GO:0019789	3	GO:0016829	lyase activity
+GO:0003677	4	GO:0003677	DNA binding
+GO:0090729	5	GO:0005549	odorant binding
+GO:0046920	3	GO:0016829	lyase activity
+GO:0051119	2	GO:0022803	passive transmembrane transporter activity
+GO:0017046	5	GO:0005549	odorant binding
+GO:0015267	2	GO:0022803	passive transmembrane transporter activity
+GO:0050135	3	GO:0016829	lyase activity
+GO:0004709	3	GO:0016829	lyase activity
+GO:0062037	4	GO:0003677	DNA binding
+GO:0003774	3	GO:0016829	lyase activity
+GO:0003777	3	GO:0016829	lyase activity
+GO:0003779	7	GO:0005102	signaling receptor binding
+GO:0001227	3	GO:0016829	lyase activity
+GO:0001217	3	GO:0016829	lyase activity
+GO:0015276	2	GO:0022803	passive transmembrane transporter activity
+GO:0015277	2	GO:0022803	passive transmembrane transporter activity
+GO:0002020	6	GO:0019900	kinase binding
+GO:0061665	3	GO:0016829	lyase activity
+GO:0004896	1	GO:0004888	transmembrane signaling receptor activity
+GO:0000981	3	GO:0016829	lyase activity
+GO:0039660	3	GO:0016829	lyase activity
+GO:0008528	1	GO:0004888	transmembrane signaling receptor activity
+GO:0015501	2	GO:0022803	passive transmembrane transporter activity
+GO:0098632	7	GO:0005102	signaling receptor binding
+GO:0038023	1	GO:0004888	transmembrane signaling receptor activity
+GO:0000977	4	GO:0003677	DNA binding
+GO:0120160	5	GO:0005549	odorant binding
+GO:0000978	4	GO:0003677	DNA binding
+GO:0004867	3	GO:0016829	lyase activity
+GO:0003700	3	GO:0016829	lyase activity
+GO:0004888	1	GO:0004888	transmembrane signaling receptor activity
+GO:0016907	1	GO:0004888	transmembrane signaling receptor activity
+GO:0030414	3	GO:0016829	lyase activity
+GO:0016493	1	GO:0004888	transmembrane signaling receptor activity
+GO:0070840	5	GO:0005549	odorant binding
+GO:0019865	5	GO:0005549	odorant binding
+GO:0015928	3	GO:0016829	lyase activity
+GO:0000900	4	GO:0003677	DNA binding
+GO:0031435	6	GO:0019900	kinase binding
+GO:0008375	3	GO:0016829	lyase activity
+GO:0001618	5	GO:0005549	odorant binding
+GO:0008066	1	GO:0004888	transmembrane signaling receptor activity
+GO:0031404	5	GO:0005549	odorant binding
+GO:0097718	7	GO:0005102	signaling receptor binding
+GO:0004112	3	GO:0016829	lyase activity
+GO:0008083	7	GO:0005102	signaling receptor binding
+GO:0005112	7	GO:0005102	signaling receptor binding
+GO:0043014	7	GO:0005102	signaling receptor binding
+GO:0015631	7	GO:0005102	signaling receptor binding
+GO:0005149	7	GO:0005102	signaling receptor binding
+GO:1990226	6	GO:0019900	kinase binding
+GO:0008013	7	GO:0005102	signaling receptor binding
+GO:0043035	4	GO:0003677	DNA binding
+GO:0005139	7	GO:0005102	signaling receptor binding
+GO:0008017	7	GO:0005102	signaling receptor binding
+GO:0030169	5	GO:0005549	odorant binding
+GO:0042974	7	GO:0005102	signaling receptor binding
+GO:0043495	3	GO:0016829	lyase activity
+GO:1904315	2	GO:0022803	passive transmembrane transporter activity
+GO:0004560	3	GO:0016829	lyase activity
+GO:0005102	7	GO:0005102	signaling receptor binding
+GO:0004553	3	GO:0016829	lyase activity
+GO:0051015	7	GO:0005102	signaling receptor binding
+GO:0004519	3	GO:0016829	lyase activity
+GO:0016829	3	GO:0016829	lyase activity
+GO:0005262	2	GO:0022803	passive transmembrane transporter activity

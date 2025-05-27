@@ -1,0 +1,93 @@
+GO:0031423	1	GO:0005102	signaling receptor binding
+GO:0070008	5	GO:0016491	oxidoreductase activity
+GO:0005179	1	GO:0005102	signaling receptor binding
+GO:0009922	4	GO:0016417	S-acyltransferase activity
+GO:0005121	1	GO:0005102	signaling receptor binding
+GO:0120160	6	GO:0045735	nutrient reservoir activity
+GO:0050750	1	GO:0005102	signaling receptor binding
+GO:0102756	4	GO:0016417	S-acyltransferase activity
+GO:0070325	1	GO:0005102	signaling receptor binding
+GO:0000900	6	GO:0045735	nutrient reservoir activity
+GO:0030371	6	GO:0045735	nutrient reservoir activity
+GO:0046332	1	GO:0005102	signaling receptor binding
+GO:0000981	6	GO:0045735	nutrient reservoir activity
+GO:0030291	6	GO:0045735	nutrient reservoir activity
+GO:0000977	6	GO:0045735	nutrient reservoir activity
+GO:0005102	1	GO:0005102	signaling receptor binding
+GO:0071855	1	GO:0005102	signaling receptor binding
+GO:0008307	6	GO:0045735	nutrient reservoir activity
+GO:0005184	1	GO:0005102	signaling receptor binding
+GO:0005249	2	GO:0005249	voltage-gated potassium channel activity
+GO:0039660	6	GO:0045735	nutrient reservoir activity
+GO:0019864	6	GO:0045735	nutrient reservoir activity
+GO:0031404	6	GO:0045735	nutrient reservoir activity
+GO:0016936	6	GO:0045735	nutrient reservoir activity
+GO:0070026	1	GO:0005102	signaling receptor binding
+GO:0045735	6	GO:0045735	nutrient reservoir activity
+GO:0090729	6	GO:0045735	nutrient reservoir activity
+GO:0051381	6	GO:0045735	nutrient reservoir activity
+GO:0016491	5	GO:0016491	oxidoreductase activity
+GO:0002162	1	GO:0005102	signaling receptor binding
+GO:0030345	6	GO:0045735	nutrient reservoir activity
+GO:0030331	6	GO:0045735	nutrient reservoir activity
+GO:0031005	1	GO:0005102	signaling receptor binding
+GO:0005125	1	GO:0005102	signaling receptor binding
+GO:0005507	6	GO:0045735	nutrient reservoir activity
+GO:0030021	6	GO:0045735	nutrient reservoir activity
+GO:0005149	1	GO:0005102	signaling receptor binding
+GO:0017080	6	GO:0045735	nutrient reservoir activity
+GO:0005133	1	GO:0005102	signaling receptor binding
+GO:0008080	4	GO:0016417	S-acyltransferase activity
+GO:0008083	1	GO:0005102	signaling receptor binding
+GO:0016410	4	GO:0016417	S-acyltransferase activity
+GO:0030274	1	GO:0005102	signaling receptor binding
+GO:0048156	1	GO:0005102	signaling receptor binding
+GO:1990782	1	GO:0005102	signaling receptor binding
+GO:0005031	3	GO:0019199	transmembrane receptor protein kinase activity
+GO:0005035	3	GO:0019199	transmembrane receptor protein kinase activity
+GO:0005199	6	GO:0045735	nutrient reservoir activity
+GO:0030246	1	GO:0005102	signaling receptor binding
+GO:0030247	6	GO:0045735	nutrient reservoir activity
+GO:0030248	6	GO:0045735	nutrient reservoir activity
+GO:0016409	4	GO:0016417	S-acyltransferase activity
+GO:0043130	1	GO:0005102	signaling receptor binding
+GO:0042169	1	GO:0005102	signaling receptor binding
+GO:0019199	3	GO:0019199	transmembrane receptor protein kinase activity
+GO:0003730	6	GO:0045735	nutrient reservoir activity
+GO:0061608	6	GO:0045735	nutrient reservoir activity
+GO:0030971	1	GO:0005102	signaling receptor binding
+GO:0004675	3	GO:0019199	transmembrane receptor protein kinase activity
+GO:0019955	1	GO:0005102	signaling receptor binding
+GO:0019706	4	GO:0016417	S-acyltransferase activity
+GO:0019707	4	GO:0016417	S-acyltransferase activity
+GO:0004714	3	GO:0019199	transmembrane receptor protein kinase activity
+GO:0036122	1	GO:0005102	signaling receptor binding
+GO:0016417	4	GO:0016417	S-acyltransferase activity
+GO:0030159	6	GO:0045735	nutrient reservoir activity
+GO:0031435	1	GO:0005102	signaling receptor binding
+GO:0034061	5	GO:0016491	oxidoreductase activity
+GO:0016891	5	GO:0016491	oxidoreductase activity
+GO:0016893	5	GO:0016491	oxidoreductase activity
+GO:0070001	5	GO:0016491	oxidoreductase activity
+GO:0008107	5	GO:0016491	oxidoreductase activity
+GO:0019904	1	GO:0005102	signaling receptor binding
+GO:0003964	5	GO:0016491	oxidoreductase activity
+GO:0043539	6	GO:0045735	nutrient reservoir activity
+GO:0004523	5	GO:0016491	oxidoreductase activity
+GO:0004190	5	GO:0016491	oxidoreductase activity
+GO:0019211	6	GO:0045735	nutrient reservoir activity
+GO:0046920	5	GO:0016491	oxidoreductase activity
+GO:0031127	5	GO:0016491	oxidoreductase activity
+GO:0070530	1	GO:0005102	signaling receptor binding
+GO:0005549	1	GO:0005102	signaling receptor binding
+GO:0048018	1	GO:0005102	signaling receptor binding
+GO:0098821	3	GO:0019199	transmembrane receptor protein kinase activity
+GO:0008013	1	GO:0005102	signaling receptor binding
+GO:0070851	1	GO:0005102	signaling receptor binding
+GO:0005024	3	GO:0019199	transmembrane receptor protein kinase activity
+GO:0045296	1	GO:0005102	signaling receptor binding
+GO:0030546	6	GO:0045735	nutrient reservoir activity
+GO:0015079	2	GO:0005249	voltage-gated potassium channel activity
+GO:0022843	2	GO:0005249	voltage-gated potassium channel activity
+GO:0005154	1	GO:0005102	signaling receptor binding
+GO:0005267	2	GO:0005249	voltage-gated potassium channel activity

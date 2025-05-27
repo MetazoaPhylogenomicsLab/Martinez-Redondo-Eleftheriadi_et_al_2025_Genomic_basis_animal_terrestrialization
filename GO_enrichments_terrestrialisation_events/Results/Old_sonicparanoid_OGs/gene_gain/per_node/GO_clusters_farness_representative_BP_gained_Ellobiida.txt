@@ -1,0 +1,112 @@
+GO:0045920	5	GO:0051321	meiotic cell cycle
+GO:0051485	5	GO:0051321	meiotic cell cycle
+GO:0045948	5	GO:0051321	meiotic cell cycle
+GO:0071655	2	GO:0032656	regulation of interleukin-13 production
+GO:0061337	5	GO:0051321	meiotic cell cycle
+GO:0044000	3	GO:0016032	viral process
+GO:0038084	5	GO:0051321	meiotic cell cycle
+GO:0002322	5	GO:0051321	meiotic cell cycle
+GO:0048713	1	GO:0048713	regulation of oligodendrocyte differentiation
+GO:0000282	5	GO:0051321	meiotic cell cycle
+GO:0050832	6	GO:0039503	suppression by virus of host innate immune response
+GO:0046794	3	GO:0016032	viral process
+GO:0019058	3	GO:0016032	viral process
+GO:0019082	3	GO:0016032	viral process
+GO:0019073	3	GO:0016032	viral process
+GO:0019076	3	GO:0016032	viral process
+GO:0035891	3	GO:0016032	viral process
+GO:0009877	5	GO:0051321	meiotic cell cycle
+GO:0030435	1	GO:0048713	regulation of oligodendrocyte differentiation
+GO:0030437	5	GO:0051321	meiotic cell cycle
+GO:0032656	2	GO:0032656	regulation of interleukin-13 production
+GO:0032674	2	GO:0032656	regulation of interleukin-13 production
+GO:0046718	3	GO:0016032	viral process
+GO:0032616	2	GO:0032656	regulation of interleukin-13 production
+GO:0046740	3	GO:0016032	viral process
+GO:0032634	2	GO:0032656	regulation of interleukin-13 production
+GO:0048026	5	GO:0051321	meiotic cell cycle
+GO:0030150	4	GO:0015931	nucleobase-containing compound transport
+GO:0000723	5	GO:0051321	meiotic cell cycle
+GO:0000724	5	GO:0051321	meiotic cell cycle
+GO:0000725	5	GO:0051321	meiotic cell cycle
+GO:0031640	6	GO:0039503	suppression by virus of host innate immune response
+GO:0031641	1	GO:0048713	regulation of oligodendrocyte differentiation
+GO:0031646	5	GO:0051321	meiotic cell cycle
+GO:0051236	4	GO:0015931	nucleobase-containing compound transport
+GO:0007338	5	GO:0051321	meiotic cell cycle
+GO:0050657	4	GO:0015931	nucleobase-containing compound transport
+GO:0050658	4	GO:0015931	nucleobase-containing compound transport
+GO:0010829	4	GO:0015931	nucleobase-containing compound transport
+GO:2000035	5	GO:0051321	meiotic cell cycle
+GO:0032310	4	GO:0015931	nucleobase-containing compound transport
+GO:0010833	5	GO:0051321	meiotic cell cycle
+GO:0051715	6	GO:0039503	suppression by virus of host innate immune response
+GO:0070096	5	GO:0051321	meiotic cell cycle
+GO:0030223	1	GO:0048713	regulation of oligodendrocyte differentiation
+GO:0001907	6	GO:0039503	suppression by virus of host innate immune response
+GO:0006487	5	GO:0051321	meiotic cell cycle
+GO:0045040	4	GO:0015931	nucleobase-containing compound transport
+GO:0018119	5	GO:0051321	meiotic cell cycle
+GO:0051709	6	GO:0039503	suppression by virus of host innate immune response
+GO:0002228	6	GO:0039503	suppression by virus of host innate immune response
+GO:0006403	4	GO:0015931	nucleobase-containing compound transport
+GO:0017145	5	GO:0051321	meiotic cell cycle
+GO:0006406	4	GO:0015931	nucleobase-containing compound transport
+GO:0052040	6	GO:0039503	suppression by virus of host innate immune response
+GO:0032443	5	GO:0051321	meiotic cell cycle
+GO:0039592	6	GO:0039503	suppression by virus of host innate immune response
+GO:1903401	4	GO:0015931	nucleobase-containing compound transport
+GO:0051028	4	GO:0015931	nucleobase-containing compound transport
+GO:1904182	5	GO:0051321	meiotic cell cycle
+GO:0039554	6	GO:0039503	suppression by virus of host innate immune response
+GO:0015918	4	GO:0015931	nucleobase-containing compound transport
+GO:0002763	1	GO:0048713	regulation of oligodendrocyte differentiation
+GO:0015931	4	GO:0015931	nucleobase-containing compound transport
+GO:0039526	6	GO:0039503	suppression by virus of host innate immune response
+GO:0045660	1	GO:0048713	regulation of oligodendrocyte differentiation
+GO:0014013	1	GO:0048713	regulation of oligodendrocyte differentiation
+GO:0014015	1	GO:0048713	regulation of oligodendrocyte differentiation
+GO:0045658	1	GO:0048713	regulation of oligodendrocyte differentiation
+GO:0039503	6	GO:0039503	suppression by virus of host innate immune response
+GO:0039504	6	GO:0039503	suppression by virus of host innate immune response
+GO:0001782	5	GO:0051321	meiotic cell cycle
+GO:0030852	1	GO:0048713	regulation of oligodendrocyte differentiation
+GO:0030854	1	GO:0048713	regulation of oligodendrocyte differentiation
+GO:0001773	5	GO:0051321	meiotic cell cycle
+GO:0007218	5	GO:0051321	meiotic cell cycle
+GO:0039694	3	GO:0016032	viral process
+GO:0006260	5	GO:0051321	meiotic cell cycle
+GO:0016236	5	GO:0051321	meiotic cell cycle
+GO:0042997	4	GO:0015931	nucleobase-containing compound transport
+GO:0039648	6	GO:0039503	suppression by virus of host innate immune response
+GO:0021761	1	GO:0048713	regulation of oligodendrocyte differentiation
+GO:0021766	1	GO:0048713	regulation of oligodendrocyte differentiation
+GO:0021782	1	GO:0048713	regulation of oligodendrocyte differentiation
+GO:0002027	5	GO:0051321	meiotic cell cycle
+GO:0032243	4	GO:0015931	nucleobase-containing compound transport
+GO:1900015	2	GO:0032656	regulation of interleukin-13 production
+GO:0042138	5	GO:0051321	meiotic cell cycle
+GO:0031214	1	GO:0048713	regulation of oligodendrocyte differentiation
+GO:0086100	5	GO:0051321	meiotic cell cycle
+GO:0045333	5	GO:0051321	meiotic cell cycle
+GO:0043281	5	GO:0051321	meiotic cell cycle
+GO:0032754	2	GO:0032656	regulation of interleukin-13 production
+GO:0032755	2	GO:0032656	regulation of interleukin-13 production
+GO:0032757	2	GO:0032656	regulation of interleukin-13 production
+GO:0043248	5	GO:0051321	meiotic cell cycle
+GO:0042267	6	GO:0039503	suppression by virus of host innate immune response
+GO:1990822	4	GO:0015931	nucleobase-containing compound transport
+GO:0002532	5	GO:0051321	meiotic cell cycle
+GO:0002534	2	GO:0032656	regulation of interleukin-13 production
+GO:1904894	5	GO:0051321	meiotic cell cycle
+GO:0032736	2	GO:0032656	regulation of interleukin-13 production
+GO:0051321	5	GO:0051321	meiotic cell cycle
+GO:0075733	3	GO:0016032	viral process
+GO:0009267	5	GO:0051321	meiotic cell cycle
+GO:0016032	3	GO:0016032	viral process
+GO:0007005	5	GO:0051321	meiotic cell cycle
+GO:0007008	5	GO:0051321	meiotic cell cycle
+GO:0010921	5	GO:0051321	meiotic cell cycle
+GO:0006809	5	GO:0051321	meiotic cell cycle
+GO:0042783	6	GO:0039503	suppression by virus of host innate immune response
+GO:0033005	5	GO:0051321	meiotic cell cycle

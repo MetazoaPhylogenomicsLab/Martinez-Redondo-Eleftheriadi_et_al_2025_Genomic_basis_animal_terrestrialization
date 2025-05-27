@@ -1,0 +1,225 @@
+GO:0043935	3	GO:0007277	pole cell development
+GO:0030193	8	GO:0031348	negative regulation of defense response
+GO:0030199	11	GO:0019835	cytolysis
+GO:0090303	8	GO:0031348	negative regulation of defense response
+GO:0045682	2	GO:1905770	regulation of mesodermal cell differentiation
+GO:0035640	7	GO:0002376	immune system process
+GO:0035641	7	GO:0002376	immune system process
+GO:0046847	11	GO:0019835	cytolysis
+GO:1901224	5	GO:0023041	neuronal signal transduction
+GO:0016558	9	GO:0032369	negative regulation of lipid transport
+GO:0045614	2	GO:1905770	regulation of mesodermal cell differentiation
+GO:0031345	12	GO:1904398	positive regulation of neuromuscular junction development
+GO:0031348	8	GO:0031348	negative regulation of defense response
+GO:0048168	12	GO:1904398	positive regulation of neuromuscular junction development
+GO:0030177	5	GO:0023041	neuronal signal transduction
+GO:0007280	3	GO:0007277	pole cell development
+GO:0007277	3	GO:0007277	pole cell development
+GO:0045604	2	GO:1905770	regulation of mesodermal cell differentiation
+GO:0023041	5	GO:0023041	neuronal signal transduction
+GO:0007218	5	GO:0023041	neuronal signal transduction
+GO:0048146	12	GO:1904398	positive regulation of neuromuscular junction development
+GO:0070374	5	GO:0023041	neuronal signal transduction
+GO:0060349	4	GO:0003205	cardiac chamber development
+GO:0070328	7	GO:0002376	immune system process
+GO:2000027	4	GO:0003205	cardiac chamber development
+GO:0000165	5	GO:0023041	neuronal signal transduction
+GO:2000008	12	GO:1904398	positive regulation of neuromuscular junction development
+GO:0046693	3	GO:0007277	pole cell development
+GO:0032369	9	GO:0032369	negative regulation of lipid transport
+GO:0060443	4	GO:0003205	cardiac chamber development
+GO:0009453	7	GO:0002376	immune system process
+GO:0014068	5	GO:0023041	neuronal signal transduction
+GO:0032374	9	GO:0032369	negative regulation of lipid transport
+GO:0008293	5	GO:0023041	neuronal signal transduction
+GO:0031153	3	GO:0007277	pole cell development
+GO:0090101	5	GO:0023041	neuronal signal transduction
+GO:0034090	11	GO:0019835	cytolysis
+GO:1904398	12	GO:1904398	positive regulation of neuromuscular junction development
+GO:0044090	12	GO:1904398	positive regulation of neuromuscular junction development
+GO:0042331	7	GO:0002376	immune system process
+GO:0071363	7	GO:0002376	immune system process
+GO:0048754	1	GO:0048754	branching morphogenesis of an epithelial tube
+GO:0034087	11	GO:0019835	cytolysis
+GO:0034089	11	GO:0019835	cytolysis
+GO:0090263	5	GO:0023041	neuronal signal transduction
+GO:0090279	9	GO:0032369	negative regulation of lipid transport
+GO:0031295	12	GO:1904398	positive regulation of neuromuscular junction development
+GO:0071346	7	GO:0002376	immune system process
+GO:0051497	12	GO:1904398	positive regulation of neuromuscular junction development
+GO:0022410	6	GO:0045938	positive regulation of circadian sleep/wake cycle, sleep
+GO:0002376	7	GO:0002376	immune system process
+GO:0015908	9	GO:0032369	negative regulation of lipid transport
+GO:0140415	7	GO:0002376	immune system process
+GO:0140418	7	GO:0002376	immune system process
+GO:0010877	9	GO:0032369	negative regulation of lipid transport
+GO:0042471	4	GO:0003205	cardiac chamber development
+GO:0042472	4	GO:0003205	cardiac chamber development
+GO:0099120	4	GO:0003205	cardiac chamber development
+GO:0140403	8	GO:0031348	negative regulation of defense response
+GO:0140404	7	GO:0002376	immune system process
+GO:0045938	6	GO:0045938	positive regulation of circadian sleep/wake cycle, sleep
+GO:0030879	4	GO:0003205	cardiac chamber development
+GO:0010595	12	GO:1904398	positive regulation of neuromuscular junction development
+GO:0048840	4	GO:0003205	cardiac chamber development
+GO:0043388	7	GO:0002376	immune system process
+GO:0033344	9	GO:0032369	negative regulation of lipid transport
+GO:2000378	12	GO:1904398	positive regulation of neuromuscular junction development
+GO:0035073	4	GO:0003205	cardiac chamber development
+GO:0035075	7	GO:0002376	immune system process
+GO:0061180	4	GO:0003205	cardiac chamber development
+GO:0045087	7	GO:0002376	immune system process
+GO:0003391	3	GO:0007277	pole cell development
+GO:0032102	8	GO:0031348	negative regulation of defense response
+GO:0061178	9	GO:0032369	negative regulation of lipid transport
+GO:0030587	3	GO:0007277	pole cell development
+GO:1905330	2	GO:1905770	regulation of mesodermal cell differentiation
+GO:0039702	7	GO:0002376	immune system process
+GO:0050777	8	GO:0031348	negative regulation of defense response
+GO:0050728	8	GO:0031348	negative regulation of defense response
+GO:0030512	5	GO:0023041	neuronal signal transduction
+GO:0030514	5	GO:0023041	neuronal signal transduction
+GO:0048520	6	GO:0045938	positive regulation of circadian sleep/wake cycle, sleep
+GO:0048525	8	GO:0031348	negative regulation of defense response
+GO:0035007	8	GO:0031348	negative regulation of defense response
+GO:0035008	8	GO:0031348	negative regulation of defense response
+GO:0048511	7	GO:0002376	immune system process
+GO:0048514	4	GO:0003205	cardiac chamber development
+GO:0007638	7	GO:0002376	immune system process
+GO:0046957	7	GO:0002376	immune system process
+GO:0019835	11	GO:0019835	cytolysis
+GO:0009753	7	GO:0002376	immune system process
+GO:0010656	12	GO:1904398	positive regulation of neuromuscular junction development
+GO:0050708	9	GO:0032369	negative regulation of lipid transport
+GO:0007601	7	GO:0002376	immune system process
+GO:0043410	5	GO:0023041	neuronal signal transduction
+GO:0050893	7	GO:0002376	immune system process
+GO:0034391	12	GO:1904398	positive regulation of neuromuscular junction development
+GO:0043406	5	GO:0023041	neuronal signal transduction
+GO:0043408	5	GO:0023041	neuronal signal transduction
+GO:0048680	12	GO:1904398	positive regulation of neuromuscular junction development
+GO:0008543	5	GO:0023041	neuronal signal transduction
+GO:0006953	7	GO:0002376	immune system process
+GO:0006954	7	GO:0002376	immune system process
+GO:0006956	8	GO:0031348	negative regulation of defense response
+GO:0034341	7	GO:0002376	immune system process
+GO:0006959	7	GO:0002376	immune system process
+GO:0032760	6	GO:0045938	positive regulation of circadian sleep/wake cycle, sleep
+GO:0002251	7	GO:0002376	immune system process
+GO:1903818	9	GO:0032369	negative regulation of lipid transport
+GO:0050802	6	GO:0045938	positive regulation of circadian sleep/wake cycle, sleep
+GO:0002220	8	GO:0031348	negative regulation of defense response
+GO:0032729	6	GO:0045938	positive regulation of circadian sleep/wake cycle, sleep
+GO:2000179	12	GO:1904398	positive regulation of neuromuscular junction development
+GO:0039573	8	GO:0031348	negative regulation of defense response
+GO:0052129	7	GO:0002376	immune system process
+GO:0036010	11	GO:0019835	cytolysis
+GO:0070848	7	GO:0002376	immune system process
+GO:2000146	12	GO:1904398	positive regulation of neuromuscular junction development
+GO:0001822	4	GO:0003205	cardiac chamber development
+GO:0031529	11	GO:0019835	cytolysis
+GO:0006907	11	GO:0019835	cytolysis
+GO:0051715	11	GO:0019835	cytolysis
+GO:0042743	11	GO:0019835	cytolysis
+GO:0042744	11	GO:0019835	cytolysis
+GO:0042749	6	GO:0045938	positive regulation of circadian sleep/wake cycle, sleep
+GO:0098671	7	GO:0002376	immune system process
+GO:0008645	9	GO:0032369	negative regulation of lipid transport
+GO:0003151	4	GO:0003205	cardiac chamber development
+GO:0051703	7	GO:0002376	immune system process
+GO:2000294	6	GO:0045938	positive regulation of circadian sleep/wake cycle, sleep
+GO:0039694	7	GO:0002376	immune system process
+GO:1900025	2	GO:1905770	regulation of mesodermal cell differentiation
+GO:1900027	12	GO:1904398	positive regulation of neuromuscular junction development
+GO:1904731	9	GO:0032369	negative regulation of lipid transport
+GO:0051897	5	GO:0023041	neuronal signal transduction
+GO:0002752	8	GO:0031348	negative regulation of defense response
+GO:2000252	6	GO:0045938	positive regulation of circadian sleep/wake cycle, sleep
+GO:1900034	8	GO:0031348	negative regulation of defense response
+GO:0031666	5	GO:0023041	neuronal signal transduction
+GO:0070542	7	GO:0002376	immune system process
+GO:0001580	7	GO:0002376	immune system process
+GO:1905278	2	GO:1905770	regulation of mesodermal cell differentiation
+GO:0001525	4	GO:0003205	cardiac chamber development
+GO:0035331	5	GO:0023041	neuronal signal transduction
+GO:0018996	7	GO:0002376	immune system process
+GO:0062208	5	GO:0023041	neuronal signal transduction
+GO:0060688	2	GO:1905770	regulation of mesodermal cell differentiation
+GO:0034142	5	GO:0023041	neuronal signal transduction
+GO:0034143	5	GO:0023041	neuronal signal transduction
+GO:0044179	11	GO:0019835	cytolysis
+GO:0042595	7	GO:0002376	immune system process
+GO:2000785	12	GO:1904398	positive regulation of neuromuscular junction development
+GO:2000786	12	GO:1904398	positive regulation of neuromuscular junction development
+GO:0003231	4	GO:0003205	cardiac chamber development
+GO:0032528	11	GO:0019835	cytolysis
+GO:0001658	1	GO:0048754	branching morphogenesis of an epithelial tube
+GO:0034293	3	GO:0007277	pole cell development
+GO:1905789	7	GO:0002376	immune system process
+GO:0003205	4	GO:0003205	cardiac chamber development
+GO:1905770	2	GO:1905770	regulation of mesodermal cell differentiation
+GO:2000736	2	GO:1905770	regulation of mesodermal cell differentiation
+GO:2000738	2	GO:1905770	regulation of mesodermal cell differentiation
+GO:1901018	9	GO:0032369	negative regulation of lipid transport
+GO:1901046	6	GO:0045938	positive regulation of circadian sleep/wake cycle, sleep
+GO:1901048	5	GO:0023041	neuronal signal transduction
+GO:0045434	3	GO:0007277	pole cell development
+GO:0042690	2	GO:1905770	regulation of mesodermal cell differentiation
+GO:0022617	11	GO:0019835	cytolysis
+GO:0030902	4	GO:0003205	cardiac chamber development
+GO:0042661	2	GO:1905770	regulation of mesodermal cell differentiation
+GO:0002526	7	GO:0002376	immune system process
+GO:0035154	4	GO:0003205	cardiac chamber development
+GO:0032649	6	GO:0045938	positive regulation of circadian sleep/wake cycle, sleep
+GO:1905885	9	GO:0032369	negative regulation of lipid transport
+GO:0045187	6	GO:0045938	positive regulation of circadian sleep/wake cycle, sleep
+GO:0035146	1	GO:0048754	branching morphogenesis of an epithelial tube
+GO:0035147	1	GO:0048754	branching morphogenesis of an epithelial tube
+GO:1904659	9	GO:0032369	negative regulation of lipid transport
+GO:0019953	3	GO:0007277	pole cell development
+GO:0002683	8	GO:0031348	negative regulation of defense response
+GO:0002689	8	GO:0031348	negative regulation of defense response
+GO:0040013	8	GO:0031348	negative regulation of defense response
+GO:0072593	11	GO:0019835	cytolysis
+GO:0045299	4	GO:0003205	cardiac chamber development
+GO:0046425	5	GO:0023041	neuronal signal transduction
+GO:0050960	7	GO:0002376	immune system process
+GO:0050961	7	GO:0002376	immune system process
+GO:0050965	7	GO:0002376	immune system process
+GO:0050968	7	GO:0002376	immune system process
+GO:0050951	7	GO:0002376	immune system process
+GO:0050955	7	GO:0002376	immune system process
+GO:0050922	8	GO:0031348	negative regulation of defense response
+GO:0035202	4	GO:0003205	cardiac chamber development
+GO:0033674	12	GO:1904398	positive regulation of neuromuscular junction development
+GO:0001938	12	GO:1904398	positive regulation of neuromuscular junction development
+GO:0045741	12	GO:1904398	positive regulation of neuromuscular junction development
+GO:0007362	3	GO:0007277	pole cell development
+GO:1990138	3	GO:0007277	pole cell development
+GO:0010378	8	GO:0031348	negative regulation of defense response
+GO:0045887	12	GO:1904398	positive regulation of neuromuscular junction development
+GO:0110077	11	GO:0019835	cytolysis
+GO:0030381	3	GO:0007277	pole cell development
+GO:0007426	1	GO:0048754	branching morphogenesis of an epithelial tube
+GO:0007427	4	GO:0003205	cardiac chamber development
+GO:0007428	1	GO:0048754	branching morphogenesis of an epithelial tube
+GO:0007429	1	GO:0048754	branching morphogenesis of an epithelial tube
+GO:0030336	12	GO:1904398	positive regulation of neuromuscular junction development
+GO:0034605	7	GO:0002376	immune system process
+GO:0120033	12	GO:1904398	positive regulation of neuromuscular junction development
+GO:0007430	1	GO:0048754	branching morphogenesis of an epithelial tube
+GO:0010453	2	GO:1905770	regulation of mesodermal cell differentiation
+GO:0042052	3	GO:0007277	pole cell development
+GO:0046718	7	GO:0002376	immune system process
+GO:0042026	11	GO:0019835	cytolysis
+GO:0051048	9	GO:0032369	negative regulation of lipid transport
+GO:0007169	5	GO:0023041	neuronal signal transduction
+GO:0007155	11	GO:0019835	cytolysis
+GO:0007156	11	GO:0019835	cytolysis
+GO:0007158	11	GO:0019835	cytolysis
+GO:0007186	5	GO:0023041	neuronal signal transduction
+GO:0002092	12	GO:1904398	positive regulation of neuromuscular junction development
+GO:0030431	6	GO:0045938	positive regulation of circadian sleep/wake cycle, sleep
+GO:0030437	3	GO:0007277	pole cell development
+GO:0097178	11	GO:0019835	cytolysis
+GO:0002076	3	GO:0007277	pole cell development

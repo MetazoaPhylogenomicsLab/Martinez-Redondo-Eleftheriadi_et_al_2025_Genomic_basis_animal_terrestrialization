@@ -1,0 +1,30 @@
+GO:0005515	5	GO:0005515	protein binding
+GO:0008157	5	GO:0005515	protein binding
+GO:0070840	2	GO:0070840	dynein complex binding
+GO:2001069	2	GO:0070840	dynein complex binding
+GO:0001222	5	GO:0005515	protein binding
+GO:0044390	5	GO:0005515	protein binding
+GO:0008139	2	GO:0070840	dynein complex binding
+GO:0042826	5	GO:0005515	protein binding
+GO:0031005	4	GO:0015631	tubulin binding
+GO:0005488	5	GO:0005515	protein binding
+GO:0031624	5	GO:0005515	protein binding
+GO:0010997	2	GO:0070840	dynein complex binding
+GO:0003729	2	GO:0070840	dynein complex binding
+GO:0008083	3	GO:0070851	growth factor receptor binding
+GO:0001181	2	GO:0070840	dynein complex binding
+GO:0043014	4	GO:0015631	tubulin binding
+GO:0008017	4	GO:0015631	tubulin binding
+GO:0034235	2	GO:0070840	dynein complex binding
+GO:0042169	5	GO:0005515	protein binding
+GO:0000978	2	GO:0070840	dynein complex binding
+GO:0019894	4	GO:0015631	tubulin binding
+GO:0015631	4	GO:0015631	tubulin binding
+GO:0019900	5	GO:0005515	protein binding
+GO:0005154	3	GO:0070851	growth factor receptor binding
+GO:0005184	3	GO:0070851	growth factor receptor binding
+GO:0070851	3	GO:0070851	growth factor receptor binding
+GO:0005125	3	GO:0070851	growth factor receptor binding
+GO:0005118	3	GO:0070851	growth factor receptor binding
+GO:0048306	5	GO:0005515	protein binding
+GO:0017056	2	GO:0070840	dynein complex binding

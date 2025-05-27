@@ -1,0 +1,117 @@
+GO:0044060	6	GO:0001906	cell killing
+GO:0007549	1	GO:0001817	regulation of cytokine production
+GO:0050727	7	GO:0050727	regulation of inflammatory response
+GO:0050728	7	GO:0050727	regulation of inflammatory response
+GO:0033555	7	GO:0050727	regulation of inflammatory response
+GO:0060255	1	GO:0001817	regulation of cytokine production
+GO:0031023	5	GO:0043254	regulation of protein-containing complex assembly
+GO:0044030	4	GO:1902679	negative regulation of RNA biosynthetic process
+GO:0060236	5	GO:0043254	regulation of protein-containing complex assembly
+GO:0031047	1	GO:0001817	regulation of cytokine production
+GO:0031031	5	GO:0043254	regulation of protein-containing complex assembly
+GO:1903556	1	GO:0001817	regulation of cytokine production
+GO:0044000	2	GO:0016032	viral process
+GO:0044003	2	GO:0016032	viral process
+GO:0006501	3	GO:0045860	positive regulation of protein kinase activity
+GO:0009734	6	GO:0001906	cell killing
+GO:0000290	4	GO:1902679	negative regulation of RNA biosynthetic process
+GO:0051930	6	GO:0001906	cell killing
+GO:0051931	6	GO:0001906	cell killing
+GO:0009892	1	GO:0001817	regulation of cytokine production
+GO:1903507	4	GO:1902679	negative regulation of RNA biosynthetic process
+GO:1901000	7	GO:0050727	regulation of inflammatory response
+GO:1905758	5	GO:0043254	regulation of protein-containing complex assembly
+GO:0033674	3	GO:0045860	positive regulation of protein kinase activity
+GO:0030474	5	GO:0043254	regulation of protein-containing complex assembly
+GO:0019058	2	GO:0016032	viral process
+GO:0019080	2	GO:0016032	viral process
+GO:0043555	4	GO:1902679	negative regulation of RNA biosynthetic process
+GO:0019072	2	GO:0016032	viral process
+GO:0019073	2	GO:0016032	viral process
+GO:0032652	1	GO:0001817	regulation of cytokine production
+GO:0046782	2	GO:0016032	viral process
+GO:0019048	2	GO:0016032	viral process
+GO:0098670	2	GO:0016032	viral process
+GO:0010764	6	GO:0001906	cell killing
+GO:0010769	6	GO:0001906	cell killing
+GO:0032675	1	GO:0001817	regulation of cytokine production
+GO:0080129	5	GO:0043254	regulation of protein-containing complex assembly
+GO:0032612	1	GO:0001817	regulation of cytokine production
+GO:0008343	6	GO:0001906	cell killing
+GO:0008344	6	GO:0001906	cell killing
+GO:0008345	6	GO:0001906	cell killing
+GO:0032649	1	GO:0001817	regulation of cytokine production
+GO:0035821	2	GO:0016032	viral process
+GO:0032635	1	GO:0001817	regulation of cytokine production
+GO:0051259	5	GO:0043254	regulation of protein-containing complex assembly
+GO:0051276	5	GO:0043254	regulation of protein-containing complex assembly
+GO:0032609	1	GO:0001817	regulation of cytokine production
+GO:0045724	5	GO:0043254	regulation of protein-containing complex assembly
+GO:1902679	4	GO:1902679	negative regulation of RNA biosynthetic process
+GO:0051240	1	GO:0001817	regulation of cytokine production
+GO:0051241	1	GO:0001817	regulation of cytokine production
+GO:0031640	2	GO:0016032	viral process
+GO:0045737	3	GO:0045860	positive regulation of protein kinase activity
+GO:0090224	5	GO:0043254	regulation of protein-containing complex assembly
+GO:0018410	3	GO:0045860	positive regulation of protein kinase activity
+GO:0046888	6	GO:0001906	cell killing
+GO:0045892	4	GO:1902679	negative regulation of RNA biosynthetic process
+GO:0070734	3	GO:0045860	positive regulation of protein kinase activity
+GO:0048570	6	GO:0001906	cell killing
+GO:0048525	2	GO:0016032	viral process
+GO:0045860	3	GO:0045860	positive regulation of protein kinase activity
+GO:0045869	2	GO:0016032	viral process
+GO:0006306	3	GO:0045860	positive regulation of protein kinase activity
+GO:0031327	4	GO:1902679	negative regulation of RNA biosynthetic process
+GO:0001906	6	GO:0001906	cell killing
+GO:0051701	2	GO:0016032	viral process
+GO:0031348	7	GO:0050727	regulation of inflammatory response
+GO:0009629	6	GO:0001906	cell killing
+GO:0031334	5	GO:0043254	regulation of protein-containing complex assembly
+GO:0010558	4	GO:1902679	negative regulation of RNA biosynthetic process
+GO:0002275	6	GO:0001906	cell killing
+GO:0045576	6	GO:0001906	cell killing
+GO:0006954	7	GO:0050727	regulation of inflammatory response
+GO:0140353	6	GO:0001906	cell killing
+GO:0046660	6	GO:0001906	cell killing
+GO:0006940	6	GO:0001906	cell killing
+GO:0044403	2	GO:0016032	viral process
+GO:0010629	1	GO:0001817	regulation of cytokine production
+GO:0046601	5	GO:0043254	regulation of protein-containing complex assembly
+GO:1903900	2	GO:0016032	viral process
+GO:0007218	6	GO:0001906	cell killing
+GO:0010605	1	GO:0001817	regulation of cytokine production
+GO:0032102	7	GO:0050727	regulation of inflammatory response
+GO:0007204	6	GO:0001906	cell killing
+GO:0031109	5	GO:0043254	regulation of protein-containing complex assembly
+GO:0032274	6	GO:0001906	cell killing
+GO:1900073	6	GO:0001906	cell killing
+GO:0002027	6	GO:0001906	cell killing
+GO:1900015	1	GO:0001817	regulation of cytokine production
+GO:1900047	6	GO:0001906	cell killing
+GO:0001816	1	GO:0001817	regulation of cytokine production
+GO:0001817	1	GO:0001817	regulation of cytokine production
+GO:0031214	6	GO:0001906	cell killing
+GO:0043254	5	GO:0043254	regulation of protein-containing complex assembly
+GO:0009926	6	GO:0001906	cell killing
+GO:0044790	2	GO:0016032	viral process
+GO:0010468	1	GO:0001817	regulation of cytokine production
+GO:0032720	1	GO:0001817	regulation of cytokine production
+GO:0032722	1	GO:0001817	regulation of cytokine production
+GO:0032729	1	GO:0001817	regulation of cytokine production
+GO:0002532	7	GO:0050727	regulation of inflammatory response
+GO:0002534	1	GO:0001817	regulation of cytokine production
+GO:0032715	1	GO:0001817	regulation of cytokine production
+GO:0051321	6	GO:0001906	cell killing
+GO:0060918	6	GO:0001906	cell killing
+GO:0090363	5	GO:0043254	regulation of protein-containing complex assembly
+GO:0051347	6	GO:0001906	cell killing
+GO:0019219	4	GO:1902679	negative regulation of RNA biosynthetic process
+GO:0120034	5	GO:0043254	regulation of protein-containing complex assembly
+GO:0006813	6	GO:0001906	cell killing
+GO:0016032	2	GO:0016032	viral process
+GO:0090316	6	GO:0001906	cell killing
+GO:1904031	3	GO:0045860	positive regulation of protein kinase activity
+GO:1904036	6	GO:0001906	cell killing
+GO:0032056	4	GO:1902679	negative regulation of RNA biosynthetic process
+GO:0090309	4	GO:1902679	negative regulation of RNA biosynthetic process

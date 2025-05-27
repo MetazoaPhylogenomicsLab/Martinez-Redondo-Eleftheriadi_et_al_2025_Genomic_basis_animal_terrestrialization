@@ -1,0 +1,108 @@
+GO:0030849	5	GO:0098687	chromosomal region
+GO:0019028	2	GO:0044423	virion component
+GO:0042579	4	GO:0042579	microbody
+GO:0042641	5	GO:0098687	chromosomal region
+GO:0005576	3	GO:0060187	cell pole
+GO:0005615	3	GO:0060187	cell pole
+GO:0000786	5	GO:0098687	chromosomal region
+GO:0044298	3	GO:0060187	cell pole
+GO:0031012	3	GO:0060187	cell pole
+GO:0031676	5	GO:0098687	chromosomal region
+GO:0005828	5	GO:0098687	chromosomal region
+GO:0005777	4	GO:0042579	microbody
+GO:0030312	3	GO:0060187	cell pole
+GO:0030430	1	GO:0033646	host intracellular part
+GO:0031265	3	GO:0060187	cell pole
+GO:0031511	5	GO:0098687	chromosomal region
+GO:0043657	1	GO:0033646	host intracellular part
+GO:0032809	3	GO:0060187	cell pole
+GO:0030075	5	GO:0098687	chromosomal region
+GO:0044156	1	GO:0033646	host intracellular part
+GO:0097517	5	GO:0098687	chromosomal region
+GO:0009579	3	GO:0060187	cell pole
+GO:0044178	1	GO:0033646	host intracellular part
+GO:0033643	1	GO:0033646	host intracellular part
+GO:0033644	1	GO:0033646	host intracellular part
+GO:0044094	1	GO:0033646	host intracellular part
+GO:0020002	1	GO:0033646	host intracellular part
+GO:0001725	5	GO:0098687	chromosomal region
+GO:0042025	1	GO:0033646	host intracellular part
+GO:0000939	5	GO:0098687	chromosomal region
+GO:0044423	2	GO:0044423	virion component
+GO:0032580	4	GO:0042579	microbody
+GO:0000243	4	GO:0042579	microbody
+GO:0090665	2	GO:0044423	virion component
+GO:0005685	4	GO:0042579	microbody
+GO:0099086	5	GO:0098687	chromosomal region
+GO:0009897	3	GO:0060187	cell pole
+GO:0042151	5	GO:0098687	chromosomal region
+GO:0098975	3	GO:0060187	cell pole
+GO:0031160	3	GO:0060187	cell pole
+GO:0005778	4	GO:0042579	microbody
+GO:0000795	5	GO:0098687	chromosomal region
+GO:0000138	4	GO:0042579	microbody
+GO:0018995	1	GO:0033646	host intracellular part
+GO:0000781	5	GO:0098687	chromosomal region
+GO:0032982	3	GO:0060187	cell pole
+GO:0044177	1	GO:0033646	host intracellular part
+GO:0019029	2	GO:0044423	virion component
+GO:0019013	2	GO:0044423	virion component
+GO:0046696	3	GO:0060187	cell pole
+GO:0019033	2	GO:0044423	virion component
+GO:0042597	3	GO:0060187	cell pole
+GO:0072686	5	GO:0098687	chromosomal region
+GO:0005704	5	GO:0098687	chromosomal region
+GO:0005618	3	GO:0060187	cell pole
+GO:0030313	3	GO:0060187	cell pole
+GO:0034045	3	GO:0060187	cell pole
+GO:0000805	5	GO:0098687	chromosomal region
+GO:0042734	3	GO:0060187	cell pole
+GO:0022627	5	GO:0098687	chromosomal region
+GO:0033645	1	GO:0033646	host intracellular part
+GO:0005840	5	GO:0098687	chromosomal region
+GO:0055036	3	GO:0060187	cell pole
+GO:0098978	3	GO:0060187	cell pole
+GO:0044219	1	GO:0033646	host intracellular part
+GO:0000940	5	GO:0098687	chromosomal region
+GO:0098636	2	GO:0044423	virion component
+GO:0032839	3	GO:0060187	cell pole
+GO:0031903	4	GO:0042579	microbody
+GO:0140220	1	GO:0033646	host intracellular part
+GO:0014069	3	GO:0060187	cell pole
+GO:0019031	2	GO:0044423	virion component
+GO:0071013	4	GO:0042579	microbody
+GO:0009277	3	GO:0060187	cell pole
+GO:0042651	3	GO:0060187	cell pole
+GO:0000943	4	GO:0042579	microbody
+GO:0044204	1	GO:0033646	host intracellular part
+GO:0090571	4	GO:0042579	microbody
+GO:0019030	2	GO:0044423	virion component
+GO:0042575	2	GO:0044423	virion component
+GO:0036338	2	GO:0044423	virion component
+GO:0001401	4	GO:0042579	microbody
+GO:0060187	3	GO:0060187	cell pole
+GO:0051286	3	GO:0060187	cell pole
+GO:0098799	4	GO:0042579	microbody
+GO:0005937	3	GO:0060187	cell pole
+GO:0098687	5	GO:0098687	chromosomal region
+GO:0044199	1	GO:0033646	host intracellular part
+GO:0043332	3	GO:0060187	cell pole
+GO:0031968	4	GO:0042579	microbody
+GO:0005741	4	GO:0042579	microbody
+GO:0005742	4	GO:0042579	microbody
+GO:0032156	5	GO:0098687	chromosomal region
+GO:0044200	1	GO:0033646	host intracellular part
+GO:0033650	1	GO:0033646	host intracellular part
+GO:0000793	5	GO:0098687	chromosomal region
+GO:0000775	5	GO:0098687	chromosomal region
+GO:0000776	5	GO:0098687	chromosomal region
+GO:0033655	1	GO:0033646	host intracellular part
+GO:0033647	1	GO:0033646	host intracellular part
+GO:0033648	1	GO:0033646	host intracellular part
+GO:0030870	4	GO:0042579	microbody
+GO:0030288	3	GO:0060187	cell pole
+GO:0009279	3	GO:0060187	cell pole
+GO:0019867	3	GO:0060187	cell pole
+GO:0009986	3	GO:0060187	cell pole
+GO:0033646	1	GO:0033646	host intracellular part
+GO:0046930	3	GO:0060187	cell pole

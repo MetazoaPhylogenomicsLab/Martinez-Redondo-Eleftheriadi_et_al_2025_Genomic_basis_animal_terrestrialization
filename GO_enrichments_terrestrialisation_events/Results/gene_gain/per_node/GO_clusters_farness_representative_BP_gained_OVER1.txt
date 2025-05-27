@@ -1,0 +1,65 @@
+GO:0071467	7	GO:0046677	response to antibiotic
+GO:0030514	7	GO:0046677	response to antibiotic
+GO:1900087	1	GO:2000045	regulation of G1/S transition of mitotic cell cycle
+GO:0040013	2	GO:0030336	negative regulation of cell migration
+GO:0042044	5	GO:0006625	protein targeting to peroxisome
+GO:0002762	3	GO:0001944	vasculature development
+GO:0001510	4	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0070935	4	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0061448	3	GO:0001944	vasculature development
+GO:0001541	3	GO:0001944	vasculature development
+GO:0006023	4	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0006024	4	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0001547	3	GO:0001944	vasculature development
+GO:0048745	3	GO:0001944	vasculature development
+GO:0090022	2	GO:0030336	negative regulation of cell migration
+GO:0036120	7	GO:0046677	response to antibiotic
+GO:2000045	1	GO:2000045	regulation of G1/S transition of mitotic cell cycle
+GO:0007031	5	GO:0006625	protein targeting to peroxisome
+GO:0036119	7	GO:0046677	response to antibiotic
+GO:0048705	3	GO:0001944	vasculature development
+GO:0050727	7	GO:0046677	response to antibiotic
+GO:0030316	3	GO:0001944	vasculature development
+GO:0001701	3	GO:0001944	vasculature development
+GO:0045670	3	GO:0001944	vasculature development
+GO:0045671	3	GO:0001944	vasculature development
+GO:0046677	7	GO:0046677	response to antibiotic
+GO:2000146	2	GO:0030336	negative regulation of cell migration
+GO:0044344	7	GO:0046677	response to antibiotic
+GO:0030336	2	GO:0030336	negative regulation of cell migration
+GO:0000387	4	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:2000134	1	GO:2000045	regulation of G1/S transition of mitotic cell cycle
+GO:1902622	2	GO:0030336	negative regulation of cell migration
+GO:0036260	4	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0006625	5	GO:0006625	protein targeting to peroxisome
+GO:0010259	3	GO:0001944	vasculature development
+GO:0042307	5	GO:0006625	protein targeting to peroxisome
+GO:0022605	3	GO:0001944	vasculature development
+GO:0009615	7	GO:0046677	response to antibiotic
+GO:0071356	7	GO:0046677	response to antibiotic
+GO:0032496	7	GO:0046677	response to antibiotic
+GO:0072662	5	GO:0006625	protein targeting to peroxisome
+GO:0072663	5	GO:0006625	protein targeting to peroxisome
+GO:0000302	7	GO:0046677	response to antibiotic
+GO:0060324	3	GO:0001944	vasculature development
+GO:0060325	3	GO:0001944	vasculature development
+GO:0009268	7	GO:0046677	response to antibiotic
+GO:0090305	4	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0030212	4	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0030213	4	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0030214	4	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0034243	4	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0071347	7	GO:0046677	response to antibiotic
+GO:0071622	2	GO:0030336	negative regulation of cell migration
+GO:0006833	5	GO:0006625	protein targeting to peroxisome
+GO:0006954	7	GO:0046677	response to antibiotic
+GO:1902807	1	GO:2000045	regulation of G1/S transition of mitotic cell cycle
+GO:1902808	1	GO:2000045	regulation of G1/S transition of mitotic cell cycle
+GO:1903241	4	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0002237	7	GO:0046677	response to antibiotic
+GO:0001944	3	GO:0001944	vasculature development
+GO:0071493	7	GO:0046677	response to antibiotic
+GO:0010761	2	GO:0030336	negative regulation of cell migration
+GO:0051216	3	GO:0001944	vasculature development
+GO:0043574	5	GO:0006625	protein targeting to peroxisome
+GO:1903909	5	GO:0006625	protein targeting to peroxisome

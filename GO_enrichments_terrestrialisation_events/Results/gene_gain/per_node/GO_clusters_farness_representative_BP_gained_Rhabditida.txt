@@ -1,0 +1,649 @@
+GO:0045921	6	GO:0044089	positive regulation of cellular component biogenesis
+GO:0032834	11	GO:0045580	regulation of T cell differentiation
+GO:1903076	16	GO:0007589	body fluid secretion
+GO:0048246	10	GO:0002685	regulation of leukocyte migration
+GO:0045187	16	GO:0007589	body fluid secretion
+GO:0000916	18	GO:0090529	cell septum assembly
+GO:0050727	9	GO:0006957	complement activation, alternative pathway
+GO:0060250	16	GO:0007589	body fluid secretion
+GO:0050729	9	GO:0006957	complement activation, alternative pathway
+GO:0042706	14	GO:0021551	central nervous system morphogenesis
+GO:2000252	16	GO:0007589	body fluid secretion
+GO:0090426	18	GO:0090529	cell septum assembly
+GO:0090444	14	GO:0021551	central nervous system morphogenesis
+GO:1901074	6	GO:0044089	positive regulation of cellular component biogenesis
+GO:1902004	5	GO:0010835	regulation of protein ADP-ribosylation
+GO:1901076	6	GO:0044089	positive regulation of cellular component biogenesis
+GO:0000266	18	GO:0090529	cell septum assembly
+GO:0007614	17	GO:0002532	production of molecular mediator involved in inflammatory response
+GO:0031589	19	GO:0001775	cell activation
+GO:0048706	14	GO:0021551	central nervous system morphogenesis
+GO:0033674	4	GO:1904407	positive regulation of nitric oxide metabolic process
+GO:0070262	5	GO:0010835	regulation of protein ADP-ribosylation
+GO:0007601	17	GO:0002532	production of molecular mediator involved in inflammatory response
+GO:0007602	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0007606	17	GO:0002532	production of molecular mediator involved in inflammatory response
+GO:0031532	18	GO:0090529	cell septum assembly
+GO:0034393	8	GO:2000106	regulation of leukocyte apoptotic process
+GO:1904600	18	GO:0090529	cell septum assembly
+GO:0000753	13	GO:0030727	germarium-derived female germ-line cyst formation
+GO:0030168	19	GO:0001775	cell activation
+GO:0060099	6	GO:0044089	positive regulation of cellular component biogenesis
+GO:0042531	5	GO:0010835	regulation of protein ADP-ribosylation
+GO:0034315	18	GO:0090529	cell septum assembly
+GO:0061919	19	GO:0001775	cell activation
+GO:0007340	13	GO:0030727	germarium-derived female germ-line cyst formation
+GO:0007342	13	GO:0030727	germarium-derived female germ-line cyst formation
+GO:0043652	19	GO:0001775	cell activation
+GO:0035036	13	GO:0030727	germarium-derived female germ-line cyst formation
+GO:0071468	17	GO:0002532	production of molecular mediator involved in inflammatory response
+GO:0090278	16	GO:0007589	body fluid secretion
+GO:0046888	16	GO:0007589	body fluid secretion
+GO:0048521	6	GO:0044089	positive regulation of cellular component biogenesis
+GO:0045860	5	GO:0010835	regulation of protein ADP-ribosylation
+GO:0007465	14	GO:0021551	central nervous system morphogenesis
+GO:0010835	5	GO:0010835	regulation of protein ADP-ribosylation
+GO:0060550	4	GO:1904407	positive regulation of nitric oxide metabolic process
+GO:0060552	4	GO:1904407	positive regulation of nitric oxide metabolic process
+GO:0060557	4	GO:1904407	positive regulation of nitric oxide metabolic process
+GO:0060559	16	GO:0007589	body fluid secretion
+GO:0051712	6	GO:0044089	positive regulation of cellular component biogenesis
+GO:0034446	14	GO:0021551	central nervous system morphogenesis
+GO:0031382	13	GO:0030727	germarium-derived female germ-line cyst formation
+GO:0000082	18	GO:0090529	cell septum assembly
+GO:0030225	14	GO:0021551	central nervous system morphogenesis
+GO:1904457	6	GO:0044089	positive regulation of cellular component biogenesis
+GO:1905517	10	GO:0002685	regulation of leukocyte migration
+GO:0046552	14	GO:0021551	central nervous system morphogenesis
+GO:0099566	16	GO:0007589	body fluid secretion
+GO:0048662	6	GO:0044089	positive regulation of cellular component biogenesis
+GO:0031334	6	GO:0044089	positive regulation of cellular component biogenesis
+GO:0002250	9	GO:0006957	complement activation, alternative pathway
+GO:0002281	12	GO:0002694	regulation of leukocyte activation
+GO:0071900	5	GO:0010835	regulation of protein ADP-ribosylation
+GO:0071902	5	GO:0010835	regulation of protein ADP-ribosylation
+GO:0009637	17	GO:0002532	production of molecular mediator involved in inflammatory response
+GO:0007168	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0051092	4	GO:1904407	positive regulation of nitric oxide metabolic process
+GO:1903475	18	GO:0090529	cell septum assembly
+GO:1903478	18	GO:0090529	cell septum assembly
+GO:1903479	18	GO:0090529	cell septum assembly
+GO:0007186	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0042321	16	GO:0007589	body fluid secretion
+GO:0006957	9	GO:0006957	complement activation, alternative pathway
+GO:0042311	16	GO:0007589	body fluid secretion
+GO:0010506	4	GO:1904407	positive regulation of nitric oxide metabolic process
+GO:0046697	14	GO:0021551	central nervous system morphogenesis
+GO:0010508	4	GO:1904407	positive regulation of nitric oxide metabolic process
+GO:0042331	17	GO:0002532	production of molecular mediator involved in inflammatory response
+GO:0002792	16	GO:0007589	body fluid secretion
+GO:0006914	19	GO:0001775	cell activation
+GO:0051017	18	GO:0090529	cell septum assembly
+GO:0006182	3	GO:0016444	somatic cell DNA recombination
+GO:2000689	18	GO:0090529	cell septum assembly
+GO:0034109	19	GO:0001775	cell activation
+GO:0051044	5	GO:0010835	regulation of protein ADP-ribosylation
+GO:0045500	14	GO:0021551	central nervous system morphogenesis
+GO:0070527	19	GO:0001775	cell activation
+GO:0042307	16	GO:0007589	body fluid secretion
+GO:0033141	5	GO:0010835	regulation of protein ADP-ribosylation
+GO:0071216	19	GO:0001775	cell activation
+GO:1902407	18	GO:0090529	cell septum assembly
+GO:0045667	6	GO:0044089	positive regulation of cellular component biogenesis
+GO:0097191	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0001752	14	GO:0021551	central nervous system morphogenesis
+GO:0045672	11	GO:0045580	regulation of T cell differentiation
+GO:0010634	10	GO:0002685	regulation of leukocyte migration
+GO:0030866	18	GO:0090529	cell septum assembly
+GO:0042475	14	GO:0021551	central nervous system morphogenesis
+GO:0001774	12	GO:0002694	regulation of leukocyte activation
+GO:0007216	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0070650	18	GO:0090529	cell septum assembly
+GO:1902948	5	GO:0010835	regulation of protein ADP-ribosylation
+GO:0039652	4	GO:1904407	positive regulation of nitric oxide metabolic process
+GO:0009453	17	GO:0002532	production of molecular mediator involved in inflammatory response
+GO:0001708	19	GO:0001775	cell activation
+GO:0055090	16	GO:0007589	body fluid secretion
+GO:0060333	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0003031	17	GO:0002532	production of molecular mediator involved in inflammatory response
+GO:0001893	14	GO:0021551	central nervous system morphogenesis
+GO:0030590	14	GO:0021551	central nervous system morphogenesis
+GO:0033209	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0055088	16	GO:0007589	body fluid secretion
+GO:1904798	16	GO:0007589	body fluid secretion
+GO:0050911	17	GO:0002532	production of molecular mediator involved in inflammatory response
+GO:2000309	1	GO:0032642	regulation of chemokine production
+GO:0061572	18	GO:0090529	cell septum assembly
+GO:0031272	18	GO:0090529	cell septum assembly
+GO:0030511	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0001845	18	GO:0090529	cell septum assembly
+GO:0019932	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0019935	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0050907	17	GO:0002532	production of molecular mediator involved in inflammatory response
+GO:0043279	17	GO:0002532	production of molecular mediator involved in inflammatory response
+GO:0070328	16	GO:0007589	body fluid secretion
+GO:0032755	1	GO:0032642	regulation of chemokine production
+GO:2000425	6	GO:0044089	positive regulation of cellular component biogenesis
+GO:2000427	6	GO:0044089	positive regulation of cellular component biogenesis
+GO:0098787	3	GO:0016444	somatic cell DNA recombination
+GO:0098789	3	GO:0016444	somatic cell DNA recombination
+GO:0040013	10	GO:0002685	regulation of leukocyte migration
+GO:1901216	6	GO:0044089	positive regulation of cellular component biogenesis
+GO:0032722	1	GO:0032642	regulation of chemokine production
+GO:0071805	16	GO:0007589	body fluid secretion
+GO:0040038	13	GO:0030727	germarium-derived female germ-line cyst formation
+GO:0035176	17	GO:0002532	production of molecular mediator involved in inflammatory response
+GO:0032747	1	GO:0032642	regulation of chemokine production
+GO:0007060	13	GO:0030727	germarium-derived female germ-line cyst formation
+GO:0001582	17	GO:0002532	production of molecular mediator involved in inflammatory response
+GO:0032735	1	GO:0032642	regulation of chemokine production
+GO:0048143	14	GO:0021551	central nervous system morphogenesis
+GO:0032700	1	GO:0032642	regulation of chemokine production
+GO:0097723	10	GO:0002685	regulation of leukocyte migration
+GO:0045429	4	GO:1904407	positive regulation of nitric oxide metabolic process
+GO:1905153	6	GO:0044089	positive regulation of cellular component biogenesis
+GO:1905155	6	GO:0044089	positive regulation of cellular component biogenesis
+GO:0071520	18	GO:0090529	cell septum assembly
+GO:0070482	17	GO:0002532	production of molecular mediator involved in inflammatory response
+GO:0090312	5	GO:0010835	regulation of protein ADP-ribosylation
+GO:0060135	13	GO:0030727	germarium-derived female germ-line cyst formation
+GO:0032095	9	GO:0006957	complement activation, alternative pathway
+GO:0050796	16	GO:0007589	body fluid secretion
+GO:0060100	6	GO:0044089	positive regulation of cellular component biogenesis
+GO:2000146	10	GO:0002685	regulation of leukocyte migration
+GO:0042754	6	GO:0044089	positive regulation of cellular component biogenesis
+GO:0050764	6	GO:0044089	positive regulation of cellular component biogenesis
+GO:0050766	6	GO:0044089	positive regulation of cellular component biogenesis
+GO:0050769	11	GO:0045580	regulation of T cell differentiation
+GO:0045165	19	GO:0001775	cell activation
+GO:0050912	17	GO:0002532	production of molecular mediator involved in inflammatory response
+GO:0050913	17	GO:0002532	production of molecular mediator involved in inflammatory response
+GO:1902991	5	GO:0010835	regulation of protein ADP-ribosylation
+GO:1902993	5	GO:0010835	regulation of protein ADP-ribosylation
+GO:0002285	12	GO:0002694	regulation of leukocyte activation
+GO:0002286	12	GO:0002694	regulation of leukocyte activation
+GO:0002287	12	GO:0002694	regulation of leukocyte activation
+GO:0042362	3	GO:0016444	somatic cell DNA recombination
+GO:0042368	3	GO:0016444	somatic cell DNA recombination
+GO:0048708	14	GO:0021551	central nervous system morphogenesis
+GO:0002274	12	GO:0002694	regulation of leukocyte activation
+GO:0002275	12	GO:0002694	regulation of leukocyte activation
+GO:0046136	4	GO:1904407	positive regulation of nitric oxide metabolic process
+GO:0010466	5	GO:0010835	regulation of protein ADP-ribosylation
+GO:0042359	3	GO:0016444	somatic cell DNA recombination
+GO:0006809	3	GO:0016444	somatic cell DNA recombination
+GO:0120031	18	GO:0090529	cell septum assembly
+GO:0050909	17	GO:0002532	production of molecular mediator involved in inflammatory response
+GO:0061900	19	GO:0001775	cell activation
+GO:0000915	18	GO:0090529	cell septum assembly
+GO:0002204	3	GO:0016444	somatic cell DNA recombination
+GO:0002208	14	GO:0021551	central nervous system morphogenesis
+GO:1902947	5	GO:0010835	regulation of protein ADP-ribosylation
+GO:0032273	6	GO:0044089	positive regulation of cellular component biogenesis
+GO:0060438	14	GO:0021551	central nervous system morphogenesis
+GO:0140576	16	GO:0007589	body fluid secretion
+GO:2000106	8	GO:2000106	regulation of leukocyte apoptotic process
+GO:2000107	8	GO:2000106	regulation of leukocyte apoptotic process
+GO:0042306	16	GO:0007589	body fluid secretion
+GO:0002790	16	GO:0007589	body fluid secretion
+GO:0045830	3	GO:0016444	somatic cell DNA recombination
+GO:1902905	6	GO:0044089	positive regulation of cellular component biogenesis
+GO:0002761	11	GO:0045580	regulation of T cell differentiation
+GO:0002763	11	GO:0045580	regulation of T cell differentiation
+GO:0046957	17	GO:0002532	production of molecular mediator involved in inflammatory response
+GO:0050731	5	GO:0010835	regulation of protein ADP-ribosylation
+GO:0051353	16	GO:0007589	body fluid secretion
+GO:0045591	11	GO:0045580	regulation of T cell differentiation
+GO:0006509	3	GO:0016444	somatic cell DNA recombination
+GO:0014002	14	GO:0021551	central nervous system morphogenesis
+GO:0002714	9	GO:0006957	complement activation, alternative pathway
+GO:0072535	2	GO:0032602	chemokine production
+GO:0046209	3	GO:0016444	somatic cell DNA recombination
+GO:0032768	16	GO:0007589	body fluid secretion
+GO:0045580	11	GO:0045580	regulation of T cell differentiation
+GO:0045582	11	GO:0045580	regulation of T cell differentiation
+GO:1902003	5	GO:0010835	regulation of protein ADP-ribosylation
+GO:0045589	11	GO:0045580	regulation of T cell differentiation
+GO:0002708	16	GO:0007589	body fluid secretion
+GO:0043550	4	GO:1904407	positive regulation of nitric oxide metabolic process
+GO:0043551	4	GO:1904407	positive regulation of nitric oxide metabolic process
+GO:0030072	16	GO:0007589	body fluid secretion
+GO:0035162	14	GO:0021551	central nervous system morphogenesis
+GO:0032770	16	GO:0007589	body fluid secretion
+GO:0001667	10	GO:0002685	regulation of leukocyte migration
+GO:0150076	17	GO:0002532	production of molecular mediator involved in inflammatory response
+GO:0002891	9	GO:0006957	complement activation, alternative pathway
+GO:0051495	6	GO:0044089	positive regulation of cellular component biogenesis
+GO:0034390	8	GO:2000106	regulation of leukocyte apoptotic process
+GO:0030031	18	GO:0090529	cell septum assembly
+GO:0034391	8	GO:2000106	regulation of leukocyte apoptotic process
+GO:0044782	18	GO:0090529	cell septum assembly
+GO:0002821	9	GO:0006957	complement activation, alternative pathway
+GO:0002824	9	GO:0006957	complement activation, alternative pathway
+GO:2000780	5	GO:0010835	regulation of protein ADP-ribosylation
+GO:2000781	5	GO:0010835	regulation of protein ADP-ribosylation
+GO:0006606	16	GO:0007589	body fluid secretion
+GO:0033138	5	GO:0010835	regulation of protein ADP-ribosylation
+GO:0033139	5	GO:0010835	regulation of protein ADP-ribosylation
+GO:2000779	5	GO:0010835	regulation of protein ADP-ribosylation
+GO:2000042	5	GO:0010835	regulation of protein ADP-ribosylation
+GO:0090101	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0010951	5	GO:0010835	regulation of protein ADP-ribosylation
+GO:0031343	6	GO:0044089	positive regulation of cellular component biogenesis
+GO:0060271	18	GO:0090529	cell septum assembly
+GO:0031349	9	GO:0006957	complement activation, alternative pathway
+GO:0043367	11	GO:0045580	regulation of T cell differentiation
+GO:0042116	12	GO:0002694	regulation of leukocyte activation
+GO:0034341	9	GO:0006957	complement activation, alternative pathway
+GO:0048660	6	GO:0044089	positive regulation of cellular component biogenesis
+GO:0043388	16	GO:0007589	body fluid secretion
+GO:0010921	4	GO:1904407	positive regulation of nitric oxide metabolic process
+GO:0010922	4	GO:1904407	positive regulation of nitric oxide metabolic process
+GO:0048659	19	GO:0001775	cell activation
+GO:0043370	11	GO:0045580	regulation of T cell differentiation
+GO:0043372	11	GO:0045580	regulation of T cell differentiation
+GO:0045670	11	GO:0045580	regulation of T cell differentiation
+GO:0043654	19	GO:0001775	cell activation
+GO:0045621	11	GO:0045580	regulation of T cell differentiation
+GO:0110134	13	GO:0030727	germarium-derived female germ-line cyst formation
+GO:0032829	11	GO:0045580	regulation of T cell differentiation
+GO:0045637	11	GO:0045580	regulation of T cell differentiation
+GO:0045639	11	GO:0045580	regulation of T cell differentiation
+GO:0032831	11	GO:0045580	regulation of T cell differentiation
+GO:0032832	11	GO:0045580	regulation of T cell differentiation
+GO:0002562	3	GO:0016444	somatic cell DNA recombination
+GO:0017085	17	GO:0002532	production of molecular mediator involved in inflammatory response
+GO:0046824	6	GO:0044089	positive regulation of cellular component biogenesis
+GO:0051170	16	GO:0007589	body fluid secretion
+GO:0019731	9	GO:0006957	complement activation, alternative pathway
+GO:1904407	4	GO:1904407	positive regulation of nitric oxide metabolic process
+GO:0042982	3	GO:0016444	somatic cell DNA recombination
+GO:0042987	3	GO:0016444	somatic cell DNA recombination
+GO:0099024	18	GO:0090529	cell septum assembly
+GO:0045428	4	GO:1904407	positive regulation of nitric oxide metabolic process
+GO:0010001	14	GO:0021551	central nervous system morphogenesis
+GO:0002696	12	GO:0002694	regulation of leukocyte activation
+GO:0002699	12	GO:0002694	regulation of leukocyte activation
+GO:0002361	11	GO:0045580	regulation of T cell differentiation
+GO:0030512	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0002381	3	GO:0016444	somatic cell DNA recombination
+GO:0035710	12	GO:0002694	regulation of leukocyte activation
+GO:1990758	18	GO:0090529	cell septum assembly
+GO:0010893	4	GO:1904407	positive regulation of nitric oxide metabolic process
+GO:0051251	12	GO:0002694	regulation of leukocyte activation
+GO:1903708	11	GO:0045580	regulation of T cell differentiation
+GO:0045190	3	GO:0016444	somatic cell DNA recombination
+GO:0045191	3	GO:0016444	somatic cell DNA recombination
+GO:0009617	9	GO:0006957	complement activation, alternative pathway
+GO:0033002	19	GO:0001775	cell activation
+GO:0051987	6	GO:0044089	positive regulation of cellular component biogenesis
+GO:0051988	6	GO:0044089	positive regulation of cellular component biogenesis
+GO:0031112	6	GO:0044089	positive regulation of cellular component biogenesis
+GO:0031116	18	GO:0090529	cell septum assembly
+GO:0007306	13	GO:0030727	germarium-derived female germ-line cyst formation
+GO:0051249	12	GO:0002694	regulation of leukocyte activation
+GO:0002637	1	GO:0032642	regulation of chemokine production
+GO:2000514	12	GO:0002694	regulation of leukocyte activation
+GO:0002639	1	GO:0032642	regulation of chemokine production
+GO:2000516	12	GO:0002694	regulation of leukocyte activation
+GO:0031134	18	GO:0090529	cell septum assembly
+GO:0032660	1	GO:0032642	regulation of chemokine production
+GO:0032667	1	GO:0032642	regulation of chemokine production
+GO:0032655	1	GO:0032642	regulation of chemokine production
+GO:0071887	8	GO:2000106	regulation of leukocyte apoptotic process
+GO:0030388	3	GO:0016444	somatic cell DNA recombination
+GO:0051099	16	GO:0007589	body fluid secretion
+GO:0030656	4	GO:1904407	positive regulation of nitric oxide metabolic process
+GO:0032620	2	GO:0032602	chemokine production
+GO:0032627	2	GO:0032602	chemokine production
+GO:0030316	14	GO:0021551	central nervous system morphogenesis
+GO:0032615	2	GO:0032602	chemokine production
+GO:0070997	19	GO:0001775	cell activation
+GO:0031297	3	GO:0016444	somatic cell DNA recombination
+GO:0032642	1	GO:0032642	regulation of chemokine production
+GO:0050435	3	GO:0016444	somatic cell DNA recombination
+GO:0006910	19	GO:0001775	cell activation
+GO:0006911	19	GO:0001775	cell activation
+GO:0016444	3	GO:0016444	somatic cell DNA recombination
+GO:0016447	3	GO:0016444	somatic cell DNA recombination
+GO:0000463	3	GO:0016444	somatic cell DNA recombination
+GO:1901214	6	GO:0044089	positive regulation of cellular component biogenesis
+GO:1904980	6	GO:0044089	positive regulation of cellular component biogenesis
+GO:0031268	18	GO:0090529	cell septum assembly
+GO:0000480	3	GO:0016444	somatic cell DNA recombination
+GO:0032602	2	GO:0032602	chemokine production
+GO:0000470	3	GO:0016444	somatic cell DNA recombination
+GO:0070227	8	GO:2000106	regulation of leukocyte apoptotic process
+GO:0000472	3	GO:0016444	somatic cell DNA recombination
+GO:0070228	8	GO:2000106	regulation of leukocyte apoptotic process
+GO:0070229	8	GO:2000106	regulation of leukocyte apoptotic process
+GO:0046631	12	GO:0002694	regulation of leukocyte activation
+GO:0046632	11	GO:0045580	regulation of T cell differentiation
+GO:0046634	12	GO:0002694	regulation of leukocyte activation
+GO:0046635	12	GO:0002694	regulation of leukocyte activation
+GO:0046637	11	GO:0045580	regulation of T cell differentiation
+GO:0046638	11	GO:0045580	regulation of T cell differentiation
+GO:0010569	5	GO:0010835	regulation of protein ADP-ribosylation
+GO:0051043	5	GO:0010835	regulation of protein ADP-ribosylation
+GO:0006909	19	GO:0001775	cell activation
+GO:0060551	4	GO:1904407	positive regulation of nitric oxide metabolic process
+GO:0070231	8	GO:2000106	regulation of leukocyte apoptotic process
+GO:0070232	8	GO:2000106	regulation of leukocyte apoptotic process
+GO:0060556	4	GO:1904407	positive regulation of nitric oxide metabolic process
+GO:0070233	8	GO:2000106	regulation of leukocyte apoptotic process
+GO:0060558	16	GO:0007589	body fluid secretion
+GO:2000677	16	GO:0007589	body fluid secretion
+GO:2000679	16	GO:0007589	body fluid secretion
+GO:0031214	14	GO:0021551	central nervous system morphogenesis
+GO:1900426	9	GO:0006957	complement activation, alternative pathway
+GO:1904796	16	GO:0007589	body fluid secretion
+GO:0052129	17	GO:0002532	production of molecular mediator involved in inflammatory response
+GO:2000307	1	GO:0032642	regulation of chemokine production
+GO:0060549	4	GO:1904407	positive regulation of nitric oxide metabolic process
+GO:0043277	19	GO:0001775	cell activation
+GO:0006775	16	GO:0007589	body fluid secretion
+GO:0034205	3	GO:0016444	somatic cell DNA recombination
+GO:0045911	5	GO:0010835	regulation of protein ADP-ribosylation
+GO:0045940	4	GO:1904407	positive regulation of nitric oxide metabolic process
+GO:0043247	3	GO:0016444	somatic cell DNA recombination
+GO:0046425	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0045066	11	GO:0045580	regulation of T cell differentiation
+GO:0010660	8	GO:2000106	regulation of leukocyte apoptotic process
+GO:0010661	8	GO:2000106	regulation of leukocyte apoptotic process
+GO:1900182	6	GO:0044089	positive regulation of cellular component biogenesis
+GO:0010657	8	GO:2000106	regulation of leukocyte apoptotic process
+GO:0010324	18	GO:0090529	cell septum assembly
+GO:2001057	3	GO:0016444	somatic cell DNA recombination
+GO:0080164	4	GO:1904407	positive regulation of nitric oxide metabolic process
+GO:1902107	11	GO:0045580	regulation of T cell differentiation
+GO:2001022	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0010632	10	GO:0002685	regulation of leukocyte migration
+GO:0002292	11	GO:0045580	regulation of T cell differentiation
+GO:0002293	11	GO:0045580	regulation of T cell differentiation
+GO:0002294	11	GO:0045580	regulation of T cell differentiation
+GO:0032113	4	GO:1904407	positive regulation of nitric oxide metabolic process
+GO:0002298	11	GO:0045580	regulation of T cell differentiation
+GO:0071346	9	GO:0006957	complement activation, alternative pathway
+GO:0045747	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0090382	18	GO:0090529	cell septum assembly
+GO:0042501	5	GO:0010835	regulation of protein ADP-ribosylation
+GO:0007260	5	GO:0010835	regulation of protein ADP-ribosylation
+GO:0045738	5	GO:0010835	regulation of protein ADP-ribosylation
+GO:0045739	5	GO:0010835	regulation of protein ADP-ribosylation
+GO:0042509	5	GO:0010835	regulation of protein ADP-ribosylation
+GO:2001034	5	GO:0010835	regulation of protein ADP-ribosylation
+GO:0002269	12	GO:0002694	regulation of leukocyte activation
+GO:0001818	1	GO:0032642	regulation of chemokine production
+GO:0008345	17	GO:0002532	production of molecular mediator involved in inflammatory response
+GO:0039502	9	GO:0006957	complement activation, alternative pathway
+GO:0044092	16	GO:0007589	body fluid secretion
+GO:0030537	14	GO:0021551	central nervous system morphogenesis
+GO:0140321	19	GO:0001775	cell activation
+GO:0006954	17	GO:0002532	production of molecular mediator involved in inflammatory response
+GO:0044089	6	GO:0044089	positive regulation of cellular component biogenesis
+GO:0015917	16	GO:0007589	body fluid secretion
+GO:0000917	18	GO:0090529	cell septum assembly
+GO:0030431	14	GO:0021551	central nervous system morphogenesis
+GO:1904398	6	GO:0044089	positive regulation of cellular component biogenesis
+GO:0075071	19	GO:0001775	cell activation
+GO:0032467	6	GO:0044089	positive regulation of cellular component biogenesis
+GO:0043086	16	GO:0007589	body fluid secretion
+GO:0061640	18	GO:0090529	cell septum assembly
+GO:0090529	18	GO:0090529	cell septum assembly
+GO:0032675	1	GO:0032642	regulation of chemokine production
+GO:1902742	14	GO:0021551	central nervous system morphogenesis
+GO:0060761	9	GO:0006957	complement activation, alternative pathway
+GO:0040001	18	GO:0090529	cell septum assembly
+GO:0051653	19	GO:0001775	cell activation
+GO:0060759	9	GO:0006957	complement activation, alternative pathway
+GO:0001960	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0001959	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0044843	19	GO:0001775	cell activation
+GO:0032094	17	GO:0002532	production of molecular mediator involved in inflammatory response
+GO:0050777	9	GO:0006957	complement activation, alternative pathway
+GO:1903490	6	GO:0044089	positive regulation of cellular component biogenesis
+GO:0050728	9	GO:0006957	complement activation, alternative pathway
+GO:0032102	9	GO:0006957	complement activation, alternative pathway
+GO:0002312	12	GO:0002694	regulation of leukocyte activation
+GO:1901890	6	GO:0044089	positive regulation of cellular component biogenesis
+GO:0019221	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:1901891	6	GO:0044089	positive regulation of cellular component biogenesis
+GO:0051057	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0051293	18	GO:0090529	cell septum assembly
+GO:0002532	17	GO:0002532	production of molecular mediator involved in inflammatory response
+GO:1903436	18	GO:0090529	cell septum assembly
+GO:0002534	2	GO:0032602	chemokine production
+GO:0048639	16	GO:0007589	body fluid secretion
+GO:0031128	14	GO:0021551	central nervous system morphogenesis
+GO:0031129	14	GO:0021551	central nervous system morphogenesis
+GO:0034340	9	GO:0006957	complement activation, alternative pathway
+GO:0060337	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0060338	9	GO:0006957	complement activation, alternative pathway
+GO:0060339	9	GO:0006957	complement activation, alternative pathway
+GO:0045931	6	GO:0044089	positive regulation of cellular component biogenesis
+GO:0031028	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0031029	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:1902410	18	GO:0090529	cell septum assembly
+GO:1902412	6	GO:0044089	positive regulation of cellular component biogenesis
+GO:0046579	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0045887	6	GO:0044089	positive regulation of cellular component biogenesis
+GO:0032954	6	GO:0044089	positive regulation of cellular component biogenesis
+GO:0032955	18	GO:0090529	cell septum assembly
+GO:0045824	9	GO:0006957	complement activation, alternative pathway
+GO:0051781	6	GO:0044089	positive regulation of cellular component biogenesis
+GO:0039562	6	GO:0044089	positive regulation of cellular component biogenesis
+GO:0039554	9	GO:0006957	complement activation, alternative pathway
+GO:0000281	18	GO:0090529	cell septum assembly
+GO:0051962	14	GO:0021551	central nervous system morphogenesis
+GO:0051965	6	GO:0044089	positive regulation of cellular component biogenesis
+GO:0039521	4	GO:1904407	positive regulation of nitric oxide metabolic process
+GO:0071357	9	GO:0006957	complement activation, alternative pathway
+GO:1900015	1	GO:0032642	regulation of chemokine production
+GO:0061041	9	GO:0006957	complement activation, alternative pathway
+GO:0008592	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0021551	14	GO:0021551	central nervous system morphogenesis
+GO:1900016	1	GO:0032642	regulation of chemokine production
+GO:0021556	14	GO:0021551	central nervous system morphogenesis
+GO:0008063	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0006801	19	GO:0001775	cell activation
+GO:0048311	18	GO:0090529	cell septum assembly
+GO:0010760	10	GO:0002685	regulation of leukocyte migration
+GO:0010764	10	GO:0002685	regulation of leukocyte migration
+GO:0050918	17	GO:0002532	production of molecular mediator involved in inflammatory response
+GO:0042048	17	GO:0002532	production of molecular mediator involved in inflammatory response
+GO:0009593	17	GO:0002532	production of molecular mediator involved in inflammatory response
+GO:0070121	14	GO:0021551	central nervous system morphogenesis
+GO:0009411	17	GO:0002532	production of molecular mediator involved in inflammatory response
+GO:0040016	14	GO:0021551	central nervous system morphogenesis
+GO:0048167	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0051984	6	GO:0044089	positive regulation of cellular component biogenesis
+GO:0034605	17	GO:0002532	production of molecular mediator involved in inflammatory response
+GO:1904892	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0042338	14	GO:0021551	central nervous system morphogenesis
+GO:0015979	19	GO:0001775	cell activation
+GO:0052548	5	GO:0010835	regulation of protein ADP-ribosylation
+GO:0006979	17	GO:0002532	production of molecular mediator involved in inflammatory response
+GO:0007595	14	GO:0021551	central nervous system morphogenesis
+GO:0030476	13	GO:0030727	germarium-derived female germ-line cyst formation
+GO:0048732	14	GO:0021551	central nervous system morphogenesis
+GO:0062197	17	GO:0002532	production of molecular mediator involved in inflammatory response
+GO:0007589	16	GO:0007589	body fluid secretion
+GO:0097696	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0051346	16	GO:0007589	body fluid secretion
+GO:0070726	18	GO:0090529	cell septum assembly
+GO:0045123	10	GO:0002685	regulation of leukocyte migration
+GO:0043001	16	GO:0007589	body fluid secretion
+GO:0000387	3	GO:0016444	somatic cell DNA recombination
+GO:0007613	17	GO:0002532	production of molecular mediator involved in inflammatory response
+GO:1905905	14	GO:0021551	central nervous system morphogenesis
+GO:0031505	18	GO:0090529	cell septum assembly
+GO:0045087	9	GO:0006957	complement activation, alternative pathway
+GO:0042060	17	GO:0002532	production of molecular mediator involved in inflammatory response
+GO:0001775	19	GO:0001775	cell activation
+GO:0007156	19	GO:0001775	cell activation
+GO:0002832	9	GO:0006957	complement activation, alternative pathway
+GO:0006468	5	GO:0010835	regulation of protein ADP-ribosylation
+GO:0098722	19	GO:0001775	cell activation
+GO:0098728	13	GO:0030727	germarium-derived female germ-line cyst formation
+GO:0009611	17	GO:0002532	production of molecular mediator involved in inflammatory response
+GO:0042244	13	GO:0030727	germarium-derived female germ-line cyst formation
+GO:0070590	13	GO:0030727	germarium-derived female germ-line cyst formation
+GO:0070591	13	GO:0030727	germarium-derived female germ-line cyst formation
+GO:0007259	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0050900	10	GO:0002685	regulation of leukocyte migration
+GO:0045785	6	GO:0044089	positive regulation of cellular component biogenesis
+GO:0034599	17	GO:0002532	production of molecular mediator involved in inflammatory response
+GO:0071940	18	GO:0090529	cell septum assembly
+GO:0002682	6	GO:0044089	positive regulation of cellular component biogenesis
+GO:0002683	6	GO:0044089	positive regulation of cellular component biogenesis
+GO:0002685	10	GO:0002685	regulation of leukocyte migration
+GO:0045861	5	GO:0010835	regulation of protein ADP-ribosylation
+GO:0030879	14	GO:0021551	central nervous system morphogenesis
+GO:0009272	18	GO:0090529	cell septum assembly
+GO:0010923	4	GO:1904407	positive regulation of nitric oxide metabolic process
+GO:0030522	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0030539	14	GO:0021551	central nervous system morphogenesis
+GO:0106030	14	GO:0021551	central nervous system morphogenesis
+GO:0071482	17	GO:0002532	production of molecular mediator involved in inflammatory response
+GO:0030422	3	GO:0016444	somatic cell DNA recombination
+GO:0030447	17	GO:0002532	production of molecular mediator involved in inflammatory response
+GO:0042476	14	GO:0021551	central nervous system morphogenesis
+GO:0042659	6	GO:0044089	positive regulation of cellular component biogenesis
+GO:0060279	13	GO:0030727	germarium-derived female germ-line cyst formation
+GO:0045167	19	GO:0001775	cell activation
+GO:0040026	14	GO:0021551	central nervous system morphogenesis
+GO:0010453	6	GO:0044089	positive regulation of cellular component biogenesis
+GO:0070986	14	GO:0021551	central nervous system morphogenesis
+GO:0007626	17	GO:0002532	production of molecular mediator involved in inflammatory response
+GO:0018991	13	GO:0030727	germarium-derived female germ-line cyst formation
+GO:0048557	14	GO:0021551	central nervous system morphogenesis
+GO:0007160	19	GO:0001775	cell activation
+GO:0060972	14	GO:0021551	central nervous system morphogenesis
+GO:0035148	14	GO:0021551	central nervous system morphogenesis
+GO:0035149	14	GO:0021551	central nervous system morphogenesis
+GO:0007173	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0045229	18	GO:0090529	cell septum assembly
+GO:0070580	3	GO:0016444	somatic cell DNA recombination
+GO:0051013	18	GO:0090529	cell septum assembly
+GO:0001580	17	GO:0002532	production of molecular mediator involved in inflammatory response
+GO:0060538	14	GO:0021551	central nervous system morphogenesis
+GO:0043331	17	GO:0002532	production of molecular mediator involved in inflammatory response
+GO:0038127	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0039525	18	GO:0090529	cell septum assembly
+GO:0048705	14	GO:0021551	central nervous system morphogenesis
+GO:0007215	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0007218	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0000966	3	GO:0016444	somatic cell DNA recombination
+GO:0000967	3	GO:0016444	somatic cell DNA recombination
+GO:0042330	17	GO:0002532	production of molecular mediator involved in inflammatory response
+GO:0048872	16	GO:0007589	body fluid secretion
+GO:0002062	14	GO:0021551	central nervous system morphogenesis
+GO:0016048	17	GO:0002532	production of molecular mediator involved in inflammatory response
+GO:0007015	18	GO:0090529	cell septum assembly
+GO:0032092	16	GO:0007589	body fluid secretion
+GO:0009743	17	GO:0002532	production of molecular mediator involved in inflammatory response
+GO:0009746	17	GO:0002532	production of molecular mediator involved in inflammatory response
+GO:0009749	17	GO:0002532	production of molecular mediator involved in inflammatory response
+GO:0048566	14	GO:0021551	central nervous system morphogenesis
+GO:0032754	1	GO:0032642	regulation of chemokine production
+GO:0050865	6	GO:0044089	positive regulation of cellular component biogenesis
+GO:0050867	6	GO:0044089	positive regulation of cellular component biogenesis
+GO:0099177	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0045576	12	GO:0002694	regulation of leukocyte activation
+GO:0032728	1	GO:0032642	regulation of chemokine production
+GO:0050821	16	GO:0007589	body fluid secretion
+GO:0046785	18	GO:0090529	cell septum assembly
+GO:0032733	1	GO:0032642	regulation of chemokine production
+GO:0032736	1	GO:0032642	regulation of chemokine production
+GO:0050830	9	GO:0006957	complement activation, alternative pathway
+GO:0050804	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0050805	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0031341	6	GO:0044089	positive regulation of cellular component biogenesis
+GO:0048663	14	GO:0021551	central nervous system morphogenesis
+GO:0045321	12	GO:0002694	regulation of leukocyte activation
+GO:0036301	2	GO:0032602	chemokine production
+GO:0055074	16	GO:0007589	body fluid secretion
+GO:0043330	17	GO:0002532	production of molecular mediator involved in inflammatory response
+GO:0060760	9	GO:0006957	complement activation, alternative pathway
+GO:0034471	3	GO:0016444	somatic cell DNA recombination
+GO:0019730	9	GO:0006957	complement activation, alternative pathway
+GO:0045466	14	GO:0021551	central nervous system morphogenesis
+GO:0002694	12	GO:0002694	regulation of leukocyte activation
+GO:0032501	2	GO:0032602	chemokine production
+GO:0051966	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0030500	14	GO:0021551	central nervous system morphogenesis
+GO:0051222	16	GO:0007589	body fluid secretion
+GO:0033003	12	GO:0002694	regulation of leukocyte activation
+GO:0033005	12	GO:0002694	regulation of leukocyte activation
+GO:0051216	14	GO:0021551	central nervous system morphogenesis
+GO:0048168	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0040040	17	GO:0002532	production of molecular mediator involved in inflammatory response
+GO:0040034	6	GO:0044089	positive regulation of cellular component biogenesis
+GO:0032656	1	GO:0032642	regulation of chemokine production
+GO:0001961	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0032674	1	GO:0032642	regulation of chemokine production
+GO:0051098	16	GO:0007589	body fluid secretion
+GO:0006959	9	GO:0006957	complement activation, alternative pathway
+GO:1901256	1	GO:0032642	regulation of chemokine production
+GO:1901258	1	GO:0032642	regulation of chemokine production
+GO:0032616	2	GO:0032602	chemokine production
+GO:0032634	2	GO:0032602	chemokine production
+GO:0036260	3	GO:0016444	somatic cell DNA recombination
+GO:0000478	3	GO:0016444	somatic cell DNA recombination
+GO:0000479	3	GO:0016444	somatic cell DNA recombination
+GO:0034284	17	GO:0002532	production of molecular mediator involved in inflammatory response
+GO:0060562	14	GO:0021551	central nervous system morphogenesis
+GO:0043254	6	GO:0044089	positive regulation of cellular component biogenesis
+GO:0043271	16	GO:0007589	body fluid secretion
+GO:0051709	6	GO:0044089	positive regulation of cellular component biogenesis
+GO:0007188	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0042593	16	GO:0007589	body fluid secretion
+GO:0043065	8	GO:2000106	regulation of leukocyte apoptotic process
+GO:0043068	6	GO:0044089	positive regulation of cellular component biogenesis
+GO:0043052	17	GO:0002532	production of molecular mediator involved in inflammatory response
+GO:0071652	1	GO:0032642	regulation of chemokine production
+GO:0071654	1	GO:0032642	regulation of chemokine production
+GO:0071655	1	GO:0032642	regulation of chemokine production
+GO:0071657	1	GO:0032642	regulation of chemokine production
+GO:1904894	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0071610	2	GO:0032602	chemokine production
+GO:0071611	2	GO:0032602	chemokine production
+GO:0010603	6	GO:0044089	positive regulation of cellular component biogenesis
+GO:0010607	18	GO:0090529	cell septum assembly
+GO:0002686	10	GO:0002685	regulation of leukocyte migration
+GO:0002688	10	GO:0002685	regulation of leukocyte migration
+GO:0002689	10	GO:0002685	regulation of leukocyte migration
+GO:0019827	14	GO:0021551	central nervous system morphogenesis
+GO:0007282	13	GO:0030727	germarium-derived female germ-line cyst formation
+GO:0007284	13	GO:0030727	germarium-derived female germ-line cyst formation
+GO:0060326	10	GO:0002685	regulation of leukocyte migration
+GO:0030727	13	GO:0030727	germarium-derived female germ-line cyst formation
+GO:0031113	18	GO:0090529	cell septum assembly
+GO:0030718	14	GO:0021551	central nervous system morphogenesis
+GO:0045880	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:1903006	5	GO:0010835	regulation of protein ADP-ribosylation
+GO:0006476	5	GO:0010835	regulation of protein ADP-ribosylation
+GO:0010761	10	GO:0002685	regulation of leukocyte migration
+GO:0010762	10	GO:0002685	regulation of leukocyte migration
+GO:0010758	10	GO:0002685	regulation of leukocyte migration
+GO:0030336	10	GO:0002685	regulation of leukocyte migration
+GO:0045478	13	GO:0030727	germarium-derived female germ-line cyst formation
+GO:0030968	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0030595	10	GO:0002685	regulation of leukocyte migration
+GO:0015886	16	GO:0007589	body fluid secretion
+GO:1901678	16	GO:0007589	body fluid secretion
+GO:0098727	14	GO:0021551	central nervous system morphogenesis
+GO:0098730	13	GO:0030727	germarium-derived female germ-line cyst formation
+GO:0097529	10	GO:0002685	regulation of leukocyte migration
+GO:1902473	16	GO:0007589	body fluid secretion
+GO:0007565	13	GO:0030727	germarium-derived female germ-line cyst formation
+GO:0090311	5	GO:0010835	regulation of protein ADP-ribosylation
+GO:0048132	13	GO:0030727	germarium-derived female germ-line cyst formation
+GO:0009103	3	GO:0016444	somatic cell DNA recombination
+GO:0090303	9	GO:0006957	complement activation, alternative pathway
+GO:2000738	6	GO:0044089	positive regulation of cellular component biogenesis
+GO:0035601	5	GO:0010835	regulation of protein ADP-ribosylation
+GO:0061060	9	GO:0006957	complement activation, alternative pathway
+GO:1905521	10	GO:0002685	regulation of leukocyte migration
+GO:1905522	10	GO:0002685	regulation of leukocyte migration
+GO:0035212	6	GO:0044089	positive regulation of cellular component biogenesis

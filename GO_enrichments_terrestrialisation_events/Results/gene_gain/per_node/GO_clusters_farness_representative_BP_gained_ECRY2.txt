@@ -1,0 +1,75 @@
+GO:0043266	1	GO:0043266	regulation of potassium ion transport
+GO:0043268	1	GO:0043266	regulation of potassium ion transport
+GO:0023041	4	GO:0046626	regulation of insulin receptor signaling pathway
+GO:0006749	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0046626	4	GO:0046626	regulation of insulin receptor signaling pathway
+GO:0046627	4	GO:0046626	regulation of insulin receptor signaling pathway
+GO:0036159	7	GO:0022408	negative regulation of cell-cell adhesion
+GO:1902600	1	GO:0043266	regulation of potassium ion transport
+GO:1903900	2	GO:0045069	regulation of viral genome replication
+GO:0090502	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0007608	6	GO:0030431	sleep
+GO:1900076	4	GO:0046626	regulation of insulin receptor signaling pathway
+GO:1900077	4	GO:0046626	regulation of insulin receptor signaling pathway
+GO:1901381	1	GO:0043266	regulation of potassium ion transport
+GO:0019985	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0050778	3	GO:0045089	positive regulation of innate immune response
+GO:1901379	1	GO:0043266	regulation of potassium ion transport
+GO:0035725	1	GO:0043266	regulation of potassium ion transport
+GO:1901317	7	GO:0022408	negative regulation of cell-cell adhesion
+GO:0008544	6	GO:0030431	sleep
+GO:0031048	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0008045	6	GO:0030431	sleep
+GO:0006936	6	GO:0030431	sleep
+GO:0051260	7	GO:0022408	negative regulation of cell-cell adhesion
+GO:0016126	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0001956	7	GO:0022408	negative regulation of cell-cell adhesion
+GO:0006470	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0050966	6	GO:0030431	sleep
+GO:0050976	6	GO:0030431	sleep
+GO:0019079	2	GO:0045069	regulation of viral genome replication
+GO:0006541	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0042048	7	GO:0022408	negative regulation of cell-cell adhesion
+GO:0006536	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0007369	6	GO:0030431	sleep
+GO:0050905	6	GO:0030431	sleep
+GO:0032026	7	GO:0022408	negative regulation of cell-cell adhesion
+GO:0045069	2	GO:0045069	regulation of viral genome replication
+GO:1901016	1	GO:0043266	regulation of potassium ion transport
+GO:1901018	1	GO:0043266	regulation of potassium ion transport
+GO:0035418	7	GO:0022408	negative regulation of cell-cell adhesion
+GO:0045088	3	GO:0045089	positive regulation of innate immune response
+GO:0022408	7	GO:0022408	negative regulation of cell-cell adhesion
+GO:0045089	3	GO:0045089	positive regulation of innate immune response
+GO:0045071	2	GO:0045069	regulation of viral genome replication
+GO:0048525	2	GO:0045069	regulation of viral genome replication
+GO:0008203	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0001508	7	GO:0022408	negative regulation of cell-cell adhesion
+GO:0030431	6	GO:0030431	sleep
+GO:0009065	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0009084	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0071805	1	GO:0043266	regulation of potassium ion transport
+GO:0046847	7	GO:0022408	negative regulation of cell-cell adhesion
+GO:0034765	1	GO:0043266	regulation of potassium ion transport
+GO:0021766	6	GO:0030431	sleep
+GO:0019228	7	GO:0022408	negative regulation of cell-cell adhesion
+GO:0086010	7	GO:0022408	negative regulation of cell-cell adhesion
+GO:0002831	3	GO:0045089	positive regulation of innate immune response
+GO:0002833	3	GO:0045089	positive regulation of innate immune response
+GO:0007416	6	GO:0030431	sleep
+GO:0060298	7	GO:0022408	negative regulation of cell-cell adhesion
+GO:0032273	7	GO:0022408	negative regulation of cell-cell adhesion
+GO:0006278	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0051954	1	GO:0043266	regulation of potassium ion transport
+GO:0090305	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0031349	3	GO:0045089	positive regulation of innate immune response
+GO:0043650	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0007193	4	GO:0046626	regulation of insulin receptor signaling pathway
+GO:0015695	1	GO:0043266	regulation of potassium ion transport
+GO:0042742	3	GO:0045089	positive regulation of innate immune response
+GO:0042732	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0007035	7	GO:0022408	negative regulation of cell-cell adhesion
+GO:0009226	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:1903818	1	GO:0043266	regulation of potassium ion transport
+GO:2001259	1	GO:0043266	regulation of potassium ion transport
+GO:0010172	6	GO:0030431	sleep

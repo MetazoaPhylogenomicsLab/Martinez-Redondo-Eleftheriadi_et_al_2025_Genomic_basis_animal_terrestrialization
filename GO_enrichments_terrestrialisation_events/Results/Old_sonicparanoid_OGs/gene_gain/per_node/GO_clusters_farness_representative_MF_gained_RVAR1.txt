@@ -1,0 +1,29 @@
+GO:0015279	2	GO:1904680	peptide transmembrane transporter activity
+GO:0035673	2	GO:1904680	peptide transmembrane transporter activity
+GO:0016860	3	GO:0016705	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen
+GO:0098988	1	GO:0098988	G protein-coupled glutamate receptor activity
+GO:0020037	4	GO:0043178	alcohol binding
+GO:0051537	4	GO:0043178	alcohol binding
+GO:0001640	1	GO:0098988	G protein-coupled glutamate receptor activity
+GO:0015149	2	GO:1904680	peptide transmembrane transporter activity
+GO:0016705	3	GO:0016705	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen
+GO:0016725	3	GO:0016705	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen
+GO:0043178	4	GO:0043178	alcohol binding
+GO:0004601	3	GO:0016705	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen
+GO:0005262	2	GO:1904680	peptide transmembrane transporter activity
+GO:0140030	4	GO:0043178	alcohol binding
+GO:0015347	2	GO:1904680	peptide transmembrane transporter activity
+GO:0003993	3	GO:0016705	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen
+GO:0000287	4	GO:0043178	alcohol binding
+GO:0004497	3	GO:0016705	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen
+GO:0061665	3	GO:0016705	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen
+GO:0005506	4	GO:0043178	alcohol binding
+GO:0015125	2	GO:1904680	peptide transmembrane transporter activity
+GO:0004364	3	GO:0016705	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen
+GO:0032183	4	GO:0043178	alcohol binding
+GO:0005509	4	GO:0043178	alcohol binding
+GO:0016597	4	GO:0043178	alcohol binding
+GO:0070679	4	GO:0043178	alcohol binding
+GO:1904680	2	GO:1904680	peptide transmembrane transporter activity
+GO:0015085	2	GO:1904680	peptide transmembrane transporter activity
+GO:0071949	4	GO:0043178	alcohol binding

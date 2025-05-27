@@ -1,0 +1,45 @@
+GO:0051236	6	GO:0031424	keratinization
+GO:0001906	4	GO:0031640	killing of cells of other organism
+GO:0016032	2	GO:0019058	viral life cycle
+GO:0052200	1	GO:0052200	response to host defenses
+GO:0007059	4	GO:0031640	killing of cells of other organism
+GO:0052562	1	GO:0052200	response to host defenses
+GO:0007535	5	GO:0009690	cytokinin metabolic process
+GO:0052572	1	GO:0052200	response to host defenses
+GO:0007049	4	GO:0031640	killing of cells of other organism
+GO:0033144	3	GO:0033147	negative regulation of intracellular estrogen receptor signaling pathway
+GO:0033146	3	GO:0033147	negative regulation of intracellular estrogen receptor signaling pathway
+GO:0033147	3	GO:0033147	negative regulation of intracellular estrogen receptor signaling pathway
+GO:0051028	6	GO:0031424	keratinization
+GO:0000183	5	GO:0009690	cytokinin metabolic process
+GO:0009690	5	GO:0009690	cytokinin metabolic process
+GO:0009691	5	GO:0009690	cytokinin metabolic process
+GO:0052040	4	GO:0031640	killing of cells of other organism
+GO:0039674	2	GO:0019058	viral life cycle
+GO:0039675	2	GO:0019058	viral life cycle
+GO:1990700	5	GO:0009690	cytokinin metabolic process
+GO:0031341	4	GO:0031640	killing of cells of other organism
+GO:0052150	4	GO:0031640	killing of cells of other organism
+GO:0031640	4	GO:0031640	killing of cells of other organism
+GO:0052173	1	GO:0052200	response to host defenses
+GO:0001894	5	GO:0009690	cytokinin metabolic process
+GO:0001895	5	GO:0009690	cytokinin metabolic process
+GO:0075733	2	GO:0019058	viral life cycle
+GO:0051701	2	GO:0019058	viral life cycle
+GO:0051709	4	GO:0031640	killing of cells of other organism
+GO:0003334	6	GO:0031424	keratinization
+GO:0050657	6	GO:0031424	keratinization
+GO:0050658	6	GO:0031424	keratinization
+GO:0075136	1	GO:0052200	response to host defenses
+GO:0030216	6	GO:0031424	keratinization
+GO:0000282	5	GO:0009690	cytokinin metabolic process
+GO:0031424	6	GO:0031424	keratinization
+GO:0019068	2	GO:0019058	viral life cycle
+GO:0019054	4	GO:0031640	killing of cells of other organism
+GO:0019058	2	GO:0019058	viral life cycle
+GO:0022402	4	GO:0031640	killing of cells of other organism
+GO:0043588	6	GO:0031424	keratinization
+GO:0039526	4	GO:0031640	killing of cells of other organism
+GO:0043570	5	GO:0009690	cytokinin metabolic process
+GO:0030520	3	GO:0033147	negative regulation of intracellular estrogen receptor signaling pathway
+GO:0044403	2	GO:0019058	viral life cycle

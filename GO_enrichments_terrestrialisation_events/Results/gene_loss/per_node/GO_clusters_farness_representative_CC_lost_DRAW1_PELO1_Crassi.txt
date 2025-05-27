@@ -1,0 +1,24 @@
+GO:0019031	3	GO:0055036	virion membrane
+GO:0019033	3	GO:0055036	virion membrane
+GO:0042025	1	GO:0033644	host cell membrane
+GO:0090571	2	GO:0008541	proteasome regulatory particle, lid subcomplex
+GO:0044167	1	GO:0033644	host cell membrane
+GO:0008541	2	GO:0008541	proteasome regulatory particle, lid subcomplex
+GO:0020002	1	GO:0033644	host cell membrane
+GO:0000782	2	GO:0008541	proteasome regulatory particle, lid subcomplex
+GO:0044177	1	GO:0033644	host cell membrane
+GO:0009507	2	GO:0008541	proteasome regulatory particle, lid subcomplex
+GO:0030313	3	GO:0055036	virion membrane
+GO:0055036	3	GO:0055036	virion membrane
+GO:0033644	1	GO:0033644	host cell membrane
+GO:0033645	1	GO:0033644	host cell membrane
+GO:0000324	2	GO:0008541	proteasome regulatory particle, lid subcomplex
+GO:0080008	2	GO:0008541	proteasome regulatory particle, lid subcomplex
+GO:0032839	2	GO:0008541	proteasome regulatory particle, lid subcomplex
+GO:0044219	1	GO:0033644	host cell membrane
+GO:0042597	3	GO:0055036	virion membrane
+GO:0000214	2	GO:0008541	proteasome regulatory particle, lid subcomplex
+GO:0030430	1	GO:0033644	host cell membrane
+GO:0044094	1	GO:0033644	host cell membrane
+GO:0016020	3	GO:0055036	virion membrane
+GO:0019028	3	GO:0055036	virion membrane

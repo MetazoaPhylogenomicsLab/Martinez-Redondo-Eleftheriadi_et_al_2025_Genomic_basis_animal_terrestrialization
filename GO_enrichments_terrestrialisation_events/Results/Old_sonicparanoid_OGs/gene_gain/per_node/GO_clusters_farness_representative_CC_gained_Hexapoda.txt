@@ -1,0 +1,99 @@
+GO:0071944	4	GO:0071944	cell periphery
+GO:0005774	5	GO:0005775	vacuolar lumen
+GO:0035869	4	GO:0071944	cell periphery
+GO:0009506	4	GO:0071944	cell periphery
+GO:0030430	1	GO:0033646	host intracellular part
+GO:0008076	2	GO:0031332	RNAi effector complex
+GO:0009897	4	GO:0071944	cell periphery
+GO:0030056	4	GO:0071944	cell periphery
+GO:0055044	4	GO:0071944	cell periphery
+GO:0034703	2	GO:0031332	RNAi effector complex
+GO:0034705	2	GO:0031332	RNAi effector complex
+GO:0000324	5	GO:0005775	vacuolar lumen
+GO:0005912	4	GO:0071944	cell periphery
+GO:0098592	4	GO:0071944	cell periphery
+GO:0031410	5	GO:0005775	vacuolar lumen
+GO:0030312	4	GO:0071944	cell periphery
+GO:0005615	4	GO:0071944	cell periphery
+GO:0097708	5	GO:0005775	vacuolar lumen
+GO:0062129	4	GO:0071944	cell periphery
+GO:0044163	1	GO:0033646	host intracellular part
+GO:0044167	1	GO:0033646	host intracellular part
+GO:0098595	4	GO:0071944	cell periphery
+GO:0019031	3	GO:0044423	virion component
+GO:0044177	1	GO:0033646	host intracellular part
+GO:0032590	4	GO:0071944	cell periphery
+GO:0020002	1	GO:0033646	host intracellular part
+GO:0098552	4	GO:0071944	cell periphery
+GO:0032777	5	GO:0005775	vacuolar lumen
+GO:0055036	4	GO:0071944	cell periphery
+GO:0033644	1	GO:0033646	host intracellular part
+GO:0039624	3	GO:0044423	virion component
+GO:0009986	4	GO:0071944	cell periphery
+GO:0005576	4	GO:0071944	cell periphery
+GO:0031143	4	GO:0071944	cell periphery
+GO:0019028	3	GO:0044423	virion component
+GO:0031261	5	GO:0005775	vacuolar lumen
+GO:0033655	1	GO:0033646	host intracellular part
+GO:0005721	6	GO:0005819	spindle
+GO:0019867	4	GO:0071944	cell periphery
+GO:0055120	6	GO:0005819	spindle
+GO:0043083	4	GO:0071944	cell periphery
+GO:1990342	6	GO:0005819	spindle
+GO:0001669	5	GO:0005775	vacuolar lumen
+GO:0005741	5	GO:0005775	vacuolar lumen
+GO:0043073	5	GO:0005775	vacuolar lumen
+GO:0099115	6	GO:0005819	spindle
+GO:0044161	1	GO:0033646	host intracellular part
+GO:0044164	1	GO:0033646	host intracellular part
+GO:0044165	1	GO:0033646	host intracellular part
+GO:0019005	2	GO:0031332	RNAi effector complex
+GO:0033645	1	GO:0033646	host intracellular part
+GO:0044156	1	GO:0033646	host intracellular part
+GO:0044231	1	GO:0033646	host intracellular part
+GO:0071683	4	GO:0071944	cell periphery
+GO:0005819	6	GO:0005819	spindle
+GO:0000775	6	GO:0005819	spindle
+GO:0000776	6	GO:0005819	spindle
+GO:0000779	6	GO:0005819	spindle
+GO:0030426	4	GO:0071944	cell periphery
+GO:0042995	4	GO:0071944	cell periphery
+GO:0043005	4	GO:0071944	cell periphery
+GO:0044423	3	GO:0044423	virion component
+GO:0036338	3	GO:0044423	virion component
+GO:0098562	4	GO:0071944	cell periphery
+GO:0009898	4	GO:0071944	cell periphery
+GO:0072686	6	GO:0005819	spindle
+GO:0044220	1	GO:0033646	host intracellular part
+GO:0120025	4	GO:0071944	cell periphery
+GO:0036477	4	GO:0071944	cell periphery
+GO:0031332	2	GO:0031332	RNAi effector complex
+GO:0005929	4	GO:0071944	cell periphery
+GO:0005826	6	GO:0005819	spindle
+GO:0005828	6	GO:0005819	spindle
+GO:0034464	4	GO:0071944	cell periphery
+GO:0005775	5	GO:0005775	vacuolar lumen
+GO:0009277	4	GO:0071944	cell periphery
+GO:0031462	2	GO:0031332	RNAi effector complex
+GO:0031464	2	GO:0031332	RNAi effector complex
+GO:0042763	4	GO:0071944	cell periphery
+GO:0042764	4	GO:0071944	cell periphery
+GO:0043202	5	GO:0005775	vacuolar lumen
+GO:0033553	6	GO:0005819	spindle
+GO:0043160	5	GO:0005775	vacuolar lumen
+GO:0019029	3	GO:0044423	virion component
+GO:0005818	6	GO:0005819	spindle
+GO:0018995	4	GO:0071944	cell periphery
+GO:0043656	1	GO:0033646	host intracellular part
+GO:0043657	1	GO:0033646	host intracellular part
+GO:0043292	6	GO:0005819	spindle
+GO:0033643	1	GO:0033646	host intracellular part
+GO:0033646	1	GO:0033646	host intracellular part
+GO:0008303	2	GO:0031332	RNAi effector complex
+GO:0030479	6	GO:0005819	spindle
+GO:0000242	6	GO:0005819	spindle
+GO:0044178	1	GO:0033646	host intracellular part
+GO:0009279	4	GO:0071944	cell periphery
+GO:0034704	2	GO:0031332	RNAi effector complex
+GO:1990423	6	GO:0005819	spindle
+GO:0008023	5	GO:0005775	vacuolar lumen

@@ -1,0 +1,129 @@
+GO:0005547	3	GO:0051381	histamine binding
+GO:0005534	3	GO:0051381	histamine binding
+GO:0004222	7	GO:0004175	endopeptidase activity
+GO:0022824	1	GO:0099094	ligand-gated cation channel activity
+GO:0050480	11	GO:0004540	ribonuclease activity
+GO:0004364	9	GO:0032451	demethylase activity
+GO:0022848	1	GO:0099094	ligand-gated cation channel activity
+GO:0022835	1	GO:0099094	ligand-gated cation channel activity
+GO:0050700	4	GO:0042802	identical protein binding
+GO:0005249	1	GO:0099094	ligand-gated cation channel activity
+GO:0005230	1	GO:0099094	ligand-gated cation channel activity
+GO:0089720	4	GO:0042802	identical protein binding
+GO:0047220	9	GO:0032451	demethylase activity
+GO:0008199	3	GO:0051381	histamine binding
+GO:0004674	6	GO:0004674	protein serine/threonine kinase activity
+GO:0030246	4	GO:0042802	identical protein binding
+GO:0070492	3	GO:0051381	histamine binding
+GO:0018024	5	GO:0016279	protein-lysine N-methyltransferase activity
+GO:0004769	9	GO:0032451	demethylase activity
+GO:0005044	9	GO:0032451	demethylase activity
+GO:0030332	4	GO:0042802	identical protein binding
+GO:0099094	1	GO:0099094	ligand-gated cation channel activity
+GO:0016278	5	GO:0016279	protein-lysine N-methyltransferase activity
+GO:0016279	5	GO:0016279	protein-lysine N-methyltransferase activity
+GO:0035198	3	GO:0051381	histamine binding
+GO:0044390	4	GO:0042802	identical protein binding
+GO:0042834	3	GO:0051381	histamine binding
+GO:0106310	6	GO:0004674	protein serine/threonine kinase activity
+GO:0046975	5	GO:0016279	protein-lysine N-methyltransferase activity
+GO:0031624	4	GO:0042802	identical protein binding
+GO:0031625	4	GO:0042802	identical protein binding
+GO:0042800	5	GO:0016279	protein-lysine N-methyltransferase activity
+GO:0061980	3	GO:0051381	histamine binding
+GO:0015280	1	GO:0099094	ligand-gated cation channel activity
+GO:0031490	3	GO:0051381	histamine binding
+GO:0044389	4	GO:0042802	identical protein binding
+GO:0098631	4	GO:0042802	identical protein binding
+GO:0098632	4	GO:0042802	identical protein binding
+GO:0038023	2	GO:0004888	transmembrane signaling receptor activity
+GO:0031749	4	GO:0042802	identical protein binding
+GO:0016628	9	GO:0032451	demethylase activity
+GO:0008270	3	GO:0051381	histamine binding
+GO:0004888	2	GO:0004888	transmembrane signaling receptor activity
+GO:0008236	7	GO:0004175	endopeptidase activity
+GO:0004175	7	GO:0004175	endopeptidase activity
+GO:0004177	7	GO:0004175	endopeptidase activity
+GO:0008327	3	GO:0051381	histamine binding
+GO:0008066	2	GO:0004888	transmembrane signaling receptor activity
+GO:0000774	3	GO:0051381	histamine binding
+GO:0005123	4	GO:0042802	identical protein binding
+GO:0051381	3	GO:0051381	histamine binding
+GO:0043015	4	GO:0042802	identical protein binding
+GO:0016702	9	GO:0032451	demethylase activity
+GO:0030165	4	GO:0042802	identical protein binding
+GO:0042054	5	GO:0016279	protein-lysine N-methyltransferase activity
+GO:0017151	4	GO:0042802	identical protein binding
+GO:0046872	3	GO:0051381	histamine binding
+GO:0051765	6	GO:0004674	protein serine/threonine kinase activity
+GO:0051766	6	GO:0004674	protein serine/threonine kinase activity
+GO:0004252	7	GO:0004175	endopeptidase activity
+GO:0030594	2	GO:0004888	transmembrane signaling receptor activity
+GO:0001530	3	GO:0051381	histamine binding
+GO:0016936	3	GO:0051381	histamine binding
+GO:0046982	4	GO:0042802	identical protein binding
+GO:0004965	2	GO:0004888	transmembrane signaling receptor activity
+GO:0005217	1	GO:0099094	ligand-gated cation channel activity
+GO:0042802	4	GO:0042802	identical protein binding
+GO:0042803	4	GO:0042802	identical protein binding
+GO:0042805	4	GO:0042802	identical protein binding
+GO:0004989	2	GO:0004888	transmembrane signaling receptor activity
+GO:0009374	3	GO:0051381	histamine binding
+GO:0004112	10	GO:0042577	lipid phosphatase activity
+GO:0004118	10	GO:0042577	lipid phosphatase activity
+GO:0140311	9	GO:0032451	demethylase activity
+GO:0004519	11	GO:0004540	ribonuclease activity
+GO:0051861	3	GO:0051381	histamine binding
+GO:0004540	11	GO:0004540	ribonuclease activity
+GO:0004536	11	GO:0004540	ribonuclease activity
+GO:0070513	4	GO:0042802	identical protein binding
+GO:0004930	2	GO:0004888	transmembrane signaling receptor activity
+GO:0015278	1	GO:0099094	ligand-gated cation channel activity
+GO:0051011	4	GO:0042802	identical protein binding
+GO:0004500	9	GO:0032451	demethylase activity
+GO:0042577	10	GO:0042577	lipid phosphatase activity
+GO:0032451	9	GO:0032451	demethylase activity
+GO:0004693	6	GO:0004674	protein serine/threonine kinase activity
+GO:0000175	11	GO:0004540	ribonuclease activity
+GO:0097472	6	GO:0004674	protein serine/threonine kinase activity
+GO:0030346	4	GO:0042802	identical protein binding
+GO:0034485	10	GO:0042577	lipid phosphatase activity
+GO:0039660	9	GO:0032451	demethylase activity
+GO:0016796	11	GO:0004540	ribonuclease activity
+GO:0097199	7	GO:0004175	endopeptidase activity
+GO:0016724	9	GO:0032451	demethylase activity
+GO:0032561	3	GO:0051381	histamine binding
+GO:0097153	7	GO:0004175	endopeptidase activity
+GO:0019841	3	GO:0051381	histamine binding
+GO:0016706	9	GO:0032451	demethylase activity
+GO:0005031	2	GO:0004888	transmembrane signaling receptor activity
+GO:0005035	2	GO:0004888	transmembrane signaling receptor activity
+GO:0004322	9	GO:0032451	demethylase activity
+GO:0102757	10	GO:0042577	lipid phosphatase activity
+GO:0005000	2	GO:0004888	transmembrane signaling receptor activity
+GO:0016854	9	GO:0032451	demethylase activity
+GO:0004709	6	GO:0004674	protein serine/threonine kinase activity
+GO:0052658	10	GO:0042577	lipid phosphatase activity
+GO:0052659	10	GO:0042577	lipid phosphatase activity
+GO:0051213	9	GO:0032451	demethylase activity
+GO:0106018	10	GO:0042577	lipid phosphatase activity
+GO:0031683	3	GO:0051381	histamine binding
+GO:0019178	10	GO:0042577	lipid phosphatase activity
+GO:0008408	11	GO:0004540	ribonuclease activity
+GO:0008800	11	GO:0004540	ribonuclease activity
+GO:0003887	9	GO:0032451	demethylase activity
+GO:0005525	3	GO:0051381	histamine binding
+GO:0047429	9	GO:0032451	demethylase activity
+GO:0004445	10	GO:0042577	lipid phosphatase activity
+GO:0004849	6	GO:0004674	protein serine/threonine kinase activity
+GO:0005501	3	GO:0051381	histamine binding
+GO:0004439	10	GO:0042577	lipid phosphatase activity
+GO:0005507	3	GO:0051381	histamine binding
+GO:0008172	5	GO:0016279	protein-lysine N-methyltransferase activity
+GO:0008988	5	GO:0016279	protein-lysine N-methyltransferase activity
+GO:0097200	7	GO:0004175	endopeptidase activity
+GO:0034235	3	GO:0051381	histamine binding
+GO:0097603	1	GO:0099094	ligand-gated cation channel activity
+GO:0097604	1	GO:0099094	ligand-gated cation channel activity
+GO:0004190	7	GO:0004175	endopeptidase activity
+GO:0003964	9	GO:0032451	demethylase activity

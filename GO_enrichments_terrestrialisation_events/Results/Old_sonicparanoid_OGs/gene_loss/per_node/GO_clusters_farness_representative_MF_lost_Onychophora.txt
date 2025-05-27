@@ -1,0 +1,1915 @@
+GO:0030527	14	GO:0005198	structural molecule activity
+GO:0005550	17	GO:0044877	protein-containing complex binding
+GO:0030545	14	GO:0005198	structural molecule activity
+GO:0008061	17	GO:0044877	protein-containing complex binding
+GO:0020037	16	GO:0003676	nucleic acid binding
+GO:0008083	18	GO:0005178	integrin binding
+GO:0015171	10	GO:0015075	ion transmembrane transporter activity
+GO:0043035	16	GO:0003676	nucleic acid binding
+GO:0005549	17	GO:0044877	protein-containing complex binding
+GO:0001786	15	GO:0005504	fatty acid binding
+GO:0102965	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0016705	1	GO:0003824	catalytic activity
+GO:0050062	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0000014	7	GO:0004806	triglyceride lipase activity
+GO:0015149	10	GO:0015075	ion transmembrane transporter activity
+GO:0043176	17	GO:0044877	protein-containing complex binding
+GO:0005031	11	GO:0099528	G protein-coupled neurotransmitter receptor activity
+GO:0005504	15	GO:0005504	fatty acid binding
+GO:0005506	15	GO:0005504	fatty acid binding
+GO:0090729	14	GO:0005198	structural molecule activity
+GO:1990188	17	GO:0044877	protein-containing complex binding
+GO:0018685	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0004181	7	GO:0004806	triglyceride lipase activity
+GO:0005179	18	GO:0005178	integrin binding
+GO:0005121	19	GO:0005515	protein binding
+GO:0016863	8	GO:0003916	DNA topoisomerase activity
+GO:0004364	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0003700	14	GO:0005198	structural molecule activity
+GO:0030346	18	GO:0005178	integrin binding
+GO:0080019	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0080030	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0022821	9	GO:0005216	ion channel activity
+GO:0019841	15	GO:0005504	fatty acid binding
+GO:0022829	9	GO:0005216	ion channel activity
+GO:0051119	10	GO:0015075	ion transmembrane transporter activity
+GO:0042302	14	GO:0005198	structural molecule activity
+GO:0070006	7	GO:0004806	triglyceride lipase activity
+GO:0016229	1	GO:0003824	catalytic activity
+GO:0035275	17	GO:0044877	protein-containing complex binding
+GO:0001872	15	GO:0005504	fatty acid binding
+GO:0004305	3	GO:0016301	kinase activity
+GO:0016918	15	GO:0005504	fatty acid binding
+GO:0008252	7	GO:0004806	triglyceride lipase activity
+GO:0042800	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0004497	1	GO:0003824	catalytic activity
+GO:0003964	3	GO:0016301	kinase activity
+GO:0008270	15	GO:0005504	fatty acid binding
+GO:0035591	14	GO:0005198	structural molecule activity
+GO:0004984	12	GO:0004888	transmembrane signaling receptor activity
+GO:0000981	14	GO:0005198	structural molecule activity
+GO:0005213	14	GO:0005198	structural molecule activity
+GO:0000977	16	GO:0003676	nucleic acid binding
+GO:0000978	16	GO:0003676	nucleic acid binding
+GO:0015574	10	GO:0015075	ion transmembrane transporter activity
+GO:0043565	16	GO:0003676	nucleic acid binding
+GO:0034584	16	GO:0003676	nucleic acid binding
+GO:0003677	16	GO:0003676	nucleic acid binding
+GO:0008378	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0001216	14	GO:0005198	structural molecule activity
+GO:0008028	10	GO:0015075	ion transmembrane transporter activity
+GO:0004252	7	GO:0004806	triglyceride lipase activity
+GO:0004519	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0015101	10	GO:0015075	ion transmembrane transporter activity
+GO:0003690	16	GO:0003676	nucleic acid binding
+GO:0015293	9	GO:0005216	ion channel activity
+GO:0016712	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0046872	15	GO:0005504	fatty acid binding
+GO:0004222	7	GO:0004806	triglyceride lipase activity
+GO:0005536	15	GO:0005504	fatty acid binding
+GO:0004386	8	GO:0003916	DNA topoisomerase activity
+GO:0005509	15	GO:0005504	fatty acid binding
+GO:0022834	9	GO:0005216	ion channel activity
+GO:0005355	10	GO:0015075	ion transmembrane transporter activity
+GO:0061809	7	GO:0004806	triglyceride lipase activity
+GO:0070976	19	GO:0005515	protein binding
+GO:0005243	9	GO:0005216	ion channel activity
+GO:0061134	14	GO:0005198	structural molecule activity
+GO:0034483	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0005200	14	GO:0005198	structural molecule activity
+GO:0019955	19	GO:0005515	protein binding
+GO:0070026	17	GO:0044877	protein-containing complex binding
+GO:0048018	18	GO:0005178	integrin binding
+GO:0048019	18	GO:0005178	integrin binding
+GO:0031210	15	GO:0005504	fatty acid binding
+GO:0070492	17	GO:0044877	protein-containing complex binding
+GO:0005044	14	GO:0005198	structural molecule activity
+GO:0070001	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0004784	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0008147	14	GO:0005198	structural molecule activity
+GO:0004453	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0030023	14	GO:0005198	structural molecule activity
+GO:0050135	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0046790	17	GO:0044877	protein-containing complex binding
+GO:0031788	18	GO:0005178	integrin binding
+GO:0015276	9	GO:0005216	ion channel activity
+GO:0004896	12	GO:0004888	transmembrane signaling receptor activity
+GO:0008527	12	GO:0004888	transmembrane signaling receptor activity
+GO:0039660	14	GO:0005198	structural molecule activity
+GO:0004190	7	GO:0004806	triglyceride lipase activity
+GO:0019865	17	GO:0044877	protein-containing complex binding
+GO:0016721	1	GO:0003824	catalytic activity
+GO:0097493	14	GO:0005198	structural molecule activity
+GO:0005158	19	GO:0005515	protein binding
+GO:0003887	3	GO:0016301	kinase activity
+GO:0035250	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0005125	18	GO:0005178	integrin binding
+GO:0005126	19	GO:0005515	protein binding
+GO:0009922	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0008020	11	GO:0099528	G protein-coupled neurotransmitter receptor activity
+GO:0050341	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0045735	14	GO:0005198	structural molecule activity
+GO:0017151	19	GO:0005515	protein binding
+GO:0004568	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0005109	18	GO:0005178	integrin binding
+GO:0008494	16	GO:0003676	nucleic acid binding
+GO:0000405	16	GO:0003676	nucleic acid binding
+GO:0102756	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0046848	17	GO:0044877	protein-containing complex binding
+GO:0003953	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0005272	9	GO:0005216	ion channel activity
+GO:0016936	17	GO:0044877	protein-containing complex binding
+GO:0030627	16	GO:0003676	nucleic acid binding
+GO:0046920	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0030619	16	GO:0003676	nucleic acid binding
+GO:0030246	17	GO:0044877	protein-containing complex binding
+GO:0030247	17	GO:0044877	protein-containing complex binding
+GO:0102121	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0051861	17	GO:0044877	protein-containing complex binding
+GO:0005201	14	GO:0005198	structural molecule activity
+GO:0015277	9	GO:0005216	ion channel activity
+GO:0106274	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0000987	16	GO:0003676	nucleic acid binding
+GO:0099106	14	GO:0005198	structural molecule activity
+GO:0005496	17	GO:0044877	protein-containing complex binding
+GO:0019864	15	GO:0005504	fatty acid binding
+GO:0004394	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0043621	19	GO:0005515	protein binding
+GO:0071855	18	GO:0005178	integrin binding
+GO:0047756	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0008066	12	GO:0004888	transmembrane signaling receptor activity
+GO:0033130	19	GO:0005515	protein binding
+GO:0001054	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0017060	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0008810	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0033293	15	GO:0005504	fatty acid binding
+GO:0001848	19	GO:0005515	protein binding
+GO:0005184	18	GO:0005178	integrin binding
+GO:0017040	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:1990404	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0046871	17	GO:0044877	protein-containing complex binding
+GO:0005112	19	GO:0005515	protein binding
+GO:0003823	17	GO:0044877	protein-containing complex binding
+GO:0005149	18	GO:0005178	integrin binding
+GO:0070851	19	GO:0005515	protein binding
+GO:0005139	18	GO:0005178	integrin binding
+GO:0005537	15	GO:0005504	fatty acid binding
+GO:0048029	17	GO:0044877	protein-containing complex binding
+GO:0005102	19	GO:0005515	protein binding
+GO:0004000	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0098632	18	GO:0005178	integrin binding
+GO:0015114	10	GO:0015075	ion transmembrane transporter activity
+GO:0003993	7	GO:0004806	triglyceride lipase activity
+GO:0008138	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0004197	7	GO:0004806	triglyceride lipase activity
+GO:0055077	9	GO:0005216	ion channel activity
+GO:0016722	1	GO:0003824	catalytic activity
+GO:0030547	14	GO:0005198	structural molecule activity
+GO:0043394	19	GO:0005515	protein binding
+GO:0015144	10	GO:0015075	ion transmembrane transporter activity
+GO:0015645	8	GO:0003916	DNA topoisomerase activity
+GO:0016878	8	GO:0003916	DNA topoisomerase activity
+GO:0015267	9	GO:0005216	ion channel activity
+GO:0004103	3	GO:0016301	kinase activity
+GO:0004857	14	GO:0005198	structural molecule activity
+GO:0022803	10	GO:0015075	ion transmembrane transporter activity
+GO:0005261	9	GO:0005216	ion channel activity
+GO:0005262	9	GO:0005216	ion channel activity
+GO:0034237	19	GO:0005515	protein binding
+GO:0140326	8	GO:0003916	DNA topoisomerase activity
+GO:0031208	19	GO:0005515	protein binding
+GO:0016405	8	GO:0003916	DNA topoisomerase activity
+GO:0015085	9	GO:0005216	ion channel activity
+GO:0008201	15	GO:0005504	fatty acid binding
+GO:0008146	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0005539	17	GO:0044877	protein-containing complex binding
+GO:0038023	12	GO:0004888	transmembrane signaling receptor activity
+GO:0004745	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0060089	14	GO:0005198	structural molecule activity
+GO:0015026	12	GO:0004888	transmembrane signaling receptor activity
+GO:0097655	19	GO:0005515	protein binding
+GO:0035613	16	GO:0003676	nucleic acid binding
+GO:0004175	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0070840	17	GO:0044877	protein-containing complex binding
+GO:0003968	3	GO:0016301	kinase activity
+GO:0001517	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0098847	16	GO:0003676	nucleic acid binding
+GO:0005198	14	GO:0005198	structural molecule activity
+GO:0005199	14	GO:0005198	structural molecule activity
+GO:0005164	18	GO:0005178	integrin binding
+GO:0140375	12	GO:0004888	transmembrane signaling receptor activity
+GO:0035375	19	GO:0005515	protein binding
+GO:0008417	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0042162	16	GO:0003676	nucleic acid binding
+GO:0004523	7	GO:0004806	triglyceride lipase activity
+GO:0034481	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0102483	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0043047	16	GO:0003676	nucleic acid binding
+GO:0030331	18	GO:0005178	integrin binding
+GO:0005214	14	GO:0005198	structural molecule activity
+GO:0000287	15	GO:0005504	fatty acid binding
+GO:0008097	16	GO:0003676	nucleic acid binding
+GO:0047685	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0062105	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0004957	11	GO:0099528	G protein-coupled neurotransmitter receptor activity
+GO:0004970	9	GO:0005216	ion channel activity
+GO:0030729	8	GO:0003916	DNA topoisomerase activity
+GO:0097199	7	GO:0004806	triglyceride lipase activity
+GO:0031435	18	GO:0005178	integrin binding
+GO:0004022	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0052740	7	GO:0004806	triglyceride lipase activity
+GO:0016404	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0052739	7	GO:0004806	triglyceride lipase activity
+GO:0005133	18	GO:0005178	integrin binding
+GO:0016645	1	GO:0003824	catalytic activity
+GO:0008970	7	GO:0004806	triglyceride lipase activity
+GO:0097200	7	GO:0004806	triglyceride lipase activity
+GO:0099529	11	GO:0099528	G protein-coupled neurotransmitter receptor activity
+GO:1904315	9	GO:0005216	ion channel activity
+GO:1902936	15	GO:0005504	fatty acid binding
+GO:0033764	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0098960	12	GO:0004888	transmembrane signaling receptor activity
+GO:0004714	3	GO:0016301	kinase activity
+GO:0038024	14	GO:0005198	structural molecule activity
+GO:0015081	9	GO:0005216	ion channel activity
+GO:0005507	15	GO:0005504	fatty acid binding
+GO:0001595	11	GO:0099528	G protein-coupled neurotransmitter receptor activity
+GO:0015355	10	GO:0015075	ion transmembrane transporter activity
+GO:0005416	9	GO:0005216	ion channel activity
+GO:0140161	9	GO:0005216	ion channel activity
+GO:0015370	9	GO:0005216	ion channel activity
+GO:0004945	11	GO:0099528	G protein-coupled neurotransmitter receptor activity
+GO:0015280	9	GO:0005216	ion channel activity
+GO:0004930	12	GO:0004888	transmembrane signaling receptor activity
+GO:0015279	9	GO:0005216	ion channel activity
+GO:0003950	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0004888	12	GO:0004888	transmembrane signaling receptor activity
+GO:0050431	18	GO:0005178	integrin binding
+GO:0004089	4	GO:0016835	carbon-oxygen lyase activity
+GO:0019199	3	GO:0016301	kinase activity
+GO:0071813	15	GO:0005504	fatty acid binding
+GO:0071814	17	GO:0044877	protein-containing complex binding
+GO:0000976	16	GO:0003676	nucleic acid binding
+GO:0016715	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0043178	17	GO:0044877	protein-containing complex binding
+GO:0015651	10	GO:0015075	ion transmembrane transporter activity
+GO:0004520	7	GO:0004806	triglyceride lipase activity
+GO:0015199	10	GO:0015075	ion transmembrane transporter activity
+GO:0019838	19	GO:0005515	protein binding
+GO:0004536	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0005343	9	GO:0005216	ion channel activity
+GO:0005283	9	GO:0005216	ion channel activity
+GO:0015154	10	GO:0015075	ion transmembrane transporter activity
+GO:0015157	10	GO:0015075	ion transmembrane transporter activity
+GO:0004504	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0015185	10	GO:0015075	ion transmembrane transporter activity
+GO:0070679	15	GO:0005504	fatty acid binding
+GO:0030546	14	GO:0005198	structural molecule activity
+GO:0001217	14	GO:0005198	structural molecule activity
+GO:0003990	7	GO:0004806	triglyceride lipase activity
+GO:0046914	15	GO:0005504	fatty acid binding
+GO:0008307	14	GO:0005198	structural molecule activity
+GO:0004104	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0004035	7	GO:0004806	triglyceride lipase activity
+GO:0032813	18	GO:0005178	integrin binding
+GO:0030021	14	GO:0005198	structural molecule activity
+GO:0005267	9	GO:0005216	ion channel activity
+GO:0005227	9	GO:0005216	ion channel activity
+GO:0005249	9	GO:0005216	ion channel activity
+GO:0005230	9	GO:0005216	ion channel activity
+GO:0070569	3	GO:0016301	kinase activity
+GO:0019206	3	GO:0016301	kinase activity
+GO:0070573	7	GO:0004806	triglyceride lipase activity
+GO:0005302	10	GO:0015075	ion transmembrane transporter activity
+GO:0030165	19	GO:0005515	protein binding
+GO:0016812	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0005123	18	GO:0005178	integrin binding
+GO:0015194	10	GO:0015075	ion transmembrane transporter activity
+GO:0061459	10	GO:0015075	ion transmembrane transporter activity
+GO:0005534	15	GO:0005504	fatty acid binding
+GO:0015189	10	GO:0015075	ion transmembrane transporter activity
+GO:0098631	19	GO:0005515	protein binding
+GO:0005290	10	GO:0015075	ion transmembrane transporter activity
+GO:0050265	3	GO:0016301	kinase activity
+GO:0043028	14	GO:0005198	structural molecule activity
+GO:0043548	19	GO:0005515	protein binding
+GO:0005483	14	GO:0005198	structural molecule activity
+GO:0008395	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0004090	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0019789	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0022848	9	GO:0005216	ion channel activity
+GO:0140344	14	GO:0005198	structural molecule activity
+GO:0016616	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0051400	19	GO:0005515	protein binding
+GO:0042826	19	GO:0005515	protein binding
+GO:0061665	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0004508	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0047442	4	GO:0016835	carbon-oxygen lyase activity
+GO:0015125	10	GO:0015075	ion transmembrane transporter activity
+GO:0036393	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0016684	1	GO:0003824	catalytic activity
+GO:0004180	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0001640	11	GO:0099528	G protein-coupled neurotransmitter receptor activity
+GO:0030492	19	GO:0005515	protein binding
+GO:0052689	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0042834	15	GO:0005504	fatty acid binding
+GO:0016247	14	GO:0005198	structural molecule activity
+GO:0004601	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0099602	14	GO:0005198	structural molecule activity
+GO:0008271	10	GO:0015075	ion transmembrane transporter activity
+GO:0016209	14	GO:0005198	structural molecule activity
+GO:0098988	11	GO:0099528	G protein-coupled neurotransmitter receptor activity
+GO:0000217	16	GO:0003676	nucleic acid binding
+GO:0008234	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0008235	7	GO:0004806	triglyceride lipase activity
+GO:0008236	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0008239	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0038187	12	GO:0004888	transmembrane signaling receptor activity
+GO:0089720	18	GO:0005178	integrin binding
+GO:0019239	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0030228	14	GO:0005198	structural molecule activity
+GO:0098505	16	GO:0003676	nucleic acid binding
+GO:0042171	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0001530	17	GO:0044877	protein-containing complex binding
+GO:0008289	17	GO:0044877	protein-containing complex binding
+GO:0001618	17	GO:0044877	protein-containing complex binding
+GO:0047886	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0004806	7	GO:0004806	triglyceride lipase activity
+GO:0016411	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0030169	15	GO:0005504	fatty acid binding
+GO:0070530	18	GO:0005178	integrin binding
+GO:0016814	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0001875	12	GO:0004888	transmembrane signaling receptor activity
+GO:0000995	14	GO:0005198	structural molecule activity
+GO:0035662	18	GO:0005178	integrin binding
+GO:0009881	12	GO:0004888	transmembrane signaling receptor activity
+GO:0033041	11	GO:0099528	G protein-coupled neurotransmitter receptor activity
+GO:0051015	18	GO:0005178	integrin binding
+GO:0019531	10	GO:0015075	ion transmembrane transporter activity
+GO:0097153	7	GO:0004806	triglyceride lipase activity
+GO:0004908	11	GO:0099528	G protein-coupled neurotransmitter receptor activity
+GO:0099094	9	GO:0005216	ion channel activity
+GO:0019966	18	GO:0005178	integrin binding
+GO:0072349	10	GO:0015075	ion transmembrane transporter activity
+GO:0052745	7	GO:0004806	triglyceride lipase activity
+GO:0033549	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0008171	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0016018	15	GO:0005504	fatty acid binding
+GO:0005540	15	GO:0005504	fatty acid binding
+GO:1990837	16	GO:0003676	nucleic acid binding
+GO:0016798	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0008559	8	GO:0003916	DNA topoisomerase activity
+GO:0019894	19	GO:0005515	protein binding
+GO:0034235	15	GO:0005504	fatty acid binding
+GO:0015431	10	GO:0015075	ion transmembrane transporter activity
+GO:0070410	19	GO:0005515	protein binding
+GO:0061783	1	GO:0003824	catalytic activity
+GO:0001067	16	GO:0003676	nucleic acid binding
+GO:0043169	17	GO:0044877	protein-containing complex binding
+GO:0043177	17	GO:0044877	protein-containing complex binding
+GO:0005501	15	GO:0005504	fatty acid binding
+GO:0005154	18	GO:0005178	integrin binding
+GO:0005326	10	GO:0015075	ion transmembrane transporter activity
+GO:0050693	19	GO:0005515	protein binding
+GO:0008422	7	GO:0004806	triglyceride lipase activity
+GO:0031406	15	GO:0005504	fatty acid binding
+GO:0051019	18	GO:0005178	integrin binding
+GO:0051381	16	GO:0003676	nucleic acid binding
+GO:0004983	11	GO:0099528	G protein-coupled neurotransmitter receptor activity
+GO:0008013	19	GO:0005515	protein binding
+GO:0005436	9	GO:0005216	ion channel activity
+GO:0016207	8	GO:0003916	DNA topoisomerase activity
+GO:0031956	8	GO:0003916	DNA topoisomerase activity
+GO:0042923	15	GO:0005504	fatty acid binding
+GO:0005035	12	GO:0004888	transmembrane signaling receptor activity
+GO:0050291	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0031005	19	GO:0005515	protein binding
+GO:0015136	10	GO:0015075	ion transmembrane transporter activity
+GO:0004725	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0044183	14	GO:0005198	structural molecule activity
+GO:0051087	19	GO:0005515	protein binding
+GO:0050997	17	GO:0044877	protein-containing complex binding
+GO:0005245	9	GO:0005216	ion channel activity
+GO:0016408	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0046975	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0043014	18	GO:0005178	integrin binding
+GO:0015145	10	GO:0015075	ion transmembrane transporter activity
+GO:0042803	18	GO:0005178	integrin binding
+GO:0140416	14	GO:0005198	structural molecule activity
+GO:0003691	16	GO:0003676	nucleic acid binding
+GO:0046624	14	GO:0005198	structural molecule activity
+GO:0046982	19	GO:0005515	protein binding
+GO:0008238	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0050839	19	GO:0005515	protein binding
+GO:0004560	7	GO:0004806	triglyceride lipase activity
+GO:0098531	14	GO:0005198	structural molecule activity
+GO:0140034	19	GO:0005515	protein binding
+GO:0042285	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0031418	15	GO:0005504	fatty acid binding
+GO:0035064	18	GO:0005178	integrin binding
+GO:0036402	8	GO:0003916	DNA topoisomerase activity
+GO:0140272	17	GO:0044877	protein-containing complex binding
+GO:0005042	12	GO:0004888	transmembrane signaling receptor activity
+GO:0004712	3	GO:0016301	kinase activity
+GO:0004713	3	GO:0016301	kinase activity
+GO:0004715	3	GO:0016301	kinase activity
+GO:0015106	10	GO:0015075	ion transmembrane transporter activity
+GO:0010313	19	GO:0005515	protein binding
+GO:0071077	10	GO:0015075	ion transmembrane transporter activity
+GO:1901682	10	GO:0015075	ion transmembrane transporter activity
+GO:0015605	10	GO:0015075	ion transmembrane transporter activity
+GO:0045499	18	GO:0005178	integrin binding
+GO:0015216	10	GO:0015075	ion transmembrane transporter activity
+GO:0016779	3	GO:0016301	kinase activity
+GO:0017046	15	GO:0005504	fatty acid binding
+GO:0017171	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0008514	10	GO:0015075	ion transmembrane transporter activity
+GO:0003756	8	GO:0003916	DNA topoisomerase activity
+GO:0002020	19	GO:0005515	protein binding
+GO:0070566	3	GO:0016301	kinase activity
+GO:1901505	10	GO:0015075	ion transmembrane transporter activity
+GO:0016864	8	GO:0003916	DNA topoisomerase activity
+GO:0004687	3	GO:0016301	kinase activity
+GO:0016849	1	GO:0003824	catalytic activity
+GO:0032217	10	GO:0015075	ion transmembrane transporter activity
+GO:0030594	12	GO:0004888	transmembrane signaling receptor activity
+GO:0009975	1	GO:0003824	catalytic activity
+GO:0043208	15	GO:0005504	fatty acid binding
+GO:0090482	10	GO:0015075	ion transmembrane transporter activity
+GO:0034061	3	GO:0016301	kinase activity
+GO:0046943	10	GO:0015075	ion transmembrane transporter activity
+GO:0052650	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0005310	10	GO:0015075	ion transmembrane transporter activity
+GO:0140303	14	GO:0005198	structural molecule activity
+GO:0004167	8	GO:0003916	DNA topoisomerase activity
+GO:0016860	1	GO:0003824	catalytic activity
+GO:0003678	8	GO:0003916	DNA topoisomerase activity
+GO:0043812	7	GO:0004806	triglyceride lipase activity
+GO:0042277	17	GO:0044877	protein-containing complex binding
+GO:0019237	16	GO:0003676	nucleic acid binding
+GO:0001965	19	GO:0005515	protein binding
+GO:0005248	9	GO:0005216	ion channel activity
+GO:0008237	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0016717	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0016502	12	GO:0004888	transmembrane signaling receptor activity
+GO:1901618	10	GO:0015075	ion transmembrane transporter activity
+GO:0001614	11	GO:0099528	G protein-coupled neurotransmitter receptor activity
+GO:0016215	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0015485	15	GO:0005504	fatty acid binding
+GO:0005231	9	GO:0005216	ion channel activity
+GO:0016893	7	GO:0004806	triglyceride lipase activity
+GO:0008353	3	GO:0016301	kinase activity
+GO:0055106	14	GO:0005198	structural molecule activity
+GO:0072341	17	GO:0044877	protein-containing complex binding
+GO:0015347	10	GO:0015075	ion transmembrane transporter activity
+GO:0010181	15	GO:0005504	fatty acid binding
+GO:0000182	16	GO:0003676	nucleic acid binding
+GO:0005385	9	GO:0005216	ion channel activity
+GO:0005344	14	GO:0005198	structural molecule activity
+GO:0030248	15	GO:0005504	fatty acid binding
+GO:0008528	11	GO:0099528	G protein-coupled neurotransmitter receptor activity
+GO:0000900	16	GO:0003676	nucleic acid binding
+GO:0008375	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0008301	16	GO:0003676	nucleic acid binding
+GO:0036121	8	GO:0003916	DNA topoisomerase activity
+GO:0036122	19	GO:0005515	protein binding
+GO:0015373	9	GO:0005216	ion channel activity
+GO:0004033	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0015378	9	GO:0005216	ion channel activity
+GO:0043139	8	GO:0003916	DNA topoisomerase activity
+GO:0008106	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0003831	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0008373	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0008145	15	GO:0005504	fatty acid binding
+GO:0042562	17	GO:0044877	protein-containing complex binding
+GO:0005160	18	GO:0005178	integrin binding
+GO:0005332	9	GO:0005216	ion channel activity
+GO:0031420	15	GO:0005504	fatty acid binding
+GO:0008924	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0008495	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0008917	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0008940	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0008948	4	GO:0016835	carbon-oxygen lyase activity
+GO:0008808	3	GO:0016301	kinase activity
+GO:0015648	10	GO:0015075	ion transmembrane transporter activity
+GO:0003872	3	GO:0016301	kinase activity
+GO:0008933	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0051537	15	GO:0005504	fatty acid binding
+GO:0051539	15	GO:0005504	fatty acid binding
+GO:0016463	9	GO:0005216	ion channel activity
+GO:0003824	1	GO:0003824	catalytic activity
+GO:0005524	15	GO:0005504	fatty acid binding
+GO:0005525	15	GO:0005504	fatty acid binding
+GO:0047490	4	GO:0016835	carbon-oxygen lyase activity
+GO:0003952	8	GO:0003916	DNA topoisomerase activity
+GO:0043214	10	GO:0015075	ion transmembrane transporter activity
+GO:0033296	15	GO:0005504	fatty acid binding
+GO:0050797	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0102499	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0008901	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0051082	19	GO:0005515	protein binding
+GO:0047804	4	GO:0016835	carbon-oxygen lyase activity
+GO:0008484	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0051075	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0003978	8	GO:0003916	DNA topoisomerase activity
+GO:0008479	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0016423	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0016410	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0047451	4	GO:0016835	carbon-oxygen lyase activity
+GO:0008556	9	GO:0005216	ion channel activity
+GO:0008441	7	GO:0004806	triglyceride lipase activity
+GO:0033284	10	GO:0015075	ion transmembrane transporter activity
+GO:0015288	9	GO:0005216	ion channel activity
+GO:0015221	10	GO:0015075	ion transmembrane transporter activity
+GO:0042910	10	GO:0015075	ion transmembrane transporter activity
+GO:0047553	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0015245	10	GO:0015075	ion transmembrane transporter activity
+GO:0102571	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0005174	18	GO:0005178	integrin binding
+GO:0031176	7	GO:0004806	triglyceride lipase activity
+GO:0052927	3	GO:0016301	kinase activity
+GO:0052929	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0000155	3	GO:0016301	kinase activity
+GO:0033201	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0004748	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0000030	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0004731	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0043772	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0032977	14	GO:0005198	structural molecule activity
+GO:0008690	3	GO:0016301	kinase activity
+GO:0008693	4	GO:0016835	carbon-oxygen lyase activity
+GO:0043716	7	GO:0004806	triglyceride lipase activity
+GO:0034040	10	GO:0015075	ion transmembrane transporter activity
+GO:0050380	8	GO:0003916	DNA topoisomerase activity
+GO:0009381	7	GO:0004806	triglyceride lipase activity
+GO:0022884	10	GO:0015075	ion transmembrane transporter activity
+GO:0008184	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0052908	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0008176	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0008177	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:1990238	7	GO:0004806	triglyceride lipase activity
+GO:0009378	8	GO:0003916	DNA topoisomerase activity
+GO:0008661	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0016662	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0102166	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0070567	3	GO:0016301	kinase activity
+GO:0102167	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0016655	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0008658	15	GO:0005504	fatty acid binding
+GO:0008659	4	GO:0016835	carbon-oxygen lyase activity
+GO:0051287	16	GO:0003676	nucleic acid binding
+GO:0052589	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0004373	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0047661	8	GO:0003916	DNA topoisomerase activity
+GO:0016625	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0097351	19	GO:0005515	protein binding
+GO:0004317	4	GO:0016835	carbon-oxygen lyase activity
+GO:0070402	15	GO:0005504	fatty acid binding
+GO:0004342	7	GO:0004806	triglyceride lipase activity
+GO:0050308	7	GO:0004806	triglyceride lipase activity
+GO:0004339	7	GO:0004806	triglyceride lipase activity
+GO:0004820	8	GO:0003916	DNA topoisomerase activity
+GO:0004826	8	GO:0003916	DNA topoisomerase activity
+GO:0004829	8	GO:0003916	DNA topoisomerase activity
+GO:0030955	15	GO:0005504	fatty acid binding
+GO:0031216	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0030983	16	GO:0003676	nucleic acid binding
+GO:0043886	14	GO:0005198	structural molecule activity
+GO:0003688	16	GO:0003676	nucleic acid binding
+GO:0032549	16	GO:0003676	nucleic acid binding
+GO:0004834	4	GO:0016835	carbon-oxygen lyase activity
+GO:0030976	15	GO:0005504	fatty acid binding
+GO:0030911	19	GO:0005515	protein binding
+GO:0052693	1	GO:0003824	catalytic activity
+GO:0035596	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0004803	1	GO:0003824	catalytic activity
+GO:0070043	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0061731	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0015379	9	GO:0005216	ion channel activity
+GO:0102250	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0004592	8	GO:0003916	DNA topoisomerase activity
+GO:0004594	3	GO:0016301	kinase activity
+GO:0030596	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0140359	8	GO:0003916	DNA topoisomerase activity
+GO:0070004	7	GO:0004806	triglyceride lipase activity
+GO:0015344	10	GO:0015075	ion transmembrane transporter activity
+GO:0043807	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0004488	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0070009	7	GO:0004806	triglyceride lipase activity
+GO:0050570	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0004471	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0016231	7	GO:0004806	triglyceride lipase activity
+GO:0004473	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0004477	7	GO:0004806	triglyceride lipase activity
+GO:0017061	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0004566	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0050511	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0004556	7	GO:0004806	triglyceride lipase activity
+GO:0033819	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0017089	14	GO:0005198	structural molecule activity
+GO:0030570	4	GO:0016835	carbon-oxygen lyase activity
+GO:0071972	7	GO:0004806	triglyceride lipase activity
+GO:0036361	8	GO:0003916	DNA topoisomerase activity
+GO:0015923	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0050066	8	GO:0003916	DNA topoisomerase activity
+GO:0009055	1	GO:0003824	catalytic activity
+GO:0008795	8	GO:0003916	DNA topoisomerase activity
+GO:0033916	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0016799	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0050501	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0001046	16	GO:0003676	nucleic acid binding
+GO:1904047	15	GO:0005504	fatty acid binding
+GO:2001062	15	GO:0005504	fatty acid binding
+GO:0016763	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0008763	8	GO:0003916	DNA topoisomerase activity
+GO:0008764	8	GO:0003916	DNA topoisomerase activity
+GO:0004065	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0008765	8	GO:0003916	DNA topoisomerase activity
+GO:0048028	15	GO:0005504	fatty acid binding
+GO:0004069	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0009029	3	GO:0016301	kinase activity
+GO:0061810	7	GO:0004806	triglyceride lipase activity
+GO:0015450	10	GO:0015075	ion transmembrane transporter activity
+GO:0103011	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0009011	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0033592	16	GO:0003676	nucleic acid binding
+GO:0016757	1	GO:0003824	catalytic activity
+GO:0001000	18	GO:0005178	integrin binding
+GO:0016781	3	GO:0016301	kinase activity
+GO:0015483	9	GO:0005216	ion channel activity
+GO:0043546	16	GO:0003676	nucleic acid binding
+GO:0016787	1	GO:0003824	catalytic activity
+GO:2001070	15	GO:0005504	fatty acid binding
+GO:0009035	7	GO:0004806	triglyceride lipase activity
+GO:0004076	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0009037	8	GO:0003916	DNA topoisomerase activity
+GO:0103039	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0015420	10	GO:0015075	ion transmembrane transporter activity
+GO:0015562	10	GO:0015075	ion transmembrane transporter activity
+GO:0016725	1	GO:0003824	catalytic activity
+GO:0016726	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0051991	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0051992	3	GO:0016301	kinase activity
+GO:0004015	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0015415	10	GO:0015075	ion transmembrane transporter activity
+GO:0004016	4	GO:0016835	carbon-oxygen lyase activity
+GO:0008716	8	GO:0003916	DNA topoisomerase activity
+GO:0018801	4	GO:0016835	carbon-oxygen lyase activity
+GO:0009002	7	GO:0004806	triglyceride lipase activity
+GO:0019203	7	GO:0004806	triglyceride lipase activity
+GO:0016747	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0009007	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0016748	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0005388	9	GO:0005216	ion channel activity
+GO:0016749	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0016730	1	GO:0003824	catalytic activity
+GO:0005375	9	GO:0005216	ion channel activity
+GO:0004177	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0004121	4	GO:0016835	carbon-oxygen lyase activity
+GO:0046429	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0008392	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0015093	9	GO:0005216	ion channel activity
+GO:0003755	8	GO:0003916	DNA topoisomerase activity
+GO:0005315	9	GO:0005216	ion channel activity
+GO:0046555	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0070204	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0046570	4	GO:0016835	carbon-oxygen lyase activity
+GO:0015535	9	GO:0005216	ion channel activity
+GO:0046522	3	GO:0016301	kinase activity
+GO:0046527	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0004615	8	GO:0003916	DNA topoisomerase activity
+GO:0008381	9	GO:0005216	ion channel activity
+GO:0015086	9	GO:0005216	ion channel activity
+GO:0003730	16	GO:0003676	nucleic acid binding
+GO:0004634	4	GO:0016835	carbon-oxygen lyase activity
+GO:0008320	10	GO:0015075	ion transmembrane transporter activity
+GO:0016861	8	GO:0003916	DNA topoisomerase activity
+GO:0016869	8	GO:0003916	DNA topoisomerase activity
+GO:0015169	10	GO:0015075	ion transmembrane transporter activity
+GO:0061513	9	GO:0005216	ion channel activity
+GO:0008854	7	GO:0004806	triglyceride lipase activity
+GO:0016855	8	GO:0003916	DNA topoisomerase activity
+GO:0008998	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0030600	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0016881	8	GO:0003916	DNA topoisomerase activity
+GO:0008883	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0030604	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0016887	8	GO:0003916	DNA topoisomerase activity
+GO:0036430	3	GO:0016301	kinase activity
+GO:0036431	3	GO:0016301	kinase activity
+GO:0034335	8	GO:0003916	DNA topoisomerase activity
+GO:0008961	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0008821	7	GO:0004806	triglyceride lipase activity
+GO:0015662	10	GO:0015075	ion transmembrane transporter activity
+GO:0090563	10	GO:0015075	ion transmembrane transporter activity
+GO:0008963	3	GO:0016301	kinase activity
+GO:0008966	8	GO:0003916	DNA topoisomerase activity
+GO:0016829	1	GO:0003824	catalytic activity
+GO:0015112	10	GO:0015075	ion transmembrane transporter activity
+GO:0015113	10	GO:0015075	ion transmembrane transporter activity
+GO:0008955	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0003896	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0008982	10	GO:0015075	ion transmembrane transporter activity
+GO:0050242	3	GO:0016301	kinase activity
+GO:0016987	14	GO:0005198	structural molecule activity
+GO:0016830	1	GO:0003824	catalytic activity
+GO:0016831	4	GO:0016835	carbon-oxygen lyase activity
+GO:0008832	7	GO:0004806	triglyceride lipase activity
+GO:0070733	3	GO:0016301	kinase activity
+GO:0047334	3	GO:0016301	kinase activity
+GO:0008836	4	GO:0016835	carbon-oxygen lyase activity
+GO:0008839	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0051393	18	GO:0005178	integrin binding
+GO:0047963	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0047617	7	GO:0004806	triglyceride lipase activity
+GO:0033882	7	GO:0004806	triglyceride lipase activity
+GO:0019840	17	GO:0044877	protein-containing complex binding
+GO:0052815	7	GO:0004806	triglyceride lipase activity
+GO:0052816	7	GO:0004806	triglyceride lipase activity
+GO:0052817	7	GO:0004806	triglyceride lipase activity
+GO:0008188	11	GO:0099528	G protein-coupled neurotransmitter receptor activity
+GO:0004693	3	GO:0016301	kinase activity
+GO:0102991	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0016290	7	GO:0004806	triglyceride lipase activity
+GO:0042805	19	GO:0005515	protein binding
+GO:0035035	19	GO:0005515	protein binding
+GO:0051428	18	GO:0005178	integrin binding
+GO:0005080	18	GO:0005178	integrin binding
+GO:0016671	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0008316	14	GO:0005198	structural molecule activity
+GO:0005171	18	GO:0005178	integrin binding
+GO:0008745	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0004040	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0004447	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0047710	8	GO:0003916	DNA topoisomerase activity
+GO:0008310	7	GO:0004806	triglyceride lipase activity
+GO:0035251	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0030172	19	GO:0005515	protein binding
+GO:0003696	16	GO:0003676	nucleic acid binding
+GO:0004707	3	GO:0016301	kinase activity
+GO:0004099	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0035325	19	GO:0005515	protein binding
+GO:0050105	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0004769	8	GO:0003916	DNA topoisomerase activity
+GO:1990760	9	GO:0005216	ion channel activity
+GO:0022843	9	GO:0005216	ion channel activity
+GO:0005244	9	GO:0005216	ion channel activity
+GO:0051427	19	GO:0005515	protein binding
+GO:0008157	18	GO:0005178	integrin binding
+GO:0070008	7	GO:0004806	triglyceride lipase activity
+GO:0005034	12	GO:0004888	transmembrane signaling receptor activity
+GO:0042165	17	GO:0044877	protein-containing complex binding
+GO:0042166	15	GO:0005504	fatty acid binding
+GO:0003796	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0015385	9	GO:0005216	ion channel activity
+GO:0015386	9	GO:0005216	ion channel activity
+GO:0050253	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0004185	7	GO:0004806	triglyceride lipase activity
+GO:0008677	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0015464	11	GO:0099528	G protein-coupled neurotransmitter receptor activity
+GO:0046873	9	GO:0005216	ion channel activity
+GO:0003720	3	GO:0016301	kinase activity
+GO:0003721	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0015038	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0051424	15	GO:0005504	fatty acid binding
+GO:0008112	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0016805	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0001846	19	GO:0005515	protein binding
+GO:0005319	14	GO:0005198	structural molecule activity
+GO:0004032	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0008800	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0000993	18	GO:0005178	integrin binding
+GO:0032422	16	GO:0003676	nucleic acid binding
+GO:0000339	16	GO:0003676	nucleic acid binding
+GO:0004586	4	GO:0016835	carbon-oxygen lyase activity
+GO:0005412	9	GO:0005216	ion channel activity
+GO:0003854	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0005520	19	GO:0005515	protein binding
+GO:0001761	10	GO:0015075	ion transmembrane transporter activity
+GO:0008457	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0005518	17	GO:0044877	protein-containing complex binding
+GO:0031543	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0005544	15	GO:0005504	fatty acid binding
+GO:0031545	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0008476	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:1901363	17	GO:0044877	protein-containing complex binding
+GO:0015269	9	GO:0005216	ion channel activity
+GO:0015250	9	GO:0005216	ion channel activity
+GO:0070853	18	GO:0005178	integrin binding
+GO:0061630	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:1905131	10	GO:0015075	ion transmembrane transporter activity
+GO:0042973	7	GO:0004806	triglyceride lipase activity
+GO:0036137	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0070878	16	GO:0003676	nucleic acid binding
+GO:0015278	9	GO:0005216	ion channel activity
+GO:0008521	10	GO:0015075	ion transmembrane transporter activity
+GO:0005161	18	GO:0005178	integrin binding
+GO:0042806	15	GO:0005504	fatty acid binding
+GO:0004771	7	GO:0004806	triglyceride lipase activity
+GO:0015232	10	GO:0015075	ion transmembrane transporter activity
+GO:0000166	16	GO:0003676	nucleic acid binding
+GO:0008194	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0005118	19	GO:0005515	protein binding
+GO:0019905	19	GO:0005515	protein binding
+GO:0047407	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:1990226	19	GO:0005515	protein binding
+GO:0022857	10	GO:0015075	ion transmembrane transporter activity
+GO:0008017	18	GO:0005178	integrin binding
+GO:0008186	8	GO:0003916	DNA topoisomerase activity
+GO:0034046	16	GO:0003676	nucleic acid binding
+GO:0004709	3	GO:0016301	kinase activity
+GO:0008126	7	GO:0004806	triglyceride lipase activity
+GO:0008009	18	GO:0005178	integrin binding
+GO:0047035	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0097367	17	GO:0044877	protein-containing complex binding
+GO:0016627	1	GO:0003824	catalytic activity
+GO:0004993	11	GO:0099528	G protein-coupled neurotransmitter receptor activity
+GO:0000295	10	GO:0015075	ion transmembrane transporter activity
+GO:0070097	19	GO:0005515	protein binding
+GO:0004341	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0034632	10	GO:0015075	ion transmembrane transporter activity
+GO:0004962	11	GO:0099528	G protein-coupled neurotransmitter receptor activity
+GO:0004303	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0099583	11	GO:0099528	G protein-coupled neurotransmitter receptor activity
+GO:0016608	18	GO:0005178	integrin binding
+GO:0099589	12	GO:0004888	transmembrane signaling receptor activity
+GO:0003689	8	GO:0003916	DNA topoisomerase activity
+GO:0009931	3	GO:0016301	kinase activity
+GO:0004972	9	GO:0005216	ion channel activity
+GO:0003676	16	GO:0003676	nucleic acid binding
+GO:0042124	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0106310	3	GO:0016301	kinase activity
+GO:0102294	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:1990715	16	GO:0003676	nucleic acid binding
+GO:0099530	11	GO:0099528	G protein-coupled neurotransmitter receptor activity
+GO:0016212	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0047256	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0032036	18	GO:0005178	integrin binding
+GO:0004567	7	GO:0004806	triglyceride lipase activity
+GO:0031768	18	GO:0005178	integrin binding
+GO:0010857	3	GO:0016301	kinase activity
+GO:0071837	19	GO:0005515	protein binding
+GO:0017025	18	GO:0005178	integrin binding
+GO:0004062	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0035173	3	GO:0016301	kinase activity
+GO:0046933	9	GO:0005216	ion channel activity
+GO:0048038	17	GO:0044877	protein-containing complex binding
+GO:1901265	16	GO:0003676	nucleic acid binding
+GO:0004027	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0031369	19	GO:0005515	protein binding
+GO:0045295	19	GO:0005515	protein binding
+GO:0045296	19	GO:0005515	protein binding
+GO:0099604	9	GO:0005216	ion channel activity
+GO:0038085	19	GO:0005515	protein binding
+GO:0043015	18	GO:0005178	integrin binding
+GO:0004656	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0019798	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0097159	17	GO:0044877	protein-containing complex binding
+GO:0043183	18	GO:0005178	integrin binding
+GO:0005346	10	GO:0015075	ion transmembrane transporter activity
+GO:0004674	3	GO:0016301	kinase activity
+GO:0004622	7	GO:0004806	triglyceride lipase activity
+GO:0003724	8	GO:0003916	DNA topoisomerase activity
+GO:0003714	14	GO:0005198	structural molecule activity
+GO:0043130	19	GO:0005515	protein binding
+GO:0004298	7	GO:0004806	triglyceride lipase activity
+GO:0016888	7	GO:0004806	triglyceride lipase activity
+GO:0000979	16	GO:0003676	nucleic acid binding
+GO:0036094	17	GO:0044877	protein-containing complex binding
+GO:0097602	19	GO:0005515	protein binding
+GO:0030283	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0033677	8	GO:0003916	DNA topoisomerase activity
+GO:0008568	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0032934	15	GO:0005504	fatty acid binding
+GO:0016641	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0070513	19	GO:0005515	protein binding
+GO:0031625	18	GO:0005178	integrin binding
+GO:0044547	19	GO:0005515	protein binding
+GO:0034713	18	GO:0005178	integrin binding
+GO:0005114	18	GO:0005178	integrin binding
+GO:0051139	9	GO:0005216	ion channel activity
+GO:0071889	19	GO:0005515	protein binding
+GO:0061980	16	GO:0003676	nucleic acid binding
+GO:0035198	16	GO:0003676	nucleic acid binding
+GO:0003729	16	GO:0003676	nucleic acid binding
+GO:0042802	19	GO:0005515	protein binding
+GO:0030599	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0030170	15	GO:0005504	fatty acid binding
+GO:0045330	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0015368	9	GO:0005216	ion channel activity
+GO:0004571	7	GO:0004806	triglyceride lipase activity
+GO:0019842	17	GO:0044877	protein-containing complex binding
+GO:1990825	16	GO:0003676	nucleic acid binding
+GO:0050840	17	GO:0044877	protein-containing complex binding
+GO:0070279	16	GO:0003676	nucleic acid binding
+GO:0043167	17	GO:0044877	protein-containing complex binding
+GO:0008046	12	GO:0004888	transmembrane signaling receptor activity
+GO:0000175	7	GO:0004806	triglyceride lipase activity
+GO:0003697	16	GO:0003676	nucleic acid binding
+GO:0016248	14	GO:0005198	structural molecule activity
+GO:0017022	19	GO:0005515	protein binding
+GO:0003779	19	GO:0005515	protein binding
+GO:0050700	19	GO:0005515	protein binding
+GO:0015174	10	GO:0015075	ion transmembrane transporter activity
+GO:0030674	14	GO:0005198	structural molecule activity
+GO:0004553	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0097747	3	GO:0016301	kinase activity
+GO:0010485	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0001664	19	GO:0005515	protein binding
+GO:0051010	18	GO:0005178	integrin binding
+GO:0140096	1	GO:0003824	catalytic activity
+GO:0016647	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0034062	3	GO:0016301	kinase activity
+GO:0061659	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0016709	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0003746	16	GO:0003676	nucleic acid binding
+GO:0042393	19	GO:0005515	protein binding
+GO:0016859	1	GO:0003824	catalytic activity
+GO:0017080	14	GO:0005198	structural molecule activity
+GO:0048306	19	GO:0005515	protein binding
+GO:0004842	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0043495	14	GO:0005198	structural molecule activity
+GO:0004402	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0030151	15	GO:0005504	fatty acid binding
+GO:0016783	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0070330	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0005215	14	GO:0005198	structural molecule activity
+GO:0008170	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0010844	16	GO:0003676	nucleic acid binding
+GO:0106332	7	GO:0004806	triglyceride lipase activity
+GO:0097110	19	GO:0005515	protein binding
+GO:0018024	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0019825	17	GO:0044877	protein-containing complex binding
+GO:0017108	7	GO:0004806	triglyceride lipase activity
+GO:0042043	19	GO:0005515	protein binding
+GO:0004708	3	GO:0016301	kinase activity
+GO:0015556	10	GO:0015075	ion transmembrane transporter activity
+GO:0140296	19	GO:0005515	protein binding
+GO:0001091	18	GO:0005178	integrin binding
+GO:0001098	19	GO:0005515	protein binding
+GO:0001099	19	GO:0005515	protein binding
+GO:0015141	10	GO:0015075	ion transmembrane transporter activity
+GO:0015020	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0003725	16	GO:0003676	nucleic acid binding
+GO:0062037	16	GO:0003676	nucleic acid binding
+GO:0004064	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0019001	15	GO:0005504	fatty acid binding
+GO:0032561	15	GO:0005504	fatty acid binding
+GO:0015184	10	GO:0015075	ion transmembrane transporter activity
+GO:0001165	16	GO:0003676	nucleic acid binding
+GO:0001181	14	GO:0005198	structural molecule activity
+GO:0030882	17	GO:0044877	protein-containing complex binding
+GO:0032574	8	GO:0003916	DNA topoisomerase activity
+GO:0004336	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0030957	18	GO:0005178	integrin binding
+GO:0004415	7	GO:0004806	triglyceride lipase activity
+GO:0004448	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0043559	18	GO:0005178	integrin binding
+GO:0045130	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0046923	15	GO:0005504	fatty acid binding
+GO:0051371	18	GO:0005178	integrin binding
+GO:0016778	3	GO:0016301	kinase activity
+GO:0046557	7	GO:0004806	triglyceride lipase activity
+GO:1905573	15	GO:0005504	fatty acid binding
+GO:1905574	15	GO:0005504	fatty acid binding
+GO:1905575	15	GO:0005504	fatty acid binding
+GO:1905576	15	GO:0005504	fatty acid binding
+GO:1905577	15	GO:0005504	fatty acid binding
+GO:0043531	15	GO:0005504	fatty acid binding
+GO:0004623	7	GO:0004806	triglyceride lipase activity
+GO:0004706	3	GO:0016301	kinase activity
+GO:0031996	19	GO:0005515	protein binding
+GO:0044389	19	GO:0005515	protein binding
+GO:0030371	14	GO:0005198	structural molecule activity
+GO:0004467	8	GO:0003916	DNA topoisomerase activity
+GO:0030544	19	GO:0005515	protein binding
+GO:0051879	19	GO:0005515	protein binding
+GO:0016298	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0004620	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0035004	3	GO:0016301	kinase activity
+GO:0016891	7	GO:0004806	triglyceride lipase activity
+GO:0005372	10	GO:0015075	ion transmembrane transporter activity
+GO:0022824	9	GO:0005216	ion channel activity
+GO:0022835	9	GO:0005216	ion channel activity
+GO:0072354	3	GO:0016301	kinase activity
+GO:0000823	3	GO:0016301	kinase activity
+GO:0000824	3	GO:0016301	kinase activity
+GO:0008440	3	GO:0016301	kinase activity
+GO:0030507	19	GO:0005515	protein binding
+GO:0097108	19	GO:0005515	protein binding
+GO:0010436	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0005007	3	GO:0016301	kinase activity
+GO:0001540	15	GO:0005504	fatty acid binding
+GO:0042123	1	GO:0003824	catalytic activity
+GO:0061750	7	GO:0004806	triglyceride lipase activity
+GO:0005178	18	GO:0005178	integrin binding
+GO:0001637	11	GO:0099528	G protein-coupled neurotransmitter receptor activity
+GO:0005113	19	GO:0005515	protein binding
+GO:0003834	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0048531	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0120160	17	GO:0044877	protein-containing complex binding
+GO:0004517	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0030332	19	GO:0005515	protein binding
+GO:0097472	3	GO:0016301	kinase activity
+GO:0004312	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0097604	9	GO:0005216	ion channel activity
+GO:0008079	16	GO:0003676	nucleic acid binding
+GO:0004111	3	GO:0016301	kinase activity
+GO:0004054	3	GO:0016301	kinase activity
+GO:0005523	19	GO:0005515	protein binding
+GO:0001653	12	GO:0004888	transmembrane signaling receptor activity
+GO:0061507	15	GO:0005504	fatty acid binding
+GO:0042781	7	GO:0004806	triglyceride lipase activity
+GO:0016741	1	GO:0003824	catalytic activity
+GO:0008168	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0008093	14	GO:0005198	structural molecule activity
+GO:0034236	18	GO:0005178	integrin binding
+GO:0030552	15	GO:0005504	fatty acid binding
+GO:0022836	9	GO:0005216	ion channel activity
+GO:0022839	9	GO:0005216	ion channel activity
+GO:0003723	16	GO:0003676	nucleic acid binding
+GO:0003899	3	GO:0016301	kinase activity
+GO:0004026	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0034318	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0140343	14	GO:0005198	structural molecule activity
+GO:0032050	19	GO:0005515	protein binding
+GO:0015929	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0017110	8	GO:0003916	DNA topoisomerase activity
+GO:0001537	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0003682	17	GO:0044877	protein-containing complex binding
+GO:0030060	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0004797	3	GO:0016301	kinase activity
+GO:0004365	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0043236	19	GO:0005515	protein binding
+GO:0039706	19	GO:0005515	protein binding
+GO:0001968	19	GO:0005515	protein binding
+GO:0097603	9	GO:0005216	ion channel activity
+GO:0050661	16	GO:0003676	nucleic acid binding
+GO:0008508	9	GO:0005216	ion channel activity
+GO:0005222	9	GO:0005216	ion channel activity
+GO:0005223	9	GO:0005216	ion channel activity
+GO:0086080	18	GO:0005178	integrin binding
+GO:0042169	19	GO:0005515	protein binding
+GO:0001601	11	GO:0099528	G protein-coupled neurotransmitter receptor activity
+GO:0005337	10	GO:0015075	ion transmembrane transporter activity
+GO:1990380	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0015343	10	GO:0015075	ion transmembrane transporter activity
+GO:0030553	15	GO:0005504	fatty acid binding
+GO:0016835	4	GO:0016835	carbon-oxygen lyase activity
+GO:0070411	19	GO:0005515	protein binding
+GO:0008525	14	GO:0005198	structural molecule activity
+GO:0004955	11	GO:0099528	G protein-coupled neurotransmitter receptor activity
+GO:0003785	18	GO:0005178	integrin binding
+GO:0004170	8	GO:0003916	DNA topoisomerase activity
+GO:0016167	11	GO:0099528	G protein-coupled neurotransmitter receptor activity
+GO:0035438	15	GO:0005504	fatty acid binding
+GO:0015666	7	GO:0004806	triglyceride lipase activity
+GO:0008227	11	GO:0099528	G protein-coupled neurotransmitter receptor activity
+GO:0015205	10	GO:0015075	ion transmembrane transporter activity
+GO:0005345	10	GO:0015075	ion transmembrane transporter activity
+GO:0005338	10	GO:0015075	ion transmembrane transporter activity
+GO:0009036	7	GO:0004806	triglyceride lipase activity
+GO:0005459	10	GO:0015075	ion transmembrane transporter activity
+GO:0033149	19	GO:0005515	protein binding
+GO:0061733	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0042329	14	GO:0005198	structural molecule activity
+GO:0005124	19	GO:0005515	protein binding
+GO:0001591	11	GO:0099528	G protein-coupled neurotransmitter receptor activity
+GO:0015165	10	GO:0015075	ion transmembrane transporter activity
+GO:0015166	10	GO:0015075	ion transmembrane transporter activity
+GO:0052890	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0140297	19	GO:0005515	protein binding
+GO:0003995	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0031491	17	GO:0044877	protein-containing complex binding
+GO:0031717	18	GO:0005178	integrin binding
+GO:0031718	18	GO:0005178	integrin binding
+GO:0016614	1	GO:0003824	catalytic activity
+GO:0008327	16	GO:0003676	nucleic acid binding
+GO:0015018	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0019137	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0008907	1	GO:0003824	catalytic activity
+GO:0102799	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0009008	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0009009	8	GO:0003916	DNA topoisomerase activity
+GO:0015294	9	GO:0005216	ion channel activity
+GO:0035673	10	GO:0015075	ion transmembrane transporter activity
+GO:0015407	10	GO:0015075	ion transmembrane transporter activity
+GO:0016836	4	GO:0016835	carbon-oxygen lyase activity
+GO:0000150	1	GO:0003824	catalytic activity
+GO:0050897	15	GO:0005504	fatty acid binding
+GO:0015116	10	GO:0015075	ion transmembrane transporter activity
+GO:0015146	10	GO:0015075	ion transmembrane transporter activity
+GO:0003918	8	GO:0003916	DNA topoisomerase activity
+GO:0003684	16	GO:0003676	nucleic acid binding
+GO:0008137	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0004414	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0016667	1	GO:0003824	catalytic activity
+GO:0016668	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0016651	1	GO:0003824	catalytic activity
+GO:0016791	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0016301	3	GO:0016301	kinase activity
+GO:0043225	10	GO:0015075	ion transmembrane transporter activity
+GO:0016628	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0042578	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0016780	3	GO:0016301	kinase activity
+GO:0016772	3	GO:0016301	kinase activity
+GO:0016776	3	GO:0016301	kinase activity
+GO:0016743	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0019843	16	GO:0003676	nucleic acid binding
+GO:0043021	17	GO:0044877	protein-containing complex binding
+GO:0043024	15	GO:0005504	fatty acid binding
+GO:0016435	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0016895	7	GO:0004806	triglyceride lipase activity
+GO:1904680	10	GO:0015075	ion transmembrane transporter activity
+GO:0004527	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0004529	7	GO:0004806	triglyceride lipase activity
+GO:0016874	1	GO:0003824	catalytic activity
+GO:0004518	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0004540	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0005548	14	GO:0005198	structural molecule activity
+GO:0016701	1	GO:0003824	catalytic activity
+GO:0016702	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0003680	16	GO:0003676	nucleic acid binding
+GO:0102196	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0016491	1	GO:0003824	catalytic activity
+GO:0047022	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0016620	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0070524	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0070628	17	GO:0044877	protein-containing complex binding
+GO:0031593	19	GO:0005515	protein binding
+GO:0004992	11	GO:0099528	G protein-coupled neurotransmitter receptor activity
+GO:0015103	10	GO:0015075	ion transmembrane transporter activity
+GO:0016624	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0016638	1	GO:0003824	catalytic activity
+GO:0005432	9	GO:0005216	ion channel activity
+GO:0016853	1	GO:0003824	catalytic activity
+GO:0015291	10	GO:0015075	ion transmembrane transporter activity
+GO:0015297	9	GO:0005216	ion channel activity
+GO:0046332	19	GO:0005515	protein binding
+GO:0031492	16	GO:0003676	nucleic acid binding
+GO:0033218	17	GO:0044877	protein-containing complex binding
+GO:0050699	19	GO:0005515	protein binding
+GO:0048495	19	GO:0005515	protein binding
+GO:0016634	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0004953	11	GO:0099528	G protein-coupled neurotransmitter receptor activity
+GO:0004954	11	GO:0099528	G protein-coupled neurotransmitter receptor activity
+GO:0016615	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0030971	18	GO:0005178	integrin binding
+GO:0016769	1	GO:0003824	catalytic activity
+GO:0070273	15	GO:0005504	fatty acid binding
+GO:0102336	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0008483	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0005381	9	GO:0005216	ion channel activity
+GO:0042056	18	GO:0005178	integrin binding
+GO:0004311	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0051378	16	GO:0003676	nucleic acid binding
+GO:0005254	9	GO:0005216	ion channel activity
+GO:0016832	4	GO:0016835	carbon-oxygen lyase activity
+GO:0005351	9	GO:0005216	ion channel activity
+GO:0005234	9	GO:0005216	ion channel activity
+GO:0016597	15	GO:0005504	fatty acid binding
+GO:0015179	10	GO:0015075	ion transmembrane transporter activity
+GO:0099095	9	GO:0005216	ion channel activity
+GO:0015295	9	GO:0005216	ion channel activity
+GO:0016661	1	GO:0003824	catalytic activity
+GO:0016917	12	GO:0004888	transmembrane signaling receptor activity
+GO:0016903	1	GO:0003824	catalytic activity
+GO:0016775	3	GO:0016301	kinase activity
+GO:0097001	15	GO:0005504	fatty acid binding
+GO:0050660	15	GO:0005504	fatty acid binding
+GO:0140102	1	GO:0003824	catalytic activity
+GO:0140311	14	GO:0005198	structural molecule activity
+GO:0008519	9	GO:0005216	ion channel activity
+GO:0042379	18	GO:0005178	integrin binding
+GO:0015079	9	GO:0005216	ion channel activity
+GO:0004029	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0004030	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0120013	14	GO:0005198	structural molecule activity
+GO:0043878	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0003997	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0019862	15	GO:0005504	fatty acid binding
+GO:0000146	8	GO:0003916	DNA topoisomerase activity
+GO:0070538	15	GO:0005504	fatty acid binding
+GO:0001092	18	GO:0005178	integrin binding
+GO:0035033	14	GO:0005198	structural molecule activity
+GO:0046906	16	GO:0003676	nucleic acid binding
+GO:0005324	14	GO:0005198	structural molecule activity
+GO:0003774	8	GO:0003916	DNA topoisomerase activity
+GO:0003711	14	GO:0005198	structural molecule activity
+GO:0034987	19	GO:0005515	protein binding
+GO:0032182	19	GO:0005515	protein binding
+GO:0032184	18	GO:0005178	integrin binding
+GO:0015926	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0003861	4	GO:0016835	carbon-oxygen lyase activity
+GO:0003862	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0015611	10	GO:0015075	ion transmembrane transporter activity
+GO:0015614	10	GO:0015075	ion transmembrane transporter activity
+GO:0047304	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0008937	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0008460	4	GO:0016835	carbon-oxygen lyase activity
+GO:0043211	10	GO:0015075	ion transmembrane transporter activity
+GO:0034458	8	GO:0003916	DNA topoisomerase activity
+GO:0003841	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0031402	15	GO:0005504	fatty acid binding
+GO:0003844	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0003987	8	GO:0003916	DNA topoisomerase activity
+GO:0003989	8	GO:0003916	DNA topoisomerase activity
+GO:0004792	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0102481	7	GO:0004806	triglyceride lipase activity
+GO:0016433	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0004781	3	GO:0016301	kinase activity
+GO:0043754	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0034057	16	GO:0003676	nucleic acid binding
+GO:0015203	10	GO:0015075	ion transmembrane transporter activity
+GO:0000140	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0050385	4	GO:0016835	carbon-oxygen lyase activity
+GO:0008121	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0008113	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0050313	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0005298	9	GO:0005216	ion channel activity
+GO:0016682	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0000104	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0004385	3	GO:0016301	kinase activity
+GO:0016149	16	GO:0003676	nucleic acid binding
+GO:0004372	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0033721	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0004324	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0043891	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0070401	15	GO:0005504	fatty acid binding
+GO:0033744	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0016635	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0004814	8	GO:0003916	DNA topoisomerase activity
+GO:0050497	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0004830	8	GO:0003916	DNA topoisomerase activity
+GO:0043811	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0070040	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0050483	7	GO:0004806	triglyceride lipase activity
+GO:0009486	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0004450	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0033856	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0004427	8	GO:0003916	DNA topoisomerase activity
+GO:0016208	15	GO:0005504	fatty acid binding
+GO:0050194	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0004514	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0004400	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0004534	7	GO:0004806	triglyceride lipase activity
+GO:0009014	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0004075	8	GO:0003916	DNA topoisomerase activity
+GO:0004165	8	GO:0003916	DNA topoisomerase activity
+GO:0004151	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0102752	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0004152	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0016714	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0002935	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0004176	8	GO:0003916	DNA topoisomerase activity
+GO:0004129	9	GO:0005216	ion channel activity
+GO:0018454	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0015408	9	GO:0005216	ion channel activity
+GO:0004148	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0004149	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0051920	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0004642	8	GO:0003916	DNA topoisomerase activity
+GO:0003747	16	GO:0003676	nucleic acid binding
+GO:0015035	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0016822	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0016823	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0071111	7	GO:0004806	triglyceride lipase activity
+GO:0016837	4	GO:0016835	carbon-oxygen lyase activity
+GO:0140299	14	GO:0005198	structural molecule activity
+GO:0051432	18	GO:0005178	integrin binding
+GO:0051434	18	GO:0005178	integrin binding
+GO:0008199	15	GO:0005504	fatty acid binding
+GO:0004672	3	GO:0016301	kinase activity
+GO:0051117	19	GO:0005515	protein binding
+GO:0004445	7	GO:0004806	triglyceride lipase activity
+GO:0052658	7	GO:0004806	triglyceride lipase activity
+GO:0052659	7	GO:0004806	triglyceride lipase activity
+GO:0004558	7	GO:0004806	triglyceride lipase activity
+GO:0000400	16	GO:0003676	nucleic acid binding
+GO:0099528	11	GO:0099528	G protein-coupled neurotransmitter receptor activity
+GO:0070003	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0016263	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0016907	11	GO:0099528	G protein-coupled neurotransmitter receptor activity
+GO:0008242	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0035276	15	GO:0005504	fatty acid binding
+GO:0102338	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0008499	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0050780	18	GO:0005178	integrin binding
+GO:0016758	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0015175	10	GO:0015075	ion transmembrane transporter activity
+GO:0008233	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0005001	7	GO:0004806	triglyceride lipase activity
+GO:0051540	17	GO:0044877	protein-containing complex binding
+GO:0051536	17	GO:0044877	protein-containing complex binding
+GO:0004683	3	GO:0016301	kinase activity
+GO:0047676	8	GO:0003916	DNA topoisomerase activity
+GO:0009882	12	GO:0004888	transmembrane signaling receptor activity
+GO:0003885	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0004383	4	GO:0016835	carbon-oxygen lyase activity
+GO:0031957	8	GO:0003916	DNA topoisomerase activity
+GO:0016985	7	GO:0004806	triglyceride lipase activity
+GO:0004521	7	GO:0004806	triglyceride lipase activity
+GO:0000246	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0004948	11	GO:0099528	G protein-coupled neurotransmitter receptor activity
+GO:0001888	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0002046	19	GO:0005515	protein binding
+GO:0015501	9	GO:0005216	ion channel activity
+GO:0042887	10	GO:0015075	ion transmembrane transporter activity
+GO:0048027	16	GO:0003676	nucleic acid binding
+GO:0022832	9	GO:0005216	ion channel activity
+GO:0045182	14	GO:0005198	structural molecule activity
+GO:0090079	16	GO:0003676	nucleic acid binding
+GO:0008296	7	GO:0004806	triglyceride lipase activity
+GO:0031404	15	GO:0005504	fatty acid binding
+GO:0031409	17	GO:0044877	protein-containing complex binding
+GO:0015322	10	GO:0015075	ion transmembrane transporter activity
+GO:0035650	17	GO:0044877	protein-containing complex binding
+GO:0005427	10	GO:0015075	ion transmembrane transporter activity
+GO:0001882	16	GO:0003676	nucleic acid binding
+GO:0016843	4	GO:0016835	carbon-oxygen lyase activity
+GO:0016844	4	GO:0016835	carbon-oxygen lyase activity
+GO:0016846	1	GO:0003824	catalytic activity
+GO:0046922	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0004136	3	GO:0016301	kinase activity
+GO:0004500	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0016782	1	GO:0003824	catalytic activity
+GO:0140030	19	GO:0005515	protein binding
+GO:0016854	1	GO:0003824	catalytic activity
+GO:0015215	10	GO:0015075	ion transmembrane transporter activity
+GO:0005275	10	GO:0015075	ion transmembrane transporter activity
+GO:0099122	18	GO:0005178	integrin binding
+GO:0070063	19	GO:0005515	protein binding
+GO:0043175	18	GO:0005178	integrin binding
+GO:0042054	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0003727	16	GO:0003676	nucleic acid binding
+GO:0032183	19	GO:0005515	protein binding
+GO:0003712	14	GO:0005198	structural molecule activity
+GO:0008134	19	GO:0005515	protein binding
+GO:0140110	14	GO:0005198	structural molecule activity
+GO:0061629	18	GO:0005178	integrin binding
+GO:0140313	14	GO:0005198	structural molecule activity
+GO:1990782	18	GO:0005178	integrin binding
+GO:0050528	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0050480	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0000156	14	GO:0005198	structural molecule activity
+GO:0035639	15	GO:0005504	fatty acid binding
+GO:0004673	3	GO:0016301	kinase activity
+GO:0003988	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0050560	8	GO:0003916	DNA topoisomerase activity
+GO:0016755	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0016646	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0004815	8	GO:0003916	DNA topoisomerase activity
+GO:0016746	1	GO:0003824	catalytic activity
+GO:0047134	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0016810	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0070403	15	GO:0005504	fatty acid binding
+GO:0008709	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0004348	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0004602	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0004407	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0004198	7	GO:0004806	triglyceride lipase activity
+GO:0033558	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0016899	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0004691	3	GO:0016301	kinase activity
+GO:0004679	3	GO:0016301	kinase activity
+GO:0038062	3	GO:0016301	kinase activity
+GO:0038064	12	GO:0004888	transmembrane signaling receptor activity
+GO:0005516	19	GO:0005515	protein binding
+GO:1905394	17	GO:0044877	protein-containing complex binding
+GO:0031995	18	GO:0005178	integrin binding
+GO:0005216	9	GO:0005216	ion channel activity
+GO:0001972	15	GO:0005504	fatty acid binding
+GO:0042974	18	GO:0005178	integrin binding
+GO:0004576	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0004579	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0030368	11	GO:0099528	G protein-coupled neurotransmitter receptor activity
+GO:0034246	14	GO:0005198	structural molecule activity
+GO:0005165	18	GO:0005178	integrin binding
+GO:0015190	10	GO:0015075	ion transmembrane transporter activity
+GO:0004300	4	GO:0016835	carbon-oxygen lyase activity
+GO:0008169	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0008649	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0004659	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0008474	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0061797	9	GO:0005216	ion channel activity
+GO:0008131	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0032559	15	GO:0005504	fatty acid binding
+GO:0045028	11	GO:0099528	G protein-coupled neurotransmitter receptor activity
+GO:0010340	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0004766	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0042888	9	GO:0005216	ion channel activity
+GO:0016996	7	GO:0004806	triglyceride lipase activity
+GO:0031419	16	GO:0003676	nucleic acid binding
+GO:0008960	3	GO:0016301	kinase activity
+GO:0008094	8	GO:0003916	DNA topoisomerase activity
+GO:0051998	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0015616	8	GO:0003916	DNA topoisomerase activity
+GO:0008081	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0004144	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0003846	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0015412	10	GO:0015075	ion transmembrane transporter activity
+GO:0031683	17	GO:0044877	protein-containing complex binding
+GO:0016436	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0098599	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0005253	9	GO:0005216	ion channel activity
+GO:0016670	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0003847	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:1990756	14	GO:0005198	structural molecule activity
+GO:0140571	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0019903	18	GO:0005178	integrin binding
+GO:0035804	14	GO:0005198	structural molecule activity
+GO:0004690	3	GO:0016301	kinase activity
+GO:0044548	19	GO:0005515	protein binding
+GO:0032190	19	GO:0005515	protein binding
+GO:0005021	3	GO:0016301	kinase activity
+GO:0003743	16	GO:0003676	nucleic acid binding
+GO:0001010	18	GO:0005178	integrin binding
+GO:0001002	16	GO:0003676	nucleic acid binding
+GO:0080084	16	GO:0003676	nucleic acid binding
+GO:0015925	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0005328	9	GO:0005216	ion channel activity
+GO:0005277	10	GO:0015075	ion transmembrane transporter activity
+GO:0003857	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0004532	7	GO:0004806	triglyceride lipase activity
+GO:0016896	7	GO:0004806	triglyceride lipase activity
+GO:0004499	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0047760	8	GO:0003916	DNA topoisomerase activity
+GO:0004790	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0030748	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0102707	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0001042	18	GO:0005178	integrin binding
+GO:0004890	11	GO:0099528	G protein-coupled neurotransmitter receptor activity
+GO:0051213	1	GO:0003824	catalytic activity
+GO:0022851	9	GO:0005216	ion channel activity
+GO:0008308	9	GO:0005216	ion channel activity
+GO:0043199	15	GO:0005504	fatty acid binding
+GO:0070325	19	GO:0005515	protein binding
+GO:1990525	19	GO:0005515	protein binding
+GO:0016706	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0044325	19	GO:0005515	protein binding
+GO:0051731	3	GO:0016301	kinase activity
+GO:0017075	18	GO:0005178	integrin binding
+GO:0016803	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0005543	17	GO:0044877	protein-containing complex binding
+GO:0005119	18	GO:0005178	integrin binding
+GO:0031423	19	GO:0005515	protein binding
+GO:0046625	17	GO:0044877	protein-containing complex binding
+GO:0008469	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0003810	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0016084	18	GO:0005178	integrin binding
+GO:0004739	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0031634	16	GO:0003676	nucleic acid binding
+GO:0016034	8	GO:0003916	DNA topoisomerase activity
+GO:0008179	19	GO:0005515	protein binding
+GO:0008613	18	GO:0005178	integrin binding
+GO:0046789	17	GO:0044877	protein-containing complex binding
+GO:0004831	8	GO:0003916	DNA topoisomerase activity
+GO:0033897	7	GO:0004806	triglyceride lipase activity
+GO:0016273	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0016274	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0019107	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0017064	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0004557	7	GO:0004806	triglyceride lipase activity
+GO:0046812	17	GO:0044877	protein-containing complex binding
+GO:0031749	18	GO:0005178	integrin binding
+GO:0004028	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0016728	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0004013	7	GO:0004806	triglyceride lipase activity
+GO:0045294	19	GO:0005515	protein binding
+GO:0031386	14	GO:0005198	structural molecule activity
+GO:0004658	8	GO:0003916	DNA topoisomerase activity
+GO:0008376	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0035241	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0035242	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0005041	14	GO:0005198	structural molecule activity
+GO:0004719	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0061631	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0102953	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0003829	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0042943	10	GO:0015075	ion transmembrane transporter activity
+GO:0031624	18	GO:0005178	integrin binding
+GO:0103068	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0036374	7	GO:0004806	triglyceride lipase activity
+GO:0048030	15	GO:0005504	fatty acid binding
+GO:0015473	9	GO:0005216	ion channel activity
+GO:0008391	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0019213	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0003707	12	GO:0004888	transmembrane signaling receptor activity
+GO:0016493	11	GO:0099528	G protein-coupled neurotransmitter receptor activity
+GO:0015226	10	GO:0015075	ion transmembrane transporter activity
+GO:0017147	19	GO:0005515	protein binding
+GO:0070696	18	GO:0005178	integrin binding
+GO:0017002	3	GO:0016301	kinase activity
+GO:1904855	17	GO:0044877	protein-containing complex binding
+GO:1990247	16	GO:0003676	nucleic acid binding
+GO:0097269	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0008509	10	GO:0015075	ion transmembrane transporter activity
+GO:0019911	14	GO:0005198	structural molecule activity
+GO:0050681	18	GO:0005178	integrin binding
+GO:0002039	19	GO:0005515	protein binding
+GO:0102354	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0033612	19	GO:0005515	protein binding
+GO:0032090	19	GO:0005515	protein binding
+GO:0047372	7	GO:0004806	triglyceride lipase activity
+GO:0043395	18	GO:0005178	integrin binding
+GO:0046915	9	GO:0005216	ion channel activity
+GO:0072320	9	GO:0005216	ion channel activity
+GO:1901474	10	GO:0015075	ion transmembrane transporter activity
+GO:0005217	9	GO:0005216	ion channel activity
+GO:0008502	11	GO:0099528	G protein-coupled neurotransmitter receptor activity
+GO:0036313	18	GO:0005178	integrin binding
+GO:0008241	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0034185	19	GO:0005515	protein binding
+GO:0034338	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0004791	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0000215	3	GO:0016301	kinase activity
+GO:0016889	7	GO:0004806	triglyceride lipase activity
+GO:0033961	7	GO:0004806	triglyceride lipase activity
+GO:0016801	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0043237	18	GO:0005178	integrin binding
+GO:0106330	7	GO:0004806	triglyceride lipase activity
+GO:0106331	7	GO:0004806	triglyceride lipase activity
+GO:0001681	7	GO:0004806	triglyceride lipase activity
+GO:0008379	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0001222	18	GO:0005178	integrin binding
+GO:0051787	19	GO:0005515	protein binding
+GO:0005342	10	GO:0015075	ion transmembrane transporter activity
+GO:0015137	10	GO:0015075	ion transmembrane transporter activity
+GO:0050833	10	GO:0015075	ion transmembrane transporter activity
+GO:0018455	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0015098	10	GO:0015075	ion transmembrane transporter activity
+GO:0044824	7	GO:0004806	triglyceride lipase activity
+GO:0035049	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0019899	19	GO:0005515	protein binding
+GO:0019010	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0071916	10	GO:0015075	ion transmembrane transporter activity
+GO:0042937	10	GO:0015075	ion transmembrane transporter activity
+GO:0015108	10	GO:0015075	ion transmembrane transporter activity
+GO:0061778	9	GO:0005216	ion channel activity
+GO:0005229	9	GO:0005216	ion channel activity
+GO:0034930	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0046875	19	GO:0005515	protein binding
+GO:0016289	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0004971	9	GO:0005216	ion channel activity
+GO:1990430	19	GO:0005515	protein binding
+GO:0140103	1	GO:0003824	catalytic activity
+GO:0019136	3	GO:0016301	kinase activity
+GO:0004675	3	GO:0016301	kinase activity
+GO:0009019	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0015591	10	GO:0015075	ion transmembrane transporter activity
+GO:0009927	3	GO:0016301	kinase activity
+GO:0047388	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0016901	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0016793	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0102130	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0008444	3	GO:0016301	kinase activity
+GO:0098809	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0071424	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0043828	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0008408	7	GO:0004806	triglyceride lipase activity
+GO:0052749	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0043810	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0019159	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0009032	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0019134	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0016708	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0000049	16	GO:0003676	nucleic acid binding
+GO:0000036	15	GO:0005504	fatty acid binding
+GO:0004396	3	GO:0016301	kinase activity
+GO:0070548	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0016898	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0052855	4	GO:0016835	carbon-oxygen lyase activity
+GO:0004360	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0016868	8	GO:0003916	DNA topoisomerase activity
+GO:0016851	8	GO:0003916	DNA topoisomerase activity
+GO:0015647	10	GO:0015075	ion transmembrane transporter activity
+GO:0004321	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0004314	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0004340	3	GO:0016301	kinase activity
+GO:0016827	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0004333	4	GO:0016835	carbon-oxygen lyase activity
+GO:0036383	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0018492	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0004645	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0008990	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0003999	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0070335	15	GO:0005504	fatty acid binding
+GO:0008964	4	GO:0016835	carbon-oxygen lyase activity
+GO:0008965	3	GO:0016301	kinase activity
+GO:0008959	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0019200	3	GO:0016301	kinase activity
+GO:0015423	10	GO:0015075	ion transmembrane transporter activity
+GO:0008984	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0008976	3	GO:0016301	kinase activity
+GO:0102007	7	GO:0004806	triglyceride lipase activity
+GO:0015419	10	GO:0015075	ion transmembrane transporter activity
+GO:0008979	8	GO:0003916	DNA topoisomerase activity
+GO:0008922	8	GO:0003916	DNA topoisomerase activity
+GO:0008927	4	GO:0016835	carbon-oxygen lyase activity
+GO:0003977	3	GO:0016301	kinase activity
+GO:0140414	14	GO:0005198	structural molecule activity
+GO:0008914	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0008915	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:1903981	15	GO:0005504	fatty acid binding
+GO:0103117	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0003910	8	GO:0003916	DNA topoisomerase activity
+GO:0033990	4	GO:0016835	carbon-oxygen lyase activity
+GO:0004475	3	GO:0016301	kinase activity
+GO:0004476	8	GO:0003916	DNA topoisomerase activity
+GO:0008932	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0051192	17	GO:0044877	protein-containing complex binding
+GO:0050520	3	GO:0016301	kinase activity
+GO:0004416	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0071949	15	GO:0005504	fatty acid binding
+GO:0008791	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0008761	8	GO:0003916	DNA topoisomerase activity
+GO:0008762	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0036424	7	GO:0004806	triglyceride lipase activity
+GO:0008759	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0015159	10	GO:0015075	ion transmembrane transporter activity
+GO:0008780	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0042279	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0008772	3	GO:0016301	kinase activity
+GO:0008773	3	GO:0016301	kinase activity
+GO:0042970	10	GO:0015075	ion transmembrane transporter activity
+GO:0008720	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0015128	10	GO:0015075	ion transmembrane transporter activity
+GO:0008718	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0048472	4	GO:0016835	carbon-oxygen lyase activity
+GO:0050378	8	GO:0003916	DNA topoisomerase activity
+GO:0008733	8	GO:0003916	DNA topoisomerase activity
+GO:0036199	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0016675	1	GO:0003824	catalytic activity
+GO:0004141	8	GO:0003916	DNA topoisomerase activity
+GO:0042083	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0008863	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0008855	7	GO:0004806	triglyceride lipase activity
+GO:0051989	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0008880	8	GO:0003916	DNA topoisomerase activity
+GO:0047728	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0008881	8	GO:0003916	DNA topoisomerase activity
+GO:0008882	3	GO:0016301	kinase activity
+GO:0003855	4	GO:0016835	carbon-oxygen lyase activity
+GO:0003886	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0103015	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0103045	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0050418	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0033863	3	GO:0016301	kinase activity
+GO:0008803	8	GO:0003916	DNA topoisomerase activity
+GO:0008805	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0015099	9	GO:0005216	ion channel activity
+GO:0030611	1	GO:0003824	catalytic activity
+GO:0030613	1	GO:0003824	catalytic activity
+GO:0106130	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0033825	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0044620	17	GO:0044877	protein-containing complex binding
+GO:0008564	8	GO:0003916	DNA topoisomerase activity
+GO:0051723	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0051745	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0004057	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0015036	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0004077	8	GO:0003916	DNA topoisomerase activity
+GO:0004756	3	GO:0016301	kinase activity
+GO:0050114	4	GO:0016835	carbon-oxygen lyase activity
+GO:0004042	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0050140	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0004044	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0001716	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0004733	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0005354	10	GO:0015075	ion transmembrane transporter activity
+GO:0070041	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0008668	3	GO:0016301	kinase activity
+GO:0008324	10	GO:0015075	ion transmembrane transporter activity
+GO:0004854	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0052915	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0030145	15	GO:0005504	fatty acid binding
+GO:0004827	8	GO:0003916	DNA topoisomerase activity
+GO:0080146	4	GO:0016835	carbon-oxygen lyase activity
+GO:0047360	3	GO:0016301	kinase activity
+GO:0005462	10	GO:0015075	ion transmembrane transporter activity
+GO:0052692	7	GO:0004806	triglyceride lipase activity
+GO:0015208	10	GO:0015075	ion transmembrane transporter activity
+GO:0004308	7	GO:0004806	triglyceride lipase activity
+GO:0015204	10	GO:0015075	ion transmembrane transporter activity
+GO:0044594	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0035274	17	GO:0044877	protein-containing complex binding
+GO:0010385	16	GO:0003676	nucleic acid binding
+GO:0042813	12	GO:0004888	transmembrane signaling receptor activity
+GO:0048185	17	GO:0044877	protein-containing complex binding
+GO:0015142	10	GO:0015075	ion transmembrane transporter activity
+GO:0015318	10	GO:0015075	ion transmembrane transporter activity
+GO:1901702	10	GO:0015075	ion transmembrane transporter activity
+GO:0098918	14	GO:0005198	structural molecule activity
+GO:0008047	14	GO:0005198	structural molecule activity
+GO:0016892	7	GO:0004806	triglyceride lipase activity
+GO:0000213	7	GO:0004806	triglyceride lipase activity
+GO:0032450	7	GO:0004806	triglyceride lipase activity
+GO:0035255	18	GO:0005178	integrin binding
+GO:0097718	19	GO:0005515	protein binding
+GO:0035174	3	GO:0016301	kinase activity
+GO:0034647	8	GO:0003916	DNA topoisomerase activity
+GO:0032453	8	GO:0003916	DNA topoisomerase activity
+GO:0061501	3	GO:0016301	kinase activity
+GO:0003951	3	GO:0016301	kinase activity
+GO:0015631	19	GO:0005515	protein binding
+GO:0001727	3	GO:0016301	kinase activity
+GO:0003713	14	GO:0005198	structural molecule activity
+GO:0030551	16	GO:0003676	nucleic acid binding
+GO:0005515	19	GO:0005515	protein binding
+GO:0019902	19	GO:0005515	protein binding
+GO:0098641	18	GO:0005178	integrin binding
+GO:0003874	4	GO:0016835	carbon-oxygen lyase activity
+GO:0052894	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0034511	16	GO:0003676	nucleic acid binding
+GO:0052901	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0052902	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0052903	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0052904	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0008143	16	GO:0003676	nucleic acid binding
+GO:0047237	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0015932	10	GO:0015075	ion transmembrane transporter activity
+GO:0048020	18	GO:0005178	integrin binding
+GO:0017124	19	GO:0005515	protein binding
+GO:0043110	16	GO:0003676	nucleic acid binding
+GO:0015193	10	GO:0015075	ion transmembrane transporter activity
+GO:0019784	7	GO:0004806	triglyceride lipase activity
+GO:0008859	7	GO:0004806	triglyceride lipase activity
+GO:0015665	10	GO:0015075	ion transmembrane transporter activity
+GO:0035248	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0030276	19	GO:0005515	protein binding
+GO:0016838	4	GO:0016835	carbon-oxygen lyase activity
+GO:0030215	19	GO:0005515	protein binding
+GO:0005068	18	GO:0005178	integrin binding
+GO:0008080	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0038022	11	GO:0099528	G protein-coupled neurotransmitter receptor activity
+GO:0008374	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0046523	8	GO:0003916	DNA topoisomerase activity
+GO:0061608	14	GO:0005198	structural molecule activity
+GO:0048256	7	GO:0004806	triglyceride lipase activity
+GO:0005225	9	GO:0005216	ion channel activity
+GO:0010484	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0106019	7	GO:0004806	triglyceride lipase activity
+GO:0070259	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0034595	7	GO:0004806	triglyceride lipase activity
+GO:0008198	15	GO:0005504	fatty acid binding
+GO:0004439	7	GO:0004806	triglyceride lipase activity
+GO:0070034	16	GO:0003676	nucleic acid binding
+GO:0090486	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0047196	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0072572	17	GO:0044877	protein-containing complex binding
+GO:0017166	19	GO:0005515	protein binding
+GO:0004526	7	GO:0004806	triglyceride lipase activity
+GO:0033204	16	GO:0003676	nucleic acid binding
+GO:0070700	18	GO:0005178	integrin binding
+GO:0070061	15	GO:0005504	fatty acid binding
+GO:0005353	10	GO:0015075	ion transmembrane transporter activity
+GO:0042301	15	GO:0005504	fatty acid binding
+GO:0019187	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0140142	14	GO:0005198	structural molecule activity
+GO:0031432	19	GO:0005515	protein binding
+GO:0001760	4	GO:0016835	carbon-oxygen lyase activity
+GO:0061650	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0140104	14	GO:0005198	structural molecule activity
+GO:0070996	18	GO:0005178	integrin binding
+GO:0031072	19	GO:0005515	protein binding
+GO:0000062	15	GO:0005504	fatty acid binding
+GO:0005048	15	GO:0005504	fatty acid binding
+GO:0042809	18	GO:0005178	integrin binding
+GO:0008190	19	GO:0005515	protein binding
+GO:0019900	19	GO:0005515	protein binding
+GO:0005000	11	GO:0099528	G protein-coupled neurotransmitter receptor activity
+GO:0016500	12	GO:0004888	transmembrane signaling receptor activity
+GO:1901981	15	GO:0005504	fatty acid binding
+GO:0019901	18	GO:0005178	integrin binding
+GO:0019904	19	GO:0005515	protein binding
+GO:0022853	10	GO:0015075	ion transmembrane transporter activity
+GO:0005104	18	GO:0005178	integrin binding
+GO:0050321	3	GO:0016301	kinase activity
+GO:0008115	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0008139	15	GO:0005504	fatty acid binding
+GO:0004322	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0080025	15	GO:0005504	fatty acid binding
+GO:0070080	19	GO:0005515	protein binding
+GO:0004843	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:1905762	17	GO:0044877	protein-containing complex binding
+GO:0016251	14	GO:0005198	structural molecule activity
+GO:0051721	18	GO:0005178	integrin binding
+GO:0035091	15	GO:0005504	fatty acid binding
+GO:0031780	18	GO:0005178	integrin binding
+GO:0031781	18	GO:0005178	integrin binding
+GO:0017081	14	GO:0005198	structural molecule activity
+GO:0031782	18	GO:0005178	integrin binding
+GO:0031783	18	GO:0005178	integrin binding
+GO:0043425	18	GO:0005178	integrin binding
+GO:0046966	18	GO:0005178	integrin binding
+GO:0045127	3	GO:0016301	kinase activity
+GO:0046983	19	GO:0005515	protein binding
+GO:0017176	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0016788	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0051373	19	GO:0005515	protein binding
+GO:0016724	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0050656	15	GO:0005504	fatty acid binding
+GO:0050659	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0004653	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0005313	10	GO:0015075	ion transmembrane transporter activity
+GO:0043184	18	GO:0005178	integrin binding
+GO:0005347	10	GO:0015075	ion transmembrane transporter activity
+GO:0044877	17	GO:0044877	protein-containing complex binding
+GO:0030620	16	GO:0003676	nucleic acid binding
+GO:0098821	3	GO:0016301	kinase activity
+GO:0015057	11	GO:0099528	G protein-coupled neurotransmitter receptor activity
+GO:0140097	1	GO:0003824	catalytic activity
+GO:0000340	16	GO:0003676	nucleic acid binding
+GO:0019783	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0061578	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0031490	16	GO:0003676	nucleic acid binding
+GO:0016880	8	GO:0003916	DNA topoisomerase activity
+GO:0015172	10	GO:0015075	ion transmembrane transporter activity
+GO:0016877	1	GO:0003824	catalytic activity
+GO:0016811	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0000992	16	GO:0003676	nucleic acid binding
+GO:0001016	16	GO:0003676	nucleic acid binding
+GO:0015248	14	GO:0005198	structural molecule activity
+GO:0004721	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0045309	19	GO:0005515	protein binding
+GO:0050811	19	GO:0005515	protein binding
+GO:0030598	7	GO:0004806	triglyceride lipase activity
+GO:1901567	17	GO:0044877	protein-containing complex binding
+GO:0008297	7	GO:0004806	triglyceride lipase activity
+GO:0008757	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0034485	7	GO:0004806	triglyceride lipase activity
+GO:0102148	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0004563	7	GO:0004806	triglyceride lipase activity
+GO:0016406	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0004551	8	GO:0003916	DNA topoisomerase activity
+GO:0044605	3	GO:0016301	kinase activity
+GO:0005212	14	GO:0005198	structural molecule activity
+GO:0051864	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0004024	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0043295	15	GO:0005504	fatty acid binding
+GO:0005402	9	GO:0005216	ion channel activity
+GO:0031777	18	GO:0005178	integrin binding
+GO:0032399	19	GO:0005515	protein binding
+GO:0030354	18	GO:0005178	integrin binding
+GO:0016840	1	GO:0003824	catalytic activity
+GO:0004337	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0070774	7	GO:0004806	triglyceride lipase activity
+GO:0004161	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0050294	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0004115	7	GO:0004806	triglyceride lipase activity
+GO:0046976	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0035514	8	GO:0003916	DNA topoisomerase activity
+GO:0019808	17	GO:0044877	protein-containing complex binding
+GO:0047376	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0042626	8	GO:0003916	DNA topoisomerase activity
+GO:1901375	10	GO:0015075	ion transmembrane transporter activity
+GO:0008574	8	GO:0003916	DNA topoisomerase activity
+GO:0016174	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0046508	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0035175	3	GO:0016301	kinase activity
+GO:0044022	3	GO:0016301	kinase activity
+GO:0004722	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0017018	7	GO:0004806	triglyceride lipase activity
+GO:0016813	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0015143	10	GO:0015075	ion transmembrane transporter activity
+GO:0004359	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0019003	15	GO:0005504	fatty acid binding
+GO:0015399	10	GO:0015075	ion transmembrane transporter activity
+GO:0016941	12	GO:0004888	transmembrane signaling receptor activity
+GO:0016015	18	GO:0005178	integrin binding
+GO:0004812	8	GO:0003916	DNA topoisomerase activity
+GO:0015453	10	GO:0015075	ion transmembrane transporter activity
+GO:0017154	12	GO:0004888	transmembrane signaling receptor activity
+GO:0016875	1	GO:0003824	catalytic activity
+GO:0044736	9	GO:0005216	ion channel activity
+GO:0035197	16	GO:0003676	nucleic acid binding
+GO:0070287	14	GO:0005198	structural molecule activity
+GO:0019863	15	GO:0005504	fatty acid binding
+GO:0022889	10	GO:0015075	ion transmembrane transporter activity
+GO:0008467	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0019198	7	GO:0004806	triglyceride lipase activity
+GO:0050750	18	GO:0005178	integrin binding
+GO:0042975	19	GO:0005515	protein binding
+GO:0001849	18	GO:0005178	integrin binding
+GO:0043325	15	GO:0005504	fatty acid binding
+GO:0005545	15	GO:0005504	fatty acid binding
+GO:0003916	8	GO:0003916	DNA topoisomerase activity
+GO:0097573	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0004768	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0070579	5	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:1904929	11	GO:0099528	G protein-coupled neurotransmitter receptor activity
+GO:0032296	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0004525	7	GO:0004806	triglyceride lipase activity
+GO:0010997	17	GO:0044877	protein-containing complex binding
+GO:0004123	4	GO:0016835	carbon-oxygen lyase activity
+GO:0005521	19	GO:0005515	protein binding
+GO:0008092	19	GO:0005515	protein binding
+GO:0004743	3	GO:0016301	kinase activity
+GO:0019158	3	GO:0016301	kinase activity
+GO:0004301	7	GO:0004806	triglyceride lipase activity
+GO:0030597	6	GO:0016788	hydrolase activity, acting on ester bonds
+GO:0008865	3	GO:0016301	kinase activity
+GO:0015075	10	GO:0015075	ion transmembrane transporter activity
+GO:0047263	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0003851	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity
+GO:0008489	2	GO:0008961	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity

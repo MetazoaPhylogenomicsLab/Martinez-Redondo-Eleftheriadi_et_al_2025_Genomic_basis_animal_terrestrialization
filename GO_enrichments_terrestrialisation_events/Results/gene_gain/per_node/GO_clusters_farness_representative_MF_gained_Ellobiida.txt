@@ -1,0 +1,29 @@
+GO:0005021	1	GO:0039660	structural constituent of virion
+GO:0018645	2	GO:0016709	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen
+GO:0016709	2	GO:0016709	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen
+GO:0032399	4	GO:0005515	protein binding
+GO:0071855	4	GO:0005515	protein binding
+GO:0038085	4	GO:0005515	protein binding
+GO:0048306	4	GO:0005515	protein binding
+GO:0003730	1	GO:0039660	structural constituent of virion
+GO:0042162	1	GO:0039660	structural constituent of virion
+GO:0043199	4	GO:0005515	protein binding
+GO:0042169	4	GO:0005515	protein binding
+GO:1990782	3	GO:0030971	receptor tyrosine kinase binding
+GO:0030971	3	GO:0030971	receptor tyrosine kinase binding
+GO:0015189	1	GO:0039660	structural constituent of virion
+GO:0120160	4	GO:0005515	protein binding
+GO:0004579	1	GO:0039660	structural constituent of virion
+GO:0004517	2	GO:0016709	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen
+GO:0008009	4	GO:0005515	protein binding
+GO:0008494	1	GO:0039660	structural constituent of virion
+GO:0039660	1	GO:0039660	structural constituent of virion
+GO:0016493	1	GO:0039660	structural constituent of virion
+GO:0004865	1	GO:0039660	structural constituent of virion
+GO:0005515	4	GO:0005515	protein binding
+GO:0031777	4	GO:0005515	protein binding
+GO:0001618	4	GO:0005515	protein binding
+GO:0019871	1	GO:0039660	structural constituent of virion
+GO:0004962	1	GO:0039660	structural constituent of virion
+GO:0005068	3	GO:0030971	receptor tyrosine kinase binding
+GO:0030354	4	GO:0005515	protein binding

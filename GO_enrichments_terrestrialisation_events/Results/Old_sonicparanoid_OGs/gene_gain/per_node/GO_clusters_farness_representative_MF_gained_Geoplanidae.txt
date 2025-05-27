@@ -1,0 +1,48 @@
+GO:0042802	1	GO:0005515	protein binding
+GO:0034061	4	GO:0070001	aspartic-type peptidase activity
+GO:0004791	4	GO:0070001	aspartic-type peptidase activity
+GO:0003964	4	GO:0070001	aspartic-type peptidase activity
+GO:0051010	1	GO:0005515	protein binding
+GO:0005253	5	GO:0005198	structural molecule activity
+GO:0005254	5	GO:0005198	structural molecule activity
+GO:0019838	1	GO:0005515	protein binding
+GO:0019955	1	GO:0005515	protein binding
+GO:0004517	4	GO:0070001	aspartic-type peptidase activity
+GO:0004896	5	GO:0005198	structural molecule activity
+GO:0002039	1	GO:0005515	protein binding
+GO:0005133	1	GO:0005515	protein binding
+GO:0140375	5	GO:0005198	structural molecule activity
+GO:0005515	1	GO:0005515	protein binding
+GO:0005125	1	GO:0005515	protein binding
+GO:0004857	2	GO:0004857	enzyme inhibitor activity
+GO:0005149	1	GO:0005515	protein binding
+GO:1990846	2	GO:0004857	enzyme inhibitor activity
+GO:0005249	5	GO:0005198	structural molecule activity
+GO:0016709	4	GO:0070001	aspartic-type peptidase activity
+GO:0008093	3	GO:0008093	cytoskeletal anchor activity
+GO:0043495	3	GO:0008093	cytoskeletal anchor activity
+GO:0005507	5	GO:0005198	structural molecule activity
+GO:0106006	3	GO:0008093	cytoskeletal anchor activity
+GO:0039660	5	GO:0005198	structural molecule activity
+GO:0000014	4	GO:0070001	aspartic-type peptidase activity
+GO:0070001	4	GO:0070001	aspartic-type peptidase activity
+GO:0042162	5	GO:0005198	structural molecule activity
+GO:0005496	5	GO:0005198	structural molecule activity
+GO:0004519	4	GO:0070001	aspartic-type peptidase activity
+GO:0004190	4	GO:0070001	aspartic-type peptidase activity
+GO:0005198	5	GO:0005198	structural molecule activity
+GO:0004865	2	GO:0004857	enzyme inhibitor activity
+GO:1990825	5	GO:0005198	structural molecule activity
+GO:0005200	5	GO:0005198	structural molecule activity
+GO:0030291	2	GO:0004857	enzyme inhibitor activity
+GO:0019864	5	GO:0005198	structural molecule activity
+GO:0015232	5	GO:0005198	structural molecule activity
+GO:0005126	1	GO:0005515	protein binding
+GO:0046789	5	GO:0005198	structural molecule activity
+GO:0098960	5	GO:0005198	structural molecule activity
+GO:0019207	2	GO:0004857	enzyme inhibitor activity
+GO:0008234	4	GO:0070001	aspartic-type peptidase activity
+GO:0004843	4	GO:0070001	aspartic-type peptidase activity
+GO:0005112	1	GO:0005515	protein binding
+GO:0035591	3	GO:0008093	cytoskeletal anchor activity
+GO:0019887	2	GO:0004857	enzyme inhibitor activity

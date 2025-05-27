@@ -1,0 +1,65 @@
+GO:0033655	1	GO:0033655	host cell cytoplasm part
+GO:0042025	1	GO:0033655	host cell cytoplasm part
+GO:0001669	5	GO:0000943	retrotransposon nucleocapsid
+GO:0044219	2	GO:0033643	host cell part
+GO:0018995	2	GO:0033643	host cell part
+GO:0030430	1	GO:0033655	host cell cytoplasm part
+GO:0005700	5	GO:0000943	retrotransposon nucleocapsid
+GO:0033643	2	GO:0033643	host cell part
+GO:0033644	2	GO:0033643	host cell part
+GO:0044200	1	GO:0033655	host cell cytoplasm part
+GO:0033648	1	GO:0033655	host cell cytoplasm part
+GO:0044204	1	GO:0033655	host cell cytoplasm part
+GO:0030849	5	GO:0000943	retrotransposon nucleocapsid
+GO:0055036	3	GO:0044423	virion component
+GO:0016342	4	GO:0046696	lipopolysaccharide receptor complex
+GO:0044165	1	GO:0033655	host cell cytoplasm part
+GO:0044156	2	GO:0033643	host cell part
+GO:0005680	5	GO:0000943	retrotransposon nucleocapsid
+GO:0044175	1	GO:0033655	host cell cytoplasm part
+GO:0044177	1	GO:0033655	host cell cytoplasm part
+GO:0044178	1	GO:0033655	host cell cytoplasm part
+GO:0039713	2	GO:0033643	host cell part
+GO:0030312	7	GO:0030312	external encapsulating structure
+GO:0031160	7	GO:0030312	external encapsulating structure
+GO:0020002	2	GO:0033643	host cell part
+GO:0005615	7	GO:0030312	external encapsulating structure
+GO:0020009	5	GO:0000943	retrotransposon nucleocapsid
+GO:0009897	7	GO:0030312	external encapsulating structure
+GO:0043657	2	GO:0033643	host cell part
+GO:0019013	3	GO:0044423	virion component
+GO:0000943	5	GO:0000943	retrotransposon nucleocapsid
+GO:0019031	3	GO:0044423	virion component
+GO:0019033	3	GO:0044423	virion component
+GO:0044423	3	GO:0044423	virion component
+GO:0005576	7	GO:0030312	external encapsulating structure
+GO:0042597	7	GO:0030312	external encapsulating structure
+GO:0070160	4	GO:0046696	lipopolysaccharide receptor complex
+GO:0097447	6	GO:0043005	neuron projection
+GO:0046696	4	GO:0046696	lipopolysaccharide receptor complex
+GO:0030424	6	GO:0043005	neuron projection
+GO:0030425	6	GO:0043005	neuron projection
+GO:1905347	4	GO:0046696	lipopolysaccharide receptor complex
+GO:0031463	4	GO:0046696	lipopolysaccharide receptor complex
+GO:0033150	5	GO:0000943	retrotransposon nucleocapsid
+GO:0005923	4	GO:0046696	lipopolysaccharide receptor complex
+GO:0009380	4	GO:0046696	lipopolysaccharide receptor complex
+GO:0005892	4	GO:0046696	lipopolysaccharide receptor complex
+GO:0005863	5	GO:0000943	retrotransposon nucleocapsid
+GO:0001726	6	GO:0043005	neuron projection
+GO:0033011	5	GO:0000943	retrotransposon nucleocapsid
+GO:0009279	7	GO:0030312	external encapsulating structure
+GO:0005886	7	GO:0030312	external encapsulating structure
+GO:0009579	7	GO:0030312	external encapsulating structure
+GO:0033255	5	GO:0000943	retrotransposon nucleocapsid
+GO:0098533	4	GO:0046696	lipopolysaccharide receptor complex
+GO:0031143	6	GO:0043005	neuron projection
+GO:0030288	7	GO:0030312	external encapsulating structure
+GO:0036477	7	GO:0030312	external encapsulating structure
+GO:0070772	5	GO:0000943	retrotransposon nucleocapsid
+GO:0019030	3	GO:0044423	virion component
+GO:0043005	6	GO:0043005	neuron projection
+GO:0039624	3	GO:0044423	virion component
+GO:0000346	5	GO:0000943	retrotransposon nucleocapsid
+GO:0000347	5	GO:0000943	retrotransposon nucleocapsid
+GO:0032587	6	GO:0043005	neuron projection

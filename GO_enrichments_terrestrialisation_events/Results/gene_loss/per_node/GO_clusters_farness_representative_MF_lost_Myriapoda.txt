@@ -1,0 +1,981 @@
+GO:0010313	2	GO:0005515	protein binding
+GO:0008422	15	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0005537	12	GO:0051861	glycolipid binding
+GO:0030550	9	GO:0004857	enzyme inhibitor activity
+GO:0005213	14	GO:0140110	transcription regulator activity
+GO:0030547	9	GO:0004857	enzyme inhibitor activity
+GO:0030280	14	GO:0140110	transcription regulator activity
+GO:0005200	14	GO:0140110	transcription regulator activity
+GO:0008191	9	GO:0004857	enzyme inhibitor activity
+GO:0004945	7	GO:0004888	transmembrane signaling receptor activity
+GO:0140272	1	GO:0044877	protein-containing complex binding
+GO:0048018	3	GO:0048018	receptor ligand activity
+GO:0003964	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0030246	1	GO:0044877	protein-containing complex binding
+GO:0001595	7	GO:0004888	transmembrane signaling receptor activity
+GO:0048038	1	GO:0044877	protein-containing complex binding
+GO:0005031	7	GO:0004888	transmembrane signaling receptor activity
+GO:0008126	16	GO:0034338	short-chain carboxylesterase activity
+GO:0004725	17	GO:0008233	peptidase activity
+GO:0004602	19	GO:0016716	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, another compound as one donor, and incorporation of one atom of oxygen
+GO:0008131	19	GO:0016716	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, another compound as one donor, and incorporation of one atom of oxygen
+GO:0008138	17	GO:0008233	peptidase activity
+GO:0090729	14	GO:0140110	transcription regulator activity
+GO:0030627	10	GO:0003676	nucleic acid binding
+GO:0046920	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0106330	16	GO:0034338	short-chain carboxylesterase activity
+GO:0106331	16	GO:0034338	short-chain carboxylesterase activity
+GO:0031005	4	GO:0019900	kinase binding
+GO:0000981	14	GO:0140110	transcription regulator activity
+GO:0039660	14	GO:0140110	transcription regulator activity
+GO:0033821	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0070851	5	GO:0001664	G protein-coupled receptor binding
+GO:0098631	4	GO:0019900	kinase binding
+GO:0098632	4	GO:0019900	kinase binding
+GO:0016936	12	GO:0051861	glycolipid binding
+GO:0000977	10	GO:0003676	nucleic acid binding
+GO:0000978	10	GO:0003676	nucleic acid binding
+GO:0031718	3	GO:0048018	receptor ligand activity
+GO:0043539	9	GO:0004857	enzyme inhibitor activity
+GO:0004866	9	GO:0004857	enzyme inhibitor activity
+GO:0071855	5	GO:0001664	G protein-coupled receptor binding
+GO:0003700	14	GO:0140110	transcription regulator activity
+GO:0004190	17	GO:0008233	peptidase activity
+GO:0001054	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0004197	17	GO:0008233	peptidase activity
+GO:0019864	12	GO:0051861	glycolipid binding
+GO:0001681	16	GO:0034338	short-chain carboxylesterase activity
+GO:0000900	10	GO:0003676	nucleic acid binding
+GO:0001618	12	GO:0051861	glycolipid binding
+GO:0005184	3	GO:0048018	receptor ligand activity
+GO:0009374	11	GO:0070538	oleic acid binding
+GO:0008061	12	GO:0051861	glycolipid binding
+GO:0045499	3	GO:0048018	receptor ligand activity
+GO:0003887	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0005125	3	GO:0048018	receptor ligand activity
+GO:0005112	5	GO:0001664	G protein-coupled receptor binding
+GO:0033293	11	GO:0070538	oleic acid binding
+GO:0005149	3	GO:0048018	receptor ligand activity
+GO:0005133	5	GO:0001664	G protein-coupled receptor binding
+GO:0043035	10	GO:0003676	nucleic acid binding
+GO:0005139	3	GO:0048018	receptor ligand activity
+GO:0008494	10	GO:0003676	nucleic acid binding
+GO:0042301	12	GO:0051861	glycolipid binding
+GO:0034338	16	GO:0034338	short-chain carboxylesterase activity
+GO:0004523	16	GO:0034338	short-chain carboxylesterase activity
+GO:0004252	17	GO:0008233	peptidase activity
+GO:0102965	19	GO:0016716	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, another compound as one donor, and incorporation of one atom of oxygen
+GO:0051393	4	GO:0019900	kinase binding
+GO:0008134	2	GO:0005515	protein binding
+GO:0008083	3	GO:0048018	receptor ligand activity
+GO:0051010	4	GO:0019900	kinase binding
+GO:0042302	14	GO:0140110	transcription regulator activity
+GO:0008017	4	GO:0019900	kinase binding
+GO:0031208	4	GO:0019900	kinase binding
+GO:0097199	17	GO:0008233	peptidase activity
+GO:0015347	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0003677	10	GO:0003676	nucleic acid binding
+GO:0008316	14	GO:0140110	transcription regulator activity
+GO:0004862	9	GO:0004857	enzyme inhibitor activity
+GO:0003968	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0031788	5	GO:0001664	G protein-coupled receptor binding
+GO:0043621	2	GO:0005515	protein binding
+GO:0005158	5	GO:0001664	G protein-coupled receptor binding
+GO:0005171	5	GO:0001664	G protein-coupled receptor binding
+GO:0005179	3	GO:0048018	receptor ligand activity
+GO:0005121	5	GO:0001664	G protein-coupled receptor binding
+GO:0016671	20	GO:0016491	oxidoreductase activity
+GO:0051428	5	GO:0001664	G protein-coupled receptor binding
+GO:0034584	10	GO:0003676	nucleic acid binding
+GO:0080019	19	GO:0016716	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, another compound as one donor, and incorporation of one atom of oxygen
+GO:0035035	4	GO:0019900	kinase binding
+GO:0070530	4	GO:0019900	kinase binding
+GO:0030291	9	GO:0004857	enzyme inhibitor activity
+GO:0089720	4	GO:0019900	kinase binding
+GO:0005044	14	GO:0140110	transcription regulator activity
+GO:0005035	7	GO:0004888	transmembrane signaling receptor activity
+GO:0043027	9	GO:0004857	enzyme inhibitor activity
+GO:0055105	9	GO:0004857	enzyme inhibitor activity
+GO:0008745	17	GO:0008233	peptidase activity
+GO:0030345	14	GO:0140110	transcription regulator activity
+GO:0061783	20	GO:0016491	oxidoreductase activity
+GO:0005227	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0097200	17	GO:0008233	peptidase activity
+GO:0005214	14	GO:0140110	transcription regulator activity
+GO:0042834	12	GO:0051861	glycolipid binding
+GO:0005249	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0008603	9	GO:0004857	enzyme inhibitor activity
+GO:0015149	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0004222	17	GO:0008233	peptidase activity
+GO:0030229	14	GO:0140110	transcription regulator activity
+GO:0003990	16	GO:0034338	short-chain carboxylesterase activity
+GO:0031418	11	GO:0070538	oleic acid binding
+GO:1990188	12	GO:0051861	glycolipid binding
+GO:0005436	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0061665	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0042329	14	GO:0140110	transcription regulator activity
+GO:0015295	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0008457	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0031543	20	GO:0016491	oxidoreductase activity
+GO:0034483	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0031545	19	GO:0016716	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, another compound as one donor, and incorporation of one atom of oxygen
+GO:0019871	9	GO:0004857	enzyme inhibitor activity
+GO:0003973	19	GO:0016716	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, another compound as one donor, and incorporation of one atom of oxygen
+GO:0005534	12	GO:0051861	glycolipid binding
+GO:0005536	12	GO:0051861	glycolipid binding
+GO:0008476	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0008568	17	GO:0008233	peptidase activity
+GO:0015269	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0015250	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0070853	4	GO:0019900	kinase binding
+GO:0140297	4	GO:0019900	kinase binding
+GO:0051019	4	GO:0019900	kinase binding
+GO:0102483	15	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0000405	10	GO:0003676	nucleic acid binding
+GO:0005507	11	GO:0070538	oleic acid binding
+GO:0005509	11	GO:0070538	oleic acid binding
+GO:0061630	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0042973	15	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0120160	1	GO:0044877	protein-containing complex binding
+GO:0008521	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0005161	5	GO:0001664	G protein-coupled receptor binding
+GO:0005042	7	GO:0004888	transmembrane signaling receptor activity
+GO:0004784	20	GO:0016491	oxidoreductase activity
+GO:0034061	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0000166	10	GO:0003676	nucleic acid binding
+GO:0070492	12	GO:0051861	glycolipid binding
+GO:0004712	13	GO:0004672	protein kinase activity
+GO:0005113	5	GO:0001664	G protein-coupled receptor binding
+GO:0004713	13	GO:0004672	protein kinase activity
+GO:0004714	13	GO:0004672	protein kinase activity
+GO:0047407	15	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:1990226	4	GO:0019900	kinase binding
+GO:0008013	2	GO:0005515	protein binding
+GO:0034185	2	GO:0005515	protein binding
+GO:0004706	13	GO:0004672	protein kinase activity
+GO:0004709	13	GO:0004672	protein kinase activity
+GO:0034189	4	GO:0019900	kinase binding
+GO:0004890	7	GO:0004888	transmembrane signaling receptor activity
+GO:0032450	15	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0043395	4	GO:0019900	kinase binding
+GO:0004383	20	GO:0016491	oxidoreductase activity
+GO:0008146	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0047035	19	GO:0016716	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, another compound as one donor, and incorporation of one atom of oxygen
+GO:0004867	9	GO:0004857	enzyme inhibitor activity
+GO:0003690	10	GO:0003676	nucleic acid binding
+GO:0070097	2	GO:0005515	protein binding
+GO:0003697	10	GO:0003676	nucleic acid binding
+GO:0048306	2	GO:0005515	protein binding
+GO:0080030	16	GO:0034338	short-chain carboxylesterase activity
+GO:0009975	20	GO:0016491	oxidoreductase activity
+GO:0004339	15	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0050839	2	GO:0005515	protein binding
+GO:0030957	4	GO:0019900	kinase binding
+GO:0004303	19	GO:0016716	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, another compound as one donor, and incorporation of one atom of oxygen
+GO:0099583	7	GO:0004888	transmembrane signaling receptor activity
+GO:0000287	11	GO:0070538	oleic acid binding
+GO:0016608	3	GO:0048018	receptor ligand activity
+GO:0030971	4	GO:0019900	kinase binding
+GO:0003676	10	GO:0003676	nucleic acid binding
+GO:0003678	16	GO:0034338	short-chain carboxylesterase activity
+GO:0042124	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0106310	13	GO:0004672	protein kinase activity
+GO:1990715	10	GO:0003676	nucleic acid binding
+GO:0004803	20	GO:0016491	oxidoreductase activity
+GO:0099530	7	GO:0004888	transmembrane signaling receptor activity
+GO:0008270	11	GO:0070538	oleic acid binding
+GO:0019137	15	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0047256	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0140359	16	GO:0034338	short-chain carboxylesterase activity
+GO:0060089	14	GO:0140110	transcription regulator activity
+GO:0034235	11	GO:0070538	oleic acid binding
+GO:0032036	4	GO:0019900	kinase binding
+GO:0004567	15	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0031768	5	GO:0001664	G protein-coupled receptor binding
+GO:0050510	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0004550	13	GO:0004672	protein kinase activity
+GO:0046872	12	GO:0051861	glycolipid binding
+GO:0047237	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0047238	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0043565	10	GO:0003676	nucleic acid binding
+GO:0030527	14	GO:0140110	transcription regulator activity
+GO:0004090	19	GO:0016716	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, another compound as one donor, and incorporation of one atom of oxygen
+GO:0017151	4	GO:0019900	kinase binding
+GO:0004519	16	GO:0034338	short-chain carboxylesterase activity
+GO:0046982	4	GO:0019900	kinase binding
+GO:0048029	12	GO:0051861	glycolipid binding
+GO:0061811	20	GO:0016491	oxidoreductase activity
+GO:0061812	15	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0102799	15	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0035184	13	GO:0004672	protein kinase activity
+GO:1901265	10	GO:0003676	nucleic acid binding
+GO:0004027	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0005355	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0045295	2	GO:0005515	protein binding
+GO:0045296	4	GO:0019900	kinase binding
+GO:0004040	16	GO:0034338	short-chain carboxylesterase activity
+GO:0005372	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0015574	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0038023	7	GO:0004888	transmembrane signaling receptor activity
+GO:0038025	7	GO:0004888	transmembrane signaling receptor activity
+GO:0035613	10	GO:0003676	nucleic acid binding
+GO:0003755	17	GO:0008233	peptidase activity
+GO:0004656	19	GO:0016716	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, another compound as one donor, and incorporation of one atom of oxygen
+GO:0097157	10	GO:0003676	nucleic acid binding
+GO:0019798	19	GO:0016716	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, another compound as one donor, and incorporation of one atom of oxygen
+GO:0005319	14	GO:0140110	transcription regulator activity
+GO:0043183	3	GO:0048018	receptor ligand activity
+GO:0043184	3	GO:0048018	receptor ligand activity
+GO:0004674	13	GO:0004672	protein kinase activity
+GO:0051920	20	GO:0016491	oxidoreductase activity
+GO:0003727	10	GO:0003676	nucleic acid binding
+GO:0003729	10	GO:0003676	nucleic acid binding
+GO:0019784	17	GO:0008233	peptidase activity
+GO:0003730	10	GO:0003676	nucleic acid binding
+GO:0043130	4	GO:0019900	kinase binding
+GO:0015026	7	GO:0004888	transmembrane signaling receptor activity
+GO:0015154	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0030296	9	GO:0004857	enzyme inhibitor activity
+GO:0015157	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0072341	1	GO:0044877	protein-containing complex binding
+GO:0097108	2	GO:0005515	protein binding
+GO:0036094	1	GO:0044877	protein-containing complex binding
+GO:0016849	20	GO:0016491	oxidoreductase activity
+GO:0015136	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0008432	4	GO:0019900	kinase binding
+GO:0004962	7	GO:0004888	transmembrane signaling receptor activity
+GO:0000182	10	GO:0003676	nucleic acid binding
+GO:0004693	13	GO:0004672	protein kinase activity
+GO:0030544	4	GO:0019900	kinase binding
+GO:0004930	7	GO:0004888	transmembrane signaling receptor activity
+GO:0043169	12	GO:0051861	glycolipid binding
+GO:0009881	7	GO:0004888	transmembrane signaling receptor activity
+GO:0048019	3	GO:0048018	receptor ligand activity
+GO:0010485	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0030371	14	GO:0140110	transcription regulator activity
+GO:1990404	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0035198	10	GO:0003676	nucleic acid binding
+GO:0030674	14	GO:0140110	transcription regulator activity
+GO:1990825	10	GO:0003676	nucleic acid binding
+GO:0000213	16	GO:0034338	short-chain carboxylesterase activity
+GO:0140034	4	GO:0019900	kinase binding
+GO:1990837	10	GO:0003676	nucleic acid binding
+GO:0003723	10	GO:0003676	nucleic acid binding
+GO:0001216	14	GO:0140110	transcription regulator activity
+GO:0001217	14	GO:0140110	transcription regulator activity
+GO:0038085	4	GO:0019900	kinase binding
+GO:0004402	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0016799	15	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0000976	10	GO:0003676	nucleic acid binding
+GO:0050291	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0004861	9	GO:0004857	enzyme inhibitor activity
+GO:0004869	9	GO:0004857	enzyme inhibitor activity
+GO:0015232	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0001067	10	GO:0003676	nucleic acid binding
+GO:0004857	9	GO:0004857	enzyme inhibitor activity
+GO:0001664	5	GO:0001664	G protein-coupled receptor binding
+GO:0019865	1	GO:0044877	protein-containing complex binding
+GO:0140416	14	GO:0140110	transcription regulator activity
+GO:0008353	13	GO:0004672	protein kinase activity
+GO:0008236	17	GO:0008233	peptidase activity
+GO:0016716	19	GO:0016716	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, another compound as one donor, and incorporation of one atom of oxygen
+GO:0061733	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0008080	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0016410	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0003823	1	GO:0044877	protein-containing complex binding
+GO:0097472	13	GO:0004672	protein kinase activity
+GO:0034212	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0033549	17	GO:0008233	peptidase activity
+GO:0004556	15	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0035064	4	GO:0019900	kinase binding
+GO:0016160	15	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0016811	17	GO:0008233	peptidase activity
+GO:0099122	4	GO:0019900	kinase binding
+GO:0043047	10	GO:0003676	nucleic acid binding
+GO:0099529	7	GO:0004888	transmembrane signaling receptor activity
+GO:0042162	10	GO:0003676	nucleic acid binding
+GO:0005539	12	GO:0051861	glycolipid binding
+GO:0003714	9	GO:0004857	enzyme inhibitor activity
+GO:0004708	13	GO:0004672	protein kinase activity
+GO:1904315	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0004896	7	GO:0004888	transmembrane signaling receptor activity
+GO:0070006	17	GO:0008233	peptidase activity
+GO:0042277	12	GO:0051861	glycolipid binding
+GO:0000995	14	GO:0140110	transcription regulator activity
+GO:0140110	14	GO:0140110	transcription regulator activity
+GO:0032422	10	GO:0003676	nucleic acid binding
+GO:0005230	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0010521	9	GO:0004857	enzyme inhibitor activity
+GO:0004568	15	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0003972	19	GO:0016716	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, another compound as one donor, and incorporation of one atom of oxygen
+GO:0005243	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0030600	16	GO:0034338	short-chain carboxylesterase activity
+GO:0015279	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0042562	1	GO:0044877	protein-containing complex binding
+GO:0008234	17	GO:0008233	peptidase activity
+GO:0043559	4	GO:0019900	kinase binding
+GO:0008201	12	GO:0051861	glycolipid binding
+GO:0004649	15	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0001786	12	GO:0051861	glycolipid binding
+GO:0003796	15	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0051119	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0019825	12	GO:0051861	glycolipid binding
+GO:0030882	12	GO:0051861	glycolipid binding
+GO:0005471	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0004769	19	GO:0016716	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, another compound as one donor, and incorporation of one atom of oxygen
+GO:0008097	10	GO:0003676	nucleic acid binding
+GO:0097573	19	GO:0016716	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, another compound as one donor, and incorporation of one atom of oxygen
+GO:0047372	16	GO:0034338	short-chain carboxylesterase activity
+GO:0097110	2	GO:0005515	protein binding
+GO:0015459	9	GO:0004857	enzyme inhibitor activity
+GO:0004336	15	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0008012	14	GO:0140110	transcription regulator activity
+GO:0008810	15	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0004099	16	GO:0034338	short-chain carboxylesterase activity
+GO:0030169	12	GO:0051861	glycolipid binding
+GO:0002020	4	GO:0019900	kinase binding
+GO:0005550	12	GO:0051861	glycolipid binding
+GO:1905573	11	GO:0070538	oleic acid binding
+GO:1905574	11	GO:0070538	oleic acid binding
+GO:1905575	11	GO:0070538	oleic acid binding
+GO:1905576	11	GO:0070538	oleic acid binding
+GO:1905577	11	GO:0070538	oleic acid binding
+GO:0017046	12	GO:0051861	glycolipid binding
+GO:0005123	3	GO:0048018	receptor ligand activity
+GO:0016004	9	GO:0004857	enzyme inhibitor activity
+GO:0005549	1	GO:0044877	protein-containing complex binding
+GO:0008974	13	GO:0004672	protein kinase activity
+GO:0050265	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0015925	15	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0004806	16	GO:0034338	short-chain carboxylesterase activity
+GO:0015144	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0070402	11	GO:0070538	oleic acid binding
+GO:0005262	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0055077	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0017171	17	GO:0008233	peptidase activity
+GO:0043014	4	GO:0019900	kinase binding
+GO:0004185	17	GO:0008233	peptidase activity
+GO:0016504	9	GO:0004857	enzyme inhibitor activity
+GO:0005245	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0030248	12	GO:0051861	glycolipid binding
+GO:0004983	7	GO:0004888	transmembrane signaling receptor activity
+GO:0015288	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0015278	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0061133	9	GO:0004857	enzyme inhibitor activity
+GO:0061134	9	GO:0004857	enzyme inhibitor activity
+GO:0061135	9	GO:0004857	enzyme inhibitor activity
+GO:0042923	12	GO:0051861	glycolipid binding
+GO:0003682	1	GO:0044877	protein-containing complex binding
+GO:0055102	9	GO:0004857	enzyme inhibitor activity
+GO:1990760	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0072349	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0099106	9	GO:0004857	enzyme inhibitor activity
+GO:0008307	14	GO:0140110	transcription regulator activity
+GO:0030021	14	GO:0140110	transcription regulator activity
+GO:0030414	9	GO:0004857	enzyme inhibitor activity
+GO:0003725	10	GO:0003676	nucleic acid binding
+GO:0071889	2	GO:0005515	protein binding
+GO:0042605	12	GO:0051861	glycolipid binding
+GO:0070325	5	GO:0001664	G protein-coupled receptor binding
+GO:0008020	7	GO:0004888	transmembrane signaling receptor activity
+GO:0043394	2	GO:0005515	protein binding
+GO:0008011	14	GO:0140110	transcription regulator activity
+GO:0090482	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0005199	14	GO:0140110	transcription regulator activity
+GO:0031683	1	GO:0044877	protein-containing complex binding
+GO:0039706	2	GO:0005515	protein binding
+GO:0008009	3	GO:0048018	receptor ligand activity
+GO:0005178	5	GO:0001664	G protein-coupled receptor binding
+GO:0005518	1	GO:0044877	protein-containing complex binding
+GO:0004888	7	GO:0004888	transmembrane signaling receptor activity
+GO:0005542	11	GO:0070538	oleic acid binding
+GO:0005548	14	GO:0140110	transcription regulator activity
+GO:0030548	9	GO:0004857	enzyme inhibitor activity
+GO:0070888	10	GO:0003676	nucleic acid binding
+GO:0005102	2	GO:0005515	protein binding
+GO:0001968	2	GO:0005515	protein binding
+GO:0097604	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0015114	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0042887	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0070008	17	GO:0008233	peptidase activity
+GO:0042826	4	GO:0019900	kinase binding
+GO:0003997	19	GO:0016716	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, another compound as one donor, and incorporation of one atom of oxygen
+GO:0016918	11	GO:0070538	oleic acid binding
+GO:0019862	12	GO:0051861	glycolipid binding
+GO:0005095	9	GO:0004857	enzyme inhibitor activity
+GO:0003913	20	GO:0016491	oxidoreductase activity
+GO:0019841	11	GO:0070538	oleic acid binding
+GO:0070840	1	GO:0044877	protein-containing complex binding
+GO:0034057	10	GO:0003676	nucleic acid binding
+GO:0004740	13	GO:0004672	protein kinase activity
+GO:0016084	3	GO:0048018	receptor ligand activity
+GO:0008010	14	GO:0140110	transcription regulator activity
+GO:0031634	10	GO:0003676	nucleic acid binding
+GO:0035375	4	GO:0019900	kinase binding
+GO:0070538	11	GO:0070538	oleic acid binding
+GO:0031210	12	GO:0051861	glycolipid binding
+GO:0003688	10	GO:0003676	nucleic acid binding
+GO:0008251	16	GO:0034338	short-chain carboxylesterase activity
+GO:0001092	4	GO:0019900	kinase binding
+GO:0070001	17	GO:0008233	peptidase activity
+GO:0032183	4	GO:0019900	kinase binding
+GO:0035438	11	GO:0070538	oleic acid binding
+GO:0017080	9	GO:0004857	enzyme inhibitor activity
+GO:0035197	10	GO:0003676	nucleic acid binding
+GO:0030545	14	GO:0140110	transcription regulator activity
+GO:0030546	9	GO:0004857	enzyme inhibitor activity
+GO:1990846	9	GO:0004857	enzyme inhibitor activity
+GO:0001671	9	GO:0004857	enzyme inhibitor activity
+GO:0035033	9	GO:0004857	enzyme inhibitor activity
+GO:0005324	14	GO:0140110	transcription regulator activity
+GO:0005337	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0003726	16	GO:0034338	short-chain carboxylesterase activity
+GO:0003711	14	GO:0140110	transcription regulator activity
+GO:0016985	15	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0034987	5	GO:0001664	G protein-coupled receptor binding
+GO:0061507	11	GO:0070538	oleic acid binding
+GO:0005272	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0022829	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0001888	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0036402	16	GO:0034338	short-chain carboxylesterase activity
+GO:0015145	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0005034	7	GO:0004888	transmembrane signaling receptor activity
+GO:0098960	7	GO:0004888	transmembrane signaling receptor activity
+GO:0099094	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0008143	10	GO:0003676	nucleic acid binding
+GO:0015277	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0008266	10	GO:0003676	nucleic acid binding
+GO:0004859	9	GO:0004857	enzyme inhibitor activity
+GO:0031423	2	GO:0005515	protein binding
+GO:0099604	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0015085	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0097493	14	GO:0140110	transcription regulator activity
+GO:0033130	5	GO:0001664	G protein-coupled receptor binding
+GO:0003847	16	GO:0034338	short-chain carboxylesterase activity
+GO:0030594	7	GO:0004888	transmembrane signaling receptor activity
+GO:0005267	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0005092	9	GO:0004857	enzyme inhibitor activity
+GO:0004690	13	GO:0004672	protein kinase activity
+GO:0004984	7	GO:0004888	transmembrane signaling receptor activity
+GO:0050431	4	GO:0019900	kinase binding
+GO:0019955	2	GO:0005515	protein binding
+GO:0140223	14	GO:0140110	transcription regulator activity
+GO:0005021	13	GO:0004672	protein kinase activity
+GO:0030247	12	GO:0051861	glycolipid binding
+GO:0050840	1	GO:0044877	protein-containing complex binding
+GO:0036122	4	GO:0019900	kinase binding
+GO:0031072	2	GO:0005515	protein binding
+GO:0042802	2	GO:0005515	protein binding
+GO:0042803	4	GO:0019900	kinase binding
+GO:0015280	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0015276	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0035804	14	GO:0140110	transcription regulator activity
+GO:0032190	4	GO:0019900	kinase binding
+GO:0030165	4	GO:0019900	kinase binding
+GO:0035241	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0017108	16	GO:0034338	short-chain carboxylesterase activity
+GO:0050480	16	GO:0034338	short-chain carboxylesterase activity
+GO:0005506	11	GO:0070538	oleic acid binding
+GO:0071077	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0004948	7	GO:0004888	transmembrane signaling receptor activity
+GO:0008821	16	GO:0034338	short-chain carboxylesterase activity
+GO:0030507	4	GO:0019900	kinase binding
+GO:0070034	10	GO:0003676	nucleic acid binding
+GO:0008188	7	GO:0004888	transmembrane signaling receptor activity
+GO:0098988	7	GO:0004888	transmembrane signaling receptor activity
+GO:0106332	16	GO:0034338	short-chain carboxylesterase activity
+GO:0003721	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0045028	7	GO:0004888	transmembrane signaling receptor activity
+GO:0097642	7	GO:0004888	transmembrane signaling receptor activity
+GO:0001640	7	GO:0004888	transmembrane signaling receptor activity
+GO:0050508	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0050509	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0042328	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0016893	16	GO:0034338	short-chain carboxylesterase activity
+GO:0042781	16	GO:0034338	short-chain carboxylesterase activity
+GO:0018024	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0031435	4	GO:0019900	kinase binding
+GO:0005096	9	GO:0004857	enzyme inhibitor activity
+GO:0036041	11	GO:0070538	oleic acid binding
+GO:0000064	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0008528	7	GO:0004888	transmembrane signaling receptor activity
+GO:0015215	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0015217	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0016503	7	GO:0004888	transmembrane signaling receptor activity
+GO:0016149	10	GO:0003676	nucleic acid binding
+GO:0008613	3	GO:0048018	receptor ligand activity
+GO:0042054	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0000295	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0046789	12	GO:0051861	glycolipid binding
+GO:0043886	14	GO:0140110	transcription regulator activity
+GO:0033897	16	GO:0034338	short-chain carboxylesterase activity
+GO:0005201	14	GO:0140110	transcription regulator activity
+GO:0019003	11	GO:0070538	oleic acid binding
+GO:0008289	1	GO:0044877	protein-containing complex binding
+GO:0043495	14	GO:0140110	transcription regulator activity
+GO:0034246	14	GO:0140110	transcription regulator activity
+GO:0016247	14	GO:0140110	transcription regulator activity
+GO:0008233	17	GO:0008233	peptidase activity
+GO:1904067	12	GO:0051861	glycolipid binding
+GO:0046871	12	GO:0051861	glycolipid binding
+GO:0046812	1	GO:0044877	protein-containing complex binding
+GO:0046848	1	GO:0044877	protein-containing complex binding
+GO:0050693	4	GO:0019900	kinase binding
+GO:0004089	19	GO:0016716	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, another compound as one donor, and incorporation of one atom of oxygen
+GO:0004013	16	GO:0034338	short-chain carboxylesterase activity
+GO:0045294	2	GO:0005515	protein binding
+GO:0099602	9	GO:0004857	enzyme inhibitor activity
+GO:0061809	15	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0050135	15	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0004175	17	GO:0008233	peptidase activity
+GO:0001637	7	GO:0004888	transmembrane signaling receptor activity
+GO:0140550	14	GO:0140110	transcription regulator activity
+GO:0003756	17	GO:0008233	peptidase activity
+GO:0003786	4	GO:0019900	kinase binding
+GO:0005346	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0004687	13	GO:0004672	protein kinase activity
+GO:0005347	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0052794	15	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0052795	15	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0052796	15	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0008378	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0035250	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0003854	19	GO:0016716	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, another compound as one donor, and incorporation of one atom of oxygen
+GO:0015101	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0005522	2	GO:0005515	protein binding
+GO:0005525	11	GO:0070538	oleic acid binding
+GO:0003810	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0047940	13	GO:0004672	protein kinase activity
+GO:0003983	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0016907	7	GO:0004888	transmembrane signaling receptor activity
+GO:0003914	19	GO:0016716	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, another compound as one donor, and incorporation of one atom of oxygen
+GO:0005080	4	GO:0019900	kinase binding
+GO:0047555	16	GO:0034338	short-chain carboxylesterase activity
+GO:0004756	13	GO:0004672	protein kinase activity
+GO:0051117	4	GO:0019900	kinase binding
+GO:0016404	19	GO:0016716	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, another compound as one donor, and incorporation of one atom of oxygen
+GO:0042806	12	GO:0051861	glycolipid binding
+GO:0000014	16	GO:0034338	short-chain carboxylesterase activity
+GO:0031682	2	GO:0005515	protein binding
+GO:0008073	9	GO:0004857	enzyme inhibitor activity
+GO:0000146	16	GO:0034338	short-chain carboxylesterase activity
+GO:0004365	19	GO:0016716	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, another compound as one donor, and incorporation of one atom of oxygen
+GO:0051287	10	GO:0003676	nucleic acid binding
+GO:0008670	19	GO:0016716	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, another compound as one donor, and incorporation of one atom of oxygen
+GO:0004329	19	GO:0016716	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, another compound as one donor, and incorporation of one atom of oxygen
+GO:0004993	7	GO:0004888	transmembrane signaling receptor activity
+GO:0047685	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0004332	19	GO:0016716	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, another compound as one donor, and incorporation of one atom of oxygen
+GO:0005277	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0004957	7	GO:0004888	transmembrane signaling receptor activity
+GO:0099589	7	GO:0004888	transmembrane signaling receptor activity
+GO:0099528	7	GO:0004888	transmembrane signaling receptor activity
+GO:0052692	15	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0102294	19	GO:0016716	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, another compound as one donor, and incorporation of one atom of oxygen
+GO:0004451	19	GO:0016716	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, another compound as one donor, and incorporation of one atom of oxygen
+GO:0034236	4	GO:0019900	kinase binding
+GO:0017060	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0004565	15	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0030551	10	GO:0003676	nucleic acid binding
+GO:0140311	14	GO:0140110	transcription regulator activity
+GO:0030552	11	GO:0070538	oleic acid binding
+GO:0140313	14	GO:0140110	transcription regulator activity
+GO:0004559	15	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0051748	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0004449	19	GO:0016716	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, another compound as one donor, and incorporation of one atom of oxygen
+GO:0004572	15	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0046961	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0004097	19	GO:0016716	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, another compound as one donor, and incorporation of one atom of oxygen
+GO:0001042	4	GO:0019900	kinase binding
+GO:0030060	19	GO:0016716	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, another compound as one donor, and incorporation of one atom of oxygen
+GO:0015464	7	GO:0004888	transmembrane signaling receptor activity
+GO:0019215	1	GO:0044877	protein-containing complex binding
+GO:0004503	19	GO:0016716	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, another compound as one donor, and incorporation of one atom of oxygen
+GO:0051371	4	GO:0019900	kinase binding
+GO:0050661	10	GO:0003676	nucleic acid binding
+GO:0016722	20	GO:0016491	oxidoreductase activity
+GO:0030023	14	GO:0140110	transcription regulator activity
+GO:0046421	19	GO:0016716	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, another compound as one donor, and incorporation of one atom of oxygen
+GO:0004124	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0005328	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0035615	4	GO:0019900	kinase binding
+GO:0004115	16	GO:0034338	short-chain carboxylesterase activity
+GO:0098882	14	GO:0140110	transcription regulator activity
+GO:0035605	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0032794	2	GO:0005515	protein binding
+GO:0015180	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0015184	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0015171	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0015173	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0015175	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0015179	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0015658	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0008308	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0034594	16	GO:0034338	short-chain carboxylesterase activity
+GO:0005544	12	GO:0051861	glycolipid binding
+GO:0019834	9	GO:0004857	enzyme inhibitor activity
+GO:0044183	14	GO:0140110	transcription regulator activity
+GO:0022848	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0005229	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0001591	7	GO:0004888	transmembrane signaling receptor activity
+GO:0061778	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0140375	7	GO:0004888	transmembrane signaling receptor activity
+GO:0051861	12	GO:0051861	glycolipid binding
+GO:0072320	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0001222	4	GO:0019900	kinase binding
+GO:0003951	13	GO:0004672	protein kinase activity
+GO:0003953	15	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0008656	9	GO:0004857	enzyme inhibitor activity
+GO:0070513	4	GO:0019900	kinase binding
+GO:0008239	17	GO:0008233	peptidase activity
+GO:0051432	4	GO:0019900	kinase binding
+GO:0015631	4	GO:0019900	kinase binding
+GO:0051434	4	GO:0019900	kinase binding
+GO:0001601	7	GO:0004888	transmembrane signaling receptor activity
+GO:0001602	7	GO:0004888	transmembrane signaling receptor activity
+GO:0050700	4	GO:0019900	kinase binding
+GO:0001727	13	GO:0004672	protein kinase activity
+GO:0097153	17	GO:0008233	peptidase activity
+GO:0016493	7	GO:0004888	transmembrane signaling receptor activity
+GO:0004715	13	GO:0004672	protein kinase activity
+GO:0005000	7	GO:0004888	transmembrane signaling receptor activity
+GO:0022843	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0001851	4	GO:0019900	kinase binding
+GO:0005164	3	GO:0048018	receptor ligand activity
+GO:0005154	5	GO:0001664	G protein-coupled receptor binding
+GO:0001846	2	GO:0005515	protein binding
+GO:0001848	2	GO:0005515	protein binding
+GO:0005174	3	GO:0048018	receptor ligand activity
+GO:0004864	9	GO:0004857	enzyme inhibitor activity
+GO:0005515	2	GO:0005515	protein binding
+GO:0019902	4	GO:0019900	kinase binding
+GO:0098641	4	GO:0019900	kinase binding
+GO:0097603	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0003995	20	GO:0016491	oxidoreductase activity
+GO:0001761	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0019863	12	GO:0051861	glycolipid binding
+GO:0052890	20	GO:0016491	oxidoreductase activity
+GO:0034485	16	GO:0034338	short-chain carboxylesterase activity
+GO:0044547	4	GO:0019900	kinase binding
+GO:0019966	4	GO:0019900	kinase binding
+GO:1905131	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0004766	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0016530	14	GO:0140110	transcription regulator activity
+GO:0004394	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0042577	16	GO:0034338	short-chain carboxylesterase activity
+GO:0004364	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0008147	14	GO:0140110	transcription regulator activity
+GO:0003691	10	GO:0003676	nucleic acid binding
+GO:0004341	16	GO:0034338	short-chain carboxylesterase activity
+GO:1904931	1	GO:0044877	protein-containing complex binding
+GO:0004969	7	GO:0004888	transmembrane signaling receptor activity
+GO:0005248	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:1905762	1	GO:0044877	protein-containing complex binding
+GO:0032050	4	GO:0019900	kinase binding
+GO:1901505	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0052650	19	GO:0016716	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, another compound as one donor, and incorporation of one atom of oxygen
+GO:0052658	16	GO:0034338	short-chain carboxylesterase activity
+GO:0052659	16	GO:0034338	short-chain carboxylesterase activity
+GO:0004908	7	GO:0004888	transmembrane signaling receptor activity
+GO:0004415	15	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0004445	16	GO:0034338	short-chain carboxylesterase activity
+GO:0004439	16	GO:0034338	short-chain carboxylesterase activity
+GO:0031717	5	GO:0001664	G protein-coupled receptor binding
+GO:0015932	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0046923	12	GO:0051861	glycolipid binding
+GO:0004500	19	GO:0016716	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, another compound as one donor, and incorporation of one atom of oxygen
+GO:0043531	11	GO:0070538	oleic acid binding
+GO:0019237	10	GO:0003676	nucleic acid binding
+GO:0051378	10	GO:0003676	nucleic acid binding
+GO:0016721	20	GO:0016491	oxidoreductase activity
+GO:0004035	16	GO:0034338	short-chain carboxylesterase activity
+GO:0005326	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0038187	7	GO:0004888	transmembrane signaling receptor activity
+GO:0043176	1	GO:0044877	protein-containing complex binding
+GO:0005338	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0043110	10	GO:0003676	nucleic acid binding
+GO:0106019	16	GO:0034338	short-chain carboxylesterase activity
+GO:0015081	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0015020	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0015165	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0016312	16	GO:0034338	short-chain carboxylesterase activity
+GO:0015189	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0016838	20	GO:0016491	oxidoreductase activity
+GO:0051381	10	GO:0003676	nucleic acid binding
+GO:0004180	17	GO:0008233	peptidase activity
+GO:0004181	17	GO:0008233	peptidase activity
+GO:0070026	1	GO:0044877	protein-containing complex binding
+GO:0000987	10	GO:0003676	nucleic acid binding
+GO:0070330	19	GO:0016716	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, another compound as one donor, and incorporation of one atom of oxygen
+GO:0032934	12	GO:0051861	glycolipid binding
+GO:0031625	4	GO:0019900	kinase binding
+GO:0015485	11	GO:0070538	oleic acid binding
+GO:0016670	20	GO:0016491	oxidoreductase activity
+GO:0010484	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0044389	4	GO:0019900	kinase binding
+GO:0004305	13	GO:0004672	protein kinase activity
+GO:0016829	20	GO:0016491	oxidoreductase activity
+GO:0005217	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0042379	3	GO:0048018	receptor ligand activity
+GO:0023023	1	GO:0044877	protein-containing complex binding
+GO:0023026	12	GO:0051861	glycolipid binding
+GO:0005412	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0047958	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0047982	20	GO:0016491	oxidoreductase activity
+GO:0005524	11	GO:0070538	oleic acid binding
+GO:0005516	2	GO:0005515	protein binding
+GO:0044540	20	GO:0016491	oxidoreductase activity
+GO:0140103	20	GO:0016491	oxidoreductase activity
+GO:0098531	14	GO:0140110	transcription regulator activity
+GO:0005068	3	GO:0048018	receptor ligand activity
+GO:0051015	4	GO:0019900	kinase binding
+GO:0042974	3	GO:0048018	receptor ligand activity
+GO:0005186	5	GO:0001664	G protein-coupled receptor binding
+GO:0005124	5	GO:0001664	G protein-coupled receptor binding
+GO:0004749	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0047536	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0004392	20	GO:0016491	oxidoreductase activity
+GO:0008186	16	GO:0034338	short-chain carboxylesterase activity
+GO:0098606	20	GO:0016491	oxidoreductase activity
+GO:0016628	20	GO:0016491	oxidoreductase activity
+GO:0004340	13	GO:0004672	protein kinase activity
+GO:0034647	19	GO:0016716	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, another compound as one donor, and incorporation of one atom of oxygen
+GO:0004348	15	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0030332	2	GO:0005515	protein binding
+GO:0045569	2	GO:0005515	protein binding
+GO:0042169	4	GO:0019900	kinase binding
+GO:0019010	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0019158	13	GO:0004672	protein kinase activity
+GO:1990782	4	GO:0019900	kinase binding
+GO:0080146	20	GO:0016491	oxidoreductase activity
+GO:0004308	15	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0004833	19	GO:0016716	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, another compound as one donor, and incorporation of one atom of oxygen
+GO:0030492	2	GO:0005515	protein binding
+GO:0015379	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0016212	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0004453	16	GO:0034338	short-chain carboxylesterase activity
+GO:0047220	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0050094	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0060698	9	GO:0004857	enzyme inhibitor activity
+GO:0010844	10	GO:0003676	nucleic acid binding
+GO:0042287	5	GO:0001664	G protein-coupled receptor binding
+GO:0004533	16	GO:0034338	short-chain carboxylesterase activity
+GO:0046922	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0035049	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0086039	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0004022	19	GO:0016716	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, another compound as one donor, and incorporation of one atom of oxygen
+GO:1990915	14	GO:0140110	transcription regulator activity
+GO:0055106	9	GO:0004857	enzyme inhibitor activity
+GO:0004032	19	GO:0016716	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, another compound as one donor, and incorporation of one atom of oxygen
+GO:0004123	20	GO:0016491	oxidoreductase activity
+GO:0008395	20	GO:0016491	oxidoreductase activity
+GO:0004658	19	GO:0016716	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, another compound as one donor, and incorporation of one atom of oxygen
+GO:0004001	13	GO:0004672	protein kinase activity
+GO:0030144	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0003785	4	GO:0019900	kinase binding
+GO:0003774	16	GO:0034338	short-chain carboxylesterase activity
+GO:0003779	4	GO:0019900	kinase binding
+GO:0004623	16	GO:0034338	short-chain carboxylesterase activity
+GO:0003724	16	GO:0034338	short-chain carboxylesterase activity
+GO:0015501	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0008865	13	GO:0004672	protein kinase activity
+GO:0047315	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0043295	11	GO:0070538	oleic acid binding
+GO:0046965	3	GO:0048018	receptor ligand activity
+GO:0043425	4	GO:0019900	kinase binding
+GO:0015103	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0005275	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0016538	9	GO:0004857	enzyme inhibitor activity
+GO:0102991	16	GO:0034338	short-chain carboxylesterase activity
+GO:0070996	3	GO:0048018	receptor ligand activity
+GO:0005215	14	GO:0140110	transcription regulator activity
+GO:0060090	14	GO:0140110	transcription regulator activity
+GO:0044877	1	GO:0044877	protein-containing complex binding
+GO:0015293	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0004952	7	GO:0004888	transmembrane signaling receptor activity
+GO:0015294	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0016502	7	GO:0004888	transmembrane signaling receptor activity
+GO:0030619	10	GO:0003676	nucleic acid binding
+GO:0005231	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0019200	13	GO:0004672	protein kinase activity
+GO:0019209	9	GO:0004857	enzyme inhibitor activity
+GO:0000400	10	GO:0003676	nucleic acid binding
+GO:0016290	16	GO:0034338	short-chain carboxylesterase activity
+GO:0031490	10	GO:0003676	nucleic acid binding
+GO:0102121	16	GO:0034338	short-chain carboxylesterase activity
+GO:0015651	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0051082	2	GO:0005515	protein binding
+GO:0051087	2	GO:0005515	protein binding
+GO:0016251	14	GO:0140110	transcription regulator activity
+GO:0008677	19	GO:0016716	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, another compound as one donor, and incorporation of one atom of oxygen
+GO:0008227	7	GO:0004888	transmembrane signaling receptor activity
+GO:0038024	14	GO:0140110	transcription regulator activity
+GO:0016651	20	GO:0016491	oxidoreductase activity
+GO:0016655	20	GO:0016491	oxidoreductase activity
+GO:0036002	10	GO:0003676	nucleic acid binding
+GO:0004104	16	GO:0034338	short-chain carboxylesterase activity
+GO:0016273	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0016274	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0019783	17	GO:0008233	peptidase activity
+GO:0019787	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0016624	20	GO:0016491	oxidoreductase activity
+GO:0001614	7	GO:0004888	transmembrane signaling receptor activity
+GO:0004691	13	GO:0004672	protein kinase activity
+GO:0005381	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0016641	20	GO:0016491	oxidoreductase activity
+GO:0016645	20	GO:0016491	oxidoreductase activity
+GO:0016647	20	GO:0016491	oxidoreductase activity
+GO:1904680	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0072354	13	GO:0004672	protein kinase activity
+GO:0016207	19	GO:0016716	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, another compound as one donor, and incorporation of one atom of oxygen
+GO:0030742	2	GO:0005515	protein binding
+GO:0034481	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0004672	13	GO:0004672	protein kinase activity
+GO:0004679	13	GO:0004672	protein kinase activity
+GO:0061659	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0016798	15	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0008757	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0034046	10	GO:0003676	nucleic acid binding
+GO:0015370	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0008376	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0019899	2	GO:0005515	protein binding
+GO:0016780	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0016788	17	GO:0008233	peptidase activity
+GO:0004601	20	GO:0016491	oxidoreductase activity
+GO:0016776	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0120227	11	GO:0070538	oleic acid binding
+GO:0032184	4	GO:0019900	kinase binding
+GO:0005483	14	GO:0140110	transcription regulator activity
+GO:0005416	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0004386	16	GO:0034338	short-chain carboxylesterase activity
+GO:0035673	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0003712	14	GO:0140110	transcription regulator activity
+GO:0003713	9	GO:0004857	enzyme inhibitor activity
+GO:0003743	10	GO:0003676	nucleic acid binding
+GO:0035612	1	GO:0044877	protein-containing complex binding
+GO:0046332	2	GO:0005515	protein binding
+GO:0052901	19	GO:0016716	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, another compound as one donor, and incorporation of one atom of oxygen
+GO:0052903	19	GO:0016716	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, another compound as one donor, and incorporation of one atom of oxygen
+GO:0016491	20	GO:0016491	oxidoreductase activity
+GO:0015057	7	GO:0004888	transmembrane signaling receptor activity
+GO:0005007	13	GO:0004672	protein kinase activity
+GO:0022836	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0022839	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0016860	20	GO:0016491	oxidoreductase activity
+GO:0008028	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0016864	19	GO:0016716	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, another compound as one donor, and incorporation of one atom of oxygen
+GO:0008047	9	GO:0004857	enzyme inhibitor activity
+GO:0004707	13	GO:0004672	protein kinase activity
+GO:1990430	2	GO:0005515	protein binding
+GO:0036393	19	GO:0016716	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, another compound as one donor, and incorporation of one atom of oxygen
+GO:0030158	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0140296	4	GO:0019900	kinase binding
+GO:0031624	4	GO:0019900	kinase binding
+GO:0018455	19	GO:0016716	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, another compound as one donor, and incorporation of one atom of oxygen
+GO:0016835	20	GO:0016491	oxidoreductase activity
+GO:0017040	16	GO:0034338	short-chain carboxylesterase activity
+GO:0016836	20	GO:0016491	oxidoreductase activity
+GO:0000340	10	GO:0003676	nucleic acid binding
+GO:0005126	5	GO:0001664	G protein-coupled receptor binding
+GO:0003874	19	GO:0016716	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, another compound as one donor, and incorporation of one atom of oxygen
+GO:0046873	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0008190	4	GO:0019900	kinase binding
+GO:0044325	2	GO:0005515	protein binding
+GO:0005118	5	GO:0001664	G protein-coupled receptor binding
+GO:0008194	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0030515	10	GO:0003676	nucleic acid binding
+GO:0005545	12	GO:0051861	glycolipid binding
+GO:0033218	1	GO:0044877	protein-containing complex binding
+GO:0008168	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0008169	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0019900	4	GO:0019900	kinase binding
+GO:0072572	12	GO:0051861	glycolipid binding
+GO:0019901	4	GO:0019900	kinase binding
+GO:0019904	2	GO:0005515	protein binding
+GO:0019905	4	GO:0019900	kinase binding
+GO:0008157	4	GO:0019900	kinase binding
+GO:0020037	10	GO:0003676	nucleic acid binding
+GO:0008187	10	GO:0003676	nucleic acid binding
+GO:0005504	12	GO:0051861	glycolipid binding
+GO:1901567	1	GO:0044877	protein-containing complex binding
+GO:0008171	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0008172	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0051373	4	GO:0019900	kinase binding
+GO:0030295	9	GO:0004857	enzyme inhibitor activity
+GO:0008115	19	GO:0016716	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, another compound as one donor, and incorporation of one atom of oxygen
+GO:1901981	12	GO:0051861	glycolipid binding
+GO:0035091	12	GO:0051861	glycolipid binding
+GO:0050660	11	GO:0070538	oleic acid binding
+GO:0000062	11	GO:0070538	oleic acid binding
+GO:0051721	4	GO:0019900	kinase binding
+GO:0046592	19	GO:0016716	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, another compound as one donor, and incorporation of one atom of oxygen
+GO:0031780	3	GO:0048018	receptor ligand activity
+GO:0031781	3	GO:0048018	receptor ligand activity
+GO:0031782	3	GO:0048018	receptor ligand activity
+GO:0031783	3	GO:0048018	receptor ligand activity
+GO:0042043	5	GO:0001664	G protein-coupled receptor binding
+GO:0051427	5	GO:0001664	G protein-coupled receptor binding
+GO:0031777	3	GO:0048018	receptor ligand activity
+GO:0004579	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0004517	19	GO:0016716	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, another compound as one donor, and incorporation of one atom of oxygen
+GO:0032399	4	GO:0019900	kinase binding
+GO:0001530	12	GO:0051861	glycolipid binding
+GO:0016709	19	GO:0016716	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, another compound as one donor, and incorporation of one atom of oxygen
+GO:0030354	3	GO:0048018	receptor ligand activity
+GO:0035325	5	GO:0001664	G protein-coupled receptor binding
+GO:0004167	19	GO:0016716	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, another compound as one donor, and incorporation of one atom of oxygen
+GO:0004129	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0047886	19	GO:0016716	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, another compound as one donor, and incorporation of one atom of oxygen
+GO:0022824	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0016755	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0022832	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0022835	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0031956	16	GO:0034338	short-chain carboxylesterase activity
+GO:0016675	20	GO:0016491	oxidoreductase activity
+GO:0034237	4	GO:0019900	kinase binding
+GO:0051787	2	GO:0005515	protein binding
+GO:0001181	14	GO:0140110	transcription regulator activity
+GO:0017025	4	GO:0019900	kinase binding
+GO:0004467	16	GO:0034338	short-chain carboxylesterase activity
+GO:0005244	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0005496	12	GO:0051861	glycolipid binding
+GO:0042171	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0061980	10	GO:0003676	nucleic acid binding
+GO:0016018	12	GO:0051861	glycolipid binding
+GO:0035594	11	GO:0070538	oleic acid binding
+GO:0008237	17	GO:0008233	peptidase activity
+GO:0004177	17	GO:0008233	peptidase activity
+GO:0045735	14	GO:0140110	transcription regulator activity
+GO:0022821	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0001875	7	GO:0004888	transmembrane signaling receptor activity
+GO:1901375	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0051139	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0008296	16	GO:0034338	short-chain carboxylesterase activity
+GO:0015385	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0015386	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0035662	5	GO:0001664	G protein-coupled receptor binding
+GO:0008502	7	GO:0004888	transmembrane signaling receptor activity
+GO:0070569	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0000150	20	GO:0016491	oxidoreductase activity
+GO:0062105	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0005313	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0022889	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:1901474	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0030598	15	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:1904855	1	GO:0044877	protein-containing complex binding
+GO:0036313	4	GO:0019900	kinase binding
+GO:0043028	9	GO:0004857	enzyme inhibitor activity
+GO:0005521	2	GO:0005515	protein binding
+GO:0140299	14	GO:0140110	transcription regulator activity
+GO:0008574	16	GO:0034338	short-chain carboxylesterase activity
+GO:0042975	5	GO:0001664	G protein-coupled receptor binding
+GO:0019911	14	GO:0140110	transcription regulator activity
+GO:0008519	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0004396	13	GO:0004672	protein kinase activity
+GO:0022841	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0022834	6	GO:0015103	inorganic anion transmembrane transporter activity
+GO:0030346	4	GO:0019900	kinase binding
+GO:0042165	1	GO:0044877	protein-containing complex binding
+GO:0017176	18	GO:0019787	ubiquitin-like protein transferase activity
+GO:0016813	17	GO:0008233	peptidase activity
+GO:0052745	16	GO:0034338	short-chain carboxylesterase activity

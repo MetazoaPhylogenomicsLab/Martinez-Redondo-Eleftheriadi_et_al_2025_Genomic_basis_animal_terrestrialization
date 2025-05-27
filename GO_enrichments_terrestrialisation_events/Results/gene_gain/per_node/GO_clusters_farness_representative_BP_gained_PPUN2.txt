@@ -1,0 +1,60 @@
+GO:0016203	2	GO:0043473	pigmentation
+GO:0061136	1	GO:1901800	positive regulation of proteasomal protein catabolic process
+GO:0018996	2	GO:0043473	pigmentation
+GO:0010648	3	GO:0010648	negative regulation of cell communication
+GO:0030431	2	GO:0043473	pigmentation
+GO:0006367	4	GO:0009698	phenylpropanoid metabolic process
+GO:0006368	4	GO:0009698	phenylpropanoid metabolic process
+GO:0060295	3	GO:0010648	negative regulation of cell communication
+GO:0006354	4	GO:0009698	phenylpropanoid metabolic process
+GO:0007281	2	GO:0043473	pigmentation
+GO:0031666	3	GO:0010648	negative regulation of cell communication
+GO:0006598	5	GO:1901565	organonitrogen compound catabolic process
+GO:0003352	3	GO:0010648	negative regulation of cell communication
+GO:0023057	3	GO:0010648	negative regulation of cell communication
+GO:0009310	5	GO:1901565	organonitrogen compound catabolic process
+GO:0043542	2	GO:0043473	pigmentation
+GO:0042438	4	GO:0009698	phenylpropanoid metabolic process
+GO:1903818	2	GO:0043473	pigmentation
+GO:0042402	5	GO:1901565	organonitrogen compound catabolic process
+GO:0009968	3	GO:0010648	negative regulation of cell communication
+GO:0033353	4	GO:0009698	phenylpropanoid metabolic process
+GO:0009953	2	GO:0043473	pigmentation
+GO:0003341	3	GO:0010648	negative regulation of cell communication
+GO:0006575	5	GO:1901565	organonitrogen compound catabolic process
+GO:0048681	3	GO:0010648	negative regulation of cell communication
+GO:0007635	2	GO:0043473	pigmentation
+GO:0006730	4	GO:0009698	phenylpropanoid metabolic process
+GO:0030150	2	GO:0043473	pigmentation
+GO:0070571	3	GO:0010648	negative regulation of cell communication
+GO:0009063	5	GO:1901565	organonitrogen compound catabolic process
+GO:0050913	2	GO:0043473	pigmentation
+GO:0043473	2	GO:0043473	pigmentation
+GO:0098792	2	GO:0043473	pigmentation
+GO:0046416	5	GO:1901565	organonitrogen compound catabolic process
+GO:0036303	2	GO:0043473	pigmentation
+GO:0032222	3	GO:0010648	negative regulation of cell communication
+GO:1901800	1	GO:1901800	positive regulation of proteasomal protein catabolic process
+GO:0009698	4	GO:0009698	phenylpropanoid metabolic process
+GO:0032434	1	GO:1901800	positive regulation of proteasomal protein catabolic process
+GO:0032436	1	GO:1901800	positive regulation of proteasomal protein catabolic process
+GO:0008215	5	GO:1901565	organonitrogen compound catabolic process
+GO:1902019	3	GO:0010648	negative regulation of cell communication
+GO:1901606	5	GO:1901565	organonitrogen compound catabolic process
+GO:0016485	4	GO:0009698	phenylpropanoid metabolic process
+GO:0098586	2	GO:0043473	pigmentation
+GO:0046208	5	GO:1901565	organonitrogen compound catabolic process
+GO:0045732	1	GO:1901800	positive regulation of proteasomal protein catabolic process
+GO:2000737	3	GO:0010648	negative regulation of cell communication
+GO:1901565	5	GO:1901565	organonitrogen compound catabolic process
+GO:0051031	2	GO:0043473	pigmentation
+GO:1901317	3	GO:0010648	negative regulation of cell communication
+GO:0097009	2	GO:0043473	pigmentation
+GO:0048585	3	GO:0010648	negative regulation of cell communication
+GO:0002322	2	GO:0043473	pigmentation
+GO:2000060	1	GO:1901800	positive regulation of proteasomal protein catabolic process
+GO:0003431	2	GO:0043473	pigmentation
+GO:1903050	1	GO:1901800	positive regulation of proteasomal protein catabolic process
+GO:2000058	1	GO:1901800	positive regulation of proteasomal protein catabolic process
+GO:1903052	1	GO:1901800	positive regulation of proteasomal protein catabolic process
+GO:0044273	4	GO:0009698	phenylpropanoid metabolic process

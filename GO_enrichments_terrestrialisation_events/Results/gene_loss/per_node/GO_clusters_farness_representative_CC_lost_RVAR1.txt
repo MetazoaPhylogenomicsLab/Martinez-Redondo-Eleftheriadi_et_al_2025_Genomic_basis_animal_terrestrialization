@@ -1,0 +1,31 @@
+GO:0031903	4	GO:0031903	microbody membrane
+GO:0008328	2	GO:0043235	receptor complex
+GO:0035579	4	GO:0031903	microbody membrane
+GO:0098857	5	GO:0005886	plasma membrane
+GO:0055036	5	GO:0005886	plasma membrane
+GO:0031430	4	GO:0031903	microbody membrane
+GO:0032541	4	GO:0031903	microbody membrane
+GO:0031234	5	GO:0005886	plasma membrane
+GO:0044156	3	GO:0044156	host cell junction
+GO:0009986	5	GO:0005886	plasma membrane
+GO:0005886	5	GO:0005886	plasma membrane
+GO:0046696	2	GO:0043235	receptor complex
+GO:0009925	5	GO:0005886	plasma membrane
+GO:0044178	3	GO:0044156	host cell junction
+GO:0020002	3	GO:0044156	host cell junction
+GO:0005615	1	GO:0043230	extracellular organelle
+GO:0045121	5	GO:0005886	plasma membrane
+GO:0009897	5	GO:0005886	plasma membrane
+GO:0070062	1	GO:0043230	extracellular organelle
+GO:0035230	3	GO:0044156	host cell junction
+GO:1903561	1	GO:0043230	extracellular organelle
+GO:0000940	2	GO:0043235	receptor complex
+GO:0043230	1	GO:0043230	extracellular organelle
+GO:0043235	2	GO:0043235	receptor complex
+GO:0065010	1	GO:0043230	extracellular organelle
+GO:0097038	4	GO:0031903	microbody membrane
+GO:0019005	2	GO:0043235	receptor complex
+GO:0005778	4	GO:0031903	microbody membrane
+GO:0005576	1	GO:0043230	extracellular organelle
+GO:0070821	4	GO:0031903	microbody membrane
+GO:0035996	3	GO:0044156	host cell junction

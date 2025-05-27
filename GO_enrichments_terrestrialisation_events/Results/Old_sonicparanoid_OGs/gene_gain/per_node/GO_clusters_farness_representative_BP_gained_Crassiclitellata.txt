@@ -1,0 +1,130 @@
+GO:0006306	3	GO:0006306	DNA methylation
+GO:0036158	5	GO:0007130	synaptonemal complex assembly
+GO:0036159	5	GO:0007130	synaptonemal complex assembly
+GO:0009958	4	GO:0010529	negative regulation of transposition
+GO:0009910	6	GO:0001837	epithelial to mesenchymal transition
+GO:0007015	5	GO:0007130	synaptonemal complex assembly
+GO:0007043	5	GO:0007130	synaptonemal complex assembly
+GO:0007049	5	GO:0007130	synaptonemal complex assembly
+GO:0031122	5	GO:0007130	synaptonemal complex assembly
+GO:0031129	6	GO:0001837	epithelial to mesenchymal transition
+GO:0046601	5	GO:0007130	synaptonemal complex assembly
+GO:0002052	6	GO:0001837	epithelial to mesenchymal transition
+GO:0090312	3	GO:0006306	DNA methylation
+GO:0019221	4	GO:0010529	negative regulation of transposition
+GO:0010375	6	GO:0001837	epithelial to mesenchymal transition
+GO:0090308	1	GO:0031453	positive regulation of heterochromatin assembly
+GO:0090309	1	GO:0031453	positive regulation of heterochromatin assembly
+GO:0034110	4	GO:0010529	negative regulation of transposition
+GO:0051301	5	GO:0007130	synaptonemal complex assembly
+GO:0010497	4	GO:0010529	negative regulation of transposition
+GO:0034293	7	GO:0034293	sexual sporulation
+GO:0045450	7	GO:0034293	sexual sporulation
+GO:1902464	3	GO:0006306	DNA methylation
+GO:0071985	4	GO:0010529	negative regulation of transposition
+GO:0006211	3	GO:0006306	DNA methylation
+GO:0071940	5	GO:0007130	synaptonemal complex assembly
+GO:2000779	3	GO:0006306	DNA methylation
+GO:0070873	3	GO:0006306	DNA methylation
+GO:0019857	3	GO:0006306	DNA methylation
+GO:1903003	3	GO:0006306	DNA methylation
+GO:0008645	4	GO:0010529	negative regulation of transposition
+GO:0051170	4	GO:0010529	negative regulation of transposition
+GO:0070591	7	GO:0034293	sexual sporulation
+GO:0007317	7	GO:0034293	sexual sporulation
+GO:0007342	7	GO:0034293	sexual sporulation
+GO:0046949	3	GO:0006306	DNA methylation
+GO:0070536	3	GO:0006306	DNA methylation
+GO:0071356	4	GO:0010529	negative regulation of transposition
+GO:0048133	7	GO:0034293	sexual sporulation
+GO:0051220	4	GO:0010529	negative regulation of transposition
+GO:0007469	6	GO:0001837	epithelial to mesenchymal transition
+GO:0071347	4	GO:0010529	negative regulation of transposition
+GO:0042538	4	GO:0010529	negative regulation of transposition
+GO:0008039	6	GO:0001837	epithelial to mesenchymal transition
+GO:0030466	1	GO:0031453	positive regulation of heterochromatin assembly
+GO:0030473	4	GO:0010529	negative regulation of transposition
+GO:0030476	7	GO:0034293	sexual sporulation
+GO:0048236	7	GO:0034293	sexual sporulation
+GO:0001837	6	GO:0001837	epithelial to mesenchymal transition
+GO:0042659	6	GO:0001837	epithelial to mesenchymal transition
+GO:0060279	7	GO:0034293	sexual sporulation
+GO:0030431	2	GO:0032627	interleukin-23 production
+GO:0010719	6	GO:0001837	epithelial to mesenchymal transition
+GO:0007140	7	GO:0034293	sexual sporulation
+GO:0007130	5	GO:0007130	synaptonemal complex assembly
+GO:0031648	4	GO:0010529	negative regulation of transposition
+GO:0030154	6	GO:0001837	epithelial to mesenchymal transition
+GO:0010825	5	GO:0007130	synaptonemal complex assembly
+GO:1901000	4	GO:0010529	negative regulation of transposition
+GO:0034612	4	GO:0010529	negative regulation of transposition
+GO:0070050	4	GO:0010529	negative regulation of transposition
+GO:0048869	6	GO:0001837	epithelial to mesenchymal transition
+GO:0032755	2	GO:0032627	interleukin-23 production
+GO:0019058	4	GO:0010529	negative regulation of transposition
+GO:0006606	4	GO:0010529	negative regulation of transposition
+GO:0036089	5	GO:0007130	synaptonemal complex assembly
+GO:0048873	4	GO:0010529	negative regulation of transposition
+GO:0001676	3	GO:0006306	DNA methylation
+GO:0015749	4	GO:0010529	negative regulation of transposition
+GO:1905269	1	GO:0031453	positive regulation of heterochromatin assembly
+GO:2000055	6	GO:0001837	epithelial to mesenchymal transition
+GO:0080111	3	GO:0006306	DNA methylation
+GO:0016338	4	GO:0010529	negative regulation of transposition
+GO:0060828	4	GO:0010529	negative regulation of transposition
+GO:0010529	4	GO:0010529	negative regulation of transposition
+GO:0031063	3	GO:0006306	DNA methylation
+GO:0039502	4	GO:0010529	negative regulation of transposition
+GO:0039695	4	GO:0010529	negative regulation of transposition
+GO:0031031	5	GO:0007130	synaptonemal complex assembly
+GO:0032880	4	GO:0010529	negative regulation of transposition
+GO:0032881	3	GO:0006306	DNA methylation
+GO:2001252	1	GO:0031453	positive regulation of heterochromatin assembly
+GO:0008343	2	GO:0032627	interleukin-23 production
+GO:0008345	2	GO:0032627	interleukin-23 production
+GO:0019953	7	GO:0034293	sexual sporulation
+GO:1902692	6	GO:0001837	epithelial to mesenchymal transition
+GO:0009566	7	GO:0034293	sexual sporulation
+GO:0045665	6	GO:0001837	epithelial to mesenchymal transition
+GO:0009555	6	GO:0001837	epithelial to mesenchymal transition
+GO:1905758	5	GO:0007130	synaptonemal complex assembly
+GO:0039645	4	GO:0010529	negative regulation of transposition
+GO:1905789	4	GO:0010529	negative regulation of transposition
+GO:0045672	6	GO:0001837	epithelial to mesenchymal transition
+GO:0022413	7	GO:0034293	sexual sporulation
+GO:0043584	6	GO:0001837	epithelial to mesenchymal transition
+GO:0003334	6	GO:0001837	epithelial to mesenchymal transition
+GO:0040026	6	GO:0001837	epithelial to mesenchymal transition
+GO:0009698	3	GO:0006306	DNA methylation
+GO:0009630	4	GO:0010529	negative regulation of transposition
+GO:0006940	2	GO:0032627	interleukin-23 production
+GO:0043622	5	GO:0007130	synaptonemal complex assembly
+GO:0006939	2	GO:0032627	interleukin-23 production
+GO:0032667	2	GO:0032627	interleukin-23 production
+GO:0000736	3	GO:0006306	DNA methylation
+GO:0007549	2	GO:0032627	interleukin-23 production
+GO:0090085	3	GO:0006306	DNA methylation
+GO:0007531	7	GO:0034293	sexual sporulation
+GO:0007533	7	GO:0034293	sexual sporulation
+GO:0007534	7	GO:0034293	sexual sporulation
+GO:0032627	2	GO:0032627	interleukin-23 production
+GO:0010022	6	GO:0001837	epithelial to mesenchymal transition
+GO:0002532	2	GO:0032627	interleukin-23 production
+GO:0002534	2	GO:0032627	interleukin-23 production
+GO:0030539	6	GO:0001837	epithelial to mesenchymal transition
+GO:0046824	4	GO:0010529	negative regulation of transposition
+GO:0046825	4	GO:0010529	negative regulation of transposition
+GO:0044782	5	GO:0007130	synaptonemal complex assembly
+GO:1904428	3	GO:0006306	DNA methylation
+GO:0034390	4	GO:0010529	negative regulation of transposition
+GO:0035822	3	GO:0006306	DNA methylation
+GO:0034391	4	GO:0010529	negative regulation of transposition
+GO:0120263	1	GO:0031453	positive regulation of heterochromatin assembly
+GO:0006355	3	GO:0006306	DNA methylation
+GO:0006357	3	GO:0006306	DNA methylation
+GO:0009047	2	GO:0032627	interleukin-23 production
+GO:0045921	4	GO:0010529	negative regulation of transposition
+GO:0031453	1	GO:0031453	positive regulation of heterochromatin assembly
+GO:0034333	5	GO:0007130	synaptonemal complex assembly
+GO:1900074	4	GO:0010529	negative regulation of transposition
+GO:1900015	2	GO:0032627	interleukin-23 production

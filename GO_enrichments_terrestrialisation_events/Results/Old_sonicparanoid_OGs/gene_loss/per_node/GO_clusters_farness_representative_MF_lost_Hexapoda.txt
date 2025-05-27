@@ -1,0 +1,103 @@
+GO:0043035	7	GO:0003677	DNA binding
+GO:0005537	9	GO:0005215	transporter activity
+GO:0004180	5	GO:0008237	metallopeptidase activity
+GO:0004181	5	GO:0008237	metallopeptidase activity
+GO:0008009	8	GO:0005125	cytokine activity
+GO:0003700	3	GO:0003700	DNA-binding transcription factor activity
+GO:0015293	9	GO:0005215	transporter activity
+GO:0022857	9	GO:0005215	transporter activity
+GO:0008327	7	GO:0003677	DNA binding
+GO:0120160	10	GO:0019838	growth factor binding
+GO:0003677	7	GO:0003677	DNA binding
+GO:0048306	10	GO:0019838	growth factor binding
+GO:0030492	10	GO:0019838	growth factor binding
+GO:0000995	9	GO:0005215	transporter activity
+GO:0030246	10	GO:0019838	growth factor binding
+GO:0016936	10	GO:0019838	growth factor binding
+GO:0004962	1	GO:0004888	transmembrane signaling receptor activity
+GO:0001965	10	GO:0019838	growth factor binding
+GO:0003968	6	GO:0016782	transferase activity, transferring sulphur-containing groups
+GO:0016209	9	GO:0005215	transporter activity
+GO:0004222	5	GO:0008237	metallopeptidase activity
+GO:0001227	3	GO:0003700	DNA-binding transcription factor activity
+GO:0000981	3	GO:0003700	DNA-binding transcription factor activity
+GO:0005215	9	GO:0005215	transporter activity
+GO:0000977	7	GO:0003677	DNA binding
+GO:0000978	7	GO:0003677	DNA binding
+GO:0008237	5	GO:0008237	metallopeptidase activity
+GO:0043565	7	GO:0003677	DNA binding
+GO:0004945	1	GO:0004888	transmembrane signaling receptor activity
+GO:0038085	10	GO:0019838	growth factor binding
+GO:0008097	7	GO:0003677	DNA binding
+GO:0061135	2	GO:0030414	peptidase inhibitor activity
+GO:0030414	2	GO:0030414	peptidase inhibitor activity
+GO:0004930	1	GO:0004888	transmembrane signaling receptor activity
+GO:0005549	10	GO:0019838	growth factor binding
+GO:0001217	3	GO:0003700	DNA-binding transcription factor activity
+GO:0004252	5	GO:0008237	metallopeptidase activity
+GO:0004866	2	GO:0030414	peptidase inhibitor activity
+GO:0004867	2	GO:0030414	peptidase inhibitor activity
+GO:0008528	1	GO:0004888	transmembrane signaling receptor activity
+GO:0004857	2	GO:0030414	peptidase inhibitor activity
+GO:0031005	10	GO:0019838	growth factor binding
+GO:0005021	6	GO:0016782	transferase activity, transferring sulphur-containing groups
+GO:0051381	7	GO:0003677	DNA binding
+GO:0015252	9	GO:0005215	transporter activity
+GO:0001595	1	GO:0004888	transmembrane signaling receptor activity
+GO:0098631	10	GO:0019838	growth factor binding
+GO:0098632	10	GO:0019838	growth factor binding
+GO:0008083	8	GO:0005125	cytokine activity
+GO:0003964	6	GO:0016782	transferase activity, transferring sulphur-containing groups
+GO:0000987	7	GO:0003677	DNA binding
+GO:0032422	7	GO:0003677	DNA binding
+GO:0008417	6	GO:0016782	transferase activity, transferring sulphur-containing groups
+GO:0043621	10	GO:0019838	growth factor binding
+GO:0019864	9	GO:0005215	transporter activity
+GO:0030545	8	GO:0005125	cytokine activity
+GO:0030546	8	GO:0005125	cytokine activity
+GO:0004175	5	GO:0008237	metallopeptidase activity
+GO:0070026	10	GO:0019838	growth factor binding
+GO:0004714	6	GO:0016782	transferase activity, transferring sulphur-containing groups
+GO:0008191	2	GO:0030414	peptidase inhibitor activity
+GO:0005125	8	GO:0005125	cytokine activity
+GO:0004519	5	GO:0008237	metallopeptidase activity
+GO:0019838	10	GO:0019838	growth factor binding
+GO:0005133	10	GO:0019838	growth factor binding
+GO:0005516	10	GO:0019838	growth factor binding
+GO:0090729	9	GO:0005215	transporter activity
+GO:0001228	3	GO:0003700	DNA-binding transcription factor activity
+GO:0001216	3	GO:0003700	DNA-binding transcription factor activity
+GO:0001848	10	GO:0019838	growth factor binding
+GO:0004888	1	GO:0004888	transmembrane signaling receptor activity
+GO:0031208	10	GO:0019838	growth factor binding
+GO:0015651	9	GO:0005215	transporter activity
+GO:0042803	10	GO:0019838	growth factor binding
+GO:0046872	9	GO:0005215	transporter activity
+GO:0000900	7	GO:0003677	DNA binding
+GO:0039660	9	GO:0005215	transporter activity
+GO:0004517	4	GO:0016712	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen
+GO:0034584	7	GO:0003677	DNA binding
+GO:0005139	10	GO:0019838	growth factor binding
+GO:0038023	1	GO:0004888	transmembrane signaling receptor activity
+GO:0038024	9	GO:0005215	transporter activity
+GO:0016712	4	GO:0016712	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen
+GO:0016504	2	GO:0030414	peptidase inhibitor activity
+GO:0004523	5	GO:0008237	metallopeptidase activity
+GO:0008017	10	GO:0019838	growth factor binding
+GO:0016705	4	GO:0016712	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen
+GO:0016709	4	GO:0016712	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen
+GO:0005031	1	GO:0004888	transmembrane signaling receptor activity
+GO:0005506	9	GO:0005215	transporter activity
+GO:0060089	1	GO:0004888	transmembrane signaling receptor activity
+GO:0070530	10	GO:0019838	growth factor binding
+GO:0008146	6	GO:0016782	transferase activity, transferring sulphur-containing groups
+GO:0030291	2	GO:0030414	peptidase inhibitor activity
+GO:0004497	4	GO:0016712	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen
+GO:0042923	9	GO:0005215	transporter activity
+GO:0070330	4	GO:0016712	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen
+GO:0031593	10	GO:0019838	growth factor binding
+GO:0004983	1	GO:0004888	transmembrane signaling receptor activity
+GO:0004984	1	GO:0004888	transmembrane signaling receptor activity
+GO:0008422	5	GO:0008237	metallopeptidase activity
+GO:0034061	6	GO:0016782	transferase activity, transferring sulphur-containing groups
+GO:0016782	6	GO:0016782	transferase activity, transferring sulphur-containing groups

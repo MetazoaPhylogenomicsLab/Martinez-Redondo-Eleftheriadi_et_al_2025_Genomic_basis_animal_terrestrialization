@@ -1,0 +1,414 @@
+GO:0090305	4	GO:0043570	maintenance of DNA repeat elements
+GO:0043903	11	GO:0044003	modulation by symbiont of host process
+GO:0035640	19	GO:0040011	locomotion
+GO:0035641	19	GO:0040011	locomotion
+GO:0046802	10	GO:0016032	viral process
+GO:0033003	14	GO:0010453	regulation of cell fate commitment
+GO:0033005	14	GO:0010453	regulation of cell fate commitment
+GO:0032392	18	GO:0008037	cell recognition
+GO:0046651	18	GO:0008037	cell recognition
+GO:0014065	9	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0014066	8	GO:0010640	regulation of platelet-derived growth factor receptor signaling pathway
+GO:0014067	8	GO:0010640	regulation of platelet-derived growth factor receptor signaling pathway
+GO:0042330	20	GO:0046677	response to antibiotic
+GO:0042331	20	GO:0046677	response to antibiotic
+GO:0044068	11	GO:0044003	modulation by symbiont of host process
+GO:0090278	16	GO:0034220	ion transmembrane transport
+GO:0090219	3	GO:0010466	negative regulation of peptidase activity
+GO:0060140	11	GO:0044003	modulation by symbiont of host process
+GO:0060141	11	GO:0044003	modulation by symbiont of host process
+GO:0019236	20	GO:0046677	response to antibiotic
+GO:0010877	16	GO:0034220	ion transmembrane transport
+GO:0044000	10	GO:0016032	viral process
+GO:0044001	10	GO:0016032	viral process
+GO:0045989	19	GO:0040011	locomotion
+GO:0044003	11	GO:0044003	modulation by symbiont of host process
+GO:0045940	6	GO:1901362	organic cyclic compound biosynthetic process
+GO:0000723	4	GO:0043570	maintenance of DNA repeat elements
+GO:0032197	18	GO:0008037	cell recognition
+GO:0000712	4	GO:0043570	maintenance of DNA repeat elements
+GO:1902883	12	GO:0030193	regulation of blood coagulation
+GO:0090735	18	GO:0008037	cell recognition
+GO:0039722	13	GO:0039573	suppression by virus of host complement activation
+GO:0039723	13	GO:0039573	suppression by virus of host complement activation
+GO:0039724	13	GO:0039573	suppression by virus of host complement activation
+GO:0010525	14	GO:0010453	regulation of cell fate commitment
+GO:0010526	14	GO:0010453	regulation of cell fate commitment
+GO:1903202	14	GO:0010453	regulation of cell fate commitment
+GO:1903203	14	GO:0010453	regulation of cell fate commitment
+GO:1903204	14	GO:0010453	regulation of cell fate commitment
+GO:0035075	20	GO:0046677	response to antibiotic
+GO:0035010	19	GO:0040011	locomotion
+GO:0098868	19	GO:0040011	locomotion
+GO:0039700	10	GO:0016032	viral process
+GO:0050727	12	GO:0030193	regulation of blood coagulation
+GO:0035006	6	GO:1901362	organic cyclic compound biosynthetic process
+GO:0050731	3	GO:0010466	negative regulation of peptidase activity
+GO:1903746	19	GO:0040011	locomotion
+GO:0032223	14	GO:0010453	regulation of cell fate commitment
+GO:0071103	18	GO:0008037	cell recognition
+GO:0043410	8	GO:0010640	regulation of platelet-derived growth factor receptor signaling pathway
+GO:0032200	18	GO:0008037	cell recognition
+GO:0030682	11	GO:0044003	modulation by symbiont of host process
+GO:0050819	14	GO:0010453	regulation of cell fate commitment
+GO:0006957	13	GO:0039573	suppression by virus of host complement activation
+GO:0016032	10	GO:0016032	viral process
+GO:0039564	11	GO:0044003	modulation by symbiont of host process
+GO:0039557	13	GO:0039573	suppression by virus of host complement activation
+GO:0033135	3	GO:0010466	negative regulation of peptidase activity
+GO:0033138	3	GO:0010466	negative regulation of peptidase activity
+GO:0006948	11	GO:0044003	modulation by symbiont of host process
+GO:0039573	13	GO:0039573	suppression by virus of host complement activation
+GO:0052111	11	GO:0044003	modulation by symbiont of host process
+GO:0032733	1	GO:0032653	regulation of interleukin-10 production
+GO:0039540	13	GO:0039573	suppression by virus of host complement activation
+GO:0098664	9	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0039502	13	GO:0039573	suppression by virus of host complement activation
+GO:0098671	10	GO:0016032	viral process
+GO:0002792	16	GO:0034220	ion transmembrane transport
+GO:0039693	10	GO:0016032	viral process
+GO:0039674	10	GO:0016032	viral process
+GO:0039675	10	GO:0016032	viral process
+GO:1904894	8	GO:0010640	regulation of platelet-derived growth factor receptor signaling pathway
+GO:0044406	10	GO:0016032	viral process
+GO:0044409	10	GO:0016032	viral process
+GO:0039645	11	GO:0044003	modulation by symbiont of host process
+GO:0031648	19	GO:0040011	locomotion
+GO:0035331	8	GO:0010640	regulation of platelet-derived growth factor receptor signaling pathway
+GO:0018996	19	GO:0040011	locomotion
+GO:0070661	18	GO:0008037	cell recognition
+GO:0010951	3	GO:0010466	negative regulation of peptidase activity
+GO:0035461	18	GO:0008037	cell recognition
+GO:0042531	3	GO:0010466	negative regulation of peptidase activity
+GO:0032508	18	GO:0008037	cell recognition
+GO:0042509	3	GO:0010466	negative regulation of peptidase activity
+GO:0032653	1	GO:0032653	regulation of interleukin-10 production
+GO:0032656	1	GO:0032653	regulation of interleukin-10 production
+GO:0016339	18	GO:0008037	cell recognition
+GO:0032674	1	GO:0032653	regulation of interleukin-10 production
+GO:0032613	1	GO:0032653	regulation of interleukin-10 production
+GO:0098961	16	GO:0034220	ion transmembrane transport
+GO:0098963	16	GO:0034220	ion transmembrane transport
+GO:0045143	18	GO:0008037	cell recognition
+GO:0045132	18	GO:0008037	cell recognition
+GO:0044725	4	GO:0043570	maintenance of DNA repeat elements
+GO:0098935	16	GO:0034220	ion transmembrane transport
+GO:0006357	2	GO:0045892	negative regulation of transcription, DNA-templated
+GO:0040029	1	GO:0032653	regulation of interleukin-10 production
+GO:0036475	20	GO:0046677	response to antibiotic
+GO:0033696	2	GO:0045892	negative regulation of transcription, DNA-templated
+GO:0060962	2	GO:0045892	negative regulation of transcription, DNA-templated
+GO:0019062	10	GO:0016032	viral process
+GO:0019054	11	GO:0044003	modulation by symbiont of host process
+GO:0019058	10	GO:0016032	viral process
+GO:0008037	18	GO:0008037	cell recognition
+GO:0019079	10	GO:0016032	viral process
+GO:0050907	15	GO:0050906	detection of stimulus involved in sensory perception
+GO:0001963	18	GO:0008037	cell recognition
+GO:0019048	11	GO:0044003	modulation by symbiont of host process
+GO:0019049	11	GO:0044003	modulation by symbiont of host process
+GO:1905632	18	GO:0008037	cell recognition
+GO:0016233	4	GO:0043570	maintenance of DNA repeat elements
+GO:0045892	2	GO:0045892	negative regulation of transcription, DNA-templated
+GO:0032943	18	GO:0008037	cell recognition
+GO:0035821	11	GO:0044003	modulation by symbiont of host process
+GO:0045818	3	GO:0010466	negative regulation of peptidase activity
+GO:0044650	10	GO:0016032	viral process
+GO:0006278	2	GO:0045892	negative regulation of transcription, DNA-templated
+GO:0010466	3	GO:0010466	negative regulation of peptidase activity
+GO:0046718	10	GO:0016032	viral process
+GO:0046740	10	GO:0016032	viral process
+GO:0046739	10	GO:0016032	viral process
+GO:0051043	3	GO:0010466	negative regulation of peptidase activity
+GO:0051037	2	GO:0045892	negative regulation of transcription, DNA-templated
+GO:0051039	2	GO:0045892	negative regulation of transcription, DNA-templated
+GO:0007155	18	GO:0008037	cell recognition
+GO:0007156	18	GO:0008037	cell recognition
+GO:0007186	9	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0007187	9	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0007188	9	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0007140	18	GO:0008037	cell recognition
+GO:0007131	4	GO:0043570	maintenance of DNA repeat elements
+GO:1905953	14	GO:0010453	regulation of cell fate commitment
+GO:0075713	10	GO:0016032	viral process
+GO:0006508	5	GO:0006508	proteolysis
+GO:1902679	2	GO:0045892	negative regulation of transcription, DNA-templated
+GO:0009432	20	GO:0046677	response to antibiotic
+GO:0075732	10	GO:0016032	viral process
+GO:0090314	16	GO:0034220	ion transmembrane transport
+GO:0030449	13	GO:0039573	suppression by virus of host complement activation
+GO:0034030	7	GO:0009072	aromatic amino acid family metabolic process
+GO:0034033	7	GO:0009072	aromatic amino acid family metabolic process
+GO:0045668	14	GO:0010453	regulation of cell fate commitment
+GO:1900020	3	GO:0010466	negative regulation of peptidase activity
+GO:0030193	12	GO:0030193	regulation of blood coagulation
+GO:0030195	12	GO:0030193	regulation of blood coagulation
+GO:1900015	1	GO:0032653	regulation of interleukin-10 production
+GO:1900046	14	GO:0010453	regulation of cell fate commitment
+GO:0035633	19	GO:0040011	locomotion
+GO:0045601	14	GO:0010453	regulation of cell fate commitment
+GO:0023019	9	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0043050	19	GO:0040011	locomotion
+GO:1901607	7	GO:0009072	aromatic amino acid family metabolic process
+GO:0019722	9	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0009252	6	GO:1901362	organic cyclic compound biosynthetic process
+GO:0019732	20	GO:0046677	response to antibiotic
+GO:0043038	7	GO:0009072	aromatic amino acid family metabolic process
+GO:0043039	7	GO:0009072	aromatic amino acid family metabolic process
+GO:0061900	20	GO:0046677	response to antibiotic
+GO:1903977	14	GO:0010453	regulation of cell fate commitment
+GO:1905787	15	GO:0050906	detection of stimulus involved in sensory perception
+GO:1905789	15	GO:0050906	detection of stimulus involved in sensory perception
+GO:1905770	14	GO:0010453	regulation of cell fate commitment
+GO:0030214	6	GO:1901362	organic cyclic compound biosynthetic process
+GO:0032069	1	GO:0032653	regulation of interleukin-10 production
+GO:0070475	4	GO:0043570	maintenance of DNA repeat elements
+GO:0016925	5	GO:0006508	proteolysis
+GO:0003018	19	GO:0040011	locomotion
+GO:0010760	13	GO:0039573	suppression by virus of host complement activation
+GO:0010758	13	GO:0039573	suppression by virus of host complement activation
+GO:0009785	9	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0003009	19	GO:0040011	locomotion
+GO:0090220	18	GO:0008037	cell recognition
+GO:0060149	3	GO:0010466	negative regulation of peptidase activity
+GO:0006953	20	GO:0046677	response to antibiotic
+GO:0006954	20	GO:0046677	response to antibiotic
+GO:0045998	6	GO:1901362	organic cyclic compound biosynthetic process
+GO:1900369	3	GO:0010466	negative regulation of peptidase activity
+GO:0006936	19	GO:0040011	locomotion
+GO:0006939	19	GO:0040011	locomotion
+GO:0034309	6	GO:1901362	organic cyclic compound biosynthetic process
+GO:0045910	2	GO:0045892	negative regulation of transcription, DNA-templated
+GO:0060252	14	GO:0010453	regulation of cell fate commitment
+GO:0045916	13	GO:0039573	suppression by virus of host complement activation
+GO:0045944	2	GO:0045892	negative regulation of transcription, DNA-templated
+GO:0045934	2	GO:0045892	negative regulation of transcription, DNA-templated
+GO:0010800	3	GO:0010466	negative regulation of peptidase activity
+GO:1905522	13	GO:0039573	suppression by virus of host complement activation
+GO:0009593	20	GO:0046677	response to antibiotic
+GO:0009597	20	GO:0046677	response to antibiotic
+GO:0038083	5	GO:0006508	proteolysis
+GO:0005983	6	GO:1901362	organic cyclic compound biosynthetic process
+GO:0039694	10	GO:0016032	viral process
+GO:0005975	5	GO:0006508	proteolysis
+GO:0010572	14	GO:0010453	regulation of cell fate commitment
+GO:0051092	2	GO:0045892	negative regulation of transcription, DNA-templated
+GO:0034196	16	GO:0034220	ion transmembrane transport
+GO:0034197	16	GO:0034220	ion transmembrane transport
+GO:0050728	12	GO:0030193	regulation of blood coagulation
+GO:0039644	2	GO:0045892	negative regulation of transcription, DNA-templated
+GO:0051053	2	GO:0045892	negative regulation of transcription, DNA-templated
+GO:0048008	9	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0008063	9	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0030541	18	GO:0008037	cell recognition
+GO:0030543	18	GO:0008037	cell recognition
+GO:1904000	19	GO:0040011	locomotion
+GO:0050708	16	GO:0034220	ion transmembrane transport
+GO:0050709	16	GO:0034220	ion transmembrane transport
+GO:0061081	1	GO:0032653	regulation of interleukin-10 production
+GO:0061082	1	GO:0032653	regulation of interleukin-10 production
+GO:0042364	6	GO:1901362	organic cyclic compound biosynthetic process
+GO:0034142	9	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0032328	16	GO:0034220	ion transmembrane transport
+GO:1900150	12	GO:0030193	regulation of blood coagulation
+GO:0050892	16	GO:0034220	ion transmembrane transport
+GO:0008015	19	GO:0040011	locomotion
+GO:0061041	12	GO:0030193	regulation of blood coagulation
+GO:0050860	8	GO:0010640	regulation of platelet-derived growth factor receptor signaling pathway
+GO:0042310	19	GO:0040011	locomotion
+GO:0050856	8	GO:0010640	regulation of platelet-derived growth factor receptor signaling pathway
+GO:0050858	8	GO:0010640	regulation of platelet-derived growth factor receptor signaling pathway
+GO:0042332	20	GO:0046677	response to antibiotic
+GO:0009611	20	GO:0046677	response to antibiotic
+GO:0010640	8	GO:0010640	regulation of platelet-derived growth factor receptor signaling pathway
+GO:0050821	19	GO:0040011	locomotion
+GO:0032497	20	GO:0046677	response to antibiotic
+GO:0034260	14	GO:0010453	regulation of cell fate commitment
+GO:1903034	12	GO:0030193	regulation of blood coagulation
+GO:0002371	1	GO:0032653	regulation of interleukin-10 production
+GO:0032481	1	GO:0032653	regulation of interleukin-10 production
+GO:0034220	16	GO:0034220	ion transmembrane transport
+GO:0044272	6	GO:1901362	organic cyclic compound biosynthetic process
+GO:0016048	15	GO:0050906	detection of stimulus involved in sensory perception
+GO:0090502	4	GO:0043570	maintenance of DNA repeat elements
+GO:0007014	5	GO:0006508	proteolysis
+GO:0031343	14	GO:0010453	regulation of cell fate commitment
+GO:0042448	6	GO:1901362	organic cyclic compound biosynthetic process
+GO:0097009	19	GO:0040011	locomotion
+GO:0006094	6	GO:1901362	organic cyclic compound biosynthetic process
+GO:0006096	7	GO:0009072	aromatic amino acid family metabolic process
+GO:0006099	6	GO:1901362	organic cyclic compound biosynthetic process
+GO:0034755	16	GO:0034220	ion transmembrane transport
+GO:0015074	4	GO:0043570	maintenance of DNA repeat elements
+GO:0002429	8	GO:0010640	regulation of platelet-derived growth factor receptor signaling pathway
+GO:0006086	7	GO:0009072	aromatic amino acid family metabolic process
+GO:0050667	7	GO:0009072	aromatic amino acid family metabolic process
+GO:0042116	18	GO:0008037	cell recognition
+GO:0035025	8	GO:0010640	regulation of platelet-derived growth factor receptor signaling pathway
+GO:1904385	20	GO:0046677	response to antibiotic
+GO:0033209	9	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0032102	12	GO:0030193	regulation of blood coagulation
+GO:0050670	14	GO:0010453	regulation of cell fate commitment
+GO:0050671	14	GO:0010453	regulation of cell fate commitment
+GO:0008360	14	GO:0010453	regulation of cell fate commitment
+GO:1901048	14	GO:0010453	regulation of cell fate commitment
+GO:0044826	10	GO:0016032	viral process
+GO:0042273	18	GO:0008037	cell recognition
+GO:1904480	16	GO:0034220	ion transmembrane transport
+GO:1904478	16	GO:0034220	ion transmembrane transport
+GO:0002269	20	GO:0046677	response to antibiotic
+GO:0033866	7	GO:0009072	aromatic amino acid family metabolic process
+GO:0051482	9	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0032760	1	GO:0032653	regulation of interleukin-10 production
+GO:0036392	1	GO:0032653	regulation of interleukin-10 production
+GO:0097396	20	GO:0046677	response to antibiotic
+GO:0097398	20	GO:0046677	response to antibiotic
+GO:0038166	9	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0002220	8	GO:0010640	regulation of platelet-derived growth factor receptor signaling pathway
+GO:0018130	7	GO:0009072	aromatic amino acid family metabolic process
+GO:0032774	2	GO:0045892	negative regulation of transcription, DNA-templated
+GO:0055085	18	GO:0008037	cell recognition
+GO:0032720	1	GO:0032653	regulation of interleukin-10 production
+GO:0032722	1	GO:0032653	regulation of interleukin-10 production
+GO:0042755	19	GO:0040011	locomotion
+GO:0032727	1	GO:0032653	regulation of interleukin-10 production
+GO:0032729	1	GO:0032653	regulation of interleukin-10 production
+GO:0062149	15	GO:0050906	detection of stimulus involved in sensory perception
+GO:0007343	18	GO:0008037	cell recognition
+GO:0071444	20	GO:0046677	response to antibiotic
+GO:0042730	12	GO:0030193	regulation of blood coagulation
+GO:0032700	1	GO:0032653	regulation of interleukin-10 production
+GO:0034654	2	GO:0045892	negative regulation of transcription, DNA-templated
+GO:0002752	8	GO:0010640	regulation of platelet-derived growth factor receptor signaling pathway
+GO:0002756	9	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0016485	5	GO:0006508	proteolysis
+GO:0002781	20	GO:0046677	response to antibiotic
+GO:0002788	13	GO:0039573	suppression by virus of host complement activation
+GO:0006351	2	GO:0045892	negative regulation of transcription, DNA-templated
+GO:0043553	3	GO:0010466	negative regulation of peptidase activity
+GO:0032875	3	GO:0010466	negative regulation of peptidase activity
+GO:0032876	3	GO:0010466	negative regulation of peptidase activity
+GO:0051149	14	GO:0010453	regulation of cell fate commitment
+GO:0043570	4	GO:0043570	maintenance of DNA repeat elements
+GO:0002730	1	GO:0032653	regulation of interleukin-10 production
+GO:0050961	15	GO:0050906	detection of stimulus involved in sensory perception
+GO:0050965	15	GO:0050906	detection of stimulus involved in sensory perception
+GO:0050966	15	GO:0050906	detection of stimulus involved in sensory perception
+GO:0002702	1	GO:0032653	regulation of interleukin-10 production
+GO:0050951	15	GO:0050906	detection of stimulus involved in sensory perception
+GO:0050955	15	GO:0050906	detection of stimulus involved in sensory perception
+GO:1901362	6	GO:1901362	organic cyclic compound biosynthetic process
+GO:0062208	8	GO:0010640	regulation of platelet-derived growth factor receptor signaling pathway
+GO:0060965	3	GO:0010466	negative regulation of peptidase activity
+GO:0050974	15	GO:0050906	detection of stimulus involved in sensory perception
+GO:0050975	15	GO:0050906	detection of stimulus involved in sensory perception
+GO:0050976	15	GO:0050906	detection of stimulus involved in sensory perception
+GO:0050914	15	GO:0050906	detection of stimulus involved in sensory perception
+GO:0097400	9	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0007193	9	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0051251	14	GO:0010453	regulation of cell fate commitment
+GO:0051281	16	GO:0034220	ion transmembrane transport
+GO:0050901	18	GO:0008037	cell recognition
+GO:0050906	15	GO:0050906	detection of stimulus involved in sensory perception
+GO:0007157	18	GO:0008037	cell recognition
+GO:0001774	18	GO:0008037	cell recognition
+GO:0070936	5	GO:0006508	proteolysis
+GO:0008211	6	GO:1901362	organic cyclic compound biosynthetic process
+GO:0046164	6	GO:1901362	organic cyclic compound biosynthetic process
+GO:0006418	7	GO:0009072	aromatic amino acid family metabolic process
+GO:0019042	10	GO:0016032	viral process
+GO:0019043	10	GO:0016032	viral process
+GO:0043648	7	GO:0009072	aromatic amino acid family metabolic process
+GO:0008207	6	GO:1901362	organic cyclic compound biosynthetic process
+GO:1904729	16	GO:0034220	ion transmembrane transport
+GO:1904731	16	GO:0034220	ion transmembrane transport
+GO:0032660	1	GO:0032653	regulation of interleukin-10 production
+GO:0032667	1	GO:0032653	regulation of interleukin-10 production
+GO:0035199	20	GO:0046677	response to antibiotic
+GO:0032689	1	GO:0032653	regulation of interleukin-10 production
+GO:0002526	20	GO:0046677	response to antibiotic
+GO:0061771	20	GO:0046677	response to antibiotic
+GO:0032620	1	GO:0032653	regulation of interleukin-10 production
+GO:0032627	1	GO:0032653	regulation of interleukin-10 production
+GO:0002532	20	GO:0046677	response to antibiotic
+GO:0002534	1	GO:0032653	regulation of interleukin-10 production
+GO:0007211	9	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0032647	1	GO:0032653	regulation of interleukin-10 production
+GO:0032648	1	GO:0032653	regulation of interleukin-10 production
+GO:0007218	9	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0032649	1	GO:0032653	regulation of interleukin-10 production
+GO:0009066	7	GO:0009072	aromatic amino acid family metabolic process
+GO:0009067	7	GO:0009072	aromatic amino acid family metabolic process
+GO:0009085	7	GO:0009072	aromatic amino acid family metabolic process
+GO:0098742	18	GO:0008037	cell recognition
+GO:0009072	7	GO:0009072	aromatic amino acid family metabolic process
+GO:0009074	7	GO:0009072	aromatic amino acid family metabolic process
+GO:0032607	1	GO:0032653	regulation of interleukin-10 production
+GO:0032608	1	GO:0032653	regulation of interleukin-10 production
+GO:0032609	1	GO:0032653	regulation of interleukin-10 production
+GO:0002690	13	GO:0039573	suppression by virus of host complement activation
+GO:0002699	14	GO:0010453	regulation of cell fate commitment
+GO:0006102	6	GO:1901362	organic cyclic compound biosynthetic process
+GO:0002689	13	GO:0039573	suppression by virus of host complement activation
+GO:0035296	19	GO:0040011	locomotion
+GO:0006265	4	GO:0043570	maintenance of DNA repeat elements
+GO:0040011	19	GO:0040011	locomotion
+GO:0040015	14	GO:0010453	regulation of cell fate commitment
+GO:0040018	14	GO:0010453	regulation of cell fate commitment
+GO:0098856	16	GO:0034220	ion transmembrane transport
+GO:0006276	18	GO:0008037	cell recognition
+GO:0031647	19	GO:0040011	locomotion
+GO:0031638	5	GO:0006508	proteolysis
+GO:1903881	8	GO:0010640	regulation of platelet-derived growth factor receptor signaling pathway
+GO:1903883	8	GO:0010640	regulation of platelet-derived growth factor receptor signaling pathway
+GO:1903884	1	GO:0032653	regulation of interleukin-10 production
+GO:0097746	19	GO:0040011	locomotion
+GO:1903886	1	GO:0032653	regulation of interleukin-10 production
+GO:0071806	16	GO:0034220	ion transmembrane transport
+GO:0035206	14	GO:0010453	regulation of cell fate commitment
+GO:0090030	6	GO:1901362	organic cyclic compound biosynthetic process
+GO:0015718	16	GO:0034220	ion transmembrane transport
+GO:0071555	18	GO:0008037	cell recognition
+GO:0006772	7	GO:0009072	aromatic amino acid family metabolic process
+GO:0043922	10	GO:0016032	viral process
+GO:0043923	10	GO:0016032	viral process
+GO:0019319	6	GO:1901362	organic cyclic compound biosynthetic process
+GO:0046813	10	GO:0016032	viral process
+GO:0015891	16	GO:0034220	ion transmembrane transport
+GO:0006704	6	GO:1901362	organic cyclic compound biosynthetic process
+GO:0045742	8	GO:0010640	regulation of platelet-derived growth factor receptor signaling pathway
+GO:1904645	20	GO:0046677	response to antibiotic
+GO:1904646	20	GO:0046677	response to antibiotic
+GO:0007596	12	GO:0030193	regulation of blood coagulation
+GO:0060078	19	GO:0040011	locomotion
+GO:0060079	9	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0071692	16	GO:0034220	ion transmembrane transport
+GO:1903507	2	GO:0045892	negative regulation of transcription, DNA-templated
+GO:0006857	16	GO:0034220	ion transmembrane transport
+GO:0007586	19	GO:0040011	locomotion
+GO:0016540	5	GO:0006508	proteolysis
+GO:0015833	16	GO:0034220	ion transmembrane transport
+GO:0098670	10	GO:0016032	viral process
+GO:0032944	14	GO:0010453	regulation of cell fate commitment
+GO:0032946	14	GO:0010453	regulation of cell fate commitment
+GO:0071675	13	GO:0039573	suppression by virus of host complement activation
+GO:0071622	13	GO:0039573	suppression by virus of host complement activation
+GO:0019438	7	GO:0009072	aromatic amino acid family metabolic process
+GO:0009312	6	GO:1901362	organic cyclic compound biosynthetic process
+GO:0045840	14	GO:0010453	regulation of cell fate commitment
+GO:0009306	16	GO:0034220	ion transmembrane transport
+GO:0009307	4	GO:0043570	maintenance of DNA repeat elements
+GO:0035592	16	GO:0034220	ion transmembrane transport
+GO:0006568	7	GO:0009072	aromatic amino acid family metabolic process
+GO:0006586	7	GO:0009072	aromatic amino acid family metabolic process
+GO:0097659	2	GO:0045892	negative regulation of transcription, DNA-templated
+GO:0030307	14	GO:0010453	regulation of cell fate commitment
+GO:0035584	9	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0035589	9	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0010453	14	GO:0010453	regulation of cell fate commitment
+GO:0007631	19	GO:0040011	locomotion
+GO:0006549	7	GO:0009072	aromatic amino acid family metabolic process
+GO:0046676	16	GO:0034220	ion transmembrane transport
+GO:0046677	20	GO:0046677	response to antibiotic
+GO:0007606	15	GO:0050906	detection of stimulus involved in sensory perception
+GO:0015695	16	GO:0034220	ion transmembrane transport

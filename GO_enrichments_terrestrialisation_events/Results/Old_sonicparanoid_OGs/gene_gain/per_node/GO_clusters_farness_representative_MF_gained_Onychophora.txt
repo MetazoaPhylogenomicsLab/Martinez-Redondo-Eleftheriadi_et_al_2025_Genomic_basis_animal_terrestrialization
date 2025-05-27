@@ -1,0 +1,137 @@
+GO:0005515	4	GO:0005515	protein binding
+GO:0005516	4	GO:0005515	protein binding
+GO:0005096	8	GO:0098772	molecular function regulator
+GO:0070840	6	GO:0030246	carbohydrate binding
+GO:0090729	10	GO:0005198	structural molecule activity
+GO:0005544	6	GO:0030246	carbohydrate binding
+GO:0005549	6	GO:0030246	carbohydrate binding
+GO:0046966	1	GO:0042974	retinoic acid receptor binding
+GO:0001216	10	GO:0005198	structural molecule activity
+GO:0005496	6	GO:0030246	carbohydrate binding
+GO:0030246	6	GO:0030246	carbohydrate binding
+GO:0030674	7	GO:0030674	protein-macromolecule adaptor activity
+GO:0030248	6	GO:0030246	carbohydrate binding
+GO:0005507	5	GO:0019103	pyrimidine nucleotide binding
+GO:0005085	8	GO:0098772	molecular function regulator
+GO:0001618	6	GO:0030246	carbohydrate binding
+GO:0004860	8	GO:0098772	molecular function regulator
+GO:0004864	8	GO:0098772	molecular function regulator
+GO:0004865	8	GO:0098772	molecular function regulator
+GO:0004866	8	GO:0098772	molecular function regulator
+GO:0004867	8	GO:0098772	molecular function regulator
+GO:0004857	8	GO:0098772	molecular function regulator
+GO:0048018	2	GO:0048018	receptor ligand activity
+GO:0140550	10	GO:0005198	structural molecule activity
+GO:0015459	8	GO:0098772	molecular function regulator
+GO:0008061	6	GO:0030246	carbohydrate binding
+GO:0000993	3	GO:0017166	vinculin binding
+GO:0098632	3	GO:0017166	vinculin binding
+GO:0008083	2	GO:0048018	receptor ligand activity
+GO:0003712	8	GO:0098772	molecular function regulator
+GO:0003714	8	GO:0098772	molecular function regulator
+GO:0005213	10	GO:0005198	structural molecule activity
+GO:0008011	10	GO:0005198	structural molecule activity
+GO:0001786	6	GO:0030246	carbohydrate binding
+GO:0008017	3	GO:0017166	vinculin binding
+GO:0042169	3	GO:0017166	vinculin binding
+GO:0034237	3	GO:0017166	vinculin binding
+GO:0000981	10	GO:0005198	structural molecule activity
+GO:0000987	5	GO:0019103	pyrimidine nucleotide binding
+GO:0030345	10	GO:0005198	structural molecule activity
+GO:0030346	3	GO:0017166	vinculin binding
+GO:0000977	5	GO:0019103	pyrimidine nucleotide binding
+GO:0000978	5	GO:0019103	pyrimidine nucleotide binding
+GO:0070530	3	GO:0017166	vinculin binding
+GO:0005200	10	GO:0005198	structural molecule activity
+GO:0016936	6	GO:0030246	carbohydrate binding
+GO:0019901	3	GO:0017166	vinculin binding
+GO:0005198	10	GO:0005198	structural molecule activity
+GO:0005199	10	GO:0005198	structural molecule activity
+GO:0043621	4	GO:0005515	protein binding
+GO:0019865	6	GO:0030246	carbohydrate binding
+GO:0045735	10	GO:0005198	structural molecule activity
+GO:0051010	3	GO:0017166	vinculin binding
+GO:0042302	10	GO:0005198	structural molecule activity
+GO:0019210	8	GO:0098772	molecular function regulator
+GO:0005184	2	GO:0048018	receptor ligand activity
+GO:0042974	1	GO:0042974	retinoic acid receptor binding
+GO:0030291	8	GO:0098772	molecular function regulator
+GO:0030296	8	GO:0098772	molecular function regulator
+GO:0106254	10	GO:0005198	structural molecule activity
+GO:0005179	2	GO:0048018	receptor ligand activity
+GO:0039660	10	GO:0005198	structural molecule activity
+GO:0005125	2	GO:0048018	receptor ligand activity
+GO:0005126	4	GO:0005515	protein binding
+GO:0003682	6	GO:0030246	carbohydrate binding
+GO:0005149	4	GO:0005515	protein binding
+GO:0120160	6	GO:0030246	carbohydrate binding
+GO:0005133	4	GO:0005515	protein binding
+GO:0005139	4	GO:0005515	protein binding
+GO:0106006	7	GO:0030674	protein-macromolecule adaptor activity
+GO:0071855	4	GO:0005515	protein binding
+GO:0017080	8	GO:0098772	molecular function regulator
+GO:0030276	4	GO:0005515	protein binding
+GO:0030247	6	GO:0030246	carbohydrate binding
+GO:0004862	8	GO:0098772	molecular function regulator
+GO:0008093	7	GO:0030674	protein-macromolecule adaptor activity
+GO:0070325	4	GO:0005515	protein binding
+GO:0019955	4	GO:0005515	protein binding
+GO:0000995	10	GO:0005198	structural molecule activity
+GO:0046812	6	GO:0030246	carbohydrate binding
+GO:0019864	6	GO:0030246	carbohydrate binding
+GO:0035615	3	GO:0017166	vinculin binding
+GO:0070851	4	GO:0005515	protein binding
+GO:0060090	7	GO:0030674	protein-macromolecule adaptor activity
+GO:0048306	4	GO:0005515	protein binding
+GO:0043495	7	GO:0030674	protein-macromolecule adaptor activity
+GO:0017166	3	GO:0017166	vinculin binding
+GO:0017151	3	GO:0017166	vinculin binding
+GO:0050699	3	GO:0017166	vinculin binding
+GO:0051087	4	GO:0005515	protein binding
+GO:0030545	8	GO:0098772	molecular function regulator
+GO:0030546	8	GO:0098772	molecular function regulator
+GO:0051427	4	GO:0005515	protein binding
+GO:0051428	4	GO:0005515	protein binding
+GO:0035064	3	GO:0017166	vinculin binding
+GO:0019966	3	GO:0017166	vinculin binding
+GO:0042393	4	GO:0005515	protein binding
+GO:0098772	8	GO:0098772	molecular function regulator
+GO:0140034	3	GO:0017166	vinculin binding
+GO:0008199	5	GO:0019103	pyrimidine nucleotide binding
+GO:1990846	8	GO:0098772	molecular function regulator
+GO:0036002	5	GO:0019103	pyrimidine nucleotide binding
+GO:0002039	4	GO:0005515	protein binding
+GO:0030374	8	GO:0098772	molecular function regulator
+GO:0035612	6	GO:0030246	carbohydrate binding
+GO:0030331	1	GO:0042974	retinoic acid receptor binding
+GO:0005102	4	GO:0005515	protein binding
+GO:0035259	1	GO:0042974	retinoic acid receptor binding
+GO:0046965	1	GO:0042974	retinoic acid receptor binding
+GO:0008603	8	GO:0098772	molecular function regulator
+GO:0042975	4	GO:0005515	protein binding
+GO:0042809	1	GO:0042974	retinoic acid receptor binding
+GO:0140312	7	GO:0030674	protein-macromolecule adaptor activity
+GO:0043014	3	GO:0017166	vinculin binding
+GO:0140272	6	GO:0030246	carbohydrate binding
+GO:0019894	3	GO:0017166	vinculin binding
+GO:0035375	3	GO:0017166	vinculin binding
+GO:0019103	5	GO:0019103	pyrimidine nucleotide binding
+GO:0070513	3	GO:0017166	vinculin binding
+GO:0019862	6	GO:0030246	carbohydrate binding
+GO:0030332	4	GO:0005515	protein binding
+GO:0061135	8	GO:0098772	molecular function regulator
+GO:0042834	6	GO:0030246	carbohydrate binding
+GO:1990825	5	GO:0019103	pyrimidine nucleotide binding
+GO:0003823	6	GO:0030246	carbohydrate binding
+GO:0034987	4	GO:0005515	protein binding
+GO:0042805	3	GO:0017166	vinculin binding
+GO:0001222	3	GO:0017166	vinculin binding
+GO:0030414	8	GO:0098772	molecular function regulator
+GO:0032557	5	GO:0019103	pyrimidine nucleotide binding
+GO:0030021	10	GO:0005198	structural molecule activity
+GO:0046789	6	GO:0030246	carbohydrate binding
+GO:0042162	5	GO:0019103	pyrimidine nucleotide binding
+GO:0140416	8	GO:0098772	molecular function regulator
+GO:0003690	5	GO:0019103	pyrimidine nucleotide binding
+GO:0099106	8	GO:0098772	molecular function regulator
+GO:0008307	10	GO:0005198	structural molecule activity

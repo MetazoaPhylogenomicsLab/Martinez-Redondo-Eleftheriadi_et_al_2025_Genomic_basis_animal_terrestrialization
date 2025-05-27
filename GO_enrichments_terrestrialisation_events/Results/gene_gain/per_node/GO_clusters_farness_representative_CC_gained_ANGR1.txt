@@ -1,0 +1,15 @@
+GO:0098827	2	GO:0098827	endoplasmic reticulum subcompartment
+GO:0005783	2	GO:0098827	endoplasmic reticulum subcompartment
+GO:0005789	2	GO:0098827	endoplasmic reticulum subcompartment
+GO:0009505	1	GO:0071944	cell periphery
+GO:0009506	1	GO:0071944	cell periphery
+GO:0031984	2	GO:0098827	endoplasmic reticulum subcompartment
+GO:0042175	1	GO:0071944	cell periphery
+GO:0071944	1	GO:0071944	cell periphery
+GO:0090406	1	GO:0071944	cell periphery
+GO:0045121	1	GO:0071944	cell periphery
+GO:0005902	1	GO:0071944	cell periphery
+GO:0005576	1	GO:0071944	cell periphery
+GO:0060102	1	GO:0071944	cell periphery
+GO:0048046	1	GO:0071944	cell periphery
+GO:0005829	1	GO:0071944	cell periphery

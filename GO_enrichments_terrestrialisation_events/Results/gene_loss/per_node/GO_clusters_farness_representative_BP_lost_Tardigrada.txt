@@ -1,0 +1,290 @@
+GO:0015074	6	GO:0009100	glycoprotein metabolic process
+GO:0006468	6	GO:0009100	glycoprotein metabolic process
+GO:0046693	12	GO:0007586	digestion
+GO:1901224	5	GO:0010469	regulation of signaling receptor activity
+GO:0006486	6	GO:0009100	glycoprotein metabolic process
+GO:0042178	9	GO:0098754	detoxification
+GO:2000179	10	GO:0042762	regulation of sulfur metabolic process
+GO:0002092	10	GO:0042762	regulation of sulfur metabolic process
+GO:0017198	6	GO:0009100	glycoprotein metabolic process
+GO:0033559	6	GO:0009100	glycoprotein metabolic process
+GO:0019221	5	GO:0010469	regulation of signaling receptor activity
+GO:0030073	8	GO:0015695	organic cation transport
+GO:2000294	12	GO:0007586	digestion
+GO:0002076	1	GO:0048863	stem cell differentiation
+GO:0018996	12	GO:0007586	digestion
+GO:0006182	6	GO:0009100	glycoprotein metabolic process
+GO:0031294	10	GO:0042762	regulation of sulfur metabolic process
+GO:0031295	10	GO:0042762	regulation of sulfur metabolic process
+GO:2000272	5	GO:0010469	regulation of signaling receptor activity
+GO:0034143	5	GO:0010469	regulation of signaling receptor activity
+GO:0050650	6	GO:0009100	glycoprotein metabolic process
+GO:0045491	6	GO:0009100	glycoprotein metabolic process
+GO:0010493	6	GO:0009100	glycoprotein metabolic process
+GO:0070741	9	GO:0098754	detoxification
+GO:1904731	8	GO:0015695	organic cation transport
+GO:0010469	5	GO:0010469	regulation of signaling receptor activity
+GO:0033674	10	GO:0042762	regulation of sulfur metabolic process
+GO:0042762	10	GO:0042762	regulation of sulfur metabolic process
+GO:1990748	9	GO:0098754	detoxification
+GO:0006278	6	GO:0009100	glycoprotein metabolic process
+GO:0060348	3	GO:0001501	skeletal system development
+GO:0060349	3	GO:0001501	skeletal system development
+GO:0045434	12	GO:0007586	digestion
+GO:0032369	8	GO:0015695	organic cation transport
+GO:0030902	3	GO:0001501	skeletal system development
+GO:0035073	3	GO:0001501	skeletal system development
+GO:0035075	9	GO:0098754	detoxification
+GO:2000736	2	GO:0050768	negative regulation of neurogenesis
+GO:2000738	2	GO:0050768	negative regulation of neurogenesis
+GO:0032374	8	GO:0015695	organic cation transport
+GO:0046008	12	GO:0007586	digestion
+GO:0022600	12	GO:0007586	digestion
+GO:0035008	10	GO:0042762	regulation of sulfur metabolic process
+GO:0070592	6	GO:0009100	glycoprotein metabolic process
+GO:1990834	9	GO:0098754	detoxification
+GO:0060443	3	GO:0001501	skeletal system development
+GO:0070555	9	GO:0098754	detoxification
+GO:0043413	6	GO:0009100	glycoprotein metabolic process
+GO:0061687	9	GO:0098754	detoxification
+GO:0090263	5	GO:0010469	regulation of signaling receptor activity
+GO:0032481	7	GO:0032481	positive regulation of type I interferon production
+GO:0044042	6	GO:0009100	glycoprotein metabolic process
+GO:0090279	8	GO:0015695	organic cation transport
+GO:0043406	5	GO:0010469	regulation of signaling receptor activity
+GO:0071356	9	GO:0098754	detoxification
+GO:1901655	9	GO:0098754	detoxification
+GO:0048146	10	GO:0042762	regulation of sulfur metabolic process
+GO:0002376	12	GO:0007586	digestion
+GO:0051273	6	GO:0009100	glycoprotein metabolic process
+GO:0071345	9	GO:0098754	detoxification
+GO:0062208	5	GO:0010469	regulation of signaling receptor activity
+GO:1905330	4	GO:0060688	regulation of morphogenesis of a branching structure
+GO:2000573	6	GO:0009100	glycoprotein metabolic process
+GO:0007426	3	GO:0001501	skeletal system development
+GO:0030308	10	GO:0042762	regulation of sulfur metabolic process
+GO:0007429	3	GO:0001501	skeletal system development
+GO:0001890	3	GO:0001501	skeletal system development
+GO:0001892	3	GO:0001501	skeletal system development
+GO:0009100	6	GO:0009100	glycoprotein metabolic process
+GO:0009101	6	GO:0009100	glycoprotein metabolic process
+GO:0007430	3	GO:0001501	skeletal system development
+GO:0016998	6	GO:0009100	glycoprotein metabolic process
+GO:0042690	2	GO:0050768	negative regulation of neurogenesis
+GO:0050918	9	GO:0098754	detoxification
+GO:0050919	9	GO:0098754	detoxification
+GO:0001822	3	GO:0001501	skeletal system development
+GO:0014068	5	GO:0010469	regulation of signaling receptor activity
+GO:0051785	10	GO:0042762	regulation of sulfur metabolic process
+GO:0120033	10	GO:0042762	regulation of sulfur metabolic process
+GO:0042688	1	GO:0048863	stem cell differentiation
+GO:0007166	5	GO:0010469	regulation of signaling receptor activity
+GO:0042689	2	GO:0050768	negative regulation of neurogenesis
+GO:0007168	5	GO:0010469	regulation of signaling receptor activity
+GO:0043252	8	GO:0015695	organic cation transport
+GO:0045740	6	GO:0009100	glycoprotein metabolic process
+GO:0045741	10	GO:0042762	regulation of sulfur metabolic process
+GO:0045747	5	GO:0010469	regulation of signaling receptor activity
+GO:0007186	5	GO:0010469	regulation of signaling receptor activity
+GO:0007189	5	GO:0010469	regulation of signaling receptor activity
+GO:0031666	5	GO:0010469	regulation of signaling receptor activity
+GO:0010739	5	GO:0010469	regulation of signaling receptor activity
+GO:0048754	3	GO:0001501	skeletal system development
+GO:0006508	6	GO:0009100	glycoprotein metabolic process
+GO:0001558	10	GO:0042762	regulation of sulfur metabolic process
+GO:0048771	12	GO:0007586	digestion
+GO:0051897	5	GO:0010469	regulation of signaling receptor activity
+GO:0018108	6	GO:0009100	glycoprotein metabolic process
+GO:0031638	6	GO:0009100	glycoprotein metabolic process
+GO:0001525	3	GO:0001501	skeletal system development
+GO:0010877	8	GO:0015695	organic cation transport
+GO:0045840	10	GO:0042762	regulation of sulfur metabolic process
+GO:0007280	12	GO:0007586	digestion
+GO:0034612	9	GO:0098754	detoxification
+GO:0046425	5	GO:0010469	regulation of signaling receptor activity
+GO:0090596	3	GO:0001501	skeletal system development
+GO:0006636	6	GO:0009100	glycoprotein metabolic process
+GO:0032760	7	GO:0032481	positive regulation of type I interferon production
+GO:0007218	5	GO:0010469	regulation of signaling receptor activity
+GO:0010800	6	GO:0009100	glycoprotein metabolic process
+GO:0045807	10	GO:0042762	regulation of sulfur metabolic process
+GO:0048863	1	GO:0048863	stem cell differentiation
+GO:0036066	6	GO:0009100	glycoprotein metabolic process
+GO:0010595	10	GO:0042762	regulation of sulfur metabolic process
+GO:0001658	3	GO:0001501	skeletal system development
+GO:0015721	8	GO:0015695	organic cation transport
+GO:0051597	9	GO:0098754	detoxification
+GO:0032729	7	GO:0032481	positive regulation of type I interferon production
+GO:0010560	6	GO:0009100	glycoprotein metabolic process
+GO:0098754	9	GO:0098754	detoxification
+GO:0051567	6	GO:0009100	glycoprotein metabolic process
+GO:2000060	6	GO:0009100	glycoprotein metabolic process
+GO:0033344	8	GO:0015695	organic cation transport
+GO:1905278	4	GO:0060688	regulation of morphogenesis of a branching structure
+GO:0030212	6	GO:0009100	glycoprotein metabolic process
+GO:2000027	4	GO:0060688	regulation of morphogenesis of a branching structure
+GO:0032890	8	GO:0015695	organic cation transport
+GO:0035153	1	GO:0048863	stem cell differentiation
+GO:0035154	1	GO:0048863	stem cell differentiation
+GO:0032885	6	GO:0009100	glycoprotein metabolic process
+GO:2000008	10	GO:0042762	regulation of sulfur metabolic process
+GO:0035149	3	GO:0001501	skeletal system development
+GO:0048511	12	GO:0007586	digestion
+GO:0048514	3	GO:0001501	skeletal system development
+GO:0098868	12	GO:0007586	digestion
+GO:0098869	9	GO:0098754	detoxification
+GO:0010656	10	GO:0042762	regulation of sulfur metabolic process
+GO:0006073	6	GO:0009100	glycoprotein metabolic process
+GO:0045685	2	GO:0050768	negative regulation of neurogenesis
+GO:0006024	6	GO:0009100	glycoprotein metabolic process
+GO:0071715	8	GO:0015695	organic cation transport
+GO:0097009	12	GO:0007586	digestion
+GO:0045614	2	GO:0050768	negative regulation of neurogenesis
+GO:0010633	10	GO:0042762	regulation of sulfur metabolic process
+GO:0040015	2	GO:0050768	negative regulation of neurogenesis
+GO:0042908	8	GO:0015695	organic cation transport
+GO:0035234	1	GO:0048863	stem cell differentiation
+GO:0048640	2	GO:0050768	negative regulation of neurogenesis
+GO:0030879	3	GO:0001501	skeletal system development
+GO:0035202	3	GO:0001501	skeletal system development
+GO:1905885	8	GO:0015695	organic cation transport
+GO:0060688	4	GO:0060688	regulation of morphogenesis of a branching structure
+GO:0006954	9	GO:0098754	detoxification
+GO:0006955	9	GO:0098754	detoxification
+GO:0007568	1	GO:0048863	stem cell differentiation
+GO:0007586	12	GO:0007586	digestion
+GO:0015695	8	GO:0015695	organic cation transport
+GO:0044264	6	GO:0009100	glycoprotein metabolic process
+GO:0046717	8	GO:0015695	organic cation transport
+GO:0070374	5	GO:0010469	regulation of signaling receptor activity
+GO:0035773	8	GO:0015695	organic cation transport
+GO:0016266	6	GO:0009100	glycoprotein metabolic process
+GO:0003151	3	GO:0001501	skeletal system development
+GO:0002520	3	GO:0001501	skeletal system development
+GO:0001938	10	GO:0042762	regulation of sulfur metabolic process
+GO:0030517	2	GO:0050768	negative regulation of neurogenesis
+GO:0051048	8	GO:0015695	organic cation transport
+GO:0050768	2	GO:0050768	negative regulation of neurogenesis
+GO:0061180	3	GO:0001501	skeletal system development
+GO:0046849	12	GO:0007586	digestion
+GO:0061178	10	GO:0042762	regulation of sulfur metabolic process
+GO:0050771	2	GO:0050768	negative regulation of neurogenesis
+GO:0031345	10	GO:0042762	regulation of sulfur metabolic process
+GO:0034391	10	GO:0042762	regulation of sulfur metabolic process
+GO:0006384	6	GO:0009100	glycoprotein metabolic process
+GO:0050708	8	GO:0015695	organic cation transport
+GO:0003254	10	GO:0042762	regulation of sulfur metabolic process
+GO:0010977	2	GO:0050768	negative regulation of neurogenesis
+GO:0060041	3	GO:0001501	skeletal system development
+GO:0045927	10	GO:0042762	regulation of sulfur metabolic process
+GO:0045913	7	GO:0032481	positive regulation of type I interferon production
+GO:1903557	7	GO:0032481	positive regulation of type I interferon production
+GO:0042438	6	GO:0009100	glycoprotein metabolic process
+GO:1900020	6	GO:0009100	glycoprotein metabolic process
+GO:0045938	12	GO:0007586	digestion
+GO:1900025	2	GO:0050768	negative regulation of neurogenesis
+GO:1900027	10	GO:0042762	regulation of sulfur metabolic process
+GO:1900019	6	GO:0009100	glycoprotein metabolic process
+GO:0015012	6	GO:0009100	glycoprotein metabolic process
+GO:0097475	1	GO:0048863	stem cell differentiation
+GO:0033563	1	GO:0048863	stem cell differentiation
+GO:0016567	6	GO:0009100	glycoprotein metabolic process
+GO:2000292	12	GO:0007586	digestion
+GO:0042276	6	GO:0009100	glycoprotein metabolic process
+GO:0002009	3	GO:0001501	skeletal system development
+GO:2000242	10	GO:0042762	regulation of sulfur metabolic process
+GO:0019755	8	GO:0015695	organic cation transport
+GO:0033688	10	GO:0042762	regulation of sulfur metabolic process
+GO:0048333	1	GO:0048863	stem cell differentiation
+GO:0034220	8	GO:0015695	organic cation transport
+GO:0034219	8	GO:0015695	organic cation transport
+GO:0051447	10	GO:0042762	regulation of sulfur metabolic process
+GO:1905941	4	GO:0060688	regulation of morphogenesis of a branching structure
+GO:1905936	10	GO:0042762	regulation of sulfur metabolic process
+GO:1905939	4	GO:0060688	regulation of morphogenesis of a branching structure
+GO:0022603	4	GO:0060688	regulation of morphogenesis of a branching structure
+GO:0022604	4	GO:0060688	regulation of morphogenesis of a branching structure
+GO:0008643	8	GO:0015695	organic cation transport
+GO:0006718	6	GO:0009100	glycoprotein metabolic process
+GO:0006749	6	GO:0009100	glycoprotein metabolic process
+GO:0044058	12	GO:0007586	digestion
+GO:0046942	8	GO:0015695	organic cation transport
+GO:0032446	6	GO:0009100	glycoprotein metabolic process
+GO:0001710	1	GO:0048863	stem cell differentiation
+GO:0032435	6	GO:0009100	glycoprotein metabolic process
+GO:0071312	9	GO:0098754	detoxification
+GO:0030334	10	GO:0042762	regulation of sulfur metabolic process
+GO:1900180	10	GO:0042762	regulation of sulfur metabolic process
+GO:1900182	10	GO:0042762	regulation of sulfur metabolic process
+GO:0043123	5	GO:0010469	regulation of signaling receptor activity
+GO:0007417	3	GO:0001501	skeletal system development
+GO:0050920	9	GO:0098754	detoxification
+GO:0070647	6	GO:0009100	glycoprotein metabolic process
+GO:0050911	12	GO:0007586	digestion
+GO:0009269	9	GO:0098754	detoxification
+GO:0007193	5	GO:0010469	regulation of signaling receptor activity
+GO:0060281	2	GO:0050768	negative regulation of neurogenesis
+GO:0060282	2	GO:0050768	negative regulation of neurogenesis
+GO:0016925	6	GO:0009100	glycoprotein metabolic process
+GO:0060278	12	GO:0007586	digestion
+GO:0055085	8	GO:0015695	organic cation transport
+GO:0061097	6	GO:0009100	glycoprotein metabolic process
+GO:0050906	12	GO:0007586	digestion
+GO:1903356	10	GO:0042762	regulation of sulfur metabolic process
+GO:0061081	7	GO:0032481	positive regulation of type I interferon production
+GO:0061082	7	GO:0032481	positive regulation of type I interferon production
+GO:0042631	9	GO:0098754	detoxification
+GO:0031648	12	GO:0007586	digestion
+GO:0032223	10	GO:0042762	regulation of sulfur metabolic process
+GO:0002164	3	GO:0001501	skeletal system development
+GO:0048729	3	GO:0001501	skeletal system development
+GO:0032218	8	GO:0015695	organic cation transport
+GO:0030157	12	GO:0007586	digestion
+GO:1901048	10	GO:0042762	regulation of sulfur metabolic process
+GO:1905145	9	GO:0098754	detoxification
+GO:0001501	3	GO:0001501	skeletal system development
+GO:0006611	8	GO:0015695	organic cation transport
+GO:0007214	5	GO:0010469	regulation of signaling receptor activity
+GO:1903430	2	GO:0050768	negative regulation of neurogenesis
+GO:1903431	2	GO:0050768	negative regulation of neurogenesis
+GO:0032728	7	GO:0032481	positive regulation of type I interferon production
+GO:0007200	5	GO:0010469	regulation of signaling receptor activity
+GO:0015711	8	GO:0015695	organic cation transport
+GO:0035435	8	GO:0015695	organic cation transport
+GO:0080154	10	GO:0042762	regulation of sulfur metabolic process
+GO:0010569	6	GO:0009100	glycoprotein metabolic process
+GO:0008360	4	GO:0060688	regulation of morphogenesis of a branching structure
+GO:0030206	6	GO:0009100	glycoprotein metabolic process
+GO:0035150	12	GO:0007586	digestion
+GO:0032875	6	GO:0009100	glycoprotein metabolic process
+GO:0016485	6	GO:0009100	glycoprotein metabolic process
+GO:0016476	4	GO:0060688	regulation of morphogenesis of a branching structure
+GO:0015849	8	GO:0015695	organic cation transport
+GO:0002720	7	GO:0032481	positive regulation of type I interferon production
+GO:0030728	12	GO:0007586	digestion
+GO:0040025	3	GO:0001501	skeletal system development
+GO:0040028	4	GO:0060688	regulation of morphogenesis of a branching structure
+GO:0040019	4	GO:0060688	regulation of morphogenesis of a branching structure
+GO:0048662	10	GO:0042762	regulation of sulfur metabolic process
+GO:0071897	6	GO:0009100	glycoprotein metabolic process
+GO:0095500	5	GO:0010469	regulation of signaling receptor activity
+GO:0072488	8	GO:0015695	organic cation transport
+GO:0051091	6	GO:0009100	glycoprotein metabolic process
+GO:0120163	12	GO:0007586	digestion
+GO:0032648	7	GO:0032481	positive regulation of type I interferon production
+GO:0030512	5	GO:0010469	regulation of signaling receptor activity
+GO:0016233	6	GO:0009100	glycoprotein metabolic process
+GO:0032608	7	GO:0032481	positive regulation of type I interferon production
+GO:0042311	12	GO:0007586	digestion
+GO:1905516	10	GO:0042762	regulation of sulfur metabolic process
+GO:0070417	9	GO:0098754	detoxification
+GO:0035810	12	GO:0007586	digestion
+GO:0045995	4	GO:0060688	regulation of morphogenesis of a branching structure
+GO:0007600	12	GO:0007586	digestion
+GO:0007605	12	GO:0007586	digestion
+GO:0007606	12	GO:0007586	digestion
+GO:0007608	12	GO:0007586	digestion
+GO:0006366	6	GO:0009100	glycoprotein metabolic process
+GO:0006357	6	GO:0009100	glycoprotein metabolic process
+GO:0019430	9	GO:0098754	detoxification
+GO:0006301	6	GO:0009100	glycoprotein metabolic process

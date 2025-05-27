@@ -1,0 +1,23 @@
+GO:0140034	3	GO:0005515	protein binding
+GO:0035064	3	GO:0005515	protein binding
+GO:0090729	2	GO:0140110	transcription regulator activity
+GO:0016248	2	GO:0140110	transcription regulator activity
+GO:0016892	1	GO:0000213	tRNA-intron endonuclease activity
+GO:0016894	1	GO:0000213	tRNA-intron endonuclease activity
+GO:0019212	2	GO:0140110	transcription regulator activity
+GO:0005125	3	GO:0005515	protein binding
+GO:0005515	3	GO:0005515	protein binding
+GO:0005516	3	GO:0005515	protein binding
+GO:0005133	3	GO:0005515	protein binding
+GO:0005139	3	GO:0005515	protein binding
+GO:0004862	2	GO:0140110	transcription regulator activity
+GO:0004864	2	GO:0140110	transcription regulator activity
+GO:0004517	2	GO:0140110	transcription regulator activity
+GO:0004857	2	GO:0140110	transcription regulator activity
+GO:0004549	1	GO:0000213	tRNA-intron endonuclease activity
+GO:0140110	2	GO:0140110	transcription regulator activity
+GO:0048306	3	GO:0005515	protein binding
+GO:0003714	2	GO:0140110	transcription regulator activity
+GO:0008200	2	GO:0140110	transcription regulator activity
+GO:0000213	1	GO:0000213	tRNA-intron endonuclease activity
+GO:0015616	2	GO:0140110	transcription regulator activity

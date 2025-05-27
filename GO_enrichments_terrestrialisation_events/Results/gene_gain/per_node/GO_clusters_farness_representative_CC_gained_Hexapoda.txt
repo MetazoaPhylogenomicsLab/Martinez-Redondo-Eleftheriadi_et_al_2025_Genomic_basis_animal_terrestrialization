@@ -1,0 +1,93 @@
+GO:0034364	6	GO:0030312	external encapsulating structure
+GO:0033655	1	GO:0033655	host cell cytoplasm part
+GO:0030430	1	GO:0033655	host cell cytoplasm part
+GO:0044423	4	GO:0019028	viral capsid
+GO:0020002	2	GO:0033644	host cell membrane
+GO:0009506	6	GO:0030312	external encapsulating structure
+GO:0030056	6	GO:0030312	external encapsulating structure
+GO:0035869	6	GO:0030312	external encapsulating structure
+GO:0000324	5	GO:0055120	striated muscle dense body
+GO:0005911	6	GO:0030312	external encapsulating structure
+GO:0005912	6	GO:0030312	external encapsulating structure
+GO:0055044	6	GO:0030312	external encapsulating structure
+GO:0098592	6	GO:0030312	external encapsulating structure
+GO:0031410	5	GO:0055120	striated muscle dense body
+GO:0016327	6	GO:0030312	external encapsulating structure
+GO:0005918	6	GO:0030312	external encapsulating structure
+GO:0005615	6	GO:0030312	external encapsulating structure
+GO:0032153	6	GO:0030312	external encapsulating structure
+GO:0062129	6	GO:0030312	external encapsulating structure
+GO:0044163	1	GO:0033655	host cell cytoplasm part
+GO:0070160	6	GO:0030312	external encapsulating structure
+GO:0019031	4	GO:0019028	viral capsid
+GO:0098552	6	GO:0030312	external encapsulating structure
+GO:0055036	6	GO:0030312	external encapsulating structure
+GO:0032590	6	GO:0030312	external encapsulating structure
+GO:0044177	1	GO:0033655	host cell cytoplasm part
+GO:0098595	6	GO:0030312	external encapsulating structure
+GO:0009897	6	GO:0030312	external encapsulating structure
+GO:0033644	2	GO:0033644	host cell membrane
+GO:0039624	4	GO:0019028	viral capsid
+GO:0043202	5	GO:0055120	striated muscle dense body
+GO:0019030	4	GO:0019028	viral capsid
+GO:0000786	5	GO:0055120	striated muscle dense body
+GO:0036338	4	GO:0019028	viral capsid
+GO:0031012	6	GO:0030312	external encapsulating structure
+GO:0016514	5	GO:0055120	striated muscle dense body
+GO:0031143	6	GO:0030312	external encapsulating structure
+GO:0019028	4	GO:0019028	viral capsid
+GO:0019029	4	GO:0019028	viral capsid
+GO:0031261	5	GO:0055120	striated muscle dense body
+GO:0005775	5	GO:0055120	striated muscle dense body
+GO:0016324	6	GO:0030312	external encapsulating structure
+GO:0043656	1	GO:0033655	host cell cytoplasm part
+GO:0005721	5	GO:0055120	striated muscle dense body
+GO:0019867	6	GO:0030312	external encapsulating structure
+GO:0055120	5	GO:0055120	striated muscle dense body
+GO:0043083	6	GO:0030312	external encapsulating structure
+GO:1990342	5	GO:0055120	striated muscle dense body
+GO:0005741	5	GO:0055120	striated muscle dense body
+GO:0043073	5	GO:0055120	striated muscle dense body
+GO:0099115	5	GO:0055120	striated muscle dense body
+GO:0044161	1	GO:0033655	host cell cytoplasm part
+GO:0044164	1	GO:0033655	host cell cytoplasm part
+GO:0044165	1	GO:0033655	host cell cytoplasm part
+GO:0044167	1	GO:0033655	host cell cytoplasm part
+GO:0033645	2	GO:0033644	host cell membrane
+GO:0033646	1	GO:0033655	host cell cytoplasm part
+GO:0044156	2	GO:0033644	host cell membrane
+GO:0045177	6	GO:0030312	external encapsulating structure
+GO:0005920	6	GO:0030312	external encapsulating structure
+GO:0044231	2	GO:0033644	host cell membrane
+GO:0120025	6	GO:0030312	external encapsulating structure
+GO:0044220	1	GO:0033655	host cell cytoplasm part
+GO:0098590	6	GO:0030312	external encapsulating structure
+GO:0030426	6	GO:0030312	external encapsulating structure
+GO:0009898	6	GO:0030312	external encapsulating structure
+GO:0005828	5	GO:0055120	striated muscle dense body
+GO:0070062	6	GO:0030312	external encapsulating structure
+GO:0072562	6	GO:0030312	external encapsulating structure
+GO:0043186	5	GO:0055120	striated muscle dense body
+GO:0000792	5	GO:0055120	striated muscle dense body
+GO:0043005	6	GO:0030312	external encapsulating structure
+GO:0005929	6	GO:0030312	external encapsulating structure
+GO:0005604	6	GO:0030312	external encapsulating structure
+GO:0009277	6	GO:0030312	external encapsulating structure
+GO:0042763	6	GO:0030312	external encapsulating structure
+GO:0042764	6	GO:0030312	external encapsulating structure
+GO:0005576	6	GO:0030312	external encapsulating structure
+GO:0005685	5	GO:0055120	striated muscle dense body
+GO:0031983	5	GO:0055120	striated muscle dense body
+GO:0030312	6	GO:0030312	external encapsulating structure
+GO:0034774	5	GO:0055120	striated muscle dense body
+GO:0060205	5	GO:0055120	striated muscle dense body
+GO:0001669	5	GO:0055120	striated muscle dense body
+GO:0043160	5	GO:0055120	striated muscle dense body
+GO:0005818	5	GO:0055120	striated muscle dense body
+GO:0005819	5	GO:0055120	striated muscle dense body
+GO:0030479	5	GO:0055120	striated muscle dense body
+GO:0008023	5	GO:0055120	striated muscle dense body
+GO:1990423	5	GO:0055120	striated muscle dense body
+GO:0000242	5	GO:0055120	striated muscle dense body
+GO:0009279	6	GO:0030312	external encapsulating structure
+GO:0044178	1	GO:0033655	host cell cytoplasm part

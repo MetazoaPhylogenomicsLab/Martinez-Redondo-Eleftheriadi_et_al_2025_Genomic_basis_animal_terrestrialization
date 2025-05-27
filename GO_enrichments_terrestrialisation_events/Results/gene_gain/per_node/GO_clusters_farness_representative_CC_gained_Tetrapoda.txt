@@ -1,0 +1,125 @@
+GO:0005952	4	GO:0044423	virion component
+GO:0005637	6	GO:0009536	plastid
+GO:0042627	2	GO:0005576	extracellular region
+GO:0097224	3	GO:0120025	plasma membrane bounded cell projection
+GO:0043657	1	GO:0033646	host intracellular part
+GO:0005929	3	GO:0120025	plasma membrane bounded cell projection
+GO:0042597	2	GO:0005576	extracellular region
+GO:0018995	2	GO:0005576	extracellular region
+GO:0033643	1	GO:0033646	host intracellular part
+GO:0000930	7	GO:0005814	centriole
+GO:0005614	2	GO:0005576	extracellular region
+GO:0000243	5	GO:0000346	transcription export complex
+GO:0034709	6	GO:0009536	plastid
+GO:1905286	4	GO:0044423	virion component
+GO:0001533	2	GO:0005576	extracellular region
+GO:1905370	4	GO:0044423	virion component
+GO:0005814	7	GO:0005814	centriole
+GO:0071005	5	GO:0000346	transcription export complex
+GO:0071007	5	GO:0000346	transcription export complex
+GO:0009536	6	GO:0009536	plastid
+GO:0036064	7	GO:0005814	centriole
+GO:0046540	5	GO:0000346	transcription export complex
+GO:0097526	5	GO:0000346	transcription export complex
+GO:0035686	3	GO:0120025	plasma membrane bounded cell projection
+GO:0005682	5	GO:0000346	transcription export complex
+GO:0005685	5	GO:0000346	transcription export complex
+GO:0000408	4	GO:0044423	virion component
+GO:0005686	5	GO:0000346	transcription export complex
+GO:0005687	5	GO:0000346	transcription export complex
+GO:0034715	6	GO:0009536	plastid
+GO:0005689	5	GO:0000346	transcription export complex
+GO:0034719	6	GO:0009536	plastid
+GO:0071011	5	GO:0000346	transcription export complex
+GO:0055036	2	GO:0005576	extracellular region
+GO:0030430	1	GO:0033646	host intracellular part
+GO:0044423	4	GO:0044423	virion component
+GO:0070062	2	GO:0005576	extracellular region
+GO:1903561	2	GO:0005576	extracellular region
+GO:0034361	2	GO:0005576	extracellular region
+GO:0043230	2	GO:0005576	extracellular region
+GO:0009897	2	GO:0005576	extracellular region
+GO:0014069	2	GO:0005576	extracellular region
+GO:0034385	2	GO:0005576	extracellular region
+GO:0032279	2	GO:0005576	extracellular region
+GO:0065010	2	GO:0005576	extracellular region
+GO:0097228	3	GO:0120025	plasma membrane bounded cell projection
+GO:0043204	2	GO:0005576	extracellular region
+GO:1902554	4	GO:0044423	virion component
+GO:0030018	7	GO:0005814	centriole
+GO:0000346	5	GO:0000346	transcription export complex
+GO:0070652	7	GO:0005814	centriole
+GO:0033655	1	GO:0033646	host intracellular part
+GO:0032391	3	GO:0120025	plasma membrane bounded cell projection
+GO:0042025	1	GO:0033646	host intracellular part
+GO:0005576	2	GO:0005576	extracellular region
+GO:0071014	5	GO:0000346	transcription export complex
+GO:0033644	1	GO:0033646	host intracellular part
+GO:0098637	4	GO:0044423	virion component
+GO:0033647	1	GO:0033646	host intracellular part
+GO:0033648	1	GO:0033646	host intracellular part
+GO:0032045	4	GO:0044423	virion component
+GO:0005816	7	GO:0005814	centriole
+GO:0042995	3	GO:0120025	plasma membrane bounded cell projection
+GO:0044200	1	GO:0033646	host intracellular part
+GO:0005892	4	GO:0044423	virion component
+GO:0043005	3	GO:0120025	plasma membrane bounded cell projection
+GO:0044199	1	GO:0033646	host intracellular part
+GO:0030008	4	GO:0044423	virion component
+GO:0012510	6	GO:0009536	plastid
+GO:1901588	7	GO:0005814	centriole
+GO:0031234	2	GO:0005576	extracellular region
+GO:0045211	2	GO:0005576	extracellular region
+GO:0051286	2	GO:0005576	extracellular region
+GO:0120025	3	GO:0120025	plasma membrane bounded cell projection
+GO:0030121	6	GO:0009536	plastid
+GO:0043194	3	GO:0120025	plasma membrane bounded cell projection
+GO:0042763	2	GO:0005576	extracellular region
+GO:0099738	6	GO:0009536	plastid
+GO:0030130	6	GO:0009536	plastid
+GO:0060473	6	GO:0009536	plastid
+GO:0001669	6	GO:0009536	plastid
+GO:0043656	1	GO:0033646	host intracellular part
+GO:0062023	2	GO:0005576	extracellular region
+GO:0098636	4	GO:0044423	virion component
+GO:0033646	1	GO:0033646	host intracellular part
+GO:1990498	7	GO:0005814	centriole
+GO:0044666	5	GO:0000346	transcription export complex
+GO:0042764	2	GO:0005576	extracellular region
+GO:0035869	3	GO:0120025	plasma membrane bounded cell projection
+GO:0020002	1	GO:0033646	host intracellular part
+GO:0019031	4	GO:0044423	virion component
+GO:0002199	4	GO:0044423	virion component
+GO:0001726	3	GO:0120025	plasma membrane bounded cell projection
+GO:0042101	4	GO:0044423	virion component
+GO:0030027	3	GO:0120025	plasma membrane bounded cell projection
+GO:0097730	3	GO:0120025	plasma membrane bounded cell projection
+GO:0097731	3	GO:0120025	plasma membrane bounded cell projection
+GO:0031252	2	GO:0005576	extracellular region
+GO:0060187	2	GO:0005576	extracellular region
+GO:0031209	6	GO:0009536	plastid
+GO:0005628	2	GO:0005576	extracellular region
+GO:0036338	4	GO:0044423	virion component
+GO:0000793	7	GO:0005814	centriole
+GO:0000794	7	GO:0005814	centriole
+GO:0005881	7	GO:0005814	centriole
+GO:0044309	3	GO:0120025	plasma membrane bounded cell projection
+GO:0034364	2	GO:0005576	extracellular region
+GO:0030877	6	GO:0009536	plastid
+GO:0099572	2	GO:0005576	extracellular region
+GO:0005675	5	GO:0000346	transcription export complex
+GO:0097440	3	GO:0120025	plasma membrane bounded cell projection
+GO:0097447	3	GO:0120025	plasma membrane bounded cell projection
+GO:0000439	5	GO:0000346	transcription export complex
+GO:0016328	2	GO:0005576	extracellular region
+GO:0000776	7	GO:0005814	centriole
+GO:0097229	3	GO:0120025	plasma membrane bounded cell projection
+GO:0098984	2	GO:0005576	extracellular region
+GO:0005923	4	GO:0044423	virion component
+GO:1990124	4	GO:0044423	virion component
+GO:0043196	3	GO:0120025	plasma membrane bounded cell projection
+GO:0030425	3	GO:0120025	plasma membrane bounded cell projection
+GO:0043197	3	GO:0120025	plasma membrane bounded cell projection
+GO:0005788	6	GO:0009536	plastid
+GO:1990023	7	GO:0005814	centriole
+GO:0005791	6	GO:0009536	plastid

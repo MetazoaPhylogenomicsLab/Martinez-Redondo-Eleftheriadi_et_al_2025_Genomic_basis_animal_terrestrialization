@@ -1,0 +1,47 @@
+GO:0038187	5	GO:0038187	pattern recognition receptor activity
+GO:0097153	2	GO:0097153	cysteine-type endopeptidase activity involved in apoptotic process
+GO:0005507	6	GO:0120160	intraciliary transport particle A binding
+GO:0050700	1	GO:0032182	ubiquitin-like protein binding
+GO:0004983	5	GO:0038187	pattern recognition receptor activity
+GO:0070330	4	GO:0003964	RNA-directed DNA polymerase activity
+GO:0089720	1	GO:0032182	ubiquitin-like protein binding
+GO:0019237	6	GO:0120160	intraciliary transport particle A binding
+GO:0019955	1	GO:0032182	ubiquitin-like protein binding
+GO:0031996	1	GO:0032182	ubiquitin-like protein binding
+GO:0003964	4	GO:0003964	RNA-directed DNA polymerase activity
+GO:0048306	1	GO:0032182	ubiquitin-like protein binding
+GO:0031369	1	GO:0032182	ubiquitin-like protein binding
+GO:0030957	1	GO:0032182	ubiquitin-like protein binding
+GO:0008188	5	GO:0038187	pattern recognition receptor activity
+GO:0043130	1	GO:0032182	ubiquitin-like protein binding
+GO:0030332	1	GO:0032182	ubiquitin-like protein binding
+GO:0042834	6	GO:0120160	intraciliary transport particle A binding
+GO:0017022	1	GO:0032182	ubiquitin-like protein binding
+GO:0042802	1	GO:0032182	ubiquitin-like protein binding
+GO:0004708	4	GO:0003964	RNA-directed DNA polymerase activity
+GO:1990846	5	GO:0038187	pattern recognition receptor activity
+GO:0001227	5	GO:0038187	pattern recognition receptor activity
+GO:0001217	5	GO:0038187	pattern recognition receptor activity
+GO:0003713	5	GO:0038187	pattern recognition receptor activity
+GO:0097200	2	GO:0097153	cysteine-type endopeptidase activity involved in apoptotic process
+GO:0039660	6	GO:0120160	intraciliary transport particle A binding
+GO:0120160	6	GO:0120160	intraciliary transport particle A binding
+GO:0004190	2	GO:0097153	cysteine-type endopeptidase activity involved in apoptotic process
+GO:0008270	6	GO:0120160	intraciliary transport particle A binding
+GO:0004197	2	GO:0097153	cysteine-type endopeptidase activity involved in apoptotic process
+GO:0061630	4	GO:0003964	RNA-directed DNA polymerase activity
+GO:0005164	1	GO:0032182	ubiquitin-like protein binding
+GO:0032182	1	GO:0032182	ubiquitin-like protein binding
+GO:0003887	4	GO:0003964	RNA-directed DNA polymerase activity
+GO:0005123	1	GO:0032182	ubiquitin-like protein binding
+GO:0005125	1	GO:0032182	ubiquitin-like protein binding
+GO:0005112	1	GO:0032182	ubiquitin-like protein binding
+GO:0043014	1	GO:0032182	ubiquitin-like protein binding
+GO:0043621	1	GO:0032182	ubiquitin-like protein binding
+GO:0005149	1	GO:0032182	ubiquitin-like protein binding
+GO:0042923	6	GO:0120160	intraciliary transport particle A binding
+GO:0008649	4	GO:0003964	RNA-directed DNA polymerase activity
+GO:0004523	4	GO:0003964	RNA-directed DNA polymerase activity
+GO:0004517	4	GO:0003964	RNA-directed DNA polymerase activity
+GO:0004519	4	GO:0003964	RNA-directed DNA polymerase activity
+GO:0030594	5	GO:0038187	pattern recognition receptor activity

@@ -1,0 +1,83 @@
+GO:0004945	1	GO:0004888	transmembrane signaling receptor activity
+GO:0090729	4	GO:0140110	transcription regulator activity
+GO:0005540	6	GO:0043325	phosphatidylinositol-3,4-bisphosphate binding
+GO:0004930	1	GO:0004888	transmembrane signaling receptor activity
+GO:0001227	4	GO:0140110	transcription regulator activity
+GO:0001217	4	GO:0140110	transcription regulator activity
+GO:0060089	1	GO:0004888	transmembrane signaling receptor activity
+GO:0030674	4	GO:0140110	transcription regulator activity
+GO:0017046	6	GO:0043325	phosphatidylinositol-3,4-bisphosphate binding
+GO:0140375	1	GO:0004888	transmembrane signaling receptor activity
+GO:0038187	1	GO:0004888	transmembrane signaling receptor activity
+GO:0008528	1	GO:0004888	transmembrane signaling receptor activity
+GO:0001637	1	GO:0004888	transmembrane signaling receptor activity
+GO:0004888	1	GO:0004888	transmembrane signaling receptor activity
+GO:0005044	4	GO:0140110	transcription regulator activity
+GO:0019957	7	GO:0048306	calcium-dependent protein binding
+GO:0098632	7	GO:0048306	calcium-dependent protein binding
+GO:0042803	7	GO:0048306	calcium-dependent protein binding
+GO:0003713	4	GO:0140110	transcription regulator activity
+GO:0034237	7	GO:0048306	calcium-dependent protein binding
+GO:0000981	4	GO:0140110	transcription regulator activity
+GO:0016493	1	GO:0004888	transmembrane signaling receptor activity
+GO:0031593	7	GO:0048306	calcium-dependent protein binding
+GO:0046872	6	GO:0043325	phosphatidylinositol-3,4-bisphosphate binding
+GO:0000976	5	GO:0003677	DNA binding
+GO:0000977	5	GO:0003677	DNA binding
+GO:0070530	7	GO:0048306	calcium-dependent protein binding
+GO:0008270	6	GO:0043325	phosphatidylinositol-3,4-bisphosphate binding
+GO:0038023	1	GO:0004888	transmembrane signaling receptor activity
+GO:0019901	7	GO:0048306	calcium-dependent protein binding
+GO:0001067	5	GO:0003677	DNA binding
+GO:0030291	4	GO:0140110	transcription regulator activity
+GO:0042923	6	GO:0043325	phosphatidylinositol-3,4-bisphosphate binding
+GO:0004983	1	GO:0004888	transmembrane signaling receptor activity
+GO:0045028	1	GO:0004888	transmembrane signaling receptor activity
+GO:0048306	7	GO:0048306	calcium-dependent protein binding
+GO:1990837	5	GO:0003677	DNA binding
+GO:0004706	2	GO:0004709	MAP kinase kinase kinase activity
+GO:0035198	5	GO:0003677	DNA binding
+GO:0008083	7	GO:0048306	calcium-dependent protein binding
+GO:0050431	7	GO:0048306	calcium-dependent protein binding
+GO:0043035	5	GO:0003677	DNA binding
+GO:0005547	6	GO:0043325	phosphatidylinositol-3,4-bisphosphate binding
+GO:0005031	1	GO:0004888	transmembrane signaling receptor activity
+GO:0004712	2	GO:0004709	MAP kinase kinase kinase activity
+GO:0072570	6	GO:0043325	phosphatidylinositol-3,4-bisphosphate binding
+GO:0070403	6	GO:0043325	phosphatidylinositol-3,4-bisphosphate binding
+GO:0004693	2	GO:0004709	MAP kinase kinase kinase activity
+GO:0043325	6	GO:0043325	phosphatidylinositol-3,4-bisphosphate binding
+GO:0003700	4	GO:0140110	transcription regulator activity
+GO:0004709	2	GO:0004709	MAP kinase kinase kinase activity
+GO:0004683	2	GO:0004709	MAP kinase kinase kinase activity
+GO:0003677	5	GO:0003677	DNA binding
+GO:0097677	7	GO:0048306	calcium-dependent protein binding
+GO:0004869	4	GO:0140110	transcription regulator activity
+GO:0004857	4	GO:0140110	transcription regulator activity
+GO:0098631	7	GO:0048306	calcium-dependent protein binding
+GO:0140110	4	GO:0140110	transcription regulator activity
+GO:0106310	2	GO:0004709	MAP kinase kinase kinase activity
+GO:0005201	4	GO:0140110	transcription regulator activity
+GO:0008097	5	GO:0003677	DNA binding
+GO:0008188	1	GO:0004888	transmembrane signaling receptor activity
+GO:0016595	6	GO:0043325	phosphatidylinositol-3,4-bisphosphate binding
+GO:0001848	7	GO:0048306	calcium-dependent protein binding
+GO:0001618	6	GO:0043325	phosphatidylinositol-3,4-bisphosphate binding
+GO:0001640	1	GO:0004888	transmembrane signaling receptor activity
+GO:0015026	1	GO:0004888	transmembrane signaling receptor activity
+GO:0001601	1	GO:0004888	transmembrane signaling receptor activity
+GO:0019958	7	GO:0048306	calcium-dependent protein binding
+GO:0060229	4	GO:0140110	transcription regulator activity
+GO:0001609	1	GO:0004888	transmembrane signaling receptor activity
+GO:0001594	1	GO:0004888	transmembrane signaling receptor activity
+GO:0008502	1	GO:0004888	transmembrane signaling receptor activity
+GO:0016494	1	GO:0004888	transmembrane signaling receptor activity
+GO:0038022	1	GO:0004888	transmembrane signaling receptor activity
+GO:0016907	1	GO:0004888	transmembrane signaling receptor activity
+GO:0097472	2	GO:0004709	MAP kinase kinase kinase activity
+GO:0004993	1	GO:0004888	transmembrane signaling receptor activity
+GO:0004969	1	GO:0004888	transmembrane signaling receptor activity
+GO:0019810	6	GO:0043325	phosphatidylinositol-3,4-bisphosphate binding
+GO:0004952	1	GO:0004888	transmembrane signaling receptor activity
+GO:0004984	1	GO:0004888	transmembrane signaling receptor activity
+GO:1901338	6	GO:0043325	phosphatidylinositol-3,4-bisphosphate binding

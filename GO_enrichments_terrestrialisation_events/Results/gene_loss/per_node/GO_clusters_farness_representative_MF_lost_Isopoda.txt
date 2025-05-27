@@ -1,0 +1,293 @@
+GO:0008422	5	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0004993	3	GO:0004888	transmembrane signaling receptor activity
+GO:0022824	1	GO:0022824	transmitter-gated ion channel activity
+GO:0005275	2	GO:0015101	organic cation transmembrane transporter activity
+GO:0004383	6	GO:0035605	peptidyl-cysteine S-nitrosylase activity
+GO:0022835	1	GO:0022824	transmitter-gated ion channel activity
+GO:0004952	3	GO:0004888	transmembrane signaling receptor activity
+GO:0005230	1	GO:0022824	transmitter-gated ion channel activity
+GO:0004984	3	GO:0004888	transmembrane signaling receptor activity
+GO:0004970	1	GO:0022824	transmitter-gated ion channel activity
+GO:0004089	6	GO:0035605	peptidyl-cysteine S-nitrosylase activity
+GO:0048018	9	GO:0005102	signaling receptor binding
+GO:0003964	6	GO:0035605	peptidyl-cysteine S-nitrosylase activity
+GO:0030354	9	GO:0005102	signaling receptor binding
+GO:0003968	6	GO:0035605	peptidyl-cysteine S-nitrosylase activity
+GO:0005042	3	GO:0004888	transmembrane signaling receptor activity
+GO:0098960	3	GO:0004888	transmembrane signaling receptor activity
+GO:0015101	2	GO:0015101	organic cation transmembrane transporter activity
+GO:0008800	5	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0004714	6	GO:0035605	peptidyl-cysteine S-nitrosylase activity
+GO:0003688	11	GO:0003677	DNA binding
+GO:0003677	11	GO:0003677	DNA binding
+GO:0000213	5	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0031780	8	GO:0031779	melanocortin receptor binding
+GO:0031781	8	GO:0031779	melanocortin receptor binding
+GO:0031782	8	GO:0031779	melanocortin receptor binding
+GO:0031783	8	GO:0031779	melanocortin receptor binding
+GO:0015277	1	GO:0022824	transmitter-gated ion channel activity
+GO:0061665	6	GO:0035605	peptidyl-cysteine S-nitrosylase activity
+GO:0031776	8	GO:0031779	melanocortin receptor binding
+GO:0031777	8	GO:0031779	melanocortin receptor binding
+GO:0031779	8	GO:0031779	melanocortin receptor binding
+GO:0001965	9	GO:0005102	signaling receptor binding
+GO:0001968	9	GO:0005102	signaling receptor binding
+GO:0071855	8	GO:0031779	melanocortin receptor binding
+GO:0004888	3	GO:0004888	transmembrane signaling receptor activity
+GO:0008241	5	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0000900	11	GO:0003677	DNA binding
+GO:0008327	12	GO:0050661	NADP binding
+GO:0005121	9	GO:0005102	signaling receptor binding
+GO:0005125	9	GO:0005102	signaling receptor binding
+GO:0008083	9	GO:0005102	signaling receptor binding
+GO:0043621	9	GO:0005102	signaling receptor binding
+GO:0016892	5	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0016894	5	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0034235	13	GO:0031210	phosphatidylcholine binding
+GO:0042923	13	GO:0031210	phosphatidylcholine binding
+GO:1904315	1	GO:0022824	transmitter-gated ion channel activity
+GO:0070573	5	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0070513	9	GO:0005102	signaling receptor binding
+GO:0004526	5	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0000405	11	GO:0003677	DNA binding
+GO:0030594	3	GO:0004888	transmembrane signaling receptor activity
+GO:0070996	8	GO:0031779	melanocortin receptor binding
+GO:0004549	5	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0008061	14	GO:0030246	carbohydrate binding
+GO:0005516	9	GO:0005102	signaling receptor binding
+GO:0004517	7	GO:0016722	oxidoreductase activity, acting on metal ions
+GO:0004519	5	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0005534	13	GO:0031210	phosphatidylcholine binding
+GO:0090729	14	GO:0030246	carbohydrate binding
+GO:0004185	5	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0004175	5	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0003691	11	GO:0003677	DNA binding
+GO:0005112	9	GO:0005102	signaling receptor binding
+GO:0070026	14	GO:0030246	carbohydrate binding
+GO:0005133	9	GO:0005102	signaling receptor binding
+GO:0046332	9	GO:0005102	signaling receptor binding
+GO:0005102	9	GO:0005102	signaling receptor binding
+GO:0120160	14	GO:0030246	carbohydrate binding
+GO:0051381	12	GO:0050661	NADP binding
+GO:0003823	14	GO:0030246	carbohydrate binding
+GO:0019237	11	GO:0003677	DNA binding
+GO:0005267	2	GO:0015101	organic cation transmembrane transporter activity
+GO:0030246	14	GO:0030246	carbohydrate binding
+GO:0046920	6	GO:0035605	peptidyl-cysteine S-nitrosylase activity
+GO:0032422	11	GO:0003677	DNA binding
+GO:0004222	5	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0031208	9	GO:0005102	signaling receptor binding
+GO:0000978	11	GO:0003677	DNA binding
+GO:0008233	5	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0008237	5	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0015079	2	GO:0015101	organic cation transmembrane transporter activity
+GO:0015026	3	GO:0004888	transmembrane signaling receptor activity
+GO:0005549	14	GO:0030246	carbohydrate binding
+GO:0005539	14	GO:0030246	carbohydrate binding
+GO:0038187	3	GO:0004888	transmembrane signaling receptor activity
+GO:0004364	6	GO:0035605	peptidyl-cysteine S-nitrosylase activity
+GO:0061809	5	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0005249	2	GO:0015101	organic cation transmembrane transporter activity
+GO:0140297	9	GO:0005102	signaling receptor binding
+GO:0004983	3	GO:0004888	transmembrane signaling receptor activity
+GO:0070330	7	GO:0016722	oxidoreductase activity, acting on metal ions
+GO:0004945	3	GO:0004888	transmembrane signaling receptor activity
+GO:0048306	9	GO:0005102	signaling receptor binding
+GO:0003953	5	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0008188	3	GO:0004888	transmembrane signaling receptor activity
+GO:0005031	3	GO:0004888	transmembrane signaling receptor activity
+GO:0005496	13	GO:0031210	phosphatidylcholine binding
+GO:0003680	11	GO:0003677	DNA binding
+GO:0016502	3	GO:0004888	transmembrane signaling receptor activity
+GO:0042834	13	GO:0031210	phosphatidylcholine binding
+GO:0050135	5	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0090482	2	GO:0015101	organic cation transmembrane transporter activity
+GO:0000217	11	GO:0003677	DNA binding
+GO:0060089	3	GO:0004888	transmembrane signaling receptor activity
+GO:0008527	3	GO:0004888	transmembrane signaling receptor activity
+GO:0098631	9	GO:0005102	signaling receptor binding
+GO:0098632	9	GO:0005102	signaling receptor binding
+GO:0038023	3	GO:0004888	transmembrane signaling receptor activity
+GO:0016671	7	GO:0016722	oxidoreductase activity, acting on metal ions
+GO:0016624	7	GO:0016722	oxidoreductase activity, acting on metal ions
+GO:0004190	5	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0008227	3	GO:0004888	transmembrane signaling receptor activity
+GO:0045028	3	GO:0004888	transmembrane signaling receptor activity
+GO:0015020	6	GO:0035605	peptidyl-cysteine S-nitrosylase activity
+GO:0001614	3	GO:0004888	transmembrane signaling receptor activity
+GO:0008201	13	GO:0031210	phosphatidylcholine binding
+GO:0047886	7	GO:0016722	oxidoreductase activity, acting on metal ions
+GO:0003887	6	GO:0035605	peptidyl-cysteine S-nitrosylase activity
+GO:0034987	9	GO:0005102	signaling receptor binding
+GO:0035325	9	GO:0005102	signaling receptor binding
+GO:0052740	5	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0052739	5	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0004252	5	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0016812	5	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0003990	5	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0031418	13	GO:0031210	phosphatidylcholine binding
+GO:0030247	14	GO:0030246	carbohydrate binding
+GO:0005523	9	GO:0005102	signaling receptor binding
+GO:0019864	13	GO:0031210	phosphatidylcholine binding
+GO:0005525	12	GO:0050661	NADP binding
+GO:0008469	6	GO:0035605	peptidyl-cysteine S-nitrosylase activity
+GO:0003810	6	GO:0035605	peptidyl-cysteine S-nitrosylase activity
+GO:0015293	2	GO:0015101	organic cation transmembrane transporter activity
+GO:0005518	14	GO:0030246	carbohydrate binding
+GO:0051082	9	GO:0005102	signaling receptor binding
+GO:0031404	13	GO:0031210	phosphatidylcholine binding
+GO:0003985	6	GO:0035605	peptidyl-cysteine S-nitrosylase activity
+GO:0016907	3	GO:0004888	transmembrane signaling receptor activity
+GO:0003988	6	GO:0035605	peptidyl-cysteine S-nitrosylase activity
+GO:0036122	9	GO:0005102	signaling receptor binding
+GO:0106222	11	GO:0003677	DNA binding
+GO:0003913	6	GO:0035605	peptidyl-cysteine S-nitrosylase activity
+GO:0003914	6	GO:0035605	peptidyl-cysteine S-nitrosylase activity
+GO:0016415	6	GO:0035605	peptidyl-cysteine S-nitrosylase activity
+GO:0140299	14	GO:0030246	carbohydrate binding
+GO:0005080	9	GO:0005102	signaling receptor binding
+GO:0005507	13	GO:0031210	phosphatidylcholine binding
+GO:0008432	9	GO:0005102	signaling receptor binding
+GO:0031072	9	GO:0005102	signaling receptor binding
+GO:0005165	9	GO:0005102	signaling receptor binding
+GO:0004756	6	GO:0035605	peptidyl-cysteine S-nitrosylase activity
+GO:0051117	9	GO:0005102	signaling receptor binding
+GO:0016404	7	GO:0016722	oxidoreductase activity, acting on metal ions
+GO:0015232	2	GO:0015101	organic cation transmembrane transporter activity
+GO:0005113	9	GO:0005102	signaling receptor binding
+GO:0008028	2	GO:0015101	organic cation transmembrane transporter activity
+GO:0022858	2	GO:0015101	organic cation transmembrane transporter activity
+GO:0001872	13	GO:0031210	phosphatidylcholine binding
+GO:0004365	7	GO:0016722	oxidoreductase activity, acting on metal ions
+GO:0043395	9	GO:0005102	signaling receptor binding
+GO:0008146	6	GO:0035605	peptidyl-cysteine S-nitrosylase activity
+GO:0051287	12	GO:0050661	NADP binding
+GO:0022848	1	GO:0022824	transmitter-gated ion channel activity
+GO:0008670	7	GO:0016722	oxidoreductase activity, acting on metal ions
+GO:0016672	7	GO:0016722	oxidoreductase activity, acting on metal ions
+GO:0032561	12	GO:0050661	NADP binding
+GO:0004329	6	GO:0035605	peptidyl-cysteine S-nitrosylase activity
+GO:0016618	7	GO:0016722	oxidoreductase activity, acting on metal ions
+GO:0070402	12	GO:0050661	NADP binding
+GO:0047685	6	GO:0035605	peptidyl-cysteine S-nitrosylase activity
+GO:0034647	6	GO:0035605	peptidyl-cysteine S-nitrosylase activity
+GO:0102009	5	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0070530	9	GO:0005102	signaling receptor binding
+GO:0004332	6	GO:0035605	peptidyl-cysteine S-nitrosylase activity
+GO:0005277	2	GO:0015101	organic cation transmembrane transporter activity
+GO:0004962	3	GO:0004888	transmembrane signaling receptor activity
+GO:0004957	3	GO:0004888	transmembrane signaling receptor activity
+GO:0061783	7	GO:0016722	oxidoreductase activity, acting on metal ions
+GO:0099528	3	GO:0004888	transmembrane signaling receptor activity
+GO:0043811	6	GO:0035605	peptidyl-cysteine S-nitrosylase activity
+GO:0019001	12	GO:0050661	NADP binding
+GO:0106345	7	GO:0016722	oxidoreductase activity, acting on metal ions
+GO:0070034	11	GO:0003677	DNA binding
+GO:0070006	5	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0051787	9	GO:0005102	signaling receptor binding
+GO:0001530	13	GO:0031210	phosphatidylcholine binding
+GO:0034236	9	GO:0005102	signaling receptor binding
+GO:0008236	5	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0017060	6	GO:0035605	peptidyl-cysteine S-nitrosylase activity
+GO:0004567	5	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0004556	5	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0004559	5	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0042605	13	GO:0031210	phosphatidylcholine binding
+GO:0004447	7	GO:0016722	oxidoreductase activity, acting on metal ions
+GO:0004449	7	GO:0016722	oxidoreductase activity, acting on metal ions
+GO:0046872	13	GO:0031210	phosphatidylcholine binding
+GO:0004572	5	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0046961	2	GO:0015101	organic cation transmembrane transporter activity
+GO:0004521	5	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0017022	9	GO:0005102	signaling receptor binding
+GO:0004523	5	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0004090	7	GO:0016722	oxidoreductase activity, acting on metal ions
+GO:1904047	13	GO:0031210	phosphatidylcholine binding
+GO:0071949	12	GO:0050661	NADP binding
+GO:0030060	7	GO:0016722	oxidoreductase activity, acting on metal ions
+GO:0015464	3	GO:0004888	transmembrane signaling receptor activity
+GO:0048019	9	GO:0005102	signaling receptor binding
+GO:0051371	9	GO:0005102	signaling receptor binding
+GO:0043531	12	GO:0050661	NADP binding
+GO:0048038	14	GO:0030246	carbohydrate binding
+GO:0050661	12	GO:0050661	NADP binding
+GO:0016722	7	GO:0016722	oxidoreductase activity, acting on metal ions
+GO:0015562	2	GO:0015101	organic cation transmembrane transporter activity
+GO:0070224	7	GO:0016722	oxidoreductase activity, acting on metal ions
+GO:0030165	9	GO:0005102	signaling receptor binding
+GO:0038085	9	GO:0005102	signaling receptor binding
+GO:0004124	6	GO:0035605	peptidyl-cysteine S-nitrosylase activity
+GO:0005328	2	GO:0015101	organic cation transmembrane transporter activity
+GO:0050633	6	GO:0035605	peptidyl-cysteine S-nitrosylase activity
+GO:0003774	5	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0003779	9	GO:0005102	signaling receptor binding
+GO:0004618	6	GO:0035605	peptidyl-cysteine S-nitrosylase activity
+GO:0004102	6	GO:0035605	peptidyl-cysteine S-nitrosylase activity
+GO:0035605	6	GO:0035605	peptidyl-cysteine S-nitrosylase activity
+GO:0003746	11	GO:0003677	DNA binding
+GO:0004108	6	GO:0035605	peptidyl-cysteine S-nitrosylase activity
+GO:0005499	13	GO:0031210	phosphatidylcholine binding
+GO:0015180	2	GO:0015101	organic cation transmembrane transporter activity
+GO:0004602	7	GO:0016722	oxidoreductase activity, acting on metal ions
+GO:0015184	2	GO:0015101	organic cation transmembrane transporter activity
+GO:0016887	5	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0098808	11	GO:0003677	DNA binding
+GO:0072349	2	GO:0015101	organic cation transmembrane transporter activity
+GO:0015173	2	GO:0015101	organic cation transmembrane transporter activity
+GO:0015174	2	GO:0015101	organic cation transmembrane transporter activity
+GO:0015175	2	GO:0015101	organic cation transmembrane transporter activity
+GO:0015179	2	GO:0015101	organic cation transmembrane transporter activity
+GO:0030267	7	GO:0016722	oxidoreductase activity, acting on metal ions
+GO:0008810	5	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0015651	2	GO:0015101	organic cation transmembrane transporter activity
+GO:0015658	2	GO:0015101	organic cation transmembrane transporter activity
+GO:0036402	5	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0035242	6	GO:0035605	peptidyl-cysteine S-nitrosylase activity
+GO:0048244	7	GO:0016722	oxidoreductase activity, acting on metal ions
+GO:0016985	5	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0052736	5	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0005272	2	GO:0015101	organic cation transmembrane transporter activity
+GO:0030248	13	GO:0031210	phosphatidylcholine binding
+GO:0004111	6	GO:0035605	peptidyl-cysteine S-nitrosylase activity
+GO:0015276	1	GO:0022824	transmitter-gated ion channel activity
+GO:0016273	6	GO:0035605	peptidyl-cysteine S-nitrosylase activity
+GO:0016274	6	GO:0035605	peptidyl-cysteine S-nitrosylase activity
+GO:0003697	11	GO:0003677	DNA binding
+GO:0035594	10	GO:1905573	ganglioside GM1 binding
+GO:0043559	9	GO:0005102	signaling receptor binding
+GO:0004693	6	GO:0035605	peptidyl-cysteine S-nitrosylase activity
+GO:0097472	6	GO:0035605	peptidyl-cysteine S-nitrosylase activity
+GO:0046625	14	GO:0030246	carbohydrate binding
+GO:0005332	2	GO:0015101	organic cation transmembrane transporter activity
+GO:0004629	5	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0016798	5	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0019862	13	GO:0031210	phosphatidylcholine binding
+GO:0030882	13	GO:0031210	phosphatidylcholine binding
+GO:0032934	13	GO:0031210	phosphatidylcholine binding
+GO:0033130	9	GO:0005102	signaling receptor binding
+GO:0043208	10	GO:1905573	ganglioside GM1 binding
+GO:0004738	7	GO:0016722	oxidoreductase activity, acting on metal ions
+GO:0004739	7	GO:0016722	oxidoreductase activity, acting on metal ions
+GO:0016863	6	GO:0035605	peptidyl-cysteine S-nitrosylase activity
+GO:0005550	14	GO:0030246	carbohydrate binding
+GO:0031210	13	GO:0031210	phosphatidylcholine binding
+GO:0016846	6	GO:0035605	peptidyl-cysteine S-nitrosylase activity
+GO:1905573	10	GO:1905573	ganglioside GM1 binding
+GO:1905574	10	GO:1905573	ganglioside GM1 binding
+GO:1905575	10	GO:1905573	ganglioside GM1 binding
+GO:1905576	10	GO:1905573	ganglioside GM1 binding
+GO:1905577	10	GO:1905573	ganglioside GM1 binding
+GO:0004054	6	GO:0035605	peptidyl-cysteine S-nitrosylase activity
+GO:0015199	2	GO:0015101	organic cation transmembrane transporter activity
+GO:0005149	9	GO:0005102	signaling receptor binding
+GO:0005139	9	GO:0005102	signaling receptor binding
+GO:0004030	7	GO:0016722	oxidoreductase activity, acting on metal ions
+GO:0015154	2	GO:0015101	organic cation transmembrane transporter activity
+GO:0015157	2	GO:0015101	organic cation transmembrane transporter activity
+GO:0015185	2	GO:0015101	organic cation transmembrane transporter activity
+GO:0005509	13	GO:0031210	phosphatidylcholine binding
+GO:0015574	2	GO:0015101	organic cation transmembrane transporter activity
+GO:0008519	2	GO:0015101	organic cation transmembrane transporter activity
+GO:0070001	5	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0005262	2	GO:0015101	organic cation transmembrane transporter activity
+GO:0004197	5	GO:0016798	hydrolase activity, acting on glycosyl bonds

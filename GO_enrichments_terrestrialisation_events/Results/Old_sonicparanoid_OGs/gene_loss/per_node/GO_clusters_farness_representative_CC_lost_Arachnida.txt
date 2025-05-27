@@ -1,0 +1,99 @@
+GO:0030849	7	GO:0030849	autosome
+GO:0019028	3	GO:0019028	viral capsid
+GO:0042579	6	GO:0042579	microbody
+GO:0042641	7	GO:0030849	autosome
+GO:0005576	5	GO:0071944	cell periphery
+GO:0005615	5	GO:0071944	cell periphery
+GO:0000786	7	GO:0030849	autosome
+GO:0031676	7	GO:0030849	autosome
+GO:0005828	7	GO:0030849	autosome
+GO:0005777	6	GO:0042579	microbody
+GO:0030430	1	GO:0033646	host intracellular part
+GO:0031265	4	GO:0046930	pore complex
+GO:0044156	2	GO:0033643	host cell part
+GO:0097517	7	GO:0030849	autosome
+GO:0000322	6	GO:0042579	microbody
+GO:0000324	6	GO:0042579	microbody
+GO:0033643	2	GO:0033643	host cell part
+GO:0033644	2	GO:0033643	host cell part
+GO:0044094	1	GO:0033646	host intracellular part
+GO:0016234	5	GO:0071944	cell periphery
+GO:0020002	2	GO:0033643	host cell part
+GO:0001725	7	GO:0030849	autosome
+GO:0042025	1	GO:0033646	host intracellular part
+GO:0005886	5	GO:0071944	cell periphery
+GO:0044423	3	GO:0019028	viral capsid
+GO:0032580	6	GO:0042579	microbody
+GO:0000243	6	GO:0042579	microbody
+GO:0005795	6	GO:0042579	microbody
+GO:0009897	5	GO:0071944	cell periphery
+GO:0042151	7	GO:0030849	autosome
+GO:0098975	5	GO:0071944	cell periphery
+GO:0031160	5	GO:0071944	cell periphery
+GO:0005778	6	GO:0042579	microbody
+GO:0071944	5	GO:0071944	cell periphery
+GO:0000138	6	GO:0042579	microbody
+GO:0098636	4	GO:0046930	pore complex
+GO:0032839	4	GO:0046930	pore complex
+GO:0033655	1	GO:0033646	host intracellular part
+GO:0031903	6	GO:0042579	microbody
+GO:0019029	3	GO:0019028	viral capsid
+GO:0019013	3	GO:0019028	viral capsid
+GO:0097060	5	GO:0071944	cell periphery
+GO:0042597	5	GO:0071944	cell periphery
+GO:0055036	5	GO:0071944	cell periphery
+GO:0072686	7	GO:0030849	autosome
+GO:0030313	5	GO:0071944	cell periphery
+GO:0034045	5	GO:0071944	cell periphery
+GO:0000805	7	GO:0030849	autosome
+GO:0032589	4	GO:0046930	pore complex
+GO:0031012	5	GO:0071944	cell periphery
+GO:0034706	4	GO:0046930	pore complex
+GO:0042734	5	GO:0071944	cell periphery
+GO:0033645	2	GO:0033643	host cell part
+GO:0090665	4	GO:0046930	pore complex
+GO:0005911	5	GO:0071944	cell periphery
+GO:0098978	5	GO:0071944	cell periphery
+GO:0044219	2	GO:0033643	host cell part
+GO:0032010	6	GO:0042579	microbody
+GO:0000940	7	GO:0030849	autosome
+GO:0018995	2	GO:0033643	host cell part
+GO:0000781	7	GO:0030849	autosome
+GO:0043657	2	GO:0033643	host cell part
+GO:0045335	6	GO:0042579	microbody
+GO:0140220	2	GO:0033643	host cell part
+GO:0014069	4	GO:0046930	pore complex
+GO:0019031	3	GO:0019028	viral capsid
+GO:0035974	7	GO:0030849	autosome
+GO:1903561	6	GO:0042579	microbody
+GO:0042651	5	GO:0071944	cell periphery
+GO:0000943	6	GO:0042579	microbody
+GO:0044204	1	GO:0033646	host intracellular part
+GO:0044178	1	GO:0033646	host intracellular part
+GO:0090571	6	GO:0042579	microbody
+GO:0042575	4	GO:0046930	pore complex
+GO:0098533	4	GO:0046930	pore complex
+GO:0009579	5	GO:0071944	cell periphery
+GO:0001401	6	GO:0042579	microbody
+GO:0044199	1	GO:0033646	host intracellular part
+GO:0043332	4	GO:0046930	pore complex
+GO:0031968	6	GO:0042579	microbody
+GO:0005741	6	GO:0042579	microbody
+GO:0032156	7	GO:0030849	autosome
+GO:0044200	1	GO:0033646	host intracellular part
+GO:0000776	7	GO:0030849	autosome
+GO:0044177	1	GO:0033646	host intracellular part
+GO:0019867	5	GO:0071944	cell periphery
+GO:0033650	1	GO:0033646	host intracellular part
+GO:0019033	3	GO:0019028	viral capsid
+GO:0005618	5	GO:0071944	cell periphery
+GO:0000795	7	GO:0030849	autosome
+GO:0099086	7	GO:0030849	autosome
+GO:0019030	3	GO:0019028	viral capsid
+GO:0044815	4	GO:0046930	pore complex
+GO:0030288	5	GO:0071944	cell periphery
+GO:0009279	5	GO:0071944	cell periphery
+GO:0098799	6	GO:0042579	microbody
+GO:0009986	5	GO:0071944	cell periphery
+GO:0033646	1	GO:0033646	host intracellular part
+GO:0046930	4	GO:0046930	pore complex

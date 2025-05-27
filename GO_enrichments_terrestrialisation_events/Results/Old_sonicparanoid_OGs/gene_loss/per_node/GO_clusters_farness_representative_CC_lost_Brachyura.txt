@@ -1,0 +1,91 @@
+GO:0019013	2	GO:0044423	virion component
+GO:0031514	3	GO:0031514	motile cilium
+GO:0019031	2	GO:0044423	virion component
+GO:0019033	2	GO:0044423	virion component
+GO:0000792	6	GO:0000943	retrotransposon nucleocapsid
+GO:0031012	4	GO:0005886	plasma membrane
+GO:0042025	1	GO:0030430	host cell cytoplasm
+GO:0044196	1	GO:0030430	host cell cytoplasm
+GO:0005576	5	GO:0036477	somatodendritic compartment
+GO:0008076	4	GO:0005886	plasma membrane
+GO:0044165	1	GO:0030430	host cell cytoplasm
+GO:0044167	1	GO:0030430	host cell cytoplasm
+GO:0020002	1	GO:0030430	host cell cytoplasm
+GO:0000781	6	GO:0000943	retrotransposon nucleocapsid
+GO:0000782	6	GO:0000943	retrotransposon nucleocapsid
+GO:0036126	3	GO:0031514	motile cilium
+GO:0044175	1	GO:0030430	host cell cytoplasm
+GO:0044177	1	GO:0030430	host cell cytoplasm
+GO:0044178	1	GO:0030430	host cell cytoplasm
+GO:0001726	3	GO:0031514	motile cilium
+GO:0140445	6	GO:0000943	retrotransposon nucleocapsid
+GO:0030312	4	GO:0005886	plasma membrane
+GO:0055036	2	GO:0044423	virion component
+GO:0035869	3	GO:0031514	motile cilium
+GO:0001669	5	GO:0036477	somatodendritic compartment
+GO:0033645	1	GO:0030430	host cell cytoplasm
+GO:1990316	5	GO:0036477	somatodendritic compartment
+GO:0005615	5	GO:0036477	somatodendritic compartment
+GO:0005618	4	GO:0005886	plasma membrane
+GO:0031253	4	GO:0005886	plasma membrane
+GO:0031256	4	GO:0005886	plasma membrane
+GO:0043256	4	GO:0005886	plasma membrane
+GO:0072669	5	GO:0036477	somatodendritic compartment
+GO:0005814	6	GO:0000943	retrotransposon nucleocapsid
+GO:0005816	6	GO:0000943	retrotransposon nucleocapsid
+GO:0030425	3	GO:0031514	motile cilium
+GO:0097228	3	GO:0031514	motile cilium
+GO:0070876	6	GO:0000943	retrotransposon nucleocapsid
+GO:0044204	1	GO:0030430	host cell cytoplasm
+GO:0098975	5	GO:0036477	somatodendritic compartment
+GO:0030430	1	GO:0030430	host cell cytoplasm
+GO:0044094	1	GO:0030430	host cell cytoplasm
+GO:0032587	4	GO:0005886	plasma membrane
+GO:0019028	2	GO:0044423	virion component
+GO:0019029	2	GO:0044423	virion component
+GO:0031082	5	GO:0036477	somatodendritic compartment
+GO:0097447	3	GO:0031514	motile cilium
+GO:0000795	6	GO:0000943	retrotransposon nucleocapsid
+GO:0002080	5	GO:0036477	somatodendritic compartment
+GO:0032153	5	GO:0036477	somatodendritic compartment
+GO:0097517	6	GO:0000943	retrotransposon nucleocapsid
+GO:0044156	1	GO:0030430	host cell cytoplasm
+GO:0000786	6	GO:0000943	retrotransposon nucleocapsid
+GO:0001725	6	GO:0000943	retrotransposon nucleocapsid
+GO:0034703	5	GO:0036477	somatodendritic compartment
+GO:0097729	3	GO:0031514	motile cilium
+GO:0035686	3	GO:0031514	motile cilium
+GO:0035102	6	GO:0000943	retrotransposon nucleocapsid
+GO:0042622	4	GO:0005886	plasma membrane
+GO:0005668	6	GO:0000943	retrotransposon nucleocapsid
+GO:0009897	4	GO:0005886	plasma membrane
+GO:0043291	5	GO:0036477	somatodendritic compartment
+GO:0044815	5	GO:0036477	somatodendritic compartment
+GO:0005886	4	GO:0005886	plasma membrane
+GO:0032839	5	GO:0036477	somatodendritic compartment
+GO:0098636	5	GO:0036477	somatodendritic compartment
+GO:0036477	5	GO:0036477	somatodendritic compartment
+GO:0044423	2	GO:0044423	virion component
+GO:0097225	3	GO:0031514	motile cilium
+GO:0044201	1	GO:0030430	host cell cytoplasm
+GO:0030055	5	GO:0036477	somatodendritic compartment
+GO:0043541	5	GO:0036477	somatodendritic compartment
+GO:0098794	5	GO:0036477	somatodendritic compartment
+GO:0030017	6	GO:0000943	retrotransposon nucleocapsid
+GO:0034045	5	GO:0036477	somatodendritic compartment
+GO:0071944	4	GO:0005886	plasma membrane
+GO:0033655	1	GO:0030430	host cell cytoplasm
+GO:0062023	4	GO:0005886	plasma membrane
+GO:0033644	1	GO:0030430	host cell cytoplasm
+GO:0032279	5	GO:0036477	somatodendritic compartment
+GO:0008305	4	GO:0005886	plasma membrane
+GO:0044220	1	GO:0030430	host cell cytoplasm
+GO:0034451	6	GO:0000943	retrotransposon nucleocapsid
+GO:0098984	5	GO:0036477	somatodendritic compartment
+GO:0000214	6	GO:0000943	retrotransposon nucleocapsid
+GO:0005920	5	GO:0036477	somatodendritic compartment
+GO:0005921	5	GO:0036477	somatodendritic compartment
+GO:0044200	1	GO:0030430	host cell cytoplasm
+GO:0098802	4	GO:0005886	plasma membrane
+GO:0000943	6	GO:0000943	retrotransposon nucleocapsid
+GO:1903561	5	GO:0036477	somatodendritic compartment

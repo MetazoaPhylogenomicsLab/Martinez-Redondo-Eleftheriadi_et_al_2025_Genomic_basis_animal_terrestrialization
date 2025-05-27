@@ -1,0 +1,156 @@
+GO:0071267	2	GO:0006575	cellular modified amino acid metabolic process
+GO:0042439	2	GO:0006575	cellular modified amino acid metabolic process
+GO:1903971	5	GO:0036119	response to platelet-derived growth factor
+GO:1903972	5	GO:0036119	response to platelet-derived growth factor
+GO:1903974	5	GO:0036119	response to platelet-derived growth factor
+GO:0032729	1	GO:0032660	regulation of interleukin-17 production
+GO:0043032	8	GO:0055085	transmembrane transport
+GO:0035872	4	GO:0070423	nucleotide-binding oligomerization domain containing signaling pathway
+GO:0046129	2	GO:0006575	cellular modified amino acid metabolic process
+GO:0002537	8	GO:0055085	transmembrane transport
+GO:0015695	8	GO:0055085	transmembrane transport
+GO:0007252	2	GO:0006575	cellular modified amino acid metabolic process
+GO:0071223	5	GO:0036119	response to platelet-derived growth factor
+GO:0032731	1	GO:0032660	regulation of interleukin-17 production
+GO:0032732	1	GO:0032660	regulation of interleukin-17 production
+GO:0046146	2	GO:0006575	cellular modified amino acid metabolic process
+GO:0046148	2	GO:0006575	cellular modified amino acid metabolic process
+GO:0036475	8	GO:0055085	transmembrane transport
+GO:0034312	2	GO:0006575	cellular modified amino acid metabolic process
+GO:0032700	1	GO:0032660	regulation of interleukin-17 production
+GO:0032707	1	GO:0032660	regulation of interleukin-17 production
+GO:1990267	5	GO:0036119	response to platelet-derived growth factor
+GO:1990268	5	GO:0036119	response to platelet-derived growth factor
+GO:1904936	7	GO:1904936	interneuron migration
+GO:1904937	7	GO:1904936	interneuron migration
+GO:0046500	2	GO:0006575	cellular modified amino acid metabolic process
+GO:0007618	6	GO:0046008	regulation of female receptivity, post-mating
+GO:0007619	6	GO:0046008	regulation of female receptivity, post-mating
+GO:0033301	8	GO:0055085	transmembrane transport
+GO:0032490	5	GO:0036119	response to platelet-derived growth factor
+GO:0032497	5	GO:0036119	response to platelet-derived growth factor
+GO:0001659	6	GO:0046008	regulation of female receptivity, post-mating
+GO:0036005	5	GO:0036119	response to platelet-derived growth factor
+GO:0036006	5	GO:0036119	response to platelet-derived growth factor
+GO:0042559	2	GO:0006575	cellular modified amino acid metabolic process
+GO:0046693	6	GO:0046008	regulation of female receptivity, post-mating
+GO:0019321	2	GO:0006575	cellular modified amino acid metabolic process
+GO:0040018	8	GO:0055085	transmembrane transport
+GO:0046662	6	GO:0046008	regulation of female receptivity, post-mating
+GO:0050729	8	GO:0055085	transmembrane transport
+GO:0046653	2	GO:0006575	cellular modified amino acid metabolic process
+GO:1903223	8	GO:0055085	transmembrane transport
+GO:2000252	8	GO:0055085	transmembrane transport
+GO:0002246	8	GO:0055085	transmembrane transport
+GO:0140052	5	GO:0036119	response to platelet-derived growth factor
+GO:0099177	4	GO:0070423	nucleotide-binding oligomerization domain containing signaling pathway
+GO:0030728	6	GO:0046008	regulation of female receptivity, post-mating
+GO:0035987	7	GO:1904936	interneuron migration
+GO:0018210	2	GO:0006575	cellular modified amino acid metabolic process
+GO:0040009	8	GO:0055085	transmembrane transport
+GO:0072756	5	GO:0036119	response to platelet-derived growth factor
+GO:0007389	7	GO:1904936	interneuron migration
+GO:0008363	7	GO:1904936	interneuron migration
+GO:0036120	5	GO:0036119	response to platelet-derived growth factor
+GO:0043101	2	GO:0006575	cellular modified amino acid metabolic process
+GO:0045600	8	GO:0055085	transmembrane transport
+GO:1904645	5	GO:0036119	response to platelet-derived growth factor
+GO:1904646	5	GO:0036119	response to platelet-derived growth factor
+GO:0036119	5	GO:0036119	response to platelet-derived growth factor
+GO:1903203	8	GO:0055085	transmembrane transport
+GO:1903204	8	GO:0055085	transmembrane transport
+GO:0030307	8	GO:0055085	transmembrane transport
+GO:1903209	8	GO:0055085	transmembrane transport
+GO:0097402	7	GO:1904936	interneuron migration
+GO:0071300	5	GO:0036119	response to platelet-derived growth factor
+GO:0060581	7	GO:1904936	interneuron migration
+GO:1990773	8	GO:0055085	transmembrane transport
+GO:0002756	4	GO:0070423	nucleotide-binding oligomerization domain containing signaling pathway
+GO:0006493	2	GO:0006575	cellular modified amino acid metabolic process
+GO:0010934	1	GO:0032660	regulation of interleukin-17 production
+GO:0010935	1	GO:0032660	regulation of interleukin-17 production
+GO:0030466	3	GO:0045348	positive regulation of MHC class II biosynthetic process
+GO:0001711	7	GO:1904936	interneuron migration
+GO:0050873	7	GO:1904936	interneuron migration
+GO:0001714	7	GO:1904936	interneuron migration
+GO:0046365	2	GO:0006575	cellular modified amino acid metabolic process
+GO:1905485	7	GO:1904936	interneuron migration
+GO:0002322	8	GO:0055085	transmembrane transport
+GO:0000272	2	GO:0006575	cellular modified amino acid metabolic process
+GO:0045329	2	GO:0006575	cellular modified amino acid metabolic process
+GO:1900227	8	GO:0055085	transmembrane transport
+GO:0043278	5	GO:0036119	response to platelet-derived growth factor
+GO:0070391	5	GO:0036119	response to platelet-derived growth factor
+GO:0035666	4	GO:0070423	nucleotide-binding oligomerization domain containing signaling pathway
+GO:0032570	5	GO:0036119	response to platelet-derived growth factor
+GO:0045342	3	GO:0045348	positive regulation of MHC class II biosynthetic process
+GO:0045346	3	GO:0045348	positive regulation of MHC class II biosynthetic process
+GO:0045348	3	GO:0045348	positive regulation of MHC class II biosynthetic process
+GO:0032526	5	GO:0036119	response to platelet-derived growth factor
+GO:1990700	8	GO:0055085	transmembrane transport
+GO:0006486	2	GO:0006575	cellular modified amino acid metabolic process
+GO:0060907	1	GO:0032660	regulation of interleukin-17 production
+GO:0001706	7	GO:1904936	interneuron migration
+GO:0050804	8	GO:0055085	transmembrane transport
+GO:0046337	2	GO:0006575	cellular modified amino acid metabolic process
+GO:0031508	3	GO:0045348	positive regulation of MHC class II biosynthetic process
+GO:2000341	1	GO:0032660	regulation of interleukin-17 production
+GO:0042398	2	GO:0006575	cellular modified amino acid metabolic process
+GO:0006032	2	GO:0006575	cellular modified amino acid metabolic process
+GO:2000343	1	GO:0032660	regulation of interleukin-17 production
+GO:0007427	7	GO:1904936	interneuron migration
+GO:0097104	7	GO:1904936	interneuron migration
+GO:0097105	7	GO:1904936	interneuron migration
+GO:0071402	5	GO:0036119	response to platelet-derived growth factor
+GO:0071404	5	GO:0036119	response to platelet-derived growth factor
+GO:0031663	5	GO:0036119	response to platelet-derived growth factor
+GO:0015810	8	GO:0055085	transmembrane transport
+GO:0015811	8	GO:0055085	transmembrane transport
+GO:0010632	8	GO:0055085	transmembrane transport
+GO:1902883	8	GO:0055085	transmembrane transport
+GO:0032660	1	GO:0032660	regulation of interleukin-17 production
+GO:0032667	1	GO:0032660	regulation of interleukin-17 production
+GO:0003081	6	GO:0046008	regulation of female receptivity, post-mating
+GO:0045429	3	GO:0045348	positive regulation of MHC class II biosynthetic process
+GO:1904464	8	GO:0055085	transmembrane transport
+GO:1904466	8	GO:0055085	transmembrane transport
+GO:0032689	1	GO:0032660	regulation of interleukin-17 production
+GO:1903428	3	GO:0045348	positive regulation of MHC class II biosynthetic process
+GO:0032620	1	GO:0032660	regulation of interleukin-17 production
+GO:0045448	7	GO:1904936	interneuron migration
+GO:0032627	1	GO:0032660	regulation of interleukin-17 production
+GO:0006581	2	GO:0006575	cellular modified amino acid metabolic process
+GO:0048069	8	GO:0055085	transmembrane transport
+GO:0072567	1	GO:0032660	regulation of interleukin-17 production
+GO:0006984	4	GO:0070423	nucleotide-binding oligomerization domain containing signaling pathway
+GO:0006575	2	GO:0006575	cellular modified amino acid metabolic process
+GO:0007158	8	GO:0055085	transmembrane transport
+GO:0048488	8	GO:0055085	transmembrane transport
+GO:0009620	5	GO:0036119	response to platelet-derived growth factor
+GO:0070423	4	GO:0070423	nucleotide-binding oligomerization domain containing signaling pathway
+GO:0048026	3	GO:0045348	positive regulation of MHC class II biosynthetic process
+GO:0070424	4	GO:0070423	nucleotide-binding oligomerization domain containing signaling pathway
+GO:0070426	4	GO:0070423	nucleotide-binding oligomerization domain containing signaling pathway
+GO:0070427	4	GO:0070423	nucleotide-binding oligomerization domain containing signaling pathway
+GO:0051767	3	GO:0045348	positive regulation of MHC class II biosynthetic process
+GO:0070428	4	GO:0070423	nucleotide-binding oligomerization domain containing signaling pathway
+GO:0051769	3	GO:0045348	positive regulation of MHC class II biosynthetic process
+GO:0046008	6	GO:0046008	regulation of female receptivity, post-mating
+GO:0055094	5	GO:0036119	response to platelet-derived growth factor
+GO:0019695	2	GO:0006575	cellular modified amino acid metabolic process
+GO:0070430	4	GO:0070423	nucleotide-binding oligomerization domain containing signaling pathway
+GO:0051770	3	GO:0045348	positive regulation of MHC class II biosynthetic process
+GO:0070431	4	GO:0070423	nucleotide-binding oligomerization domain containing signaling pathway
+GO:0070432	4	GO:0070423	nucleotide-binding oligomerization domain containing signaling pathway
+GO:1904407	3	GO:0045348	positive regulation of MHC class II biosynthetic process
+GO:0070434	4	GO:0070423	nucleotide-binding oligomerization domain containing signaling pathway
+GO:0060729	6	GO:0046008	regulation of female receptivity, post-mating
+GO:0014072	5	GO:0036119	response to platelet-derived growth factor
+GO:0055085	8	GO:0055085	transmembrane transport
+GO:0006690	2	GO:0006575	cellular modified amino acid metabolic process
+GO:0006691	2	GO:0006575	cellular modified amino acid metabolic process
+GO:0014823	5	GO:0036119	response to platelet-derived growth factor
+GO:0042811	2	GO:0006575	cellular modified amino acid metabolic process
+GO:1903969	5	GO:0036119	response to platelet-derived growth factor
+GO:0042440	2	GO:0006575	cellular modified amino acid metabolic process
+GO:1900017	1	GO:0032660	regulation of interleukin-17 production

@@ -1,0 +1,25 @@
+GO:0140034	4	GO:0005515	protein binding
+GO:0035064	4	GO:0005515	protein binding
+GO:0000981	3	GO:0090729	toxin activity
+GO:0090729	3	GO:0090729	toxin activity
+GO:0042162	2	GO:0003690	double-stranded DNA binding
+GO:0000978	2	GO:0003690	double-stranded DNA binding
+GO:0005213	3	GO:0090729	toxin activity
+GO:0015144	1	GO:0015145	monosaccharide transmembrane transporter activity
+GO:0015145	1	GO:0015145	monosaccharide transmembrane transporter activity
+GO:0015149	1	GO:0015145	monosaccharide transmembrane transporter activity
+GO:0000014	3	GO:0090729	toxin activity
+GO:0005125	4	GO:0005515	protein binding
+GO:0051119	1	GO:0015145	monosaccharide transmembrane transporter activity
+GO:0005515	4	GO:0005515	protein binding
+GO:0005518	4	GO:0005515	protein binding
+GO:0005133	4	GO:0005515	protein binding
+GO:0106006	3	GO:0090729	toxin activity
+GO:0005139	4	GO:0005515	protein binding
+GO:0004517	3	GO:0090729	toxin activity
+GO:0120160	4	GO:0005515	protein binding
+GO:0030246	4	GO:0005515	protein binding
+GO:0070840	4	GO:0005515	protein binding
+GO:0003690	2	GO:0003690	double-stranded DNA binding
+GO:0001228	3	GO:0090729	toxin activity
+GO:0001216	3	GO:0090729	toxin activity

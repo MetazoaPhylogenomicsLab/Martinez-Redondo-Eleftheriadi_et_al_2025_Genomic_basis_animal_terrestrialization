@@ -1,0 +1,39 @@
+GO:0005881	4	GO:0015630	microtubule cytoskeleton
+GO:0070876	3	GO:0000118	histone deacetylase complex
+GO:0005874	4	GO:0015630	microtubule cytoskeleton
+GO:0000228	3	GO:0000118	histone deacetylase complex
+GO:0099513	4	GO:0015630	microtubule cytoskeleton
+GO:0005814	4	GO:0015630	microtubule cytoskeleton
+GO:0031097	2	GO:0055036	virion membrane
+GO:0005819	4	GO:0015630	microtubule cytoskeleton
+GO:0070847	3	GO:0000118	histone deacetylase complex
+GO:0055036	2	GO:0055036	virion membrane
+GO:0009521	2	GO:0055036	virion membrane
+GO:0009523	2	GO:0055036	virion membrane
+GO:0051285	2	GO:0055036	virion membrane
+GO:0042025	1	GO:0030430	host cell cytoplasm
+GO:0008076	2	GO:0055036	virion membrane
+GO:0005930	4	GO:0015630	microtubule cytoskeleton
+GO:0043083	2	GO:0055036	virion membrane
+GO:0005628	2	GO:0055036	virion membrane
+GO:0034399	3	GO:0000118	histone deacetylase complex
+GO:0034705	2	GO:0055036	virion membrane
+GO:0005721	4	GO:0015630	microtubule cytoskeleton
+GO:0000118	3	GO:0000118	histone deacetylase complex
+GO:0000805	4	GO:0015630	microtubule cytoskeleton
+GO:0044156	1	GO:0030430	host cell cytoplasm
+GO:0044177	1	GO:0030430	host cell cytoplasm
+GO:0005701	4	GO:0015630	microtubule cytoskeleton
+GO:0046536	3	GO:0000118	histone deacetylase complex
+GO:0044178	1	GO:0030430	host cell cytoplasm
+GO:0015630	4	GO:0015630	microtubule cytoskeleton
+GO:0072487	3	GO:0000118	histone deacetylase complex
+GO:0034045	2	GO:0055036	virion membrane
+GO:0016592	3	GO:0000118	histone deacetylase complex
+GO:0030430	1	GO:0030430	host cell cytoplasm
+GO:0016456	3	GO:0000118	histone deacetylase complex
+GO:0097542	2	GO:0055036	virion membrane
+GO:0035869	2	GO:0055036	virion membrane
+GO:0070056	2	GO:0055036	virion membrane
+GO:0019031	2	GO:0055036	virion membrane
+GO:0019033	2	GO:0055036	virion membrane

@@ -1,0 +1,70 @@
+GO:0016203	4	GO:0007517	muscle organ development
+GO:0046129	3	GO:0034404	nucleobase-containing small molecule biosynthetic process
+GO:0042451	3	GO:0034404	nucleobase-containing small molecule biosynthetic process
+GO:0043562	6	GO:0010118	stomatal movement
+GO:0042455	3	GO:0034404	nucleobase-containing small molecule biosynthetic process
+GO:0072523	2	GO:0006152	purine nucleoside catabolic process
+GO:0046112	3	GO:0034404	nucleobase-containing small molecule biosynthetic process
+GO:0046113	2	GO:0006152	purine nucleoside catabolic process
+GO:0071215	5	GO:0071396	cellular response to lipid
+GO:0099054	6	GO:0010118	stomatal movement
+GO:0046130	2	GO:0006152	purine nucleoside catabolic process
+GO:0009163	3	GO:0034404	nucleobase-containing small molecule biosynthetic process
+GO:0009168	3	GO:0034404	nucleobase-containing small molecule biosynthetic process
+GO:0045879	7	GO:0070571	negative regulation of neuron projection regeneration
+GO:0019374	1	GO:0009247	glycolipid biosynthetic process
+GO:0006152	2	GO:0006152	purine nucleoside catabolic process
+GO:0009755	5	GO:0071396	cellular response to lipid
+GO:0009787	5	GO:0071396	cellular response to lipid
+GO:0042438	1	GO:0009247	glycolipid biosynthetic process
+GO:0071396	5	GO:0071396	cellular response to lipid
+GO:0009127	3	GO:0034404	nucleobase-containing small molecule biosynthetic process
+GO:0048488	6	GO:0010118	stomatal movement
+GO:0043101	3	GO:0034404	nucleobase-containing small molecule biosynthetic process
+GO:0006995	6	GO:0010118	stomatal movement
+GO:0048863	6	GO:0010118	stomatal movement
+GO:0009584	6	GO:0010118	stomatal movement
+GO:0009725	5	GO:0071396	cellular response to lipid
+GO:1905957	5	GO:0071396	cellular response to lipid
+GO:0009954	4	GO:0007517	muscle organ development
+GO:0006144	2	GO:0006152	purine nucleoside catabolic process
+GO:0010172	4	GO:0007517	muscle organ development
+GO:1901419	5	GO:0071396	cellular response to lipid
+GO:0048681	7	GO:0070571	negative regulation of neuron projection regeneration
+GO:0009738	5	GO:0071396	cellular response to lipid
+GO:1903204	7	GO:0070571	negative regulation of neuron projection regeneration
+GO:0010118	6	GO:0010118	stomatal movement
+GO:0046473	1	GO:0009247	glycolipid biosynthetic process
+GO:0070571	7	GO:0070571	negative regulation of neuron projection regeneration
+GO:0043473	6	GO:0010118	stomatal movement
+GO:0051093	7	GO:0070571	negative regulation of neuron projection regeneration
+GO:0048634	4	GO:0007517	muscle organ development
+GO:0048635	4	GO:0007517	muscle organ development
+GO:0034404	3	GO:0034404	nucleobase-containing small molecule biosynthetic process
+GO:0046823	6	GO:0010118	stomatal movement
+GO:0006506	1	GO:0009247	glycolipid biosynthetic process
+GO:0006935	5	GO:0071396	cellular response to lipid
+GO:1902075	5	GO:0071396	cellular response to lipid
+GO:0007158	6	GO:0010118	stomatal movement
+GO:0042994	1	GO:0009247	glycolipid biosynthetic process
+GO:1900181	6	GO:0010118	stomatal movement
+GO:0016485	1	GO:0009247	glycolipid biosynthetic process
+GO:0045744	7	GO:0070571	negative regulation of neuron projection regeneration
+GO:0051457	6	GO:0010118	stomatal movement
+GO:0060326	5	GO:0071396	cellular response to lipid
+GO:0071709	6	GO:0010118	stomatal movement
+GO:1902883	7	GO:0070571	negative regulation of neuron projection regeneration
+GO:0001941	6	GO:0010118	stomatal movement
+GO:0042308	6	GO:0010118	stomatal movement
+GO:0008645	6	GO:0010118	stomatal movement
+GO:0006654	1	GO:0009247	glycolipid biosynthetic process
+GO:2000737	7	GO:0070571	negative regulation of neuron projection regeneration
+GO:1901562	5	GO:0071396	cellular response to lipid
+GO:0009247	1	GO:0009247	glycolipid biosynthetic process
+GO:0007517	4	GO:0007517	muscle organ development
+GO:1901317	6	GO:0010118	stomatal movement
+GO:0035590	7	GO:0070571	negative regulation of neuron projection regeneration
+GO:0051220	6	GO:0010118	stomatal movement
+GO:0110011	6	GO:0010118	stomatal movement
+GO:0090317	6	GO:0010118	stomatal movement
+GO:0009395	1	GO:0009247	glycolipid biosynthetic process

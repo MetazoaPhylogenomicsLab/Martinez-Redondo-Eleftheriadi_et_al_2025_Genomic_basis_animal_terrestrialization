@@ -1,0 +1,879 @@
+GO:0006508	12	GO:0006575	cellular modified amino acid metabolic process
+GO:0014019	4	GO:0014019	neuroblast development
+GO:2001222	6	GO:0010453	regulation of cell fate commitment
+GO:0001963	7	GO:0050804	modulation of chemical synaptic transmission
+GO:0014041	6	GO:0010453	regulation of cell fate commitment
+GO:0014047	13	GO:0043269	regulation of ion transport
+GO:0014048	13	GO:0043269	regulation of ion transport
+GO:2001243	8	GO:0040036	regulation of fibroblast growth factor receptor signaling pathway
+GO:0090326	15	GO:0040012	regulation of locomotion
+GO:0045500	6	GO:0010453	regulation of cell fate commitment
+GO:0090327	15	GO:0040012	regulation of locomotion
+GO:2001233	8	GO:0040036	regulation of fibroblast growth factor receptor signaling pathway
+GO:2001234	8	GO:0040036	regulation of fibroblast growth factor receptor signaling pathway
+GO:0030431	20	GO:0030431	sleep
+GO:0009199	12	GO:0006575	cellular modified amino acid metabolic process
+GO:0014009	4	GO:0014019	neuroblast development
+GO:0001912	14	GO:0050867	positive regulation of cell activation
+GO:0001946	3	GO:0048732	gland development
+GO:0034030	11	GO:0000105	histidine biosynthetic process
+GO:0034032	12	GO:0006575	cellular modified amino acid metabolic process
+GO:0034033	11	GO:0000105	histidine biosynthetic process
+GO:0019226	20	GO:0030431	sleep
+GO:0019228	19	GO:0045924	regulation of female receptivity
+GO:1900087	14	GO:0050867	positive regulation of cell activation
+GO:0090303	15	GO:0040012	regulation of locomotion
+GO:0090305	12	GO:0006575	cellular modified amino acid metabolic process
+GO:0009152	11	GO:0000105	histidine biosynthetic process
+GO:0045664	6	GO:0010453	regulation of cell fate commitment
+GO:0045666	6	GO:0010453	regulation of cell fate commitment
+GO:0045669	6	GO:0010453	regulation of cell fate commitment
+GO:1990051	10	GO:0006355	regulation of transcription, DNA-templated
+GO:0060393	10	GO:0006355	regulation of transcription, DNA-templated
+GO:0060395	9	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0030193	15	GO:0040012	regulation of locomotion
+GO:0044030	10	GO:0006355	regulation of transcription, DNA-templated
+GO:0030198	18	GO:0032196	transposition
+GO:0019233	20	GO:0030431	sleep
+GO:0090497	18	GO:0032196	transposition
+GO:0045671	5	GO:0060688	regulation of morphogenesis of a branching structure
+GO:1900046	15	GO:0040012	regulation of locomotion
+GO:0030168	19	GO:0045924	regulation of female receptivity
+GO:0045611	6	GO:0010453	regulation of cell fate commitment
+GO:0045613	6	GO:0010453	regulation of cell fate commitment
+GO:0009144	12	GO:0006575	cellular modified amino acid metabolic process
+GO:0045614	5	GO:0060688	regulation of morphogenesis of a branching structure
+GO:0009145	11	GO:0000105	histidine biosynthetic process
+GO:0045617	5	GO:0060688	regulation of morphogenesis of a branching structure
+GO:0060389	10	GO:0006355	regulation of transcription, DNA-templated
+GO:0051966	7	GO:0050804	modulation of chemical synaptic transmission
+GO:1904936	4	GO:0014019	neuroblast development
+GO:0051952	13	GO:0043269	regulation of ion transport
+GO:0051953	13	GO:0043269	regulation of ion transport
+GO:0051955	13	GO:0043269	regulation of ion transport
+GO:0051956	13	GO:0043269	regulation of ion transport
+GO:0060323	2	GO:0048617	embryonic foregut morphogenesis
+GO:0070328	19	GO:0045924	regulation of female receptivity
+GO:0023019	9	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0043068	14	GO:0050867	positive regulation of cell activation
+GO:0043052	16	GO:0032094	response to food
+GO:0043053	2	GO:0048617	embryonic foregut morphogenesis
+GO:0043055	2	GO:0048617	embryonic foregut morphogenesis
+GO:0023035	9	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0051932	7	GO:0050804	modulation of chemical synaptic transmission
+GO:0071982	20	GO:0030431	sleep
+GO:0043010	1	GO:0035736	cell proliferation involved in compound eye morphogenesis
+GO:0090199	8	GO:0040036	regulation of fibroblast growth factor receptor signaling pathway
+GO:0060465	3	GO:0048732	gland development
+GO:0032094	16	GO:0032094	response to food
+GO:1905770	6	GO:0010453	regulation of cell fate commitment
+GO:0009205	11	GO:0000105	histidine biosynthetic process
+GO:0009206	11	GO:0000105	histidine biosynthetic process
+GO:0003073	19	GO:0045924	regulation of female receptivity
+GO:0030245	11	GO:0000105	histidine biosynthetic process
+GO:1903901	15	GO:0040012	regulation of locomotion
+GO:0016925	12	GO:0006575	cellular modified amino acid metabolic process
+GO:1905710	19	GO:0045924	regulation of female receptivity
+GO:0042060	16	GO:0032094	response to food
+GO:0042063	4	GO:0014019	neuroblast development
+GO:0042067	1	GO:0035736	cell proliferation involved in compound eye morphogenesis
+GO:0010761	18	GO:0032196	transposition
+GO:0010762	14	GO:0050867	positive regulation of cell activation
+GO:0010758	15	GO:0040012	regulation of locomotion
+GO:0010720	6	GO:0010453	regulation of cell fate commitment
+GO:0042044	13	GO:0043269	regulation of ion transport
+GO:0042045	13	GO:0043269	regulation of ion transport
+GO:0042048	16	GO:0032094	response to food
+GO:0046929	7	GO:0050804	modulation of chemical synaptic transmission
+GO:0009743	16	GO:0032094	response to food
+GO:0060180	19	GO:0045924	regulation of female receptivity
+GO:0015986	11	GO:0000105	histidine biosynthetic process
+GO:0030718	20	GO:0030431	sleep
+GO:0006953	16	GO:0032094	response to food
+GO:0006958	15	GO:0040012	regulation of locomotion
+GO:0034329	18	GO:0032196	transposition
+GO:0002011	2	GO:0048617	embryonic foregut morphogenesis
+GO:0034341	16	GO:0032094	response to food
+GO:0010862	10	GO:0006355	regulation of transcription, DNA-templated
+GO:0019511	12	GO:0006575	cellular modified amino acid metabolic process
+GO:0006935	16	GO:0032094	response to food
+GO:0015909	13	GO:0043269	regulation of ion transport
+GO:2000027	3	GO:0048732	gland development
+GO:0045924	19	GO:0045924	regulation of female receptivity
+GO:0010842	1	GO:0035736	cell proliferation involved in compound eye morphogenesis
+GO:0060250	19	GO:0045924	regulation of female receptivity
+GO:0045916	15	GO:0040012	regulation of locomotion
+GO:2000036	5	GO:0060688	regulation of morphogenesis of a branching structure
+GO:0010838	14	GO:0050867	positive regulation of cell activation
+GO:0060284	6	GO:0010453	regulation of cell fate commitment
+GO:0045944	10	GO:0006355	regulation of transcription, DNA-templated
+GO:0060218	4	GO:0014019	neuroblast development
+GO:1905521	14	GO:0050867	positive regulation of cell activation
+GO:0034486	13	GO:0043269	regulation of ion transport
+GO:1905515	18	GO:0032196	transposition
+GO:0070227	18	GO:0032196	transposition
+GO:0070228	14	GO:0050867	positive regulation of cell activation
+GO:0038061	9	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0070229	14	GO:0050867	positive regulation of cell activation
+GO:0009593	16	GO:0032094	response to food
+GO:0034414	11	GO:0000105	histidine biosynthetic process
+GO:0070231	18	GO:0032196	transposition
+GO:0070232	14	GO:0050867	positive regulation of cell activation
+GO:0070233	14	GO:0050867	positive regulation of cell activation
+GO:0050795	15	GO:0040012	regulation of locomotion
+GO:0009566	19	GO:0045924	regulation of female receptivity
+GO:0043327	16	GO:0032094	response to food
+GO:0060795	4	GO:0014019	neuroblast development
+GO:0050769	6	GO:0010453	regulation of cell fate commitment
+GO:0051092	10	GO:0006355	regulation of transcription, DNA-templated
+GO:0060756	20	GO:0030431	sleep
+GO:0050728	15	GO:0040012	regulation of locomotion
+GO:0050729	15	GO:0040012	regulation of locomotion
+GO:0051051	13	GO:0043269	regulation of ion transport
+GO:0010508	10	GO:0006355	regulation of transcription, DNA-templated
+GO:0042395	20	GO:0030431	sleep
+GO:0030540	3	GO:0048732	gland development
+GO:0061065	5	GO:0060688	regulation of morphogenesis of a branching structure
+GO:0030534	20	GO:0030431	sleep
+GO:0034113	18	GO:0032196	transposition
+GO:0051048	13	GO:0043269	regulation of ion transport
+GO:0030501	5	GO:0060688	regulation of morphogenesis of a branching structure
+GO:0042387	4	GO:0014019	neuroblast development
+GO:0008015	20	GO:0030431	sleep
+GO:0008045	4	GO:0014019	neuroblast development
+GO:0061041	15	GO:0040012	regulation of locomotion
+GO:0043410	8	GO:0040036	regulation of fibroblast growth factor receptor signaling pathway
+GO:0008038	4	GO:0014019	neuroblast development
+GO:0008039	4	GO:0014019	neuroblast development
+GO:0050863	14	GO:0050867	positive regulation of cell activation
+GO:0042310	19	GO:0045924	regulation of female receptivity
+GO:0050867	14	GO:0050867	positive regulation of cell activation
+GO:0010677	10	GO:0006355	regulation of transcription, DNA-templated
+GO:0034109	18	GO:0032196	transposition
+GO:1903053	14	GO:0050867	positive regulation of cell activation
+GO:0043434	16	GO:0032094	response to food
+GO:0042332	16	GO:0032094	response to food
+GO:0009611	16	GO:0032094	response to food
+GO:0050870	14	GO:0050867	positive regulation of cell activation
+GO:0050878	19	GO:0045924	regulation of female receptivity
+GO:0009649	15	GO:0040012	regulation of locomotion
+GO:0050817	20	GO:0030431	sleep
+GO:0050818	5	GO:0060688	regulation of morphogenesis of a branching structure
+GO:0090559	19	GO:0045924	regulation of female receptivity
+GO:0016062	8	GO:0040036	regulation of fibroblast growth factor receptor signaling pathway
+GO:0099643	7	GO:0050804	modulation of chemical synaptic transmission
+GO:0016059	8	GO:0040036	regulation of fibroblast growth factor receptor signaling pathway
+GO:1903037	14	GO:0050867	positive regulation of cell activation
+GO:1903039	14	GO:0050867	positive regulation of cell activation
+GO:0036099	20	GO:0030431	sleep
+GO:0050802	20	GO:0030431	sleep
+GO:0050804	7	GO:0050804	modulation of chemical synaptic transmission
+GO:0050805	7	GO:0050804	modulation of chemical synaptic transmission
+GO:0003418	2	GO:0048617	embryonic foregut morphogenesis
+GO:0003433	4	GO:0014019	neuroblast development
+GO:0032410	13	GO:0043269	regulation of ion transport
+GO:0043171	12	GO:0006575	cellular modified amino acid metabolic process
+GO:0032413	13	GO:0043269	regulation of ion transport
+GO:0043123	8	GO:0040036	regulation of fibroblast growth factor receptor signaling pathway
+GO:0042475	3	GO:0048732	gland development
+GO:0007014	12	GO:0006575	cellular modified amino acid metabolic process
+GO:0090504	2	GO:0048617	embryonic foregut morphogenesis
+GO:0042476	3	GO:0048732	gland development
+GO:0022404	20	GO:0030431	sleep
+GO:0031349	15	GO:0040012	regulation of locomotion
+GO:0032438	18	GO:0032196	transposition
+GO:0022407	14	GO:0050867	positive regulation of cell activation
+GO:0022409	14	GO:0050867	positive regulation of cell activation
+GO:2000378	10	GO:0006355	regulation of transcription, DNA-templated
+GO:0036011	2	GO:0048617	embryonic foregut morphogenesis
+GO:0070593	4	GO:0014019	neuroblast development
+GO:0060562	2	GO:0048617	embryonic foregut morphogenesis
+GO:0046034	20	GO:0030431	sleep
+GO:0034762	14	GO:0050867	positive regulation of cell activation
+GO:0097009	19	GO:0045924	regulation of female receptivity
+GO:0034765	13	GO:0043269	regulation of ion transport
+GO:0003151	3	GO:0048732	gland development
+GO:0070527	19	GO:0045924	regulation of female receptivity
+GO:0015074	12	GO:0006575	cellular modified amino acid metabolic process
+GO:0033273	16	GO:0032094	response to food
+GO:0043269	13	GO:0043269	regulation of ion transport
+GO:0070534	12	GO:0006575	cellular modified amino acid metabolic process
+GO:0043271	13	GO:0043269	regulation of ion transport
+GO:0002437	16	GO:0032094	response to food
+GO:0072378	10	GO:0006355	regulation of transcription, DNA-templated
+GO:0032147	10	GO:0006355	regulation of transcription, DNA-templated
+GO:0042129	14	GO:0050867	positive regulation of cell activation
+GO:0033209	8	GO:0040036	regulation of fibroblast growth factor receptor signaling pathway
+GO:0045087	16	GO:0032094	response to food
+GO:0035017	3	GO:0048732	gland development
+GO:0042130	14	GO:0050867	positive regulation of cell activation
+GO:0035019	20	GO:0030431	sleep
+GO:0042133	12	GO:0006575	cellular modified amino acid metabolic process
+GO:0032103	15	GO:0040012	regulation of locomotion
+GO:0050670	14	GO:0050867	positive regulation of cell activation
+GO:0048333	4	GO:0014019	neuroblast development
+GO:0060688	5	GO:0060688	regulation of morphogenesis of a branching structure
+GO:0042102	14	GO:0050867	positive regulation of cell activation
+GO:0070663	14	GO:0050867	positive regulation of cell activation
+GO:1905952	15	GO:0040012	regulation of locomotion
+GO:0035002	2	GO:0048617	embryonic foregut morphogenesis
+GO:0002164	3	GO:0048732	gland development
+GO:0035006	11	GO:0000105	histidine biosynthetic process
+GO:1901046	19	GO:0045924	regulation of female receptivity
+GO:0031152	16	GO:0032094	response to food
+GO:0010994	18	GO:0032196	transposition
+GO:0002121	20	GO:0030431	sleep
+GO:1905941	5	GO:0060688	regulation of morphogenesis of a branching structure
+GO:0002118	20	GO:0030431	sleep
+GO:0032222	7	GO:0050804	modulation of chemical synaptic transmission
+GO:0032224	7	GO:0050804	modulation of chemical synaptic transmission
+GO:0071356	16	GO:0032094	response to food
+GO:0018401	12	GO:0006575	cellular modified amino acid metabolic process
+GO:0010951	10	GO:0006355	regulation of transcription, DNA-templated
+GO:0008347	4	GO:0014019	neuroblast development
+GO:1905909	5	GO:0060688	regulation of morphogenesis of a branching structure
+GO:0003208	3	GO:0048732	gland development
+GO:2000177	14	GO:0050867	positive regulation of cell activation
+GO:0071316	16	GO:0032094	response to food
+GO:0071346	16	GO:0032094	response to food
+GO:0031102	4	GO:0014019	neuroblast development
+GO:0031103	4	GO:0014019	neuroblast development
+GO:0010942	14	GO:0050867	positive regulation of cell activation
+GO:2000147	14	GO:0050867	positive regulation of cell activation
+GO:1990834	16	GO:0032094	response to food
+GO:0086010	19	GO:0045924	regulation of female receptivity
+GO:0031290	4	GO:0014019	neuroblast development
+GO:2000106	14	GO:0050867	positive regulation of cell activation
+GO:0033865	12	GO:0006575	cellular modified amino acid metabolic process
+GO:0002252	20	GO:0030431	sleep
+GO:0033866	11	GO:0000105	histidine biosynthetic process
+GO:0007365	2	GO:0048617	embryonic foregut morphogenesis
+GO:0007367	2	GO:0048617	embryonic foregut morphogenesis
+GO:0007369	3	GO:0048732	gland development
+GO:0033875	12	GO:0006575	cellular modified amino acid metabolic process
+GO:0016319	3	GO:0048732	gland development
+GO:0032729	10	GO:0006355	regulation of transcription, DNA-templated
+GO:0016330	1	GO:0035736	cell proliferation involved in compound eye morphogenesis
+GO:0016339	18	GO:0032196	transposition
+GO:0072175	2	GO:0048617	embryonic foregut morphogenesis
+GO:2000252	15	GO:0040012	regulation of locomotion
+GO:0055013	4	GO:0014019	neuroblast development
+GO:0032733	10	GO:0006355	regulation of transcription, DNA-templated
+GO:0071419	16	GO:0032094	response to food
+GO:0042749	19	GO:0045924	regulation of female receptivity
+GO:0042730	15	GO:0040012	regulation of locomotion
+GO:0008406	3	GO:0048732	gland development
+GO:0048147	14	GO:0050867	positive regulation of cell activation
+GO:1903429	6	GO:0010453	regulation of cell fate commitment
+GO:0032891	13	GO:0043269	regulation of ion transport
+GO:0046330	8	GO:0040036	regulation of fibroblast growth factor receptor signaling pathway
+GO:0046331	6	GO:0010453	regulation of cell fate commitment
+GO:0032897	15	GO:0040012	regulation of locomotion
+GO:0097305	16	GO:0032094	response to food
+GO:0007498	2	GO:0048617	embryonic foregut morphogenesis
+GO:0048100	2	GO:0048617	embryonic foregut morphogenesis
+GO:0051153	6	GO:0010453	regulation of cell fate commitment
+GO:0051155	6	GO:0010453	regulation of cell fate commitment
+GO:0007455	2	GO:0048617	embryonic foregut morphogenesis
+GO:0006357	10	GO:0006355	regulation of transcription, DNA-templated
+GO:0007487	3	GO:0048732	gland development
+GO:0051149	6	GO:0010453	regulation of cell fate commitment
+GO:0007426	3	GO:0048732	gland development
+GO:0007427	2	GO:0048617	embryonic foregut morphogenesis
+GO:0007411	4	GO:0014019	neuroblast development
+GO:0007413	4	GO:0014019	neuroblast development
+GO:0007414	4	GO:0014019	neuroblast development
+GO:0007442	3	GO:0048732	gland development
+GO:0007443	2	GO:0048617	embryonic foregut morphogenesis
+GO:0007436	2	GO:0048617	embryonic foregut morphogenesis
+GO:0002701	10	GO:0006355	regulation of transcription, DNA-templated
+GO:0007439	3	GO:0048732	gland development
+GO:0034605	16	GO:0032094	response to food
+GO:0002704	15	GO:0040012	regulation of locomotion
+GO:0034608	19	GO:0045924	regulation of female receptivity
+GO:0034609	19	GO:0045924	regulation of female receptivity
+GO:0033500	19	GO:0045924	regulation of female receptivity
+GO:1900619	12	GO:0006575	cellular modified amino acid metabolic process
+GO:0035313	18	GO:0032196	transposition
+GO:0051293	18	GO:0032196	transposition
+GO:0016198	4	GO:0014019	neuroblast development
+GO:0007405	4	GO:0014019	neuroblast development
+GO:0016199	4	GO:0014019	neuroblast development
+GO:0050920	15	GO:0040012	regulation of locomotion
+GO:0007409	4	GO:0014019	neuroblast development
+GO:0050921	15	GO:0040012	regulation of locomotion
+GO:0035335	12	GO:0006575	cellular modified amino acid metabolic process
+GO:0006305	12	GO:0006575	cellular modified amino acid metabolic process
+GO:0006306	12	GO:0006575	cellular modified amino acid metabolic process
+GO:0050911	16	GO:0032094	response to food
+GO:0050912	16	GO:0032094	response to food
+GO:0050914	20	GO:0030431	sleep
+GO:0008291	12	GO:0006575	cellular modified amino acid metabolic process
+GO:0051260	18	GO:0032196	transposition
+GO:0097400	8	GO:0040036	regulation of fibroblast growth factor receptor signaling pathway
+GO:0007193	9	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0007195	8	GO:0040036	regulation of fibroblast growth factor receptor signaling pathway
+GO:0007197	8	GO:0040036	regulation of fibroblast growth factor receptor signaling pathway
+GO:0002861	15	GO:0040012	regulation of locomotion
+GO:0002862	15	GO:0040012	regulation of locomotion
+GO:0001764	4	GO:0014019	neuroblast development
+GO:0070986	2	GO:0048617	embryonic foregut morphogenesis
+GO:0060914	3	GO:0048732	gland development
+GO:0042593	19	GO:0045924	regulation of female receptivity
+GO:0042595	16	GO:0032094	response to food
+GO:0001751	1	GO:0035736	cell proliferation involved in compound eye morphogenesis
+GO:1902437	19	GO:0045924	regulation of female receptivity
+GO:0007160	18	GO:0032196	transposition
+GO:0007166	9	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0050900	18	GO:0032196	transposition
+GO:0033687	18	GO:0032196	transposition
+GO:0050906	20	GO:0030431	sleep
+GO:0050907	16	GO:0032094	response to food
+GO:0007155	18	GO:0032196	transposition
+GO:0007156	18	GO:0032196	transposition
+GO:0008284	14	GO:0050867	positive regulation of cell activation
+GO:0007159	18	GO:0032196	transposition
+GO:0007186	9	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0007187	9	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0051240	5	GO:0060688	regulation of morphogenesis of a branching structure
+GO:0001710	4	GO:0014019	neuroblast development
+GO:0070936	12	GO:0006575	cellular modified amino acid metabolic process
+GO:1904799	6	GO:0010453	regulation of cell fate commitment
+GO:0002833	15	GO:0040012	regulation of locomotion
+GO:0001745	1	GO:0035736	cell proliferation involved in compound eye morphogenesis
+GO:0008217	19	GO:0045924	regulation of female receptivity
+GO:0002837	15	GO:0040012	regulation of locomotion
+GO:0045466	1	GO:0035736	cell proliferation involved in compound eye morphogenesis
+GO:0048771	20	GO:0030431	sleep
+GO:1903265	8	GO:0040036	regulation of fibroblast growth factor receptor signaling pathway
+GO:0033602	13	GO:0043269	regulation of ion transport
+GO:0001709	4	GO:0014019	neuroblast development
+GO:0045471	16	GO:0032094	response to food
+GO:0048732	3	GO:0048732	gland development
+GO:0097104	18	GO:0032196	transposition
+GO:0045434	19	GO:0045924	regulation of female receptivity
+GO:0048701	2	GO:0048617	embryonic foregut morphogenesis
+GO:0032653	10	GO:0006355	regulation of transcription, DNA-templated
+GO:0007269	7	GO:0050804	modulation of chemical synaptic transmission
+GO:0035199	16	GO:0032094	response to food
+GO:0022611	20	GO:0030431	sleep
+GO:0007259	9	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0002526	16	GO:0032094	response to food
+GO:0042661	5	GO:0060688	regulation of morphogenesis of a branching structure
+GO:0007271	7	GO:0050804	modulation of chemical synaptic transmission
+GO:1904892	9	GO:0007186	G protein-coupled receptor signaling pathway
+GO:1904894	8	GO:0040036	regulation of fibroblast growth factor receptor signaling pathway
+GO:0042659	6	GO:0010453	regulation of cell fate commitment
+GO:0035161	3	GO:0048732	gland development
+GO:0001819	10	GO:0006355	regulation of transcription, DNA-templated
+GO:0032613	20	GO:0030431	sleep
+GO:0016239	10	GO:0006355	regulation of transcription, DNA-templated
+GO:0035150	19	GO:0045924	regulation of female receptivity
+GO:0042688	4	GO:0014019	neuroblast development
+GO:0048858	4	GO:0014019	neuroblast development
+GO:0007212	8	GO:0040036	regulation of fibroblast growth factor receptor signaling pathway
+GO:0007213	8	GO:0040036	regulation of fibroblast growth factor receptor signaling pathway
+GO:0007218	9	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0032649	10	GO:0006355	regulation of transcription, DNA-templated
+GO:0001836	9	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0048880	3	GO:0048732	gland development
+GO:0006111	10	GO:0006355	regulation of transcription, DNA-templated
+GO:0022602	20	GO:0030431	sleep
+GO:0035171	4	GO:0014019	neuroblast development
+GO:0045165	4	GO:0014019	neuroblast development
+GO:0016200	4	GO:0014019	neuroblast development
+GO:0016201	4	GO:0014019	neuroblast development
+GO:0071711	18	GO:0032196	transposition
+GO:0099068	4	GO:0014019	neuroblast development
+GO:0045187	19	GO:0045924	regulation of female receptivity
+GO:0048812	4	GO:0014019	neuroblast development
+GO:0048813	4	GO:0014019	neuroblast development
+GO:0035146	2	GO:0048617	embryonic foregut morphogenesis
+GO:0048842	5	GO:0060688	regulation of morphogenesis of a branching structure
+GO:0035147	2	GO:0048617	embryonic foregut morphogenesis
+GO:0035148	3	GO:0048732	gland development
+GO:0048844	2	GO:0048617	embryonic foregut morphogenesis
+GO:0007200	9	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0002691	14	GO:0050867	positive regulation of cell activation
+GO:0045124	19	GO:0045924	regulation of female receptivity
+GO:0002696	14	GO:0050867	positive regulation of cell activation
+GO:1902229	8	GO:0040036	regulation of fibroblast growth factor receptor signaling pathway
+GO:0045137	3	GO:0048732	gland development
+GO:1902230	8	GO:0040036	regulation of fibroblast growth factor receptor signaling pathway
+GO:0002684	15	GO:0040012	regulation of locomotion
+GO:0002685	14	GO:0050867	positive regulation of cell activation
+GO:0001580	16	GO:0032094	response to food
+GO:0048592	1	GO:0035736	cell proliferation involved in compound eye morphogenesis
+GO:1903706	5	GO:0060688	regulation of morphogenesis of a branching structure
+GO:0098868	20	GO:0030431	sleep
+GO:0040011	20	GO:0030431	sleep
+GO:0001525	3	GO:0048732	gland development
+GO:0098869	16	GO:0032094	response to food
+GO:0040012	15	GO:0040012	regulation of locomotion
+GO:0040013	15	GO:0040012	regulation of locomotion
+GO:0040018	5	GO:0060688	regulation of morphogenesis of a branching structure
+GO:0098856	13	GO:0043269	regulation of ion transport
+GO:0048563	3	GO:0048732	gland development
+GO:0048565	3	GO:0048732	gland development
+GO:0048567	2	GO:0048617	embryonic foregut morphogenesis
+GO:0006278	11	GO:0000105	histidine biosynthetic process
+GO:0071880	9	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0040032	3	GO:0048732	gland development
+GO:0071887	18	GO:0032196	transposition
+GO:0072577	18	GO:0032196	transposition
+GO:0048557	2	GO:0048617	embryonic foregut morphogenesis
+GO:0061844	16	GO:0032094	response to food
+GO:0031644	19	GO:0045924	regulation of female receptivity
+GO:0031648	19	GO:0045924	regulation of female receptivity
+GO:0035270	3	GO:0048732	gland development
+GO:0035277	3	GO:0048732	gland development
+GO:0031638	11	GO:0000105	histidine biosynthetic process
+GO:0040001	18	GO:0032196	transposition
+GO:0001505	19	GO:0045924	regulation of female receptivity
+GO:0035214	3	GO:0048732	gland development
+GO:0048511	20	GO:0030431	sleep
+GO:0035215	3	GO:0048732	gland development
+GO:1903883	8	GO:0040036	regulation of fibroblast growth factor receptor signaling pathway
+GO:1903886	10	GO:0006355	regulation of transcription, DNA-templated
+GO:0035249	7	GO:0050804	modulation of chemical synaptic transmission
+GO:0048546	3	GO:0048732	gland development
+GO:0035239	3	GO:0048732	gland development
+GO:0000079	10	GO:0006355	regulation of transcription, DNA-templated
+GO:1901222	8	GO:0040036	regulation of fibroblast growth factor receptor signaling pathway
+GO:0051567	12	GO:0006575	cellular modified amino acid metabolic process
+GO:0006790	12	GO:0006575	cellular modified amino acid metabolic process
+GO:0001667	18	GO:0032196	transposition
+GO:0051589	13	GO:0043269	regulation of ion transport
+GO:0061564	4	GO:0014019	neuroblast development
+GO:0008585	2	GO:0048617	embryonic foregut morphogenesis
+GO:0008587	2	GO:0048617	embryonic foregut morphogenesis
+GO:0006754	11	GO:0000105	histidine biosynthetic process
+GO:0048661	14	GO:0050867	positive regulation of cell activation
+GO:0048663	4	GO:0014019	neuroblast development
+GO:0048665	4	GO:0014019	neuroblast development
+GO:0048667	4	GO:0014019	neuroblast development
+GO:0055115	20	GO:0030431	sleep
+GO:0035725	13	GO:0043269	regulation of ion transport
+GO:0048611	2	GO:0048617	embryonic foregut morphogenesis
+GO:0048613	2	GO:0048617	embryonic foregut morphogenesis
+GO:0048619	2	GO:0048617	embryonic foregut morphogenesis
+GO:0045778	5	GO:0060688	regulation of morphogenesis of a branching structure
+GO:0043903	15	GO:0040012	regulation of locomotion
+GO:0032990	4	GO:0014019	neuroblast development
+GO:0007596	19	GO:0045924	regulation of female receptivity
+GO:0007599	19	GO:0045924	regulation of female receptivity
+GO:0051653	18	GO:0032196	transposition
+GO:1902847	9	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0006897	13	GO:0043269	regulation of ion transport
+GO:0060026	2	GO:0048617	embryonic foregut morphogenesis
+GO:0071694	19	GO:0045924	regulation of female receptivity
+GO:0060041	1	GO:0035736	cell proliferation involved in compound eye morphogenesis
+GO:0007568	20	GO:0030431	sleep
+GO:0098664	8	GO:0040036	regulation of fibroblast growth factor receptor signaling pathway
+GO:0007584	16	GO:0032094	response to food
+GO:1902807	14	GO:0050867	positive regulation of cell activation
+GO:1901700	16	GO:0032094	response to food
+GO:0045892	10	GO:0006355	regulation of transcription, DNA-templated
+GO:0045893	10	GO:0006355	regulation of transcription, DNA-templated
+GO:0008625	9	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0015837	13	GO:0043269	regulation of ion transport
+GO:0032943	18	GO:0032196	transposition
+GO:0032944	14	GO:0050867	positive regulation of cell activation
+GO:0046552	4	GO:0014019	neuroblast development
+GO:0008637	18	GO:0032196	transposition
+GO:0006833	13	GO:0043269	regulation of ion transport
+GO:0006836	13	GO:0043269	regulation of ion transport
+GO:0007501	4	GO:0014019	neuroblast development
+GO:0046545	2	GO:0048617	embryonic foregut morphogenesis
+GO:0046530	4	GO:0014019	neuroblast development
+GO:0098609	18	GO:0032196	transposition
+GO:0120033	14	GO:0050867	positive regulation of cell activation
+GO:0120039	4	GO:0014019	neuroblast development
+GO:0046500	12	GO:0006575	cellular modified amino acid metabolic process
+GO:0097696	9	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0030335	14	GO:0050867	positive regulation of cell activation
+GO:0010496	13	GO:0043269	regulation of ion transport
+GO:0046692	19	GO:0045924	regulation of female receptivity
+GO:0046693	19	GO:0045924	regulation of female receptivity
+GO:0045597	6	GO:0010453	regulation of cell fate commitment
+GO:0007626	20	GO:0030431	sleep
+GO:0007610	20	GO:0030431	sleep
+GO:1902692	6	GO:0010453	regulation of cell fate commitment
+GO:0030307	14	GO:0050867	positive regulation of cell activation
+GO:0046660	3	GO:0048732	gland development
+GO:0046662	19	GO:0045924	regulation of female receptivity
+GO:0010453	6	GO:0010453	regulation of cell fate commitment
+GO:0046651	18	GO:0032196	transposition
+GO:0046685	16	GO:0032094	response to food
+GO:0018991	20	GO:0030431	sleep
+GO:0018996	20	GO:0030431	sleep
+GO:1901562	16	GO:0032094	response to food
+GO:0007600	20	GO:0030431	sleep
+GO:0007601	20	GO:0030431	sleep
+GO:0009410	16	GO:0032094	response to food
+GO:0009411	16	GO:0032094	response to food
+GO:0007608	20	GO:0030431	sleep
+GO:0015695	13	GO:0043269	regulation of ion transport
+GO:0001990	19	GO:0045924	regulation of female receptivity
+GO:0001966	16	GO:0032094	response to food
+GO:0030421	20	GO:0030431	sleep
+GO:0090325	15	GO:0040012	regulation of locomotion
+GO:0044071	14	GO:0050867	positive regulation of cell activation
+GO:0001941	18	GO:0032196	transposition
+GO:0001935	18	GO:0032196	transposition
+GO:0150063	3	GO:0048732	gland development
+GO:0001936	14	GO:0050867	positive regulation of cell activation
+GO:0045667	6	GO:0010453	regulation of cell fate commitment
+GO:1900074	7	GO:0050804	modulation of chemical synaptic transmission
+GO:0099177	7	GO:0050804	modulation of chemical synaptic transmission
+GO:0051968	7	GO:0050804	modulation of chemical synaptic transmission
+GO:0070371	9	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0070372	8	GO:0040036	regulation of fibroblast growth factor receptor signaling pathway
+GO:0070374	8	GO:0040036	regulation of fibroblast growth factor receptor signaling pathway
+GO:0033058	20	GO:0030431	sleep
+GO:0043058	15	GO:0040012	regulation of locomotion
+GO:0043059	15	GO:0040012	regulation of locomotion
+GO:0098916	7	GO:0050804	modulation of chemical synaptic transmission
+GO:0003081	19	GO:0045924	regulation of female receptivity
+GO:0003044	19	GO:0045924	regulation of female receptivity
+GO:0009753	16	GO:0032094	response to food
+GO:0060153	14	GO:0050867	positive regulation of cell activation
+GO:0090278	13	GO:0043269	regulation of ion transport
+GO:0006954	16	GO:0032094	response to food
+GO:0120192	18	GO:0032196	transposition
+GO:0120193	18	GO:0032196	transposition
+GO:0044344	16	GO:0032094	response to food
+GO:0019695	12	GO:0006575	cellular modified amino acid metabolic process
+GO:0009583	16	GO:0032094	response to food
+GO:0009584	16	GO:0032094	response to food
+GO:0043330	16	GO:0032094	response to food
+GO:0050771	4	GO:0014019	neuroblast development
+GO:1904029	10	GO:0006355	regulation of transcription, DNA-templated
+GO:0039645	14	GO:0050867	positive regulation of cell activation
+GO:1904030	10	GO:0006355	regulation of transcription, DNA-templated
+GO:0099537	7	GO:0050804	modulation of chemical synaptic transmission
+GO:0042391	19	GO:0045924	regulation of female receptivity
+GO:0030514	8	GO:0040036	regulation of fibroblast growth factor receptor signaling pathway
+GO:0030516	4	GO:0014019	neuroblast development
+GO:0032350	15	GO:0040012	regulation of locomotion
+GO:0032355	16	GO:0032094	response to food
+GO:0030537	20	GO:0030431	sleep
+GO:0099509	18	GO:0032196	transposition
+GO:1900158	5	GO:0060688	regulation of morphogenesis of a branching structure
+GO:0050868	14	GO:0050867	positive regulation of cell activation
+GO:0050869	14	GO:0050867	positive regulation of cell activation
+GO:0010672	10	GO:0006355	regulation of transcription, DNA-templated
+GO:0042330	16	GO:0032094	response to food
+GO:0050886	20	GO:0030431	sleep
+GO:0010633	14	GO:0050867	positive regulation of cell activation
+GO:0050819	5	GO:0060688	regulation of morphogenesis of a branching structure
+GO:0050806	7	GO:0050804	modulation of chemical synaptic transmission
+GO:0007043	18	GO:0032196	transposition
+GO:0032197	18	GO:0032196	transposition
+GO:0043297	18	GO:0032196	transposition
+GO:0046008	19	GO:0045924	regulation of female receptivity
+GO:0035094	16	GO:0032094	response to food
+GO:0060536	3	GO:0048732	gland development
+GO:0019934	9	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0043248	18	GO:0032196	transposition
+GO:0042135	12	GO:0006575	cellular modified amino acid metabolic process
+GO:0002168	3	GO:0048732	gland development
+GO:0008355	16	GO:0032094	response to food
+GO:0032226	7	GO:0050804	modulation of chemical synaptic transmission
+GO:0008344	20	GO:0030431	sleep
+GO:0003205	3	GO:0048732	gland development
+GO:0003206	3	GO:0048732	gland development
+GO:0071312	16	GO:0032094	response to food
+GO:0071313	16	GO:0032094	response to food
+GO:0008306	20	GO:0030431	sleep
+GO:0051482	8	GO:0040036	regulation of fibroblast growth factor receptor signaling pathway
+GO:0038166	8	GO:0040036	regulation of fibroblast growth factor receptor signaling pathway
+GO:0007354	2	GO:0048617	embryonic foregut morphogenesis
+GO:0051446	14	GO:0050867	positive regulation of cell activation
+GO:0042754	15	GO:0040012	regulation of locomotion
+GO:0042755	20	GO:0030431	sleep
+GO:0007379	3	GO:0048732	gland development
+GO:0030900	3	GO:0048732	gland development
+GO:0018108	12	GO:0006575	cellular modified amino acid metabolic process
+GO:2000272	8	GO:0040036	regulation of fibroblast growth factor receptor signaling pathway
+GO:0002209	16	GO:0032094	response to food
+GO:0002792	13	GO:0043269	regulation of ion transport
+GO:0002755	9	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0018212	12	GO:0006575	cellular modified amino acid metabolic process
+GO:0061182	5	GO:0060688	regulation of morphogenesis of a branching structure
+GO:0007480	2	GO:0048617	embryonic foregut morphogenesis
+GO:0006355	10	GO:0006355	regulation of transcription, DNA-templated
+GO:0007478	2	GO:0048617	embryonic foregut morphogenesis
+GO:0043525	14	GO:0050867	positive regulation of cell activation
+GO:0007417	3	GO:0048732	gland development
+GO:0097475	4	GO:0014019	neuroblast development
+GO:0050913	20	GO:0030431	sleep
+GO:0050918	16	GO:0032094	response to food
+GO:0050919	16	GO:0032094	response to food
+GO:0097402	18	GO:0032196	transposition
+GO:0007198	8	GO:0040036	regulation of fibroblast growth factor receptor signaling pathway
+GO:0050931	4	GO:0014019	neuroblast development
+GO:0051250	14	GO:0050867	positive regulation of cell activation
+GO:0035309	3	GO:0048732	gland development
+GO:0070983	4	GO:0014019	neuroblast development
+GO:0007162	14	GO:0050867	positive regulation of cell activation
+GO:0007168	9	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0035494	18	GO:0032196	transposition
+GO:0019055	14	GO:0050867	positive regulation of cell activation
+GO:0007188	9	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0007189	9	GO:0007186	G protein-coupled receptor signaling pathway
+GO:1904750	14	GO:0050867	positive regulation of cell activation
+GO:0001702	2	GO:0048617	embryonic foregut morphogenesis
+GO:0048749	1	GO:0035736	cell proliferation involved in compound eye morphogenesis
+GO:0006406	13	GO:0043269	regulation of ion transport
+GO:0042694	4	GO:0014019	neuroblast development
+GO:0007267	7	GO:0050804	modulation of chemical synaptic transmission
+GO:0007268	7	GO:0050804	modulation of chemical synaptic transmission
+GO:0001885	4	GO:0014019	neuroblast development
+GO:0022612	3	GO:0048732	gland development
+GO:0006182	11	GO:0000105	histidine biosynthetic process
+GO:0097264	12	GO:0006575	cellular modified amino acid metabolic process
+GO:0021536	3	GO:0048732	gland development
+GO:0071774	16	GO:0032094	response to food
+GO:0045168	6	GO:0010453	regulation of cell fate commitment
+GO:1904888	3	GO:0048732	gland development
+GO:0098703	13	GO:0043269	regulation of ion transport
+GO:0040015	5	GO:0060688	regulation of morphogenesis of a branching structure
+GO:0040017	15	GO:0040012	regulation of locomotion
+GO:0006275	10	GO:0006355	regulation of transcription, DNA-templated
+GO:0072574	1	GO:0035736	cell proliferation involved in compound eye morphogenesis
+GO:0040034	5	GO:0060688	regulation of morphogenesis of a branching structure
+GO:0072575	1	GO:0035736	cell proliferation involved in compound eye morphogenesis
+GO:0072576	3	GO:0048732	gland development
+GO:0040036	8	GO:0040036	regulation of fibroblast growth factor receptor signaling pathway
+GO:0035285	2	GO:0048617	embryonic foregut morphogenesis
+GO:0048521	15	GO:0040012	regulation of locomotion
+GO:0001508	19	GO:0045924	regulation of female receptivity
+GO:0035218	3	GO:0048732	gland development
+GO:0097746	19	GO:0045924	regulation of female receptivity
+GO:2000647	14	GO:0050867	positive regulation of cell activation
+GO:0035202	3	GO:0048732	gland development
+GO:0001654	1	GO:0035736	cell proliferation involved in compound eye morphogenesis
+GO:0001658	2	GO:0048617	embryonic foregut morphogenesis
+GO:0001649	4	GO:0014019	neuroblast development
+GO:0008542	20	GO:0030431	sleep
+GO:0008543	8	GO:0040036	regulation of fibroblast growth factor receptor signaling pathway
+GO:0046885	10	GO:0006355	regulation of transcription, DNA-templated
+GO:0048617	2	GO:0048617	embryonic foregut morphogenesis
+GO:0048640	5	GO:0060688	regulation of morphogenesis of a branching structure
+GO:0060050	10	GO:0006355	regulation of transcription, DNA-templated
+GO:0045746	8	GO:0040036	regulation of fibroblast growth factor receptor signaling pathway
+GO:0016560	13	GO:0043269	regulation of ion transport
+GO:0045736	10	GO:0006355	regulation of transcription, DNA-templated
+GO:0060079	7	GO:0050804	modulation of chemical synaptic transmission
+GO:1903531	14	GO:0050867	positive regulation of cell activation
+GO:0007588	20	GO:0030431	sleep
+GO:0051606	16	GO:0032094	response to food
+GO:0045836	14	GO:0050867	positive regulation of cell activation
+GO:1905483	6	GO:0010453	regulation of cell fate commitment
+GO:0006581	12	GO:0006575	cellular modified amino acid metabolic process
+GO:0007621	19	GO:0045924	regulation of female receptivity
+GO:0097688	18	GO:0032196	transposition
+GO:0035589	9	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0007632	20	GO:0030431	sleep
+GO:0007635	16	GO:0032094	response to food
+GO:0007602	9	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0048754	2	GO:0048617	embryonic foregut morphogenesis
+GO:0032225	7	GO:0050804	modulation of chemical synaptic transmission
+GO:0019740	20	GO:0030431	sleep
+GO:0072163	2	GO:0048617	embryonic foregut morphogenesis
+GO:0072164	3	GO:0048732	gland development
+GO:0048859	2	GO:0048617	embryonic foregut morphogenesis
+GO:0019860	12	GO:0006575	cellular modified amino acid metabolic process
+GO:0032775	12	GO:0006575	cellular modified amino acid metabolic process
+GO:0019877	11	GO:0000105	histidine biosynthetic process
+GO:0048566	3	GO:0048732	gland development
+GO:1903204	14	GO:0050867	positive regulation of cell activation
+GO:0035217	3	GO:0048732	gland development
+GO:0007430	2	GO:0048617	embryonic foregut morphogenesis
+GO:1903785	13	GO:0043269	regulation of ion transport
+GO:0044781	18	GO:0032196	transposition
+GO:0015750	13	GO:0043269	regulation of ion transport
+GO:0015752	13	GO:0043269	regulation of ion transport
+GO:0006015	11	GO:0000105	histidine biosynthetic process
+GO:0072756	16	GO:0032094	response to food
+GO:0044718	13	GO:0043269	regulation of ion transport
+GO:0015774	13	GO:0043269	regulation of ion transport
+GO:0048660	14	GO:0050867	positive regulation of cell activation
+GO:1902358	13	GO:0043269	regulation of ion transport
+GO:0019682	12	GO:0006575	cellular modified amino acid metabolic process
+GO:0048645	3	GO:0048732	gland development
+GO:0015706	13	GO:0043269	regulation of ion transport
+GO:0035736	1	GO:0035736	cell proliferation involved in compound eye morphogenesis
+GO:0019619	11	GO:0000105	histidine biosynthetic process
+GO:0015891	13	GO:0043269	regulation of ion transport
+GO:0019634	12	GO:0006575	cellular modified amino acid metabolic process
+GO:0031167	12	GO:0006575	cellular modified amino acid metabolic process
+GO:0000160	9	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0008615	11	GO:0000105	histidine biosynthetic process
+GO:0008616	11	GO:0000105	histidine biosynthetic process
+GO:0031128	20	GO:0030431	sleep
+GO:0008643	13	GO:0043269	regulation of ion transport
+GO:0015820	13	GO:0043269	regulation of ion transport
+GO:0015826	13	GO:0043269	regulation of ion transport
+GO:0003333	13	GO:0043269	regulation of ion transport
+GO:0016998	12	GO:0006575	cellular modified amino acid metabolic process
+GO:0015833	13	GO:0043269	regulation of ion transport
+GO:0071467	16	GO:0032094	response to food
+GO:0009061	18	GO:0032196	transposition
+GO:0015803	13	GO:0043269	regulation of ion transport
+GO:0000105	11	GO:0000105	histidine biosynthetic process
+GO:0009089	11	GO:0000105	histidine biosynthetic process
+GO:0009070	11	GO:0000105	histidine biosynthetic process
+GO:0009073	11	GO:0000105	histidine biosynthetic process
+GO:0071418	16	GO:0032094	response to food
+GO:0046391	12	GO:0006575	cellular modified amino acid metabolic process
+GO:0140418	16	GO:0032094	response to food
+GO:0000270	11	GO:0000105	histidine biosynthetic process
+GO:0043163	18	GO:0032196	transposition
+GO:0043165	18	GO:0032196	transposition
+GO:0051156	12	GO:0006575	cellular modified amino acid metabolic process
+GO:0051180	13	GO:0043269	regulation of ion transport
+GO:0014050	13	GO:0043269	regulation of ion transport
+GO:0014016	4	GO:0014019	neuroblast development
+GO:0003170	3	GO:0048732	gland development
+GO:0006313	12	GO:0006575	cellular modified amino acid metabolic process
+GO:0015689	13	GO:0043269	regulation of ion transport
+GO:0015675	13	GO:0043269	regulation of ion transport
+GO:0060245	16	GO:0032094	response to food
+GO:1902221	12	GO:0006575	cellular modified amino acid metabolic process
+GO:1902222	11	GO:0000105	histidine biosynthetic process
+GO:0035672	13	GO:0043269	regulation of ion transport
+GO:0095500	8	GO:0040036	regulation of fibroblast growth factor receptor signaling pathway
+GO:0006418	11	GO:0000105	histidine biosynthetic process
+GO:0003279	3	GO:0048732	gland development
+GO:0003214	2	GO:0048617	embryonic foregut morphogenesis
+GO:0007565	20	GO:0030431	sleep
+GO:1905144	16	GO:0032094	response to food
+GO:1905145	16	GO:0032094	response to food
+GO:0009399	11	GO:0000105	histidine biosynthetic process
+GO:0046116	12	GO:0006575	cellular modified amino acid metabolic process
+GO:0009372	7	GO:0050804	modulation of chemical synaptic transmission
+GO:0006171	11	GO:0000105	histidine biosynthetic process
+GO:0017038	13	GO:0043269	regulation of ion transport
+GO:0046294	11	GO:0000105	histidine biosynthetic process
+GO:0006146	11	GO:0000105	histidine biosynthetic process
+GO:0017000	12	GO:0006575	cellular modified amino acid metabolic process
+GO:0017004	18	GO:0032196	transposition
+GO:0060840	3	GO:0048732	gland development
+GO:0009307	12	GO:0006575	cellular modified amino acid metabolic process
+GO:1902883	15	GO:0040012	regulation of locomotion
+GO:0006298	12	GO:0006575	cellular modified amino acid metabolic process
+GO:0018106	12	GO:0006575	cellular modified amino acid metabolic process
+GO:0006265	12	GO:0006575	cellular modified amino acid metabolic process
+GO:0006270	12	GO:0006575	cellular modified amino acid metabolic process
+GO:0046797	18	GO:0032196	transposition
+GO:0009447	11	GO:0000105	histidine biosynthetic process
+GO:0006212	11	GO:0000105	histidine biosynthetic process
+GO:0009432	16	GO:0032094	response to food
+GO:0009437	12	GO:0006575	cellular modified amino acid metabolic process
+GO:0042413	11	GO:0000105	histidine biosynthetic process
+GO:0015920	13	GO:0043269	regulation of ion transport
+GO:0009401	13	GO:0043269	regulation of ion transport
+GO:0006206	12	GO:0006575	cellular modified amino acid metabolic process
+GO:0051580	13	GO:0043269	regulation of ion transport
+GO:0006208	11	GO:0000105	histidine biosynthetic process
+GO:0051583	13	GO:0043269	regulation of ion transport
+GO:0051584	13	GO:0043269	regulation of ion transport
+GO:0015937	11	GO:0000105	histidine biosynthetic process
+GO:0071555	18	GO:0032196	transposition
+GO:0042128	12	GO:0006575	cellular modified amino acid metabolic process
+GO:0006743	12	GO:0006575	cellular modified amino acid metabolic process
+GO:0006744	11	GO:0000105	histidine biosynthetic process
+GO:0046850	19	GO:0045924	regulation of female receptivity
+GO:0009103	11	GO:0000105	histidine biosynthetic process
+GO:0006707	11	GO:0000105	histidine biosynthetic process
+GO:0045493	11	GO:0000105	histidine biosynthetic process
+GO:0009252	11	GO:0000105	histidine biosynthetic process
+GO:0033013	12	GO:0006575	cellular modified amino acid metabolic process
+GO:0033014	11	GO:0000105	histidine biosynthetic process
+GO:0006865	13	GO:0043269	regulation of ion transport
+GO:0009273	18	GO:0032196	transposition
+GO:0009245	11	GO:0000105	histidine biosynthetic process
+GO:0006811	13	GO:0043269	regulation of ion transport
+GO:0009236	11	GO:0000105	histidine biosynthetic process
+GO:0006808	15	GO:0040012	regulation of locomotion
+GO:0006596	11	GO:0000105	histidine biosynthetic process
+GO:0046532	6	GO:0010453	regulation of cell fate commitment
+GO:0046534	6	GO:0010453	regulation of cell fate commitment
+GO:1904068	9	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0006563	12	GO:0006575	cellular modified amino acid metabolic process
+GO:0006558	12	GO:0006575	cellular modified amino acid metabolic process
+GO:0006559	11	GO:0000105	histidine biosynthetic process
+GO:0042780	11	GO:0000105	histidine biosynthetic process
+GO:0006570	12	GO:0006575	cellular modified amino acid metabolic process
+GO:0009713	11	GO:0000105	histidine biosynthetic process
+GO:0006575	12	GO:0006575	cellular modified amino acid metabolic process
+GO:0006577	12	GO:0006575	cellular modified amino acid metabolic process
+GO:0006545	11	GO:0000105	histidine biosynthetic process
+GO:0042743	12	GO:0006575	cellular modified amino acid metabolic process
+GO:0046653	12	GO:0006575	cellular modified amino acid metabolic process
+GO:0002762	5	GO:0060688	regulation of morphogenesis of a branching structure
+GO:0046677	16	GO:0032094	response to food
+GO:0098810	13	GO:0043269	regulation of ion transport
+GO:0045226	11	GO:0000105	histidine biosynthetic process
+GO:0042823	11	GO:0000105	histidine biosynthetic process
+GO:0060976	3	GO:0048732	gland development
+GO:0089718	13	GO:0043269	regulation of ion transport
+GO:0030195	15	GO:0040012	regulation of locomotion
+GO:2000495	5	GO:0060688	regulation of morphogenesis of a branching structure
+GO:0051940	13	GO:0043269	regulation of ion transport
+GO:0051934	13	GO:0043269	regulation of ion transport
+GO:0071973	18	GO:0032196	transposition
+GO:0071978	18	GO:0032196	transposition
+GO:0061333	2	GO:0048617	embryonic foregut morphogenesis
+GO:0070475	12	GO:0006575	cellular modified amino acid metabolic process
+GO:0070476	12	GO:0006575	cellular modified amino acid metabolic process
+GO:0042690	5	GO:0060688	regulation of morphogenesis of a branching structure
+GO:0030255	13	GO:0043269	regulation of ion transport
+GO:1901661	12	GO:0006575	cellular modified amino acid metabolic process
+GO:1901663	11	GO:0000105	histidine biosynthetic process
+GO:0042689	6	GO:0010453	regulation of cell fate commitment
+GO:2000142	10	GO:0006355	regulation of transcription, DNA-templated
+GO:2000143	10	GO:0006355	regulation of transcription, DNA-templated
+GO:0045815	10	GO:0006355	regulation of transcription, DNA-templated
+GO:1901616	11	GO:0000105	histidine biosynthetic process
+GO:0099046	16	GO:0032094	response to food
+GO:0090288	8	GO:0040036	regulation of fibroblast growth factor receptor signaling pathway
+GO:0002675	15	GO:0040012	regulation of locomotion
+GO:0006956	15	GO:0040012	regulation of locomotion
+GO:0061138	2	GO:0048617	embryonic foregut morphogenesis
+GO:0033212	13	GO:0043269	regulation of ion transport
+GO:0001763	3	GO:0048732	gland development
+GO:0045670	5	GO:0060688	regulation of morphogenesis of a branching structure
+GO:0048382	2	GO:0048617	embryonic foregut morphogenesis
+GO:0019380	11	GO:0000105	histidine biosynthetic process
+GO:0019321	11	GO:0000105	histidine biosynthetic process
+GO:0048337	5	GO:0060688	regulation of morphogenesis of a branching structure
+GO:0019310	11	GO:0000105	histidine biosynthetic process
+GO:0019344	11	GO:0000105	histidine biosynthetic process
+GO:0016127	11	GO:0000105	histidine biosynthetic process
+GO:0008360	5	GO:0060688	regulation of morphogenesis of a branching structure
+GO:1900376	10	GO:0006355	regulation of transcription, DNA-templated
+GO:1900378	10	GO:0006355	regulation of transcription, DNA-templated
+GO:0001892	2	GO:0048617	embryonic foregut morphogenesis
+GO:0019491	11	GO:0000105	histidine biosynthetic process
+GO:0042968	13	GO:0043269	regulation of ion transport
+GO:0001823	3	GO:0048732	gland development
+GO:0022900	12	GO:0006575	cellular modified amino acid metabolic process
+GO:0042941	13	GO:0043269	regulation of ion transport
+GO:0042938	13	GO:0043269	regulation of ion transport
+GO:0036265	12	GO:0006575	cellular modified amino acid metabolic process
+GO:0055085	13	GO:0043269	regulation of ion transport
+GO:0010656	14	GO:0050867	positive regulation of cell activation
+GO:0021675	3	GO:0048732	gland development
+GO:0044355	16	GO:0032094	response to food
+GO:0001504	13	GO:0043269	regulation of ion transport
+GO:0019290	11	GO:0000105	histidine biosynthetic process
+GO:0032196	18	GO:0032196	transposition
+GO:0045989	19	GO:0045924	regulation of female receptivity
+GO:0001656	3	GO:0048732	gland development
+GO:0001657	2	GO:0048617	embryonic foregut morphogenesis
+GO:0072348	13	GO:0043269	regulation of ion transport
+GO:0019288	11	GO:0000105	histidine biosynthetic process
+GO:0005983	11	GO:0000105	histidine biosynthetic process

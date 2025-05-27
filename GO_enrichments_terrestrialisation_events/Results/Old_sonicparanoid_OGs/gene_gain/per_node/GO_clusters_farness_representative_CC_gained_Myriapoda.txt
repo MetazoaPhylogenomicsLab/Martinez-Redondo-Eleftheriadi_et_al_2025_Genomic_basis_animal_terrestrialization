@@ -1,0 +1,64 @@
+GO:0042025	1	GO:0033646	host intracellular part
+GO:0008076	4	GO:0005667	transcription regulator complex
+GO:0043656	1	GO:0033646	host intracellular part
+GO:0005576	7	GO:0071944	cell periphery
+GO:0044220	1	GO:0033646	host intracellular part
+GO:0033646	1	GO:0033646	host intracellular part
+GO:0030175	2	GO:0044292	dendrite terminus
+GO:1990635	2	GO:0044292	dendrite terminus
+GO:0019031	4	GO:0005667	transcription regulator complex
+GO:0044292	2	GO:0044292	dendrite terminus
+GO:0005874	5	GO:0045170	spectrosome
+GO:0044304	2	GO:0044292	dendrite terminus
+GO:0000152	5	GO:0045170	spectrosome
+GO:0106068	4	GO:0005667	transcription regulator complex
+GO:0032839	2	GO:0044292	dendrite terminus
+GO:0042600	7	GO:0071944	cell periphery
+GO:0001669	5	GO:0045170	spectrosome
+GO:0055036	7	GO:0071944	cell periphery
+GO:0030056	6	GO:0030055	cell-substrate junction
+GO:0000242	5	GO:0045170	spectrosome
+GO:0030915	5	GO:0045170	spectrosome
+GO:0034361	3	GO:0042627	chylomicron
+GO:0035102	5	GO:0045170	spectrosome
+GO:0043198	2	GO:0044292	dendrite terminus
+GO:0033644	1	GO:0033646	host intracellular part
+GO:0005704	5	GO:0045170	spectrosome
+GO:0098975	6	GO:0030055	cell-substrate junction
+GO:0035869	2	GO:0044292	dendrite terminus
+GO:0034705	4	GO:0005667	transcription regulator complex
+GO:0005667	4	GO:0005667	transcription regulator complex
+GO:0005935	7	GO:0071944	cell periphery
+GO:0042627	3	GO:0042627	chylomicron
+GO:1990907	5	GO:0045170	spectrosome
+GO:0034364	3	GO:0042627	chylomicron
+GO:0030055	6	GO:0030055	cell-substrate junction
+GO:0005680	5	GO:0045170	spectrosome
+GO:0005814	5	GO:0045170	spectrosome
+GO:0005677	5	GO:0045170	spectrosome
+GO:0045169	7	GO:0071944	cell periphery
+GO:0031160	7	GO:0071944	cell periphery
+GO:0033643	1	GO:0033646	host intracellular part
+GO:0045170	5	GO:0045170	spectrosome
+GO:0005911	6	GO:0030055	cell-substrate junction
+GO:0090665	4	GO:0005667	transcription regulator complex
+GO:0061174	2	GO:0044292	dendrite terminus
+GO:0005615	3	GO:0042627	chylomicron
+GO:0032580	5	GO:0045170	spectrosome
+GO:0071944	7	GO:0071944	cell periphery
+GO:0000138	5	GO:0045170	spectrosome
+GO:0031256	7	GO:0071944	cell periphery
+GO:0005789	5	GO:0045170	spectrosome
+GO:0016020	7	GO:0071944	cell periphery
+GO:0005901	7	GO:0071944	cell periphery
+GO:0005905	7	GO:0071944	cell periphery
+GO:0009986	7	GO:0071944	cell periphery
+GO:0014069	6	GO:0030055	cell-substrate junction
+GO:0016324	7	GO:0071944	cell periphery
+GO:0044297	7	GO:0071944	cell periphery
+GO:0043235	4	GO:0005667	transcription regulator complex
+GO:0044167	1	GO:0033646	host intracellular part
+GO:0005912	6	GO:0030055	cell-substrate junction
+GO:0045177	7	GO:0071944	cell periphery
+GO:0030424	2	GO:0044292	dendrite terminus
+GO:0030425	2	GO:0044292	dendrite terminus

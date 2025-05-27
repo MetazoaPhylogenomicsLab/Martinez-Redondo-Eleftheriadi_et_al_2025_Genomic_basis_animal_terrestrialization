@@ -1,0 +1,124 @@
+GO:0004439	10	GO:0034594	phosphatidylinositol trisphosphate phosphatase activity
+GO:0038023	2	GO:0038023	signaling receptor activity
+GO:0017046	5	GO:0030246	carbohydrate binding
+GO:0045028	1	GO:0008528	G protein-coupled peptide receptor activity
+GO:0004523	9	GO:0004519	endonuclease activity
+GO:0008528	1	GO:0008528	G protein-coupled peptide receptor activity
+GO:0017171	11	GO:0017171	serine hydrolase activity
+GO:0004519	9	GO:0004519	endonuclease activity
+GO:0005540	5	GO:0030246	carbohydrate binding
+GO:0005539	5	GO:0030246	carbohydrate binding
+GO:0098531	6	GO:0003700	DNA-binding transcription factor activity
+GO:0090729	5	GO:0030246	carbohydrate binding
+GO:0004175	11	GO:0017171	serine hydrolase activity
+GO:0019865	5	GO:0030246	carbohydrate binding
+GO:0070530	4	GO:0019955	cytokine binding
+GO:0004706	8	GO:1990404	protein ADP-ribosylase activity
+GO:0046872	5	GO:0030246	carbohydrate binding
+GO:0016493	1	GO:0008528	G protein-coupled peptide receptor activity
+GO:0019955	4	GO:0019955	cytokine binding
+GO:0019957	4	GO:0019955	cytokine binding
+GO:0004888	2	GO:0038023	signaling receptor activity
+GO:0001637	1	GO:0008528	G protein-coupled peptide receptor activity
+GO:0106018	10	GO:0034594	phosphatidylinositol trisphosphate phosphatase activity
+GO:0098632	4	GO:0019955	cytokine binding
+GO:0004879	6	GO:0003700	DNA-binding transcription factor activity
+GO:0000995	7	GO:0042910	xenobiotic transmembrane transporter activity
+GO:0004252	11	GO:0017171	serine hydrolase activity
+GO:0034485	10	GO:0034594	phosphatidylinositol trisphosphate phosphatase activity
+GO:0004497	11	GO:0017171	serine hydrolase activity
+GO:0042923	5	GO:0030246	carbohydrate binding
+GO:0034237	4	GO:0019955	cytokine binding
+GO:0003964	8	GO:1990404	protein ADP-ribosylase activity
+GO:0140375	2	GO:0038023	signaling receptor activity
+GO:0001227	6	GO:0003700	DNA-binding transcription factor activity
+GO:0004983	1	GO:0008528	G protein-coupled peptide receptor activity
+GO:0000981	6	GO:0003700	DNA-binding transcription factor activity
+GO:0001217	6	GO:0003700	DNA-binding transcription factor activity
+GO:0004806	11	GO:0017171	serine hydrolase activity
+GO:0000978	3	GO:0003690	double-stranded DNA binding
+GO:0004945	1	GO:0008528	G protein-coupled peptide receptor activity
+GO:0004930	1	GO:0008528	G protein-coupled peptide receptor activity
+GO:0008097	3	GO:0003690	double-stranded DNA binding
+GO:0106332	9	GO:0004519	endonuclease activity
+GO:0035198	3	GO:0003690	double-stranded DNA binding
+GO:1990404	8	GO:1990404	protein ADP-ribosylase activity
+GO:0001067	3	GO:0003690	double-stranded DNA binding
+GO:0005521	4	GO:0019955	cytokine binding
+GO:0008083	4	GO:0019955	cytokine binding
+GO:0004518	9	GO:0004519	endonuclease activity
+GO:0005547	5	GO:0030246	carbohydrate binding
+GO:0038187	2	GO:0038023	signaling receptor activity
+GO:0003712	6	GO:0003700	DNA-binding transcription factor activity
+GO:0003713	6	GO:0003700	DNA-binding transcription factor activity
+GO:0017108	9	GO:0004519	endonuclease activity
+GO:0003690	3	GO:0003690	double-stranded DNA binding
+GO:0004693	8	GO:1990404	protein ADP-ribosylase activity
+GO:0043325	5	GO:0030246	carbohydrate binding
+GO:0003700	6	GO:0003700	DNA-binding transcription factor activity
+GO:0004709	8	GO:1990404	protein ADP-ribosylase activity
+GO:0004683	8	GO:1990404	protein ADP-ribosylase activity
+GO:0048306	4	GO:0019955	cytokine binding
+GO:0004622	11	GO:0017171	serine hydrolase activity
+GO:0035250	8	GO:1990404	protein ADP-ribosylase activity
+GO:0004857	7	GO:0042910	xenobiotic transmembrane transporter activity
+GO:0042834	5	GO:0030246	carbohydrate binding
+GO:0008821	9	GO:0004519	endonuclease activity
+GO:0140110	6	GO:0003700	DNA-binding transcription factor activity
+GO:0042974	4	GO:0019955	cytokine binding
+GO:0042803	4	GO:0019955	cytokine binding
+GO:1990837	3	GO:0003690	double-stranded DNA binding
+GO:0008270	5	GO:0030246	carbohydrate binding
+GO:0003950	8	GO:1990404	protein ADP-ribosylase activity
+GO:0034594	10	GO:0034594	phosphatidylinositol trisphosphate phosphatase activity
+GO:0061630	8	GO:1990404	protein ADP-ribosylase activity
+GO:0030594	2	GO:0038023	signaling receptor activity
+GO:0019901	4	GO:0019955	cytokine binding
+GO:0000987	3	GO:0003690	double-stranded DNA binding
+GO:0000976	3	GO:0003690	double-stranded DNA binding
+GO:0000977	3	GO:0003690	double-stranded DNA binding
+GO:0043565	3	GO:0003690	double-stranded DNA binding
+GO:0097472	8	GO:1990404	protein ADP-ribosylase activity
+GO:0046790	5	GO:0030246	carbohydrate binding
+GO:0070492	5	GO:0030246	carbohydrate binding
+GO:0005201	7	GO:0042910	xenobiotic transmembrane transporter activity
+GO:0008376	8	GO:1990404	protein ADP-ribosylase activity
+GO:0001653	2	GO:0038023	signaling receptor activity
+GO:0008188	1	GO:0008528	G protein-coupled peptide receptor activity
+GO:0001875	2	GO:0038023	signaling receptor activity
+GO:0017017	10	GO:0034594	phosphatidylinositol trisphosphate phosphatase activity
+GO:0030246	5	GO:0030246	carbohydrate binding
+GO:0030674	7	GO:0042910	xenobiotic transmembrane transporter activity
+GO:0033612	4	GO:0019955	cytokine binding
+GO:0008330	10	GO:0034594	phosphatidylinositol trisphosphate phosphatase activity
+GO:0001848	4	GO:0019955	cytokine binding
+GO:0015295	7	GO:0042910	xenobiotic transmembrane transporter activity
+GO:0001618	5	GO:0030246	carbohydrate binding
+GO:0004867	7	GO:0042910	xenobiotic transmembrane transporter activity
+GO:0015026	2	GO:0038023	signaling receptor activity
+GO:0002020	4	GO:0019955	cytokine binding
+GO:0008532	8	GO:1990404	protein ADP-ribosylase activity
+GO:0046935	7	GO:0042910	xenobiotic transmembrane transporter activity
+GO:0005044	7	GO:0042910	xenobiotic transmembrane transporter activity
+GO:0050135	11	GO:0017171	serine hydrolase activity
+GO:0060229	7	GO:0042910	xenobiotic transmembrane transporter activity
+GO:0001609	1	GO:0008528	G protein-coupled peptide receptor activity
+GO:0008499	8	GO:1990404	protein ADP-ribosylase activity
+GO:0001594	1	GO:0008528	G protein-coupled peptide receptor activity
+GO:0008504	7	GO:0042910	xenobiotic transmembrane transporter activity
+GO:0030165	4	GO:0019955	cytokine binding
+GO:0008457	8	GO:1990404	protein ADP-ribosylase activity
+GO:0005402	7	GO:0042910	xenobiotic transmembrane transporter activity
+GO:0070700	4	GO:0019955	cytokine binding
+GO:0019900	4	GO:0019955	cytokine binding
+GO:0004181	11	GO:0017171	serine hydrolase activity
+GO:0001530	5	GO:0030246	carbohydrate binding
+GO:0061809	11	GO:0017171	serine hydrolase activity
+GO:0140272	5	GO:0030246	carbohydrate binding
+GO:0004725	10	GO:0034594	phosphatidylinositol trisphosphate phosphatase activity
+GO:0019810	5	GO:0030246	carbohydrate binding
+GO:0042910	7	GO:0042910	xenobiotic transmembrane transporter activity
+GO:0035591	7	GO:0042910	xenobiotic transmembrane transporter activity
+GO:0004984	2	GO:0038023	signaling receptor activity
+GO:0047275	8	GO:1990404	protein ADP-ribosylase activity
+GO:0072349	7	GO:0042910	xenobiotic transmembrane transporter activity

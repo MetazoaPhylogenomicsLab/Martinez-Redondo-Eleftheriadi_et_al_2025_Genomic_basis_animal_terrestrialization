@@ -1,0 +1,42 @@
+GO:0070985	3	GO:0000943	retrotransposon nucleocapsid
+GO:0043204	3	GO:0000943	retrotransposon nucleocapsid
+GO:0016342	5	GO:0005886	plasma membrane
+GO:0045495	3	GO:0000943	retrotransposon nucleocapsid
+GO:0038039	5	GO:0005886	plasma membrane
+GO:0009897	5	GO:0005886	plasma membrane
+GO:0009898	5	GO:0005886	plasma membrane
+GO:0060293	3	GO:0000943	retrotransposon nucleocapsid
+GO:0008074	3	GO:0000943	retrotransposon nucleocapsid
+GO:0097730	3	GO:0000943	retrotransposon nucleocapsid
+GO:0030992	2	GO:0031463	Cul3-RING ubiquitin ligase complex
+GO:0031463	2	GO:0031463	Cul3-RING ubiquitin ligase complex
+GO:0008328	5	GO:0005886	plasma membrane
+GO:0036064	3	GO:0000943	retrotransposon nucleocapsid
+GO:0032154	5	GO:0005886	plasma membrane
+GO:0036038	3	GO:0000943	retrotransposon nucleocapsid
+GO:0042734	5	GO:0005886	plasma membrane
+GO:0000943	3	GO:0000943	retrotransposon nucleocapsid
+GO:0005886	5	GO:0005886	plasma membrane
+GO:0005871	3	GO:0000943	retrotransposon nucleocapsid
+GO:0098562	5	GO:0005886	plasma membrane
+GO:0019898	5	GO:0005886	plasma membrane
+GO:0044298	5	GO:0005886	plasma membrane
+GO:0016605	3	GO:0000943	retrotransposon nucleocapsid
+GO:0034451	3	GO:0000943	retrotransposon nucleocapsid
+GO:0000109	3	GO:0000943	retrotransposon nucleocapsid
+GO:0032809	5	GO:0005886	plasma membrane
+GO:0032590	4	GO:0032589	neuron projection membrane
+GO:0019028	1	GO:0019028	viral capsid
+GO:0019029	1	GO:0019028	viral capsid
+GO:0019013	1	GO:0019028	viral capsid
+GO:0097542	3	GO:0000943	retrotransposon nucleocapsid
+GO:0060170	4	GO:0032589	neuron projection membrane
+GO:0042025	3	GO:0000943	retrotransposon nucleocapsid
+GO:0032587	4	GO:0032589	neuron projection membrane
+GO:0072669	2	GO:0031463	Cul3-RING ubiquitin ligase complex
+GO:0032589	4	GO:0032589	neuron projection membrane
+GO:0019005	2	GO:0031463	Cul3-RING ubiquitin ligase complex
+GO:0031253	4	GO:0032589	neuron projection membrane
+GO:0031256	5	GO:0005886	plasma membrane
+GO:0106068	2	GO:0031463	Cul3-RING ubiquitin ligase complex
+GO:0043235	2	GO:0031463	Cul3-RING ubiquitin ligase complex

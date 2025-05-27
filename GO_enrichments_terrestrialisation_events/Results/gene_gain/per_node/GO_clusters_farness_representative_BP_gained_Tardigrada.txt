@@ -1,0 +1,136 @@
+GO:0009988	11	GO:0035212	cell competition in a multicellular organism
+GO:0007224	6	GO:0007224	smoothened signaling pathway
+GO:0010469	6	GO:0007224	smoothened signaling pathway
+GO:0007218	6	GO:0007224	smoothened signaling pathway
+GO:0035305	11	GO:0035212	cell competition in a multicellular organism
+GO:0045880	6	GO:0007224	smoothened signaling pathway
+GO:0007099	4	GO:0033044	regulation of chromosome organization
+GO:0061060	6	GO:0007224	smoothened signaling pathway
+GO:0071422	1	GO:0015886	heme transport
+GO:2000106	5	GO:0070228	regulation of lymphocyte apoptotic process
+GO:0007064	4	GO:0033044	regulation of chromosome organization
+GO:2000107	5	GO:0070228	regulation of lymphocyte apoptotic process
+GO:0001580	10	GO:0035821	modulation of process of other organism
+GO:0030968	6	GO:0007224	smoothened signaling pathway
+GO:0033484	10	GO:0035821	modulation of process of other organism
+GO:0010191	11	GO:0035212	cell competition in a multicellular organism
+GO:0010192	9	GO:0044073	modulation by symbiont of host translation
+GO:0050730	9	GO:0044073	modulation by symbiont of host translation
+GO:0071406	10	GO:0035821	modulation of process of other organism
+GO:0002011	2	GO:0034505	tooth mineralization
+GO:0007044	4	GO:0033044	regulation of chromosome organization
+GO:2000272	6	GO:0007224	smoothened signaling pathway
+GO:0042475	2	GO:0034505	tooth mineralization
+GO:0048562	2	GO:0034505	tooth mineralization
+GO:0044092	11	GO:0035212	cell competition in a multicellular organism
+GO:0097186	2	GO:0034505	tooth mineralization
+GO:0050878	11	GO:0035212	cell competition in a multicellular organism
+GO:0034505	2	GO:0034505	tooth mineralization
+GO:0044089	11	GO:0035212	cell competition in a multicellular organism
+GO:0030727	3	GO:0007282	cystoblast division
+GO:0044073	9	GO:0044073	modulation by symbiont of host translation
+GO:0050818	11	GO:0035212	cell competition in a multicellular organism
+GO:0050819	11	GO:0035212	cell competition in a multicellular organism
+GO:0030718	10	GO:0035821	modulation of process of other organism
+GO:1901678	1	GO:0015886	heme transport
+GO:0060291	11	GO:0035212	cell competition in a multicellular organism
+GO:0046718	8	GO:0030682	mitigation of host defenses by symbiont
+GO:0051480	10	GO:0035821	modulation of process of other organism
+GO:0098670	10	GO:0035821	modulation of process of other organism
+GO:1905269	4	GO:0033044	regulation of chromosome organization
+GO:0044000	8	GO:0030682	mitigation of host defenses by symbiont
+GO:0090109	4	GO:0033044	regulation of chromosome organization
+GO:0010214	3	GO:0007282	cystoblast division
+GO:0052553	8	GO:0030682	mitigation of host defenses by symbiont
+GO:0031644	10	GO:0035821	modulation of process of other organism
+GO:2000738	11	GO:0035212	cell competition in a multicellular organism
+GO:0010921	11	GO:0035212	cell competition in a multicellular organism
+GO:0010923	11	GO:0035212	cell competition in a multicellular organism
+GO:0055074	10	GO:0035821	modulation of process of other organism
+GO:0071222	8	GO:0030682	mitigation of host defenses by symbiont
+GO:0048316	3	GO:0007282	cystoblast division
+GO:0016567	9	GO:0044073	modulation by symbiont of host translation
+GO:0071216	6	GO:0007224	smoothened signaling pathway
+GO:0071219	8	GO:0030682	mitigation of host defenses by symbiont
+GO:0019057	9	GO:0044073	modulation by symbiont of host translation
+GO:0009556	3	GO:0007282	cystoblast division
+GO:0035212	11	GO:0035212	cell competition in a multicellular organism
+GO:0046813	10	GO:0035821	modulation of process of other organism
+GO:0031453	9	GO:0044073	modulation by symbiont of host translation
+GO:0019049	8	GO:0030682	mitigation of host defenses by symbiont
+GO:0039563	11	GO:0035212	cell competition in a multicellular organism
+GO:0039554	8	GO:0030682	mitigation of host defenses by symbiont
+GO:0039580	8	GO:0030682	mitigation of host defenses by symbiont
+GO:0030593	7	GO:0090022	regulation of neutrophil chemotaxis
+GO:0045478	4	GO:0033044	regulation of chromosome organization
+GO:0038060	6	GO:0007224	smoothened signaling pathway
+GO:0006182	9	GO:0044073	modulation by symbiont of host translation
+GO:0070192	4	GO:0033044	regulation of chromosome organization
+GO:0050688	8	GO:0030682	mitigation of host defenses by symbiont
+GO:0090022	7	GO:0090022	regulation of neutrophil chemotaxis
+GO:0070166	2	GO:0034505	tooth mineralization
+GO:0039502	8	GO:0030682	mitigation of host defenses by symbiont
+GO:1903006	9	GO:0044073	modulation by symbiont of host translation
+GO:0044552	10	GO:0035821	modulation of process of other organism
+GO:0044553	10	GO:0035821	modulation of process of other organism
+GO:0035036	3	GO:0007282	cystoblast division
+GO:0042060	10	GO:0035821	modulation of process of other organism
+GO:0033044	4	GO:0033044	regulation of chromosome organization
+GO:0007340	3	GO:0007282	cystoblast division
+GO:0007342	3	GO:0007282	cystoblast division
+GO:0039657	9	GO:0044073	modulation by symbiont of host translation
+GO:1902622	7	GO:0090022	regulation of neutrophil chemotaxis
+GO:0031146	9	GO:0044073	modulation by symbiont of host translation
+GO:0010812	11	GO:0035212	cell competition in a multicellular organism
+GO:0071887	5	GO:0070228	regulation of lymphocyte apoptotic process
+GO:0051931	10	GO:0035821	modulation of process of other organism
+GO:0031109	4	GO:0033044	regulation of chromosome organization
+GO:0001952	11	GO:0035212	cell competition in a multicellular organism
+GO:0045132	4	GO:0033044	regulation of chromosome organization
+GO:0001953	11	GO:0035212	cell competition in a multicellular organism
+GO:0030682	8	GO:0030682	mitigation of host defenses by symbiont
+GO:0034109	11	GO:0035212	cell competition in a multicellular organism
+GO:0048132	3	GO:0007282	cystoblast division
+GO:0035821	10	GO:0035821	modulation of process of other organism
+GO:0070228	5	GO:0070228	regulation of lymphocyte apoptotic process
+GO:0070229	5	GO:0070228	regulation of lymphocyte apoptotic process
+GO:0070231	5	GO:0070228	regulation of lymphocyte apoptotic process
+GO:0070232	5	GO:0070228	regulation of lymphocyte apoptotic process
+GO:0070233	5	GO:0070228	regulation of lymphocyte apoptotic process
+GO:0001907	8	GO:0030682	mitigation of host defenses by symbiont
+GO:0052167	8	GO:0030682	mitigation of host defenses by symbiont
+GO:0031214	2	GO:0034505	tooth mineralization
+GO:0008589	6	GO:0007224	smoothened signaling pathway
+GO:0032480	9	GO:0044073	modulation by symbiont of host translation
+GO:0030466	9	GO:0044073	modulation by symbiont of host translation
+GO:0052170	8	GO:0030682	mitigation of host defenses by symbiont
+GO:0015740	1	GO:0015886	heme transport
+GO:1902407	4	GO:0033044	regulation of chromosome organization
+GO:0015744	1	GO:0015886	heme transport
+GO:0032446	9	GO:0044073	modulation by symbiont of host translation
+GO:0070050	11	GO:0035212	cell competition in a multicellular organism
+GO:0007168	6	GO:0007224	smoothened signaling pathway
+GO:0048236	3	GO:0007282	cystoblast division
+GO:0051893	4	GO:0033044	regulation of chromosome organization
+GO:0007155	11	GO:0035212	cell competition in a multicellular organism
+GO:0120263	4	GO:0033044	regulation of chromosome organization
+GO:0034086	4	GO:0033044	regulation of chromosome organization
+GO:0034088	4	GO:0033044	regulation of chromosome organization
+GO:0098728	3	GO:0007282	cystoblast division
+GO:0098730	3	GO:0007282	cystoblast division
+GO:0034776	10	GO:0035821	modulation of process of other organism
+GO:0015886	1	GO:0015886	heme transport
+GO:0044409	8	GO:0030682	mitigation of host defenses by symbiont
+GO:0043086	11	GO:0035212	cell competition in a multicellular organism
+GO:0032185	4	GO:0033044	regulation of chromosome organization
+GO:0030168	11	GO:0035212	cell competition in a multicellular organism
+GO:0048041	4	GO:0033044	regulation of chromosome organization
+GO:0030178	6	GO:0007224	smoothened signaling pathway
+GO:0071622	7	GO:0090022	regulation of neutrophil chemotaxis
+GO:0006826	1	GO:0015886	heme transport
+GO:0007263	6	GO:0007224	smoothened signaling pathway
+GO:0001818	9	GO:0044073	modulation by symbiont of host translation
+GO:0150115	4	GO:0033044	regulation of chromosome organization
+GO:0150116	4	GO:0033044	regulation of chromosome organization
+GO:0007282	3	GO:0007282	cystoblast division
+GO:0007284	3	GO:0007282	cystoblast division

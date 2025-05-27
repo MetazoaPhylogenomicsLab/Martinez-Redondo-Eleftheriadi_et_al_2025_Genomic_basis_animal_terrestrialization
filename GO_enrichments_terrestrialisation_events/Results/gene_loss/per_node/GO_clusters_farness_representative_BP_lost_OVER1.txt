@@ -1,0 +1,473 @@
+GO:0030466	10	GO:2001141	regulation of RNA biosynthetic process
+GO:1902679	10	GO:2001141	regulation of RNA biosynthetic process
+GO:0014016	5	GO:0030154	cell differentiation
+GO:0001961	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0009403	21	GO:0051674	localization of cell
+GO:0046601	9	GO:0090529	cell septum assembly
+GO:0034080	8	GO:0051276	chromosome organization
+GO:0034086	9	GO:0090529	cell septum assembly
+GO:0035694	11	GO:0044264	cellular polysaccharide metabolic process
+GO:0034088	9	GO:0090529	cell septum assembly
+GO:0044057	15	GO:0050877	nervous system process
+GO:0001947	2	GO:0071599	otic vesicle development
+GO:0019221	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0090305	12	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0090308	10	GO:2001141	regulation of RNA biosynthetic process
+GO:0090309	10	GO:2001141	regulation of RNA biosynthetic process
+GO:0045664	6	GO:0010453	regulation of cell fate commitment
+GO:0045666	6	GO:0010453	regulation of cell fate commitment
+GO:0045669	6	GO:0010453	regulation of cell fate commitment
+GO:1904950	19	GO:1904950	negative regulation of establishment of protein localization
+GO:0044042	11	GO:0044264	cellular polysaccharide metabolic process
+GO:0010172	3	GO:0035107	appendage morphogenesis
+GO:0044036	12	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:1900016	17	GO:0032653	regulation of interleukin-10 production
+GO:0045670	6	GO:0010453	regulation of cell fate commitment
+GO:0045672	6	GO:0010453	regulation of cell fate commitment
+GO:0030154	5	GO:0030154	cell differentiation
+GO:0099120	3	GO:0035107	appendage morphogenesis
+GO:0061966	1	GO:0007389	pattern specification process
+GO:0043062	8	GO:0051276	chromosome organization
+GO:0030101	21	GO:0051674	localization of cell
+GO:0019722	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0009251	11	GO:0044264	cellular polysaccharide metabolic process
+GO:0033005	20	GO:0034762	regulation of transmembrane transport
+GO:1905770	6	GO:0010453	regulation of cell fate commitment
+GO:0016925	11	GO:0044264	cellular polysaccharide metabolic process
+GO:0039707	13	GO:0039707	pore formation by virus in membrane of host cell
+GO:0003014	15	GO:0050877	nervous system process
+GO:0009798	1	GO:0007389	pattern specification process
+GO:0009799	1	GO:0007389	pattern specification process
+GO:0090136	21	GO:0051674	localization of cell
+GO:0042051	5	GO:0030154	cell differentiation
+GO:0030206	11	GO:0044264	cellular polysaccharide metabolic process
+GO:0010764	20	GO:0034762	regulation of transmembrane transport
+GO:0090100	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0090101	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0003002	1	GO:0007389	pattern specification process
+GO:0003008	15	GO:0050877	nervous system process
+GO:0003009	15	GO:0050877	nervous system process
+GO:0070193	8	GO:0051276	chromosome organization
+GO:0000272	11	GO:0044264	cellular polysaccharide metabolic process
+GO:0090257	15	GO:0050877	nervous system process
+GO:0000226	8	GO:0051276	chromosome organization
+GO:0090287	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0002064	5	GO:0030154	cell differentiation
+GO:0030720	4	GO:0007281	germ cell development
+GO:0030719	4	GO:0007281	germ cell development
+GO:0006963	16	GO:0002218	activation of innate immune response
+GO:0070121	3	GO:0035107	appendage morphogenesis
+GO:0002076	5	GO:0030154	cell differentiation
+GO:0006958	16	GO:0002218	activation of innate immune response
+GO:0031023	8	GO:0051276	chromosome organization
+GO:0031028	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0031029	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0006910	21	GO:0051674	localization of cell
+GO:0009855	1	GO:0007389	pattern specification process
+GO:0039563	20	GO:0034762	regulation of transmembrane transport
+GO:0039564	20	GO:0034762	regulation of transmembrane transport
+GO:0006949	5	GO:0030154	cell differentiation
+GO:0060294	21	GO:0051674	localization of cell
+GO:0031034	8	GO:0051276	chromosome organization
+GO:0044331	21	GO:0051674	localization of cell
+GO:2000027	3	GO:0035107	appendage morphogenesis
+GO:0000768	5	GO:0030154	cell differentiation
+GO:0039573	16	GO:0002218	activation of innate immune response
+GO:0000753	4	GO:0007281	germ cell development
+GO:0045910	12	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0030855	5	GO:0030154	cell differentiation
+GO:0030859	5	GO:0030154	cell differentiation
+GO:0060285	21	GO:0051674	localization of cell
+GO:0060287	3	GO:0035107	appendage morphogenesis
+GO:0000722	12	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0000723	12	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0060271	8	GO:0051276	chromosome organization
+GO:0070266	21	GO:0051674	localization of cell
+GO:0000729	12	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0039537	16	GO:0002218	activation of innate immune response
+GO:0070286	8	GO:0051276	chromosome organization
+GO:0039502	16	GO:0002218	activation of innate immune response
+GO:1905515	8	GO:0051276	chromosome organization
+GO:0070228	20	GO:0034762	regulation of transmembrane transport
+GO:0038061	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0070229	20	GO:0034762	regulation of transmembrane transport
+GO:0044458	8	GO:0051276	chromosome organization
+GO:0000706	12	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0038083	11	GO:0044264	cellular polysaccharide metabolic process
+GO:0039693	13	GO:0039707	pore formation by virus in membrane of host cell
+GO:0039694	13	GO:0039707	pore formation by virus in membrane of host cell
+GO:0039695	13	GO:0039707	pore formation by virus in membrane of host cell
+GO:0043385	21	GO:0051674	localization of cell
+GO:0070232	20	GO:0034762	regulation of transmembrane transport
+GO:0070233	20	GO:0034762	regulation of transmembrane transport
+GO:0005978	11	GO:0044264	cellular polysaccharide metabolic process
+GO:0072078	2	GO:0071599	otic vesicle development
+GO:0070201	19	GO:1904950	negative regulation of establishment of protein localization
+GO:1900424	16	GO:0002218	activation of innate immune response
+GO:1900425	16	GO:0002218	activation of innate immune response
+GO:1900426	16	GO:0002218	activation of innate immune response
+GO:0010520	12	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0010525	20	GO:0034762	regulation of transmembrane transport
+GO:0039686	13	GO:0039707	pore formation by virus in membrane of host cell
+GO:0010526	20	GO:0034762	regulation of transmembrane transport
+GO:0039689	13	GO:0039707	pore formation by virus in membrane of host cell
+GO:0048016	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0039671	13	GO:0039707	pore formation by virus in membrane of host cell
+GO:0099587	19	GO:1904950	negative regulation of establishment of protein localization
+GO:0051094	6	GO:0010453	regulation of cell fate commitment
+GO:0044406	14	GO:0046813	receptor-mediated virion attachment to host cell
+GO:0044409	13	GO:0039707	pore formation by virus in membrane of host cell
+GO:0050728	16	GO:0002218	activation of innate immune response
+GO:0140253	21	GO:0051674	localization of cell
+GO:0060788	3	GO:0035107	appendage morphogenesis
+GO:0030587	3	GO:0035107	appendage morphogenesis
+GO:0039644	10	GO:2001141	regulation of RNA biosynthetic process
+GO:0039645	20	GO:0034762	regulation of transmembrane transport
+GO:0003352	20	GO:0034762	regulation of transmembrane transport
+GO:0051051	19	GO:1904950	negative regulation of establishment of protein localization
+GO:0003356	20	GO:0034762	regulation of transmembrane transport
+GO:0061060	16	GO:0002218	activation of innate immune response
+GO:0061057	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0061058	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0050708	19	GO:1904950	negative regulation of establishment of protein localization
+GO:0017015	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0003341	21	GO:0051674	localization of cell
+GO:1900150	16	GO:0002218	activation of innate immune response
+GO:0050893	15	GO:0050877	nervous system process
+GO:0003334	5	GO:0030154	cell differentiation
+GO:0061041	16	GO:0002218	activation of innate immune response
+GO:0032330	6	GO:0010453	regulation of cell fate commitment
+GO:0017009	11	GO:0044264	cellular polysaccharide metabolic process
+GO:0008039	5	GO:0030154	cell differentiation
+GO:0090596	3	GO:0035107	appendage morphogenesis
+GO:0090598	3	GO:0035107	appendage morphogenesis
+GO:0009617	16	GO:0002218	activation of innate immune response
+GO:0050877	15	GO:0050877	nervous system process
+GO:1903078	20	GO:0034762	regulation of transmembrane transport
+GO:0050848	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0007098	8	GO:0051276	chromosome organization
+GO:0050830	16	GO:0002218	activation of innate immune response
+GO:0070884	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0090529	9	GO:0090529	cell septum assembly
+GO:0007064	9	GO:0090529	cell septum assembly
+GO:0044264	11	GO:0044264	cellular polysaccharide metabolic process
+GO:0070828	8	GO:0051276	chromosome organization
+GO:0022412	4	GO:0007281	germ cell development
+GO:0033173	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:1903006	11	GO:0044264	cellular polysaccharide metabolic process
+GO:0031382	4	GO:0007281	germ cell development
+GO:0042472	2	GO:0071599	otic vesicle development
+GO:0042475	3	GO:0035107	appendage morphogenesis
+GO:0007043	8	GO:0051276	chromosome organization
+GO:0031349	16	GO:0002218	activation of innate immune response
+GO:0031334	9	GO:0090529	cell septum assembly
+GO:2000378	20	GO:0034762	regulation of transmembrane transport
+GO:0070593	5	GO:0030154	cell differentiation
+GO:0097037	19	GO:1904950	negative regulation of establishment of protein localization
+GO:0090660	15	GO:0050877	nervous system process
+GO:0032196	21	GO:0051674	localization of cell
+GO:0032197	21	GO:0051674	localization of cell
+GO:0034762	20	GO:0034762	regulation of transmembrane transport
+GO:0034765	20	GO:0034762	regulation of transmembrane transport
+GO:0070570	6	GO:0010453	regulation of cell fate commitment
+GO:0070572	6	GO:0010453	regulation of cell fate commitment
+GO:0070525	12	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0043269	19	GO:1904950	negative regulation of establishment of protein localization
+GO:0044782	8	GO:0051276	chromosome organization
+GO:0006073	11	GO:0044264	cellular polysaccharide metabolic process
+GO:0035082	8	GO:0051276	chromosome organization
+GO:2000480	11	GO:0044264	cellular polysaccharide metabolic process
+GO:2000479	11	GO:0044264	cellular polysaccharide metabolic process
+GO:0019932	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:1904355	12	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0045087	16	GO:0002218	activation of innate immune response
+GO:0032103	16	GO:0002218	activation of innate immune response
+GO:0045071	13	GO:0039707	pore formation by virus in membrane of host cell
+GO:0042138	12	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:1904377	20	GO:0034762	regulation of transmembrane transport
+GO:0048332	3	GO:0035107	appendage morphogenesis
+GO:0035036	4	GO:0007281	germ cell development
+GO:0048333	5	GO:0030154	cell differentiation
+GO:0070661	21	GO:0051674	localization of cell
+GO:1901016	19	GO:1904950	negative regulation of establishment of protein localization
+GO:0051382	8	GO:0051276	chromosome organization
+GO:0008360	6	GO:0010453	regulation of cell fate commitment
+GO:0032273	9	GO:0090529	cell septum assembly
+GO:0002115	19	GO:1904950	negative regulation of establishment of protein localization
+GO:0002119	3	GO:0035107	appendage morphogenesis
+GO:0031122	8	GO:0051276	chromosome organization
+GO:0009967	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0010951	11	GO:0044264	cellular polysaccharide metabolic process
+GO:0009952	1	GO:0007389	pattern specification process
+GO:0009953	1	GO:0007389	pattern specification process
+GO:0031146	11	GO:0044264	cellular polysaccharide metabolic process
+GO:0051303	19	GO:1904950	negative regulation of establishment of protein localization
+GO:0048477	4	GO:0007281	germ cell development
+GO:0010921	20	GO:0034762	regulation of transmembrane transport
+GO:0010927	5	GO:0030154	cell differentiation
+GO:0032200	8	GO:0051276	chromosome organization
+GO:0051495	9	GO:0090529	cell septum assembly
+GO:0031102	5	GO:0030154	cell differentiation
+GO:2000145	20	GO:0034762	regulation of transmembrane transport
+GO:0031103	5	GO:0030154	cell differentiation
+GO:0031297	12	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0007398	3	GO:0035107	appendage morphogenesis
+GO:2000106	20	GO:0034762	regulation of transmembrane transport
+GO:2000107	20	GO:0034762	regulation of transmembrane transport
+GO:0002253	16	GO:0002218	activation of innate immune response
+GO:0034587	12	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0007367	1	GO:0007389	pattern specification process
+GO:0007368	1	GO:0007389	pattern specification process
+GO:0007369	3	GO:0035107	appendage morphogenesis
+GO:0052111	13	GO:0039707	pore formation by virus in membrane of host cell
+GO:0007350	1	GO:0007389	pattern specification process
+GO:0007351	1	GO:0007389	pattern specification process
+GO:0072163	2	GO:0071599	otic vesicle development
+GO:0002225	16	GO:0002218	activation of innate immune response
+GO:0072164	2	GO:0071599	otic vesicle development
+GO:0007389	1	GO:0007389	pattern specification process
+GO:0002218	16	GO:0002218	activation of innate immune response
+GO:0051446	20	GO:0034762	regulation of transmembrane transport
+GO:0032722	17	GO:0032653	regulation of interleukin-10 production
+GO:0031274	9	GO:0090529	cell septum assembly
+GO:1903490	9	GO:0090529	cell septum assembly
+GO:0002230	16	GO:0002218	activation of innate immune response
+GO:0062149	15	GO:0050877	nervous system process
+GO:0018108	11	GO:0044264	cellular polysaccharide metabolic process
+GO:0007340	4	GO:0007281	germ cell development
+GO:0007342	4	GO:0007281	germ cell development
+GO:0032733	17	GO:0032653	regulation of interleukin-10 production
+GO:0072114	2	GO:0071599	otic vesicle development
+GO:0042742	16	GO:0002218	activation of innate immune response
+GO:0042744	21	GO:0051674	localization of cell
+GO:0042730	16	GO:0002218	activation of innate immune response
+GO:0055008	2	GO:0071599	otic vesicle development
+GO:0048132	4	GO:0007281	germ cell development
+GO:0097300	21	GO:0051674	localization of cell
+GO:0065001	1	GO:0007389	pattern specification process
+GO:0007498	3	GO:0035107	appendage morphogenesis
+GO:0000917	9	GO:0090529	cell septum assembly
+GO:0002763	6	GO:0010453	regulation of cell fate commitment
+GO:0033563	5	GO:0030154	cell differentiation
+GO:1903438	9	GO:0090529	cell septum assembly
+GO:0106056	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0044650	14	GO:0046813	receptor-mediated virion attachment to host cell
+GO:0007455	2	GO:0071599	otic vesicle development
+GO:1903409	21	GO:0051674	localization of cell
+GO:0044658	13	GO:0039707	pore formation by virus in membrane of host cell
+GO:0006355	10	GO:2001141	regulation of RNA biosynthetic process
+GO:0000902	3	GO:0035107	appendage morphogenesis
+GO:0006357	10	GO:2001141	regulation of RNA biosynthetic process
+GO:0036462	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0051146	5	GO:0030154	cell differentiation
+GO:0007472	2	GO:0071599	otic vesicle development
+GO:0007476	2	GO:0071599	otic vesicle development
+GO:0051130	20	GO:0034762	regulation of transmembrane transport
+GO:0007411	5	GO:0030154	cell differentiation
+GO:0097485	5	GO:0030154	cell differentiation
+GO:0036473	21	GO:0051674	localization of cell
+GO:0006312	12	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0050961	15	GO:0050877	nervous system process
+GO:0050965	15	GO:0050877	nervous system process
+GO:0050951	15	GO:0050877	nervous system process
+GO:0050953	15	GO:0050877	nervous system process
+GO:0050955	15	GO:0050877	nervous system process
+GO:1902459	6	GO:0010453	regulation of cell fate commitment
+GO:0050976	15	GO:0050877	nervous system process
+GO:0097435	8	GO:0051276	chromosome organization
+GO:0007409	5	GO:0030154	cell differentiation
+GO:0033696	10	GO:2001141	regulation of RNA biosynthetic process
+GO:1901378	12	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0060972	1	GO:0007389	pattern specification process
+GO:1902410	9	GO:0090529	cell septum assembly
+GO:1902412	9	GO:0090529	cell septum assembly
+GO:0007193	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0035303	20	GO:0034762	regulation of transmembrane transport
+GO:0035305	20	GO:0034762	regulation of transmembrane transport
+GO:0035306	20	GO:0034762	regulation of transmembrane transport
+GO:0035307	11	GO:0044264	cellular polysaccharide metabolic process
+GO:0070986	1	GO:0007389	pattern specification process
+GO:0051276	8	GO:0051276	chromosome organization
+GO:0007169	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0033688	20	GO:0034762	regulation of transmembrane transport
+GO:0050905	15	GO:0050877	nervous system process
+GO:0051223	19	GO:1904950	negative regulation of establishment of protein localization
+GO:0050906	15	GO:0050877	nervous system process
+GO:0051224	19	GO:1904950	negative regulation of establishment of protein localization
+GO:0050907	15	GO:0050877	nervous system process
+GO:0050909	15	GO:0050877	nervous system process
+GO:0019062	14	GO:0046813	receptor-mediated virion attachment to host cell
+GO:0007155	21	GO:0051674	localization of cell
+GO:0007156	21	GO:0051674	localization of cell
+GO:0033674	20	GO:0034762	regulation of transmembrane transport
+GO:0002822	16	GO:0002218	activation of innate immune response
+GO:0043652	19	GO:1904950	negative regulation of establishment of protein localization
+GO:0007186	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0007187	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0007188	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0042554	21	GO:0051674	localization of cell
+GO:0019083	13	GO:0039707	pore formation by virus in membrane of host cell
+GO:0036158	8	GO:0051276	chromosome organization
+GO:0036159	8	GO:0051276	chromosome organization
+GO:0019076	13	GO:0039707	pore formation by virus in membrane of host cell
+GO:0007129	9	GO:0090529	cell septum assembly
+GO:0002833	16	GO:0002218	activation of innate immune response
+GO:0008217	15	GO:0050877	nervous system process
+GO:0019079	13	GO:0039707	pore formation by virus in membrane of host cell
+GO:0043622	8	GO:0051276	chromosome organization
+GO:0007140	4	GO:0007281	germ cell development
+GO:0046154	11	GO:0044264	cellular polysaccharide metabolic process
+GO:0007130	9	GO:0090529	cell septum assembly
+GO:0007131	12	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0019045	13	GO:0039707	pore formation by virus in membrane of host cell
+GO:0019046	13	GO:0039707	pore formation by virus in membrane of host cell
+GO:0002803	16	GO:0002218	activation of innate immune response
+GO:0002807	16	GO:0002218	activation of innate immune response
+GO:0001707	3	GO:0035107	appendage morphogenesis
+GO:0001708	5	GO:0030154	cell differentiation
+GO:0042531	11	GO:0044264	cellular polysaccharide metabolic process
+GO:0032504	4	GO:0007281	germ cell development
+GO:0032506	9	GO:0090529	cell septum assembly
+GO:0045478	4	GO:0007281	germ cell development
+GO:0048737	3	GO:0035107	appendage morphogenesis
+GO:0042509	11	GO:0044264	cellular polysaccharide metabolic process
+GO:1904747	6	GO:0010453	regulation of cell fate commitment
+GO:0007291	4	GO:0007281	germ cell development
+GO:0007292	4	GO:0007281	germ cell development
+GO:0007293	4	GO:0007281	germ cell development
+GO:0051781	20	GO:0034762	regulation of transmembrane transport
+GO:0007260	11	GO:0044264	cellular polysaccharide metabolic process
+GO:0032653	17	GO:0032653	regulation of interleukin-10 production
+GO:0032656	17	GO:0032653	regulation of interleukin-10 production
+GO:1903201	20	GO:0034762	regulation of transmembrane transport
+GO:0007259	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0042661	6	GO:0010453	regulation of cell fate commitment
+GO:0007281	4	GO:0007281	germ cell development
+GO:0007283	4	GO:0007281	germ cell development
+GO:0032674	17	GO:0032653	regulation of interleukin-10 production
+GO:0007284	4	GO:0007281	germ cell development
+GO:0007286	4	GO:0007281	germ cell development
+GO:0001823	2	GO:0071599	otic vesicle development
+GO:0007288	4	GO:0007281	germ cell development
+GO:0021545	3	GO:0035107	appendage morphogenesis
+GO:1904894	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0042659	6	GO:0010453	regulation of cell fate commitment
+GO:0016233	12	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0048869	5	GO:0030154	cell differentiation
+GO:0032613	17	GO:0032653	regulation of interleukin-10 production
+GO:0007213	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0007215	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0007218	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0098728	4	GO:0007281	germ cell development
+GO:0051703	21	GO:0051674	localization of cell
+GO:0071711	8	GO:0051276	chromosome organization
+GO:0035114	3	GO:0035107	appendage morphogenesis
+GO:0098730	4	GO:0007281	germ cell development
+GO:0098739	21	GO:0051674	localization of cell
+GO:0007200	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0031507	10	GO:2001141	regulation of RNA biosynthetic process
+GO:0002699	16	GO:0002218	activation of innate immune response
+GO:0035107	3	GO:0035107	appendage morphogenesis
+GO:0021675	3	GO:0035107	appendage morphogenesis
+GO:0048592	2	GO:0071599	otic vesicle development
+GO:0040020	9	GO:0090529	cell septum assembly
+GO:0040024	3	GO:0035107	appendage morphogenesis
+GO:0040025	2	GO:0071599	otic vesicle development
+GO:0040029	17	GO:0032653	regulation of interleukin-10 production
+GO:0040011	21	GO:0051674	localization of cell
+GO:0040015	6	GO:0010453	regulation of cell fate commitment
+GO:0040018	6	GO:0010453	regulation of cell fate commitment
+GO:0048566	2	GO:0071599	otic vesicle development
+GO:0001541	2	GO:0071599	otic vesicle development
+GO:0006278	12	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0040034	6	GO:0010453	regulation of cell fate commitment
+GO:0002639	17	GO:0032653	regulation of interleukin-10 production
+GO:0048584	16	GO:0002218	activation of innate immune response
+GO:0031646	15	GO:0050877	nervous system process
+GO:0097720	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0031638	11	GO:0044264	cellular polysaccharide metabolic process
+GO:0040001	9	GO:0090529	cell septum assembly
+GO:0001501	3	GO:0035107	appendage morphogenesis
+GO:0035212	6	GO:0010453	regulation of cell fate commitment
+GO:0106300	12	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0090090	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0090092	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0048546	3	GO:0035107	appendage morphogenesis
+GO:0035235	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0045229	8	GO:0051276	chromosome organization
+GO:0046718	13	GO:0039707	pore formation by virus in membrane of host cell
+GO:1903828	20	GO:0034762	regulation of transmembrane transport
+GO:0090068	20	GO:0034762	regulation of transmembrane transport
+GO:0008595	1	GO:0007389	pattern specification process
+GO:0071805	19	GO:1904950	negative regulation of establishment of protein localization
+GO:1901222	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:1901224	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:1903844	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:1901214	20	GO:0034762	regulation of transmembrane transport
+GO:0072697	19	GO:1904950	negative regulation of establishment of protein localization
+GO:0001657	2	GO:0071599	otic vesicle development
+GO:0061564	5	GO:0030154	cell differentiation
+GO:0001658	2	GO:0071599	otic vesicle development
+GO:0071599	2	GO:0071599	otic vesicle development
+GO:0048667	5	GO:0030154	cell differentiation
+GO:0061512	19	GO:1904950	negative regulation of establishment of protein localization
+GO:0001649	5	GO:0030154	cell differentiation
+GO:0048679	6	GO:0010453	regulation of cell fate commitment
+GO:1903566	20	GO:0034762	regulation of transmembrane transport
+GO:0006749	11	GO:0044264	cellular polysaccharide metabolic process
+GO:1903567	19	GO:1904950	negative regulation of establishment of protein localization
+GO:0035725	19	GO:1904950	negative regulation of establishment of protein localization
+GO:0098542	16	GO:0002218	activation of innate immune response
+GO:0045787	20	GO:0034762	regulation of transmembrane transport
+GO:0071539	19	GO:1904950	negative regulation of establishment of protein localization
+GO:1902882	16	GO:0002218	activation of innate immune response
+GO:1902884	16	GO:0002218	activation of innate immune response
+GO:0046813	14	GO:0046813	receptor-mediated virion attachment to host cell
+GO:0070098	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0075111	13	GO:0039707	pore formation by virus in membrane of host cell
+GO:0045746	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0007591	15	GO:0050877	nervous system process
+GO:0051653	21	GO:0051674	localization of cell
+GO:0051674	21	GO:0051674	localization of cell
+GO:0032954	9	GO:0090529	cell septum assembly
+GO:0032955	9	GO:0090529	cell septum assembly
+GO:0075109	13	GO:0039707	pore formation by virus in membrane of host cell
+GO:0050000	21	GO:0051674	localization of cell
+GO:1903506	10	GO:2001141	regulation of RNA biosynthetic process
+GO:0032989	5	GO:0030154	cell differentiation
+GO:0098664	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:1902807	20	GO:0034762	regulation of transmembrane transport
+GO:0007586	15	GO:0050877	nervous system process
+GO:0016540	11	GO:0044264	cellular polysaccharide metabolic process
+GO:0015813	19	GO:1904950	negative regulation of establishment of protein localization
+GO:0098657	19	GO:1904950	negative regulation of establishment of protein localization
+GO:0098659	19	GO:1904950	negative regulation of establishment of protein localization
+GO:0007520	5	GO:0030154	cell differentiation
+GO:0098670	14	GO:0046813	receptor-mediated virion attachment to host cell
+GO:0098671	14	GO:0046813	receptor-mediated virion attachment to host cell
+GO:1901891	9	GO:0090529	cell septum assembly
+GO:0007549	17	GO:0032653	regulation of interleukin-10 production
+GO:0007533	4	GO:0007281	germ cell development
+GO:0035825	12	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0010375	1	GO:0007389	pattern specification process
+GO:0045880	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0008608	9	GO:0090529	cell septum assembly
+GO:0045814	17	GO:0032653	regulation of interleukin-10 production
+GO:0045818	11	GO:0044264	cellular polysaccharide metabolic process
+GO:0045836	9	GO:0090529	cell septum assembly
+GO:2001141	10	GO:2001141	regulation of RNA biosynthetic process
+GO:0030316	5	GO:0030154	cell differentiation
+GO:0030317	21	GO:0051674	localization of cell
+GO:0140013	9	GO:0090529	cell septum assembly
+GO:0140014	9	GO:0090529	cell septum assembly
+GO:0030334	20	GO:0034762	regulation of transmembrane transport
+GO:0010497	21	GO:0051674	localization of cell
+GO:0002949	12	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0007610	21	GO:0051674	localization of cell
+GO:0010469	7	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0010453	6	GO:0010453	regulation of cell fate commitment
+GO:0018991	4	GO:0007281	germ cell development
+GO:0018996	15	GO:0050877	nervous system process
+GO:0007600	15	GO:0050877	nervous system process
+GO:0007601	15	GO:0050877	nervous system process
+GO:0007606	15	GO:0050877	nervous system process

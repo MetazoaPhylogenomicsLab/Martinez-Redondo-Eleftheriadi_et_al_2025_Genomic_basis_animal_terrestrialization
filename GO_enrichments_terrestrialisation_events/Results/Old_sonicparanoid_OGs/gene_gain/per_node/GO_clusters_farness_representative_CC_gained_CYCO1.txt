@@ -1,0 +1,21 @@
+GO:0005905	1	GO:0045178	basal part of cell
+GO:0016323	1	GO:0045178	basal part of cell
+GO:0032588	2	GO:0005768	endosome
+GO:0005921	1	GO:0045178	basal part of cell
+GO:0005770	2	GO:0005768	endosome
+GO:0002080	2	GO:0005768	endosome
+GO:0005886	1	GO:0045178	basal part of cell
+GO:0043195	1	GO:0045178	basal part of cell
+GO:0048046	1	GO:0045178	basal part of cell
+GO:0031902	2	GO:0005768	endosome
+GO:0009925	1	GO:0045178	basal part of cell
+GO:0098800	2	GO:0005768	endosome
+GO:0098803	1	GO:0045178	basal part of cell
+GO:0005746	2	GO:0005768	endosome
+GO:0005765	2	GO:0005768	endosome
+GO:0005768	2	GO:0005768	endosome
+GO:0005758	2	GO:0005768	endosome
+GO:0045178	1	GO:0045178	basal part of cell
+GO:0030130	2	GO:0005768	endosome
+GO:0030131	1	GO:0045178	basal part of cell
+GO:1990204	1	GO:0045178	basal part of cell

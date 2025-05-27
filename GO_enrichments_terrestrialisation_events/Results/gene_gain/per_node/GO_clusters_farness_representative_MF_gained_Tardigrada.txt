@@ -1,0 +1,38 @@
+GO:0003730	3	GO:0090729	toxin activity
+GO:0015232	1	GO:0015556	C4-dicarboxylate transmembrane transporter activity
+GO:0015556	1	GO:0015556	C4-dicarboxylate transmembrane transporter activity
+GO:0090729	3	GO:0090729	toxin activity
+GO:0030291	2	GO:0004857	enzyme inhibitor activity
+GO:0005213	3	GO:0090729	toxin activity
+GO:0015141	1	GO:0015556	C4-dicarboxylate transmembrane transporter activity
+GO:0048018	4	GO:0005102	signaling receptor binding
+GO:0019212	2	GO:0004857	enzyme inhibitor activity
+GO:0030345	3	GO:0090729	toxin activity
+GO:0043236	4	GO:0005102	signaling receptor binding
+GO:0043237	4	GO:0005102	signaling receptor binding
+GO:0030332	4	GO:0005102	signaling receptor binding
+GO:0000900	3	GO:0090729	toxin activity
+GO:0016936	4	GO:0005102	signaling receptor binding
+GO:0030674	3	GO:0090729	toxin activity
+GO:0019208	2	GO:0004857	enzyme inhibitor activity
+GO:0004864	2	GO:0004857	enzyme inhibitor activity
+GO:0004865	2	GO:0004857	enzyme inhibitor activity
+GO:0043130	4	GO:0005102	signaling receptor binding
+GO:0004869	2	GO:0004857	enzyme inhibitor activity
+GO:0019864	4	GO:0005102	signaling receptor binding
+GO:0019865	4	GO:0005102	signaling receptor binding
+GO:0005539	4	GO:0005102	signaling receptor binding
+GO:0030246	4	GO:0005102	signaling receptor binding
+GO:0004857	2	GO:0004857	enzyme inhibitor activity
+GO:0001653	3	GO:0090729	toxin activity
+GO:0005102	4	GO:0005102	signaling receptor binding
+GO:0019888	2	GO:0004857	enzyme inhibitor activity
+GO:0042834	4	GO:0005102	signaling receptor binding
+GO:0051381	3	GO:0090729	toxin activity
+GO:0019826	3	GO:0090729	toxin activity
+GO:0042802	4	GO:0005102	signaling receptor binding
+GO:0004383	3	GO:0090729	toxin activity
+GO:0030545	2	GO:0004857	enzyme inhibitor activity
+GO:0030546	2	GO:0004857	enzyme inhibitor activity
+GO:0001968	4	GO:0005102	signaling receptor binding
+GO:0008083	4	GO:0005102	signaling receptor binding

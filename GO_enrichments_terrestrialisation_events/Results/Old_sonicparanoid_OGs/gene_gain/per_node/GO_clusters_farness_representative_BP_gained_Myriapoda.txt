@@ -1,0 +1,423 @@
+GO:0019367	6	GO:0009100	glycoprotein metabolic process
+GO:0043269	18	GO:0034765	regulation of ion transmembrane transport
+GO:0007619	1	GO:0019953	sexual reproduction
+GO:0060788	4	GO:0001704	formation of primary germ layer
+GO:0046622	19	GO:0090066	regulation of anatomical structure size
+GO:0044092	19	GO:0090066	regulation of anatomical structure size
+GO:0010614	19	GO:0090066	regulation of anatomical structure size
+GO:0039554	15	GO:0031348	negative regulation of defense response
+GO:0002683	15	GO:0031348	negative regulation of defense response
+GO:0044060	19	GO:0090066	regulation of anatomical structure size
+GO:0014866	13	GO:0031023	microtubule organizing center organization
+GO:0042810	14	GO:0008037	cell recognition
+GO:0060390	16	GO:0060390	regulation of SMAD protein signal transduction
+GO:0021551	5	GO:0001945	lymph vessel development
+GO:0032352	7	GO:1903018	regulation of glycoprotein metabolic process
+GO:0048755	5	GO:0001945	lymph vessel development
+GO:0021556	5	GO:0001945	lymph vessel development
+GO:0007284	2	GO:0007277	pole cell development
+GO:0090030	7	GO:1903018	regulation of glycoprotein metabolic process
+GO:0090031	7	GO:1903018	regulation of glycoprotein metabolic process
+GO:0045893	7	GO:1903018	regulation of glycoprotein metabolic process
+GO:0007218	16	GO:0060390	regulation of SMAD protein signal transduction
+GO:0070849	17	GO:1990834	response to odorant
+GO:0032330	11	GO:0070570	regulation of neuron projection regeneration
+GO:0021533	3	GO:0060856	establishment of blood-brain barrier
+GO:0060326	12	GO:0030334	regulation of cell migration
+GO:0006813	18	GO:0034765	regulation of ion transmembrane transport
+GO:0039695	8	GO:0044826	viral genome integration into host DNA
+GO:0007204	19	GO:0090066	regulation of anatomical structure size
+GO:1903508	7	GO:1903018	regulation of glycoprotein metabolic process
+GO:1904375	18	GO:0034765	regulation of ion transmembrane transport
+GO:1903076	18	GO:0034765	regulation of ion transmembrane transport
+GO:1901978	10	GO:0031346	positive regulation of cell projection organization
+GO:0000122	7	GO:1903018	regulation of glycoprotein metabolic process
+GO:1903018	7	GO:1903018	regulation of glycoprotein metabolic process
+GO:0006940	19	GO:0090066	regulation of anatomical structure size
+GO:0060986	19	GO:0090066	regulation of anatomical structure size
+GO:0039686	8	GO:0044826	viral genome integration into host DNA
+GO:0006935	17	GO:1990834	response to odorant
+GO:1903004	7	GO:1903018	regulation of glycoprotein metabolic process
+GO:1903006	7	GO:1903018	regulation of glycoprotein metabolic process
+GO:0045939	7	GO:1903018	regulation of glycoprotein metabolic process
+GO:0016139	6	GO:0009100	glycoprotein metabolic process
+GO:0034625	6	GO:0009100	glycoprotein metabolic process
+GO:0034626	6	GO:0009100	glycoprotein metabolic process
+GO:0050810	7	GO:1903018	regulation of glycoprotein metabolic process
+GO:0080154	1	GO:0019953	sexual reproduction
+GO:0045597	11	GO:0070570	regulation of neuron projection regeneration
+GO:0019083	8	GO:0044826	viral genome integration into host DNA
+GO:2000145	12	GO:0030334	regulation of cell migration
+GO:0001945	5	GO:0001945	lymph vessel development
+GO:2000147	12	GO:0030334	regulation of cell migration
+GO:0030334	12	GO:0030334	regulation of cell migration
+GO:0030335	12	GO:0030334	regulation of cell migration
+GO:0046718	8	GO:0044826	viral genome integration into host DNA
+GO:0019042	8	GO:0044826	viral genome integration into host DNA
+GO:0019043	8	GO:0044826	viral genome integration into host DNA
+GO:0071364	17	GO:1990834	response to odorant
+GO:0042659	11	GO:0070570	regulation of neuron projection regeneration
+GO:0008284	10	GO:0031346	positive regulation of cell projection organization
+GO:0006694	6	GO:0009100	glycoprotein metabolic process
+GO:0010894	7	GO:1903018	regulation of glycoprotein metabolic process
+GO:0006665	6	GO:0009100	glycoprotein metabolic process
+GO:0060153	18	GO:0034765	regulation of ion transmembrane transport
+GO:0001502	5	GO:0001945	lymph vessel development
+GO:0046883	16	GO:0060390	regulation of SMAD protein signal transduction
+GO:0046885	7	GO:1903018	regulation of glycoprotein metabolic process
+GO:0035545	5	GO:0001945	lymph vessel development
+GO:0046886	7	GO:1903018	regulation of glycoprotein metabolic process
+GO:0008207	6	GO:0009100	glycoprotein metabolic process
+GO:0098725	14	GO:0008037	cell recognition
+GO:0040011	14	GO:0008037	cell recognition
+GO:0032102	15	GO:0031348	negative regulation of defense response
+GO:0071805	18	GO:0034765	regulation of ion transmembrane transport
+GO:1902932	7	GO:1903018	regulation of glycoprotein metabolic process
+GO:0043433	7	GO:1903018	regulation of glycoprotein metabolic process
+GO:0030534	9	GO:0030534	adult behavior
+GO:0034762	10	GO:0031346	positive regulation of cell projection organization
+GO:0034765	18	GO:0034765	regulation of ion transmembrane transport
+GO:0048168	16	GO:0060390	regulation of SMAD protein signal transduction
+GO:0019218	7	GO:1903018	regulation of glycoprotein metabolic process
+GO:1902905	10	GO:0031346	positive regulation of cell projection organization
+GO:0055008	4	GO:0001704	formation of primary germ layer
+GO:0010453	11	GO:0070570	regulation of neuron projection regeneration
+GO:0033555	9	GO:0030534	adult behavior
+GO:0051315	13	GO:0031023	microtubule organizing center organization
+GO:0050673	14	GO:0008037	cell recognition
+GO:0046477	6	GO:0009100	glycoprotein metabolic process
+GO:0030177	16	GO:0060390	regulation of SMAD protein signal transduction
+GO:0010565	7	GO:1903018	regulation of glycoprotein metabolic process
+GO:0010566	7	GO:1903018	regulation of glycoprotein metabolic process
+GO:0010557	7	GO:1903018	regulation of glycoprotein metabolic process
+GO:0010559	7	GO:1903018	regulation of glycoprotein metabolic process
+GO:0071539	18	GO:0034765	regulation of ion transmembrane transport
+GO:0042761	6	GO:0009100	glycoprotein metabolic process
+GO:0044826	8	GO:0044826	viral genome integration into host DNA
+GO:0038127	16	GO:0060390	regulation of SMAD protein signal transduction
+GO:0075713	8	GO:0044826	viral genome integration into host DNA
+GO:0071696	4	GO:0001704	formation of primary germ layer
+GO:0071697	4	GO:0001704	formation of primary germ layer
+GO:0008344	9	GO:0030534	adult behavior
+GO:0008345	9	GO:0030534	adult behavior
+GO:2000370	10	GO:0031346	positive regulation of cell projection organization
+GO:0075732	8	GO:0044826	viral genome integration into host DNA
+GO:0007173	16	GO:0060390	regulation of SMAD protein signal transduction
+GO:0021879	3	GO:0060856	establishment of blood-brain barrier
+GO:1905516	1	GO:0019953	sexual reproduction
+GO:1902680	7	GO:1903018	regulation of glycoprotein metabolic process
+GO:0014741	19	GO:0090066	regulation of anatomical structure size
+GO:0033144	16	GO:0060390	regulation of SMAD protein signal transduction
+GO:0034309	6	GO:0009100	glycoprotein metabolic process
+GO:0050913	9	GO:0030534	adult behavior
+GO:0042698	1	GO:0019953	sexual reproduction
+GO:0007277	2	GO:0007277	pole cell development
+GO:0007279	2	GO:0007277	pole cell development
+GO:0050909	9	GO:0030534	adult behavior
+GO:0033301	14	GO:0008037	cell recognition
+GO:0048859	4	GO:0001704	formation of primary germ layer
+GO:2000107	18	GO:0034765	regulation of ion transmembrane transport
+GO:0050771	11	GO:0070570	regulation of neuron projection regeneration
+GO:0001580	17	GO:1990834	response to odorant
+GO:1901562	17	GO:1990834	response to odorant
+GO:0002063	3	GO:0060856	establishment of blood-brain barrier
+GO:0050728	15	GO:0031348	negative regulation of defense response
+GO:0001578	13	GO:0031023	microtubule organizing center organization
+GO:0033484	19	GO:0090066	regulation of anatomical structure size
+GO:0061771	17	GO:1990834	response to odorant
+GO:0032091	19	GO:0090066	regulation of anatomical structure size
+GO:0010160	4	GO:0001704	formation of primary germ layer
+GO:0009735	17	GO:1990834	response to odorant
+GO:0070527	19	GO:0090066	regulation of anatomical structure size
+GO:1900015	19	GO:0090066	regulation of anatomical structure size
+GO:1900016	19	GO:0090066	regulation of anatomical structure size
+GO:0000741	13	GO:0031023	microtubule organizing center organization
+GO:0060143	11	GO:0070570	regulation of neuron projection regeneration
+GO:0035186	4	GO:0001704	formation of primary germ layer
+GO:0030728	1	GO:0019953	sexual reproduction
+GO:0050819	19	GO:0090066	regulation of anatomical structure size
+GO:0019953	1	GO:0019953	sexual reproduction
+GO:1901610	18	GO:0034765	regulation of ion transmembrane transport
+GO:0008258	4	GO:0001704	formation of primary germ layer
+GO:2000035	10	GO:0031346	positive regulation of cell projection organization
+GO:0035292	4	GO:0001704	formation of primary germ layer
+GO:0022602	1	GO:0019953	sexual reproduction
+GO:0019098	1	GO:0019953	sexual reproduction
+GO:0055057	3	GO:0060856	establishment of blood-brain barrier
+GO:0055059	3	GO:0060856	establishment of blood-brain barrier
+GO:0021954	3	GO:0060856	establishment of blood-brain barrier
+GO:0019064	8	GO:0044826	viral genome integration into host DNA
+GO:0019068	8	GO:0044826	viral genome integration into host DNA
+GO:1902803	18	GO:0034765	regulation of ion transmembrane transport
+GO:0035214	5	GO:0001945	lymph vessel development
+GO:0035218	5	GO:0001945	lymph vessel development
+GO:0046813	8	GO:0044826	viral genome integration into host DNA
+GO:0048490	18	GO:0034765	regulation of ion transmembrane transport
+GO:0010760	12	GO:0030334	regulation of cell migration
+GO:0010761	12	GO:0030334	regulation of cell migration
+GO:0010762	12	GO:0030334	regulation of cell migration
+GO:0010764	12	GO:0030334	regulation of cell migration
+GO:0010758	12	GO:0030334	regulation of cell migration
+GO:0002532	9	GO:0030534	adult behavior
+GO:0002534	9	GO:0030534	adult behavior
+GO:0030595	12	GO:0030334	regulation of cell migration
+GO:0009690	6	GO:0009100	glycoprotein metabolic process
+GO:0009691	6	GO:0009100	glycoprotein metabolic process
+GO:0045448	5	GO:0001945	lymph vessel development
+GO:0007385	4	GO:0001704	formation of primary germ layer
+GO:0044552	19	GO:0090066	regulation of anatomical structure size
+GO:0030517	11	GO:0070570	regulation of neuron projection regeneration
+GO:0035036	1	GO:0019953	sexual reproduction
+GO:0032504	9	GO:0030534	adult behavior
+GO:0002688	12	GO:0030334	regulation of cell migration
+GO:0007340	1	GO:0019953	sexual reproduction
+GO:0007342	1	GO:0019953	sexual reproduction
+GO:0039663	8	GO:0044826	viral genome integration into host DNA
+GO:0110077	14	GO:0008037	cell recognition
+GO:0031115	13	GO:0031023	microtubule organizing center organization
+GO:0007638	17	GO:1990834	response to odorant
+GO:0040026	4	GO:0001704	formation of primary germ layer
+GO:0051241	19	GO:0090066	regulation of anatomical structure size
+GO:0040016	5	GO:0001945	lymph vessel development
+GO:0007494	5	GO:0001945	lymph vessel development
+GO:0015979	14	GO:0008037	cell recognition
+GO:0040003	5	GO:0001945	lymph vessel development
+GO:0046660	5	GO:0001945	lymph vessel development
+GO:0007450	5	GO:0001945	lymph vessel development
+GO:1901950	18	GO:0034765	regulation of ion transmembrane transport
+GO:0044650	8	GO:0044826	viral genome integration into host DNA
+GO:0008594	3	GO:0060856	establishment of blood-brain barrier
+GO:0031268	13	GO:0031023	microtubule organizing center organization
+GO:0031269	13	GO:0031023	microtubule organizing center organization
+GO:0007419	5	GO:0001945	lymph vessel development
+GO:0070228	18	GO:0034765	regulation of ion transmembrane transport
+GO:0070229	18	GO:0034765	regulation of ion transmembrane transport
+GO:0031272	10	GO:0031346	positive regulation of cell projection organization
+GO:0031274	10	GO:0031346	positive regulation of cell projection organization
+GO:0070231	18	GO:0034765	regulation of ion transmembrane transport
+GO:0070232	18	GO:0034765	regulation of ion transmembrane transport
+GO:0070233	18	GO:0034765	regulation of ion transmembrane transport
+GO:1905522	12	GO:0030334	regulation of cell migration
+GO:0048246	12	GO:0030334	regulation of cell migration
+GO:2001228	15	GO:0031348	negative regulation of defense response
+GO:2001229	15	GO:0031348	negative regulation of defense response
+GO:0097529	12	GO:0030334	regulation of cell migration
+GO:1901046	19	GO:0090066	regulation of anatomical structure size
+GO:0042595	17	GO:1990834	response to odorant
+GO:0044419	8	GO:0044826	viral genome integration into host DNA
+GO:0071392	17	GO:1990834	response to odorant
+GO:1904747	11	GO:0070570	regulation of neuron projection regeneration
+GO:1901739	11	GO:0070570	regulation of neuron projection regeneration
+GO:0072002	5	GO:0001945	lymph vessel development
+GO:0034776	17	GO:1990834	response to odorant
+GO:0071368	17	GO:1990834	response to odorant
+GO:0044406	8	GO:0044826	viral genome integration into host DNA
+GO:1903651	18	GO:0034765	regulation of ion transmembrane transport
+GO:0009954	5	GO:0001945	lymph vessel development
+GO:0030513	16	GO:0060390	regulation of SMAD protein signal transduction
+GO:0042311	19	GO:0090066	regulation of anatomical structure size
+GO:0039693	8	GO:0044826	viral genome integration into host DNA
+GO:0030537	9	GO:0030534	adult behavior
+GO:0098670	8	GO:0044826	viral genome integration into host DNA
+GO:0098671	8	GO:0044826	viral genome integration into host DNA
+GO:0030466	7	GO:1903018	regulation of glycoprotein metabolic process
+GO:0060142	11	GO:0070570	regulation of neuron projection regeneration
+GO:0060135	1	GO:0019953	sexual reproduction
+GO:0045478	1	GO:0019953	sexual reproduction
+GO:0007565	1	GO:0019953	sexual reproduction
+GO:0007566	2	GO:0007277	pole cell development
+GO:0051303	18	GO:0034765	regulation of ion transmembrane transport
+GO:0018230	6	GO:0009100	glycoprotein metabolic process
+GO:0018231	6	GO:0009100	glycoprotein metabolic process
+GO:0051452	19	GO:0090066	regulation of anatomical structure size
+GO:0031347	15	GO:0031348	negative regulation of defense response
+GO:0031348	15	GO:0031348	negative regulation of defense response
+GO:0090307	13	GO:0031023	microtubule organizing center organization
+GO:0042144	13	GO:0031023	microtubule organizing center organization
+GO:0035150	19	GO:0090066	regulation of anatomical structure size
+GO:0002886	19	GO:0090066	regulation of anatomical structure size
+GO:0051640	14	GO:0008037	cell recognition
+GO:0006509	6	GO:0009100	glycoprotein metabolic process
+GO:0001974	9	GO:0030534	adult behavior
+GO:0061060	15	GO:0031348	negative regulation of defense response
+GO:0033209	16	GO:0060390	regulation of SMAD protein signal transduction
+GO:0001708	3	GO:0060856	establishment of blood-brain barrier
+GO:0035296	19	GO:0090066	regulation of anatomical structure size
+GO:0001893	2	GO:0007277	pole cell development
+GO:0042244	3	GO:0060856	establishment of blood-brain barrier
+GO:0060856	3	GO:0060856	establishment of blood-brain barrier
+GO:0006624	6	GO:0009100	glycoprotein metabolic process
+GO:0098730	2	GO:0007277	pole cell development
+GO:0048680	11	GO:0070570	regulation of neuron projection regeneration
+GO:2000738	11	GO:0070570	regulation of neuron projection regeneration
+GO:0035212	3	GO:0060856	establishment of blood-brain barrier
+GO:0070572	11	GO:0070570	regulation of neuron projection regeneration
+GO:0007282	2	GO:0007277	pole cell development
+GO:0007035	19	GO:0090066	regulation of anatomical structure size
+GO:0019236	17	GO:1990834	response to odorant
+GO:0030727	2	GO:0007277	pole cell development
+GO:0031122	13	GO:0031023	microtubule organizing center organization
+GO:0030718	9	GO:0030534	adult behavior
+GO:0030730	19	GO:0090066	regulation of anatomical structure size
+GO:0010001	3	GO:0060856	establishment of blood-brain barrier
+GO:0097746	19	GO:0090066	regulation of anatomical structure size
+GO:0018345	6	GO:0009100	glycoprotein metabolic process
+GO:0046599	13	GO:0031023	microtubule organizing center organization
+GO:0048132	2	GO:0007277	pole cell development
+GO:0035988	14	GO:0008037	cell recognition
+GO:0045880	16	GO:0060390	regulation of SMAD protein signal transduction
+GO:0003013	9	GO:0030534	adult behavior
+GO:0003018	9	GO:0030534	adult behavior
+GO:0044409	8	GO:0044826	viral genome integration into host DNA
+GO:0032924	16	GO:0060390	regulation of SMAD protein signal transduction
+GO:0048286	5	GO:0001945	lymph vessel development
+GO:0039573	15	GO:0031348	negative regulation of defense response
+GO:1903034	15	GO:0031348	negative regulation of defense response
+GO:0070121	4	GO:0001704	formation of primary germ layer
+GO:0033692	6	GO:0009100	glycoprotein metabolic process
+GO:0040024	4	GO:0001704	formation of primary germ layer
+GO:0007635	17	GO:1990834	response to odorant
+GO:0010918	19	GO:0090066	regulation of anatomical structure size
+GO:0007608	9	GO:0030534	adult behavior
+GO:0045838	19	GO:0090066	regulation of anatomical structure size
+GO:0070085	14	GO:0008037	cell recognition
+GO:1901535	7	GO:1903018	regulation of glycoprotein metabolic process
+GO:1901536	7	GO:1903018	regulation of glycoprotein metabolic process
+GO:0010496	14	GO:0008037	cell recognition
+GO:0030539	5	GO:0001945	lymph vessel development
+GO:0098534	13	GO:0031023	microtubule organizing center organization
+GO:0006716	6	GO:0009100	glycoprotein metabolic process
+GO:0006718	6	GO:0009100	glycoprotein metabolic process
+GO:0071902	7	GO:1903018	regulation of glycoprotein metabolic process
+GO:0006486	6	GO:0009100	glycoprotein metabolic process
+GO:1903430	11	GO:0070570	regulation of neuron projection regeneration
+GO:0080111	6	GO:0009100	glycoprotein metabolic process
+GO:0000271	6	GO:0009100	glycoprotein metabolic process
+GO:0006869	18	GO:0034765	regulation of ion transmembrane transport
+GO:0009100	6	GO:0009100	glycoprotein metabolic process
+GO:0009101	6	GO:0009100	glycoprotein metabolic process
+GO:0035158	19	GO:0090066	regulation of anatomical structure size
+GO:1990834	17	GO:1990834	response to odorant
+GO:0010825	13	GO:0031023	microtubule organizing center organization
+GO:0051298	13	GO:0031023	microtubule organizing center organization
+GO:0048167	16	GO:0060390	regulation of SMAD protein signal transduction
+GO:0046740	8	GO:0044826	viral genome integration into host DNA
+GO:0033143	16	GO:0060390	regulation of SMAD protein signal transduction
+GO:0014018	3	GO:0060856	establishment of blood-brain barrier
+GO:0044725	6	GO:0009100	glycoprotein metabolic process
+GO:0044726	7	GO:1903018	regulation of glycoprotein metabolic process
+GO:0036065	19	GO:0090066	regulation of anatomical structure size
+GO:0098868	9	GO:0030534	adult behavior
+GO:0007099	13	GO:0031023	microtubule organizing center organization
+GO:0045471	17	GO:1990834	response to odorant
+GO:0008045	3	GO:0060856	establishment of blood-brain barrier
+GO:0008037	14	GO:0008037	cell recognition
+GO:0071555	13	GO:0031023	microtubule organizing center organization
+GO:1904059	19	GO:0090066	regulation of anatomical structure size
+GO:0042048	17	GO:1990834	response to odorant
+GO:0043413	6	GO:0009100	glycoprotein metabolic process
+GO:0001676	6	GO:0009100	glycoprotein metabolic process
+GO:0030336	12	GO:0030334	regulation of cell migration
+GO:0010862	7	GO:1903018	regulation of glycoprotein metabolic process
+GO:0030308	10	GO:0031346	positive regulation of cell projection organization
+GO:0002028	18	GO:0034765	regulation of ion transmembrane transport
+GO:0106030	3	GO:0060856	establishment of blood-brain barrier
+GO:0050679	10	GO:0031346	positive regulation of cell projection organization
+GO:0060173	5	GO:0001945	lymph vessel development
+GO:0030501	4	GO:0001704	formation of primary germ layer
+GO:0006986	17	GO:1990834	response to odorant
+GO:0061564	3	GO:0060856	establishment of blood-brain barrier
+GO:0085029	13	GO:0031023	microtubule organizing center organization
+GO:0071459	18	GO:0034765	regulation of ion transmembrane transport
+GO:0034090	13	GO:0031023	microtubule organizing center organization
+GO:0035336	6	GO:0009100	glycoprotein metabolic process
+GO:0048738	5	GO:0001945	lymph vessel development
+GO:0010595	12	GO:0030334	regulation of cell migration
+GO:0030435	3	GO:0060856	establishment of blood-brain barrier
+GO:0030437	2	GO:0007277	pole cell development
+GO:0007343	1	GO:0019953	sexual reproduction
+GO:0045669	11	GO:0070570	regulation of neuron projection regeneration
+GO:0007338	1	GO:0019953	sexual reproduction
+GO:0034087	13	GO:0031023	microtubule organizing center organization
+GO:0034089	13	GO:0031023	microtubule organizing center organization
+GO:0032535	13	GO:0031023	microtubule organizing center organization
+GO:0007304	2	GO:0007277	pole cell development
+GO:0051347	19	GO:0090066	regulation of anatomical structure size
+GO:0032505	1	GO:0019953	sexual reproduction
+GO:0008608	14	GO:0008037	cell recognition
+GO:0030166	6	GO:0009100	glycoprotein metabolic process
+GO:0048842	11	GO:0070570	regulation of neuron projection regeneration
+GO:0061626	4	GO:0001704	formation of primary germ layer
+GO:0009566	1	GO:0019953	sexual reproduction
+GO:0030148	6	GO:0009100	glycoprotein metabolic process
+GO:0031346	10	GO:0031346	positive regulation of cell projection organization
+GO:0070972	18	GO:0034765	regulation of ion transmembrane transport
+GO:1902731	10	GO:0031346	positive regulation of cell projection organization
+GO:2000279	7	GO:1903018	regulation of glycoprotein metabolic process
+GO:0048332	4	GO:0001704	formation of primary germ layer
+GO:0030010	14	GO:0008037	cell recognition
+GO:0010634	12	GO:0030334	regulation of cell migration
+GO:0007163	14	GO:0008037	cell recognition
+GO:0016114	6	GO:0009100	glycoprotein metabolic process
+GO:0050768	11	GO:0070570	regulation of neuron projection regeneration
+GO:0050770	11	GO:0070570	regulation of neuron projection regeneration
+GO:0001704	4	GO:0001704	formation of primary germ layer
+GO:0001707	4	GO:0001704	formation of primary germ layer
+GO:0001946	5	GO:0001945	lymph vessel development
+GO:0061298	5	GO:0001945	lymph vessel development
+GO:0001938	10	GO:0031346	positive regulation of cell projection organization
+GO:0046949	6	GO:0009100	glycoprotein metabolic process
+GO:0035023	16	GO:0060390	regulation of SMAD protein signal transduction
+GO:0051148	11	GO:0070570	regulation of neuron projection regeneration
+GO:0061041	15	GO:0031348	negative regulation of defense response
+GO:0120162	19	GO:0090066	regulation of anatomical structure size
+GO:0035264	9	GO:0030534	adult behavior
+GO:0048662	10	GO:0031346	positive regulation of cell projection organization
+GO:0050922	15	GO:0031348	negative regulation of defense response
+GO:0061036	5	GO:0001945	lymph vessel development
+GO:0050919	17	GO:1990834	response to odorant
+GO:0006636	6	GO:0009100	glycoprotein metabolic process
+GO:0043935	2	GO:0007277	pole cell development
+GO:0060841	5	GO:0001945	lymph vessel development
+GO:0048679	11	GO:0070570	regulation of neuron projection regeneration
+GO:0060836	5	GO:0001945	lymph vessel development
+GO:0001824	5	GO:0001945	lymph vessel development
+GO:1900426	15	GO:0031348	negative regulation of defense response
+GO:0060391	16	GO:0060390	regulation of SMAD protein signal transduction
+GO:0045766	4	GO:0001704	formation of primary germ layer
+GO:0003197	5	GO:0001945	lymph vessel development
+GO:0070570	11	GO:0070570	regulation of neuron projection regeneration
+GO:1905521	12	GO:0030334	regulation of cell migration
+GO:0030968	16	GO:0060390	regulation of SMAD protein signal transduction
+GO:0042759	6	GO:0009100	glycoprotein metabolic process
+GO:0060350	4	GO:0001704	formation of primary germ layer
+GO:0003183	4	GO:0001704	formation of primary germ layer
+GO:0003186	4	GO:0001704	formation of primary germ layer
+GO:0003176	5	GO:0001945	lymph vessel development
+GO:0003177	5	GO:0001945	lymph vessel development
+GO:0090066	19	GO:0090066	regulation of anatomical structure size
+GO:0016203	5	GO:0001945	lymph vessel development
+GO:0014916	19	GO:0090066	regulation of anatomical structure size
+GO:0014706	4	GO:0001704	formation of primary germ layer
+GO:1904018	5	GO:0001945	lymph vessel development
+GO:0003148	4	GO:0001704	formation of primary germ layer
+GO:0120254	6	GO:0009100	glycoprotein metabolic process
+GO:0120032	10	GO:0031346	positive regulation of cell projection organization
+GO:0120035	10	GO:0031346	positive regulation of cell projection organization
+GO:0071900	7	GO:1903018	regulation of glycoprotein metabolic process
+GO:0031023	13	GO:0031023	microtubule organizing center organization
+GO:0045906	19	GO:0090066	regulation of anatomical structure size
+GO:0035967	17	GO:1990834	response to odorant
+GO:0060491	10	GO:0031346	positive regulation of cell projection organization
+GO:0072577	18	GO:0034765	regulation of ion transmembrane transport
+GO:0003085	19	GO:0090066	regulation of anatomical structure size
+GO:0046578	16	GO:0060390	regulation of SMAD protein signal transduction
+GO:0032989	3	GO:0060856	establishment of blood-brain barrier
+GO:0003252	4	GO:0001704	formation of primary germ layer
+GO:0060412	4	GO:0001704	formation of primary germ layer
+GO:0060413	4	GO:0001704	formation of primary germ layer
+GO:0010976	11	GO:0070570	regulation of neuron projection regeneration
+GO:0010977	11	GO:0070570	regulation of neuron projection regeneration
+GO:0001667	12	GO:0030334	regulation of cell migration
+GO:1903036	15	GO:0031348	negative regulation of defense response
+GO:0034620	17	GO:1990834	response to odorant

@@ -1,0 +1,61 @@
+GO:1903490	5	GO:0033045	regulation of sister chromatid segregation
+GO:1902101	5	GO:0033045	regulation of sister chromatid segregation
+GO:0031445	2	GO:0090308	regulation of DNA methylation-dependent heterochromatin assembly
+GO:0034587	1	GO:0006310	DNA recombination
+GO:0031507	2	GO:0090308	regulation of DNA methylation-dependent heterochromatin assembly
+GO:0044087	5	GO:0033045	regulation of sister chromatid segregation
+GO:0044071	5	GO:0033045	regulation of sister chromatid segregation
+GO:1902275	5	GO:0033045	regulation of sister chromatid segregation
+GO:1903436	5	GO:0033045	regulation of sister chromatid segregation
+GO:1903438	5	GO:0033045	regulation of sister chromatid segregation
+GO:0006310	1	GO:0006310	DNA recombination
+GO:0006346	2	GO:0090308	regulation of DNA methylation-dependent heterochromatin assembly
+GO:0031031	5	GO:0033045	regulation of sister chromatid segregation
+GO:0031122	4	GO:0051321	meiotic cell cycle
+GO:0030717	4	GO:0051321	meiotic cell cycle
+GO:0000018	1	GO:0006310	DNA recombination
+GO:0006302	1	GO:0006310	DNA recombination
+GO:1901970	5	GO:0033045	regulation of sister chromatid segregation
+GO:1905269	5	GO:0033045	regulation of sister chromatid segregation
+GO:0045840	5	GO:0033045	regulation of sister chromatid segregation
+GO:0045842	5	GO:0033045	regulation of sister chromatid segregation
+GO:0120261	5	GO:0033045	regulation of sister chromatid segregation
+GO:0120263	5	GO:0033045	regulation of sister chromatid segregation
+GO:0035825	1	GO:0006310	DNA recombination
+GO:0019055	5	GO:0033045	regulation of sister chromatid segregation
+GO:0045478	4	GO:0051321	meiotic cell cycle
+GO:0030953	4	GO:0051321	meiotic cell cycle
+GO:0008608	4	GO:0051321	meiotic cell cycle
+GO:0000226	4	GO:0051321	meiotic cell cycle
+GO:1905758	5	GO:0033045	regulation of sister chromatid segregation
+GO:0042138	1	GO:0006310	DNA recombination
+GO:0060153	5	GO:0033045	regulation of sister chromatid segregation
+GO:0044784	5	GO:0033045	regulation of sister chromatid segregation
+GO:0030437	4	GO:0051321	meiotic cell cycle
+GO:0045132	4	GO:0051321	meiotic cell cycle
+GO:0000724	1	GO:0006310	DNA recombination
+GO:0000725	1	GO:0006310	DNA recombination
+GO:1905820	5	GO:0033045	regulation of sister chromatid segregation
+GO:0051321	4	GO:0051321	meiotic cell cycle
+GO:0051315	5	GO:0033045	regulation of sister chromatid segregation
+GO:0007091	5	GO:0033045	regulation of sister chromatid segregation
+GO:0051301	4	GO:0051321	meiotic cell cycle
+GO:0051983	5	GO:0033045	regulation of sister chromatid segregation
+GO:0090308	2	GO:0090308	regulation of DNA methylation-dependent heterochromatin assembly
+GO:0090309	2	GO:0090308	regulation of DNA methylation-dependent heterochromatin assembly
+GO:0140527	1	GO:0006310	DNA recombination
+GO:0007052	4	GO:0051321	meiotic cell cycle
+GO:0098813	4	GO:0051321	meiotic cell cycle
+GO:0007059	4	GO:0051321	meiotic cell cycle
+GO:0007080	5	GO:0033045	regulation of sister chromatid segregation
+GO:0007088	5	GO:0033045	regulation of sister chromatid segregation
+GO:0060236	5	GO:0033045	regulation of sister chromatid segregation
+GO:0033044	5	GO:0033045	regulation of sister chromatid segregation
+GO:0033045	5	GO:0033045	regulation of sister chromatid segregation
+GO:0007049	4	GO:0051321	meiotic cell cycle
+GO:0007127	4	GO:0051321	meiotic cell cycle
+GO:0031453	2	GO:0090308	regulation of DNA methylation-dependent heterochromatin assembly
+GO:0007141	4	GO:0051321	meiotic cell cycle
+GO:0007144	4	GO:0051321	meiotic cell cycle
+GO:0007130	4	GO:0051321	meiotic cell cycle
+GO:0007131	4	GO:0051321	meiotic cell cycle

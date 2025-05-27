@@ -1,0 +1,30 @@
+GO:0020037	3	GO:0008047	enzyme activator activity
+GO:0043560	2	GO:0043560	insulin receptor substrate binding
+GO:0005516	2	GO:0043560	insulin receptor substrate binding
+GO:0005165	2	GO:0043560	insulin receptor substrate binding
+GO:0008047	3	GO:0008047	enzyme activator activity
+GO:0016705	4	GO:0016810	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds
+GO:0070182	2	GO:0043560	insulin receptor substrate binding
+GO:0004683	4	GO:0016810	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds
+GO:0000340	3	GO:0008047	enzyme activator activity
+GO:0102991	4	GO:0016810	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds
+GO:0005154	2	GO:0043560	insulin receptor substrate binding
+GO:0004222	4	GO:0016810	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds
+GO:0070412	2	GO:0043560	insulin receptor substrate binding
+GO:0016410	4	GO:0016810	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds
+GO:0046914	1	GO:0046914	transition metal ion binding
+GO:0052689	4	GO:0016810	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds
+GO:0017124	2	GO:0043560	insulin receptor substrate binding
+GO:0005068	2	GO:0043560	insulin receptor substrate binding
+GO:0046872	1	GO:0046914	transition metal ion binding
+GO:0004497	4	GO:0016810	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds
+GO:0046875	2	GO:0043560	insulin receptor substrate binding
+GO:0016810	4	GO:0016810	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds
+GO:0005506	1	GO:0046914	transition metal ion binding
+GO:0035591	3	GO:0008047	enzyme activator activity
+GO:0030145	1	GO:0046914	transition metal ion binding
+GO:0030296	3	GO:0008047	enzyme activator activity
+GO:0070006	4	GO:0016810	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds
+GO:0009931	4	GO:0016810	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds
+GO:0016290	4	GO:0016810	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds
+GO:0003743	3	GO:0008047	enzyme activator activity

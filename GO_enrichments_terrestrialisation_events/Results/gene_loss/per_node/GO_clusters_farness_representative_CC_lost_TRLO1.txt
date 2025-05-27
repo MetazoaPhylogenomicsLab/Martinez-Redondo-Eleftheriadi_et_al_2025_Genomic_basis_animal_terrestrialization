@@ -1,0 +1,93 @@
+GO:0044423	3	GO:0044423	virion component
+GO:0070161	5	GO:0009524	phragmoplast
+GO:0030425	2	GO:0034364	high-density lipoprotein particle
+GO:0060293	5	GO:0009524	phragmoplast
+GO:0008076	2	GO:0034364	high-density lipoprotein particle
+GO:0000795	6	GO:0005634	nucleus
+GO:0030430	1	GO:0044167	host cell endoplasmic reticulum membrane
+GO:1990909	2	GO:0034364	high-density lipoprotein particle
+GO:0033645	1	GO:0044167	host cell endoplasmic reticulum membrane
+GO:0033648	1	GO:0044167	host cell endoplasmic reticulum membrane
+GO:0031461	2	GO:0034364	high-density lipoprotein particle
+GO:0005668	6	GO:0005634	nucleus
+GO:0044199	1	GO:0044167	host cell endoplasmic reticulum membrane
+GO:0051285	5	GO:0009524	phragmoplast
+GO:0005742	6	GO:0005634	nucleus
+GO:0044165	1	GO:0044167	host cell endoplasmic reticulum membrane
+GO:0044167	1	GO:0044167	host cell endoplasmic reticulum membrane
+GO:0005628	5	GO:0009524	phragmoplast
+GO:0044177	1	GO:0044167	host cell endoplasmic reticulum membrane
+GO:0044178	1	GO:0044167	host cell endoplasmic reticulum membrane
+GO:0032982	2	GO:0034364	high-density lipoprotein particle
+GO:0031430	5	GO:0009524	phragmoplast
+GO:0005634	6	GO:0005634	nucleus
+GO:0035869	5	GO:0009524	phragmoplast
+GO:0005637	6	GO:0005634	nucleus
+GO:0005923	2	GO:0034364	high-density lipoprotein particle
+GO:0030915	6	GO:0005634	nucleus
+GO:0005911	2	GO:0034364	high-density lipoprotein particle
+GO:0005938	5	GO:0009524	phragmoplast
+GO:0043186	5	GO:0009524	phragmoplast
+GO:0042734	2	GO:0034364	high-density lipoprotein particle
+GO:0000943	6	GO:0005634	nucleus
+GO:0099086	6	GO:0005634	nucleus
+GO:0020002	1	GO:0044167	host cell endoplasmic reticulum membrane
+GO:0001401	6	GO:0005634	nucleus
+GO:0031976	6	GO:0005634	nucleus
+GO:0005813	4	GO:0005856	cytoskeleton
+GO:0005814	4	GO:0005856	cytoskeleton
+GO:0005815	4	GO:0005856	cytoskeleton
+GO:0005816	4	GO:0005856	cytoskeleton
+GO:0005819	4	GO:0005856	cytoskeleton
+GO:0009574	4	GO:0005856	cytoskeleton
+GO:0009524	5	GO:0009524	phragmoplast
+GO:0031097	5	GO:0009524	phragmoplast
+GO:0009534	6	GO:0005634	nucleus
+GO:0009535	6	GO:0005634	nucleus
+GO:0034451	4	GO:0005856	cytoskeleton
+GO:0032039	6	GO:0005634	nucleus
+GO:0019028	3	GO:0044423	virion component
+GO:0019029	3	GO:0044423	virion component
+GO:0044233	5	GO:0009524	phragmoplast
+GO:0019013	3	GO:0044423	virion component
+GO:0000322	6	GO:0005634	nucleus
+GO:0000324	6	GO:0005634	nucleus
+GO:0055035	6	GO:0005634	nucleus
+GO:0055036	3	GO:0044423	virion component
+GO:0000329	6	GO:0005634	nucleus
+GO:0019031	3	GO:0044423	virion component
+GO:0019033	3	GO:0044423	virion component
+GO:0044200	1	GO:0044167	host cell endoplasmic reticulum membrane
+GO:0044201	1	GO:0044167	host cell endoplasmic reticulum membrane
+GO:0042025	1	GO:0044167	host cell endoplasmic reticulum membrane
+GO:0031261	6	GO:0005634	nucleus
+GO:0098687	4	GO:0005856	cytoskeleton
+GO:0120044	5	GO:0009524	phragmoplast
+GO:0016592	6	GO:0005634	nucleus
+GO:0005782	6	GO:0005634	nucleus
+GO:0032432	4	GO:0005856	cytoskeleton
+GO:0005721	5	GO:0009524	phragmoplast
+GO:0090571	6	GO:0005634	nucleus
+GO:0000781	4	GO:0005856	cytoskeleton
+GO:0034361	2	GO:0034364	high-density lipoprotein particle
+GO:0034364	2	GO:0034364	high-density lipoprotein particle
+GO:0042763	5	GO:0009524	phragmoplast
+GO:0042764	5	GO:0009524	phragmoplast
+GO:0034045	5	GO:0009524	phragmoplast
+GO:0005929	5	GO:0009524	phragmoplast
+GO:0032153	5	GO:0009524	phragmoplast
+GO:0035102	6	GO:0005634	nucleus
+GO:0005856	4	GO:0005856	cytoskeleton
+GO:0001725	4	GO:0005856	cytoskeleton
+GO:0001669	5	GO:0009524	phragmoplast
+GO:0042627	2	GO:0034364	high-density lipoprotein particle
+GO:0019898	5	GO:0009524	phragmoplast
+GO:0042641	4	GO:0005856	cytoskeleton
+GO:0017053	2	GO:0034364	high-density lipoprotein particle
+GO:0031907	6	GO:0005634	nucleus
+GO:0032806	6	GO:0005634	nucleus
+GO:0015629	4	GO:0005856	cytoskeleton
+GO:0044219	1	GO:0044167	host cell endoplasmic reticulum membrane
+GO:0097517	4	GO:0005856	cytoskeleton
+GO:0106068	2	GO:0034364	high-density lipoprotein particle
+GO:1905360	2	GO:0034364	high-density lipoprotein particle

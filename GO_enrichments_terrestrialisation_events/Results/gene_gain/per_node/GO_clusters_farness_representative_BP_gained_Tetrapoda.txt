@@ -1,0 +1,664 @@
+GO:0001946	12	GO:0098773	skin epidermis development
+GO:2000561	9	GO:0050863	regulation of T cell activation
+GO:2000562	9	GO:0050863	regulation of T cell activation
+GO:0038092	16	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0007283	11	GO:0007276	gamete generation
+GO:0070586	12	GO:0098773	skin epidermis development
+GO:0070587	18	GO:0060284	regulation of cell development
+GO:0007276	11	GO:0007276	gamete generation
+GO:0098722	17	GO:0007017	microtubule-based process
+GO:0098728	11	GO:0007276	gamete generation
+GO:0031028	16	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:1902275	15	GO:0010638	positive regulation of organelle organization
+GO:0042113	10	GO:0045064	T-helper 2 cell differentiation
+GO:0046651	9	GO:0050863	regulation of T cell activation
+GO:2000653	3	GO:2000653	regulation of genetic imprinting
+GO:0000917	14	GO:0016043	cellular component organization
+GO:0035988	17	GO:0007017	microtubule-based process
+GO:1904683	3	GO:2000653	regulation of genetic imprinting
+GO:0042104	9	GO:0050863	regulation of T cell activation
+GO:0048262	12	GO:0098773	skin epidermis development
+GO:0048263	12	GO:0098773	skin epidermis development
+GO:0070663	19	GO:0048523	negative regulation of cellular process
+GO:0070664	19	GO:0048523	negative regulation of cellular process
+GO:0046642	9	GO:0050863	regulation of T cell activation
+GO:0010564	19	GO:0048523	negative regulation of cellular process
+GO:0010958	6	GO:0034220	ion transmembrane transport
+GO:0007310	11	GO:0007276	gamete generation
+GO:0030703	11	GO:0007276	gamete generation
+GO:0051954	6	GO:0034220	ion transmembrane transport
+GO:0051955	6	GO:0034220	ion transmembrane transport
+GO:0051957	6	GO:0034220	ion transmembrane transport
+GO:0048232	11	GO:0007276	gamete generation
+GO:0016325	11	GO:0007276	gamete generation
+GO:0007304	11	GO:0007276	gamete generation
+GO:0007306	11	GO:0007276	gamete generation
+GO:0031573	19	GO:0048523	negative regulation of cellular process
+GO:0002377	1	GO:0010468	regulation of gene expression
+GO:0002322	10	GO:0045064	T-helper 2 cell differentiation
+GO:0009190	2	GO:0010216	maintenance of DNA methylation
+GO:0032954	19	GO:0048523	negative regulation of cellular process
+GO:0016333	12	GO:0098773	skin epidermis development
+GO:0016334	17	GO:0007017	microtubule-based process
+GO:0002312	10	GO:0045064	T-helper 2 cell differentiation
+GO:1903789	6	GO:0034220	ion transmembrane transport
+GO:1905048	3	GO:2000653	regulation of genetic imprinting
+GO:0090309	3	GO:2000653	regulation of genetic imprinting
+GO:0032944	19	GO:0048523	negative regulation of cellular process
+GO:0032945	19	GO:0048523	negative regulation of cellular process
+GO:0031507	3	GO:2000653	regulation of genetic imprinting
+GO:0022414	11	GO:0007276	gamete generation
+GO:0007474	12	GO:0098773	skin epidermis development
+GO:2000341	1	GO:0010468	regulation of gene expression
+GO:1990051	3	GO:2000653	regulation of genetic imprinting
+GO:0034115	18	GO:0060284	regulation of cell development
+GO:0051250	9	GO:0050863	regulation of T cell activation
+GO:0023035	16	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0015824	6	GO:0034220	ion transmembrane transport
+GO:0045869	5	GO:0016032	viral process
+GO:0019953	11	GO:0007276	gamete generation
+GO:0046068	2	GO:0010216	maintenance of DNA methylation
+GO:1902018	15	GO:0010638	positive regulation of organelle organization
+GO:1902412	19	GO:0048523	negative regulation of cellular process
+GO:0045814	1	GO:0010468	regulation of gene expression
+GO:0044782	14	GO:0016043	cellular component organization
+GO:0000712	2	GO:0010216	maintenance of DNA methylation
+GO:0045818	3	GO:2000653	regulation of genetic imprinting
+GO:1904029	3	GO:2000653	regulation of genetic imprinting
+GO:0072567	1	GO:0010468	regulation of gene expression
+GO:0046843	11	GO:0007276	gamete generation
+GO:0098670	5	GO:0016032	viral process
+GO:0035739	9	GO:0050863	regulation of T cell activation
+GO:0070828	14	GO:0016043	cellular component organization
+GO:0035493	14	GO:0016043	cellular component organization
+GO:0042078	11	GO:0007276	gamete generation
+GO:0016973	6	GO:0034220	ion transmembrane transport
+GO:0090529	14	GO:0016043	cellular component organization
+GO:0050670	9	GO:0050863	regulation of T cell activation
+GO:0050672	9	GO:0050863	regulation of T cell activation
+GO:0032753	1	GO:0010468	regulation of gene expression
+GO:0000079	3	GO:2000653	regulation of genetic imprinting
+GO:1900017	1	GO:0010468	regulation of gene expression
+GO:0042362	2	GO:0010216	maintenance of DNA methylation
+GO:0031424	13	GO:0098751	bone cell development
+GO:2001244	16	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0003334	13	GO:0098751	bone cell development
+GO:0072593	17	GO:0007017	microtubule-based process
+GO:0032700	1	GO:0010468	regulation of gene expression
+GO:0098534	14	GO:0016043	cellular component organization
+GO:0046605	15	GO:0010638	positive regulation of organelle organization
+GO:0002639	1	GO:0010468	regulation of gene expression
+GO:0002292	10	GO:0045064	T-helper 2 cell differentiation
+GO:0002293	10	GO:0045064	T-helper 2 cell differentiation
+GO:0002294	10	GO:0045064	T-helper 2 cell differentiation
+GO:1902237	16	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0002287	10	GO:0045064	T-helper 2 cell differentiation
+GO:0036261	2	GO:0010216	maintenance of DNA methylation
+GO:0006919	3	GO:2000653	regulation of genetic imprinting
+GO:0051607	4	GO:0098542	defense response to other organism
+GO:0042093	10	GO:0045064	T-helper 2 cell differentiation
+GO:0031295	9	GO:0050863	regulation of T cell activation
+GO:0031268	14	GO:0016043	cellular component organization
+GO:0031272	15	GO:0010638	positive regulation of organelle organization
+GO:0031274	15	GO:0010638	positive regulation of organelle organization
+GO:0043379	10	GO:0045064	T-helper 2 cell differentiation
+GO:0090200	15	GO:0010638	positive regulation of organelle organization
+GO:0003006	11	GO:0007276	gamete generation
+GO:0032504	11	GO:0007276	gamete generation
+GO:1903241	2	GO:0010216	maintenance of DNA methylation
+GO:0032660	1	GO:0010468	regulation of gene expression
+GO:0090713	10	GO:0045064	T-helper 2 cell differentiation
+GO:0010824	15	GO:0010638	positive regulation of organelle organization
+GO:0002314	10	GO:0045064	T-helper 2 cell differentiation
+GO:0071803	15	GO:0010638	positive regulation of organelle organization
+GO:0051709	19	GO:0048523	negative regulation of cellular process
+GO:0045625	10	GO:0045064	T-helper 2 cell differentiation
+GO:0045628	10	GO:0045064	T-helper 2 cell differentiation
+GO:0043517	16	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:1903724	15	GO:0010638	positive regulation of organelle organization
+GO:0046599	15	GO:0010638	positive regulation of organelle organization
+GO:0046902	14	GO:0016043	cellular component organization
+GO:0010907	3	GO:2000653	regulation of genetic imprinting
+GO:0009615	4	GO:0098542	defense response to other organism
+GO:0061458	12	GO:0098773	skin epidermis development
+GO:0007098	14	GO:0016043	cellular component organization
+GO:0007099	14	GO:0016043	cellular component organization
+GO:0031341	19	GO:0048523	negative regulation of cellular process
+GO:0000387	2	GO:0010216	maintenance of DNA methylation
+GO:0140546	4	GO:0098542	defense response to other organism
+GO:0048608	12	GO:0098773	skin epidermis development
+GO:0048609	11	GO:0007276	gamete generation
+GO:0034375	19	GO:0048523	negative regulation of cellular process
+GO:0007017	17	GO:0007017	microtubule-based process
+GO:0002517	12	GO:0098773	skin epidermis development
+GO:1902043	16	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0072332	16	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:2001268	16	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0032722	1	GO:0010468	regulation of gene expression
+GO:0032733	1	GO:0010468	regulation of gene expression
+GO:0032736	1	GO:0010468	regulation of gene expression
+GO:0010629	1	GO:0010468	regulation of gene expression
+GO:0002683	19	GO:0048523	negative regulation of cellular process
+GO:0031055	14	GO:0016043	cellular component organization
+GO:0007284	11	GO:0007276	gamete generation
+GO:0042832	4	GO:0098542	defense response to other organism
+GO:0002295	10	GO:0045064	T-helper 2 cell differentiation
+GO:0006338	14	GO:0016043	cellular component organization
+GO:0072539	10	GO:0045064	T-helper 2 cell differentiation
+GO:0030718	12	GO:0098773	skin epidermis development
+GO:0045880	16	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0034080	14	GO:0016043	cellular component organization
+GO:0045346	3	GO:2000653	regulation of genetic imprinting
+GO:0045830	8	GO:0002712	regulation of B cell mediated immunity
+GO:0072665	6	GO:0034220	ion transmembrane transport
+GO:0072666	6	GO:0034220	ion transmembrane transport
+GO:0045911	3	GO:2000653	regulation of genetic imprinting
+GO:0034112	19	GO:0048523	negative regulation of cellular process
+GO:0031294	9	GO:0050863	regulation of T cell activation
+GO:0070444	13	GO:0098751	bone cell development
+GO:0070445	18	GO:0060284	regulation of cell development
+GO:1903006	3	GO:2000653	regulation of genetic imprinting
+GO:0042531	3	GO:2000653	regulation of genetic imprinting
+GO:0010755	3	GO:2000653	regulation of genetic imprinting
+GO:2000117	3	GO:2000653	regulation of genetic imprinting
+GO:0048304	8	GO:0002712	regulation of B cell mediated immunity
+GO:0030330	16	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:1904478	6	GO:0034220	ion transmembrane transport
+GO:0002720	1	GO:0010468	regulation of gene expression
+GO:0001562	4	GO:0098542	defense response to other organism
+GO:0002724	8	GO:0002712	regulation of B cell mediated immunity
+GO:0002726	8	GO:0002712	regulation of B cell mediated immunity
+GO:0002711	8	GO:0002712	regulation of B cell mediated immunity
+GO:0002712	8	GO:0002712	regulation of B cell mediated immunity
+GO:0002714	8	GO:0002712	regulation of B cell mediated immunity
+GO:0048477	11	GO:0007276	gamete generation
+GO:0045063	10	GO:0045064	T-helper 2 cell differentiation
+GO:0045064	10	GO:0045064	T-helper 2 cell differentiation
+GO:0045190	10	GO:0045064	T-helper 2 cell differentiation
+GO:0045191	8	GO:0002712	regulation of B cell mediated immunity
+GO:0007340	11	GO:0007276	gamete generation
+GO:0002708	8	GO:0002712	regulation of B cell mediated immunity
+GO:0002369	8	GO:0002712	regulation of B cell mediated immunity
+GO:0002891	8	GO:0002712	regulation of B cell mediated immunity
+GO:0070613	3	GO:2000653	regulation of genetic imprinting
+GO:0032655	1	GO:0010468	regulation of gene expression
+GO:0032656	1	GO:0010468	regulation of gene expression
+GO:0032620	1	GO:0010468	regulation of gene expression
+GO:0006623	6	GO:0034220	ion transmembrane transport
+GO:0098725	17	GO:0007017	microtubule-based process
+GO:0032615	1	GO:0010468	regulation of gene expression
+GO:0032616	1	GO:0010468	regulation of gene expression
+GO:0002889	8	GO:0002712	regulation of B cell mediated immunity
+GO:0002820	8	GO:0002712	regulation of B cell mediated immunity
+GO:0002823	8	GO:0002712	regulation of B cell mediated immunity
+GO:0045623	10	GO:0045064	T-helper 2 cell differentiation
+GO:0062207	16	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0017148	3	GO:2000653	regulation of genetic imprinting
+GO:0002830	8	GO:0002712	regulation of B cell mediated immunity
+GO:0050650	2	GO:0010216	maintenance of DNA methylation
+GO:0043011	13	GO:0098751	bone cell development
+GO:0043154	3	GO:2000653	regulation of genetic imprinting
+GO:2001140	6	GO:0034220	ion transmembrane transport
+GO:2000738	18	GO:0060284	regulation of cell development
+GO:0060218	13	GO:0098751	bone cell development
+GO:0007156	17	GO:0007017	microtubule-based process
+GO:1903317	3	GO:2000653	regulation of genetic imprinting
+GO:1900425	4	GO:0098542	defense response to other organism
+GO:0035212	18	GO:0060284	regulation of cell development
+GO:0120034	15	GO:0010638	positive regulation of organelle organization
+GO:0120263	15	GO:0010638	positive regulation of organelle organization
+GO:1905269	15	GO:0010638	positive regulation of organelle organization
+GO:0046660	12	GO:0098773	skin epidermis development
+GO:1900037	16	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:1900038	16	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0034143	16	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0007130	14	GO:0016043	cellular component organization
+GO:0090308	3	GO:2000653	regulation of genetic imprinting
+GO:0032720	1	GO:0010468	regulation of gene expression
+GO:0031453	3	GO:2000653	regulation of genetic imprinting
+GO:0071636	1	GO:0010468	regulation of gene expression
+GO:0032717	1	GO:0010468	regulation of gene expression
+GO:0042482	12	GO:0098773	skin epidermis development
+GO:0007029	14	GO:0016043	cellular component organization
+GO:0045687	18	GO:0060284	regulation of cell development
+GO:0008585	12	GO:0098773	skin epidermis development
+GO:1904406	3	GO:2000653	regulation of genetic imprinting
+GO:0070314	17	GO:0007017	microtubule-based process
+GO:0050714	6	GO:0034220	ion transmembrane transport
+GO:0007342	11	GO:0007276	gamete generation
+GO:0007338	11	GO:0007276	gamete generation
+GO:2001214	18	GO:0060284	regulation of cell development
+GO:0031640	17	GO:0007017	microtubule-based process
+GO:0045091	5	GO:0016032	viral process
+GO:0030838	15	GO:0010638	positive regulation of organelle organization
+GO:0039692	5	GO:0016032	viral process
+GO:0045019	3	GO:2000653	regulation of genetic imprinting
+GO:0048714	18	GO:0060284	regulation of cell development
+GO:0000003	17	GO:0007017	microtubule-based process
+GO:1990403	12	GO:0098773	skin epidermis development
+GO:0051865	2	GO:0010216	maintenance of DNA methylation
+GO:0046545	12	GO:0098773	skin epidermis development
+GO:0031269	14	GO:0016043	cellular component organization
+GO:0070193	14	GO:0016043	cellular component organization
+GO:0030682	4	GO:0098542	defense response to other organism
+GO:0010457	14	GO:0016043	cellular component organization
+GO:0070121	12	GO:0098773	skin epidermis development
+GO:0048525	5	GO:0016032	viral process
+GO:0061517	17	GO:0007017	microtubule-based process
+GO:0002698	8	GO:0002712	regulation of B cell mediated immunity
+GO:0061518	13	GO:0098751	bone cell development
+GO:0045651	18	GO:0060284	regulation of cell development
+GO:0045655	18	GO:0060284	regulation of cell development
+GO:0045657	18	GO:0060284	regulation of cell development
+GO:0002286	10	GO:0045064	T-helper 2 cell differentiation
+GO:0002227	4	GO:0098542	defense response to other organism
+GO:0046641	9	GO:0050863	regulation of T cell activation
+GO:0046632	10	GO:0045064	T-helper 2 cell differentiation
+GO:0002367	1	GO:0010468	regulation of gene expression
+GO:0052173	4	GO:0098542	defense response to other organism
+GO:0019049	5	GO:0016032	viral process
+GO:0002718	1	GO:0010468	regulation of gene expression
+GO:0032103	16	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0051255	14	GO:0016043	cellular component organization
+GO:0051256	14	GO:0016043	cellular component organization
+GO:0000395	2	GO:0010216	maintenance of DNA methylation
+GO:0075136	4	GO:0098542	defense response to other organism
+GO:0043367	10	GO:0045064	T-helper 2 cell differentiation
+GO:0051231	14	GO:0016043	cellular component organization
+GO:0001818	1	GO:0010468	regulation of gene expression
+GO:0016032	5	GO:0016032	viral process
+GO:0052200	4	GO:0098542	defense response to other organism
+GO:0035710	10	GO:0045064	T-helper 2 cell differentiation
+GO:0060742	13	GO:0098751	bone cell development
+GO:2001267	3	GO:2000653	regulation of genetic imprinting
+GO:0120040	19	GO:0048523	negative regulation of cellular process
+GO:0120041	19	GO:0048523	negative regulation of cellular process
+GO:0000022	14	GO:0016043	cellular component organization
+GO:0035627	6	GO:0034220	ion transmembrane transport
+GO:0045198	12	GO:0098773	skin epidermis development
+GO:0040015	18	GO:0060284	regulation of cell development
+GO:2000010	19	GO:0048523	negative regulation of cellular process
+GO:2000042	3	GO:2000653	regulation of genetic imprinting
+GO:0070665	19	GO:0048523	negative regulation of cellular process
+GO:2001034	3	GO:2000653	regulation of genetic imprinting
+GO:2000786	15	GO:0010638	positive regulation of organelle organization
+GO:0010634	19	GO:0048523	negative regulation of cellular process
+GO:0010638	15	GO:0010638	positive regulation of organelle organization
+GO:0050864	9	GO:0050863	regulation of T cell activation
+GO:0050867	19	GO:0048523	negative regulation of cellular process
+GO:0010743	18	GO:0060284	regulation of cell development
+GO:0046548	12	GO:0098773	skin epidermis development
+GO:0050871	9	GO:0050863	regulation of T cell activation
+GO:0060221	12	GO:0098773	skin epidermis development
+GO:1900026	18	GO:0060284	regulation of cell development
+GO:0060232	19	GO:0048523	negative regulation of cellular process
+GO:0002696	9	GO:0050863	regulation of T cell activation
+GO:0032740	1	GO:0010468	regulation of gene expression
+GO:0002313	10	GO:0045064	T-helper 2 cell differentiation
+GO:0043589	12	GO:0098773	skin epidermis development
+GO:0044090	15	GO:0010638	positive regulation of organelle organization
+GO:0010875	6	GO:0034220	ion transmembrane transport
+GO:1900746	16	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0034144	16	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0045954	8	GO:0002712	regulation of B cell mediated immunity
+GO:0044089	19	GO:0048523	negative regulation of cellular process
+GO:0051251	9	GO:0050863	regulation of T cell activation
+GO:0007264	16	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0071800	14	GO:0016043	cellular component organization
+GO:0071801	15	GO:0010638	positive regulation of organelle organization
+GO:0002705	8	GO:0002712	regulation of B cell mediated immunity
+GO:0002706	8	GO:0002712	regulation of B cell mediated immunity
+GO:0001773	10	GO:0045064	T-helper 2 cell differentiation
+GO:1902115	15	GO:0010638	positive regulation of organelle organization
+GO:1902117	15	GO:0010638	positive regulation of organelle organization
+GO:1903587	18	GO:0060284	regulation of cell development
+GO:0001738	12	GO:0098773	skin epidermis development
+GO:0006955	10	GO:0045064	T-helper 2 cell differentiation
+GO:0090522	14	GO:0016043	cellular component organization
+GO:0051703	17	GO:0007017	microtubule-based process
+GO:0043045	2	GO:0010216	maintenance of DNA methylation
+GO:1902533	16	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0046579	16	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0090101	16	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0051092	3	GO:2000653	regulation of genetic imprinting
+GO:0051093	18	GO:0060284	regulation of cell development
+GO:0051094	18	GO:0060284	regulation of cell development
+GO:0070166	12	GO:0098773	skin epidermis development
+GO:0070167	18	GO:0060284	regulation of cell development
+GO:0045934	3	GO:2000653	regulation of genetic imprinting
+GO:0051057	16	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0007213	16	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:1903507	3	GO:2000653	regulation of genetic imprinting
+GO:0048523	19	GO:0048523	negative regulation of cellular process
+GO:0098743	17	GO:0007017	microtubule-based process
+GO:0044406	5	GO:0016032	viral process
+GO:0060079	16	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0045662	18	GO:0060284	regulation of cell development
+GO:0032467	19	GO:0048523	negative regulation of cellular process
+GO:0000963	2	GO:0010216	maintenance of DNA methylation
+GO:0031029	16	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0048103	17	GO:0007017	microtubule-based process
+GO:1905383	6	GO:0034220	ion transmembrane transport
+GO:1902679	3	GO:2000653	regulation of genetic imprinting
+GO:0009890	3	GO:2000653	regulation of genetic imprinting
+GO:0000122	3	GO:2000653	regulation of genetic imprinting
+GO:0009896	3	GO:2000653	regulation of genetic imprinting
+GO:0043122	16	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0043123	16	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:1902231	16	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0019731	4	GO:0098542	defense response to other organism
+GO:0099118	6	GO:0034220	ion transmembrane transport
+GO:0014908	12	GO:0098773	skin epidermis development
+GO:0006349	3	GO:2000653	regulation of genetic imprinting
+GO:0010558	3	GO:2000653	regulation of genetic imprinting
+GO:0043903	19	GO:0048523	negative regulation of cellular process
+GO:0098840	6	GO:0034220	ion transmembrane transport
+GO:0002360	10	GO:0045064	T-helper 2 cell differentiation
+GO:1901741	18	GO:0060284	regulation of cell development
+GO:0046765	5	GO:0016032	viral process
+GO:1901739	18	GO:0060284	regulation of cell development
+GO:0032955	15	GO:0010638	positive regulation of organelle organization
+GO:0010508	19	GO:0048523	negative regulation of cellular process
+GO:1900244	15	GO:0010638	positive regulation of organelle organization
+GO:0008090	6	GO:0034220	ion transmembrane transport
+GO:0097186	12	GO:0098773	skin epidermis development
+GO:1902305	6	GO:0034220	ion transmembrane transport
+GO:0099640	6	GO:0034220	ion transmembrane transport
+GO:0000209	2	GO:0010216	maintenance of DNA methylation
+GO:0032502	17	GO:0007017	microtubule-based process
+GO:0051253	3	GO:2000653	regulation of genetic imprinting
+GO:2000737	18	GO:0060284	regulation of cell development
+GO:0045892	3	GO:2000653	regulation of genetic imprinting
+GO:0060284	18	GO:0060284	regulation of cell development
+GO:0010216	2	GO:0010216	maintenance of DNA methylation
+GO:0060644	13	GO:0098751	bone cell development
+GO:1902410	17	GO:0007017	microtubule-based process
+GO:1903423	6	GO:0034220	ion transmembrane transport
+GO:0035372	6	GO:0034220	ion transmembrane transport
+GO:0071554	17	GO:0007017	microtubule-based process
+GO:0071555	14	GO:0016043	cellular component organization
+GO:0030512	16	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:2000026	18	GO:0060284	regulation of cell development
+GO:0034220	6	GO:0034220	ion transmembrane transport
+GO:0046802	5	GO:0016032	viral process
+GO:0045596	18	GO:0060284	regulation of cell development
+GO:0061844	4	GO:0098542	defense response to other organism
+GO:0046596	5	GO:0016032	viral process
+GO:0031327	3	GO:2000653	regulation of genetic imprinting
+GO:1990535	14	GO:0016043	cellular component organization
+GO:0045579	9	GO:0050863	regulation of T cell activation
+GO:0051701	5	GO:0016032	viral process
+GO:0017145	17	GO:0007017	microtubule-based process
+GO:0010468	1	GO:0010468	regulation of gene expression
+GO:0044000	5	GO:0016032	viral process
+GO:0044409	5	GO:0016032	viral process
+GO:0070536	2	GO:0010216	maintenance of DNA methylation
+GO:0002263	10	GO:0045064	T-helper 2 cell differentiation
+GO:0040029	1	GO:0010468	regulation of gene expression
+GO:0002274	10	GO:0045064	T-helper 2 cell differentiation
+GO:0006355	3	GO:2000653	regulation of genetic imprinting
+GO:0039663	5	GO:0016032	viral process
+GO:0008356	17	GO:0007017	microtubule-based process
+GO:0043299	6	GO:0034220	ion transmembrane transport
+GO:0002366	10	GO:0045064	T-helper 2 cell differentiation
+GO:0002376	17	GO:0007017	microtubule-based process
+GO:0050829	4	GO:0098542	defense response to other organism
+GO:0030885	9	GO:0050863	regulation of T cell activation
+GO:0050830	4	GO:0098542	defense response to other organism
+GO:0019835	17	GO:0007017	microtubule-based process
+GO:0046718	5	GO:0016032	viral process
+GO:0045087	4	GO:0098542	defense response to other organism
+GO:0007160	17	GO:0007017	microtubule-based process
+GO:0045003	2	GO:0010216	maintenance of DNA methylation
+GO:1903003	3	GO:2000653	regulation of genetic imprinting
+GO:1900424	4	GO:0098542	defense response to other organism
+GO:0051403	16	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0031098	16	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0018149	2	GO:0010216	maintenance of DNA methylation
+GO:1903427	3	GO:2000653	regulation of genetic imprinting
+GO:0006357	3	GO:2000653	regulation of genetic imprinting
+GO:0006310	2	GO:0010216	maintenance of DNA methylation
+GO:0006858	6	GO:0034220	ion transmembrane transport
+GO:0070302	16	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0032872	16	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0002244	13	GO:0098751	bone cell development
+GO:0032946	19	GO:0048523	negative regulation of cellular process
+GO:0030890	9	GO:0050863	regulation of T cell activation
+GO:0045944	3	GO:2000653	regulation of genetic imprinting
+GO:0010738	16	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0045026	14	GO:0016043	cellular component organization
+GO:1903202	16	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:1902808	19	GO:0048523	negative regulation of cellular process
+GO:0006281	2	GO:0010216	maintenance of DNA methylation
+GO:0050671	9	GO:0050863	regulation of T cell activation
+GO:0051568	2	GO:0010216	maintenance of DNA methylation
+GO:0003351	6	GO:0034220	ion transmembrane transport
+GO:0033148	16	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0035036	11	GO:0007276	gamete generation
+GO:0072673	14	GO:0016043	cellular component organization
+GO:1903020	3	GO:2000653	regulation of genetic imprinting
+GO:0045161	13	GO:0098751	bone cell development
+GO:0045162	13	GO:0098751	bone cell development
+GO:0015886	6	GO:0034220	ion transmembrane transport
+GO:0031290	13	GO:0098751	bone cell development
+GO:1903018	3	GO:2000653	regulation of genetic imprinting
+GO:0003254	19	GO:0048523	negative regulation of cellular process
+GO:1903039	19	GO:0048523	negative regulation of cellular process
+GO:0120031	14	GO:0016043	cellular component organization
+GO:0032310	6	GO:0034220	ion transmembrane transport
+GO:0051894	15	GO:0010638	positive regulation of organelle organization
+GO:2000601	15	GO:0010638	positive regulation of organelle organization
+GO:0019064	5	GO:0016032	viral process
+GO:0048012	16	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0050863	9	GO:0050863	regulation of T cell activation
+GO:0009889	3	GO:2000653	regulation of genetic imprinting
+GO:0010452	2	GO:0010216	maintenance of DNA methylation
+GO:0032653	1	GO:0010468	regulation of gene expression
+GO:0018027	2	GO:0010216	maintenance of DNA methylation
+GO:0019076	5	GO:0016032	viral process
+GO:0032673	1	GO:0010468	regulation of gene expression
+GO:0050870	9	GO:0050863	regulation of T cell activation
+GO:0080154	11	GO:0007276	gamete generation
+GO:1902905	15	GO:0010638	positive regulation of organelle organization
+GO:0035891	5	GO:0016032	viral process
+GO:0032309	6	GO:0034220	ion transmembrane transport
+GO:0002534	1	GO:0010468	regulation of gene expression
+GO:1903429	18	GO:0060284	regulation of cell development
+GO:0080182	2	GO:0010216	maintenance of DNA methylation
+GO:0032613	1	GO:0010468	regulation of gene expression
+GO:0031326	3	GO:2000653	regulation of genetic imprinting
+GO:1900024	18	GO:0060284	regulation of cell development
+GO:1903431	18	GO:0060284	regulation of cell development
+GO:0071715	6	GO:0034220	ion transmembrane transport
+GO:1900025	18	GO:0060284	regulation of cell development
+GO:0032782	6	GO:0034220	ion transmembrane transport
+GO:1900027	15	GO:0010638	positive regulation of organelle organization
+GO:0032633	1	GO:0010468	regulation of gene expression
+GO:1900015	1	GO:0010468	regulation of gene expression
+GO:1900016	1	GO:0010468	regulation of gene expression
+GO:0035855	13	GO:0098751	bone cell development
+GO:0098974	14	GO:0016043	cellular component organization
+GO:1902743	15	GO:0010638	positive regulation of organelle organization
+GO:1902744	15	GO:0010638	positive regulation of organelle organization
+GO:1902745	15	GO:0010638	positive regulation of organelle organization
+GO:1901678	6	GO:0034220	ion transmembrane transport
+GO:1904181	19	GO:0048523	negative regulation of cellular process
+GO:0051125	15	GO:0010638	positive regulation of organelle organization
+GO:0051127	15	GO:0010638	positive regulation of organelle organization
+GO:0017014	2	GO:0010216	maintenance of DNA methylation
+GO:0030031	14	GO:0016043	cellular component organization
+GO:0046209	2	GO:0010216	maintenance of DNA methylation
+GO:0016322	13	GO:0098751	bone cell development
+GO:0098751	13	GO:0098751	bone cell development
+GO:0070861	6	GO:0034220	ion transmembrane transport
+GO:0010812	19	GO:0048523	negative regulation of cellular process
+GO:0046761	5	GO:0016032	viral process
+GO:0061025	14	GO:0016043	cellular component organization
+GO:0046753	5	GO:0016032	viral process
+GO:0042551	13	GO:0098751	bone cell development
+GO:0051291	14	GO:0016043	cellular component organization
+GO:0016043	14	GO:0016043	cellular component organization
+GO:0046638	9	GO:0050863	regulation of T cell activation
+GO:2000114	19	GO:0048523	negative regulation of cellular process
+GO:0002638	1	GO:0010468	regulation of gene expression
+GO:0007552	12	GO:0098773	skin epidermis development
+GO:0006809	2	GO:0010216	maintenance of DNA methylation
+GO:2001141	3	GO:2000653	regulation of genetic imprinting
+GO:0018198	2	GO:0010216	maintenance of DNA methylation
+GO:0043370	10	GO:0045064	T-helper 2 cell differentiation
+GO:0043372	9	GO:0050863	regulation of T cell activation
+GO:0043374	10	GO:0045064	T-helper 2 cell differentiation
+GO:0071840	17	GO:0007017	microtubule-based process
+GO:0010592	15	GO:0010638	positive regulation of organelle organization
+GO:0014041	18	GO:0060284	regulation of cell development
+GO:0014042	18	GO:0060284	regulation of cell development
+GO:1905516	11	GO:0007276	gamete generation
+GO:0010560	3	GO:2000653	regulation of genetic imprinting
+GO:0045785	19	GO:0048523	negative regulation of cellular process
+GO:0002701	1	GO:0010468	regulation of gene expression
+GO:1901881	15	GO:0010638	positive regulation of organelle organization
+GO:0010556	3	GO:2000653	regulation of genetic imprinting
+GO:0010559	3	GO:2000653	regulation of genetic imprinting
+GO:0018119	2	GO:0010216	maintenance of DNA methylation
+GO:2000516	9	GO:0050863	regulation of T cell activation
+GO:0015721	6	GO:0034220	ion transmembrane transport
+GO:2000392	18	GO:0060284	regulation of cell development
+GO:0015718	6	GO:0034220	ion transmembrane transport
+GO:0000414	2	GO:0010216	maintenance of DNA methylation
+GO:0030837	15	GO:0010638	positive regulation of organelle organization
+GO:0015732	6	GO:0034220	ion transmembrane transport
+GO:0031848	2	GO:0010216	maintenance of DNA methylation
+GO:0034315	15	GO:0010638	positive regulation of organelle organization
+GO:0031175	13	GO:0098751	bone cell development
+GO:0036037	10	GO:0045064	T-helper 2 cell differentiation
+GO:1903506	3	GO:2000653	regulation of genetic imprinting
+GO:0051016	15	GO:0010638	positive regulation of organelle organization
+GO:0006366	3	GO:2000653	regulation of genetic imprinting
+GO:0022409	19	GO:0048523	negative regulation of cellular process
+GO:0051900	19	GO:0048523	negative regulation of cellular process
+GO:0099188	14	GO:0016043	cellular component organization
+GO:0051781	19	GO:0048523	negative regulation of cellular process
+GO:0051495	15	GO:0010638	positive regulation of organelle organization
+GO:0051497	15	GO:0010638	positive regulation of organelle organization
+GO:0097198	2	GO:0010216	maintenance of DNA methylation
+GO:0035024	16	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0007260	2	GO:0010216	maintenance of DNA methylation
+GO:0030216	13	GO:0098751	bone cell development
+GO:0070170	12	GO:0098773	skin epidermis development
+GO:0042509	3	GO:2000653	regulation of genetic imprinting
+GO:0043691	6	GO:0034220	ion transmembrane transport
+GO:0034969	2	GO:0010216	maintenance of DNA methylation
+GO:0051260	14	GO:0016043	cellular component organization
+GO:0009913	13	GO:0098751	bone cell development
+GO:0048861	16	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0033209	16	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:1905664	6	GO:0034220	ion transmembrane transport
+GO:1905665	6	GO:0034220	ion transmembrane transport
+GO:0032729	1	GO:0010468	regulation of gene expression
+GO:0044419	5	GO:0016032	viral process
+GO:0046640	9	GO:0050863	regulation of T cell activation
+GO:0098542	4	GO:0098542	defense response to other organism
+GO:0044403	5	GO:0016032	viral process
+GO:0046633	9	GO:0050863	regulation of T cell activation
+GO:0006369	3	GO:2000653	regulation of genetic imprinting
+GO:0007281	11	GO:0007276	gamete generation
+GO:2000515	9	GO:0050863	regulation of T cell activation
+GO:0002285	10	GO:0045064	T-helper 2 cell differentiation
+GO:2000053	16	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0032943	17	GO:0007017	microtubule-based process
+GO:0042098	9	GO:0050863	regulation of T cell activation
+GO:0051276	14	GO:0016043	cellular component organization
+GO:0035821	5	GO:0016032	viral process
+GO:0033363	14	GO:0016043	cellular component organization
+GO:0042129	9	GO:0050863	regulation of T cell activation
+GO:0022412	11	GO:0007276	gamete generation
+GO:0042130	9	GO:0050863	regulation of T cell activation
+GO:0060061	12	GO:0098773	skin epidermis development
+GO:0051754	14	GO:0016043	cellular component organization
+GO:0051783	15	GO:0010638	positive regulation of organelle organization
+GO:0032663	1	GO:0010468	regulation of gene expression
+GO:0032689	1	GO:0010468	regulation of gene expression
+GO:0032675	1	GO:0010468	regulation of gene expression
+GO:0032623	1	GO:0010468	regulation of gene expression
+GO:0002855	8	GO:0002712	regulation of B cell mediated immunity
+GO:0002858	8	GO:0002712	regulation of B cell mediated immunity
+GO:0045143	14	GO:0016043	cellular component organization
+GO:0032635	1	GO:0010468	regulation of gene expression
+GO:0002825	8	GO:0002712	regulation of B cell mediated immunity
+GO:0001675	11	GO:0007276	gamete generation
+GO:1901216	19	GO:0048523	negative regulation of cellular process
+GO:0031349	16	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0044332	16	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0002420	4	GO:0098542	defense response to other organism
+GO:0002423	4	GO:0098542	defense response to other organism
+GO:0007088	15	GO:0010638	positive regulation of organelle organization
+GO:0016321	11	GO:0007276	gamete generation
+GO:0007143	11	GO:0007276	gamete generation
+GO:2000810	15	GO:0010638	positive regulation of organelle organization
+GO:0061117	12	GO:0098773	skin epidermis development
+GO:0045742	16	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0010644	17	GO:0007017	microtubule-based process
+GO:0045732	3	GO:2000653	regulation of genetic imprinting
+GO:0010635	18	GO:0060284	regulation of cell development
+GO:0016567	2	GO:0010216	maintenance of DNA methylation
+GO:0070886	16	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0043207	4	GO:0098542	defense response to other organism
+GO:1901387	6	GO:0034220	ion transmembrane transport
+GO:0090128	18	GO:0060284	regulation of cell development
+GO:0090129	18	GO:0060284	regulation of cell development
+GO:1901990	19	GO:0048523	negative regulation of cellular process
+GO:1901991	19	GO:0048523	negative regulation of cellular process
+GO:0070816	3	GO:2000653	regulation of genetic imprinting
+GO:0031110	15	GO:0010638	positive regulation of organelle organization
+GO:0006952	4	GO:0098542	defense response to other organism
+GO:1901987	19	GO:0048523	negative regulation of cellular process
+GO:0045839	15	GO:0010638	positive regulation of organelle organization
+GO:0045930	19	GO:0048523	negative regulation of cellular process
+GO:0010765	6	GO:0034220	ion transmembrane transport
+GO:0009968	16	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0019058	5	GO:0016032	viral process
+GO:0032446	2	GO:0010216	maintenance of DNA methylation
+GO:0034109	17	GO:0007017	microtubule-based process
+GO:0006513	2	GO:0010216	maintenance of DNA methylation
+GO:0000281	17	GO:0007017	microtubule-based process
+GO:0042176	3	GO:2000653	regulation of genetic imprinting
+GO:0008285	19	GO:0048523	negative regulation of cellular process
+GO:0051784	15	GO:0010638	positive regulation of organelle organization
+GO:0098780	17	GO:0007017	microtubule-based process
+GO:0070647	2	GO:0010216	maintenance of DNA methylation
+GO:0098773	12	GO:0098773	skin epidermis development
+GO:0055022	12	GO:0098773	skin epidermis development
+GO:0086069	17	GO:0007017	microtubule-based process
+GO:1902806	19	GO:0048523	negative regulation of cellular process
+GO:0051707	4	GO:0098542	defense response to other organism
+GO:0010948	19	GO:0048523	negative regulation of cellular process
+GO:0099638	6	GO:0034220	ion transmembrane transport
+GO:0050680	19	GO:0048523	negative regulation of cellular process
+GO:0009617	4	GO:0098542	defense response to other organism
+GO:0106058	16	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0051988	19	GO:0048523	negative regulation of cellular process
+GO:2001137	19	GO:0048523	negative regulation of cellular process
+GO:0071539	6	GO:0034220	ion transmembrane transport
+GO:0044843	17	GO:0007017	microtubule-based process
+GO:0009607	4	GO:0098542	defense response to other organism
+GO:0051458	6	GO:0034220	ion transmembrane transport
+GO:0007043	14	GO:0016043	cellular component organization
+GO:0033044	15	GO:0010638	positive regulation of organelle organization
+GO:0016338	17	GO:0007017	microtubule-based process
+GO:1900426	4	GO:0098542	defense response to other organism
+GO:0090557	13	GO:0098751	bone cell development
+GO:0044501	5	GO:0016032	viral process
+GO:0010889	6	GO:0034220	ion transmembrane transport
+GO:0046794	5	GO:0016032	viral process
+GO:0045964	3	GO:2000653	regulation of genetic imprinting
+GO:0030730	6	GO:0034220	ion transmembrane transport
+GO:2000171	18	GO:0060284	regulation of cell development
+GO:0046755	5	GO:0016032	viral process
+GO:0044650	5	GO:0016032	viral process
+GO:0045915	3	GO:2000653	regulation of genetic imprinting
+GO:0052027	5	GO:0016032	viral process
+GO:0052029	5	GO:0016032	viral process
+GO:0033299	6	GO:0034220	ion transmembrane transport
+GO:0043482	17	GO:0007017	microtubule-based process
+GO:0097193	16	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:1903977	18	GO:0060284	regulation of cell development

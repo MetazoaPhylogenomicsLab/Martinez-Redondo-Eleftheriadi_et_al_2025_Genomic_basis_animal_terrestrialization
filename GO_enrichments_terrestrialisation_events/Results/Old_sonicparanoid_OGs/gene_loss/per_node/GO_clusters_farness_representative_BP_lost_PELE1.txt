@@ -1,0 +1,427 @@
+GO:0060043	3	GO:0035212	cell competition in a multicellular organism
+GO:1900246	6	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:0060038	1	GO:0035214	eye-antennal disc development
+GO:0048755	2	GO:0009887	animal organ morphogenesis
+GO:0051053	13	GO:0051053	negative regulation of DNA metabolic process
+GO:0043052	9	GO:0032101	regulation of response to external stimulus
+GO:0044406	10	GO:0044826	viral genome integration into host DNA
+GO:0048749	1	GO:0035214	eye-antennal disc development
+GO:0016525	3	GO:0035212	cell competition in a multicellular organism
+GO:0010951	13	GO:0051053	negative regulation of DNA metabolic process
+GO:0010954	13	GO:0051053	negative regulation of DNA metabolic process
+GO:0120039	5	GO:0048812	neuron projection morphogenesis
+GO:0048708	2	GO:0009887	animal organ morphogenesis
+GO:0010923	14	GO:0010942	positive regulation of cell death
+GO:0010927	5	GO:0048812	neuron projection morphogenesis
+GO:0072163	1	GO:0035214	eye-antennal disc development
+GO:0072164	1	GO:0035214	eye-antennal disc development
+GO:0010942	14	GO:0010942	positive regulation of cell death
+GO:0003012	11	GO:0097009	energy homeostasis
+GO:0048863	3	GO:0035212	cell competition in a multicellular organism
+GO:0039702	10	GO:0044826	viral genome integration into host DNA
+GO:0048858	5	GO:0048812	neuron projection morphogenesis
+GO:0048821	3	GO:0035212	cell competition in a multicellular organism
+GO:0007379	1	GO:0035214	eye-antennal disc development
+GO:0003009	11	GO:0097009	energy homeostasis
+GO:0035122	1	GO:0035214	eye-antennal disc development
+GO:0048812	5	GO:0048812	neuron projection morphogenesis
+GO:0007317	3	GO:0035212	cell competition in a multicellular organism
+GO:0048844	1	GO:0035214	eye-antennal disc development
+GO:0048596	1	GO:0035214	eye-antennal disc development
+GO:0007492	1	GO:0035214	eye-antennal disc development
+GO:0032897	10	GO:0044826	viral genome integration into host DNA
+GO:0048569	2	GO:0009887	animal organ morphogenesis
+GO:0035265	1	GO:0035214	eye-antennal disc development
+GO:0007469	1	GO:0035214	eye-antennal disc development
+GO:0001959	6	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:0035277	2	GO:0009887	animal organ morphogenesis
+GO:0007477	2	GO:0009887	animal organ morphogenesis
+GO:0048521	12	GO:0051241	negative regulation of multicellular organismal process
+GO:0048525	10	GO:0044826	viral genome integration into host DNA
+GO:0007423	2	GO:0009887	animal organ morphogenesis
+GO:0007411	5	GO:0048812	neuron projection morphogenesis
+GO:0035212	3	GO:0035212	cell competition in a multicellular organism
+GO:0050982	9	GO:0032101	regulation of response to external stimulus
+GO:0035214	1	GO:0035214	eye-antennal disc development
+GO:0035218	1	GO:0035214	eye-antennal disc development
+GO:0044790	10	GO:0044826	viral genome integration into host DNA
+GO:0060393	14	GO:0010942	positive regulation of cell death
+GO:0032825	3	GO:0035212	cell competition in a multicellular organism
+GO:0060395	7	GO:0007166	cell surface receptor signaling pathway
+GO:0007448	1	GO:0035214	eye-antennal disc development
+GO:0048536	2	GO:0009887	animal organ morphogenesis
+GO:0048538	1	GO:0035214	eye-antennal disc development
+GO:0035235	7	GO:0007166	cell surface receptor signaling pathway
+GO:0050911	8	GO:1901700	response to oxygen-containing compound
+GO:0050912	8	GO:1901700	response to oxygen-containing compound
+GO:0001937	14	GO:0010942	positive regulation of cell death
+GO:0070986	1	GO:0035214	eye-antennal disc development
+GO:0039576	13	GO:0051053	negative regulation of DNA metabolic process
+GO:0007409	5	GO:0048812	neuron projection morphogenesis
+GO:0048690	4	GO:0048690	regulation of axon extension involved in regeneration
+GO:0060378	11	GO:0097009	energy homeostasis
+GO:0048691	4	GO:0048690	regulation of axon extension involved in regeneration
+GO:0007193	7	GO:0007166	cell surface receptor signaling pathway
+GO:0050907	8	GO:1901700	response to oxygen-containing compound
+GO:0039531	6	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:0039535	6	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:0038092	7	GO:0007166	cell surface receptor signaling pathway
+GO:0060317	1	GO:0035214	eye-antennal disc development
+GO:0060348	2	GO:0009887	animal organ morphogenesis
+GO:0060349	2	GO:0009887	animal organ morphogenesis
+GO:0048667	5	GO:0048812	neuron projection morphogenesis
+GO:0007166	7	GO:0007166	cell surface receptor signaling pathway
+GO:0039502	9	GO:0032101	regulation of response to external stimulus
+GO:0007155	16	GO:0097435	supramolecular fiber organization
+GO:0038066	6	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:0048680	4	GO:0048690	regulation of axon extension involved in regeneration
+GO:0048682	4	GO:0048690	regulation of axon extension involved in regeneration
+GO:0048686	4	GO:0048690	regulation of axon extension involved in regeneration
+GO:0048687	4	GO:0048690	regulation of axon extension involved in regeneration
+GO:0007186	7	GO:0007166	cell surface receptor signaling pathway
+GO:0007187	7	GO:0007166	cell surface receptor signaling pathway
+GO:0048675	5	GO:0048812	neuron projection morphogenesis
+GO:0048677	4	GO:0048690	regulation of axon extension involved in regeneration
+GO:0048678	9	GO:0032101	regulation of response to external stimulus
+GO:0007179	6	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:0039695	10	GO:0044826	viral genome integration into host DNA
+GO:0035728	8	GO:1901700	response to oxygen-containing compound
+GO:0071360	8	GO:1901700	response to oxygen-containing compound
+GO:0043326	8	GO:1901700	response to oxygen-containing compound
+GO:0048646	2	GO:0009887	animal organ morphogenesis
+GO:0071359	8	GO:1901700	response to oxygen-containing compound
+GO:0038034	7	GO:0007166	cell surface receptor signaling pathway
+GO:0039686	10	GO:0044826	viral genome integration into host DNA
+GO:0039671	10	GO:0044826	viral genome integration into host DNA
+GO:0039673	10	GO:0044826	viral genome integration into host DNA
+GO:0060456	12	GO:0051241	negative regulation of multicellular organismal process
+GO:0008625	7	GO:0007166	cell surface receptor signaling pathway
+GO:0039645	14	GO:0010942	positive regulation of cell death
+GO:0039646	14	GO:0010942	positive regulation of cell death
+GO:0044826	10	GO:0044826	viral genome integration into host DNA
+GO:0031122	16	GO:0097435	supramolecular fiber organization
+GO:0060412	1	GO:0035214	eye-antennal disc development
+GO:0060443	2	GO:0009887	animal organ morphogenesis
+GO:0000122	13	GO:0051053	negative regulation of DNA metabolic process
+GO:0051482	6	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:0035872	7	GO:0007166	cell surface receptor signaling pathway
+GO:0031100	2	GO:0009887	animal organ morphogenesis
+GO:0032689	12	GO:0051241	negative regulation of multicellular organismal process
+GO:0007210	6	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:0007212	6	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:0007215	7	GO:0007166	cell surface receptor signaling pathway
+GO:0007218	7	GO:0007166	cell surface receptor signaling pathway
+GO:0043410	6	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:0007219	7	GO:0007166	cell surface receptor signaling pathway
+GO:0031290	5	GO:0048812	neuron projection morphogenesis
+GO:0042067	1	GO:0035214	eye-antennal disc development
+GO:0032649	12	GO:0051241	negative regulation of multicellular organismal process
+GO:1901076	14	GO:0010942	positive regulation of cell death
+GO:0007200	7	GO:0007166	cell surface receptor signaling pathway
+GO:0031268	16	GO:0097435	supramolecular fiber organization
+GO:0031269	16	GO:0097435	supramolecular fiber organization
+GO:1903524	12	GO:0051241	negative regulation of multicellular organismal process
+GO:0042078	3	GO:0035212	cell competition in a multicellular organism
+GO:1901046	12	GO:0051241	negative regulation of multicellular organismal process
+GO:1901048	6	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:0032609	11	GO:0097009	energy homeostasis
+GO:0031272	14	GO:0010942	positive regulation of cell death
+GO:0031274	14	GO:0010942	positive regulation of cell death
+GO:0060122	5	GO:0048812	neuron projection morphogenesis
+GO:0052547	13	GO:0051053	negative regulation of DNA metabolic process
+GO:0075713	10	GO:0044826	viral genome integration into host DNA
+GO:0003431	1	GO:0035214	eye-antennal disc development
+GO:0106016	9	GO:0032101	regulation of response to external stimulus
+GO:1903507	13	GO:0051053	negative regulation of DNA metabolic process
+GO:0075732	10	GO:0044826	viral genome integration into host DNA
+GO:0035589	7	GO:0007166	cell surface receptor signaling pathway
+GO:0060100	14	GO:0010942	positive regulation of cell death
+GO:0002089	1	GO:0035214	eye-antennal disc development
+GO:0043123	6	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:0043129	11	GO:0097009	energy homeostasis
+GO:0003197	1	GO:0035214	eye-antennal disc development
+GO:0006357	13	GO:0051053	negative regulation of DNA metabolic process
+GO:0060268	12	GO:0051241	negative regulation of multicellular organismal process
+GO:0044650	10	GO:0044826	viral genome integration into host DNA
+GO:0060259	12	GO:0051241	negative regulation of multicellular organismal process
+GO:0003156	2	GO:0009887	animal organ morphogenesis
+GO:0014002	3	GO:0035212	cell competition in a multicellular organism
+GO:0043282	1	GO:0035214	eye-antennal disc development
+GO:0000706	13	GO:0051053	negative regulation of DNA metabolic process
+GO:0051240	12	GO:0051241	negative regulation of multicellular organismal process
+GO:0051241	12	GO:0051241	negative regulation of multicellular organismal process
+GO:0071286	8	GO:1901700	response to oxygen-containing compound
+GO:0071287	8	GO:1901700	response to oxygen-containing compound
+GO:0060759	6	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:0007597	9	GO:0032101	regulation of response to external stimulus
+GO:0060711	1	GO:0035214	eye-antennal disc development
+GO:0032990	5	GO:0048812	neuron projection morphogenesis
+GO:0007586	11	GO:0097009	energy homeostasis
+GO:0007525	1	GO:0035214	eye-antennal disc development
+GO:0007526	1	GO:0035214	eye-antennal disc development
+GO:0032989	5	GO:0048812	neuron projection morphogenesis
+GO:0042391	11	GO:0097009	energy homeostasis
+GO:0007517	2	GO:0009887	animal organ morphogenesis
+GO:0007534	13	GO:0051053	negative regulation of DNA metabolic process
+GO:0071772	8	GO:1901700	response to oxygen-containing compound
+GO:0071773	8	GO:1901700	response to oxygen-containing compound
+GO:0017015	6	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:0007501	3	GO:0035212	cell competition in a multicellular organism
+GO:0031579	16	GO:0097435	supramolecular fiber organization
+GO:0031532	16	GO:0097435	supramolecular fiber organization
+GO:0038166	6	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:0002370	9	GO:0032101	regulation of response to external stimulus
+GO:1903998	12	GO:0051241	negative regulation of multicellular organismal process
+GO:0071867	8	GO:1901700	response to oxygen-containing compound
+GO:0071868	8	GO:1901700	response to oxygen-containing compound
+GO:0071869	8	GO:1901700	response to oxygen-containing compound
+GO:0007631	11	GO:0097009	energy homeostasis
+GO:0071870	8	GO:1901700	response to oxygen-containing compound
+GO:0034392	14	GO:0010942	positive regulation of cell death
+GO:0022416	2	GO:0009887	animal organ morphogenesis
+GO:0060563	3	GO:0035212	cell competition in a multicellular organism
+GO:0031663	6	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:0031664	6	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:0031666	6	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:0007608	11	GO:0097009	energy homeostasis
+GO:0009414	8	GO:1901700	response to oxygen-containing compound
+GO:0009415	8	GO:1901700	response to oxygen-containing compound
+GO:0006278	13	GO:0051053	negative regulation of DNA metabolic process
+GO:0042472	1	GO:0035214	eye-antennal disc development
+GO:0030036	16	GO:0097435	supramolecular fiber organization
+GO:0042476	2	GO:0009887	animal organ morphogenesis
+GO:0051593	8	GO:1901700	response to oxygen-containing compound
+GO:1905770	3	GO:0035212	cell competition in a multicellular organism
+GO:0046755	10	GO:0044826	viral genome integration into host DNA
+GO:0031648	11	GO:0097009	energy homeostasis
+GO:0097009	11	GO:0097009	energy homeostasis
+GO:0046782	10	GO:0044826	viral genome integration into host DNA
+GO:0031638	13	GO:0051053	negative regulation of DNA metabolic process
+GO:0031639	13	GO:0051053	negative regulation of DNA metabolic process
+GO:1903901	10	GO:0044826	viral genome integration into host DNA
+GO:0043550	14	GO:0010942	positive regulation of cell death
+GO:0043551	14	GO:0010942	positive regulation of cell death
+GO:0002456	9	GO:0032101	regulation of response to external stimulus
+GO:0043589	2	GO:0009887	animal organ morphogenesis
+GO:0046718	10	GO:0044826	viral genome integration into host DNA
+GO:0035914	3	GO:0035212	cell competition in a multicellular organism
+GO:0090022	14	GO:0010942	positive regulation of cell death
+GO:2000055	6	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:0071588	7	GO:0007166	cell surface receptor signaling pathway
+GO:0070098	6	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:0140546	9	GO:0032101	regulation of response to external stimulus
+GO:0070050	14	GO:0010942	positive regulation of cell death
+GO:0002164	2	GO:0009887	animal organ morphogenesis
+GO:0043652	16	GO:0097435	supramolecular fiber organization
+GO:1902679	13	GO:0051053	negative regulation of DNA metabolic process
+GO:0060603	1	GO:0035214	eye-antennal disc development
+GO:0033058	11	GO:0097009	energy homeostasis
+GO:0043622	16	GO:0097435	supramolecular fiber organization
+GO:0034405	9	GO:0032101	regulation of response to external stimulus
+GO:0002119	1	GO:0035214	eye-antennal disc development
+GO:0110077	16	GO:0097435	supramolecular fiber organization
+GO:0045450	3	GO:0035212	cell competition in a multicellular organism
+GO:0061057	7	GO:0007166	cell surface receptor signaling pathway
+GO:0033033	14	GO:0010942	positive regulation of cell death
+GO:0051606	8	GO:1901700	response to oxygen-containing compound
+GO:0051607	9	GO:0032101	regulation of response to external stimulus
+GO:0046597	10	GO:0044826	viral genome integration into host DNA
+GO:0061041	9	GO:0032101	regulation of response to external stimulus
+GO:0033005	14	GO:0010942	positive regulation of cell death
+GO:0045434	11	GO:0097009	energy homeostasis
+GO:0034113	16	GO:0097435	supramolecular fiber organization
+GO:0098722	16	GO:0097435	supramolecular fiber organization
+GO:0010375	1	GO:0035214	eye-antennal disc development
+GO:0098728	3	GO:0035212	cell competition in a multicellular organism
+GO:0002228	9	GO:0032101	regulation of response to external stimulus
+GO:0030325	2	GO:0009887	animal organ morphogenesis
+GO:0045187	12	GO:0051241	negative regulation of multicellular organismal process
+GO:0030335	14	GO:0010942	positive regulation of cell death
+GO:0030336	14	GO:0010942	positive regulation of cell death
+GO:0002209	9	GO:0032101	regulation of response to external stimulus
+GO:0009743	8	GO:1901700	response to oxygen-containing compound
+GO:0046697	1	GO:0035214	eye-antennal disc development
+GO:0010497	16	GO:0097435	supramolecular fiber organization
+GO:0045138	1	GO:0035214	eye-antennal disc development
+GO:0042742	9	GO:0032101	regulation of response to external stimulus
+GO:0046661	2	GO:0009887	animal organ morphogenesis
+GO:0046662	12	GO:0051241	negative regulation of multicellular organismal process
+GO:0098868	1	GO:0035214	eye-antennal disc development
+GO:0042730	9	GO:0032101	regulation of response to external stimulus
+GO:0010466	13	GO:0051053	negative regulation of DNA metabolic process
+GO:1901700	8	GO:1901700	response to oxygen-containing compound
+GO:1901890	14	GO:0010942	positive regulation of cell death
+GO:0030466	13	GO:0051053	negative regulation of DNA metabolic process
+GO:0002727	9	GO:0032101	regulation of response to external stimulus
+GO:0000902	2	GO:0009887	animal organ morphogenesis
+GO:0000904	5	GO:0048812	neuron projection morphogenesis
+GO:1990834	8	GO:1901700	response to oxygen-containing compound
+GO:0030474	16	GO:0097435	supramolecular fiber organization
+GO:0009880	1	GO:0035214	eye-antennal disc development
+GO:0009887	2	GO:0009887	animal organ morphogenesis
+GO:0097485	5	GO:0048812	neuron projection morphogenesis
+GO:0046601	14	GO:0010942	positive regulation of cell death
+GO:0062208	6	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:1990806	7	GO:0007166	cell surface receptor signaling pathway
+GO:0034765	14	GO:0010942	positive regulation of cell death
+GO:0030431	11	GO:0097009	energy homeostasis
+GO:0002701	13	GO:0051053	negative regulation of DNA metabolic process
+GO:0030435	3	GO:0035212	cell competition in a multicellular organism
+GO:0090305	13	GO:0051053	negative regulation of DNA metabolic process
+GO:0097435	16	GO:0097435	supramolecular fiber organization
+GO:0051965	3	GO:0035212	cell competition in a multicellular organism
+GO:0030195	9	GO:0032101	regulation of response to external stimulus
+GO:0030198	16	GO:0097435	supramolecular fiber organization
+GO:0070374	6	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:0009597	9	GO:0032101	regulation of response to external stimulus
+GO:0097191	7	GO:0007166	cell surface receptor signaling pathway
+GO:0097192	7	GO:0007166	cell surface receptor signaling pathway
+GO:0045793	16	GO:0097435	supramolecular fiber organization
+GO:0097194	16	GO:0097435	supramolecular fiber organization
+GO:0098542	9	GO:0032101	regulation of response to external stimulus
+GO:0042593	11	GO:0097009	energy homeostasis
+GO:0042595	9	GO:0032101	regulation of response to external stimulus
+GO:0051918	9	GO:0032101	regulation of response to external stimulus
+GO:0009566	11	GO:0097009	energy homeostasis
+GO:0009581	9	GO:0032101	regulation of response to external stimulus
+GO:0009582	8	GO:1901700	response to oxygen-containing compound
+GO:0002831	9	GO:0032101	regulation of response to external stimulus
+GO:0045773	4	GO:0048690	regulation of axon extension involved in regeneration
+GO:0019062	10	GO:0044826	viral genome integration into host DNA
+GO:0002803	9	GO:0032101	regulation of response to external stimulus
+GO:0002807	13	GO:0051053	negative regulation of DNA metabolic process
+GO:0019083	10	GO:0044826	viral genome integration into host DNA
+GO:0045747	6	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:0030101	16	GO:0097435	supramolecular fiber organization
+GO:0098664	6	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:0098670	10	GO:0044826	viral genome integration into host DNA
+GO:0070423	6	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:0070424	6	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:1900073	14	GO:0010942	positive regulation of cell death
+GO:1900074	14	GO:0010942	positive regulation of cell death
+GO:1900016	12	GO:0051241	negative regulation of multicellular organismal process
+GO:0008045	5	GO:0048812	neuron projection morphogenesis
+GO:0009653	2	GO:0009887	animal organ morphogenesis
+GO:0032094	8	GO:1901700	response to oxygen-containing compound
+GO:0042661	3	GO:0035212	cell competition in a multicellular organism
+GO:0098609	16	GO:0097435	supramolecular fiber organization
+GO:0042659	3	GO:0035212	cell competition in a multicellular organism
+GO:0045823	12	GO:0051241	negative regulation of multicellular organismal process
+GO:0061428	13	GO:0051053	negative regulation of DNA metabolic process
+GO:0009612	9	GO:0032101	regulation of response to external stimulus
+GO:0009617	9	GO:0032101	regulation of response to external stimulus
+GO:0090100	6	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:0090101	6	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:0001172	13	GO:0051053	negative regulation of DNA metabolic process
+GO:0022600	11	GO:0097009	energy homeostasis
+GO:2000107	14	GO:0010942	positive regulation of cell death
+GO:0010760	14	GO:0010942	positive regulation of cell death
+GO:0010764	14	GO:0010942	positive regulation of cell death
+GO:0016318	1	GO:0035214	eye-antennal disc development
+GO:1905941	3	GO:0035212	cell competition in a multicellular organism
+GO:0070121	2	GO:0009887	animal organ morphogenesis
+GO:0090288	6	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:0036345	3	GO:0035212	cell competition in a multicellular organism
+GO:0006963	13	GO:0051053	negative regulation of DNA metabolic process
+GO:0045580	3	GO:0035212	cell competition in a multicellular organism
+GO:0002638	13	GO:0051053	negative regulation of DNA metabolic process
+GO:0006956	9	GO:0032101	regulation of response to external stimulus
+GO:1904480	12	GO:0051241	negative regulation of multicellular organismal process
+GO:0006959	9	GO:0032101	regulation of response to external stimulus
+GO:0018991	11	GO:0097009	energy homeostasis
+GO:0018996	11	GO:0097009	energy homeostasis
+GO:1904478	12	GO:0051241	negative regulation of multicellular organismal process
+GO:2000243	12	GO:0051241	negative regulation of multicellular organismal process
+GO:0090200	14	GO:0010942	positive regulation of cell death
+GO:0097746	11	GO:0097009	energy homeostasis
+GO:0010898	13	GO:0051053	negative regulation of DNA metabolic process
+GO:0006935	8	GO:1901700	response to oxygen-containing compound
+GO:0006937	12	GO:0051241	negative regulation of multicellular organismal process
+GO:0010862	6	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:0044089	14	GO:0010942	positive regulation of cell death
+GO:0070229	14	GO:0010942	positive regulation of cell death
+GO:0010825	14	GO:0010942	positive regulation of cell death
+GO:0035094	8	GO:1901700	response to oxygen-containing compound
+GO:0035095	8	GO:1901700	response to oxygen-containing compound
+GO:0030857	3	GO:0035212	cell competition in a multicellular organism
+GO:0015074	13	GO:0051053	negative regulation of DNA metabolic process
+GO:0030887	14	GO:0010942	positive regulation of cell death
+GO:2000786	14	GO:0010942	positive regulation of cell death
+GO:0048368	1	GO:0035214	eye-antennal disc development
+GO:0050795	12	GO:0051241	negative regulation of multicellular organismal process
+GO:0045683	3	GO:0035212	cell competition in a multicellular organism
+GO:0045684	3	GO:0035212	cell competition in a multicellular organism
+GO:0035051	2	GO:0009887	animal organ morphogenesis
+GO:0001763	2	GO:0009887	animal organ morphogenesis
+GO:0001766	16	GO:0097435	supramolecular fiber organization
+GO:0035071	3	GO:0035212	cell competition in a multicellular organism
+GO:0045616	3	GO:0035212	cell competition in a multicellular organism
+GO:0045618	3	GO:0035212	cell competition in a multicellular organism
+GO:0033209	6	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:0010596	14	GO:0010942	positive regulation of cell death
+GO:0050778	9	GO:0032101	regulation of response to external stimulus
+GO:0001748	2	GO:0009887	animal organ morphogenesis
+GO:0050728	9	GO:0032101	regulation of response to external stimulus
+GO:0050729	9	GO:0032101	regulation of response to external stimulus
+GO:0045604	3	GO:0035212	cell competition in a multicellular organism
+GO:0045605	3	GO:0035212	cell competition in a multicellular organism
+GO:0045606	3	GO:0035212	cell competition in a multicellular organism
+GO:0001708	3	GO:0035212	cell competition in a multicellular organism
+GO:0010525	14	GO:0010942	positive regulation of cell death
+GO:0010526	14	GO:0010942	positive regulation of cell death
+GO:0010529	14	GO:0010942	positive regulation of cell death
+GO:0001892	1	GO:0035214	eye-antennal disc development
+GO:0061760	9	GO:0032101	regulation of response to external stimulus
+GO:0008345	11	GO:0097009	energy homeostasis
+GO:0030511	6	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:0030512	6	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:0030516	4	GO:0048690	regulation of axon extension involved in regeneration
+GO:0021551	2	GO:0009887	animal organ morphogenesis
+GO:0009949	1	GO:0035214	eye-antennal disc development
+GO:0021556	2	GO:0009887	animal organ morphogenesis
+GO:0001823	1	GO:0035214	eye-antennal disc development
+GO:0030509	6	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:0001844	14	GO:0010942	positive regulation of cell death
+GO:0001845	16	GO:0097435	supramolecular fiber organization
+GO:0090598	2	GO:0009887	animal organ morphogenesis
+GO:0021545	2	GO:0009887	animal organ morphogenesis
+GO:0090559	11	GO:0097009	energy homeostasis
+GO:0048190	1	GO:0035214	eye-antennal disc development
+GO:0070848	8	GO:1901700	response to oxygen-containing compound
+GO:0048168	14	GO:0010942	positive regulation of cell death
+GO:0008407	2	GO:0009887	animal organ morphogenesis
+GO:0001580	8	GO:1901700	response to oxygen-containing compound
+GO:0001570	2	GO:0009887	animal organ morphogenesis
+GO:0090502	13	GO:0051053	negative regulation of DNA metabolic process
+GO:0007015	16	GO:0097435	supramolecular fiber organization
+GO:1904747	3	GO:0035212	cell competition in a multicellular organism
+GO:0048148	8	GO:1901700	response to oxygen-containing compound
+GO:0048133	3	GO:0035212	cell competition in a multicellular organism
+GO:0040024	1	GO:0035214	eye-antennal disc development
+GO:0040012	12	GO:0051241	negative regulation of multicellular organismal process
+GO:0040013	12	GO:0051241	negative regulation of multicellular organismal process
+GO:1903350	8	GO:1901700	response to oxygen-containing compound
+GO:1903351	8	GO:1901700	response to oxygen-containing compound
+GO:1903354	14	GO:0010942	positive regulation of cell death
+GO:1903356	14	GO:0010942	positive regulation of cell death
+GO:0040034	12	GO:0051241	negative regulation of multicellular organismal process
+GO:0033563	5	GO:0048812	neuron projection morphogenesis
+GO:0031055	16	GO:0097435	supramolecular fiber organization
+GO:0001501	2	GO:0009887	animal organ morphogenesis
+GO:0021602	2	GO:0009887	animal organ morphogenesis
+GO:1900118	14	GO:0010942	positive regulation of cell death
+GO:0061564	5	GO:0048812	neuron projection morphogenesis
+GO:0032197	16	GO:0097435	supramolecular fiber organization
+GO:0045955	14	GO:0010942	positive regulation of cell death
+GO:0001657	1	GO:0035214	eye-antennal disc development
+GO:0001658	1	GO:0035214	eye-antennal disc development
+GO:0045916	9	GO:0032101	regulation of response to external stimulus
+GO:2000648	14	GO:0010942	positive regulation of cell death
+GO:0001675	3	GO:0035212	cell competition in a multicellular organism
+GO:0033500	11	GO:0097009	energy homeostasis
+GO:0045944	13	GO:0051053	negative regulation of DNA metabolic process
+GO:0045933	12	GO:0051241	negative regulation of multicellular organismal process
+GO:0008258	1	GO:0035214	eye-antennal disc development
+GO:0060088	5	GO:0048812	neuron projection morphogenesis
+GO:0032101	9	GO:0032101	regulation of response to external stimulus
+GO:0060074	2	GO:0009887	animal organ morphogenesis

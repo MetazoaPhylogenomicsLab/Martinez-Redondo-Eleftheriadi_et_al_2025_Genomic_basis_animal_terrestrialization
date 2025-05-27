@@ -1,0 +1,141 @@
+GO:0050789	7	GO:0051985	negative regulation of chromosome segregation
+GO:0007533	3	GO:0055006	cardiac cell development
+GO:0060255	1	GO:0019219	regulation of nucleobase-containing compound metabolic process
+GO:0003382	3	GO:0055006	cardiac cell development
+GO:0051447	7	GO:0051985	negative regulation of chromosome segregation
+GO:0032006	7	GO:0051985	negative regulation of chromosome segregation
+GO:0060236	7	GO:0051985	negative regulation of chromosome segregation
+GO:0031031	7	GO:0051985	negative regulation of chromosome segregation
+GO:0048769	2	GO:0007043	cell-cell junction assembly
+GO:0044000	4	GO:0052562	suppression by symbiont of host immune response
+GO:0044001	4	GO:0052562	suppression by symbiont of host immune response
+GO:0071600	3	GO:0055006	cardiac cell development
+GO:0051985	7	GO:0051985	negative regulation of chromosome segregation
+GO:0051973	1	GO:0019219	regulation of nucleobase-containing compound metabolic process
+GO:0043045	1	GO:0019219	regulation of nucleobase-containing compound metabolic process
+GO:0050881	5	GO:0050879	multicellular organismal movement
+GO:0010216	1	GO:0019219	regulation of nucleobase-containing compound metabolic process
+GO:0000266	2	GO:0007043	cell-cell junction assembly
+GO:0048738	3	GO:0055006	cardiac cell development
+GO:0050879	5	GO:0050879	multicellular organismal movement
+GO:1904666	5	GO:0050879	multicellular organismal movement
+GO:1904667	1	GO:0019219	regulation of nucleobase-containing compound metabolic process
+GO:0046209	1	GO:0019219	regulation of nucleobase-containing compound metabolic process
+GO:1905758	7	GO:0051985	negative regulation of chromosome segregation
+GO:0072318	6	GO:0140353	lipid export from cell
+GO:0072319	6	GO:0140353	lipid export from cell
+GO:0030435	3	GO:0055006	cardiac cell development
+GO:0032675	5	GO:0050879	multicellular organismal movement
+GO:0046740	4	GO:0052562	suppression by symbiont of host immune response
+GO:0008345	5	GO:0050879	multicellular organismal movement
+GO:0070201	6	GO:0140353	lipid export from cell
+GO:0046739	4	GO:0052562	suppression by symbiont of host immune response
+GO:0032635	5	GO:0050879	multicellular organismal movement
+GO:0051223	6	GO:0140353	lipid export from cell
+GO:0030916	3	GO:0055006	cardiac cell development
+GO:0007317	7	GO:0051985	negative regulation of chromosome segregation
+GO:0090257	5	GO:0050879	multicellular organismal movement
+GO:0031648	5	GO:0050879	multicellular organismal movement
+GO:1904355	1	GO:0019219	regulation of nucleobase-containing compound metabolic process
+GO:0000735	1	GO:0019219	regulation of nucleobase-containing compound metabolic process
+GO:0000736	1	GO:0019219	regulation of nucleobase-containing compound metabolic process
+GO:0090224	7	GO:0051985	negative regulation of chromosome segregation
+GO:1905819	7	GO:0051985	negative regulation of chromosome segregation
+GO:0033313	7	GO:0051985	negative regulation of chromosome segregation
+GO:0002164	3	GO:0055006	cardiac cell development
+GO:0002168	3	GO:0055006	cardiac cell development
+GO:2000055	7	GO:0051985	negative regulation of chromosome segregation
+GO:0050691	4	GO:0052562	suppression by symbiont of host immune response
+GO:2001141	1	GO:0019219	regulation of nucleobase-containing compound metabolic process
+GO:0045860	1	GO:0019219	regulation of nucleobase-containing compound metabolic process
+GO:0010825	7	GO:0051985	negative regulation of chromosome segregation
+GO:0002119	3	GO:0055006	cardiac cell development
+GO:0045091	4	GO:0052562	suppression by symbiont of host immune response
+GO:0035510	1	GO:0019219	regulation of nucleobase-containing compound metabolic process
+GO:0018198	1	GO:0019219	regulation of nucleobase-containing compound metabolic process
+GO:0032310	6	GO:0140353	lipid export from cell
+GO:0051783	7	GO:0051985	negative regulation of chromosome segregation
+GO:1903319	1	GO:0019219	regulation of nucleobase-containing compound metabolic process
+GO:0001945	3	GO:0055006	cardiac cell development
+GO:0045071	4	GO:0052562	suppression by symbiont of host immune response
+GO:0000819	7	GO:0051985	negative regulation of chromosome segregation
+GO:0032309	6	GO:0140353	lipid export from cell
+GO:0018119	1	GO:0019219	regulation of nucleobase-containing compound metabolic process
+GO:0051701	4	GO:0052562	suppression by symbiont of host immune response
+GO:0070830	2	GO:0007043	cell-cell junction assembly
+GO:0032467	7	GO:0051985	negative regulation of chromosome segregation
+GO:1901381	6	GO:0140353	lipid export from cell
+GO:0045002	1	GO:0019219	regulation of nucleobase-containing compound metabolic process
+GO:0120192	2	GO:0007043	cell-cell junction assembly
+GO:0120193	2	GO:0007043	cell-cell junction assembly
+GO:0016191	6	GO:0140353	lipid export from cell
+GO:0002230	4	GO:0052562	suppression by symbiont of host immune response
+GO:0014706	3	GO:0055006	cardiac cell development
+GO:0051053	1	GO:0019219	regulation of nucleobase-containing compound metabolic process
+GO:2000653	1	GO:0019219	regulation of nucleobase-containing compound metabolic process
+GO:0140353	6	GO:0140353	lipid export from cell
+GO:0052562	4	GO:0052562	suppression by symbiont of host immune response
+GO:0006941	5	GO:0050879	multicellular organismal movement
+GO:0039554	4	GO:0052562	suppression by symbiont of host immune response
+GO:0006949	3	GO:0055006	cardiac cell development
+GO:0031445	1	GO:0019219	regulation of nucleobase-containing compound metabolic process
+GO:0006937	5	GO:0050879	multicellular organismal movement
+GO:0010688	1	GO:0019219	regulation of nucleobase-containing compound metabolic process
+GO:0039537	4	GO:0052562	suppression by symbiont of host immune response
+GO:0120261	7	GO:0051985	negative regulation of chromosome segregation
+GO:0046601	7	GO:0051985	negative regulation of chromosome segregation
+GO:0042471	3	GO:0055006	cardiac cell development
+GO:0042472	3	GO:0055006	cardiac cell development
+GO:0007218	7	GO:0051985	negative regulation of chromosome segregation
+GO:0075111	4	GO:0052562	suppression by symbiont of host immune response
+GO:0031122	2	GO:0007043	cell-cell junction assembly
+GO:0060341	7	GO:0051985	negative regulation of chromosome segregation
+GO:0071715	6	GO:0140353	lipid export from cell
+GO:2001057	1	GO:0019219	regulation of nucleobase-containing compound metabolic process
+GO:0043934	3	GO:0055006	cardiac cell development
+GO:0075109	4	GO:0052562	suppression by symbiont of host immune response
+GO:0043122	7	GO:0051985	negative regulation of chromosome segregation
+GO:0043123	7	GO:0051985	negative regulation of chromosome segregation
+GO:0034765	6	GO:0140353	lipid export from cell
+GO:1900073	7	GO:0051985	negative regulation of chromosome segregation
+GO:0051657	7	GO:0051985	negative regulation of chromosome segregation
+GO:0003009	5	GO:0050879	multicellular organismal movement
+GO:0032212	1	GO:0019219	regulation of nucleobase-containing compound metabolic process
+GO:0002027	5	GO:0050879	multicellular organismal movement
+GO:1900015	5	GO:0050879	multicellular organismal movement
+GO:0055013	3	GO:0055006	cardiac cell development
+GO:0043297	2	GO:0007043	cell-cell junction assembly
+GO:0009956	3	GO:0055006	cardiac cell development
+GO:0050905	5	GO:0050879	multicellular organismal movement
+GO:0055003	3	GO:0055006	cardiac cell development
+GO:0055006	3	GO:0055006	cardiac cell development
+GO:0055007	3	GO:0055006	cardiac cell development
+GO:0055008	3	GO:0055006	cardiac cell development
+GO:0030537	5	GO:0050879	multicellular organismal movement
+GO:0036158	2	GO:0007043	cell-cell junction assembly
+GO:0036159	2	GO:0007043	cell-cell junction assembly
+GO:2000480	1	GO:0019219	regulation of nucleobase-containing compound metabolic process
+GO:0010497	6	GO:0140353	lipid export from cell
+GO:0032757	5	GO:0050879	multicellular organismal movement
+GO:0010468	1	GO:0019219	regulation of nucleobase-containing compound metabolic process
+GO:0015732	6	GO:0140353	lipid export from cell
+GO:0071805	6	GO:0140353	lipid export from cell
+GO:0002532	5	GO:0050879	multicellular organismal movement
+GO:0002534	5	GO:0050879	multicellular organismal movement
+GO:0017014	1	GO:0019219	regulation of nucleobase-containing compound metabolic process
+GO:0045450	3	GO:0055006	cardiac cell development
+GO:0071599	3	GO:0055006	cardiac cell development
+GO:0044771	7	GO:0051985	negative regulation of chromosome segregation
+GO:0048133	3	GO:0055006	cardiac cell development
+GO:0071562	2	GO:0007043	cell-cell junction assembly
+GO:0007043	2	GO:0007043	cell-cell junction assembly
+GO:0019219	1	GO:0019219	regulation of nucleobase-containing compound metabolic process
+GO:0071514	1	GO:0019219	regulation of nucleobase-containing compound metabolic process
+GO:0016032	4	GO:0052562	suppression by symbiont of host immune response
+GO:0010954	1	GO:0019219	regulation of nucleobase-containing compound metabolic process
+GO:0045998	1	GO:0019219	regulation of nucleobase-containing compound metabolic process
+GO:0051307	7	GO:0051985	negative regulation of chromosome segregation
+GO:0071539	6	GO:0140353	lipid export from cell
+GO:0006809	1	GO:0019219	regulation of nucleobase-containing compound metabolic process
+GO:0042754	7	GO:0051985	negative regulation of chromosome segregation
+GO:0090309	1	GO:0019219	regulation of nucleobase-containing compound metabolic process

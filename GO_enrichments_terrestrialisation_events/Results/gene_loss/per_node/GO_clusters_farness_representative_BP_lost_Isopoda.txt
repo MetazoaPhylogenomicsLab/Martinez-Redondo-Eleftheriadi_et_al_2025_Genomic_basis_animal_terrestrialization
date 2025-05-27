@@ -1,0 +1,776 @@
+GO:0034090	5	GO:0051306	mitotic sister chromatid separation
+GO:0014075	8	GO:0051085	chaperone cofactor-dependent protein refolding
+GO:0000379	21	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0006691	20	GO:0015979	photosynthesis
+GO:0001963	8	GO:0051085	chaperone cofactor-dependent protein refolding
+GO:0034089	5	GO:0051306	mitotic sister chromatid separation
+GO:0044030	17	GO:0006357	regulation of transcription by RNA polymerase II
+GO:0045670	15	GO:0035212	cell competition in a multicellular organism
+GO:0035641	8	GO:0051085	chaperone cofactor-dependent protein refolding
+GO:0035633	9	GO:0007586	digestion
+GO:0044000	12	GO:0016032	viral process
+GO:0044001	12	GO:0016032	viral process
+GO:0030150	11	GO:0072337	modified amino acid transport
+GO:0051983	1	GO:0051983	regulation of chromosome segregation
+GO:0060319	15	GO:0035212	cell competition in a multicellular organism
+GO:0043052	7	GO:0045087	innate immune response
+GO:0051934	11	GO:0072337	modified amino acid transport
+GO:0033045	5	GO:0051306	mitotic sister chromatid separation
+GO:0019730	7	GO:0045087	innate immune response
+GO:0010224	8	GO:0051085	chaperone cofactor-dependent protein refolding
+GO:0016999	20	GO:0015979	photosynthesis
+GO:0075528	7	GO:0045087	innate immune response
+GO:1903977	15	GO:0035212	cell competition in a multicellular organism
+GO:0039722	7	GO:0045087	innate immune response
+GO:0039723	7	GO:0045087	innate immune response
+GO:0039724	7	GO:0045087	innate immune response
+GO:0000122	17	GO:0006357	regulation of transcription by RNA polymerase II
+GO:0070481	21	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0039702	12	GO:0016032	viral process
+GO:0016925	22	GO:0020027	hemoglobin metabolic process
+GO:1903909	1	GO:0051983	regulation of chromosome segregation
+GO:0070197	5	GO:0051306	mitotic sister chromatid separation
+GO:0019800	22	GO:0020027	hemoglobin metabolic process
+GO:0060153	12	GO:0016032	viral process
+GO:0046949	19	GO:0046314	phosphocreatine biosynthetic process
+GO:0060180	13	GO:0007284	spermatogonial cell division
+GO:0030727	13	GO:0007284	spermatogonial cell division
+GO:0030718	9	GO:0007586	digestion
+GO:1905818	5	GO:0051306	mitotic sister chromatid separation
+GO:0039592	12	GO:0016032	viral process
+GO:1905802	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:1905803	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0015908	11	GO:0072337	modified amino acid transport
+GO:0039557	17	GO:0006357	regulation of transcription by RNA polymerase II
+GO:0045924	13	GO:0007284	spermatogonial cell division
+GO:0060252	15	GO:0035212	cell competition in a multicellular organism
+GO:0039529	7	GO:0045087	innate immune response
+GO:0060285	6	GO:0060326	cell chemotaxis
+GO:0039540	7	GO:0045087	innate immune response
+GO:0000722	21	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0019695	20	GO:0015979	photosynthesis
+GO:0060215	14	GO:0035270	endocrine system development
+GO:0039502	7	GO:0045087	innate immune response
+GO:0038084	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0039693	12	GO:0016032	viral process
+GO:0009556	13	GO:0007284	spermatogonial cell division
+GO:0039663	12	GO:0016032	viral process
+GO:1904069	19	GO:0046314	phosphocreatine biosynthetic process
+GO:0030593	6	GO:0060326	cell chemotaxis
+GO:1904070	19	GO:0046314	phosphocreatine biosynthetic process
+GO:0050729	7	GO:0045087	innate immune response
+GO:0038007	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0039644	17	GO:0006357	regulation of transcription by RNA polymerase II
+GO:0039645	12	GO:0016032	viral process
+GO:0042391	1	GO:0051983	regulation of chromosome segregation
+GO:0061060	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:1903078	1	GO:0051983	regulation of chromosome segregation
+GO:0009646	8	GO:0051085	chaperone cofactor-dependent protein refolding
+GO:0007091	5	GO:0051306	mitotic sister chromatid separation
+GO:0007060	13	GO:0007284	spermatogonial cell division
+GO:1903006	19	GO:0046314	phosphocreatine biosynthetic process
+GO:0016032	12	GO:0016032	viral process
+GO:0090502	21	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:1902099	5	GO:0051306	mitotic sister chromatid separation
+GO:0033138	19	GO:0046314	phosphocreatine biosynthetic process
+GO:0044784	5	GO:0051306	mitotic sister chromatid separation
+GO:0032148	19	GO:0046314	phosphocreatine biosynthetic process
+GO:0050667	20	GO:0015979	photosynthesis
+GO:0043248	4	GO:0033623	regulation of integrin activation
+GO:1900746	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0045040	11	GO:0072337	modified amino acid transport
+GO:0051382	4	GO:0033623	regulation of integrin activation
+GO:0051383	4	GO:0033623	regulation of integrin activation
+GO:0061382	15	GO:0035212	cell competition in a multicellular organism
+GO:0071360	8	GO:0051085	chaperone cofactor-dependent protein refolding
+GO:0031145	22	GO:0020027	hemoglobin metabolic process
+GO:0051304	3	GO:0071554	cell wall organization or biogenesis
+GO:0051306	5	GO:0051306	mitotic sister chromatid separation
+GO:0010923	19	GO:0046314	phosphocreatine biosynthetic process
+GO:0010918	8	GO:0051085	chaperone cofactor-dependent protein refolding
+GO:0032755	16	GO:0032755	positive regulation of interleukin-6 production
+GO:0001172	21	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0030901	14	GO:0035270	endocrine system development
+GO:0071418	8	GO:0051085	chaperone cofactor-dependent protein refolding
+GO:0048132	13	GO:0007284	spermatogonial cell division
+GO:0002762	15	GO:0035212	cell competition in a multicellular organism
+GO:0106070	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0046495	21	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0051131	4	GO:0033623	regulation of integrin activation
+GO:0050955	9	GO:0007586	digestion
+GO:1900619	20	GO:0015979	photosynthesis
+GO:2000738	1	GO:0051983	regulation of chromosome segregation
+GO:0050911	9	GO:0007586	digestion
+GO:0050912	9	GO:0007586	digestion
+GO:0050913	9	GO:0007586	digestion
+GO:0008291	20	GO:0015979	photosynthesis
+GO:0050907	9	GO:0007586	digestion
+GO:0050909	9	GO:0007586	digestion
+GO:0019064	12	GO:0016032	viral process
+GO:0007157	8	GO:0051085	chaperone cofactor-dependent protein refolding
+GO:0019069	12	GO:0016032	viral process
+GO:0070918	21	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0007187	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0019058	12	GO:0016032	viral process
+GO:0016138	19	GO:0046314	phosphocreatine biosynthetic process
+GO:0019073	12	GO:0016032	viral process
+GO:0019076	12	GO:0016032	viral process
+GO:0019049	12	GO:0016032	viral process
+GO:1904778	1	GO:0051983	regulation of chromosome segregation
+GO:0045478	13	GO:0007284	spermatogonial cell division
+GO:0021591	14	GO:0035270	endocrine system development
+GO:0007296	13	GO:0007284	spermatogonial cell division
+GO:0021556	14	GO:0035270	endocrine system development
+GO:0051784	5	GO:0051306	mitotic sister chromatid separation
+GO:1902100	5	GO:0051306	mitotic sister chromatid separation
+GO:0007282	13	GO:0007284	spermatogonial cell division
+GO:0007284	13	GO:0007284	spermatogonial cell division
+GO:0032675	16	GO:0032755	positive regulation of interleukin-6 production
+GO:0032635	16	GO:0032755	positive regulation of interleukin-6 production
+GO:0051703	3	GO:0071554	cell wall organization or biogenesis
+GO:0098730	13	GO:0007284	spermatogonial cell division
+GO:0071732	8	GO:0051085	chaperone cofactor-dependent protein refolding
+GO:0002699	1	GO:0051983	regulation of chromosome segregation
+GO:0052562	7	GO:0045087	innate immune response
+GO:0030071	5	GO:0051306	mitotic sister chromatid separation
+GO:0021670	14	GO:0035270	endocrine system development
+GO:0040029	16	GO:0032755	positive regulation of interleukin-6 production
+GO:0046794	12	GO:0016032	viral process
+GO:0001541	14	GO:0035270	endocrine system development
+GO:0040031	21	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0046765	12	GO:0016032	viral process
+GO:0001539	6	GO:0060326	cell chemotaxis
+GO:0031637	1	GO:0051983	regulation of chromosome segregation
+GO:0035212	15	GO:0035212	cell competition in a multicellular organism
+GO:0097745	21	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0035249	8	GO:0051085	chaperone cofactor-dependent protein refolding
+GO:0035235	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0046740	12	GO:0016032	viral process
+GO:0046739	12	GO:0016032	viral process
+GO:0051583	11	GO:0072337	modified amino acid transport
+GO:0090022	6	GO:0060326	cell chemotaxis
+GO:0001682	21	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0006751	19	GO:0046314	phosphocreatine biosynthetic process
+GO:0019323	19	GO:0046314	phosphocreatine biosynthetic process
+GO:0090009	14	GO:0035270	endocrine system development
+GO:0070096	4	GO:0033623	regulation of integrin activation
+GO:0045742	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0045745	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0060078	8	GO:0051085	chaperone cofactor-dependent protein refolding
+GO:0098664	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0009399	20	GO:0015979	photosynthesis
+GO:0071621	6	GO:0060326	cell chemotaxis
+GO:0045880	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0045842	5	GO:0051306	mitotic sister chromatid separation
+GO:0045839	5	GO:0051306	mitotic sister chromatid separation
+GO:1902547	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0006581	20	GO:0015979	photosynthesis
+GO:0002949	21	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0000394	21	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0015695	11	GO:0072337	modified amino acid transport
+GO:0015074	21	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0050819	1	GO:0051983	regulation of chromosome segregation
+GO:1903507	17	GO:0006357	regulation of transcription by RNA polymerase II
+GO:0046693	13	GO:0007284	spermatogonial cell division
+GO:0007064	5	GO:0051306	mitotic sister chromatid separation
+GO:0046651	8	GO:0051085	chaperone cofactor-dependent protein refolding
+GO:0044550	20	GO:0015979	photosynthesis
+GO:0046649	3	GO:0071554	cell wall organization or biogenesis
+GO:0032963	20	GO:0015979	photosynthesis
+GO:0043935	13	GO:0007284	spermatogonial cell division
+GO:0015979	20	GO:0015979	photosynthesis
+GO:0043903	1	GO:0051983	regulation of chromosome segregation
+GO:0098963	11	GO:0072337	modified amino acid transport
+GO:0032943	3	GO:0071554	cell wall organization or biogenesis
+GO:0016540	22	GO:0020027	hemoglobin metabolic process
+GO:0006123	19	GO:0046314	phosphocreatine biosynthetic process
+GO:0008592	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0075136	7	GO:0045087	innate immune response
+GO:1904750	1	GO:0051983	regulation of chromosome segregation
+GO:0031272	4	GO:0033623	regulation of integrin activation
+GO:0031274	4	GO:0033623	regulation of integrin activation
+GO:2000242	1	GO:0051983	regulation of chromosome segregation
+GO:0051308	13	GO:0007284	spermatogonial cell division
+GO:2001057	20	GO:0015979	photosynthesis
+GO:0034293	13	GO:0007284	spermatogonial cell division
+GO:0006268	17	GO:0006357	regulation of transcription by RNA polymerase II
+GO:0019748	20	GO:0015979	photosynthesis
+GO:0060326	6	GO:0060326	cell chemotaxis
+GO:0043367	15	GO:0035212	cell competition in a multicellular organism
+GO:0006278	21	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:1903053	1	GO:0051983	regulation of chromosome segregation
+GO:1904892	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0045446	15	GO:0035212	cell competition in a multicellular organism
+GO:1905941	15	GO:0035212	cell competition in a multicellular organism
+GO:1905939	15	GO:0035212	cell competition in a multicellular organism
+GO:0035010	8	GO:0051085	chaperone cofactor-dependent protein refolding
+GO:0032310	11	GO:0072337	modified amino acid transport
+GO:0044068	3	GO:0071554	cell wall organization or biogenesis
+GO:0001775	3	GO:0071554	cell wall organization or biogenesis
+GO:1901678	11	GO:0072337	modified amino acid transport
+GO:0045229	3	GO:0071554	cell wall organization or biogenesis
+GO:0033003	1	GO:0051983	regulation of chromosome segregation
+GO:0008063	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0042546	3	GO:0071554	cell wall organization or biogenesis
+GO:0070661	3	GO:0071554	cell wall organization or biogenesis
+GO:0042531	19	GO:0046314	phosphocreatine biosynthetic process
+GO:0006809	20	GO:0015979	photosynthesis
+GO:0050922	6	GO:0060326	cell chemotaxis
+GO:0031536	5	GO:0051306	mitotic sister chromatid separation
+GO:0071480	8	GO:0051085	chaperone cofactor-dependent protein refolding
+GO:0097529	6	GO:0060326	cell chemotaxis
+GO:0003081	9	GO:0007586	digestion
+GO:0006582	20	GO:0015979	photosynthesis
+GO:0030435	15	GO:0035212	cell competition in a multicellular organism
+GO:0030437	13	GO:0007284	spermatogonial cell division
+GO:0045747	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0042631	8	GO:0051085	chaperone cofactor-dependent protein refolding
+GO:0018119	22	GO:0020027	hemoglobin metabolic process
+GO:0051701	12	GO:0016032	viral process
+GO:0030198	4	GO:0033623	regulation of integrin activation
+GO:0010893	19	GO:0046314	phosphocreatine biosynthetic process
+GO:0045892	17	GO:0006357	regulation of transcription by RNA polymerase II
+GO:0060760	1	GO:0051983	regulation of chromosome segregation
+GO:1901048	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0034644	8	GO:0051085	chaperone cofactor-dependent protein refolding
+GO:0036065	20	GO:0015979	photosynthesis
+GO:0019068	12	GO:0016032	viral process
+GO:0032757	16	GO:0032755	positive regulation of interleukin-6 production
+GO:0019054	12	GO:0016032	viral process
+GO:0019082	12	GO:0016032	viral process
+GO:0019072	12	GO:0016032	viral process
+GO:0032722	16	GO:0032755	positive regulation of interleukin-6 production
+GO:0019048	12	GO:0016032	viral process
+GO:0016339	8	GO:0051085	chaperone cofactor-dependent protein refolding
+GO:0052173	7	GO:0045087	innate immune response
+GO:0034085	5	GO:0051306	mitotic sister chromatid separation
+GO:0034086	5	GO:0051306	mitotic sister chromatid separation
+GO:0034087	5	GO:0051306	mitotic sister chromatid separation
+GO:0044403	12	GO:0016032	viral process
+GO:0048534	14	GO:0035270	endocrine system development
+GO:0044409	12	GO:0016032	viral process
+GO:0048538	14	GO:0035270	endocrine system development
+GO:0017014	22	GO:0020027	hemoglobin metabolic process
+GO:0000282	5	GO:0051306	mitotic sister chromatid separation
+GO:1902679	17	GO:0006357	regulation of transcription by RNA polymerase II
+GO:0000272	18	GO:0044247	cellular polysaccharide catabolic process
+GO:0040024	14	GO:0035270	endocrine system development
+GO:0052200	7	GO:0045087	innate immune response
+GO:0046209	20	GO:0015979	photosynthesis
+GO:1901346	15	GO:0035212	cell competition in a multicellular organism
+GO:0006956	7	GO:0045087	innate immune response
+GO:0006979	7	GO:0045087	innate immune response
+GO:0007553	19	GO:0046314	phosphocreatine biosynthetic process
+GO:0007554	19	GO:0046314	phosphocreatine biosynthetic process
+GO:0046718	12	GO:0016032	viral process
+GO:0030595	6	GO:0060326	cell chemotaxis
+GO:0001961	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0035710	8	GO:0051085	chaperone cofactor-dependent protein refolding
+GO:0044247	18	GO:0044247	cellular polysaccharide catabolic process
+GO:0045087	7	GO:0045087	innate immune response
+GO:0071554	3	GO:0071554	cell wall organization or biogenesis
+GO:0071555	3	GO:0071554	cell wall organization or biogenesis
+GO:0003158	14	GO:0035270	endocrine system development
+GO:0046813	12	GO:0016032	viral process
+GO:0035821	12	GO:0016032	viral process
+GO:0002696	1	GO:0051983	regulation of chromosome segregation
+GO:0050727	7	GO:0045087	innate immune response
+GO:0050728	7	GO:0045087	innate immune response
+GO:0045998	19	GO:0046314	phosphocreatine biosynthetic process
+GO:0006366	21	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0030682	7	GO:0045087	innate immune response
+GO:0045966	19	GO:0046314	phosphocreatine biosynthetic process
+GO:0006357	17	GO:0006357	regulation of transcription by RNA polymerase II
+GO:0002688	6	GO:0060326	cell chemotaxis
+GO:0010951	19	GO:0046314	phosphocreatine biosynthetic process
+GO:0043065	1	GO:0051983	regulation of chromosome segregation
+GO:0010922	19	GO:0046314	phosphocreatine biosynthetic process
+GO:0051923	20	GO:0015979	photosynthesis
+GO:1900015	16	GO:0032755	positive regulation of interleukin-6 production
+GO:0075713	12	GO:0016032	viral process
+GO:0075732	12	GO:0016032	viral process
+GO:0034050	7	GO:0045087	innate immune response
+GO:0034080	4	GO:0033623	regulation of integrin activation
+GO:0090305	21	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:1900016	16	GO:0032755	positive regulation of interleukin-6 production
+GO:1900047	1	GO:0051983	regulation of chromosome segregation
+GO:0000480	21	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0000472	21	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0051973	17	GO:0006357	regulation of transcription by RNA polymerase II
+GO:0033037	8	GO:0051085	chaperone cofactor-dependent protein refolding
+GO:0010760	6	GO:0060326	cell chemotaxis
+GO:0010764	6	GO:0060326	cell chemotaxis
+GO:0010758	6	GO:0060326	cell chemotaxis
+GO:0060191	8	GO:0051085	chaperone cofactor-dependent protein refolding
+GO:0060193	8	GO:0051085	chaperone cofactor-dependent protein refolding
+GO:0000271	18	GO:0044247	cellular polysaccharide catabolic process
+GO:0030728	13	GO:0007284	spermatogonial cell division
+GO:0070189	21	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0070121	14	GO:0035270	endocrine system development
+GO:0031055	4	GO:0033623	regulation of integrin activation
+GO:0006954	7	GO:0045087	innate immune response
+GO:0006958	7	GO:0045087	innate immune response
+GO:0006910	3	GO:0071554	cell wall organization or biogenesis
+GO:0035988	3	GO:0071554	cell wall organization or biogenesis
+GO:0060263	1	GO:0051983	regulation of chromosome segregation
+GO:0045927	1	GO:0051983	regulation of chromosome segregation
+GO:1905522	6	GO:0060326	cell chemotaxis
+GO:0034471	21	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0030838	4	GO:0033623	regulation of integrin activation
+GO:0005976	18	GO:0044247	cellular polysaccharide catabolic process
+GO:0003391	15	GO:0035212	cell competition in a multicellular organism
+GO:0030512	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0042364	20	GO:0015979	photosynthesis
+GO:0044179	3	GO:0071554	cell wall organization or biogenesis
+GO:0042310	9	GO:0007586	digestion
+GO:0050853	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0009626	7	GO:0045087	innate immune response
+GO:0009636	7	GO:0045087	innate immune response
+GO:0050818	1	GO:0051983	regulation of chromosome segregation
+GO:1903034	7	GO:0045087	innate immune response
+GO:1903035	7	GO:0045087	innate immune response
+GO:0044264	18	GO:0044247	cellular polysaccharide catabolic process
+GO:0003417	14	GO:0035270	endocrine system development
+GO:0016049	3	GO:0071554	cell wall organization or biogenesis
+GO:0070593	15	GO:0035212	cell competition in a multicellular organism
+GO:0032196	3	GO:0071554	cell wall organization or biogenesis
+GO:0032197	3	GO:0071554	cell wall organization or biogenesis
+GO:0097009	9	GO:0007586	digestion
+GO:0034765	1	GO:0051983	regulation of chromosome segregation
+GO:0002455	8	GO:0051085	chaperone cofactor-dependent protein refolding
+GO:0046008	13	GO:0007284	spermatogonial cell division
+GO:0002437	7	GO:0045087	innate immune response
+GO:2000480	19	GO:0046314	phosphocreatine biosynthetic process
+GO:2000479	22	GO:0020027	hemoglobin metabolic process
+GO:1904355	17	GO:0006357	regulation of transcription by RNA polymerase II
+GO:0033209	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0035008	7	GO:0045087	innate immune response
+GO:0031152	8	GO:0051085	chaperone cofactor-dependent protein refolding
+GO:0032212	17	GO:0006357	regulation of transcription by RNA polymerase II
+GO:0044826	12	GO:0016032	viral process
+GO:2000181	15	GO:0035212	cell competition in a multicellular organism
+GO:1903351	8	GO:0051085	chaperone cofactor-dependent protein refolding
+GO:0002250	7	GO:0045087	innate immune response
+GO:0038166	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0061484	8	GO:0051085	chaperone cofactor-dependent protein refolding
+GO:0071465	8	GO:0051085	chaperone cofactor-dependent protein refolding
+GO:0007316	13	GO:0007284	spermatogonial cell division
+GO:0007317	13	GO:0007284	spermatogonial cell division
+GO:0071479	8	GO:0051085	chaperone cofactor-dependent protein refolding
+GO:0071412	8	GO:0051085	chaperone cofactor-dependent protein refolding
+GO:0000967	21	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0016485	22	GO:0020027	hemoglobin metabolic process
+GO:0021772	14	GO:0035270	endocrine system development
+GO:0043551	19	GO:0046314	phosphocreatine biosynthetic process
+GO:0043588	14	GO:0035270	endocrine system development
+GO:0006310	21	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0006313	21	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0033692	18	GO:0044247	cellular polysaccharide catabolic process
+GO:1902412	5	GO:0051306	mitotic sister chromatid separation
+GO:1903142	15	GO:0035212	cell competition in a multicellular organism
+GO:0051251	1	GO:0051983	regulation of chromosome segregation
+GO:0019094	13	GO:0007284	spermatogonial cell division
+GO:0035494	3	GO:0071554	cell wall organization or biogenesis
+GO:0007186	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0042554	20	GO:0015979	photosynthesis
+GO:0051249	1	GO:0051983	regulation of chromosome segregation
+GO:0035461	3	GO:0071554	cell wall organization or biogenesis
+GO:0048755	14	GO:0035270	endocrine system development
+GO:0045450	13	GO:0007284	spermatogonial cell division
+GO:0042537	21	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0021551	14	GO:0035270	endocrine system development
+GO:0051781	1	GO:0051983	regulation of chromosome segregation
+GO:0007266	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0002526	7	GO:0045087	innate immune response
+GO:0051715	3	GO:0071554	cell wall organization or biogenesis
+GO:0001845	4	GO:0033623	regulation of integrin activation
+GO:0007212	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0007218	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0051702	12	GO:0016032	viral process
+GO:0002689	6	GO:0060326	cell chemotaxis
+GO:0052542	7	GO:0045087	innate immune response
+GO:0052545	8	GO:0051085	chaperone cofactor-dependent protein refolding
+GO:0040014	15	GO:0035212	cell competition in a multicellular organism
+GO:0035264	14	GO:0035270	endocrine system development
+GO:0031649	9	GO:0007586	digestion
+GO:0031638	22	GO:0020027	hemoglobin metabolic process
+GO:1904580	1	GO:0051983	regulation of chromosome segregation
+GO:0097746	9	GO:0007586	digestion
+GO:0071805	11	GO:0072337	modified amino acid transport
+GO:0048668	15	GO:0035212	cell competition in a multicellular organism
+GO:0043922	12	GO:0016032	viral process
+GO:0043923	12	GO:0016032	viral process
+GO:0008542	9	GO:0007586	digestion
+GO:0006749	20	GO:0015979	photosynthesis
+GO:0045744	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0045730	20	GO:0015979	photosynthesis
+GO:0007596	9	GO:0007586	digestion
+GO:0060074	15	GO:0035212	cell competition in a multicellular organism
+GO:0016525	15	GO:0035212	cell competition in a multicellular organism
+GO:0015811	11	GO:0072337	modified amino acid transport
+GO:0006801	20	GO:0015979	photosynthesis
+GO:0098609	3	GO:0071554	cell wall organization or biogenesis
+GO:0046692	13	GO:0007284	spermatogonial cell division
+GO:0007621	13	GO:0007284	spermatogonial cell division
+GO:0030307	1	GO:0051983	regulation of chromosome segregation
+GO:0035589	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0006516	22	GO:0020027	hemoglobin metabolic process
+GO:0007606	9	GO:0007586	digestion
+GO:0051085	8	GO:0051085	chaperone cofactor-dependent protein refolding
+GO:0051086	8	GO:0051085	chaperone cofactor-dependent protein refolding
+GO:1902018	4	GO:0033623	regulation of integrin activation
+GO:0019722	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0071025	21	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0071027	21	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0071028	21	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0039707	12	GO:0016032	viral process
+GO:0048844	14	GO:0035270	endocrine system development
+GO:0007339	13	GO:0007284	spermatogonial cell division
+GO:0000395	21	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0000348	21	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0035270	14	GO:0035270	endocrine system development
+GO:0048520	1	GO:0051983	regulation of chromosome segregation
+GO:0006094	19	GO:0046314	phosphocreatine biosynthetic process
+GO:0006096	19	GO:0046314	phosphocreatine biosynthetic process
+GO:0006099	20	GO:0015979	photosynthesis
+GO:0050982	8	GO:0051085	chaperone cofactor-dependent protein refolding
+GO:0032876	17	GO:0006357	regulation of transcription by RNA polymerase II
+GO:0007417	14	GO:0035270	endocrine system development
+GO:0007400	15	GO:0035212	cell competition in a multicellular organism
+GO:0060351	14	GO:0035270	endocrine system development
+GO:0032801	18	GO:0044247	cellular polysaccharide catabolic process
+GO:0006013	19	GO:0046314	phosphocreatine biosynthetic process
+GO:0039548	17	GO:0006357	regulation of transcription by RNA polymerase II
+GO:0008543	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0060349	14	GO:0035270	endocrine system development
+GO:0000423	20	GO:0015979	photosynthesis
+GO:0048653	14	GO:0035270	endocrine system development
+GO:0000413	22	GO:0020027	hemoglobin metabolic process
+GO:0015718	11	GO:0072337	modified amino acid transport
+GO:0035725	11	GO:0072337	modified amino acid transport
+GO:0003390	15	GO:0035212	cell competition in a multicellular organism
+GO:0039671	12	GO:0016032	viral process
+GO:0003386	14	GO:0035270	endocrine system development
+GO:0003387	15	GO:0035212	cell competition in a multicellular organism
+GO:0003388	15	GO:0035212	cell competition in a multicellular organism
+GO:0003389	15	GO:0035212	cell competition in a multicellular organism
+GO:1900620	19	GO:0046314	phosphocreatine biosynthetic process
+GO:0051491	4	GO:0033623	regulation of integrin activation
+GO:0051496	4	GO:0033623	regulation of integrin activation
+GO:0015886	11	GO:0072337	modified amino acid transport
+GO:0015870	11	GO:0072337	modified amino acid transport
+GO:0015871	11	GO:0072337	modified amino acid transport
+GO:0031146	22	GO:0020027	hemoglobin metabolic process
+GO:0015827	11	GO:0072337	modified amino acid transport
+GO:0015810	11	GO:0072337	modified amino acid transport
+GO:0015813	11	GO:0072337	modified amino acid transport
+GO:0071493	8	GO:0051085	chaperone cofactor-dependent protein refolding
+GO:1902475	11	GO:0072337	modified amino acid transport
+GO:1990079	9	GO:0007586	digestion
+GO:0015838	11	GO:0072337	modified amino acid transport
+GO:0007271	8	GO:0051085	chaperone cofactor-dependent protein refolding
+GO:0007274	8	GO:0051085	chaperone cofactor-dependent protein refolding
+GO:0031101	14	GO:0035270	endocrine system development
+GO:0015802	11	GO:0072337	modified amino acid transport
+GO:0015808	11	GO:0072337	modified amino acid transport
+GO:0035837	19	GO:0046314	phosphocreatine biosynthetic process
+GO:1901016	8	GO:0051085	chaperone cofactor-dependent protein refolding
+GO:0042026	3	GO:0071554	cell wall organization or biogenesis
+GO:0072553	4	GO:0033623	regulation of integrin activation
+GO:0000270	19	GO:0046314	phosphocreatine biosynthetic process
+GO:0002098	21	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0003416	9	GO:0007586	digestion
+GO:0046355	18	GO:0044247	cellular polysaccharide catabolic process
+GO:0140403	7	GO:0045087	innate immune response
+GO:1903691	6	GO:0060326	cell chemotaxis
+GO:0015697	11	GO:0072337	modified amino acid transport
+GO:1903689	6	GO:0060326	cell chemotaxis
+GO:0003151	14	GO:0035270	endocrine system development
+GO:0003156	14	GO:0035270	endocrine system development
+GO:0006335	4	GO:0033623	regulation of integrin activation
+GO:0043268	11	GO:0072337	modified amino acid transport
+GO:0051274	18	GO:0044247	cellular polysaccharide catabolic process
+GO:0046415	20	GO:0015979	photosynthesis
+GO:0006491	22	GO:0020027	hemoglobin metabolic process
+GO:0095500	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0019919	22	GO:0020027	hemoglobin metabolic process
+GO:0006482	22	GO:0020027	hemoglobin metabolic process
+GO:0035606	22	GO:0020027	hemoglobin metabolic process
+GO:0006414	22	GO:0020027	hemoglobin metabolic process
+GO:0007565	13	GO:0007284	spermatogonial cell division
+GO:0007567	13	GO:0007284	spermatogonial cell division
+GO:0007586	9	GO:0007586	digestion
+GO:1902745	4	GO:0033623	regulation of integrin activation
+GO:0007517	14	GO:0035270	endocrine system development
+GO:1902732	1	GO:0051983	regulation of chromosome segregation
+GO:0007530	13	GO:0007284	spermatogonial cell division
+GO:0007531	13	GO:0007284	spermatogonial cell division
+GO:0007533	13	GO:0007284	spermatogonial cell division
+GO:0006182	19	GO:0046314	phosphocreatine biosynthetic process
+GO:0007506	14	GO:0035270	endocrine system development
+GO:0009313	18	GO:0044247	cellular polysaccharide catabolic process
+GO:0060840	14	GO:0035270	endocrine system development
+GO:0030091	22	GO:0020027	hemoglobin metabolic process
+GO:0006102	20	GO:0015979	photosynthesis
+GO:0006107	20	GO:0015979	photosynthesis
+GO:0006108	20	GO:0015979	photosynthesis
+GO:0097090	4	GO:0033623	regulation of integrin activation
+GO:0007624	8	GO:0051085	chaperone cofactor-dependent protein refolding
+GO:0006290	21	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0042490	15	GO:0035212	cell competition in a multicellular organism
+GO:0007638	7	GO:0045087	innate immune response
+GO:0097084	15	GO:0035212	cell competition in a multicellular organism
+GO:0022416	14	GO:0035270	endocrine system development
+GO:0097070	14	GO:0035270	endocrine system development
+GO:0030042	4	GO:0033623	regulation of integrin activation
+GO:0030032	4	GO:0033623	regulation of integrin activation
+GO:0034354	19	GO:0046314	phosphocreatine biosynthetic process
+GO:0097037	11	GO:0072337	modified amino acid transport
+GO:0090090	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0031648	8	GO:0051085	chaperone cofactor-dependent protein refolding
+GO:0018279	22	GO:0020027	hemoglobin metabolic process
+GO:0060536	14	GO:0035270	endocrine system development
+GO:0035967	8	GO:0051085	chaperone cofactor-dependent protein refolding
+GO:1990182	4	GO:0033623	regulation of integrin activation
+GO:0051555	19	GO:0046314	phosphocreatine biosynthetic process
+GO:0035989	14	GO:0035270	endocrine system development
+GO:0035973	20	GO:0015979	photosynthesis
+GO:0086100	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0046716	3	GO:0071554	cell wall organization or biogenesis
+GO:0051546	6	GO:0060326	cell chemotaxis
+GO:0006777	22	GO:0020027	hemoglobin metabolic process
+GO:0002191	22	GO:0020027	hemoglobin metabolic process
+GO:0006734	20	GO:0015979	photosynthesis
+GO:0042135	20	GO:0015979	photosynthesis
+GO:1905828	19	GO:0046314	phosphocreatine biosynthetic process
+GO:0070084	22	GO:0020027	hemoglobin metabolic process
+GO:0051657	3	GO:0071554	cell wall organization or biogenesis
+GO:0071694	8	GO:0051085	chaperone cofactor-dependent protein refolding
+GO:0009253	19	GO:0046314	phosphocreatine biosynthetic process
+GO:1902600	11	GO:0072337	modified amino acid transport
+GO:0110046	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0071636	16	GO:0032755	positive regulation of interleukin-6 production
+GO:0006598	19	GO:0046314	phosphocreatine biosynthetic process
+GO:0030382	4	GO:0033623	regulation of integrin activation
+GO:0009786	1	GO:0051983	regulation of chromosome segregation
+GO:0030317	6	GO:0060326	cell chemotaxis
+GO:0097320	4	GO:0033623	regulation of integrin activation
+GO:0016062	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0010493	18	GO:0044247	cellular polysaccharide catabolic process
+GO:0006517	22	GO:0020027	hemoglobin metabolic process
+GO:0006508	22	GO:0020027	hemoglobin metabolic process
+GO:0045292	21	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:1990822	11	GO:0072337	modified amino acid transport
+GO:0006693	19	GO:0046314	phosphocreatine biosynthetic process
+GO:0017121	11	GO:0072337	modified amino acid transport
+GO:0009877	14	GO:0035270	endocrine system development
+GO:0045214	4	GO:0033623	regulation of integrin activation
+GO:0009832	4	GO:0033623	regulation of integrin activation
+GO:0089718	11	GO:0072337	modified amino acid transport
+GO:0006635	19	GO:0046314	phosphocreatine biosynthetic process
+GO:0042832	7	GO:0045087	innate immune response
+GO:0051969	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0051988	5	GO:0051306	mitotic sister chromatid separation
+GO:1902946	8	GO:0051085	chaperone cofactor-dependent protein refolding
+GO:0010118	3	GO:0071554	cell wall organization or biogenesis
+GO:1901562	8	GO:0051085	chaperone cofactor-dependent protein refolding
+GO:0045752	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0051938	11	GO:0072337	modified amino acid transport
+GO:0048070	1	GO:0051983	regulation of chromosome segregation
+GO:0014829	9	GO:0007586	digestion
+GO:0070493	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0042545	3	GO:0071554	cell wall organization or biogenesis
+GO:2000401	6	GO:0060326	cell chemotaxis
+GO:0019043	12	GO:0016032	viral process
+GO:0097105	15	GO:0035212	cell competition in a multicellular organism
+GO:0010259	14	GO:0035270	endocrine system development
+GO:0090169	5	GO:0051306	mitotic sister chromatid separation
+GO:1904398	1	GO:0051983	regulation of chromosome segregation
+GO:0008039	15	GO:0035212	cell competition in a multicellular organism
+GO:0042661	15	GO:0035212	cell competition in a multicellular organism
+GO:0045887	15	GO:0035212	cell competition in a multicellular organism
+GO:0030243	18	GO:0044247	cellular polysaccharide catabolic process
+GO:0030245	18	GO:0044247	cellular polysaccharide catabolic process
+GO:0036367	8	GO:0051085	chaperone cofactor-dependent protein refolding
+GO:0099046	7	GO:0045087	innate immune response
+GO:0046928	1	GO:0051983	regulation of chromosome segregation
+GO:1905909	15	GO:0035212	cell competition in a multicellular organism
+GO:0006986	7	GO:0045087	innate immune response
+GO:0097722	6	GO:0060326	cell chemotaxis
+GO:0006970	7	GO:0045087	innate immune response
+GO:2000241	1	GO:0051983	regulation of chromosome segregation
+GO:0034620	8	GO:0051085	chaperone cofactor-dependent protein refolding
+GO:0006936	9	GO:0007586	digestion
+GO:0044062	9	GO:0007586	digestion
+GO:0072091	1	GO:0051983	regulation of chromosome segregation
+GO:0070221	20	GO:0015979	photosynthesis
+GO:0034609	13	GO:0007284	spermatogonial cell division
+GO:0045652	15	GO:0035212	cell competition in a multicellular organism
+GO:0044038	17	GO:0006357	regulation of transcription by RNA polymerase II
+GO:2000772	1	GO:0051983	regulation of chromosome segregation
+GO:0048384	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0001783	8	GO:0051085	chaperone cofactor-dependent protein refolding
+GO:0030834	4	GO:0033623	regulation of integrin activation
+GO:0030835	4	GO:0033623	regulation of integrin activation
+GO:0010591	4	GO:0033623	regulation of integrin activation
+GO:0045638	15	GO:0035212	cell competition in a multicellular organism
+GO:0098958	8	GO:0051085	chaperone cofactor-dependent protein refolding
+GO:0016101	20	GO:0015979	photosynthesis
+GO:0030589	14	GO:0035270	endocrine system development
+GO:0050893	9	GO:0007586	digestion
+GO:0098908	1	GO:0051983	regulation of chromosome segregation
+GO:0061771	7	GO:0045087	innate immune response
+GO:0030511	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:2000815	17	GO:0006357	regulation of transcription by RNA polymerase II
+GO:0016260	19	GO:0046314	phosphocreatine biosynthetic process
+GO:0032328	11	GO:0072337	modified amino acid transport
+GO:0055085	3	GO:0071554	cell wall organization or biogenesis
+GO:0050830	7	GO:0045087	innate immune response
+GO:0070813	20	GO:0015979	photosynthesis
+GO:1900426	7	GO:0045087	innate immune response
+GO:0001561	19	GO:0046314	phosphocreatine biosynthetic process
+GO:0020027	22	GO:0020027	hemoglobin metabolic process
+GO:1903391	1	GO:0051983	regulation of chromosome segregation
+GO:0020035	12	GO:0016032	viral process
+GO:0007035	8	GO:0051085	chaperone cofactor-dependent protein refolding
+GO:0040015	15	GO:0035212	cell competition in a multicellular organism
+GO:0040018	15	GO:0035212	cell competition in a multicellular organism
+GO:0048100	14	GO:0035270	endocrine system development
+GO:0048102	3	GO:0071554	cell wall organization or biogenesis
+GO:0040039	6	GO:0060326	cell chemotaxis
+GO:0070589	17	GO:0006357	regulation of transcription by RNA polymerase II
+GO:0001504	11	GO:0072337	modified amino acid transport
+GO:0040009	1	GO:0051983	regulation of chromosome segregation
+GO:0072375	9	GO:0007586	digestion
+GO:0035357	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:2000647	1	GO:0051983	regulation of chromosome segregation
+GO:0072337	11	GO:0072337	modified amino acid transport
+GO:0008292	20	GO:0015979	photosynthesis
+GO:0099171	1	GO:0051983	regulation of chromosome segregation
+GO:0070682	4	GO:0033623	regulation of integrin activation
+GO:0005983	18	GO:0044247	cellular polysaccharide catabolic process
+GO:0005975	18	GO:0044247	cellular polysaccharide catabolic process
+GO:0023058	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0008214	22	GO:0020027	hemoglobin metabolic process
+GO:0033622	4	GO:0033623	regulation of integrin activation
+GO:0033623	4	GO:0033623	regulation of integrin activation
+GO:0033625	4	GO:0033623	regulation of integrin activation
+GO:0072488	11	GO:0072337	modified amino acid transport
+GO:0035418	8	GO:0051085	chaperone cofactor-dependent protein refolding
+GO:0003094	9	GO:0007586	digestion
+GO:0019731	7	GO:0045087	innate immune response
+GO:0032754	16	GO:0032755	positive regulation of interleukin-6 production
+GO:0007340	13	GO:0007284	spermatogonial cell division
+GO:0007338	13	GO:0007284	spermatogonial cell division
+GO:0032733	16	GO:0032755	positive regulation of interleukin-6 production
+GO:0032736	16	GO:0032755	positive regulation of interleukin-6 production
+GO:0007305	13	GO:0007284	spermatogonial cell division
+GO:0044275	18	GO:0044247	cellular polysaccharide catabolic process
+GO:0072243	14	GO:0035270	endocrine system development
+GO:0032875	17	GO:0006357	regulation of transcription by RNA polymerase II
+GO:0035246	22	GO:0020027	hemoglobin metabolic process
+GO:0035247	22	GO:0020027	hemoglobin metabolic process
+GO:0039573	7	GO:0045087	innate immune response
+GO:0055115	9	GO:0007586	digestion
+GO:0015766	11	GO:0072337	modified amino acid transport
+GO:0015771	11	GO:0072337	modified amino acid transport
+GO:0060337	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0060339	7	GO:0045087	innate immune response
+GO:1903707	15	GO:0035212	cell competition in a multicellular organism
+GO:0099566	8	GO:0051085	chaperone cofactor-dependent protein refolding
+GO:0043327	7	GO:0045087	innate immune response
+GO:0071357	7	GO:0045087	innate immune response
+GO:0039657	16	GO:0032755	positive regulation of interleukin-6 production
+GO:1903829	1	GO:0051983	regulation of chromosome segregation
+GO:0015812	11	GO:0072337	modified amino acid transport
+GO:0003338	14	GO:0035270	endocrine system development
+GO:0016998	18	GO:0044247	cellular polysaccharide catabolic process
+GO:0044805	20	GO:0015979	photosynthesis
+GO:1903539	8	GO:0051085	chaperone cofactor-dependent protein refolding
+GO:0046314	19	GO:0046314	phosphocreatine biosynthetic process
+GO:1902106	15	GO:0035212	cell competition in a multicellular organism
+GO:0060267	16	GO:0032755	positive regulation of interleukin-6 production
+GO:0072697	8	GO:0051085	chaperone cofactor-dependent protein refolding
+GO:0014044	15	GO:0035212	cell competition in a multicellular organism
+GO:0014037	15	GO:0035212	cell competition in a multicellular organism
+GO:1905475	1	GO:0051983	regulation of chromosome segregation
+GO:1905477	1	GO:0051983	regulation of chromosome segregation
+GO:0051273	18	GO:0044247	cellular polysaccharide catabolic process
+GO:0051275	18	GO:0044247	cellular polysaccharide catabolic process
+GO:0046149	20	GO:0015979	photosynthesis
+GO:0006183	19	GO:0046314	phosphocreatine biosynthetic process
+GO:0042338	14	GO:0035270	endocrine system development
+GO:0065005	4	GO:0033623	regulation of integrin activation
+GO:0006264	17	GO:0006357	regulation of transcription by RNA polymerase II
+GO:0031666	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0007608	9	GO:0007586	digestion
+GO:1905789	9	GO:0007586	digestion
+GO:0046755	12	GO:0016032	viral process
+GO:0034340	7	GO:0045087	innate immune response
+GO:0018216	22	GO:0020027	hemoglobin metabolic process
+GO:0043519	4	GO:0033623	regulation of integrin activation
+GO:0006787	21	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0038203	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0034486	3	GO:0071554	cell wall organization or biogenesis
+GO:0042102	8	GO:0051085	chaperone cofactor-dependent protein refolding
+GO:0045491	18	GO:0044247	cellular polysaccharide catabolic process
+GO:0045493	18	GO:0044247	cellular polysaccharide catabolic process
+GO:1902633	19	GO:0046314	phosphocreatine biosynthetic process
+GO:0071654	16	GO:0032755	positive regulation of interleukin-6 production
+GO:0071657	16	GO:0032755	positive regulation of interleukin-6 production
+GO:0009251	18	GO:0044247	cellular polysaccharide catabolic process
+GO:0110077	3	GO:0071554	cell wall organization or biogenesis
+GO:0045455	19	GO:0046314	phosphocreatine biosynthetic process
+GO:0045456	19	GO:0046314	phosphocreatine biosynthetic process
+GO:0071622	6	GO:0060326	cell chemotaxis
+GO:0061041	7	GO:0045087	innate immune response
+GO:0033005	1	GO:0051983	regulation of chromosome segregation
+GO:0045434	13	GO:0007284	spermatogonial cell division
+GO:0098729	13	GO:0007284	spermatogonial cell division
+GO:0098742	3	GO:0071554	cell wall organization or biogenesis
+GO:0009733	8	GO:0051085	chaperone cofactor-dependent protein refolding
+GO:0010469	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0010410	18	GO:0044247	cellular polysaccharide catabolic process
+GO:0062237	8	GO:0051085	chaperone cofactor-dependent protein refolding
+GO:0006654	19	GO:0046314	phosphocreatine biosynthetic process
+GO:0034776	8	GO:0051085	chaperone cofactor-dependent protein refolding
+GO:0098581	7	GO:0045087	innate immune response
+GO:0030193	7	GO:0045087	innate immune response
+GO:0030195	7	GO:0045087	innate immune response
+GO:0051984	1	GO:0051983	regulation of chromosome segregation
+GO:0045740	17	GO:0006357	regulation of transcription by RNA polymerase II
+GO:0098670	12	GO:0016032	viral process
+GO:0098671	12	GO:0016032	viral process
+GO:0032092	8	GO:0051085	chaperone cofactor-dependent protein refolding
+GO:0009620	7	GO:0045087	innate immune response
+GO:0009612	7	GO:0045087	innate immune response
+GO:0034585	21	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0010799	22	GO:0020027	hemoglobin metabolic process
+GO:1905953	1	GO:0051983	regulation of chromosome segregation
+GO:2000104	17	GO:0006357	regulation of transcription by RNA polymerase II
+GO:2000105	17	GO:0006357	regulation of transcription by RNA polymerase II
+GO:0032042	21	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0097205	9	GO:0007586	digestion
+GO:2000273	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0006953	7	GO:0045087	innate immune response
+GO:0006959	7	GO:0045087	innate immune response
+GO:0018996	9	GO:0007586	digestion
+GO:0010888	1	GO:0051983	regulation of chromosome segregation
+GO:0010842	14	GO:0035270	endocrine system development
+GO:0070233	8	GO:0051085	chaperone cofactor-dependent protein refolding
+GO:1903004	22	GO:0020027	hemoglobin metabolic process
+GO:0010800	19	GO:0046314	phosphocreatine biosynthetic process
+GO:0008365	14	GO:0035270	endocrine system development
+GO:2000895	18	GO:0044247	cellular polysaccharide catabolic process
+GO:0016237	20	GO:0015979	photosynthesis
+GO:1904776	1	GO:0051983	regulation of chromosome segregation
+GO:0001580	9	GO:0007586	digestion
+GO:0040010	1	GO:0051983	regulation of chromosome segregation
+GO:0040016	15	GO:0035212	cell competition in a multicellular organism
+GO:0008156	17	GO:0006357	regulation of transcription by RNA polymerase II
+GO:1900182	1	GO:0051983	regulation of chromosome segregation
+GO:0040002	14	GO:0035270	endocrine system development
+GO:1904894	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0044347	18	GO:0044247	cellular polysaccharide catabolic process
+GO:1900271	1	GO:0051983	regulation of chromosome segregation
+GO:1903441	8	GO:0051085	chaperone cofactor-dependent protein refolding

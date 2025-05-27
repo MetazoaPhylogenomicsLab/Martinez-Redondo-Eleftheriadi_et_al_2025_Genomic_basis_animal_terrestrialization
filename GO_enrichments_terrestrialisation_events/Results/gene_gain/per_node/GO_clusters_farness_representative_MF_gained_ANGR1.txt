@@ -1,0 +1,29 @@
+GO:0031434	2	GO:1990782	protein tyrosine kinase binding
+GO:0031435	2	GO:1990782	protein tyrosine kinase binding
+GO:0030246	1	GO:0030246	carbohydrate binding
+GO:0097153	3	GO:0052689	carboxylic ester hydrolase activity
+GO:0046556	3	GO:0052689	carboxylic ester hydrolase activity
+GO:0016936	1	GO:0030246	carbohydrate binding
+GO:0004553	3	GO:0052689	carboxylic ester hydrolase activity
+GO:0016712	4	GO:0004497	monooxygenase activity
+GO:1990782	2	GO:1990782	protein tyrosine kinase binding
+GO:0015926	3	GO:0052689	carboxylic ester hydrolase activity
+GO:0048029	1	GO:0030246	carbohydrate binding
+GO:0005506	1	GO:0030246	carbohydrate binding
+GO:0005547	1	GO:0030246	carbohydrate binding
+GO:0061750	3	GO:0052689	carboxylic ester hydrolase activity
+GO:0016705	4	GO:0004497	monooxygenase activity
+GO:0043325	1	GO:0030246	carbohydrate binding
+GO:0005534	1	GO:0030246	carbohydrate binding
+GO:0070492	1	GO:0030246	carbohydrate binding
+GO:0030971	2	GO:1990782	protein tyrosine kinase binding
+GO:0020037	1	GO:0030246	carbohydrate binding
+GO:0008395	4	GO:0004497	monooxygenase activity
+GO:0052689	3	GO:0052689	carboxylic ester hydrolase activity
+GO:0043495	1	GO:0030246	carbohydrate binding
+GO:0004767	3	GO:0052689	carboxylic ester hydrolase activity
+GO:0004497	4	GO:0004497	monooxygenase activity
+GO:0005159	1	GO:0030246	carbohydrate binding
+GO:0004869	1	GO:0030246	carbohydrate binding
+GO:0004620	3	GO:0052689	carboxylic ester hydrolase activity
+GO:0004622	3	GO:0052689	carboxylic ester hydrolase activity

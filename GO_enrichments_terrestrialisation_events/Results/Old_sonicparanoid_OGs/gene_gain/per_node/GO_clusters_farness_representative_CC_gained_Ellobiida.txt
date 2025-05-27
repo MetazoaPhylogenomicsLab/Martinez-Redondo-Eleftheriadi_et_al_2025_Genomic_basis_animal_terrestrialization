@@ -1,0 +1,24 @@
+GO:0005739	3	GO:0005739	mitochondrion
+GO:0055036	2	GO:0055036	virion membrane
+GO:0009507	3	GO:0005739	mitochondrion
+GO:0030430	1	GO:0030430	host cell cytoplasm
+GO:0033017	3	GO:0005739	mitochondrion
+GO:0043160	3	GO:0005739	mitochondrion
+GO:0044165	1	GO:0030430	host cell cytoplasm
+GO:0044167	1	GO:0030430	host cell cytoplasm
+GO:0044156	1	GO:0030430	host cell cytoplasm
+GO:0031160	2	GO:0055036	virion membrane
+GO:0044094	1	GO:0030430	host cell cytoplasm
+GO:0030991	2	GO:0055036	virion membrane
+GO:0042025	1	GO:0030430	host cell cytoplasm
+GO:0044177	1	GO:0030430	host cell cytoplasm
+GO:0000322	3	GO:0005739	mitochondrion
+GO:0000324	3	GO:0005739	mitochondrion
+GO:0033655	1	GO:0030430	host cell cytoplasm
+GO:0044204	1	GO:0030430	host cell cytoplasm
+GO:0019030	2	GO:0055036	virion membrane
+GO:0019031	2	GO:0055036	virion membrane
+GO:0019033	2	GO:0055036	virion membrane
+GO:0033644	1	GO:0030430	host cell cytoplasm
+GO:0033645	1	GO:0030430	host cell cytoplasm
+GO:0097228	2	GO:0055036	virion membrane

@@ -1,0 +1,22 @@
+GO:0035673	3	GO:0008509	anion transmembrane transporter activity
+GO:0015485	1	GO:0140030	modification-dependent protein binding
+GO:0004970	2	GO:0015252	proton channel activity
+GO:0042043	1	GO:0140030	modification-dependent protein binding
+GO:0005537	1	GO:0140030	modification-dependent protein binding
+GO:0016616	1	GO:0140030	modification-dependent protein binding
+GO:0010181	1	GO:0140030	modification-dependent protein binding
+GO:0140030	1	GO:0140030	modification-dependent protein binding
+GO:0016714	1	GO:0140030	modification-dependent protein binding
+GO:0000030	1	GO:0140030	modification-dependent protein binding
+GO:0015347	3	GO:0008509	anion transmembrane transporter activity
+GO:0008271	3	GO:0008509	anion transmembrane transporter activity
+GO:0008509	3	GO:0008509	anion transmembrane transporter activity
+GO:0022890	2	GO:0015252	proton channel activity
+GO:0015252	2	GO:0015252	proton channel activity
+GO:0015106	3	GO:0008509	anion transmembrane transporter activity
+GO:0015108	3	GO:0008509	anion transmembrane transporter activity
+GO:0061665	1	GO:0140030	modification-dependent protein binding
+GO:0015125	3	GO:0008509	anion transmembrane transporter activity
+GO:0019531	3	GO:0008509	anion transmembrane transporter activity
+GO:0032183	1	GO:0140030	modification-dependent protein binding
+GO:1904680	3	GO:0008509	anion transmembrane transporter activity

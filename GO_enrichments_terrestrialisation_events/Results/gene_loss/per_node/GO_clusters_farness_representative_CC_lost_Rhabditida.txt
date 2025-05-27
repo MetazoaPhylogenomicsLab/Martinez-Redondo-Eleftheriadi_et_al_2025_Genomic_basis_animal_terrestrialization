@@ -1,0 +1,98 @@
+GO:0005796	1	GO:0005635	nuclear envelope
+GO:0000792	2	GO:0043292	contractile fiber
+GO:0031012	8	GO:0044297	cell body
+GO:0043196	5	GO:0043005	neuron projection
+GO:0005576	8	GO:0044297	cell body
+GO:0039713	4	GO:0030430	host cell cytoplasm
+GO:0039714	4	GO:0030430	host cell cytoplasm
+GO:0033162	1	GO:0005635	nuclear envelope
+GO:0038037	6	GO:0031265	CD95 death-inducing signaling complex
+GO:0038039	6	GO:0031265	CD95 death-inducing signaling complex
+GO:0032153	8	GO:0044297	cell body
+GO:0008076	6	GO:0031265	CD95 death-inducing signaling complex
+GO:0005788	1	GO:0005635	nuclear envelope
+GO:0043186	2	GO:0043292	contractile fiber
+GO:0034364	7	GO:0009506	plasmodesma
+GO:0062023	8	GO:0044297	cell body
+GO:0072517	4	GO:0030430	host cell cytoplasm
+GO:0009897	6	GO:0031265	CD95 death-inducing signaling complex
+GO:0031265	6	GO:0031265	CD95 death-inducing signaling complex
+GO:0080008	3	GO:0035301	Hedgehog signaling complex
+GO:0097648	6	GO:0031265	CD95 death-inducing signaling complex
+GO:0060102	8	GO:0044297	cell body
+GO:0005604	8	GO:0044297	cell body
+GO:0016592	1	GO:0005635	nuclear envelope
+GO:0016593	1	GO:0005635	nuclear envelope
+GO:0048471	8	GO:0044297	cell body
+GO:0030425	5	GO:0043005	neuron projection
+GO:0046930	6	GO:0031265	CD95 death-inducing signaling complex
+GO:1902911	3	GO:0035301	Hedgehog signaling complex
+GO:0043204	8	GO:0044297	cell body
+GO:0005912	7	GO:0009506	plasmodesma
+GO:1902554	3	GO:0035301	Hedgehog signaling complex
+GO:0034706	6	GO:0031265	CD95 death-inducing signaling complex
+GO:0016327	6	GO:0031265	CD95 death-inducing signaling complex
+GO:0016328	8	GO:0044297	cell body
+GO:0048188	1	GO:0005635	nuclear envelope
+GO:0097447	5	GO:0043005	neuron projection
+GO:0098975	7	GO:0009506	plasmodesma
+GO:0032420	5	GO:0043005	neuron projection
+GO:0032421	8	GO:0044297	cell body
+GO:0030430	4	GO:0030430	host cell cytoplasm
+GO:0042575	3	GO:0035301	Hedgehog signaling complex
+GO:0030667	1	GO:0005635	nuclear envelope
+GO:0099738	8	GO:0044297	cell body
+GO:0036396	1	GO:0005635	nuclear envelope
+GO:0016459	2	GO:0043292	contractile fiber
+GO:0044174	4	GO:0030430	host cell cytoplasm
+GO:0044175	4	GO:0030430	host cell cytoplasm
+GO:0035861	2	GO:0043292	contractile fiber
+GO:0005635	1	GO:0005635	nuclear envelope
+GO:0005920	7	GO:0009506	plasmodesma
+GO:0035097	1	GO:0005635	nuclear envelope
+GO:0005921	7	GO:0009506	plasmodesma
+GO:0043197	5	GO:0043005	neuron projection
+GO:0044853	6	GO:0031265	CD95 death-inducing signaling complex
+GO:0030175	5	GO:0043005	neuron projection
+GO:0001750	5	GO:0043005	neuron projection
+GO:0005934	8	GO:0044297	cell body
+GO:0031674	2	GO:0043292	contractile fiber
+GO:0031965	1	GO:0005635	nuclear envelope
+GO:0020002	4	GO:0030430	host cell cytoplasm
+GO:0005874	2	GO:0043292	contractile fiber
+GO:0005875	2	GO:0043292	contractile fiber
+GO:0031164	1	GO:0005635	nuclear envelope
+GO:0005829	8	GO:0044297	cell body
+GO:0044297	8	GO:0044297	cell body
+GO:0005814	2	GO:0043292	contractile fiber
+GO:0005815	2	GO:0043292	contractile fiber
+GO:0031941	2	GO:0043292	contractile fiber
+GO:0005834	6	GO:0031265	CD95 death-inducing signaling complex
+GO:0030016	2	GO:0043292	contractile fiber
+GO:0030017	2	GO:0043292	contractile fiber
+GO:0030018	2	GO:0043292	contractile fiber
+GO:0017053	3	GO:0035301	Hedgehog signaling complex
+GO:0005802	1	GO:0005635	nuclear envelope
+GO:0031143	5	GO:0043005	neuron projection
+GO:0043025	8	GO:0044297	cell body
+GO:0032806	1	GO:0005635	nuclear envelope
+GO:0043292	2	GO:0043292	contractile fiber
+GO:0035301	3	GO:0035301	Hedgehog signaling complex
+GO:0099568	8	GO:0044297	cell body
+GO:0009506	7	GO:0009506	plasmodesma
+GO:0044304	5	GO:0043005	neuron projection
+GO:0044309	5	GO:0043005	neuron projection
+GO:0000803	2	GO:0043292	contractile fiber
+GO:0015630	2	GO:0043292	contractile fiber
+GO:0031083	8	GO:0044297	cell body
+GO:0000805	2	GO:0043292	contractile fiber
+GO:0036477	8	GO:0044297	cell body
+GO:0019013	3	GO:0035301	Hedgehog signaling complex
+GO:0055044	8	GO:0044297	cell body
+GO:0055036	8	GO:0044297	cell body
+GO:0019031	3	GO:0035301	Hedgehog signaling complex
+GO:0043005	5	GO:0043005	neuron projection
+GO:0032587	6	GO:0031265	CD95 death-inducing signaling complex
+GO:0098685	7	GO:0009506	plasmodesma
+GO:0031252	8	GO:0044297	cell body
+GO:0061702	8	GO:0044297	cell body

@@ -1,0 +1,118 @@
+GO:0061982	2	GO:0007131	reciprocal meiotic recombination
+GO:0052200	5	GO:0019048	modulation by virus of host process
+GO:0016233	4	GO:1905779	positive regulation of exonuclease activity
+GO:0031860	4	GO:1905779	positive regulation of exonuclease activity
+GO:1903490	1	GO:1905758	positive regulation of primary cell septum biogenesis
+GO:0007218	6	GO:0007059	chromosome segregation
+GO:0006809	4	GO:1905779	positive regulation of exonuclease activity
+GO:0035306	4	GO:1905779	positive regulation of exonuclease activity
+GO:0104004	6	GO:0007059	chromosome segregation
+GO:0071482	6	GO:0007059	chromosome segregation
+GO:0071478	6	GO:0007059	chromosome segregation
+GO:0060438	6	GO:0007059	chromosome segregation
+GO:0032955	1	GO:1905758	positive regulation of primary cell septum biogenesis
+GO:0007060	2	GO:0007131	reciprocal meiotic recombination
+GO:0007059	6	GO:0007059	chromosome segregation
+GO:1903436	1	GO:1905758	positive regulation of primary cell septum biogenesis
+GO:1903438	1	GO:1905758	positive regulation of primary cell septum biogenesis
+GO:0051321	2	GO:0007131	reciprocal meiotic recombination
+GO:0051316	2	GO:0007131	reciprocal meiotic recombination
+GO:2000220	3	GO:0070785	negative regulation of growth of unicellular organism as a thread of attached cells
+GO:2000221	3	GO:0070785	negative regulation of growth of unicellular organism as a thread of attached cells
+GO:0007000	6	GO:0007059	chromosome segregation
+GO:1900015	4	GO:1905779	positive regulation of exonuclease activity
+GO:0000741	6	GO:0007059	chromosome segregation
+GO:0032755	4	GO:1905779	positive regulation of exonuclease activity
+GO:0000737	4	GO:1905779	positive regulation of exonuclease activity
+GO:0032757	4	GO:1905779	positive regulation of exonuclease activity
+GO:0051308	2	GO:0007131	reciprocal meiotic recombination
+GO:0000706	2	GO:0007131	reciprocal meiotic recombination
+GO:0031509	4	GO:1905779	positive regulation of exonuclease activity
+GO:0050810	4	GO:1905779	positive regulation of exonuclease activity
+GO:0034398	6	GO:0007059	chromosome segregation
+GO:0051455	2	GO:0007131	reciprocal meiotic recombination
+GO:0006304	4	GO:1905779	positive regulation of exonuclease activity
+GO:0046718	5	GO:0019048	modulation by virus of host process
+GO:0019218	4	GO:1905779	positive regulation of exonuclease activity
+GO:0060258	3	GO:0070785	negative regulation of growth of unicellular organism as a thread of attached cells
+GO:0044003	5	GO:0019048	modulation by virus of host process
+GO:0031671	1	GO:1905758	positive regulation of primary cell septum biogenesis
+GO:0010973	1	GO:1905758	positive regulation of primary cell septum biogenesis
+GO:0042138	2	GO:0007131	reciprocal meiotic recombination
+GO:0034644	6	GO:0007059	chromosome segregation
+GO:0019064	5	GO:0019048	modulation by virus of host process
+GO:0071214	6	GO:0007059	chromosome segregation
+GO:0019080	5	GO:0019048	modulation by virus of host process
+GO:0019083	5	GO:0019048	modulation by virus of host process
+GO:0034605	6	GO:0007059	chromosome segregation
+GO:0046885	4	GO:1905779	positive regulation of exonuclease activity
+GO:0046886	4	GO:1905779	positive regulation of exonuclease activity
+GO:0007553	4	GO:1905779	positive regulation of exonuclease activity
+GO:0007554	4	GO:1905779	positive regulation of exonuclease activity
+GO:0010791	4	GO:1905779	positive regulation of exonuclease activity
+GO:0022413	6	GO:0007059	chromosome segregation
+GO:0046813	5	GO:0019048	modulation by virus of host process
+GO:0019048	5	GO:0019048	modulation by virus of host process
+GO:0019049	5	GO:0019048	modulation by virus of host process
+GO:0033234	4	GO:1905779	positive regulation of exonuclease activity
+GO:0010026	6	GO:0007059	chromosome segregation
+GO:0010780	2	GO:0007131	reciprocal meiotic recombination
+GO:0010789	2	GO:0007131	reciprocal meiotic recombination
+GO:0007534	2	GO:0007131	reciprocal meiotic recombination
+GO:1905756	1	GO:1905758	positive regulation of primary cell septum biogenesis
+GO:1905758	1	GO:1905758	positive regulation of primary cell septum biogenesis
+GO:1905779	4	GO:1905779	positive regulation of exonuclease activity
+GO:0018119	4	GO:1905779	positive regulation of exonuclease activity
+GO:1903046	2	GO:0007131	reciprocal meiotic recombination
+GO:0039537	5	GO:0019048	modulation by virus of host process
+GO:0030521	6	GO:0007059	chromosome segregation
+GO:0039502	5	GO:0019048	modulation by virus of host process
+GO:0007320	6	GO:0007059	chromosome segregation
+GO:0010893	4	GO:1905779	positive regulation of exonuclease activity
+GO:0090030	4	GO:1905779	positive regulation of exonuclease activity
+GO:0090031	4	GO:1905779	positive regulation of exonuclease activity
+GO:0071709	6	GO:0007059	chromosome segregation
+GO:0007340	6	GO:0007059	chromosome segregation
+GO:0051276	6	GO:0007059	chromosome segregation
+GO:0039663	5	GO:0019048	modulation by virus of host process
+GO:0032352	4	GO:1905779	positive regulation of exonuclease activity
+GO:0006997	6	GO:0007059	chromosome segregation
+GO:0046692	6	GO:0007059	chromosome segregation
+GO:0140278	1	GO:1905758	positive regulation of primary cell septum biogenesis
+GO:0140279	1	GO:1905758	positive regulation of primary cell septum biogenesis
+GO:0010833	4	GO:1905779	positive regulation of exonuclease activity
+GO:0032310	6	GO:0007059	chromosome segregation
+GO:0030682	5	GO:0019048	modulation by virus of host process
+GO:0035821	5	GO:0019048	modulation by virus of host process
+GO:0044650	5	GO:0019048	modulation by virus of host process
+GO:0006949	6	GO:0007059	chromosome segregation
+GO:0051781	1	GO:1905758	positive regulation of primary cell septum biogenesis
+GO:0010566	4	GO:1905779	positive regulation of exonuclease activity
+GO:1902410	1	GO:1905758	positive regulation of primary cell septum biogenesis
+GO:1902412	1	GO:1905758	positive regulation of primary cell septum biogenesis
+GO:0045998	4	GO:1905779	positive regulation of exonuclease activity
+GO:1900429	3	GO:0070785	negative regulation of growth of unicellular organism as a thread of attached cells
+GO:0034219	6	GO:0007059	chromosome segregation
+GO:0010520	2	GO:0007131	reciprocal meiotic recombination
+GO:0045966	4	GO:1905779	positive regulation of exonuclease activity
+GO:0015749	6	GO:0007059	chromosome segregation
+GO:0030476	2	GO:0007131	reciprocal meiotic recombination
+GO:0045940	4	GO:1905779	positive regulation of exonuclease activity
+GO:0030435	6	GO:0007059	chromosome segregation
+GO:0030437	2	GO:0007131	reciprocal meiotic recombination
+GO:0070784	3	GO:0070785	negative regulation of growth of unicellular organism as a thread of attached cells
+GO:0070785	3	GO:0070785	negative regulation of growth of unicellular organism as a thread of attached cells
+GO:0007124	3	GO:0070785	negative regulation of growth of unicellular organism as a thread of attached cells
+GO:0007127	2	GO:0007131	reciprocal meiotic recombination
+GO:0043935	2	GO:0007131	reciprocal meiotic recombination
+GO:1901741	6	GO:0007059	chromosome segregation
+GO:0031029	6	GO:0007059	chromosome segregation
+GO:0007130	2	GO:0007131	reciprocal meiotic recombination
+GO:0007131	2	GO:0007131	reciprocal meiotic recombination
+GO:0031031	1	GO:1905758	positive regulation of primary cell septum biogenesis
+GO:0044409	5	GO:0019048	modulation by virus of host process
+GO:1901891	1	GO:1905758	positive regulation of primary cell septum biogenesis
+GO:1901893	1	GO:1905758	positive regulation of primary cell septum biogenesis
+GO:0060333	6	GO:0007059	chromosome segregation
+GO:0008643	6	GO:0007059	chromosome segregation
+GO:0008645	6	GO:0007059	chromosome segregation

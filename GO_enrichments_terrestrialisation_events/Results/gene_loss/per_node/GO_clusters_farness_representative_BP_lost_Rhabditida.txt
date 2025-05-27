@@ -1,0 +1,474 @@
+GO:0006508	10	GO:0080120	CAAX-box protein maturation
+GO:0001960	1	GO:0045879	negative regulation of smoothened signaling pathway
+GO:0034067	21	GO:0019835	cytolysis
+GO:2001238	1	GO:0045879	negative regulation of smoothened signaling pathway
+GO:0090303	6	GO:0048585	negative regulation of response to stimulus
+GO:1900026	19	GO:0042752	regulation of circadian rhythm
+GO:0030163	10	GO:0080120	CAAX-box protein maturation
+GO:1900037	6	GO:0048585	negative regulation of response to stimulus
+GO:1900038	6	GO:0048585	negative regulation of response to stimulus
+GO:0045617	19	GO:0042752	regulation of circadian rhythm
+GO:0023057	1	GO:0045879	negative regulation of smoothened signaling pathway
+GO:0060326	4	GO:0071624	positive regulation of granulocyte chemotaxis
+GO:0019762	9	GO:0006020	inositol metabolic process
+GO:0000165	2	GO:0035556	intracellular signal transduction
+GO:0060456	19	GO:0042752	regulation of circadian rhythm
+GO:0000132	16	GO:0031122	cytoplasmic microtubule organization
+GO:0009791	12	GO:0009791	post-embryonic development
+GO:0032088	8	GO:0071897	DNA biosynthetic process
+GO:0030204	10	GO:0080120	CAAX-box protein maturation
+GO:0030206	9	GO:0006020	inositol metabolic process
+GO:0019835	21	GO:0019835	cytolysis
+GO:0009712	9	GO:0006020	inositol metabolic process
+GO:0031099	12	GO:0009791	post-embryonic development
+GO:0030719	11	GO:0007308	oocyte construction
+GO:0006963	3	GO:0002808	regulation of antibacterial peptide biosynthetic process
+GO:0006953	18	GO:0035199	salt aversion
+GO:0006954	18	GO:0035199	salt aversion
+GO:1902905	15	GO:1902905	positive regulation of supramolecular fiber organization
+GO:0006957	5	GO:0045088	regulation of innate immune response
+GO:0006958	6	GO:0048585	negative regulation of response to stimulus
+GO:0006919	7	GO:1903317	regulation of protein maturation
+GO:0045989	19	GO:0042752	regulation of circadian rhythm
+GO:0010811	15	GO:1902905	positive regulation of supramolecular fiber organization
+GO:0070291	9	GO:0006020	inositol metabolic process
+GO:0010838	19	GO:0042752	regulation of circadian rhythm
+GO:0070266	21	GO:0019835	cytolysis
+GO:0039531	1	GO:0045879	negative regulation of smoothened signaling pathway
+GO:0039532	5	GO:0045088	regulation of innate immune response
+GO:0010803	1	GO:0045879	negative regulation of smoothened signaling pathway
+GO:1900426	5	GO:0045088	regulation of innate immune response
+GO:0060761	6	GO:0048585	negative regulation of response to stimulus
+GO:0034121	2	GO:0035556	intracellular signal transduction
+GO:0034122	1	GO:0045879	negative regulation of smoothened signaling pathway
+GO:0051049	14	GO:0034765	regulation of ion transmembrane transport
+GO:0044179	21	GO:0019835	cytolysis
+GO:0050898	10	GO:0080120	CAAX-box protein maturation
+GO:0009651	18	GO:0035199	salt aversion
+GO:0050854	2	GO:0035556	intracellular signal transduction
+GO:0010623	21	GO:0019835	cytolysis
+GO:0043434	18	GO:0035199	salt aversion
+GO:0010648	1	GO:0045879	negative regulation of smoothened signaling pathway
+GO:0150146	16	GO:0031122	cytoplasmic microtubule organization
+GO:0090567	12	GO:0009791	post-embryonic development
+GO:0031396	10	GO:0080120	CAAX-box protein maturation
+GO:0031398	10	GO:0080120	CAAX-box protein maturation
+GO:0043161	10	GO:0080120	CAAX-box protein maturation
+GO:0043153	6	GO:0048585	negative regulation of response to stimulus
+GO:0016045	5	GO:0045088	regulation of innate immune response
+GO:0043122	2	GO:0035556	intracellular signal transduction
+GO:0043123	1	GO:0045879	negative regulation of smoothened signaling pathway
+GO:0042438	9	GO:0006020	inositol metabolic process
+GO:0042439	9	GO:0006020	inositol metabolic process
+GO:0034762	14	GO:0034765	regulation of ion transmembrane transport
+GO:0034765	14	GO:0034765	regulation of ion transmembrane transport
+GO:0043269	14	GO:0034765	regulation of ion transmembrane transport
+GO:0002429	2	GO:0035556	intracellular signal transduction
+GO:0015012	9	GO:0006020	inositol metabolic process
+GO:0050691	5	GO:0045088	regulation of innate immune response
+GO:0048367	12	GO:0009791	post-embryonic development
+GO:0006020	9	GO:0006020	inositol metabolic process
+GO:0006024	9	GO:0006020	inositol metabolic process
+GO:0019941	10	GO:0080120	CAAX-box protein maturation
+GO:0050650	9	GO:0006020	inositol metabolic process
+GO:0050654	10	GO:0080120	CAAX-box protein maturation
+GO:0033209	1	GO:0045879	negative regulation of smoothened signaling pathway
+GO:0045088	5	GO:0045088	regulation of innate immune response
+GO:0050687	5	GO:0045088	regulation of innate immune response
+GO:0050688	5	GO:0045088	regulation of innate immune response
+GO:0035002	12	GO:0009791	post-embryonic development
+GO:0002164	12	GO:0009791	post-embryonic development
+GO:0035006	5	GO:0045088	regulation of innate immune response
+GO:1901046	19	GO:0042752	regulation of circadian rhythm
+GO:0008358	12	GO:0009791	post-embryonic development
+GO:1905941	12	GO:0009791	post-embryonic development
+GO:0032273	15	GO:1902905	positive regulation of supramolecular fiber organization
+GO:0071356	18	GO:0035199	salt aversion
+GO:0031122	16	GO:0031122	cytoplasmic microtubule organization
+GO:0009968	2	GO:0035556	intracellular signal transduction
+GO:0031112	15	GO:1902905	positive regulation of supramolecular fiber organization
+GO:0008340	12	GO:0009791	post-embryonic development
+GO:0010954	7	GO:1903317	regulation of protein maturation
+GO:0031116	15	GO:1902905	positive regulation of supramolecular fiber organization
+GO:0042220	18	GO:0035199	salt aversion
+GO:1905909	12	GO:0009791	post-embryonic development
+GO:1903320	10	GO:0080120	CAAX-box protein maturation
+GO:1903322	10	GO:0080120	CAAX-box protein maturation
+GO:1903319	7	GO:1903317	regulation of protein maturation
+GO:0002253	6	GO:0048585	negative regulation of response to stimulus
+GO:0009908	12	GO:0009791	post-embryonic development
+GO:0009909	12	GO:0009791	post-embryonic development
+GO:0034587	8	GO:0071897	DNA biosynthetic process
+GO:0007350	12	GO:0009791	post-embryonic development
+GO:0002221	2	GO:0035556	intracellular signal transduction
+GO:0002224	2	GO:0035556	intracellular signal transduction
+GO:0002225	3	GO:0002808	regulation of antibacterial peptide biosynthetic process
+GO:0002218	5	GO:0045088	regulation of innate immune response
+GO:0001113	8	GO:0071897	DNA biosynthetic process
+GO:0016339	21	GO:0019835	cytolysis
+GO:0002230	5	GO:0045088	regulation of innate immune response
+GO:0007314	11	GO:0007308	oocyte construction
+GO:0007315	11	GO:0007308	oocyte construction
+GO:0007343	21	GO:0019835	cytolysis
+GO:0007349	12	GO:0009791	post-embryonic development
+GO:0042742	5	GO:0045088	regulation of innate immune response
+GO:0097300	21	GO:0019835	cytolysis
+GO:0002760	5	GO:0045088	regulation of innate immune response
+GO:0002764	2	GO:0035556	intracellular signal transduction
+GO:0002768	2	GO:0035556	intracellular signal transduction
+GO:0002757	2	GO:0035556	intracellular signal transduction
+GO:0002758	5	GO:0045088	regulation of innate immune response
+GO:0002780	3	GO:0002808	regulation of antibacterial peptide biosynthetic process
+GO:0002786	3	GO:0002808	regulation of antibacterial peptide biosynthetic process
+GO:0008156	8	GO:0071897	DNA biosynthetic process
+GO:0002777	3	GO:0002808	regulation of antibacterial peptide biosynthetic process
+GO:0002778	3	GO:0002808	regulation of antibacterial peptide biosynthetic process
+GO:0036462	1	GO:0045879	negative regulation of smoothened signaling pathway
+GO:0046456	9	GO:0006020	inositol metabolic process
+GO:0002702	7	GO:1903317	regulation of protein maturation
+GO:0051294	16	GO:0031122	cytoplasmic microtubule organization
+GO:0046416	9	GO:0006020	inositol metabolic process
+GO:0048236	17	GO:0007127	meiosis I
+GO:0006303	8	GO:0071897	DNA biosynthetic process
+GO:1902475	13	GO:0010496	intercellular transport
+GO:1901346	12	GO:0009791	post-embryonic development
+GO:0001751	12	GO:0009791	post-embryonic development
+GO:0001756	12	GO:0009791	post-embryonic development
+GO:0070979	10	GO:0080120	CAAX-box protein maturation
+GO:2001044	2	GO:0035556	intracellular signal transduction
+GO:2001046	1	GO:0045879	negative regulation of smoothened signaling pathway
+GO:0072756	18	GO:0035199	salt aversion
+GO:0042554	21	GO:0019835	cytolysis
+GO:0035461	13	GO:0010496	intercellular transport
+GO:0002803	3	GO:0002808	regulation of antibacterial peptide biosynthetic process
+GO:0045456	9	GO:0006020	inositol metabolic process
+GO:0002805	3	GO:0002808	regulation of antibacterial peptide biosynthetic process
+GO:0002807	3	GO:0002808	regulation of antibacterial peptide biosynthetic process
+GO:0002808	3	GO:0002808	regulation of antibacterial peptide biosynthetic process
+GO:0046189	9	GO:0006020	inositol metabolic process
+GO:0043632	10	GO:0080120	CAAX-box protein maturation
+GO:0035199	18	GO:0035199	salt aversion
+GO:1903204	6	GO:0048585	negative regulation of response to stimulus
+GO:0051715	21	GO:0019835	cytolysis
+GO:0061771	18	GO:0035199	salt aversion
+GO:0098789	9	GO:0006020	inositol metabolic process
+GO:0051897	1	GO:0045879	negative regulation of smoothened signaling pathway
+GO:0048831	12	GO:0009791	post-embryonic development
+GO:0051865	10	GO:0080120	CAAX-box protein maturation
+GO:0097202	7	GO:1903317	regulation of protein maturation
+GO:0051838	5	GO:0045088	regulation of innate immune response
+GO:0002639	7	GO:1903317	regulation of protein maturation
+GO:0035282	12	GO:0009791	post-embryonic development
+GO:0048580	12	GO:0009791	post-embryonic development
+GO:0061844	5	GO:0045088	regulation of innate immune response
+GO:0048585	6	GO:0048585	negative regulation of response to stimulus
+GO:0031638	10	GO:0080120	CAAX-box protein maturation
+GO:0046785	16	GO:0031122	cytoplasmic microtubule organization
+GO:0071805	13	GO:0010496	intercellular transport
+GO:0051568	10	GO:0080120	CAAX-box protein maturation
+GO:0051584	13	GO:0010496	intercellular transport
+GO:0043954	16	GO:0031122	cytoplasmic microtubule organization
+GO:0048678	18	GO:0035199	salt aversion
+GO:0006749	9	GO:0006020	inositol metabolic process
+GO:0035725	13	GO:0010496	intercellular transport
+GO:1904659	13	GO:0010496	intercellular transport
+GO:1902883	6	GO:0048585	negative regulation of response to stimulus
+GO:1903510	10	GO:0080120	CAAX-box protein maturation
+GO:0046835	9	GO:0006020	inositol metabolic process
+GO:0051666	21	GO:0019835	cytolysis
+GO:0016567	10	GO:0080120	CAAX-box protein maturation
+GO:0060079	1	GO:0045879	negative regulation of smoothened signaling pathway
+GO:0032968	8	GO:0071897	DNA biosynthetic process
+GO:0080028	9	GO:0006020	inositol metabolic process
+GO:0008645	13	GO:0010496	intercellular transport
+GO:0006813	13	GO:0010496	intercellular transport
+GO:0006814	13	GO:0010496	intercellular transport
+GO:0051603	10	GO:0080120	CAAX-box protein maturation
+GO:0015807	13	GO:0010496	intercellular transport
+GO:0045814	7	GO:1903317	regulation of protein maturation
+GO:1902531	2	GO:0035556	intracellular signal transduction
+GO:0002920	6	GO:0048585	negative regulation of response to stimulus
+GO:0140042	16	GO:0031122	cytoplasmic microtubule organization
+GO:0006582	9	GO:0006020	inositol metabolic process
+GO:0035556	2	GO:0035556	intracellular signal transduction
+GO:0010469	2	GO:0035556	intracellular signal transduction
+GO:0046662	19	GO:0042752	regulation of circadian rhythm
+GO:0006511	10	GO:0080120	CAAX-box protein maturation
+GO:0010452	10	GO:0080120	CAAX-box protein maturation
+GO:0018992	12	GO:0009791	post-embryonic development
+GO:1901562	18	GO:0035199	salt aversion
+GO:0046620	19	GO:0042752	regulation of circadian rhythm
+GO:0046621	19	GO:0042752	regulation of circadian rhythm
+GO:0051053	8	GO:0071897	DNA biosynthetic process
+GO:1902042	1	GO:0045879	negative regulation of smoothened signaling pathway
+GO:1902043	1	GO:0045879	negative regulation of smoothened signaling pathway
+GO:0048742	19	GO:0042752	regulation of circadian rhythm
+GO:0032222	1	GO:0045879	negative regulation of smoothened signaling pathway
+GO:0043045	8	GO:0071897	DNA biosynthetic process
+GO:0080009	8	GO:0071897	DNA biosynthetic process
+GO:0010955	7	GO:1903317	regulation of protein maturation
+GO:0043009	12	GO:0009791	post-embryonic development
+GO:0039700	16	GO:0031122	cytoplasmic microtubule organization
+GO:0032757	7	GO:1903317	regulation of protein maturation
+GO:0007308	11	GO:0007308	oocyte construction
+GO:0007309	11	GO:0007308	oocyte construction
+GO:0007496	12	GO:0009791	post-embryonic development
+GO:0046069	9	GO:0006020	inositol metabolic process
+GO:0001963	21	GO:0019835	cytolysis
+GO:0050960	18	GO:0035199	salt aversion
+GO:0050961	18	GO:0035199	salt aversion
+GO:0050965	18	GO:0035199	salt aversion
+GO:0050966	18	GO:0035199	salt aversion
+GO:0050968	18	GO:0035199	salt aversion
+GO:1905037	16	GO:0031122	cytoplasmic microtubule organization
+GO:0001910	6	GO:0048585	negative regulation of response to stimulus
+GO:0007443	12	GO:0009791	post-embryonic development
+GO:0001913	6	GO:0048585	negative regulation of response to stimulus
+GO:0001914	6	GO:0048585	negative regulation of response to stimulus
+GO:0035246	10	GO:0080120	CAAX-box protein maturation
+GO:0050921	4	GO:0071624	positive regulation of granulocyte chemotaxis
+GO:0001947	12	GO:0009791	post-embryonic development
+GO:0070988	21	GO:0019835	cytolysis
+GO:0008589	2	GO:0035556	intracellular signal transduction
+GO:0044782	16	GO:0031122	cytoplasmic microtubule organization
+GO:0044725	8	GO:0071897	DNA biosynthetic process
+GO:0044726	8	GO:0071897	DNA biosynthetic process
+GO:0007188	2	GO:0035556	intracellular signal transduction
+GO:0007189	2	GO:0035556	intracellular signal transduction
+GO:0007127	17	GO:0007127	meiosis I
+GO:0071364	18	GO:0035199	salt aversion
+GO:0048619	12	GO:0009791	post-embryonic development
+GO:0007140	17	GO:0007127	meiosis I
+GO:0043330	18	GO:0035199	salt aversion
+GO:0140353	13	GO:0010496	intercellular transport
+GO:0140354	13	GO:0010496	intercellular transport
+GO:0071320	18	GO:0035199	salt aversion
+GO:0051300	16	GO:0031122	cytoplasmic microtubule organization
+GO:0031156	19	GO:0042752	regulation of circadian rhythm
+GO:1903818	14	GO:0034765	regulation of ion transmembrane transport
+GO:0007291	11	GO:0007308	oocyte construction
+GO:0051497	16	GO:0031122	cytoplasmic microtubule organization
+GO:0032691	7	GO:1903317	regulation of protein maturation
+GO:0031146	10	GO:0080120	CAAX-box protein maturation
+GO:0031103	21	GO:0019835	cytolysis
+GO:0007228	8	GO:0071897	DNA biosynthetic process
+GO:0071467	18	GO:0035199	salt aversion
+GO:0007214	2	GO:0035556	intracellular signal transduction
+GO:0032677	7	GO:1903317	regulation of protein maturation
+GO:0043410	1	GO:0045879	negative regulation of smoothened signaling pathway
+GO:0032637	7	GO:1903317	regulation of protein maturation
+GO:0043407	1	GO:0045879	negative regulation of smoothened signaling pathway
+GO:0009048	7	GO:1903317	regulation of protein maturation
+GO:0031288	12	GO:0009791	post-embryonic development
+GO:0035590	2	GO:0035556	intracellular signal transduction
+GO:0042044	13	GO:0010496	intercellular transport
+GO:0060140	15	GO:1902905	positive regulation of supramolecular fiber organization
+GO:0060141	15	GO:1902905	positive regulation of supramolecular fiber organization
+GO:0120192	16	GO:0031122	cytoplasmic microtubule organization
+GO:0060142	15	GO:1902905	positive regulation of supramolecular fiber organization
+GO:0120193	16	GO:0031122	cytoplasmic microtubule organization
+GO:0060143	15	GO:1902905	positive regulation of supramolecular fiber organization
+GO:1902159	14	GO:0034765	regulation of ion transmembrane transport
+GO:0046386	9	GO:0006020	inositol metabolic process
+GO:0002066	21	GO:0019835	cytolysis
+GO:1903507	8	GO:0071897	DNA biosynthetic process
+GO:0080120	10	GO:0080120	CAAX-box protein maturation
+GO:1905340	19	GO:0042752	regulation of circadian rhythm
+GO:0080111	8	GO:0071897	DNA biosynthetic process
+GO:1905342	19	GO:0042752	regulation of circadian rhythm
+GO:0046324	14	GO:0034765	regulation of ion transmembrane transport
+GO:0046325	14	GO:0034765	regulation of ion transmembrane transport
+GO:0046326	14	GO:0034765	regulation of ion transmembrane transport
+GO:0060100	15	GO:1902905	positive regulation of supramolecular fiber organization
+GO:0060290	21	GO:0019835	cytolysis
+GO:0014074	18	GO:0035199	salt aversion
+GO:0043297	16	GO:0031122	cytoplasmic microtubule organization
+GO:0019991	16	GO:0031122	cytoplasmic microtubule organization
+GO:1905476	19	GO:0042752	regulation of circadian rhythm
+GO:2001242	1	GO:0045879	negative regulation of smoothened signaling pathway
+GO:0071294	18	GO:0035199	salt aversion
+GO:0043271	14	GO:0034765	regulation of ion transmembrane transport
+GO:0043247	8	GO:0071897	DNA biosynthetic process
+GO:0045055	13	GO:0010496	intercellular transport
+GO:0071222	18	GO:0035199	salt aversion
+GO:0045071	19	GO:0042752	regulation of circadian rhythm
+GO:1905155	15	GO:1902905	positive regulation of supramolecular fiber organization
+GO:0009394	9	GO:0006020	inositol metabolic process
+GO:0075509	13	GO:0010496	intercellular transport
+GO:0032922	7	GO:1903317	regulation of protein maturation
+GO:0007549	7	GO:1903317	regulation of protein maturation
+GO:0060820	8	GO:0071897	DNA biosynthetic process
+GO:0051898	1	GO:0045879	negative regulation of smoothened signaling pathway
+GO:0000578	12	GO:0009791	post-embryonic development
+GO:0071897	8	GO:0071897	DNA biosynthetic process
+GO:0051873	5	GO:0045088	regulation of innate immune response
+GO:0010032	17	GO:0007127	meiosis I
+GO:0018107	10	GO:0080120	CAAX-box protein maturation
+GO:0006278	8	GO:0071897	DNA biosynthetic process
+GO:0042420	9	GO:0006020	inositol metabolic process
+GO:0042421	9	GO:0006020	inositol metabolic process
+GO:0060575	12	GO:0009791	post-embryonic development
+GO:0060576	12	GO:0009791	post-embryonic development
+GO:0051591	18	GO:0035199	salt aversion
+GO:0051569	10	GO:0080120	CAAX-box protein maturation
+GO:0034333	16	GO:0031122	cytoplasmic microtubule organization
+GO:0035929	13	GO:0010496	intercellular transport
+GO:0090022	4	GO:0071624	positive regulation of granulocyte chemotaxis
+GO:0090023	4	GO:0071624	positive regulation of granulocyte chemotaxis
+GO:0071555	16	GO:0031122	cytoplasmic microtubule organization
+GO:2000053	1	GO:0045879	negative regulation of smoothened signaling pathway
+GO:2000055	1	GO:0045879	negative regulation of smoothened signaling pathway
+GO:0009154	9	GO:0006020	inositol metabolic process
+GO:0009157	9	GO:0006020	inositol metabolic process
+GO:0035930	13	GO:0010496	intercellular transport
+GO:0035933	13	GO:0010496	intercellular transport
+GO:0071514	8	GO:0071897	DNA biosynthetic process
+GO:0034486	13	GO:0010496	intercellular transport
+GO:0060612	12	GO:0009791	post-embryonic development
+GO:0046855	9	GO:0006020	inositol metabolic process
+GO:0046856	9	GO:0006020	inositol metabolic process
+GO:0060631	17	GO:0007127	meiosis I
+GO:0043652	13	GO:0010496	intercellular transport
+GO:0046822	14	GO:0034765	regulation of ion transmembrane transport
+GO:1902624	4	GO:0071624	positive regulation of granulocyte chemotaxis
+GO:0045490	9	GO:0006020	inositol metabolic process
+GO:0006897	13	GO:0010496	intercellular transport
+GO:0009261	9	GO:0006020	inositol metabolic process
+GO:0009263	9	GO:0006020	inositol metabolic process
+GO:0009264	9	GO:0006020	inositol metabolic process
+GO:0009268	18	GO:0035199	salt aversion
+GO:0110077	13	GO:0010496	intercellular transport
+GO:1905808	15	GO:1902905	positive regulation of supramolecular fiber organization
+GO:0061057	2	GO:0035556	intracellular signal transduction
+GO:0061058	2	GO:0035556	intracellular signal transduction
+GO:0071622	4	GO:0071624	positive regulation of granulocyte chemotaxis
+GO:0071624	4	GO:0071624	positive regulation of granulocyte chemotaxis
+GO:0009214	9	GO:0006020	inositol metabolic process
+GO:0006833	13	GO:0010496	intercellular transport
+GO:1905516	19	GO:0042752	regulation of circadian rhythm
+GO:0062149	18	GO:0035199	salt aversion
+GO:0009753	18	GO:0035199	salt aversion
+GO:0042752	19	GO:0042752	regulation of circadian rhythm
+GO:0042753	19	GO:0042752	regulation of circadian rhythm
+GO:0030318	21	GO:0019835	cytolysis
+GO:0010305	12	GO:0009791	post-embryonic development
+GO:0006589	9	GO:0006020	inositol metabolic process
+GO:0046692	11	GO:0007308	oocyte construction
+GO:0046693	11	GO:0007308	oocyte construction
+GO:0045141	17	GO:0007127	meiosis I
+GO:0010493	9	GO:0006020	inositol metabolic process
+GO:0009733	18	GO:0035199	salt aversion
+GO:0010496	13	GO:0010496	intercellular transport
+GO:0036092	9	GO:0006020	inositol metabolic process
+GO:0042749	19	GO:0042752	regulation of circadian rhythm
+GO:0046683	18	GO:0035199	salt aversion
+GO:0097499	21	GO:0019835	cytolysis
+GO:0090317	14	GO:0034765	regulation of ion transmembrane transport
+GO:0098801	19	GO:0042752	regulation of circadian rhythm
+GO:0009825	21	GO:0019835	cytolysis
+GO:0002704	6	GO:0048585	negative regulation of response to stimulus
+GO:0060986	13	GO:0010496	intercellular transport
+GO:0002707	6	GO:0048585	negative regulation of response to stimulus
+GO:0002709	6	GO:0048585	negative regulation of response to stimulus
+GO:0090305	8	GO:0071897	DNA biosynthetic process
+GO:0090306	17	GO:0007127	meiosis I
+GO:0034729	10	GO:0080120	CAAX-box protein maturation
+GO:0043951	1	GO:0045879	negative regulation of smoothened signaling pathway
+GO:0009597	5	GO:0045088	regulation of innate immune response
+GO:0060903	17	GO:0007127	meiosis I
+GO:0097194	21	GO:0019835	cytolysis
+GO:0030168	21	GO:0019835	cytolysis
+GO:0002820	6	GO:0048585	negative regulation of response to stimulus
+GO:0002823	6	GO:0048585	negative regulation of response to stimulus
+GO:0042595	18	GO:0035199	salt aversion
+GO:0030177	1	GO:0045879	negative regulation of smoothened signaling pathway
+GO:0009581	18	GO:0035199	salt aversion
+GO:0009582	18	GO:0035199	salt aversion
+GO:0061333	12	GO:0009791	post-embryonic development
+GO:1901536	8	GO:0071897	DNA biosynthetic process
+GO:0045739	8	GO:0071897	DNA biosynthetic process
+GO:0030100	15	GO:1902905	positive regulation of supramolecular fiber organization
+GO:0008069	11	GO:0007308	oocyte construction
+GO:0045892	8	GO:0071897	DNA biosynthetic process
+GO:0010225	18	GO:0035199	salt aversion
+GO:0010216	8	GO:0071897	DNA biosynthetic process
+GO:0097264	10	GO:0080120	CAAX-box protein maturation
+GO:0045879	1	GO:0045879	negative regulation of smoothened signaling pathway
+GO:0030243	9	GO:0006020	inositol metabolic process
+GO:0097240	21	GO:0019835	cytolysis
+GO:0010799	10	GO:0080120	CAAX-box protein maturation
+GO:0045836	17	GO:0007127	meiosis I
+GO:0002690	4	GO:0071624	positive regulation of granulocyte chemotaxis
+GO:2000105	8	GO:0071897	DNA biosynthetic process
+GO:0033198	18	GO:0035199	salt aversion
+GO:0010753	1	GO:0045879	negative regulation of smoothened signaling pathway
+GO:0016334	21	GO:0019835	cytolysis
+GO:0002687	4	GO:0071624	positive regulation of granulocyte chemotaxis
+GO:0090288	1	GO:0045879	negative regulation of smoothened signaling pathway
+GO:1904491	21	GO:0019835	cytolysis
+GO:0046931	16	GO:0031122	cytoplasmic microtubule organization
+GO:0006964	3	GO:0002808	regulation of antibacterial peptide biosynthetic process
+GO:0033137	10	GO:0080120	CAAX-box protein maturation
+GO:0006971	18	GO:0035199	salt aversion
+GO:0006911	13	GO:0010496	intercellular transport
+GO:0016485	10	GO:0080120	CAAX-box protein maturation
+GO:0006948	21	GO:0019835	cytolysis
+GO:0033298	16	GO:0031122	cytoplasmic microtubule organization
+GO:0034612	18	GO:0035199	salt aversion
+GO:0034644	18	GO:0035199	salt aversion
+GO:0070286	16	GO:0031122	cytoplasmic microtubule organization
+GO:0034633	13	GO:0010496	intercellular transport
+GO:0010829	14	GO:0034765	regulation of ion transmembrane transport
+GO:0015074	8	GO:0071897	DNA biosynthetic process
+GO:0033227	13	GO:0010496	intercellular transport
+GO:0072080	12	GO:0009791	post-embryonic development
+GO:0072088	12	GO:0009791	post-embryonic development
+GO:2000781	8	GO:0071897	DNA biosynthetic process
+GO:0072078	12	GO:0009791	post-embryonic development
+GO:0072028	12	GO:0009791	post-embryonic development
+GO:0070206	16	GO:0031122	cytoplasmic microtubule organization
+GO:0048311	16	GO:0031122	cytoplasmic microtubule organization
+GO:0045638	19	GO:0042752	regulation of circadian rhythm
+GO:0072009	12	GO:0009791	post-embryonic development
+GO:0070782	13	GO:0010496	intercellular transport
+GO:0001701	12	GO:0009791	post-embryonic development
+GO:0010520	8	GO:0071897	DNA biosynthetic process
+GO:0070741	18	GO:0035199	salt aversion
+GO:0010540	13	GO:0010496	intercellular transport
+GO:0009965	12	GO:0009791	post-embryonic development
+GO:0009950	12	GO:0009791	post-embryonic development
+GO:0009956	12	GO:0009791	post-embryonic development
+GO:0030514	1	GO:0045879	negative regulation of smoothened signaling pathway
+GO:0050850	1	GO:0045879	negative regulation of smoothened signaling pathway
+GO:0009933	12	GO:0009791	post-embryonic development
+GO:0036297	8	GO:0071897	DNA biosynthetic process
+GO:0050829	5	GO:0045088	regulation of innate immune response
+GO:0050848	2	GO:0035556	intracellular signal transduction
+GO:0070874	7	GO:1903317	regulation of protein maturation
+GO:0070816	8	GO:0071897	DNA biosynthetic process
+GO:0010635	15	GO:1902905	positive regulation of supramolecular fiber organization
+GO:0048167	1	GO:0045879	negative regulation of smoothened signaling pathway
+GO:0048168	1	GO:0045879	negative regulation of smoothened signaling pathway
+GO:0002931	18	GO:0035199	salt aversion
+GO:1903394	16	GO:0031122	cytoplasmic microtubule organization
+GO:0040029	7	GO:1903317	regulation of protein maturation
+GO:0001502	12	GO:0009791	post-embryonic development
+GO:0070527	21	GO:0019835	cytolysis
+GO:0033559	9	GO:0006020	inositol metabolic process
+GO:1903317	7	GO:1903317	regulation of protein maturation
+GO:1903318	7	GO:1903317	regulation of protein maturation
+GO:1900118	19	GO:0042752	regulation of circadian rhythm
+GO:2000653	8	GO:0071897	DNA biosynthetic process
+GO:0048262	12	GO:0009791	post-embryonic development
+GO:0048263	12	GO:0009791	post-embryonic development
+GO:0072378	10	GO:0080120	CAAX-box protein maturation
+GO:0031038	16	GO:0031122	cytoplasmic microtubule organization
+GO:0000045	16	GO:0031122	cytoplasmic microtubule organization
+GO:0019284	9	GO:0006020	inositol metabolic process
+GO:0035332	1	GO:0045879	negative regulation of smoothened signaling pathway
+GO:0033692	9	GO:0006020	inositol metabolic process
+GO:0035305	19	GO:0042752	regulation of circadian rhythm
+GO:0008277	2	GO:0035556	intracellular signal transduction
+GO:0048793	12	GO:0009791	post-embryonic development
+GO:0070613	7	GO:1903317	regulation of protein maturation
+GO:0051092	8	GO:0071897	DNA biosynthetic process

@@ -1,0 +1,25 @@
+GO:0030048	1	GO:0030048	actin filament-based movement
+GO:0030239	1	GO:0030048	actin filament-based movement
+GO:0045818	4	GO:0005981	regulation of glycogen catabolic process
+GO:0036503	1	GO:0030048	actin filament-based movement
+GO:0006941	1	GO:0030048	actin filament-based movement
+GO:0070873	4	GO:0005981	regulation of glycogen catabolic process
+GO:0070874	4	GO:0005981	regulation of glycogen catabolic process
+GO:0043470	3	GO:0045912	negative regulation of carbohydrate metabolic process
+GO:0043471	3	GO:0045912	negative regulation of carbohydrate metabolic process
+GO:0070252	1	GO:0030048	actin filament-based movement
+GO:0044247	2	GO:0005980	glycogen catabolic process
+GO:0010677	3	GO:0045912	negative regulation of carbohydrate metabolic process
+GO:0050879	1	GO:0030048	actin filament-based movement
+GO:0032881	3	GO:0045912	negative regulation of carbohydrate metabolic process
+GO:0032507	1	GO:0030048	actin filament-based movement
+GO:0045912	3	GO:0045912	negative regulation of carbohydrate metabolic process
+GO:0005980	2	GO:0005980	glycogen catabolic process
+GO:0005981	4	GO:0005981	regulation of glycogen catabolic process
+GO:0050905	1	GO:0030048	actin filament-based movement
+GO:0030837	1	GO:0030048	actin filament-based movement
+GO:0005978	2	GO:0005980	glycogen catabolic process
+GO:0055014	1	GO:0030048	actin filament-based movement
+GO:0009792	1	GO:0030048	actin filament-based movement
+GO:0009250	2	GO:0005980	glycogen catabolic process
+GO:0009251	2	GO:0005980	glycogen catabolic process

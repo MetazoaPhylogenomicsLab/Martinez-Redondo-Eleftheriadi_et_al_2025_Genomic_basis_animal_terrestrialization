@@ -1,0 +1,18 @@
+GO:2000242	1	GO:0007165	signal transduction
+GO:0042026	1	GO:0007165	signal transduction
+GO:0009408	1	GO:0007165	signal transduction
+GO:0001516	1	GO:0007165	signal transduction
+GO:0007626	1	GO:0007165	signal transduction
+GO:0007165	1	GO:0007165	signal transduction
+GO:0006749	1	GO:0007165	signal transduction
+GO:0045087	1	GO:0007165	signal transduction
+GO:0051014	1	GO:0007165	signal transduction
+GO:0051016	2	GO:0051016	barbed-end actin filament capping
+GO:0006790	1	GO:0007165	signal transduction
+GO:0046513	1	GO:0007165	signal transduction
+GO:2000254	1	GO:0007165	signal transduction
+GO:0051639	1	GO:0007165	signal transduction
+GO:0006954	1	GO:0007165	signal transduction
+GO:0150146	1	GO:0007165	signal transduction
+GO:0051693	2	GO:0051016	barbed-end actin filament capping
+GO:0006685	1	GO:0007165	signal transduction

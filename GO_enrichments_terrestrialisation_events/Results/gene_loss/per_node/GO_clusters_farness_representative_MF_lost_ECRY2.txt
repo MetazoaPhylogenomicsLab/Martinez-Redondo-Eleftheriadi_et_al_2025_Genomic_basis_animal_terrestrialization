@@ -1,0 +1,113 @@
+GO:0003968	9	GO:0061659	ubiquitin-like protein ligase activity
+GO:0042834	1	GO:0048038	quinone binding
+GO:0005229	6	GO:0022884	macromolecule transmembrane transporter activity
+GO:0043035	4	GO:0009374	biotin binding
+GO:0046920	9	GO:0061659	ubiquitin-like protein ligase activity
+GO:0042802	2	GO:0019899	enzyme binding
+GO:0004983	3	GO:0038023	signaling receptor activity
+GO:0004984	3	GO:0038023	signaling receptor activity
+GO:0009374	4	GO:0009374	biotin binding
+GO:0009378	8	GO:0004519	endonuclease activity
+GO:0004523	8	GO:0004519	endonuclease activity
+GO:0000405	4	GO:0009374	biotin binding
+GO:0035438	4	GO:0009374	biotin binding
+GO:0008251	8	GO:0004519	endonuclease activity
+GO:0004519	8	GO:0004519	endonuclease activity
+GO:0051082	2	GO:0019899	enzyme binding
+GO:0008270	4	GO:0009374	biotin binding
+GO:0045296	2	GO:0019899	enzyme binding
+GO:0052866	8	GO:0004519	endonuclease activity
+GO:0038023	3	GO:0038023	signaling receptor activity
+GO:0003697	4	GO:0009374	biotin binding
+GO:0004908	3	GO:0038023	signaling receptor activity
+GO:0001227	7	GO:0003700	DNA-binding transcription factor activity
+GO:0001228	7	GO:0003700	DNA-binding transcription factor activity
+GO:0061501	9	GO:0061659	ubiquitin-like protein ligase activity
+GO:0061507	4	GO:0009374	biotin binding
+GO:0000981	7	GO:0003700	DNA-binding transcription factor activity
+GO:0008201	1	GO:0048038	quinone binding
+GO:0000977	4	GO:0009374	biotin binding
+GO:0000978	4	GO:0009374	biotin binding
+GO:0003677	4	GO:0009374	biotin binding
+GO:0032813	1	GO:0048038	quinone binding
+GO:0043130	2	GO:0019899	enzyme binding
+GO:0043138	8	GO:0004519	endonuclease activity
+GO:0061665	9	GO:0061659	ubiquitin-like protein ligase activity
+GO:0050700	2	GO:0019899	enzyme binding
+GO:0019706	9	GO:0061659	ubiquitin-like protein ligase activity
+GO:0061659	9	GO:0061659	ubiquitin-like protein ligase activity
+GO:0019707	9	GO:0061659	ubiquitin-like protein ligase activity
+GO:0140030	2	GO:0019899	enzyme binding
+GO:0140034	2	GO:0019899	enzyme binding
+GO:0031996	2	GO:0019899	enzyme binding
+GO:0019899	2	GO:0019899	enzyme binding
+GO:0008320	6	GO:0022884	macromolecule transmembrane transporter activity
+GO:0038187	3	GO:0038023	signaling receptor activity
+GO:1990782	2	GO:0019899	enzyme binding
+GO:0061630	9	GO:0061659	ubiquitin-like protein ligase activity
+GO:0019864	1	GO:0048038	quinone binding
+GO:0097199	9	GO:0061659	ubiquitin-like protein ligase activity
+GO:0005080	2	GO:0019899	enzyme binding
+GO:0034595	8	GO:0004519	endonuclease activity
+GO:0097153	9	GO:0061659	ubiquitin-like protein ligase activity
+GO:0043621	2	GO:0019899	enzyme binding
+GO:0050431	2	GO:0019899	enzyme binding
+GO:0050839	2	GO:0019899	enzyme binding
+GO:0005044	7	GO:0003700	DNA-binding transcription factor activity
+GO:0003726	8	GO:0004519	endonuclease activity
+GO:0071889	2	GO:0019899	enzyme binding
+GO:0019838	2	GO:0019899	enzyme binding
+GO:0022884	6	GO:0022884	macromolecule transmembrane transporter activity
+GO:0003713	7	GO:0003700	DNA-binding transcription factor activity
+GO:0004714	9	GO:0061659	ubiquitin-like protein ligase activity
+GO:0015450	6	GO:0022884	macromolecule transmembrane transporter activity
+GO:0061778	6	GO:0022884	macromolecule transmembrane transporter activity
+GO:0003700	7	GO:0003700	DNA-binding transcription factor activity
+GO:0050998	2	GO:0019899	enzyme binding
+GO:0015026	3	GO:0038023	signaling receptor activity
+GO:0089720	2	GO:0019899	enzyme binding
+GO:0008417	9	GO:0061659	ubiquitin-like protein ligase activity
+GO:0004709	9	GO:0061659	ubiquitin-like protein ligase activity
+GO:0019966	2	GO:0019899	enzyme binding
+GO:0005160	1	GO:0048038	quinone binding
+GO:0005164	1	GO:0048038	quinone binding
+GO:0019955	2	GO:0019899	enzyme binding
+GO:0001042	1	GO:0048038	quinone binding
+GO:0030165	2	GO:0019899	enzyme binding
+GO:0016417	9	GO:0061659	ubiquitin-like protein ligase activity
+GO:0004896	3	GO:0038023	signaling receptor activity
+GO:0017022	2	GO:0019899	enzyme binding
+GO:0045028	3	GO:0038023	signaling receptor activity
+GO:0030551	4	GO:0009374	biotin binding
+GO:0030552	4	GO:0009374	biotin binding
+GO:0030957	1	GO:0048038	quinone binding
+GO:0003887	9	GO:0061659	ubiquitin-like protein ligase activity
+GO:0005123	1	GO:0048038	quinone binding
+GO:0050135	8	GO:0004519	endonuclease activity
+GO:0046872	1	GO:0048038	quinone binding
+GO:0005521	2	GO:0019899	enzyme binding
+GO:0005112	2	GO:0019899	enzyme binding
+GO:0005539	1	GO:0048038	quinone binding
+GO:0019900	2	GO:0019899	enzyme binding
+GO:0019901	2	GO:0019899	enzyme binding
+GO:0019902	2	GO:0019899	enzyme binding
+GO:0004842	9	GO:0061659	ubiquitin-like protein ligase activity
+GO:0004438	8	GO:0004519	endonuclease activity
+GO:0004439	8	GO:0004519	endonuclease activity
+GO:0010313	2	GO:0019899	enzyme binding
+GO:0051787	2	GO:0019899	enzyme binding
+GO:0098631	2	GO:0019899	enzyme binding
+GO:0098632	1	GO:0048038	quinone binding
+GO:0031369	2	GO:0019899	enzyme binding
+GO:0048038	1	GO:0048038	quinone binding
+GO:0001181	7	GO:0003700	DNA-binding transcription factor activity
+GO:0050265	9	GO:0061659	ubiquitin-like protein ligase activity
+GO:0008528	3	GO:0038023	signaling receptor activity
+GO:0002162	2	GO:0019899	enzyme binding
+GO:0017166	2	GO:0019899	enzyme binding
+GO:0045159	1	GO:0048038	quinone binding
+GO:0004190	9	GO:0061659	ubiquitin-like protein ligase activity
+GO:0035064	1	GO:0048038	quinone binding
+GO:0061809	8	GO:0004519	endonuclease activity
+GO:0016929	9	GO:0061659	ubiquitin-like protein ligase activity
+GO:0003964	9	GO:0061659	ubiquitin-like protein ligase activity

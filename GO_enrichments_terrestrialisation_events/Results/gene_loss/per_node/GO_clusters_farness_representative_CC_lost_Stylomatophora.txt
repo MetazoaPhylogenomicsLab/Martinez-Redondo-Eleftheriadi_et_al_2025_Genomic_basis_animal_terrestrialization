@@ -1,0 +1,121 @@
+GO:0042025	3	GO:0033643	host cell part
+GO:0044219	3	GO:0033643	host cell part
+GO:0032777	2	GO:0005634	nucleus
+GO:0030430	3	GO:0033643	host cell part
+GO:0033643	3	GO:0033643	host cell part
+GO:0055036	6	GO:0009986	cell surface
+GO:0016586	2	GO:0005634	nucleus
+GO:0044156	3	GO:0033643	host cell part
+GO:0000782	1	GO:0042151	nematocyst
+GO:0000783	2	GO:0005634	nucleus
+GO:0005634	2	GO:0005634	nucleus
+GO:0019031	4	GO:0044423	virion component
+GO:0019033	4	GO:0044423	virion component
+GO:0044423	4	GO:0044423	virion component
+GO:0005576	6	GO:0009986	cell surface
+GO:0019013	4	GO:0044423	virion component
+GO:0031160	6	GO:0009986	cell surface
+GO:0042151	1	GO:0042151	nematocyst
+GO:0034399	2	GO:0005634	nucleus
+GO:0020002	3	GO:0033643	host cell part
+GO:0000781	1	GO:0042151	nematocyst
+GO:0020007	6	GO:0009986	cell surface
+GO:0020009	2	GO:0005634	nucleus
+GO:0098025	4	GO:0044423	virion component
+GO:0005777	2	GO:0005634	nucleus
+GO:0036128	5	GO:0061702	inflammasome complex
+GO:0044177	3	GO:0033643	host cell part
+GO:0044178	3	GO:0033643	host cell part
+GO:0045120	2	GO:0005634	nucleus
+GO:0034704	5	GO:0061702	inflammasome complex
+GO:0031143	6	GO:0009986	cell surface
+GO:0044354	1	GO:0042151	nematocyst
+GO:0030666	1	GO:0042151	nematocyst
+GO:0045335	1	GO:0042151	nematocyst
+GO:0009897	6	GO:0009986	cell surface
+GO:0001891	6	GO:0009986	cell surface
+GO:0005680	2	GO:0005634	nucleus
+GO:0031260	6	GO:0009986	cell surface
+GO:0005863	1	GO:0042151	nematocyst
+GO:0005615	6	GO:0009986	cell surface
+GO:0033255	2	GO:0005634	nucleus
+GO:0042600	6	GO:0009986	cell surface
+GO:0009277	6	GO:0009986	cell surface
+GO:0009986	6	GO:0009986	cell surface
+GO:0000214	2	GO:0005634	nucleus
+GO:0031097	1	GO:0042151	nematocyst
+GO:0051285	1	GO:0042151	nematocyst
+GO:0001940	2	GO:0005634	nucleus
+GO:0019028	4	GO:0044423	virion component
+GO:0042575	5	GO:0061702	inflammasome complex
+GO:0033655	3	GO:0033643	host cell part
+GO:0000408	5	GO:0061702	inflammasome complex
+GO:0030670	1	GO:0042151	nematocyst
+GO:0045211	6	GO:0009986	cell surface
+GO:0033645	3	GO:0033643	host cell part
+GO:0044165	3	GO:0033643	host cell part
+GO:0044167	3	GO:0033643	host cell part
+GO:0098794	6	GO:0009986	cell surface
+GO:0005640	1	GO:0042151	nematocyst
+GO:0019029	4	GO:0044423	virion component
+GO:0072562	6	GO:0009986	cell surface
+GO:0005886	6	GO:0009986	cell surface
+GO:0033644	3	GO:0033643	host cell part
+GO:0030312	6	GO:0009986	cell surface
+GO:0034451	1	GO:0042151	nematocyst
+GO:0000347	2	GO:0005634	nucleus
+GO:0005911	6	GO:0009986	cell surface
+GO:0031012	6	GO:0009986	cell surface
+GO:0018995	6	GO:0009986	cell surface
+GO:0043657	3	GO:0033643	host cell part
+GO:0097060	6	GO:0009986	cell surface
+GO:0106083	2	GO:0005634	nucleus
+GO:0005796	2	GO:0005634	nucleus
+GO:0008076	5	GO:0061702	inflammasome complex
+GO:0031519	2	GO:0005634	nucleus
+GO:1990907	2	GO:0005634	nucleus
+GO:0070876	2	GO:0005634	nucleus
+GO:0005668	2	GO:0005634	nucleus
+GO:0016514	2	GO:0005634	nucleus
+GO:0098826	1	GO:0042151	nematocyst
+GO:0034361	5	GO:0061702	inflammasome complex
+GO:0034362	5	GO:0061702	inflammasome complex
+GO:0034364	5	GO:0061702	inflammasome complex
+GO:0035869	6	GO:0009986	cell surface
+GO:0005921	6	GO:0009986	cell surface
+GO:0005923	6	GO:0009986	cell surface
+GO:0035102	2	GO:0005634	nucleus
+GO:0000152	2	GO:0005634	nucleus
+GO:0005882	1	GO:0042151	nematocyst
+GO:0042627	5	GO:0061702	inflammasome complex
+GO:0042611	5	GO:0061702	inflammasome complex
+GO:0072558	5	GO:0061702	inflammasome complex
+GO:0072559	5	GO:0061702	inflammasome complex
+GO:0140288	2	GO:0005634	nucleus
+GO:0005814	1	GO:0042151	nematocyst
+GO:0035371	1	GO:0042151	nematocyst
+GO:0101003	1	GO:0042151	nematocyst
+GO:0031093	1	GO:0042151	nematocyst
+GO:0016605	2	GO:0005634	nucleus
+GO:0097226	6	GO:0009986	cell surface
+GO:0019814	5	GO:0061702	inflammasome complex
+GO:1990752	1	GO:0042151	nematocyst
+GO:0000801	2	GO:0005634	nucleus
+GO:0005581	5	GO:0061702	inflammasome complex
+GO:0034992	2	GO:0005634	nucleus
+GO:0106094	2	GO:0005634	nucleus
+GO:0034993	2	GO:0005634	nucleus
+GO:0031264	5	GO:0061702	inflammasome complex
+GO:0031265	5	GO:0061702	inflammasome complex
+GO:0061702	5	GO:0061702	inflammasome complex
+GO:0032580	1	GO:0042151	nematocyst
+GO:0033647	3	GO:0033643	host cell part
+GO:0033648	3	GO:0033643	host cell part
+GO:0046696	5	GO:0061702	inflammasome complex
+GO:0098802	5	GO:0061702	inflammasome complex
+GO:0005618	6	GO:0009986	cell surface
+GO:0001726	6	GO:0009986	cell surface
+GO:0010494	1	GO:0042151	nematocyst
+GO:0043235	5	GO:0061702	inflammasome complex
+GO:0098975	6	GO:0009986	cell surface
+GO:0098533	5	GO:0061702	inflammasome complex

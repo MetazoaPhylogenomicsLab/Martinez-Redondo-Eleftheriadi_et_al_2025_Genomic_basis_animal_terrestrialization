@@ -1,0 +1,80 @@
+GO:0043056	8	GO:0050879	multicellular organismal movement
+GO:0002098	4	GO:0042430	indole-containing compound metabolic process
+GO:0006569	4	GO:0042430	indole-containing compound metabolic process
+GO:0015721	3	GO:0006820	anion transport
+GO:0006559	4	GO:0042430	indole-containing compound metabolic process
+GO:0050913	8	GO:0050879	multicellular organismal movement
+GO:0016048	2	GO:0050960	detection of temperature stimulus involved in thermoception
+GO:0006570	4	GO:0042430	indole-containing compound metabolic process
+GO:0010035	6	GO:0060761	negative regulation of response to cytokine stimulus
+GO:1901046	8	GO:0050879	multicellular organismal movement
+GO:1901160	4	GO:0042430	indole-containing compound metabolic process
+GO:0015701	3	GO:0006820	anion transport
+GO:0046189	4	GO:0042430	indole-containing compound metabolic process
+GO:0048002	8	GO:0050879	multicellular organismal movement
+GO:0046008	8	GO:0050879	multicellular organismal movement
+GO:0006726	5	GO:0043474	pigment metabolic process involved in pigmentation
+GO:0046693	8	GO:0050879	multicellular organismal movement
+GO:0055085	3	GO:0006820	anion transport
+GO:0006718	4	GO:0042430	indole-containing compound metabolic process
+GO:0097164	5	GO:0043474	pigment metabolic process involved in pigmentation
+GO:0097502	5	GO:0043474	pigment metabolic process involved in pigmentation
+GO:0060761	6	GO:0060761	negative regulation of response to cytokine stimulus
+GO:0046148	5	GO:0043474	pigment metabolic process involved in pigmentation
+GO:1902358	3	GO:0006820	anion transport
+GO:0035672	3	GO:0006820	anion transport
+GO:0043324	5	GO:0043474	pigment metabolic process involved in pigmentation
+GO:1901653	1	GO:0071375	cellular response to peptide hormone stimulus
+GO:0019882	8	GO:0050879	multicellular organismal movement
+GO:0032868	1	GO:0071375	cellular response to peptide hormone stimulus
+GO:0032869	1	GO:0071375	cellular response to peptide hormone stimulus
+GO:0098656	3	GO:0006820	anion transport
+GO:0008344	8	GO:0050879	multicellular organismal movement
+GO:0009612	6	GO:0060761	negative regulation of response to cytokine stimulus
+GO:0051384	6	GO:0060761	negative regulation of response to cytokine stimulus
+GO:0007614	8	GO:0050879	multicellular organismal movement
+GO:0007616	8	GO:0050879	multicellular organismal movement
+GO:0007618	8	GO:0050879	multicellular organismal movement
+GO:0062149	2	GO:0050960	detection of temperature stimulus involved in thermoception
+GO:0043252	3	GO:0006820	anion transport
+GO:0031960	6	GO:0060761	negative regulation of response to cytokine stimulus
+GO:0007631	8	GO:0050879	multicellular organismal movement
+GO:0090646	4	GO:0042430	indole-containing compound metabolic process
+GO:1902600	3	GO:0006820	anion transport
+GO:0071375	1	GO:0071375	cellular response to peptide hormone stimulus
+GO:0008306	8	GO:0050879	multicellular organismal movement
+GO:1901607	4	GO:0042430	indole-containing compound metabolic process
+GO:0034220	3	GO:0006820	anion transport
+GO:0006820	3	GO:0006820	anion transport
+GO:0006821	3	GO:0006820	anion transport
+GO:0016925	4	GO:0042430	indole-containing compound metabolic process
+GO:0071346	6	GO:0060761	negative regulation of response to cytokine stimulus
+GO:0035235	6	GO:0060761	negative regulation of response to cytokine stimulus
+GO:0001960	6	GO:0060761	negative regulation of response to cytokine stimulus
+GO:0030488	4	GO:0042430	indole-containing compound metabolic process
+GO:0001966	6	GO:0060761	negative regulation of response to cytokine stimulus
+GO:0001959	6	GO:0060761	negative regulation of response to cytokine stimulus
+GO:0043474	5	GO:0043474	pigment metabolic process involved in pigmentation
+GO:0050879	8	GO:0050879	multicellular organismal movement
+GO:0051999	4	GO:0042430	indole-containing compound metabolic process
+GO:0042428	4	GO:0042430	indole-containing compound metabolic process
+GO:0006972	6	GO:0060761	negative regulation of response to cytokine stimulus
+GO:1902476	3	GO:0006820	anion transport
+GO:0032447	4	GO:0042430	indole-containing compound metabolic process
+GO:0042440	5	GO:0043474	pigment metabolic process involved in pigmentation
+GO:0042441	5	GO:0043474	pigment metabolic process involved in pigmentation
+GO:0042430	4	GO:0042430	indole-containing compound metabolic process
+GO:0050960	2	GO:0050960	detection of temperature stimulus involved in thermoception
+GO:0050961	2	GO:0050960	detection of temperature stimulus involved in thermoception
+GO:0002474	8	GO:0050879	multicellular organismal movement
+GO:0043434	1	GO:0071375	cellular response to peptide hormone stimulus
+GO:0042435	4	GO:0042430	indole-containing compound metabolic process
+GO:0042436	4	GO:0042430	indole-containing compound metabolic process
+GO:0050965	2	GO:0050960	detection of temperature stimulus involved in thermoception
+GO:0044550	5	GO:0043474	pigment metabolic process involved in pigmentation
+GO:0050951	2	GO:0050960	detection of temperature stimulus involved in thermoception
+GO:0050955	2	GO:0050960	detection of temperature stimulus involved in thermoception
+GO:0046580	6	GO:0060761	negative regulation of response to cytokine stimulus
+GO:0015074	4	GO:0042430	indole-containing compound metabolic process
+GO:0048069	5	GO:0043474	pigment metabolic process involved in pigmentation
+GO:0019532	3	GO:0006820	anion transport

@@ -1,0 +1,433 @@
+GO:0006508	3	GO:0080120	CAAX-box protein maturation
+GO:1902679	1	GO:0006355	regulation of transcription, DNA-templated
+GO:0030476	15	GO:0007283	spermatogenesis
+GO:0030421	14	GO:0050877	nervous system process
+GO:1905114	10	GO:1990806	ligand-gated ion channel signaling pathway
+GO:0001945	8	GO:0007423	sensory organ development
+GO:0090303	18	GO:0050776	regulation of immune response
+GO:0045664	5	GO:0030182	neuron differentiation
+GO:0090494	11	GO:0051049	regulation of transport
+GO:0000463	4	GO:1901334	lactone metabolic process
+GO:0035634	9	GO:0046683	response to organophosphorus
+GO:1900037	10	GO:1990806	ligand-gated ion channel signaling pathway
+GO:1900038	10	GO:1990806	ligand-gated ion channel signaling pathway
+GO:0045617	5	GO:0030182	neuron differentiation
+GO:0030182	5	GO:0030182	neuron differentiation
+GO:0070374	10	GO:1990806	ligand-gated ion channel signaling pathway
+GO:0051940	11	GO:0051049	regulation of transport
+GO:0051934	11	GO:0051049	regulation of transport
+GO:0071940	12	GO:0051300	spindle pole body organization
+GO:0000165	10	GO:1990806	ligand-gated ion channel signaling pathway
+GO:0060456	16	GO:0048520	positive regulation of behavior
+GO:0000101	11	GO:0051049	regulation of transport
+GO:0042074	7	GO:0003002	regionalization
+GO:0003002	7	GO:0003002	regionalization
+GO:0019835	13	GO:0019835	cytolysis
+GO:0042044	11	GO:0051049	regulation of transport
+GO:0042045	11	GO:0051049	regulation of transport
+GO:0031099	7	GO:0003002	regionalization
+GO:0006953	18	GO:0050776	regulation of immune response
+GO:0006957	18	GO:0050776	regulation of immune response
+GO:0006958	18	GO:0050776	regulation of immune response
+GO:0002028	11	GO:0051049	regulation of transport
+GO:1900368	2	GO:0010906	regulation of glucose metabolic process
+GO:0031034	12	GO:0051300	spindle pole body organization
+GO:0034308	4	GO:1901334	lactone metabolic process
+GO:0070291	4	GO:1901334	lactone metabolic process
+GO:0045926	16	GO:0048520	positive regulation of behavior
+GO:1901976	10	GO:1990806	ligand-gated ion channel signaling pathway
+GO:0010838	12	GO:0051300	spindle pole body organization
+GO:0045934	1	GO:0006355	regulation of transcription, DNA-templated
+GO:0099565	10	GO:1990806	ligand-gated ion channel signaling pathway
+GO:0048013	10	GO:1990806	ligand-gated ion channel signaling pathway
+GO:0050776	18	GO:0050776	regulation of immune response
+GO:0042391	16	GO:0048520	positive regulation of behavior
+GO:0070741	9	GO:0046683	response to organophosphorus
+GO:0051049	11	GO:0051049	regulation of transport
+GO:0043410	10	GO:1990806	ligand-gated ion channel signaling pathway
+GO:0003300	14	GO:0050877	nervous system process
+GO:0008038	5	GO:0030182	neuron differentiation
+GO:0050868	18	GO:0050776	regulation of immune response
+GO:1903053	12	GO:0051300	spindle pole body organization
+GO:0043434	9	GO:0046683	response to organophosphorus
+GO:0090596	8	GO:0007423	sensory organ development
+GO:0050877	14	GO:0050877	nervous system process
+GO:0050819	16	GO:0048520	positive regulation of behavior
+GO:0070841	12	GO:0051300	spindle pole body organization
+GO:0034243	1	GO:0006355	regulation of transcription, DNA-templated
+GO:0070591	15	GO:0007283	spermatogenesis
+GO:0042438	4	GO:1901334	lactone metabolic process
+GO:0070593	5	GO:0030182	neuron differentiation
+GO:0034762	11	GO:0051049	regulation of transport
+GO:0034765	11	GO:0051049	regulation of transport
+GO:0035092	15	GO:0007283	spermatogenesis
+GO:0070527	18	GO:0050776	regulation of immune response
+GO:0043269	11	GO:0051049	regulation of transport
+GO:0014896	14	GO:0050877	nervous system process
+GO:0014897	14	GO:0050877	nervous system process
+GO:0072378	3	GO:0080120	CAAX-box protein maturation
+GO:0035010	18	GO:0050776	regulation of immune response
+GO:0035002	7	GO:0003002	regionalization
+GO:0035006	4	GO:1901334	lactone metabolic process
+GO:0035007	2	GO:0010906	regulation of glucose metabolic process
+GO:0060612	8	GO:0007423	sensory organ development
+GO:1905941	7	GO:0003002	regionalization
+GO:0070633	11	GO:0051049	regulation of transport
+GO:0009968	10	GO:1990806	ligand-gated ion channel signaling pathway
+GO:1905909	7	GO:0003002	regionalization
+GO:2000142	1	GO:0006355	regulation of transcription, DNA-templated
+GO:0031102	5	GO:0030182	neuron differentiation
+GO:0031103	5	GO:0030182	neuron differentiation
+GO:0010906	2	GO:0010906	regulation of glucose metabolic process
+GO:0002250	18	GO:0050776	regulation of immune response
+GO:2000292	16	GO:0048520	positive regulation of behavior
+GO:2000294	16	GO:0048520	positive regulation of behavior
+GO:0032786	1	GO:0006355	regulation of transcription, DNA-templated
+GO:0001113	1	GO:0006355	regulation of transcription, DNA-templated
+GO:0030902	8	GO:0007423	sensory organ development
+GO:0016339	13	GO:0019835	cytolysis
+GO:0007315	15	GO:0007283	spermatogenesis
+GO:0042730	18	GO:0050776	regulation of immune response
+GO:0042732	4	GO:1901334	lactone metabolic process
+GO:0036303	8	GO:0007423	sensory organ development
+GO:0016485	3	GO:0080120	CAAX-box protein maturation
+GO:0006368	1	GO:0006355	regulation of transcription, DNA-templated
+GO:0032879	16	GO:0048520	positive regulation of behavior
+GO:0006384	1	GO:0006355	regulation of transcription, DNA-templated
+GO:0007423	8	GO:0007423	sensory organ development
+GO:0036475	18	GO:0050776	regulation of immune response
+GO:0043534	12	GO:0051300	spindle pole body organization
+GO:0060964	2	GO:0010906	regulation of glucose metabolic process
+GO:1902475	11	GO:0051049	regulation of transport
+GO:0051253	1	GO:0006355	regulation of transcription, DNA-templated
+GO:1901346	7	GO:0003002	regionalization
+GO:0001756	7	GO:0003002	regionalization
+GO:0007160	13	GO:0019835	cytolysis
+GO:1901334	4	GO:1901334	lactone metabolic process
+GO:0007156	13	GO:0019835	cytolysis
+GO:0006468	3	GO:0080120	CAAX-box protein maturation
+GO:0097164	4	GO:1901334	lactone metabolic process
+GO:0042572	4	GO:1901334	lactone metabolic process
+GO:0016101	4	GO:1901334	lactone metabolic process
+GO:0046189	4	GO:1901334	lactone metabolic process
+GO:0008203	4	GO:1901334	lactone metabolic process
+GO:0021587	8	GO:0007423	sensory organ development
+GO:0021575	8	GO:0007423	sensory organ development
+GO:0035195	2	GO:0010906	regulation of glucose metabolic process
+GO:1903201	10	GO:1990806	ligand-gated ion channel signaling pathway
+GO:1903202	10	GO:1990806	ligand-gated ion channel signaling pathway
+GO:1903203	18	GO:0050776	regulation of immune response
+GO:1903204	18	GO:0050776	regulation of immune response
+GO:0007286	15	GO:0007283	spermatogenesis
+GO:0031589	13	GO:0019835	cytolysis
+GO:0061771	18	GO:0050776	regulation of immune response
+GO:0097264	3	GO:0080120	CAAX-box protein maturation
+GO:0021549	8	GO:0007423	sensory organ development
+GO:0045167	5	GO:0030182	neuron differentiation
+GO:0035176	16	GO:0048520	positive regulation of behavior
+GO:0098742	13	GO:0019835	cytolysis
+GO:0051897	10	GO:1990806	ligand-gated ion channel signaling pathway
+GO:0051899	16	GO:0048520	positive regulation of behavior
+GO:0021696	8	GO:0007423	sensory organ development
+GO:1903746	16	GO:0048520	positive regulation of behavior
+GO:0048808	8	GO:0007423	sensory organ development
+GO:0001523	4	GO:1901334	lactone metabolic process
+GO:0071852	13	GO:0019835	cytolysis
+GO:0035265	7	GO:0003002	regionalization
+GO:0051838	18	GO:0050776	regulation of immune response
+GO:0072574	8	GO:0007423	sensory organ development
+GO:0061844	18	GO:0050776	regulation of immune response
+GO:0048583	10	GO:1990806	ligand-gated ion channel signaling pathway
+GO:0048585	10	GO:1990806	ligand-gated ion channel signaling pathway
+GO:0031648	16	GO:0048520	positive regulation of behavior
+GO:0031638	3	GO:0080120	CAAX-box protein maturation
+GO:0035215	8	GO:0007423	sensory organ development
+GO:0051580	11	GO:0051049	regulation of transport
+GO:0051583	11	GO:0051049	regulation of transport
+GO:0051584	11	GO:0051049	regulation of transport
+GO:0048699	5	GO:0030182	neuron differentiation
+GO:0015740	11	GO:0051049	regulation of transport
+GO:0043970	3	GO:0080120	CAAX-box protein maturation
+GO:0019323	4	GO:1901334	lactone metabolic process
+GO:0006743	4	GO:1901334	lactone metabolic process
+GO:0048678	18	GO:0050776	regulation of immune response
+GO:0006744	4	GO:1901334	lactone metabolic process
+GO:0006749	4	GO:1901334	lactone metabolic process
+GO:1904659	11	GO:0051049	regulation of transport
+GO:0006730	4	GO:1901334	lactone metabolic process
+GO:0048644	8	GO:0007423	sensory organ development
+GO:1902883	18	GO:0050776	regulation of immune response
+GO:0051666	13	GO:0019835	cytolysis
+GO:0016567	3	GO:0080120	CAAX-box protein maturation
+GO:0007596	16	GO:0048520	positive regulation of behavior
+GO:0060078	16	GO:0048520	positive regulation of behavior
+GO:0060079	10	GO:1990806	ligand-gated ion channel signaling pathway
+GO:0032968	1	GO:0006355	regulation of transcription, DNA-templated
+GO:1903507	1	GO:0006355	regulation of transcription, DNA-templated
+GO:0015811	11	GO:0051049	regulation of transport
+GO:0045892	1	GO:0006355	regulation of transcription, DNA-templated
+GO:1902533	10	GO:1990806	ligand-gated ion channel signaling pathway
+GO:0006582	4	GO:1901334	lactone metabolic process
+GO:0010452	3	GO:0080120	CAAX-box protein maturation
+GO:0018996	16	GO:0048520	positive regulation of behavior
+GO:1901562	9	GO:0046683	response to organophosphorus
+GO:0046620	16	GO:0048520	positive regulation of behavior
+GO:0046622	16	GO:0048520	positive regulation of behavior
+GO:0007606	14	GO:0050877	nervous system process
+GO:0007608	14	GO:0050877	nervous system process
+GO:2001013	6	GO:0061333	renal tubule morphogenesis
+GO:0008205	4	GO:1901334	lactone metabolic process
+GO:0008209	4	GO:1901334	lactone metabolic process
+GO:0032222	10	GO:1990806	ligand-gated ion channel signaling pathway
+GO:0044179	13	GO:0019835	cytolysis
+GO:0072163	6	GO:0061333	renal tubule morphogenesis
+GO:0072164	6	GO:0061333	renal tubule morphogenesis
+GO:0035199	9	GO:0046683	response to organophosphorus
+GO:0048865	5	GO:0030182	neuron differentiation
+GO:0039700	12	GO:0051300	spindle pole body organization
+GO:0007378	7	GO:0003002	regionalization
+GO:0007310	15	GO:0007283	spermatogenesis
+GO:0007339	15	GO:0007283	spermatogenesis
+GO:0007496	8	GO:0007423	sensory organ development
+GO:0001963	12	GO:0051300	spindle pole body organization
+GO:0050960	14	GO:0050877	nervous system process
+GO:0050961	14	GO:0050877	nervous system process
+GO:0007474	6	GO:0061333	renal tubule morphogenesis
+GO:0050965	14	GO:0050877	nervous system process
+GO:0050966	14	GO:0050877	nervous system process
+GO:0007476	6	GO:0061333	renal tubule morphogenesis
+GO:0048520	16	GO:0048520	positive regulation of behavior
+GO:1905037	12	GO:0051300	spindle pole body organization
+GO:0050951	14	GO:0050877	nervous system process
+GO:0050955	14	GO:0050877	nervous system process
+GO:0007417	8	GO:0007423	sensory organ development
+GO:0007442	8	GO:0007423	sensory organ development
+GO:0007443	6	GO:0061333	renal tubule morphogenesis
+GO:0035235	10	GO:1990806	ligand-gated ion channel signaling pathway
+GO:0050914	14	GO:0050877	nervous system process
+GO:0046008	15	GO:0007283	spermatogenesis
+GO:0019532	11	GO:0051049	regulation of transport
+GO:0072756	9	GO:0046683	response to organophosphorus
+GO:0019695	4	GO:1901334	lactone metabolic process
+GO:0048663	5	GO:0030182	neuron differentiation
+GO:1902358	11	GO:0051049	regulation of transport
+GO:0007164	8	GO:0007423	sensory organ development
+GO:0007169	10	GO:1990806	ligand-gated ion channel signaling pathway
+GO:0015749	11	GO:0051049	regulation of transport
+GO:0035725	11	GO:0051049	regulation of transport
+GO:0071364	9	GO:0046683	response to organophosphorus
+GO:0048619	8	GO:0007423	sensory organ development
+GO:0015701	11	GO:0051049	regulation of transport
+GO:0071356	9	GO:0046683	response to organophosphorus
+GO:0071320	9	GO:0046683	response to organophosphorus
+GO:0051300	12	GO:0051300	spindle pole body organization
+GO:0051307	12	GO:0051300	spindle pole body organization
+GO:0038004	3	GO:0080120	CAAX-box protein maturation
+GO:1903818	11	GO:0051049	regulation of transport
+GO:0051497	12	GO:0051300	spindle pole body organization
+GO:1900619	4	GO:1901334	lactone metabolic process
+GO:0008645	11	GO:0051049	regulation of transport
+GO:1902476	11	GO:0051049	regulation of transport
+GO:0007283	15	GO:0007283	spermatogenesis
+GO:0035810	16	GO:0048520	positive regulation of behavior
+GO:0007214	10	GO:1990806	ligand-gated ion channel signaling pathway
+GO:0071482	18	GO:0050776	regulation of immune response
+GO:0016925	3	GO:0080120	CAAX-box protein maturation
+GO:0042067	6	GO:0061333	renal tubule morphogenesis
+GO:0043407	2	GO:0010906	regulation of glucose metabolic process
+GO:0009048	2	GO:0010906	regulation of glucose metabolic process
+GO:1901046	16	GO:0048520	positive regulation of behavior
+GO:0042026	13	GO:0019835	cytolysis
+GO:0035590	10	GO:1990806	ligand-gated ion channel signaling pathway
+GO:0140448	3	GO:0080120	CAAX-box protein maturation
+GO:0060141	12	GO:0051300	spindle pole body organization
+GO:2001141	1	GO:0006355	regulation of transcription, DNA-templated
+GO:0046386	4	GO:1901334	lactone metabolic process
+GO:1903506	1	GO:0006355	regulation of transcription, DNA-templated
+GO:1903508	1	GO:0006355	regulation of transcription, DNA-templated
+GO:0080120	3	GO:0080120	CAAX-box protein maturation
+GO:1905340	12	GO:0051300	spindle pole body organization
+GO:1905342	12	GO:0051300	spindle pole body organization
+GO:0060290	5	GO:0030182	neuron differentiation
+GO:0002040	8	GO:0007423	sensory organ development
+GO:0006355	1	GO:0006355	regulation of transcription, DNA-templated
+GO:0006357	1	GO:0006355	regulation of transcription, DNA-templated
+GO:0014074	9	GO:0046683	response to organophosphorus
+GO:0034088	12	GO:0051300	spindle pole body organization
+GO:0072659	12	GO:0051300	spindle pole body organization
+GO:0019991	12	GO:0051300	spindle pole body organization
+GO:1905476	12	GO:0051300	spindle pole body organization
+GO:0043271	11	GO:0051049	regulation of transport
+GO:0032963	4	GO:1901334	lactone metabolic process
+GO:0009394	4	GO:1901334	lactone metabolic process
+GO:0007549	2	GO:0010906	regulation of glucose metabolic process
+GO:0060857	5	GO:0030182	neuron differentiation
+GO:0009313	4	GO:1901334	lactone metabolic process
+GO:0043703	5	GO:0030182	neuron differentiation
+GO:0060820	1	GO:0006355	regulation of transcription, DNA-templated
+GO:0051898	10	GO:1990806	ligand-gated ion channel signaling pathway
+GO:0031529	12	GO:0051300	spindle pole body organization
+GO:0000578	7	GO:0003002	regionalization
+GO:0051873	18	GO:0050776	regulation of immune response
+GO:0007621	15	GO:0007283	spermatogenesis
+GO:0007618	15	GO:0007283	spermatogenesis
+GO:0071880	10	GO:1990806	ligand-gated ion channel signaling pathway
+GO:0018108	3	GO:0080120	CAAX-box protein maturation
+GO:0022410	16	GO:0048520	positive regulation of behavior
+GO:0022416	8	GO:0007423	sensory organ development
+GO:0007602	10	GO:1990806	ligand-gated ion channel signaling pathway
+GO:0034367	12	GO:0051300	spindle pole body organization
+GO:0006278	1	GO:0006355	regulation of transcription, DNA-templated
+GO:0060576	5	GO:0030182	neuron differentiation
+GO:0042445	4	GO:1901334	lactone metabolic process
+GO:0031641	5	GO:0030182	neuron differentiation
+GO:0046717	11	GO:0051049	regulation of transport
+GO:0035929	11	GO:0051049	regulation of transport
+GO:2000053	10	GO:1990806	ligand-gated ion channel signaling pathway
+GO:2000055	10	GO:1990806	ligand-gated ion channel signaling pathway
+GO:0035930	11	GO:0051049	regulation of transport
+GO:0035933	11	GO:0051049	regulation of transport
+GO:0046701	18	GO:0050776	regulation of immune response
+GO:0042135	4	GO:1901334	lactone metabolic process
+GO:0046855	4	GO:1901334	lactone metabolic process
+GO:0046856	4	GO:1901334	lactone metabolic process
+GO:1902680	1	GO:0006355	regulation of transcription, DNA-templated
+GO:0002164	8	GO:0007423	sensory organ development
+GO:0051657	13	GO:0019835	cytolysis
+GO:0045490	4	GO:1901334	lactone metabolic process
+GO:0006897	13	GO:0019835	cytolysis
+GO:0043627	9	GO:0046683	response to organophosphorus
+GO:0009264	4	GO:1901334	lactone metabolic process
+GO:0043616	13	GO:0019835	cytolysis
+GO:0051647	13	GO:0019835	cytolysis
+GO:1905806	12	GO:0051300	spindle pole body organization
+GO:1905808	12	GO:0051300	spindle pole body organization
+GO:0045455	4	GO:1901334	lactone metabolic process
+GO:0045456	4	GO:1901334	lactone metabolic process
+GO:0045488	4	GO:1901334	lactone metabolic process
+GO:0061077	13	GO:0019835	cytolysis
+GO:0010393	4	GO:1901334	lactone metabolic process
+GO:0045434	15	GO:0007283	spermatogenesis
+GO:0042246	7	GO:0003002	regionalization
+GO:0006833	11	GO:0051049	regulation of transport
+GO:1905516	15	GO:0007283	spermatogenesis
+GO:0006595	4	GO:1901334	lactone metabolic process
+GO:0062149	14	GO:0050877	nervous system process
+GO:0009753	9	GO:0046683	response to organophosphorus
+GO:0045187	16	GO:0048520	positive regulation of behavior
+GO:0042753	16	GO:0048520	positive regulation of behavior
+GO:0030318	5	GO:0030182	neuron differentiation
+GO:1905691	12	GO:0051300	spindle pole body organization
+GO:0046693	15	GO:0007283	spermatogenesis
+GO:0045141	12	GO:0051300	spindle pole body organization
+GO:0009733	9	GO:0046683	response to organophosphorus
+GO:0010496	13	GO:0019835	cytolysis
+GO:0036092	4	GO:1901334	lactone metabolic process
+GO:0042749	16	GO:0048520	positive regulation of behavior
+GO:0046662	16	GO:0048520	positive regulation of behavior
+GO:0046666	5	GO:0030182	neuron differentiation
+GO:0046667	5	GO:0030182	neuron differentiation
+GO:0046680	9	GO:0046683	response to organophosphorus
+GO:0046683	9	GO:0046683	response to organophosphorus
+GO:0098883	12	GO:0051300	spindle pole body organization
+GO:0016048	18	GO:0050776	regulation of immune response
+GO:0046627	10	GO:1990806	ligand-gated ion channel signaling pathway
+GO:0090313	11	GO:0051049	regulation of transport
+GO:0090317	11	GO:0051049	regulation of transport
+GO:0030473	11	GO:0051049	regulation of transport
+GO:0030474	12	GO:0051300	spindle pole body organization
+GO:0098801	16	GO:0048520	positive regulation of behavior
+GO:1990806	10	GO:1990806	ligand-gated ion channel signaling pathway
+GO:0006685	4	GO:1901334	lactone metabolic process
+GO:0030431	7	GO:0003002	regionalization
+GO:0060986	11	GO:0051049	regulation of transport
+GO:0090305	4	GO:1901334	lactone metabolic process
+GO:0042811	4	GO:1901334	lactone metabolic process
+GO:0009597	18	GO:0050776	regulation of immune response
+GO:0060903	12	GO:0051300	spindle pole body organization
+GO:0051926	11	GO:0051049	regulation of transport
+GO:0009566	15	GO:0007283	spermatogenesis
+GO:1901563	9	GO:0046683	response to organophosphorus
+GO:0009583	18	GO:0050776	regulation of immune response
+GO:0009584	18	GO:0050776	regulation of immune response
+GO:0042551	5	GO:0030182	neuron differentiation
+GO:0097178	12	GO:0051300	spindle pole body organization
+GO:0061331	6	GO:0061333	renal tubule morphogenesis
+GO:0061333	6	GO:0061333	renal tubule morphogenesis
+GO:0045893	1	GO:0006355	regulation of transcription, DNA-templated
+GO:0009651	18	GO:0050776	regulation of immune response
+GO:0030243	4	GO:1901334	lactone metabolic process
+GO:0097240	13	GO:0019835	cytolysis
+GO:0001120	12	GO:0051300	spindle pole body organization
+GO:0009631	18	GO:0050776	regulation of immune response
+GO:0034587	4	GO:1901334	lactone metabolic process
+GO:0010799	2	GO:0010906	regulation of glucose metabolic process
+GO:0045836	12	GO:0051300	spindle pole body organization
+GO:0001112	1	GO:0006355	regulation of transcription, DNA-templated
+GO:0002690	18	GO:0050776	regulation of immune response
+GO:0033198	9	GO:0046683	response to organophosphorus
+GO:0016322	5	GO:0030182	neuron differentiation
+GO:0016318	8	GO:0007423	sensory organ development
+GO:0002687	18	GO:0050776	regulation of immune response
+GO:1904491	12	GO:0051300	spindle pole body organization
+GO:0034501	12	GO:0051300	spindle pole body organization
+GO:0046931	12	GO:0051300	spindle pole body organization
+GO:0033137	2	GO:0010906	regulation of glucose metabolic process
+GO:0030719	15	GO:0007283	spermatogenesis
+GO:1903083	12	GO:0051300	spindle pole body organization
+GO:0034644	18	GO:0050776	regulation of immune response
+GO:0010829	11	GO:0051049	regulation of transport
+GO:0030857	5	GO:0030182	neuron differentiation
+GO:0033227	11	GO:0051049	regulation of transport
+GO:0072080	6	GO:0061333	renal tubule morphogenesis
+GO:0010837	12	GO:0051300	spindle pole body organization
+GO:0072088	6	GO:0061333	renal tubule morphogenesis
+GO:2000781	2	GO:0010906	regulation of glucose metabolic process
+GO:0072078	6	GO:0061333	renal tubule morphogenesis
+GO:0045683	7	GO:0003002	regionalization
+GO:0072028	8	GO:0007423	sensory organ development
+GO:0019373	4	GO:1901334	lactone metabolic process
+GO:0072009	6	GO:0061333	renal tubule morphogenesis
+GO:0001736	6	GO:0061333	renal tubule morphogenesis
+GO:0001738	6	GO:0061333	renal tubule morphogenesis
+GO:0045605	5	GO:0030182	neuron differentiation
+GO:0001701	7	GO:0003002	regionalization
+GO:0001708	5	GO:0030182	neuron differentiation
+GO:0010520	2	GO:0010906	regulation of glucose metabolic process
+GO:0150146	12	GO:0051300	spindle pole body organization
+GO:0009950	7	GO:0003002	regionalization
+GO:0009953	7	GO:0003002	regionalization
+GO:0050891	16	GO:0048520	positive regulation of behavior
+GO:0030521	10	GO:1990806	ligand-gated ion channel signaling pathway
+GO:0030536	16	GO:0048520	positive regulation of behavior
+GO:0009948	7	GO:0003002	regionalization
+GO:0001823	8	GO:0007423	sensory organ development
+GO:0050848	10	GO:1990806	ligand-gated ion channel signaling pathway
+GO:0070874	2	GO:0010906	regulation of glucose metabolic process
+GO:0070816	1	GO:0006355	regulation of transcription, DNA-templated
+GO:0048199	13	GO:0019835	cytolysis
+GO:0050802	16	GO:0048520	positive regulation of behavior
+GO:0007097	11	GO:0051049	regulation of transport
+GO:0010635	12	GO:0051300	spindle pole body organization
+GO:0008407	8	GO:0007423	sensory organ development
+GO:1903394	12	GO:0051300	spindle pole body organization
+GO:0040029	2	GO:0010906	regulation of glucose metabolic process
+GO:0001502	8	GO:0007423	sensory organ development
+GO:0001696	11	GO:0051049	regulation of transport
+GO:0032196	13	GO:0019835	cytolysis
+GO:0048262	7	GO:0003002	regionalization
+GO:0048263	7	GO:0003002	regionalization
+GO:0044332	10	GO:1990806	ligand-gated ion channel signaling pathway
+GO:0000045	12	GO:0051300	spindle pole body organization
+GO:0001657	6	GO:0061333	renal tubule morphogenesis
+GO:0061525	8	GO:0007423	sensory organ development
+GO:0008291	4	GO:1901334	lactone metabolic process
+GO:0045938	16	GO:0048520	positive regulation of behavior
+GO:0048232	15	GO:0007283	spermatogenesis
+GO:0019233	14	GO:0050877	nervous system process
+GO:0008258	7	GO:0003002	regionalization
+GO:0035305	2	GO:0010906	regulation of glucose metabolic process
+GO:0005979	2	GO:0010906	regulation of glucose metabolic process
+GO:1903427	2	GO:0010906	regulation of glucose metabolic process
+GO:0060025	10	GO:1990806	ligand-gated ion channel signaling pathway
+GO:0033674	2	GO:0010906	regulation of glucose metabolic process

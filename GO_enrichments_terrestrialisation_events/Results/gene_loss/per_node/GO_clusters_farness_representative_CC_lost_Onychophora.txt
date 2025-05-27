@@ -1,0 +1,716 @@
+GO:0042597	20	GO:0110165	cellular anatomical entity
+GO:0009707	14	GO:0005774	vacuolar membrane
+GO:0044666	16	GO:0035097	histone methyltransferase complex
+GO:0009897	7	GO:0016327	apicolateral plasma membrane
+GO:0062023	11	GO:0031012	extracellular matrix
+GO:0030430	1	GO:0033646	host intracellular part
+GO:0033645	1	GO:0033646	host intracellular part
+GO:0071953	11	GO:0031012	extracellular matrix
+GO:0001527	11	GO:0031012	extracellular matrix
+GO:0005736	15	GO:0000228	nuclear chromosome
+GO:0044163	1	GO:0033646	host intracellular part
+GO:0044167	1	GO:0033646	host intracellular part
+GO:0044156	1	GO:0033646	host intracellular part
+GO:0005615	20	GO:0110165	cellular anatomical entity
+GO:0005920	10	GO:0045202	synapse
+GO:0005921	10	GO:0045202	synapse
+GO:0005918	10	GO:0045202	synapse
+GO:0032153	20	GO:0110165	cellular anatomical entity
+GO:0005934	11	GO:0031012	extracellular matrix
+GO:0005935	11	GO:0031012	extracellular matrix
+GO:0098592	7	GO:0016327	apicolateral plasma membrane
+GO:0031969	14	GO:0005774	vacuolar membrane
+GO:0005882	22	GO:0072686	mitotic spindle
+GO:0000943	12	GO:0005794	Golgi apparatus
+GO:0020002	1	GO:0033646	host intracellular part
+GO:0030056	10	GO:0045202	synapse
+GO:0005811	23	GO:0005856	cytoskeleton
+GO:0005816	23	GO:0005856	cytoskeleton
+GO:0009527	14	GO:0005774	vacuolar membrane
+GO:0042600	11	GO:0031012	extracellular matrix
+GO:0030313	20	GO:0110165	cellular anatomical entity
+GO:0044219	1	GO:0033646	host intracellular part
+GO:0032590	7	GO:0016327	apicolateral plasma membrane
+GO:0055036	8	GO:0005886	plasma membrane
+GO:0042025	1	GO:0033646	host intracellular part
+GO:0032580	14	GO:0005774	vacuolar membrane
+GO:0032589	7	GO:0016327	apicolateral plasma membrane
+GO:0005576	20	GO:0110165	cellular anatomical entity
+GO:0005577	4	GO:0042571	immunoglobulin complex, circulating
+GO:0098654	3	GO:0032991	protein-containing complex
+GO:0062129	11	GO:0031012	extracellular matrix
+GO:0043527	18	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0043493	3	GO:0032991	protein-containing complex
+GO:0031241	11	GO:0031012	extracellular matrix
+GO:1905347	3	GO:0032991	protein-containing complex
+GO:1990063	6	GO:0098797	plasma membrane protein complex
+GO:0032993	3	GO:0032991	protein-containing complex
+GO:0031470	23	GO:0005856	cytoskeleton
+GO:1990077	21	GO:0000808	origin recognition complex
+GO:0009360	3	GO:0032991	protein-containing complex
+GO:0005971	18	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0009295	20	GO:0110165	cellular anatomical entity
+GO:0043190	5	GO:0005892	acetylcholine-gated channel complex
+GO:0046930	6	GO:0098797	plasma membrane protein complex
+GO:0044096	9	GO:0043005	neuron projection
+GO:0009380	3	GO:0032991	protein-containing complex
+GO:0009379	18	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:1990281	5	GO:0005892	acetylcholine-gated channel complex
+GO:0005946	18	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0005948	18	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0009328	18	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0009341	3	GO:0032991	protein-containing complex
+GO:0009288	20	GO:0110165	cellular anatomical entity
+GO:0009349	3	GO:0032991	protein-containing complex
+GO:0098009	3	GO:0032991	protein-containing complex
+GO:0009274	11	GO:0031012	extracellular matrix
+GO:0009338	3	GO:0032991	protein-containing complex
+GO:0009279	11	GO:0031012	extracellular matrix
+GO:0005886	8	GO:0005886	plasma membrane
+GO:0110143	20	GO:0110165	cellular anatomical entity
+GO:0110146	14	GO:0005774	vacuolar membrane
+GO:0005832	18	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0097347	3	GO:0032991	protein-containing complex
+GO:0019812	18	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0015627	3	GO:0032991	protein-containing complex
+GO:0070470	8	GO:0005886	plasma membrane
+GO:0000015	18	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0030288	11	GO:0031012	extracellular matrix
+GO:0033202	18	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0043590	23	GO:0005856	cytoskeleton
+GO:0110001	3	GO:0032991	protein-containing complex
+GO:1990195	5	GO:0005892	acetylcholine-gated channel complex
+GO:0000794	15	GO:0000228	nuclear chromosome
+GO:0072487	16	GO:0035097	histone methyltransferase complex
+GO:0046536	17	GO:0140513	nuclear protein-containing complex
+GO:0019005	3	GO:0032991	protein-containing complex
+GO:0043160	13	GO:0031410	cytoplasmic vesicle
+GO:0044732	22	GO:0072686	mitotic spindle
+GO:0000776	23	GO:0005856	cytoskeleton
+GO:0044178	1	GO:0033646	host intracellular part
+GO:0045120	12	GO:0005794	Golgi apparatus
+GO:0001725	22	GO:0072686	mitotic spindle
+GO:0016324	7	GO:0016327	apicolateral plasma membrane
+GO:0005700	23	GO:0005856	cytoskeleton
+GO:0005704	23	GO:0005856	cytoskeleton
+GO:0005705	23	GO:0005856	cytoskeleton
+GO:0035869	20	GO:0110165	cellular anatomical entity
+GO:0070160	10	GO:0045202	synapse
+GO:0043296	10	GO:0045202	synapse
+GO:0030849	23	GO:0005856	cytoskeleton
+GO:0060388	11	GO:0031012	extracellular matrix
+GO:0016456	17	GO:0140513	nuclear protein-containing complex
+GO:0030915	21	GO:0000808	origin recognition complex
+GO:0000805	22	GO:0072686	mitotic spindle
+GO:0000242	23	GO:0005856	cytoskeleton
+GO:0001940	15	GO:0000228	nuclear chromosome
+GO:0098595	20	GO:0110165	cellular anatomical entity
+GO:0031528	7	GO:0016327	apicolateral plasma membrane
+GO:0031594	10	GO:0045202	synapse
+GO:0035301	3	GO:0032991	protein-containing complex
+GO:1904724	13	GO:0031410	cytoplasmic vesicle
+GO:0042716	18	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0042717	19	GO:0005938	cell cortex
+GO:0000813	13	GO:0031410	cytoplasmic vesicle
+GO:0061803	19	GO:0005938	cell cortex
+GO:0042734	7	GO:0016327	apicolateral plasma membrane
+GO:1990779	5	GO:0005892	acetylcholine-gated channel complex
+GO:0097129	3	GO:0032991	protein-containing complex
+GO:0031526	7	GO:0016327	apicolateral plasma membrane
+GO:0060102	11	GO:0031012	extracellular matrix
+GO:0101003	13	GO:0031410	cytoplasmic vesicle
+GO:0032983	5	GO:0005892	acetylcholine-gated channel complex
+GO:0005923	10	GO:0045202	synapse
+GO:0071683	9	GO:0043005	neuron projection
+GO:0005663	21	GO:0000808	origin recognition complex
+GO:0000138	14	GO:0005774	vacuolar membrane
+GO:0034707	5	GO:0005892	acetylcholine-gated channel complex
+GO:0043186	22	GO:0072686	mitotic spindle
+GO:0032010	13	GO:0031410	cytoplasmic vesicle
+GO:0030981	22	GO:0072686	mitotic spindle
+GO:0005905	7	GO:0016327	apicolateral plasma membrane
+GO:0044297	20	GO:0110165	cellular anatomical entity
+GO:0030054	20	GO:0110165	cellular anatomical entity
+GO:0005634	12	GO:0005794	Golgi apparatus
+GO:0030667	13	GO:0031410	cytoplasmic vesicle
+GO:0035861	23	GO:0005856	cytoskeleton
+GO:1902710	3	GO:0032991	protein-containing complex
+GO:1902711	3	GO:0032991	protein-containing complex
+GO:0030075	23	GO:0005856	cytoskeleton
+GO:1902712	5	GO:0005892	acetylcholine-gated channel complex
+GO:0098975	10	GO:0045202	synapse
+GO:0030017	23	GO:0005856	cytoskeleton
+GO:0005730	15	GO:0000228	nuclear chromosome
+GO:0031672	23	GO:0005856	cytoskeleton
+GO:0031676	19	GO:0005938	cell cortex
+GO:0016235	19	GO:0005938	cell cortex
+GO:0098797	6	GO:0098797	plasma membrane protein complex
+GO:0090733	11	GO:0031012	extracellular matrix
+GO:0016327	7	GO:0016327	apicolateral plasma membrane
+GO:0045211	7	GO:0016327	apicolateral plasma membrane
+GO:0055028	22	GO:0072686	mitotic spindle
+GO:0060077	10	GO:0045202	synapse
+GO:0043541	14	GO:0005774	vacuolar membrane
+GO:0098636	3	GO:0032991	protein-containing complex
+GO:0045202	10	GO:0045202	synapse
+GO:0005863	22	GO:0072686	mitotic spindle
+GO:0070820	13	GO:0031410	cytoplasmic vesicle
+GO:0070821	13	GO:0031410	cytoplasmic vesicle
+GO:0042589	13	GO:0031410	cytoplasmic vesicle
+GO:0038039	5	GO:0005892	acetylcholine-gated channel complex
+GO:0043235	3	GO:0032991	protein-containing complex
+GO:0005874	22	GO:0072686	mitotic spindle
+GO:0031430	23	GO:0005856	cytoskeleton
+GO:0000785	23	GO:0005856	cytoskeleton
+GO:0000786	21	GO:0000808	origin recognition complex
+GO:0034518	3	GO:0032991	protein-containing complex
+GO:0043083	20	GO:0110165	cellular anatomical entity
+GO:1903561	13	GO:0031410	cytoplasmic vesicle
+GO:1990512	17	GO:0140513	nuclear protein-containing complex
+GO:1990513	17	GO:0140513	nuclear protein-containing complex
+GO:0043073	12	GO:0005794	Golgi apparatus
+GO:0015630	23	GO:0005856	cytoskeleton
+GO:0043679	9	GO:0043005	neuron projection
+GO:0035996	9	GO:0043005	neuron projection
+GO:0008305	5	GO:0005892	acetylcholine-gated channel complex
+GO:0097442	9	GO:0043005	neuron projection
+GO:0035371	22	GO:0072686	mitotic spindle
+GO:0072357	3	GO:0032991	protein-containing complex
+GO:0017146	5	GO:0005892	acetylcholine-gated channel complex
+GO:1990026	9	GO:0043005	neuron projection
+GO:0000235	22	GO:0072686	mitotic spindle
+GO:0009986	20	GO:0110165	cellular anatomical entity
+GO:0070187	17	GO:0140513	nuclear protein-containing complex
+GO:0005694	23	GO:0005856	cytoskeleton
+GO:0032783	16	GO:0035097	histone methyltransferase complex
+GO:0033646	1	GO:0033646	host intracellular part
+GO:0033647	1	GO:0033646	host intracellular part
+GO:0033648	1	GO:0033646	host intracellular part
+GO:0030998	15	GO:0000228	nuclear chromosome
+GO:0044199	1	GO:0033646	host intracellular part
+GO:0071986	13	GO:0031410	cytoplasmic vesicle
+GO:0051286	20	GO:0110165	cellular anatomical entity
+GO:0033167	17	GO:0140513	nuclear protein-containing complex
+GO:0000781	23	GO:0005856	cytoskeleton
+GO:0000782	21	GO:0000808	origin recognition complex
+GO:0000775	23	GO:0005856	cytoskeleton
+GO:0000779	22	GO:0072686	mitotic spindle
+GO:0030958	15	GO:0000228	nuclear chromosome
+GO:1902562	16	GO:0035097	histone methyltransferase complex
+GO:0005628	8	GO:0005886	plasma membrane
+GO:0034361	4	GO:0042571	immunoglobulin complex, circulating
+GO:0044177	1	GO:0033646	host intracellular part
+GO:0034357	19	GO:0005938	cell cortex
+GO:0042764	20	GO:0110165	cellular anatomical entity
+GO:0034358	4	GO:0042571	immunoglobulin complex, circulating
+GO:0034045	19	GO:0005938	cell cortex
+GO:0034385	4	GO:0042571	immunoglobulin complex, circulating
+GO:0099115	22	GO:0072686	mitotic spindle
+GO:1990342	22	GO:0072686	mitotic spindle
+GO:0042651	19	GO:0005938	cell cortex
+GO:0000164	18	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0005865	22	GO:0072686	mitotic spindle
+GO:0034270	18	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0043189	16	GO:0035097	histone methyltransferase complex
+GO:0009277	11	GO:0031012	extracellular matrix
+GO:0045170	23	GO:0005856	cytoskeleton
+GO:0031976	12	GO:0005794	Golgi apparatus
+GO:0030057	10	GO:0045202	synapse
+GO:0005823	23	GO:0005856	cytoskeleton
+GO:0042641	23	GO:0005856	cytoskeleton
+GO:0090734	23	GO:0005856	cytoskeleton
+GO:0019867	8	GO:0005886	plasma membrane
+GO:0009526	12	GO:0005794	Golgi apparatus
+GO:0031934	22	GO:0072686	mitotic spindle
+GO:0017053	3	GO:0032991	protein-containing complex
+GO:0042170	14	GO:0005774	vacuolar membrane
+GO:0009534	14	GO:0005774	vacuolar membrane
+GO:0009535	14	GO:0005774	vacuolar membrane
+GO:0034451	23	GO:0005856	cytoskeleton
+GO:0031904	13	GO:0031410	cytoplasmic vesicle
+GO:0044220	1	GO:0033646	host intracellular part
+GO:0097517	23	GO:0005856	cytoskeleton
+GO:0055035	14	GO:0005774	vacuolar membrane
+GO:0044200	1	GO:0033646	host intracellular part
+GO:0005581	3	GO:0032991	protein-containing complex
+GO:0000331	12	GO:0005794	Golgi apparatus
+GO:0140445	22	GO:0072686	mitotic spindle
+GO:0031264	6	GO:0098797	plasma membrane protein complex
+GO:0060293	19	GO:0005938	cell cortex
+GO:0032009	13	GO:0031410	cytoplasmic vesicle
+GO:0031012	11	GO:0031012	extracellular matrix
+GO:0001533	8	GO:0005886	plasma membrane
+GO:0016328	8	GO:0005886	plasma membrane
+GO:0032426	9	GO:0043005	neuron projection
+GO:0045095	22	GO:0072686	mitotic spindle
+GO:0005861	21	GO:0000808	origin recognition complex
+GO:0033118	13	GO:0031410	cytoplasmic vesicle
+GO:0039713	1	GO:0033646	host intracellular part
+GO:0045495	18	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0020023	12	GO:0005794	Golgi apparatus
+GO:0020009	12	GO:0005794	Golgi apparatus
+GO:0030112	11	GO:0031012	extracellular matrix
+GO:0005579	5	GO:0005892	acetylcholine-gated channel complex
+GO:0031332	3	GO:0032991	protein-containing complex
+GO:0046696	6	GO:0098797	plasma membrane protein complex
+GO:0038037	5	GO:0005892	acetylcholine-gated channel complex
+GO:0005767	14	GO:0005774	vacuolar membrane
+GO:0033644	1	GO:0033646	host intracellular part
+GO:0036128	5	GO:0005892	acetylcholine-gated channel complex
+GO:0097648	5	GO:0005892	acetylcholine-gated channel complex
+GO:0005652	15	GO:0000228	nuclear chromosome
+GO:0044174	1	GO:0033646	host intracellular part
+GO:0044175	1	GO:0033646	host intracellular part
+GO:0032982	11	GO:0031012	extracellular matrix
+GO:0043196	9	GO:0043005	neuron projection
+GO:0005892	5	GO:0005892	acetylcholine-gated channel complex
+GO:0097060	7	GO:0016327	apicolateral plasma membrane
+GO:0036379	23	GO:0005856	cytoskeleton
+GO:0001669	13	GO:0031410	cytoplasmic vesicle
+GO:0031160	11	GO:0031012	extracellular matrix
+GO:0002177	23	GO:0005856	cytoskeleton
+GO:0033255	16	GO:0035097	histone methyltransferase complex
+GO:0031143	9	GO:0043005	neuron projection
+GO:0043291	18	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0035230	9	GO:0043005	neuron projection
+GO:0070772	14	GO:0005774	vacuolar membrane
+GO:0097546	20	GO:0110165	cellular anatomical entity
+GO:0016020	8	GO:0005886	plasma membrane
+GO:0031315	14	GO:0005774	vacuolar membrane
+GO:0032994	3	GO:0032991	protein-containing complex
+GO:0033655	1	GO:0033646	host intracellular part
+GO:1990777	3	GO:0032991	protein-containing complex
+GO:0031511	21	GO:0000808	origin recognition complex
+GO:0000808	21	GO:0000808	origin recognition complex
+GO:0070939	12	GO:0005794	Golgi apparatus
+GO:0005664	15	GO:0000228	nuclear chromosome
+GO:1990423	21	GO:0000808	origin recognition complex
+GO:0042151	23	GO:0005856	cytoskeleton
+GO:0005890	5	GO:0005892	acetylcholine-gated channel complex
+GO:0044201	1	GO:0033646	host intracellular part
+GO:0031469	23	GO:0005856	cytoskeleton
+GO:0005828	22	GO:0072686	mitotic spindle
+GO:0031436	16	GO:0035097	histone methyltransferase complex
+GO:0016602	17	GO:0140513	nuclear protein-containing complex
+GO:0072562	20	GO:0110165	cellular anatomical entity
+GO:0016459	21	GO:0000808	origin recognition complex
+GO:0036063	12	GO:0005794	Golgi apparatus
+GO:0042627	4	GO:0042571	immunoglobulin complex, circulating
+GO:0042763	20	GO:0110165	cellular anatomical entity
+GO:0009941	14	GO:0005774	vacuolar membrane
+GO:0008540	18	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0031985	14	GO:0005774	vacuolar membrane
+GO:0031314	14	GO:0005774	vacuolar membrane
+GO:0070876	17	GO:0140513	nuclear protein-containing complex
+GO:0005668	15	GO:0000228	nuclear chromosome
+GO:0044165	1	GO:0033646	host intracellular part
+GO:0005927	10	GO:0045202	synapse
+GO:0031674	23	GO:0005856	cytoskeleton
+GO:0035805	11	GO:0031012	extracellular matrix
+GO:0031941	21	GO:0000808	origin recognition complex
+GO:0030016	22	GO:0072686	mitotic spindle
+GO:0030018	23	GO:0005856	cytoskeleton
+GO:1902911	3	GO:0032991	protein-containing complex
+GO:0005675	16	GO:0035097	histone methyltransferase complex
+GO:0005641	15	GO:0000228	nuclear chromosome
+GO:0031464	3	GO:0032991	protein-containing complex
+GO:1905360	3	GO:0032991	protein-containing complex
+GO:0048500	18	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0005751	14	GO:0005774	vacuolar membrane
+GO:0045277	6	GO:0098797	plasma membrane protein complex
+GO:0005786	18	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0071750	4	GO:0042571	immunoglobulin complex, circulating
+GO:0071752	4	GO:0042571	immunoglobulin complex, circulating
+GO:0071753	3	GO:0032991	protein-containing complex
+GO:0071754	4	GO:0042571	immunoglobulin complex, circulating
+GO:0071756	4	GO:0042571	immunoglobulin complex, circulating
+GO:0000131	3	GO:0032991	protein-containing complex
+GO:0070685	9	GO:0043005	neuron projection
+GO:0071748	4	GO:0042571	immunoglobulin complex, circulating
+GO:0032806	16	GO:0035097	histone methyltransferase complex
+GO:0060187	20	GO:0110165	cellular anatomical entity
+GO:0070648	22	GO:0072686	mitotic spindle
+GO:0031588	3	GO:0032991	protein-containing complex
+GO:0031520	7	GO:0016327	apicolateral plasma membrane
+GO:0005854	18	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0030428	20	GO:0110165	cellular anatomical entity
+GO:0005825	23	GO:0005856	cytoskeleton
+GO:0045335	13	GO:0031410	cytoplasmic vesicle
+GO:0005834	6	GO:0098797	plasma membrane protein complex
+GO:0097518	23	GO:0005856	cytoskeleton
+GO:0001891	8	GO:0005886	plasma membrane
+GO:0035631	5	GO:0005892	acetylcholine-gated channel complex
+GO:0097539	20	GO:0110165	cellular anatomical entity
+GO:0016460	21	GO:0000808	origin recognition complex
+GO:0031260	7	GO:0016327	apicolateral plasma membrane
+GO:0042788	21	GO:0000808	origin recognition complex
+GO:0061496	22	GO:0072686	mitotic spindle
+GO:0071957	22	GO:0072686	mitotic spindle
+GO:0005911	10	GO:0045202	synapse
+GO:0140220	1	GO:0033646	host intracellular part
+GO:0098635	3	GO:0032991	protein-containing complex
+GO:1902554	3	GO:0032991	protein-containing complex
+GO:1990528	3	GO:0032991	protein-containing complex
+GO:0061802	19	GO:0005938	cell cortex
+GO:0120293	23	GO:0005856	cytoskeleton
+GO:0043202	14	GO:0005774	vacuolar membrane
+GO:0005769	13	GO:0031410	cytoplasmic vesicle
+GO:0031463	3	GO:0032991	protein-containing complex
+GO:0030670	13	GO:0031410	cytoplasmic vesicle
+GO:0033150	23	GO:0005856	cytoskeleton
+GO:0034364	4	GO:0042571	immunoglobulin complex, circulating
+GO:0005619	11	GO:0031012	extracellular matrix
+GO:0001726	9	GO:0043005	neuron projection
+GO:0045121	7	GO:0016327	apicolateral plasma membrane
+GO:0055120	23	GO:0005856	cytoskeleton
+GO:0032839	9	GO:0043005	neuron projection
+GO:0097228	20	GO:0110165	cellular anatomical entity
+GO:0015629	23	GO:0005856	cytoskeleton
+GO:0030312	8	GO:0005886	plasma membrane
+GO:0019034	1	GO:0033646	host intracellular part
+GO:0070725	18	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0032587	7	GO:0016327	apicolateral plasma membrane
+GO:0000307	3	GO:0032991	protein-containing complex
+GO:0061702	18	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0072669	3	GO:0032991	protein-containing complex
+GO:1990907	17	GO:0140513	nuclear protein-containing complex
+GO:0005795	12	GO:0005794	Golgi apparatus
+GO:0031093	13	GO:0031410	cytoplasmic vesicle
+GO:0005618	11	GO:0031012	extracellular matrix
+GO:0090619	22	GO:0072686	mitotic spindle
+GO:0031205	14	GO:0005774	vacuolar membrane
+GO:0031207	14	GO:0005774	vacuolar membrane
+GO:0140453	23	GO:0005856	cytoskeleton
+GO:0033106	14	GO:0005774	vacuolar membrane
+GO:0030694	20	GO:0110165	cellular anatomical entity
+GO:0070069	3	GO:0032991	protein-containing complex
+GO:0043684	3	GO:0032991	protein-containing complex
+GO:0009358	3	GO:0032991	protein-containing complex
+GO:0016442	3	GO:0032991	protein-containing complex
+GO:0009376	19	GO:0005938	cell cortex
+GO:0009325	3	GO:0032991	protein-containing complex
+GO:0033104	3	GO:0032991	protein-containing complex
+GO:0009318	3	GO:0032991	protein-containing complex
+GO:0009330	3	GO:0032991	protein-containing complex
+GO:0009331	18	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0009337	3	GO:0032991	protein-containing complex
+GO:0030089	6	GO:0098797	plasma membrane protein complex
+GO:0030076	18	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0033281	6	GO:0098797	plasma membrane protein complex
+GO:0055052	5	GO:0005892	acetylcholine-gated channel complex
+GO:0030256	3	GO:0032991	protein-containing complex
+GO:0009425	20	GO:0110165	cellular anatomical entity
+GO:0009426	20	GO:0110165	cellular anatomical entity
+GO:0000345	18	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0044196	1	GO:0033646	host intracellular part
+GO:0036064	22	GO:0072686	mitotic spindle
+GO:0043657	20	GO:0110165	cellular anatomical entity
+GO:0044094	1	GO:0033646	host intracellular part
+GO:0005912	10	GO:0045202	synapse
+GO:0042729	15	GO:0000228	nuclear chromosome
+GO:0001772	8	GO:0005886	plasma membrane
+GO:0032116	17	GO:0140513	nuclear protein-containing complex
+GO:0000939	21	GO:0000808	origin recognition complex
+GO:0000120	15	GO:0000228	nuclear chromosome
+GO:0005818	23	GO:0005856	cytoskeleton
+GO:0009570	12	GO:0005794	Golgi apparatus
+GO:0097342	18	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0009532	12	GO:0005794	Golgi apparatus
+GO:0043293	18	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0000346	17	GO:0140513	nuclear protein-containing complex
+GO:0000347	17	GO:0140513	nuclear protein-containing complex
+GO:0031265	6	GO:0098797	plasma membrane protein complex
+GO:0005672	16	GO:0035097	histone methyltransferase complex
+GO:0030672	13	GO:0031410	cytoplasmic vesicle
+GO:0010494	22	GO:0072686	mitotic spindle
+GO:0005677	17	GO:0140513	nuclear protein-containing complex
+GO:0120001	7	GO:0016327	apicolateral plasma membrane
+GO:0034362	4	GO:0042571	immunoglobulin complex, circulating
+GO:0002102	23	GO:0005856	cytoskeleton
+GO:0097708	12	GO:0005794	Golgi apparatus
+GO:0005790	12	GO:0005794	Golgi apparatus
+GO:0005765	14	GO:0005774	vacuolar membrane
+GO:0031410	13	GO:0031410	cytoplasmic vesicle
+GO:0005776	12	GO:0005794	Golgi apparatus
+GO:0044184	1	GO:0033646	host intracellular part
+GO:0044185	1	GO:0033646	host intracellular part
+GO:0044172	1	GO:0033646	host intracellular part
+GO:0000139	14	GO:0005774	vacuolar membrane
+GO:0098878	6	GO:0098797	plasma membrane protein complex
+GO:0005701	22	GO:0072686	mitotic spindle
+GO:0099501	13	GO:0031410	cytoplasmic vesicle
+GO:0008328	5	GO:0005892	acetylcholine-gated channel complex
+GO:0032992	3	GO:0032991	protein-containing complex
+GO:0044295	9	GO:0043005	neuron projection
+GO:0016323	7	GO:0016327	apicolateral plasma membrane
+GO:0031982	13	GO:0031410	cytoplasmic vesicle
+GO:0032154	7	GO:0016327	apicolateral plasma membrane
+GO:0031519	17	GO:0140513	nuclear protein-containing complex
+GO:0045334	13	GO:0031410	cytoplasmic vesicle
+GO:0071013	17	GO:0140513	nuclear protein-containing complex
+GO:0009925	7	GO:0016327	apicolateral plasma membrane
+GO:0015030	15	GO:0000228	nuclear chromosome
+GO:0009506	10	GO:0045202	synapse
+GO:0032281	5	GO:0005892	acetylcholine-gated channel complex
+GO:0000325	12	GO:0005794	Golgi apparatus
+GO:0044754	14	GO:0005774	vacuolar membrane
+GO:0001401	14	GO:0005774	vacuolar membrane
+GO:0070062	19	GO:0005938	cell cortex
+GO:0030139	13	GO:0031410	cytoplasmic vesicle
+GO:0070822	15	GO:0000228	nuclear chromosome
+GO:0002199	3	GO:0032991	protein-containing complex
+GO:0016580	15	GO:0000228	nuclear chromosome
+GO:0016589	17	GO:0140513	nuclear protein-containing complex
+GO:0030665	13	GO:0031410	cytoplasmic vesicle
+GO:0090571	17	GO:0140513	nuclear protein-containing complex
+GO:0018995	20	GO:0110165	cellular anatomical entity
+GO:0033643	1	GO:0033646	host intracellular part
+GO:0009579	18	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0000792	23	GO:0005856	cytoskeleton
+GO:0033011	23	GO:0005856	cytoskeleton
+GO:0036019	13	GO:0031410	cytoplasmic vesicle
+GO:0071944	8	GO:0005886	plasma membrane
+GO:0042718	18	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0045177	20	GO:0110165	cellular anatomical entity
+GO:0005721	22	GO:0072686	mitotic spindle
+GO:0034704	5	GO:0005892	acetylcholine-gated channel complex
+GO:0005891	5	GO:0005892	acetylcholine-gated channel complex
+GO:0030875	15	GO:0000228	nuclear chromosome
+GO:0000333	16	GO:0035097	histone methyltransferase complex
+GO:0031253	7	GO:0016327	apicolateral plasma membrane
+GO:0031983	13	GO:0031410	cytoplasmic vesicle
+GO:0005604	11	GO:0031012	extracellular matrix
+GO:0032421	20	GO:0110165	cellular anatomical entity
+GO:0098802	6	GO:0098797	plasma membrane protein complex
+GO:0033557	15	GO:0000228	nuclear chromosome
+GO:0098590	8	GO:0005886	plasma membrane
+GO:0005685	17	GO:0140513	nuclear protein-containing complex
+GO:0016939	21	GO:0000808	origin recognition complex
+GO:0071682	13	GO:0031410	cytoplasmic vesicle
+GO:0005635	12	GO:0005794	Golgi apparatus
+GO:0005637	14	GO:0005774	vacuolar membrane
+GO:0031097	19	GO:0005938	cell cortex
+GO:0042599	13	GO:0031410	cytoplasmic vesicle
+GO:1990251	15	GO:0000228	nuclear chromosome
+GO:0120119	10	GO:0045202	synapse
+GO:0033063	17	GO:0140513	nuclear protein-containing complex
+GO:0097470	10	GO:0045202	synapse
+GO:0030314	18	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0098862	20	GO:0110165	cellular anatomical entity
+GO:0000137	14	GO:0005774	vacuolar membrane
+GO:0097014	19	GO:0005938	cell cortex
+GO:0032432	23	GO:0005856	cytoskeleton
+GO:0033017	14	GO:0005774	vacuolar membrane
+GO:0031965	14	GO:0005774	vacuolar membrane
+GO:0043655	20	GO:0110165	cellular anatomical entity
+GO:0001740	15	GO:0000228	nuclear chromosome
+GO:0005859	22	GO:0072686	mitotic spindle
+GO:0072494	1	GO:0033646	host intracellular part
+GO:0030485	22	GO:0072686	mitotic spindle
+GO:0005885	21	GO:0000808	origin recognition complex
+GO:0035253	23	GO:0005856	cytoskeleton
+GO:0034992	12	GO:0005794	Golgi apparatus
+GO:0034993	17	GO:0140513	nuclear protein-containing complex
+GO:0030479	22	GO:0072686	mitotic spindle
+GO:0030870	17	GO:0140513	nuclear protein-containing complex
+GO:0005813	23	GO:0005856	cytoskeleton
+GO:0005814	23	GO:0005856	cytoskeleton
+GO:0106094	17	GO:0140513	nuclear protein-containing complex
+GO:0033111	14	GO:0005774	vacuolar membrane
+GO:0043209	20	GO:0110165	cellular anatomical entity
+GO:0106083	17	GO:0140513	nuclear protein-containing complex
+GO:0051285	19	GO:0005938	cell cortex
+GO:0031262	21	GO:0000808	origin recognition complex
+GO:0070732	12	GO:0005794	Golgi apparatus
+GO:1990477	17	GO:0140513	nuclear protein-containing complex
+GO:0030993	21	GO:0000808	origin recognition complex
+GO:0044354	13	GO:0031410	cytoplasmic vesicle
+GO:0033268	9	GO:0043005	neuron projection
+GO:0005587	11	GO:0031012	extracellular matrix
+GO:0030175	9	GO:0043005	neuron projection
+GO:0005915	10	GO:0045202	synapse
+GO:0020020	13	GO:0031410	cytoplasmic vesicle
+GO:0018444	18	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0033620	17	GO:0140513	nuclear protein-containing complex
+GO:0098683	10	GO:0045202	synapse
+GO:0020016	20	GO:0110165	cellular anatomical entity
+GO:0005930	23	GO:0005856	cytoskeleton
+GO:0005938	19	GO:0005938	cell cortex
+GO:0061822	20	GO:0110165	cellular anatomical entity
+GO:0005902	9	GO:0043005	neuron projection
+GO:0005903	20	GO:0110165	cellular anatomical entity
+GO:1990184	6	GO:0098797	plasma membrane protein complex
+GO:0020003	1	GO:0033646	host intracellular part
+GO:0044099	20	GO:0110165	cellular anatomical entity
+GO:0002189	3	GO:0032991	protein-containing complex
+GO:0120044	9	GO:0043005	neuron projection
+GO:0033061	3	GO:0032991	protein-containing complex
+GO:0070382	13	GO:0031410	cytoplasmic vesicle
+GO:0036477	20	GO:0110165	cellular anatomical entity
+GO:1990904	3	GO:0032991	protein-containing complex
+GO:0072686	22	GO:0072686	mitotic spindle
+GO:0035032	6	GO:0098797	plasma membrane protein complex
+GO:1901588	22	GO:0072686	mitotic spindle
+GO:0032991	3	GO:0032991	protein-containing complex
+GO:0009705	14	GO:0005774	vacuolar membrane
+GO:0000812	15	GO:0000228	nuclear chromosome
+GO:0000151	3	GO:0032991	protein-containing complex
+GO:0000152	16	GO:0035097	histone methyltransferase complex
+GO:0070971	12	GO:0005794	Golgi apparatus
+GO:0035770	23	GO:0005856	cytoskeleton
+GO:0101031	3	GO:0032991	protein-containing complex
+GO:0098562	8	GO:0005886	plasma membrane
+GO:0120025	9	GO:0043005	neuron projection
+GO:0009898	7	GO:0016327	apicolateral plasma membrane
+GO:0045171	20	GO:0110165	cellular anatomical entity
+GO:0016591	16	GO:0035097	histone methyltransferase complex
+GO:0016592	17	GO:0140513	nuclear protein-containing complex
+GO:0045178	20	GO:0110165	cellular anatomical entity
+GO:0043197	9	GO:0043005	neuron projection
+GO:0000803	23	GO:0005856	cytoskeleton
+GO:0140513	17	GO:0140513	nuclear protein-containing complex
+GO:1990733	21	GO:0000808	origin recognition complex
+GO:0030990	3	GO:0032991	protein-containing complex
+GO:0005925	10	GO:0045202	synapse
+GO:0099572	20	GO:0110165	cellular anatomical entity
+GO:0005929	20	GO:0110165	cellular anatomical entity
+GO:0010008	13	GO:0031410	cytoplasmic vesicle
+GO:0034702	5	GO:0005892	acetylcholine-gated channel complex
+GO:0005667	3	GO:0032991	protein-containing complex
+GO:0005669	16	GO:0035097	histone methyltransferase complex
+GO:0099523	19	GO:0005938	cell cortex
+GO:0071010	17	GO:0140513	nuclear protein-containing complex
+GO:0005657	23	GO:0005856	cytoskeleton
+GO:0043159	12	GO:0005794	Golgi apparatus
+GO:0005793	12	GO:0005794	Golgi apparatus
+GO:0005680	16	GO:0035097	histone methyltransferase complex
+GO:0005794	12	GO:0005794	Golgi apparatus
+GO:0090665	3	GO:0032991	protein-containing complex
+GO:0005798	13	GO:0031410	cytoplasmic vesicle
+GO:0031248	3	GO:0032991	protein-containing complex
+GO:0032300	18	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0031234	19	GO:0005938	cell cortex
+GO:0005764	12	GO:0005794	Golgi apparatus
+GO:0005614	11	GO:0031012	extracellular matrix
+GO:0005768	13	GO:0031410	cytoplasmic vesicle
+GO:0016514	17	GO:0140513	nuclear protein-containing complex
+GO:0044291	10	GO:0045202	synapse
+GO:1902493	3	GO:0032991	protein-containing complex
+GO:0005640	14	GO:0005774	vacuolar membrane
+GO:0071004	17	GO:0140513	nuclear protein-containing complex
+GO:0005758	14	GO:0005774	vacuolar membrane
+GO:0150034	9	GO:0043005	neuron projection
+GO:0016282	18	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0005788	12	GO:0005794	Golgi apparatus
+GO:0005789	14	GO:0005774	vacuolar membrane
+GO:0030662	13	GO:0031410	cytoplasmic vesicle
+GO:0016533	3	GO:0032991	protein-containing complex
+GO:0031201	18	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0005770	13	GO:0031410	cytoplasmic vesicle
+GO:0005771	13	GO:0031410	cytoplasmic vesicle
+GO:0005774	14	GO:0005774	vacuolar membrane
+GO:0005777	12	GO:0005794	Golgi apparatus
+GO:0030659	13	GO:0031410	cytoplasmic vesicle
+GO:0030687	3	GO:0032991	protein-containing complex
+GO:0098978	10	GO:0045202	synapse
+GO:0016363	15	GO:0000228	nuclear chromosome
+GO:0030027	9	GO:0043005	neuron projection
+GO:0048471	18	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0048475	8	GO:0005886	plasma membrane
+GO:0031931	3	GO:0032991	protein-containing complex
+GO:0031932	3	GO:0032991	protein-containing complex
+GO:0031011	15	GO:0000228	nuclear chromosome
+GO:0016234	18	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0097361	18	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0098793	20	GO:0110165	cellular anatomical entity
+GO:0098794	20	GO:0110165	cellular anatomical entity
+GO:0098685	10	GO:0045202	synapse
+GO:0000228	15	GO:0000228	nuclear chromosome
+GO:0031901	13	GO:0031410	cytoplasmic vesicle
+GO:0030496	20	GO:0110165	cellular anatomical entity
+GO:0000243	17	GO:0140513	nuclear protein-containing complex
+GO:0016342	6	GO:0098797	plasma membrane protein complex
+GO:1990124	3	GO:0032991	protein-containing complex
+GO:0031461	3	GO:0032991	protein-containing complex
+GO:0097346	17	GO:0140513	nuclear protein-containing complex
+GO:0055037	13	GO:0031410	cytoplasmic vesicle
+GO:0035145	17	GO:0140513	nuclear protein-containing complex
+GO:0000922	23	GO:0005856	cytoskeleton
+GO:0019897	8	GO:0005886	plasma membrane
+GO:0030424	9	GO:0043005	neuron projection
+GO:0030425	9	GO:0043005	neuron projection
+GO:0033186	3	GO:0032991	protein-containing complex
+GO:0014069	10	GO:0045202	synapse
+GO:0000940	21	GO:0000808	origin recognition complex
+GO:0042588	13	GO:0031410	cytoplasmic vesicle
+GO:0005852	18	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0000791	23	GO:0005856	cytoskeleton
+GO:0005856	23	GO:0005856	cytoskeleton
+GO:0000793	23	GO:0005856	cytoskeleton
+GO:0000930	21	GO:0000808	origin recognition complex
+GO:0042575	3	GO:0032991	protein-containing complex
+GO:0005881	22	GO:0072686	mitotic spindle
+GO:0036396	18	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0019866	14	GO:0005774	vacuolar membrane
+GO:0070847	17	GO:0140513	nuclear protein-containing complex
+GO:0044309	9	GO:0043005	neuron projection
+GO:0005871	21	GO:0000808	origin recognition complex
+GO:0005875	21	GO:0000808	origin recognition complex
+GO:0005876	22	GO:0072686	mitotic spindle
+GO:0070176	17	GO:0140513	nuclear protein-containing complex
+GO:0005829	18	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0048188	16	GO:0035097	histone methyltransferase complex
+GO:0005815	23	GO:0005856	cytoskeleton
+GO:0005819	23	GO:0005856	cytoskeleton
+GO:0043204	20	GO:0110165	cellular anatomical entity
+GO:0016605	15	GO:0000228	nuclear chromosome
+GO:0016607	15	GO:0000228	nuclear chromosome
+GO:0005845	3	GO:0032991	protein-containing complex
+GO:0000783	17	GO:0140513	nuclear protein-containing complex
+GO:0035579	13	GO:0031410	cytoplasmic vesicle
+GO:0042995	20	GO:0110165	cellular anatomical entity
+GO:0032838	19	GO:0005938	cell cortex
+GO:0034399	15	GO:0000228	nuclear chromosome
+GO:0097731	9	GO:0043005	neuron projection
+GO:0051233	23	GO:0005856	cytoskeleton
+GO:0008076	5	GO:0005892	acetylcholine-gated channel complex
+GO:0033290	18	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0008021	13	GO:0031410	cytoplasmic vesicle
+GO:0032809	7	GO:0016327	apicolateral plasma membrane
+GO:0035997	7	GO:0016327	apicolateral plasma membrane
+GO:0043034	23	GO:0005856	cytoskeleton
+GO:0000421	14	GO:0005774	vacuolar membrane
+GO:0005594	3	GO:0032991	protein-containing complex
+GO:0071561	20	GO:0110165	cellular anatomical entity
+GO:0097431	22	GO:0072686	mitotic spindle
+GO:0035097	16	GO:0035097	histone methyltransferase complex
+GO:0043005	9	GO:0043005	neuron projection
+GO:0000439	17	GO:0140513	nuclear protein-containing complex
+GO:0030117	18	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0080008	3	GO:0032991	protein-containing complex
+GO:0098839	7	GO:0016327	apicolateral plasma membrane
+GO:0030133	13	GO:0031410	cytoplasmic vesicle
+GO:0030134	13	GO:0031410	cytoplasmic vesicle
+GO:0071540	18	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0036464	23	GO:0005856	cytoskeleton
+GO:0090575	17	GO:0140513	nuclear protein-containing complex
+GO:1990023	22	GO:0072686	mitotic spindle
+GO:0005766	14	GO:0005774	vacuolar membrane
+GO:0042582	13	GO:0031410	cytoplasmic vesicle
+GO:0110165	20	GO:0110165	cellular anatomical entity
+GO:0097524	8	GO:0005886	plasma membrane
+GO:0055044	20	GO:0110165	cellular anatomical entity
+GO:0048046	20	GO:0110165	cellular anatomical entity
+GO:0062159	23	GO:0005856	cytoskeleton
+GO:0045169	18	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0005750	14	GO:0005774	vacuolar membrane
+GO:0005784	14	GO:0005774	vacuolar membrane
+GO:0019908	16	GO:0035097	histone methyltransferase complex
+GO:0150005	3	GO:0032991	protein-containing complex
+GO:0043218	20	GO:0110165	cellular anatomical entity
+GO:0042571	4	GO:0042571	immunoglobulin complex, circulating
+GO:0043656	1	GO:0033646	host intracellular part
+GO:1905286	3	GO:0032991	protein-containing complex
+GO:0032133	21	GO:0000808	origin recognition complex
+GO:1905370	3	GO:0032991	protein-containing complex
+GO:0042611	6	GO:0098797	plasma membrane protein complex

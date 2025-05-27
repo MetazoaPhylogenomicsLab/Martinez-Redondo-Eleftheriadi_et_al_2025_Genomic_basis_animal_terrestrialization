@@ -1,0 +1,22 @@
+GO:0005739	1	GO:0055036	virion membrane
+GO:0055036	1	GO:0055036	virion membrane
+GO:0009507	1	GO:0055036	virion membrane
+GO:0030430	2	GO:0030430	host cell cytoplasm
+GO:0033017	1	GO:0055036	virion membrane
+GO:0043160	1	GO:0055036	virion membrane
+GO:0044165	2	GO:0030430	host cell cytoplasm
+GO:0044167	2	GO:0030430	host cell cytoplasm
+GO:0044219	2	GO:0030430	host cell cytoplasm
+GO:0044156	2	GO:0030430	host cell cytoplasm
+GO:0031160	1	GO:0055036	virion membrane
+GO:0044094	2	GO:0030430	host cell cytoplasm
+GO:0030991	1	GO:0055036	virion membrane
+GO:0042025	2	GO:0030430	host cell cytoplasm
+GO:0031965	1	GO:0055036	virion membrane
+GO:0000324	1	GO:0055036	virion membrane
+GO:0044204	2	GO:0030430	host cell cytoplasm
+GO:0019030	1	GO:0055036	virion membrane
+GO:0019031	1	GO:0055036	virion membrane
+GO:0019033	1	GO:0055036	virion membrane
+GO:0033644	2	GO:0030430	host cell cytoplasm
+GO:0097228	1	GO:0055036	virion membrane

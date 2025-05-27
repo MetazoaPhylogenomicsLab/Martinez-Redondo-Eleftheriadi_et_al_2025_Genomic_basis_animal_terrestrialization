@@ -1,0 +1,80 @@
+GO:0042026	4	GO:0055085	transmembrane transport
+GO:0002718	2	GO:0032655	regulation of interleukin-12 production
+GO:0055085	4	GO:0055085	transmembrane transport
+GO:0055088	5	GO:0046034	ATP metabolic process
+GO:1903265	3	GO:0060251	regulation of glial cell proliferation
+GO:0018991	5	GO:0046034	ATP metabolic process
+GO:0060294	4	GO:0055085	transmembrane transport
+GO:0007040	4	GO:0055085	transmembrane transport
+GO:0009152	1	GO:0009218	pyrimidine ribonucleotide metabolic process
+GO:0014015	3	GO:0060251	regulation of glial cell proliferation
+GO:0010803	3	GO:0060251	regulation of glial cell proliferation
+GO:0032735	2	GO:0032655	regulation of interleukin-12 production
+GO:0060251	3	GO:0060251	regulation of glial cell proliferation
+GO:0060252	3	GO:0060251	regulation of glial cell proliferation
+GO:0046940	1	GO:0009218	pyrimidine ribonucleotide metabolic process
+GO:0021549	5	GO:0046034	ATP metabolic process
+GO:0060285	4	GO:0055085	transmembrane transport
+GO:0015695	4	GO:0055085	transmembrane transport
+GO:0061462	4	GO:0055085	transmembrane transport
+GO:1905710	5	GO:0046034	ATP metabolic process
+GO:0033363	4	GO:0055085	transmembrane transport
+GO:0009147	1	GO:0009218	pyrimidine ribonucleotide metabolic process
+GO:0043068	3	GO:0060251	regulation of glial cell proliferation
+GO:0043069	3	GO:0060251	regulation of glial cell proliferation
+GO:0009133	1	GO:0009218	pyrimidine ribonucleotide metabolic process
+GO:0014009	3	GO:0060251	regulation of glial cell proliferation
+GO:2000644	5	GO:0046034	ATP metabolic process
+GO:0009306	4	GO:0055085	transmembrane transport
+GO:0006099	5	GO:0046034	ATP metabolic process
+GO:0046048	1	GO:0009218	pyrimidine ribonucleotide metabolic process
+GO:0046031	1	GO:0009218	pyrimidine ribonucleotide metabolic process
+GO:0046033	1	GO:0009218	pyrimidine ribonucleotide metabolic process
+GO:0046034	5	GO:0046034	ATP metabolic process
+GO:0046039	1	GO:0009218	pyrimidine ribonucleotide metabolic process
+GO:0046662	5	GO:0046034	ATP metabolic process
+GO:0032259	5	GO:0046034	ATP metabolic process
+GO:0098609	4	GO:0055085	transmembrane transport
+GO:0006919	5	GO:0046034	ATP metabolic process
+GO:0015838	4	GO:0055085	transmembrane transport
+GO:0032663	2	GO:0032655	regulation of interleukin-12 production
+GO:0036093	5	GO:0046034	ATP metabolic process
+GO:0007157	4	GO:0055085	transmembrane transport
+GO:0032655	2	GO:0032655	regulation of interleukin-12 production
+GO:0019692	1	GO:0009218	pyrimidine ribonucleotide metabolic process
+GO:0006898	4	GO:0055085	transmembrane transport
+GO:0042775	5	GO:0046034	ATP metabolic process
+GO:0032623	2	GO:0032655	regulation of interleukin-12 production
+GO:0045742	3	GO:0060251	regulation of glial cell proliferation
+GO:0042147	4	GO:0055085	transmembrane transport
+GO:0019856	1	GO:0009218	pyrimidine ribonucleotide metabolic process
+GO:0050852	3	GO:0060251	regulation of glial cell proliferation
+GO:0050854	3	GO:0060251	regulation of glial cell proliferation
+GO:0050856	3	GO:0060251	regulation of glial cell proliferation
+GO:0001539	4	GO:0055085	transmembrane transport
+GO:0030104	5	GO:0046034	ATP metabolic process
+GO:0032615	2	GO:0032655	regulation of interleukin-12 production
+GO:0003014	5	GO:0046034	ATP metabolic process
+GO:0035633	5	GO:0046034	ATP metabolic process
+GO:0009220	1	GO:0009218	pyrimidine ribonucleotide metabolic process
+GO:0002367	2	GO:0032655	regulation of interleukin-12 production
+GO:0043648	5	GO:0046034	ATP metabolic process
+GO:0048753	4	GO:0055085	transmembrane transport
+GO:0032649	2	GO:0032655	regulation of interleukin-12 production
+GO:0098742	4	GO:0055085	transmembrane transport
+GO:0061355	4	GO:0055085	transmembrane transport
+GO:0009218	1	GO:0009218	pyrimidine ribonucleotide metabolic process
+GO:0032801	5	GO:0046034	ATP metabolic process
+GO:1903975	3	GO:0060251	regulation of glial cell proliferation
+GO:1903977	3	GO:0060251	regulation of glial cell proliferation
+GO:0009615	5	GO:0046034	ATP metabolic process
+GO:0006622	4	GO:0055085	transmembrane transport
+GO:0032609	2	GO:0032655	regulation of interleukin-12 production
+GO:0019646	5	GO:0046034	ATP metabolic process
+GO:0002347	5	GO:0046034	ATP metabolic process
+GO:0009394	1	GO:0009218	pyrimidine ribonucleotide metabolic process
+GO:0006833	4	GO:0055085	transmembrane transport
+GO:0009208	1	GO:0009218	pyrimidine ribonucleotide metabolic process
+GO:0002720	2	GO:0032655	regulation of interleukin-12 production
+GO:0022037	5	GO:0046034	ATP metabolic process
+GO:0060548	3	GO:0060251	regulation of glial cell proliferation

@@ -1,0 +1,17 @@
+GO:0005682	2	GO:0005689	U12-type spliceosomal complex
+GO:0046540	2	GO:0005689	U12-type spliceosomal complex
+GO:0005685	2	GO:0005689	U12-type spliceosomal complex
+GO:0034709	1	GO:0101002	ficolin-1-rich granule
+GO:0005686	2	GO:0005689	U12-type spliceosomal complex
+GO:0005689	2	GO:0005689	U12-type spliceosomal complex
+GO:0071005	2	GO:0005689	U12-type spliceosomal complex
+GO:0071007	2	GO:0005689	U12-type spliceosomal complex
+GO:0034719	1	GO:0101002	ficolin-1-rich granule
+GO:0101002	1	GO:0101002	ficolin-1-rich granule
+GO:0000243	2	GO:0005689	U12-type spliceosomal complex
+GO:0032783	2	GO:0005689	U12-type spliceosomal complex
+GO:0015030	2	GO:0005689	U12-type spliceosomal complex
+GO:0048471	1	GO:0101002	ficolin-1-rich granule
+GO:1904813	1	GO:0101002	ficolin-1-rich granule
+GO:1904724	1	GO:0101002	ficolin-1-rich granule
+GO:0070820	1	GO:0101002	ficolin-1-rich granule

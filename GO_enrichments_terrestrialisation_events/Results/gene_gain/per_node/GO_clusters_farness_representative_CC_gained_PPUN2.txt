@@ -1,0 +1,14 @@
+GO:0016324	2	GO:0005886	plasma membrane
+GO:0045121	2	GO:0005886	plasma membrane
+GO:0031012	2	GO:0005886	plasma membrane
+GO:0072686	1	GO:0043186	P granule
+GO:0062023	2	GO:0005886	plasma membrane
+GO:0098857	2	GO:0005886	plasma membrane
+GO:0060102	2	GO:0005886	plasma membrane
+GO:0060473	1	GO:0043186	P granule
+GO:0005742	1	GO:0043186	P granule
+GO:0005886	2	GO:0005886	plasma membrane
+GO:0005615	2	GO:0005886	plasma membrane
+GO:0042470	1	GO:0043186	P granule
+GO:0043186	1	GO:0043186	P granule
+GO:0045177	2	GO:0005886	plasma membrane

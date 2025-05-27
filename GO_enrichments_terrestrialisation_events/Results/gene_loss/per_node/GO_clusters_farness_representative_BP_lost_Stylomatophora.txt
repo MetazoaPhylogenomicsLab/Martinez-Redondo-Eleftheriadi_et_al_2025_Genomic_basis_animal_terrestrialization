@@ -1,0 +1,1183 @@
+GO:0046874	2	GO:0070189	kynurenine metabolic process
+GO:0090305	3	GO:0006310	DNA recombination
+GO:1903318	1	GO:2000644	regulation of receptor catabolic process
+GO:0060337	8	GO:0007166	cell surface receptor signaling pathway
+GO:0060338	15	GO:0002218	activation of innate immune response
+GO:0060339	15	GO:0002218	activation of innate immune response
+GO:0043045	3	GO:0006310	DNA recombination
+GO:0043031	11	GO:0031294	lymphocyte costimulation
+GO:0033005	11	GO:0031294	lymphocyte costimulation
+GO:0070303	7	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:1902108	21	GO:1901891	regulation of cell septum assembly
+GO:0075528	13	GO:0052173	response to defenses of other organism
+GO:0000122	1	GO:2000644	regulation of receptor catabolic process
+GO:0046692	22	GO:0009566	fertilization
+GO:0006581	2	GO:0070189	kynurenine metabolic process
+GO:0042391	25	GO:0007622	rhythmic behavior
+GO:0032350	1	GO:2000644	regulation of receptor catabolic process
+GO:0032352	1	GO:2000644	regulation of receptor catabolic process
+GO:0046671	16	GO:0032330	regulation of chondrocyte differentiation
+GO:0046673	16	GO:0032330	regulation of chondrocyte differentiation
+GO:0009414	14	GO:0051606	detection of stimulus
+GO:0009415	14	GO:0051606	detection of stimulus
+GO:0071360	14	GO:0051606	detection of stimulus
+GO:0071359	14	GO:0051606	detection of stimulus
+GO:0008217	25	GO:0007622	rhythmic behavior
+GO:0070167	16	GO:0032330	regulation of chondrocyte differentiation
+GO:0070169	16	GO:0032330	regulation of chondrocyte differentiation
+GO:0070189	2	GO:0070189	kynurenine metabolic process
+GO:0032480	6	GO:0001817	regulation of cytokine production
+GO:0032481	6	GO:0001817	regulation of cytokine production
+GO:0070131	1	GO:2000644	regulation of receptor catabolic process
+GO:0010833	3	GO:0006310	DNA recombination
+GO:0045910	1	GO:2000644	regulation of receptor catabolic process
+GO:0045916	15	GO:0002218	activation of innate immune response
+GO:0071462	14	GO:0051606	detection of stimulus
+GO:1901535	1	GO:2000644	regulation of receptor catabolic process
+GO:0045934	1	GO:2000644	regulation of receptor catabolic process
+GO:0000729	3	GO:0006310	DNA recombination
+GO:0032196	23	GO:0001775	cell activation
+GO:0015074	3	GO:0006310	DNA recombination
+GO:0010569	1	GO:2000644	regulation of receptor catabolic process
+GO:0048800	17	GO:0031214	biomineral tissue development
+GO:0007501	18	GO:0010001	glial cell differentiation
+GO:0043330	14	GO:0051606	detection of stimulus
+GO:0043331	14	GO:0051606	detection of stimulus
+GO:0051177	20	GO:0007130	synaptonemal complex assembly
+GO:0051131	21	GO:1901891	regulation of cell septum assembly
+GO:0016925	2	GO:0070189	kynurenine metabolic process
+GO:0060761	15	GO:0002218	activation of innate immune response
+GO:0060759	15	GO:0002218	activation of innate immune response
+GO:0007620	22	GO:0009566	fertilization
+GO:0035002	17	GO:0031214	biomineral tissue development
+GO:0045035	17	GO:0031214	biomineral tissue development
+GO:0030500	16	GO:0032330	regulation of chondrocyte differentiation
+GO:0030501	16	GO:0032330	regulation of chondrocyte differentiation
+GO:0043420	2	GO:0070189	kynurenine metabolic process
+GO:0051253	1	GO:2000644	regulation of receptor catabolic process
+GO:0019805	2	GO:0070189	kynurenine metabolic process
+GO:0001710	18	GO:0010001	glial cell differentiation
+GO:0031848	3	GO:0006310	DNA recombination
+GO:0034354	2	GO:0070189	kynurenine metabolic process
+GO:0046902	21	GO:1901891	regulation of cell septum assembly
+GO:0010605	6	GO:0001817	regulation of cytokine production
+GO:0001707	17	GO:0031214	biomineral tissue development
+GO:0006954	14	GO:0051606	detection of stimulus
+GO:0006957	15	GO:0002218	activation of innate immune response
+GO:0034340	13	GO:0052173	response to defenses of other organism
+GO:0036065	25	GO:0007622	rhythmic behavior
+GO:0032754	6	GO:0001817	regulation of cytokine production
+GO:0016032	19	GO:0016032	viral process
+GO:0039563	12	GO:0050789	regulation of biological process
+GO:0039554	15	GO:0002218	activation of innate immune response
+GO:0052170	15	GO:0002218	activation of innate immune response
+GO:1902679	1	GO:2000644	regulation of receptor catabolic process
+GO:0032728	6	GO:0001817	regulation of cytokine production
+GO:0039573	15	GO:0002218	activation of innate immune response
+GO:0051781	12	GO:0050789	regulation of biological process
+GO:0039532	15	GO:0002218	activation of innate immune response
+GO:0001816	4	GO:0001816	cytokine production
+GO:0001817	6	GO:0001817	regulation of cytokine production
+GO:0001818	6	GO:0001817	regulation of cytokine production
+GO:0039537	15	GO:0002218	activation of innate immune response
+GO:1905117	25	GO:0007622	rhythmic behavior
+GO:0032703	6	GO:0001817	regulation of cytokine production
+GO:0039502	15	GO:0002218	activation of innate immune response
+GO:0039503	15	GO:0002218	activation of innate immune response
+GO:0098671	19	GO:0016032	viral process
+GO:0039693	19	GO:0016032	viral process
+GO:0009597	13	GO:0052173	response to defenses of other organism
+GO:0009566	22	GO:0009566	fertilization
+GO:0032873	7	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:1903507	1	GO:2000644	regulation of receptor catabolic process
+GO:0039644	1	GO:2000644	regulation of receptor catabolic process
+GO:0039645	12	GO:0050789	regulation of biological process
+GO:1990001	1	GO:2000644	regulation of receptor catabolic process
+GO:0031649	25	GO:0007622	rhythmic behavior
+GO:0050687	15	GO:0002218	activation of innate immune response
+GO:0035335	2	GO:0070189	kynurenine metabolic process
+GO:0010955	1	GO:2000644	regulation of receptor catabolic process
+GO:0001660	25	GO:0007622	rhythmic behavior
+GO:0035456	14	GO:0051606	detection of stimulus
+GO:0140546	13	GO:0052173	response to defenses of other organism
+GO:0009615	13	GO:0052173	response to defenses of other organism
+GO:0045455	2	GO:0070189	kynurenine metabolic process
+GO:0045456	2	GO:0070189	kynurenine metabolic process
+GO:0071555	21	GO:1901891	regulation of cell septum assembly
+GO:1901048	12	GO:0050789	regulation of biological process
+GO:2001270	1	GO:2000644	regulation of receptor catabolic process
+GO:0035199	14	GO:0051606	detection of stimulus
+GO:0032648	6	GO:0001817	regulation of cytokine production
+GO:0046329	7	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0032608	4	GO:0001816	cytokine production
+GO:0045144	20	GO:0007130	synaptonemal complex assembly
+GO:0051607	13	GO:0052173	response to defenses of other organism
+GO:0006357	1	GO:2000644	regulation of receptor catabolic process
+GO:0040029	6	GO:0001817	regulation of cytokine production
+GO:0040016	18	GO:0010001	glial cell differentiation
+GO:0033692	2	GO:0070189	kynurenine metabolic process
+GO:0050914	25	GO:0007622	rhythmic behavior
+GO:0019062	19	GO:0016032	viral process
+GO:0033689	12	GO:0050789	regulation of biological process
+GO:0019058	19	GO:0016032	viral process
+GO:0044826	19	GO:0016032	viral process
+GO:0001960	7	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0006470	2	GO:0070189	kynurenine metabolic process
+GO:0019043	19	GO:0016032	viral process
+GO:0001959	7	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0019049	19	GO:0016032	viral process
+GO:0090030	1	GO:2000644	regulation of receptor catabolic process
+GO:0090031	1	GO:2000644	regulation of receptor catabolic process
+GO:0045778	16	GO:0032330	regulation of chondrocyte differentiation
+GO:0075111	19	GO:0016032	viral process
+GO:1900117	12	GO:0050789	regulation of biological process
+GO:1900118	9	GO:2000106	regulation of leukocyte apoptotic process
+GO:0007320	22	GO:0009566	fertilization
+GO:0007340	22	GO:0009566	fertilization
+GO:0045892	1	GO:2000644	regulation of receptor catabolic process
+GO:0007338	22	GO:0009566	fertilization
+GO:0075109	19	GO:0016032	viral process
+GO:0097340	1	GO:2000644	regulation of receptor catabolic process
+GO:0097341	1	GO:2000644	regulation of receptor catabolic process
+GO:0097345	8	GO:0007166	cell surface receptor signaling pathway
+GO:0045824	15	GO:0002218	activation of innate immune response
+GO:0034627	2	GO:0070189	kynurenine metabolic process
+GO:0007469	17	GO:0031214	biomineral tissue development
+GO:0006298	3	GO:0006310	DNA recombination
+GO:0007455	17	GO:0031214	biomineral tissue development
+GO:1900246	7	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0007411	18	GO:0010001	glial cell differentiation
+GO:0097485	18	GO:0010001	glial cell differentiation
+GO:0034605	14	GO:0051606	detection of stimulus
+GO:0006275	1	GO:2000644	regulation of receptor catabolic process
+GO:0048332	17	GO:0031214	biomineral tissue development
+GO:0006278	3	GO:0006310	DNA recombination
+GO:0010468	6	GO:0001817	regulation of cytokine production
+GO:0010457	21	GO:1901891	regulation of cell septum assembly
+GO:0007409	18	GO:0010001	glial cell differentiation
+GO:0046718	19	GO:0016032	viral process
+GO:0048483	17	GO:0031214	biomineral tissue development
+GO:0075713	19	GO:0016032	viral process
+GO:0007129	20	GO:0007130	synaptonemal complex assembly
+GO:0046886	1	GO:2000644	regulation of receptor catabolic process
+GO:0034090	20	GO:0007130	synaptonemal complex assembly
+GO:0000379	3	GO:0006310	DNA recombination
+GO:0075732	19	GO:0016032	viral process
+GO:0030476	20	GO:0007130	synaptonemal complex assembly
+GO:0001961	7	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0034089	20	GO:0007130	synaptonemal complex assembly
+GO:0090311	1	GO:2000644	regulation of receptor catabolic process
+GO:0090312	1	GO:2000644	regulation of receptor catabolic process
+GO:0006689	2	GO:0070189	kynurenine metabolic process
+GO:0019226	23	GO:0001775	cell activation
+GO:0045666	16	GO:0032330	regulation of chondrocyte differentiation
+GO:1990051	1	GO:2000644	regulation of receptor catabolic process
+GO:1900020	1	GO:2000644	regulation of receptor catabolic process
+GO:0030199	21	GO:1901891	regulation of cell septum assembly
+GO:1904970	21	GO:1901891	regulation of cell septum assembly
+GO:0051923	2	GO:0070189	kynurenine metabolic process
+GO:0075523	19	GO:0016032	viral process
+GO:0016998	2	GO:0070189	kynurenine metabolic process
+GO:0010216	3	GO:0006310	DNA recombination
+GO:0071901	1	GO:2000644	regulation of receptor catabolic process
+GO:1905756	21	GO:1901891	regulation of cell septum assembly
+GO:1905758	21	GO:1901891	regulation of cell septum assembly
+GO:0030214	2	GO:0070189	kynurenine metabolic process
+GO:0075509	19	GO:0016032	viral process
+GO:0010799	1	GO:2000644	regulation of receptor catabolic process
+GO:0034393	9	GO:2000106	regulation of leukocyte apoptotic process
+GO:0031099	17	GO:0031214	biomineral tissue development
+GO:0060100	12	GO:0050789	regulation of biological process
+GO:0080111	3	GO:0006310	DNA recombination
+GO:0031028	8	GO:0007166	cell surface receptor signaling pathway
+GO:0031029	7	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0090200	12	GO:0050789	regulation of biological process
+GO:0044347	2	GO:0070189	kynurenine metabolic process
+GO:0031031	21	GO:1901891	regulation of cell septum assembly
+GO:0045900	1	GO:2000644	regulation of receptor catabolic process
+GO:0060242	14	GO:0051606	detection of stimulus
+GO:0060243	12	GO:0050789	regulation of biological process
+GO:0060245	14	GO:0051606	detection of stimulus
+GO:0052027	19	GO:0016032	viral process
+GO:0039663	19	GO:0016032	viral process
+GO:0039652	1	GO:2000644	regulation of receptor catabolic process
+GO:0010526	12	GO:0050789	regulation of biological process
+GO:1904070	25	GO:0007622	rhythmic behavior
+GO:0060760	15	GO:0002218	activation of innate immune response
+GO:0010517	25	GO:0007622	rhythmic behavior
+GO:0051090	1	GO:2000644	regulation of receptor catabolic process
+GO:0000819	20	GO:0007130	synaptonemal complex assembly
+GO:0140278	21	GO:1901891	regulation of cell septum assembly
+GO:0140279	21	GO:1901891	regulation of cell septum assembly
+GO:0061063	16	GO:0032330	regulation of chondrocyte differentiation
+GO:1904000	25	GO:0007622	rhythmic behavior
+GO:0042362	2	GO:0070189	kynurenine metabolic process
+GO:0034112	12	GO:0050789	regulation of biological process
+GO:0034113	23	GO:0001775	cell activation
+GO:0043410	7	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0034109	23	GO:0001775	cell activation
+GO:0042332	14	GO:0051606	detection of stimulus
+GO:0009617	13	GO:0052173	response to defenses of other organism
+GO:0043408	7	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0032467	12	GO:0050789	regulation of biological process
+GO:0090529	21	GO:1901891	regulation of cell septum assembly
+GO:0032479	6	GO:0001817	regulation of cytokine production
+GO:0090502	3	GO:0006310	DNA recombination
+GO:0043123	7	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0007014	2	GO:0070189	kynurenine metabolic process
+GO:0033135	1	GO:2000644	regulation of receptor catabolic process
+GO:0042446	25	GO:0007622	rhythmic behavior
+GO:0070593	18	GO:0010001	glial cell differentiation
+GO:0044790	19	GO:0016032	viral process
+GO:0090675	21	GO:1901891	regulation of cell septum assembly
+GO:0035071	18	GO:0010001	glial cell differentiation
+GO:0035073	17	GO:0031214	biomineral tissue development
+GO:0043247	3	GO:0006310	DNA recombination
+GO:0035010	25	GO:0007622	rhythmic behavior
+GO:0045087	13	GO:0052173	response to defenses of other organism
+GO:0045026	21	GO:1901891	regulation of cell septum assembly
+GO:0035006	13	GO:0052173	response to defenses of other organism
+GO:0070673	14	GO:0051606	detection of stimulus
+GO:0010994	21	GO:1901891	regulation of cell septum assembly
+GO:1905941	16	GO:0032330	regulation of chondrocyte differentiation
+GO:0071368	14	GO:0051606	detection of stimulus
+GO:0051346	25	GO:0007622	rhythmic behavior
+GO:0010951	1	GO:2000644	regulation of receptor catabolic process
+GO:0008345	25	GO:0007622	rhythmic behavior
+GO:0009988	23	GO:0001775	cell activation
+GO:0010973	21	GO:1901891	regulation of cell septum assembly
+GO:0010923	1	GO:2000644	regulation of receptor catabolic process
+GO:0010918	25	GO:0007622	rhythmic behavior
+GO:0031102	18	GO:0010001	glial cell differentiation
+GO:0031103	18	GO:0010001	glial cell differentiation
+GO:0001172	3	GO:0006310	DNA recombination
+GO:0031288	17	GO:0031214	biomineral tissue development
+GO:0032722	6	GO:0001817	regulation of cytokine production
+GO:1903490	21	GO:1901891	regulation of cell septum assembly
+GO:0016339	23	GO:0001775	cell activation
+GO:2000253	12	GO:0050789	regulation of biological process
+GO:0007342	22	GO:0009566	fertilization
+GO:0007343	22	GO:0009566	fertilization
+GO:0032736	6	GO:0001817	regulation of cytokine production
+GO:0048147	12	GO:0050789	regulation of biological process
+GO:0044501	19	GO:0016032	viral process
+GO:0007304	18	GO:0010001	glial cell differentiation
+GO:0032897	19	GO:0016032	viral process
+GO:0036301	4	GO:0001816	cytokine production
+GO:0000917	21	GO:1901891	regulation of cell septum assembly
+GO:0002763	16	GO:0032330	regulation of chondrocyte differentiation
+GO:0051155	16	GO:0032330	regulation of chondrocyte differentiation
+GO:1903436	21	GO:1901891	regulation of cell septum assembly
+GO:1903438	21	GO:1901891	regulation of cell septum assembly
+GO:0085032	7	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0085033	7	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0044650	19	GO:0016032	viral process
+GO:0002716	15	GO:0002218	activation of innate immune response
+GO:0051149	16	GO:0032330	regulation of chondrocyte differentiation
+GO:0006388	3	GO:0006310	DNA recombination
+GO:0048266	14	GO:0051606	detection of stimulus
+GO:0106016	15	GO:0002218	activation of innate immune response
+GO:0007417	17	GO:0031214	biomineral tissue development
+GO:0006310	3	GO:0006310	DNA recombination
+GO:0006313	3	GO:0006310	DNA recombination
+GO:0050960	25	GO:0007622	rhythmic behavior
+GO:2000779	1	GO:2000644	regulation of receptor catabolic process
+GO:0050954	25	GO:0007622	rhythmic behavior
+GO:0035305	1	GO:2000644	regulation of receptor catabolic process
+GO:0007160	23	GO:0001775	cell activation
+GO:0051276	21	GO:1901891	regulation of cell septum assembly
+GO:2001032	1	GO:2000644	regulation of receptor catabolic process
+GO:2001034	1	GO:2000644	regulation of receptor catabolic process
+GO:0007156	23	GO:0001775	cell activation
+GO:0019064	19	GO:0016032	viral process
+GO:0007157	23	GO:0001775	cell activation
+GO:0001775	23	GO:0001775	cell activation
+GO:0043651	2	GO:0070189	kynurenine metabolic process
+GO:0043654	23	GO:0001775	cell activation
+GO:0019083	19	GO:0016032	viral process
+GO:0070936	2	GO:0070189	kynurenine metabolic process
+GO:1904750	12	GO:0050789	regulation of biological process
+GO:1903265	7	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0042546	23	GO:0001775	cell activation
+GO:0021556	17	GO:0031214	biomineral tissue development
+GO:0032674	6	GO:0001817	regulation of cytokine production
+GO:1904892	7	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:1904894	7	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0032634	4	GO:0001816	cytokine production
+GO:0032606	4	GO:0001816	cytokine production
+GO:0007202	25	GO:0007622	rhythmic behavior
+GO:0031509	1	GO:2000644	regulation of receptor catabolic process
+GO:1903746	25	GO:0007622	rhythmic behavior
+GO:1902230	7	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0002684	11	GO:0031294	lymphocyte costimulation
+GO:0001573	2	GO:0070189	kynurenine metabolic process
+GO:0031671	21	GO:1901891	regulation of cell septum assembly
+GO:0002639	5	GO:0002718	regulation of cytokine production involved in immune response
+GO:0048582	16	GO:0032330	regulation of chondrocyte differentiation
+GO:0031648	25	GO:0007622	rhythmic behavior
+GO:0035212	16	GO:0032330	regulation of chondrocyte differentiation
+GO:1903883	7	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:1903886	6	GO:0001817	regulation of cytokine production
+GO:0051593	14	GO:0051606	detection of stimulus
+GO:1901256	6	GO:0001817	regulation of cytokine production
+GO:2000648	12	GO:0050789	regulation of biological process
+GO:1901258	6	GO:0001817	regulation of cytokine production
+GO:0000070	20	GO:0007130	synaptonemal complex assembly
+GO:0090022	10	GO:0030334	regulation of cell migration
+GO:0071588	8	GO:0007166	cell surface receptor signaling pathway
+GO:0048678	14	GO:0051606	detection of stimulus
+GO:0045787	12	GO:0050789	regulation of biological process
+GO:0006897	23	GO:0001775	cell activation
+GO:0032954	12	GO:0050789	regulation of biological process
+GO:0032955	21	GO:1901891	regulation of cell septum assembly
+GO:1902807	12	GO:0050789	regulation of biological process
+GO:0071669	23	GO:0001775	cell activation
+GO:0071652	6	GO:0001817	regulation of cytokine production
+GO:0071654	6	GO:0001817	regulation of cytokine production
+GO:0071655	6	GO:0001817	regulation of cytokine production
+GO:0071657	6	GO:0001817	regulation of cytokine production
+GO:0006878	25	GO:0007622	rhythmic behavior
+GO:0098670	19	GO:0016032	viral process
+GO:1901891	21	GO:1901891	regulation of cell septum assembly
+GO:1901893	21	GO:1901891	regulation of cell septum assembly
+GO:0010383	2	GO:0070189	kynurenine metabolic process
+GO:0071610	4	GO:0001816	cytokine production
+GO:0071611	4	GO:0001816	cytokine production
+GO:0009313	2	GO:0070189	kynurenine metabolic process
+GO:0045838	25	GO:0007622	rhythmic behavior
+GO:2001124	1	GO:2000644	regulation of receptor catabolic process
+GO:2001125	1	GO:2000644	regulation of receptor catabolic process
+GO:0010496	23	GO:0001775	cell activation
+GO:0000394	3	GO:0006310	DNA recombination
+GO:0007638	14	GO:0051606	detection of stimulus
+GO:0048190	17	GO:0031214	biomineral tissue development
+GO:0031348	15	GO:0002218	activation of innate immune response
+GO:0031330	1	GO:2000644	regulation of receptor catabolic process
+GO:0046802	19	GO:0016032	viral process
+GO:1903356	10	GO:0030334	regulation of cell migration
+GO:0007218	8	GO:0007166	cell surface receptor signaling pathway
+GO:0052031	13	GO:0052173	response to defenses of other organism
+GO:0006569	2	GO:0070189	kynurenine metabolic process
+GO:0000132	21	GO:1901891	regulation of cell septum assembly
+GO:0048246	14	GO:0051606	detection of stimulus
+GO:0010760	10	GO:0030334	regulation of cell migration
+GO:0010764	10	GO:0030334	regulation of cell migration
+GO:0030206	2	GO:0070189	kynurenine metabolic process
+GO:0014067	7	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0010758	10	GO:0030334	regulation of cell migration
+GO:0032330	16	GO:0032330	regulation of chondrocyte differentiation
+GO:0006505	2	GO:0070189	kynurenine metabolic process
+GO:0006506	2	GO:0070189	kynurenine metabolic process
+GO:0030730	25	GO:0007622	rhythmic behavior
+GO:0030703	18	GO:0010001	glial cell differentiation
+GO:0010883	12	GO:0050789	regulation of biological process
+GO:0010842	17	GO:0031214	biomineral tissue development
+GO:0051445	12	GO:0050789	regulation of biological process
+GO:0051446	12	GO:0050789	regulation of biological process
+GO:0042436	2	GO:0070189	kynurenine metabolic process
+GO:0000722	3	GO:0006310	DNA recombination
+GO:1902884	15	GO:0002218	activation of innate immune response
+GO:0009250	2	GO:0070189	kynurenine metabolic process
+GO:0009251	2	GO:0070189	kynurenine metabolic process
+GO:0005980	2	GO:0070189	kynurenine metabolic process
+GO:0005981	1	GO:2000644	regulation of receptor catabolic process
+GO:0005978	2	GO:0070189	kynurenine metabolic process
+GO:0070233	9	GO:2000106	regulation of leukocyte apoptotic process
+GO:0009247	2	GO:0070189	kynurenine metabolic process
+GO:0042135	2	GO:0070189	kynurenine metabolic process
+GO:0039702	19	GO:0016032	viral process
+GO:0051294	21	GO:1901891	regulation of cell septum assembly
+GO:0043455	1	GO:2000644	regulation of receptor catabolic process
+GO:0043470	1	GO:2000644	regulation of receptor catabolic process
+GO:0043471	1	GO:2000644	regulation of receptor catabolic process
+GO:0006952	14	GO:0051606	detection of stimulus
+GO:0006956	15	GO:0002218	activation of innate immune response
+GO:0009895	1	GO:2000644	regulation of receptor catabolic process
+GO:0052167	13	GO:0052173	response to defenses of other organism
+GO:0032757	6	GO:0001817	regulation of cytokine production
+GO:0070874	1	GO:2000644	regulation of receptor catabolic process
+GO:0055085	23	GO:0001775	cell activation
+GO:0019695	2	GO:0070189	kynurenine metabolic process
+GO:0042742	13	GO:0052173	response to defenses of other organism
+GO:0001845	21	GO:1901891	regulation of cell septum assembly
+GO:0061771	14	GO:0051606	detection of stimulus
+GO:1904776	12	GO:0050789	regulation of biological process
+GO:1904778	12	GO:0050789	regulation of biological process
+GO:1904747	16	GO:0032330	regulation of chondrocyte differentiation
+GO:1900015	6	GO:0001817	regulation of cytokine production
+GO:1900016	6	GO:0001817	regulation of cytokine production
+GO:0044414	15	GO:0002218	activation of innate immune response
+GO:0039674	19	GO:0016032	viral process
+GO:0044409	19	GO:0016032	viral process
+GO:1901076	21	GO:1901891	regulation of cell septum assembly
+GO:0044247	2	GO:0070189	kynurenine metabolic process
+GO:0032677	6	GO:0001817	regulation of cytokine production
+GO:0002532	14	GO:0051606	detection of stimulus
+GO:0032637	4	GO:0001816	cytokine production
+GO:0002534	4	GO:0001816	cytokine production
+GO:0038084	8	GO:0007166	cell surface receptor signaling pathway
+GO:0045141	20	GO:0007130	synaptonemal complex assembly
+GO:0052562	13	GO:0052173	response to defenses of other organism
+GO:0002682	11	GO:0031294	lymphocyte costimulation
+GO:0002685	10	GO:0030334	regulation of cell migration
+GO:0002689	10	GO:0030334	regulation of cell migration
+GO:0040018	16	GO:0032330	regulation of chondrocyte differentiation
+GO:1905521	10	GO:0030334	regulation of cell migration
+GO:1905522	10	GO:0030334	regulation of cell migration
+GO:1905517	10	GO:0030334	regulation of cell migration
+GO:0050913	25	GO:0007622	rhythmic behavior
+GO:0070986	17	GO:0031214	biomineral tissue development
+GO:0050909	25	GO:0007622	rhythmic behavior
+GO:0016267	2	GO:0070189	kynurenine metabolic process
+GO:0045740	1	GO:2000644	regulation of receptor catabolic process
+GO:0070096	21	GO:1901891	regulation of cell septum assembly
+GO:1903078	12	GO:0050789	regulation of biological process
+GO:0009074	2	GO:0070189	kynurenine metabolic process
+GO:0045818	1	GO:2000644	regulation of receptor catabolic process
+GO:0034620	14	GO:0051606	detection of stimulus
+GO:0007450	17	GO:0031214	biomineral tissue development
+GO:0045836	21	GO:1901891	regulation of cell septum assembly
+GO:0046755	19	GO:0016032	viral process
+GO:0002949	3	GO:0006310	DNA recombination
+GO:0010459	25	GO:0007622	rhythmic behavior
+GO:0097164	2	GO:0070189	kynurenine metabolic process
+GO:0061035	16	GO:0032330	regulation of chondrocyte differentiation
+GO:0075733	19	GO:0016032	viral process
+GO:0043922	19	GO:0016032	viral process
+GO:0006721	2	GO:0070189	kynurenine metabolic process
+GO:0006714	2	GO:0070189	kynurenine metabolic process
+GO:0002076	18	GO:0010001	glial cell differentiation
+GO:0070121	17	GO:0031214	biomineral tissue development
+GO:0050877	25	GO:0007622	rhythmic behavior
+GO:1901222	7	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:1901224	7	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0042102	11	GO:0031294	lymphocyte costimulation
+GO:0015979	2	GO:0070189	kynurenine metabolic process
+GO:0030011	23	GO:0001775	cell activation
+GO:0051347	25	GO:0007622	rhythmic behavior
+GO:1901890	21	GO:1901891	regulation of cell septum assembly
+GO:0031214	17	GO:0031214	biomineral tissue development
+GO:0033687	23	GO:0001775	cell activation
+GO:0045453	25	GO:0007622	rhythmic behavior
+GO:0033674	1	GO:2000644	regulation of receptor catabolic process
+GO:0007398	17	GO:0031214	biomineral tissue development
+GO:0007365	17	GO:0031214	biomineral tissue development
+GO:0007367	17	GO:0031214	biomineral tissue development
+GO:0032496	13	GO:0052173	response to defenses of other organism
+GO:0099565	8	GO:0007166	cell surface receptor signaling pathway
+GO:0009403	2	GO:0070189	kynurenine metabolic process
+GO:0007339	22	GO:0009566	fertilization
+GO:0044036	3	GO:0006310	DNA recombination
+GO:0090220	20	GO:0007130	synaptonemal complex assembly
+GO:0071357	13	GO:0052173	response to defenses of other organism
+GO:0050000	23	GO:0001775	cell activation
+GO:0030316	18	GO:0010001	glial cell differentiation
+GO:0045229	21	GO:1901891	regulation of cell septum assembly
+GO:0030466	1	GO:2000644	regulation of receptor catabolic process
+GO:0006595	2	GO:0070189	kynurenine metabolic process
+GO:0002455	14	GO:0051606	detection of stimulus
+GO:0007193	8	GO:0007166	cell surface receptor signaling pathway
+GO:0032102	15	GO:0002218	activation of innate immune response
+GO:0032104	15	GO:0002218	activation of innate immune response
+GO:0032107	15	GO:0002218	activation of innate immune response
+GO:0007166	8	GO:0007166	cell surface receptor signaling pathway
+GO:0007155	23	GO:0001775	cell activation
+GO:0045746	7	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0007186	8	GO:0007166	cell surface receptor signaling pathway
+GO:0010737	8	GO:0007166	cell surface receptor signaling pathway
+GO:0010738	7	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0061041	15	GO:0002218	activation of innate immune response
+GO:0001580	25	GO:0007622	rhythmic behavior
+GO:0051894	21	GO:1901891	regulation of cell septum assembly
+GO:0045860	1	GO:2000644	regulation of receptor catabolic process
+GO:0032200	21	GO:1901891	regulation of cell septum assembly
+GO:0010837	12	GO:0050789	regulation of biological process
+GO:0007215	8	GO:0007166	cell surface receptor signaling pathway
+GO:0019068	19	GO:0016032	viral process
+GO:1902806	12	GO:0050789	regulation of biological process
+GO:0010595	10	GO:0030334	regulation of cell migration
+GO:0019072	19	GO:0016032	viral process
+GO:0019073	19	GO:0016032	viral process
+GO:0019076	19	GO:0016032	viral process
+GO:0019079	19	GO:0016032	viral process
+GO:0002263	23	GO:0001775	cell activation
+GO:0042060	14	GO:0051606	detection of stimulus
+GO:0002252	23	GO:0001775	cell activation
+GO:0016311	2	GO:0070189	kynurenine metabolic process
+GO:0098742	23	GO:0001775	cell activation
+GO:0002237	13	GO:0052173	response to defenses of other organism
+GO:0031033	21	GO:1901891	regulation of cell septum assembly
+GO:0039671	19	GO:0016032	viral process
+GO:0048521	12	GO:0050789	regulation of biological process
+GO:0003383	18	GO:0010001	glial cell differentiation
+GO:0150117	12	GO:0050789	regulation of biological process
+GO:0045616	16	GO:0032330	regulation of chondrocyte differentiation
+GO:0051642	23	GO:0001775	cell activation
+GO:0010634	10	GO:0030334	regulation of cell migration
+GO:0040014	16	GO:0032330	regulation of chondrocyte differentiation
+GO:0045604	16	GO:0032330	regulation of chondrocyte differentiation
+GO:0035222	17	GO:0031214	biomineral tissue development
+GO:0035249	25	GO:0007622	rhythmic behavior
+GO:0007596	25	GO:0007622	rhythmic behavior
+GO:0007599	25	GO:0007622	rhythmic behavior
+GO:0006958	15	GO:0002218	activation of innate immune response
+GO:0007565	22	GO:0009566	fertilization
+GO:0009611	14	GO:0051606	detection of stimulus
+GO:0007584	14	GO:0051606	detection of stimulus
+GO:0006910	23	GO:0001775	cell activation
+GO:0032691	6	GO:0001817	regulation of cytokine production
+GO:0032692	6	GO:0001817	regulation of cytokine production
+GO:0000723	3	GO:0006310	DNA recombination
+GO:0032651	6	GO:0001817	regulation of cytokine production
+GO:0032652	6	GO:0001817	regulation of cytokine production
+GO:0032611	4	GO:0001816	cytokine production
+GO:0032612	4	GO:0001816	cytokine production
+GO:0002526	14	GO:0051606	detection of stimulus
+GO:0016233	3	GO:0006310	DNA recombination
+GO:0046813	19	GO:0016032	viral process
+GO:0098609	23	GO:0001775	cell activation
+GO:0050728	15	GO:0002218	activation of innate immune response
+GO:0120255	2	GO:0070189	kynurenine metabolic process
+GO:0007600	25	GO:0007622	rhythmic behavior
+GO:0007606	25	GO:0007622	rhythmic behavior
+GO:0060078	25	GO:0007622	rhythmic behavior
+GO:0044703	22	GO:0009566	fertilization
+GO:0042475	17	GO:0031214	biomineral tissue development
+GO:0032290	18	GO:0010001	glial cell differentiation
+GO:0060046	22	GO:0009566	fertilization
+GO:0060033	17	GO:0031214	biomineral tissue development
+GO:0035455	14	GO:0051606	detection of stimulus
+GO:0035457	14	GO:0051606	detection of stimulus
+GO:0035458	14	GO:0051606	detection of stimulus
+GO:0043086	25	GO:0007622	rhythmic behavior
+GO:0023035	8	GO:0007166	cell surface receptor signaling pathway
+GO:0044406	19	GO:0016032	viral process
+GO:0032287	18	GO:0010001	glial cell differentiation
+GO:0048714	16	GO:0032330	regulation of chondrocyte differentiation
+GO:0061647	2	GO:0070189	kynurenine metabolic process
+GO:0043011	18	GO:0010001	glial cell differentiation
+GO:0003093	25	GO:0007622	rhythmic behavior
+GO:0019731	13	GO:0052173	response to defenses of other organism
+GO:0032232	21	GO:1901891	regulation of cell septum assembly
+GO:0120039	18	GO:0010001	glial cell differentiation
+GO:0051004	25	GO:0007622	rhythmic behavior
+GO:1903142	16	GO:0032330	regulation of chondrocyte differentiation
+GO:0032793	1	GO:2000644	regulation of receptor catabolic process
+GO:0048857	17	GO:0031214	biomineral tissue development
+GO:0048858	18	GO:0010001	glial cell differentiation
+GO:0032760	6	GO:0001817	regulation of cytokine production
+GO:0032753	6	GO:0001817	regulation of cytokine production
+GO:0032755	6	GO:0001817	regulation of cytokine production
+GO:0003006	22	GO:0009566	fertilization
+GO:0019884	25	GO:0007622	rhythmic behavior
+GO:0019886	25	GO:0007622	rhythmic behavior
+GO:0048812	18	GO:0010001	glial cell differentiation
+GO:0032720	6	GO:0001817	regulation of cytokine production
+GO:0032725	6	GO:0001817	regulation of cytokine production
+GO:0032727	6	GO:0001817	regulation of cytokine production
+GO:0032729	6	GO:0001817	regulation of cytokine production
+GO:0032715	6	GO:0001817	regulation of cytokine production
+GO:0032731	6	GO:0001817	regulation of cytokine production
+GO:0032733	6	GO:0001817	regulation of cytokine production
+GO:0032735	6	GO:0001817	regulation of cytokine production
+GO:0044278	19	GO:0016032	viral process
+GO:0048596	17	GO:0031214	biomineral tissue development
+GO:1903243	25	GO:0007622	rhythmic behavior
+GO:0031328	1	GO:2000644	regulation of receptor catabolic process
+GO:0048566	17	GO:0031214	biomineral tissue development
+GO:0031347	15	GO:0002218	activation of innate immune response
+GO:0050996	1	GO:2000644	regulation of receptor catabolic process
+GO:0001964	14	GO:0051606	detection of stimulus
+GO:0048589	18	GO:0010001	glial cell differentiation
+GO:0048570	17	GO:0031214	biomineral tissue development
+GO:0035278	1	GO:2000644	regulation of receptor catabolic process
+GO:1903799	1	GO:2000644	regulation of receptor catabolic process
+GO:0048512	25	GO:0007622	rhythmic behavior
+GO:0001912	11	GO:0031294	lymphocyte costimulation
+GO:0044793	19	GO:0016032	viral process
+GO:0032825	16	GO:0032330	regulation of chondrocyte differentiation
+GO:0001916	11	GO:0031294	lymphocyte costimulation
+GO:0050919	14	GO:0051606	detection of stimulus
+GO:0046007	11	GO:0031294	lymphocyte costimulation
+GO:0039529	15	GO:0002218	activation of innate immune response
+GO:0050907	14	GO:0051606	detection of stimulus
+GO:0043393	25	GO:0007622	rhythmic behavior
+GO:0060318	18	GO:0010001	glial cell differentiation
+GO:0060333	8	GO:0007166	cell surface receptor signaling pathway
+GO:0035754	14	GO:0051606	detection of stimulus
+GO:0007159	23	GO:0001775	cell activation
+GO:0007189	8	GO:0007166	cell surface receptor signaling pathway
+GO:0048675	18	GO:0010001	glial cell differentiation
+GO:0039695	19	GO:0016032	viral process
+GO:0007127	20	GO:0007130	synaptonemal complex assembly
+GO:0071354	14	GO:0051606	detection of stimulus
+GO:0071356	14	GO:0051606	detection of stimulus
+GO:0007141	20	GO:0007130	synaptonemal complex assembly
+GO:1903861	16	GO:0032330	regulation of chondrocyte differentiation
+GO:0007131	3	GO:0006310	DNA recombination
+GO:0071378	14	GO:0051606	detection of stimulus
+GO:0038034	8	GO:0007166	cell surface receptor signaling pathway
+GO:0061900	23	GO:0001775	cell activation
+GO:0039686	19	GO:0016032	viral process
+GO:0044868	19	GO:0016032	viral process
+GO:0140374	13	GO:0052173	response to defenses of other organism
+GO:0071316	14	GO:0051606	detection of stimulus
+GO:0051300	21	GO:1901891	regulation of cell septum assembly
+GO:0071346	13	GO:0052173	response to defenses of other organism
+GO:0071347	14	GO:0051606	detection of stimulus
+GO:0039646	12	GO:0050789	regulation of biological process
+GO:0035891	19	GO:0016032	viral process
+GO:0051495	21	GO:1901891	regulation of cell septum assembly
+GO:0044827	19	GO:0016032	viral process
+GO:0031122	21	GO:1901891	regulation of cell septum assembly
+GO:0031116	21	GO:1901891	regulation of cell septum assembly
+GO:0071307	14	GO:0051606	detection of stimulus
+GO:0032693	6	GO:0001817	regulation of cytokine production
+GO:0008630	8	GO:0007166	cell surface receptor signaling pathway
+GO:0003340	16	GO:0032330	regulation of chondrocyte differentiation
+GO:0031146	2	GO:0070189	kynurenine metabolic process
+GO:0007260	1	GO:2000644	regulation of receptor catabolic process
+GO:1902459	16	GO:0032330	regulation of chondrocyte differentiation
+GO:0007266	8	GO:0007166	cell surface receptor signaling pathway
+GO:0007283	22	GO:0009566	fertilization
+GO:1901097	21	GO:1901891	regulation of cell septum assembly
+GO:0031100	17	GO:0031214	biomineral tissue development
+GO:0032680	6	GO:0001817	regulation of cytokine production
+GO:0032682	6	GO:0001817	regulation of cytokine production
+GO:0035825	3	GO:0006310	DNA recombination
+GO:0032688	6	GO:0001817	regulation of cytokine production
+GO:0032689	6	GO:0001817	regulation of cytokine production
+GO:0060193	25	GO:0007622	rhythmic behavior
+GO:0071481	14	GO:0051606	detection of stimulus
+GO:0031295	11	GO:0031294	lymphocyte costimulation
+GO:0071474	14	GO:0051606	detection of stimulus
+GO:0032640	4	GO:0001816	cytokine production
+GO:0032642	6	GO:0001817	regulation of cytokine production
+GO:1903556	6	GO:0001817	regulation of cytokine production
+GO:0032647	6	GO:0001817	regulation of cytokine production
+GO:0022010	18	GO:0010001	glial cell differentiation
+GO:0032649	6	GO:0001817	regulation of cytokine production
+GO:1905397	9	GO:2000106	regulation of leukocyte apoptotic process
+GO:0007204	25	GO:0007622	rhythmic behavior
+GO:0031274	21	GO:1901891	regulation of cell septum assembly
+GO:2001186	11	GO:0031294	lymphocyte costimulation
+GO:0072567	4	GO:0001816	cytokine production
+GO:0120192	21	GO:1901891	regulation of cell septum assembly
+GO:0120193	21	GO:1901891	regulation of cell septum assembly
+GO:0080182	2	GO:0070189	kynurenine metabolic process
+GO:0035563	25	GO:0007622	rhythmic behavior
+GO:0072577	9	GO:2000106	regulation of leukocyte apoptotic process
+GO:0051150	16	GO:0032330	regulation of chondrocyte differentiation
+GO:0002062	18	GO:0010001	glial cell differentiation
+GO:0002065	18	GO:0010001	glial cell differentiation
+GO:0002067	18	GO:0010001	glial cell differentiation
+GO:1903508	1	GO:2000644	regulation of receptor catabolic process
+GO:0002088	17	GO:0031214	biomineral tissue development
+GO:1903651	12	GO:0050789	regulation of biological process
+GO:0006355	1	GO:2000644	regulation of receptor catabolic process
+GO:0006349	1	GO:2000644	regulation of receptor catabolic process
+GO:0060213	1	GO:2000644	regulation of receptor catabolic process
+GO:0071104	14	GO:0051606	detection of stimulus
+GO:0071105	14	GO:0051606	detection of stimulus
+GO:0071107	14	GO:0051606	detection of stimulus
+GO:2001212	16	GO:0032330	regulation of chondrocyte differentiation
+GO:0051260	21	GO:1901891	regulation of cell septum assembly
+GO:0072678	23	GO:0001775	cell activation
+GO:0043281	1	GO:2000644	regulation of receptor catabolic process
+GO:0043277	23	GO:0001775	cell activation
+GO:1902218	7	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0071260	14	GO:0051606	detection of stimulus
+GO:0051216	17	GO:0031214	biomineral tissue development
+GO:1905402	9	GO:2000106	regulation of leukocyte apoptotic process
+GO:1905404	9	GO:2000106	regulation of leukocyte apoptotic process
+GO:0071222	14	GO:0051606	detection of stimulus
+GO:0045071	19	GO:0016032	viral process
+GO:0060766	7	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0003281	17	GO:0031214	biomineral tissue development
+GO:0060711	17	GO:0031214	biomineral tissue development
+GO:0060712	17	GO:0031214	biomineral tissue development
+GO:0060716	17	GO:0031214	biomineral tissue development
+GO:0032990	18	GO:0010001	glial cell differentiation
+GO:0003231	17	GO:0031214	biomineral tissue development
+GO:0051783	21	GO:1901891	regulation of cell septum assembly
+GO:0051785	21	GO:1901891	regulation of cell septum assembly
+GO:0017014	2	GO:0070189	kynurenine metabolic process
+GO:0060856	18	GO:0010001	glial cell differentiation
+GO:0051897	7	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0060828	7	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0042330	14	GO:0051606	detection of stimulus
+GO:0000578	17	GO:0031214	biomineral tissue development
+GO:0060837	18	GO:0010001	glial cell differentiation
+GO:0002361	18	GO:0010001	glial cell differentiation
+GO:0018119	2	GO:0070189	kynurenine metabolic process
+GO:0051873	13	GO:0052173	response to defenses of other organism
+GO:0002370	5	GO:0002718	regulation of cytokine production involved in immune response
+GO:0007622	25	GO:0007622	rhythmic behavior
+GO:0002372	5	GO:0002718	regulation of cytokine production involved in immune response
+GO:0002320	18	GO:0010001	glial cell differentiation
+GO:0002312	23	GO:0001775	cell activation
+GO:0010001	18	GO:0010001	glial cell differentiation
+GO:1901423	14	GO:0051606	detection of stimulus
+GO:0097028	18	GO:0010001	glial cell differentiation
+GO:0097017	25	GO:0007622	rhythmic behavior
+GO:0034351	9	GO:2000106	regulation of leukocyte apoptotic process
+GO:0034370	12	GO:0050789	regulation of biological process
+GO:0022407	12	GO:0050789	regulation of biological process
+GO:0034377	12	GO:0050789	regulation of biological process
+GO:0022408	12	GO:0050789	regulation of biological process
+GO:0022409	12	GO:0050789	regulation of biological process
+GO:0090090	7	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0042438	2	GO:0070189	kynurenine metabolic process
+GO:0031643	16	GO:0032330	regulation of chondrocyte differentiation
+GO:0051568	2	GO:0070189	kynurenine metabolic process
+GO:0051569	1	GO:2000644	regulation of receptor catabolic process
+GO:0034341	13	GO:0052173	response to defenses of other organism
+GO:0043567	7	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0002468	25	GO:0007622	rhythmic behavior
+GO:2000096	7	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0043524	9	GO:2000106	regulation of leukocyte apoptotic process
+GO:0002429	7	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0071559	14	GO:0051606	detection of stimulus
+GO:1990138	18	GO:0010001	glial cell differentiation
+GO:0002440	4	GO:0001816	cytokine production
+GO:0043537	10	GO:0030334	regulation of cell migration
+GO:2000074	16	GO:0032330	regulation of chondrocyte differentiation
+GO:0002438	14	GO:0051606	detection of stimulus
+GO:0140527	3	GO:0006310	DNA recombination
+GO:2000042	1	GO:2000644	regulation of receptor catabolic process
+GO:0070098	8	GO:0007166	cell surface receptor signaling pathway
+GO:0042113	23	GO:0001775	cell activation
+GO:1990266	23	GO:0001775	cell activation
+GO:0042138	3	GO:0006310	DNA recombination
+GO:1902680	1	GO:2000644	regulation of receptor catabolic process
+GO:0046888	12	GO:0050789	regulation of biological process
+GO:0002164	17	GO:0031214	biomineral tissue development
+GO:0042104	11	GO:0031294	lymphocyte costimulation
+GO:0002155	7	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0061098	1	GO:2000644	regulation of receptor catabolic process
+GO:0034405	14	GO:0051606	detection of stimulus
+GO:0071677	10	GO:0030334	regulation of cell migration
+GO:0061081	5	GO:0002718	regulation of cytokine production involved in immune response
+GO:0071621	14	GO:0051606	detection of stimulus
+GO:0045475	25	GO:0007622	rhythmic behavior
+GO:1901223	7	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0061045	15	GO:0002218	activation of innate immune response
+GO:0034142	8	GO:0007166	cell surface receptor signaling pathway
+GO:1905523	10	GO:0030334	regulation of cell migration
+GO:0002250	14	GO:0051606	detection of stimulus
+GO:0006809	2	GO:0070189	kynurenine metabolic process
+GO:0002274	23	GO:0001775	cell activation
+GO:0002220	15	GO:0002218	activation of innate immune response
+GO:0002221	8	GO:0007166	cell surface receptor signaling pathway
+GO:0002218	15	GO:0002218	activation of innate immune response
+GO:0002230	15	GO:0002218	activation of innate immune response
+GO:0030323	17	GO:0031214	biomineral tissue development
+GO:0030324	17	GO:0031214	biomineral tissue development
+GO:0042753	12	GO:0050789	regulation of biological process
+GO:0030318	18	GO:0010001	glial cell differentiation
+GO:0006582	2	GO:0070189	kynurenine metabolic process
+GO:1901725	1	GO:2000644	regulation of receptor catabolic process
+GO:0030334	10	GO:0030334	regulation of cell migration
+GO:0030335	10	GO:0030334	regulation of cell migration
+GO:0016064	14	GO:0051606	detection of stimulus
+GO:0045143	20	GO:0007130	synaptonemal complex assembly
+GO:1904017	14	GO:0051606	detection of stimulus
+GO:1901731	12	GO:0050789	regulation of biological process
+GO:1904035	9	GO:2000106	regulation of leukocyte apoptotic process
+GO:1904036	9	GO:2000106	regulation of leukocyte apoptotic process
+GO:0010458	20	GO:0007130	synaptonemal complex assembly
+GO:0002768	8	GO:0007166	cell surface receptor signaling pathway
+GO:0150076	14	GO:0051606	detection of stimulus
+GO:0002752	7	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0009891	1	GO:2000644	regulation of receptor catabolic process
+GO:0046628	7	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0034201	14	GO:0051606	detection of stimulus
+GO:0002727	5	GO:0002718	regulation of cytokine production involved in immune response
+GO:0002729	5	GO:0002718	regulation of cytokine production involved in immune response
+GO:2000369	12	GO:0050789	regulation of biological process
+GO:0002711	15	GO:0002218	activation of innate immune response
+GO:2000351	9	GO:2000106	regulation of leukocyte apoptotic process
+GO:0002712	15	GO:0002218	activation of innate immune response
+GO:2000352	9	GO:2000106	regulation of leukocyte apoptotic process
+GO:0002714	15	GO:0002218	activation of innate immune response
+GO:0030474	21	GO:1901891	regulation of cell septum assembly
+GO:0002730	5	GO:0002718	regulation of cytokine production involved in immune response
+GO:0002733	5	GO:0002718	regulation of cytokine production involved in immune response
+GO:0002735	5	GO:0002718	regulation of cytokine production involved in immune response
+GO:0006688	2	GO:0070189	kynurenine metabolic process
+GO:0034765	12	GO:0050789	regulation of biological process
+GO:0002700	5	GO:0002718	regulation of cytokine production involved in immune response
+GO:0002701	5	GO:0002718	regulation of cytokine production involved in immune response
+GO:2000341	6	GO:0001817	regulation of cytokine production
+GO:0002702	5	GO:0002718	regulation of cytokine production involved in immune response
+GO:2000344	22	GO:0009566	fertilization
+GO:0002706	11	GO:0031294	lymphocyte costimulation
+GO:0002708	11	GO:0031294	lymphocyte costimulation
+GO:0002709	15	GO:0002218	activation of innate immune response
+GO:0002891	15	GO:0002218	activation of innate immune response
+GO:1902966	12	GO:0050789	regulation of biological process
+GO:0042832	13	GO:0052173	response to defenses of other organism
+GO:0098581	13	GO:0052173	response to defenses of other organism
+GO:0002862	15	GO:0002218	activation of innate immune response
+GO:0030193	15	GO:0002218	activation of innate immune response
+GO:0030195	15	GO:0002218	activation of innate immune response
+GO:0070371	8	GO:0007166	cell surface receptor signaling pathway
+GO:0070372	7	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0070374	7	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0009593	14	GO:0051606	detection of stimulus
+GO:0009595	14	GO:0051606	detection of stimulus
+GO:0097192	8	GO:0007166	cell surface receptor signaling pathway
+GO:0045793	21	GO:1901891	regulation of cell septum assembly
+GO:0043970	2	GO:0070189	kynurenine metabolic process
+GO:0002888	11	GO:0031294	lymphocyte costimulation
+GO:0002889	15	GO:0002218	activation of innate immune response
+GO:0098543	13	GO:0052173	response to defenses of other organism
+GO:0042593	25	GO:0007622	rhythmic behavior
+GO:0002824	15	GO:0002218	activation of innate immune response
+GO:0045765	16	GO:0032330	regulation of chondrocyte differentiation
+GO:0002845	15	GO:0002218	activation of innate immune response
+GO:0030178	7	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0002839	15	GO:0002218	activation of innate immune response
+GO:1902902	21	GO:1901891	regulation of cell septum assembly
+GO:0042551	18	GO:0010001	glial cell differentiation
+GO:0070301	14	GO:0051606	detection of stimulus
+GO:0045773	16	GO:0032330	regulation of chondrocyte differentiation
+GO:0019050	9	GO:2000106	regulation of leukocyte apoptotic process
+GO:1901534	16	GO:0032330	regulation of chondrocyte differentiation
+GO:0048048	17	GO:0031214	biomineral tissue development
+GO:0030101	23	GO:0001775	cell activation
+GO:0042542	14	GO:0051606	detection of stimulus
+GO:0042531	1	GO:2000644	regulation of receptor catabolic process
+GO:0019045	19	GO:0016032	viral process
+GO:0019046	19	GO:0016032	viral process
+GO:0042509	1	GO:2000644	regulation of receptor catabolic process
+GO:0045893	1	GO:2000644	regulation of receptor catabolic process
+GO:1900078	7	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0002579	11	GO:0031294	lymphocyte costimulation
+GO:0030282	17	GO:0031214	biomineral tissue development
+GO:1900046	12	GO:0050789	regulation of biological process
+GO:0002548	14	GO:0051606	detection of stimulus
+GO:0030217	18	GO:0010001	glial cell differentiation
+GO:2000116	1	GO:2000644	regulation of receptor catabolic process
+GO:2000145	10	GO:0030334	regulation of cell migration
+GO:2000146	10	GO:0030334	regulation of cell migration
+GO:2000147	10	GO:0030334	regulation of cell migration
+GO:0061436	17	GO:0031214	biomineral tissue development
+GO:0022605	18	GO:0010001	glial cell differentiation
+GO:0002693	10	GO:0030334	regulation of cell migration
+GO:0002699	11	GO:0031294	lymphocyte costimulation
+GO:2000107	9	GO:2000106	regulation of leukocyte apoptotic process
+GO:0070168	16	GO:0032330	regulation of chondrocyte differentiation
+GO:0097202	1	GO:2000644	regulation of receptor catabolic process
+GO:0070120	8	GO:0007166	cell surface receptor signaling pathway
+GO:0002683	11	GO:0031294	lymphocyte costimulation
+GO:2000269	9	GO:2000106	regulation of leukocyte apoptotic process
+GO:0061154	17	GO:0031214	biomineral tissue development
+GO:0045580	16	GO:0032330	regulation of chondrocyte differentiation
+GO:2000271	9	GO:2000106	regulation of leukocyte apoptotic process
+GO:0021794	17	GO:0031214	biomineral tissue development
+GO:0002637	5	GO:0002718	regulation of cytokine production involved in immune response
+GO:0006953	14	GO:0051606	detection of stimulus
+GO:0006955	14	GO:0051606	detection of stimulus
+GO:0033131	1	GO:2000644	regulation of receptor catabolic process
+GO:0070102	8	GO:0007166	cell surface receptor signaling pathway
+GO:0033133	1	GO:2000644	regulation of receptor catabolic process
+GO:0010705	3	GO:0006310	DNA recombination
+GO:0036302	17	GO:0031214	biomineral tissue development
+GO:1904478	25	GO:0007622	rhythmic behavior
+GO:0006972	14	GO:0051606	detection of stimulus
+GO:0002604	11	GO:0031294	lymphocyte costimulation
+GO:1904417	15	GO:0002218	activation of innate immune response
+GO:0010898	1	GO:2000644	regulation of receptor catabolic process
+GO:0006919	1	GO:2000644	regulation of receptor catabolic process
+GO:0006935	14	GO:0051606	detection of stimulus
+GO:0070269	23	GO:0001775	cell activation
+GO:0036462	8	GO:0007166	cell surface receptor signaling pathway
+GO:0070228	9	GO:2000106	regulation of leukocyte apoptotic process
+GO:0052029	19	GO:0016032	viral process
+GO:1903037	12	GO:0050789	regulation of biological process
+GO:1903039	12	GO:0050789	regulation of biological process
+GO:0070231	9	GO:2000106	regulation of leukocyte apoptotic process
+GO:0045668	16	GO:0032330	regulation of chondrocyte differentiation
+GO:0010838	12	GO:0050789	regulation of biological process
+GO:0030879	17	GO:0031214	biomineral tissue development
+GO:0050794	8	GO:0007166	cell surface receptor signaling pathway
+GO:0035065	1	GO:2000644	regulation of receptor catabolic process
+GO:1904151	11	GO:0031294	lymphocyte costimulation
+GO:0070206	21	GO:1901891	regulation of cell septum assembly
+GO:0010804	7	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0050766	12	GO:0050789	regulation of biological process
+GO:0045617	16	GO:0032330	regulation of chondrocyte differentiation
+GO:0030838	21	GO:1901891	regulation of cell septum assembly
+GO:0001773	23	GO:0001775	cell activation
+GO:0035025	7	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0010594	10	GO:0030334	regulation of cell migration
+GO:0010596	10	GO:0030334	regulation of cell migration
+GO:0045630	11	GO:0031294	lymphocyte costimulation
+GO:0050789	12	GO:0050789	regulation of biological process
+GO:0035019	17	GO:0031214	biomineral tissue development
+GO:1904149	11	GO:0031294	lymphocyte costimulation
+GO:0050727	15	GO:0002218	activation of innate immune response
+GO:0050729	15	GO:0002218	activation of innate immune response
+GO:0008360	16	GO:0032330	regulation of chondrocyte differentiation
+GO:0045602	16	GO:0032330	regulation of chondrocyte differentiation
+GO:0010557	1	GO:2000644	regulation of receptor catabolic process
+GO:0030593	14	GO:0051606	detection of stimulus
+GO:0008358	17	GO:0031214	biomineral tissue development
+GO:0050730	1	GO:2000644	regulation of receptor catabolic process
+GO:0050731	1	GO:2000644	regulation of receptor catabolic process
+GO:0070741	14	GO:0051606	detection of stimulus
+GO:0061760	13	GO:0052173	response to defenses of other organism
+GO:0097527	8	GO:0007166	cell surface receptor signaling pathway
+GO:0048477	18	GO:0010001	glial cell differentiation
+GO:0050862	7	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0050863	11	GO:0031294	lymphocyte costimulation
+GO:0050851	7	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0050854	7	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0050870	11	GO:0031294	lymphocyte costimulation
+GO:0050871	11	GO:0031294	lymphocyte costimulation
+GO:0050829	13	GO:0052173	response to defenses of other organism
+GO:0050818	16	GO:0032330	regulation of chondrocyte differentiation
+GO:0097503	2	GO:0070189	kynurenine metabolic process
+GO:0021548	17	GO:0031214	biomineral tissue development
+GO:0050830	13	GO:0052173	response to defenses of other organism
+GO:0050832	13	GO:0052173	response to defenses of other organism
+GO:0010628	6	GO:0001817	regulation of cytokine production
+GO:1900426	15	GO:0002218	activation of innate immune response
+GO:0002920	15	GO:0002218	activation of innate immune response
+GO:0007099	21	GO:1901891	regulation of cell septum assembly
+GO:0002922	15	GO:0002218	activation of innate immune response
+GO:2000562	11	GO:0031294	lymphocyte costimulation
+GO:2000553	5	GO:0002718	regulation of cytokine production involved in immune response
+GO:0055003	18	GO:0010001	glial cell differentiation
+GO:2000510	10	GO:0030334	regulation of cell migration
+GO:0001570	18	GO:0010001	glial cell differentiation
+GO:0061844	13	GO:0052173	response to defenses of other organism
+GO:0048143	18	GO:0010001	glial cell differentiation
+GO:0048146	12	GO:0050789	regulation of biological process
+GO:0040020	21	GO:1901891	regulation of cell septum assembly
+GO:0040025	17	GO:0031214	biomineral tissue development
+GO:0040013	12	GO:0050789	regulation of biological process
+GO:0040017	12	GO:0050789	regulation of biological process
+GO:0033598	17	GO:0031214	biomineral tissue development
+GO:0033599	16	GO:0032330	regulation of chondrocyte differentiation
+GO:0070555	14	GO:0051606	detection of stimulus
+GO:0040034	16	GO:0032330	regulation of chondrocyte differentiation
+GO:1903373	21	GO:1901891	regulation of cell septum assembly
+GO:1900153	1	GO:2000644	regulation of receptor catabolic process
+GO:0031076	17	GO:0031214	biomineral tissue development
+GO:0061564	18	GO:0010001	glial cell differentiation
+GO:0031018	17	GO:0031214	biomineral tissue development
+GO:1900141	9	GO:2000106	regulation of leukocyte apoptotic process
+GO:0044342	23	GO:0001775	cell activation
+GO:1904862	18	GO:0010001	glial cell differentiation
+GO:0045954	15	GO:0002218	activation of innate immune response
+GO:1903301	1	GO:2000644	regulation of receptor catabolic process
+GO:0090634	23	GO:0001775	cell activation
+GO:1903306	12	GO:0050789	regulation of biological process
+GO:0048286	17	GO:0031214	biomineral tissue development
+GO:0001658	17	GO:0031214	biomineral tissue development
+GO:0045926	12	GO:0050789	regulation of biological process
+GO:2000643	12	GO:0050789	regulation of biological process
+GO:2000644	1	GO:2000644	regulation of receptor catabolic process
+GO:0001678	25	GO:0007622	rhythmic behavior
+GO:0045944	1	GO:2000644	regulation of receptor catabolic process
+GO:0048247	14	GO:0051606	detection of stimulus
+GO:0019221	8	GO:0007166	cell surface receptor signaling pathway
+GO:0050678	12	GO:0050789	regulation of biological process
+GO:0048232	22	GO:0009566	fertilization
+GO:0070665	12	GO:0050789	regulation of biological process
+GO:0070669	14	GO:0051606	detection of stimulus
+GO:0032147	1	GO:2000644	regulation of receptor catabolic process
+GO:0032148	1	GO:2000644	regulation of receptor catabolic process
+GO:0019233	25	GO:0007622	rhythmic behavior
+GO:0008258	17	GO:0031214	biomineral tissue development
+GO:0070670	14	GO:0051606	detection of stimulus
+GO:0008284	12	GO:0050789	regulation of biological process
+GO:0060080	8	GO:0007166	cell surface receptor signaling pathway
+GO:2001056	1	GO:2000644	regulation of receptor catabolic process
+GO:0060070	8	GO:0007166	cell surface receptor signaling pathway
+GO:0032101	15	GO:0002218	activation of innate immune response
+GO:0032103	15	GO:0002218	activation of innate immune response
+GO:0060079	8	GO:0007166	cell surface receptor signaling pathway
+GO:0052422	25	GO:0007622	rhythmic behavior
+GO:0048793	17	GO:0031214	biomineral tissue development
+GO:0051092	1	GO:2000644	regulation of receptor catabolic process
+GO:0008211	2	GO:0070189	kynurenine metabolic process
+GO:2001021	8	GO:0007166	cell surface receptor signaling pathway
+GO:2001026	10	GO:0030334	regulation of cell migration
+GO:0006749	2	GO:0070189	kynurenine metabolic process
+GO:0046834	2	GO:0070189	kynurenine metabolic process
+GO:0045621	16	GO:0032330	regulation of chondrocyte differentiation
+GO:0045624	11	GO:0031294	lymphocyte costimulation
+GO:0048168	12	GO:0050789	regulation of biological process
+GO:0007252	1	GO:2000644	regulation of receptor catabolic process
+GO:0030111	7	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0070373	7	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0014910	10	GO:0030334	regulation of cell migration
+GO:0014911	10	GO:0030334	regulation of cell migration
+GO:0043030	11	GO:0031294	lymphocyte costimulation
+GO:0043032	11	GO:0031294	lymphocyte costimulation
+GO:0070302	7	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0048260	12	GO:0050789	regulation of biological process
+GO:0048259	12	GO:0050789	regulation of biological process
+GO:0046693	22	GO:0009566	fertilization
+GO:1903428	1	GO:2000644	regulation of receptor catabolic process
+GO:0046667	18	GO:0010001	glial cell differentiation
+GO:0046668	16	GO:0032330	regulation of chondrocyte differentiation
+GO:0046669	16	GO:0032330	regulation of chondrocyte differentiation
+GO:0051384	14	GO:0051606	detection of stimulus
+GO:0070430	7	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0070434	7	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0046638	11	GO:0031294	lymphocyte costimulation
+GO:1904353	1	GO:2000644	regulation of receptor catabolic process
+GO:1904355	1	GO:2000644	regulation of receptor catabolic process
+GO:1904356	1	GO:2000644	regulation of receptor catabolic process
+GO:1904358	1	GO:2000644	regulation of receptor catabolic process
+GO:0006691	2	GO:0070189	kynurenine metabolic process
+GO:0014002	18	GO:0010001	glial cell differentiation
+GO:0032497	13	GO:0052173	response to defenses of other organism
+GO:0010893	1	GO:2000644	regulation of receptor catabolic process
+GO:0031294	11	GO:0031294	lymphocyte costimulation
+GO:0002367	4	GO:0001816	cytokine production
+GO:0008207	2	GO:0070189	kynurenine metabolic process
+GO:0002385	14	GO:0051606	detection of stimulus
+GO:0080164	1	GO:2000644	regulation of receptor catabolic process
+GO:0071300	14	GO:0051606	detection of stimulus
+GO:0002322	25	GO:0007622	rhythmic behavior
+GO:0030890	11	GO:0031294	lymphocyte costimulation
+GO:0042448	2	GO:0070189	kynurenine metabolic process
+GO:0045940	1	GO:2000644	regulation of receptor catabolic process
+GO:0051444	1	GO:2000644	regulation of receptor catabolic process
+GO:0032197	23	GO:0001775	cell activation
+GO:0019722	8	GO:0007166	cell surface receptor signaling pathway
+GO:1903223	12	GO:0050789	regulation of biological process
+GO:0010566	1	GO:2000644	regulation of receptor catabolic process
+GO:0043388	25	GO:0007622	rhythmic behavior
+GO:0000706	3	GO:0006310	DNA recombination
+GO:1904407	1	GO:2000644	regulation of receptor catabolic process
+GO:1901666	25	GO:0007622	rhythmic behavior
+GO:0070227	9	GO:2000106	regulation of leukocyte apoptotic process
+GO:0070229	9	GO:2000106	regulation of leukocyte apoptotic process
+GO:1903238	10	GO:0030334	regulation of cell migration
+GO:0010572	12	GO:0050789	regulation of biological process
+GO:0010573	4	GO:0001816	cytokine production
+GO:0010574	6	GO:0001817	regulation of cytokine production
+GO:0010575	6	GO:0001817	regulation of cytokine production
+GO:2000343	6	GO:0001817	regulation of cytokine production
+GO:0042116	23	GO:0001775	cell activation
+GO:0045056	23	GO:0001775	cell activation
+GO:0061181	16	GO:0032330	regulation of chondrocyte differentiation
+GO:0061182	16	GO:0032330	regulation of chondrocyte differentiation
+GO:0070207	21	GO:1901891	regulation of cell septum assembly
+GO:0042130	11	GO:0031294	lymphocyte costimulation
+GO:0072376	2	GO:0070189	kynurenine metabolic process
+GO:0072378	2	GO:0070189	kynurenine metabolic process
+GO:0035036	22	GO:0009566	fertilization
+GO:0060729	25	GO:0007622	rhythmic behavior
+GO:2000480	1	GO:2000644	regulation of receptor catabolic process
+GO:0007602	8	GO:0007166	cell surface receptor signaling pathway
+GO:0032228	12	GO:0050789	regulation of biological process
+GO:2000479	1	GO:2000644	regulation of receptor catabolic process
+GO:0032210	1	GO:2000644	regulation of receptor catabolic process
+GO:0032212	1	GO:2000644	regulation of receptor catabolic process
+GO:0001774	23	GO:0001775	cell activation
+GO:0050850	7	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0048660	12	GO:0050789	regulation of biological process
+GO:0048661	12	GO:0050789	regulation of biological process
+GO:0050856	7	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0032204	1	GO:2000644	regulation of receptor catabolic process
+GO:0050857	7	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0016063	2	GO:0070189	kynurenine metabolic process
+GO:0048659	23	GO:0001775	cell activation
+GO:0090559	25	GO:0007622	rhythmic behavior
+GO:0071223	14	GO:0051606	detection of stimulus
+GO:0050848	7	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0016048	14	GO:0051606	detection of stimulus
+GO:0052173	13	GO:0052173	response to defenses of other organism
+GO:0051767	2	GO:0070189	kynurenine metabolic process
+GO:0051769	1	GO:2000644	regulation of receptor catabolic process
+GO:0002228	13	GO:0052173	response to defenses of other organism
+GO:0032743	6	GO:0001817	regulation of cytokine production
+GO:0002246	14	GO:0051606	detection of stimulus
+GO:0042779	3	GO:0006310	DNA recombination
+GO:0051770	1	GO:2000644	regulation of receptor catabolic process
+GO:0039535	7	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0001819	6	GO:0001817	regulation of cytokine production
+GO:0032700	6	GO:0001817	regulation of cytokine production
+GO:0032707	6	GO:0001817	regulation of cytokine production
+GO:2000106	9	GO:2000106	regulation of leukocyte apoptotic process
+GO:1903557	6	GO:0001817	regulation of cytokine production
+GO:0003159	17	GO:0031214	biomineral tissue development
+GO:1900017	6	GO:0001817	regulation of cytokine production
+GO:0002755	8	GO:0007166	cell surface receptor signaling pathway
+GO:0032872	7	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0043278	14	GO:0051606	detection of stimulus
+GO:0031663	8	GO:0007166	cell surface receptor signaling pathway
+GO:0001562	13	GO:0052173	response to defenses of other organism
+GO:0031666	7	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:2000278	1	GO:2000644	regulation of receptor catabolic process
+GO:1905267	3	GO:0006310	DNA recombination
+GO:0002715	15	GO:0002218	activation of innate immune response
+GO:0002718	5	GO:0002718	regulation of cytokine production involved in immune response
+GO:0052200	13	GO:0052173	response to defenses of other organism
+GO:0071887	9	GO:2000106	regulation of leukocyte apoptotic process
+GO:0045348	1	GO:2000644	regulation of receptor catabolic process
+GO:0062207	7	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0062208	7	GO:0062207	regulation of pattern recognition receptor signaling pathway
+GO:0042595	14	GO:0051606	detection of stimulus
+GO:0032570	14	GO:0051606	detection of stimulus
+GO:0002825	15	GO:0002218	activation of innate immune response
+GO:0009624	13	GO:0052173	response to defenses of other organism
+GO:0045428	1	GO:2000644	regulation of receptor catabolic process
+GO:0045429	1	GO:2000644	regulation of receptor catabolic process
+GO:2001271	1	GO:2000644	regulation of receptor catabolic process
+GO:0032660	6	GO:0001817	regulation of cytokine production
+GO:0032663	6	GO:0001817	regulation of cytokine production
+GO:0032620	4	GO:0001816	cytokine production
+GO:0002523	14	GO:0051606	detection of stimulus
+GO:0032645	6	GO:0001817	regulation of cytokine production
+GO:0002537	14	GO:0051606	detection of stimulus
+GO:0007004	3	GO:0006310	DNA recombination
+GO:0032604	4	GO:0001816	cytokine production
+GO:0051606	14	GO:0051606	detection of stimulus
+GO:1904646	14	GO:0051606	detection of stimulus
+GO:0033522	2	GO:0070189	kynurenine metabolic process
+GO:0033523	2	GO:0070189	kynurenine metabolic process
+GO:0031960	14	GO:0051606	detection of stimulus
+GO:2000573	1	GO:2000644	regulation of receptor catabolic process
+GO:0071604	4	GO:0001816	cytokine production
+GO:0014823	14	GO:0051606	detection of stimulus
+GO:0048008	8	GO:0007166	cell surface receptor signaling pathway
+GO:0050961	25	GO:0007622	rhythmic behavior
+GO:0050965	25	GO:0007622	rhythmic behavior
+GO:0050966	25	GO:0007622	rhythmic behavior
+GO:0050951	25	GO:0007622	rhythmic behavior
+GO:1903974	12	GO:0050789	regulation of biological process
+GO:0033622	21	GO:1901891	regulation of cell septum assembly
+GO:0033623	21	GO:1901891	regulation of cell septum assembly
+GO:0033625	21	GO:1901891	regulation of cell septum assembly
+GO:0036120	14	GO:0051606	detection of stimulus
+GO:0060907	5	GO:0002718	regulation of cytokine production involved in immune response
+GO:2000646	1	GO:2000644	regulation of receptor catabolic process
+GO:1900157	16	GO:0032330	regulation of chondrocyte differentiation
+GO:1900158	16	GO:0032330	regulation of chondrocyte differentiation
+GO:0060071	16	GO:0032330	regulation of chondrocyte differentiation
+GO:0075136	13	GO:0052173	response to defenses of other organism
+GO:0051972	1	GO:2000644	regulation of receptor catabolic process
+GO:0051973	1	GO:2000644	regulation of receptor catabolic process
+GO:0051930	25	GO:0007622	rhythmic behavior
+GO:0110077	23	GO:0001775	cell activation
+GO:1990268	14	GO:0051606	detection of stimulus
+GO:1900227	21	GO:1901891	regulation of cell septum assembly
+GO:0035590	8	GO:0007166	cell surface receptor signaling pathway
+GO:0010493	2	GO:0070189	kynurenine metabolic process
+GO:0046760	19	GO:0016032	viral process
+GO:0140052	14	GO:0051606	detection of stimulus
+GO:0035561	25	GO:0007622	rhythmic behavior
+GO:0006273	3	GO:0006310	DNA recombination
+GO:0051099	25	GO:0007622	rhythmic behavior
+GO:0002092	1	GO:2000644	regulation of receptor catabolic process
+GO:0035666	8	GO:0007166	cell surface receptor signaling pathway
+GO:0007130	20	GO:0007130	synaptonemal complex assembly
+GO:0046885	1	GO:2000644	regulation of receptor catabolic process

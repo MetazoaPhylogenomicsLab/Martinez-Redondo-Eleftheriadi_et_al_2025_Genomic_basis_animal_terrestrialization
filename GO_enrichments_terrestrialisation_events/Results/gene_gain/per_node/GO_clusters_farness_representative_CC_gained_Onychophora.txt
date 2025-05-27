@@ -1,0 +1,272 @@
+GO:0033655	1	GO:0033646	host intracellular part
+GO:0042025	1	GO:0033646	host intracellular part
+GO:0000235	10	GO:0005881	cytoplasmic microtubule
+GO:0001669	14	GO:0030133	transport vesicle
+GO:0044219	1	GO:0033646	host intracellular part
+GO:0030870	17	GO:0034399	nuclear periphery
+GO:0030430	1	GO:0033646	host intracellular part
+GO:0016363	17	GO:0034399	nuclear periphery
+GO:0099086	17	GO:0034399	nuclear periphery
+GO:0034705	5	GO:0098654	CENP-A recruiting complex
+GO:0033644	1	GO:0033646	host intracellular part
+GO:0005935	8	GO:0042600	egg chorion
+GO:0033647	1	GO:0033646	host intracellular part
+GO:0033648	1	GO:0033646	host intracellular part
+GO:0030849	9	GO:0098687	chromosomal region
+GO:0035974	11	GO:0005815	microtubule organizing center
+GO:0034506	9	GO:0098687	chromosomal region
+GO:0055036	8	GO:0042600	egg chorion
+GO:0098654	5	GO:0098654	CENP-A recruiting complex
+GO:0000794	17	GO:0034399	nuclear periphery
+GO:0000164	15	GO:0034045	phagophore assembly site membrane
+GO:0044167	1	GO:0033646	host intracellular part
+GO:0000324	16	GO:0000322	storage vacuole
+GO:0000329	16	GO:0000322	storage vacuole
+GO:0000781	9	GO:0098687	chromosomal region
+GO:0044156	1	GO:0033646	host intracellular part
+GO:0005882	10	GO:0005881	cytoplasmic microtubule
+GO:0000776	9	GO:0098687	chromosomal region
+GO:0044175	1	GO:0033646	host intracellular part
+GO:0044177	1	GO:0033646	host intracellular part
+GO:0044178	1	GO:0033646	host intracellular part
+GO:0008076	5	GO:0098654	CENP-A recruiting complex
+GO:0035861	9	GO:0098687	chromosomal region
+GO:0042600	8	GO:0042600	egg chorion
+GO:0035869	3	GO:0031514	motile cilium
+GO:0005677	17	GO:0034399	nuclear periphery
+GO:0033551	9	GO:0098687	chromosomal region
+GO:0005816	11	GO:0005815	microtubule organizing center
+GO:0005628	8	GO:0042600	egg chorion
+GO:0031160	8	GO:0042600	egg chorion
+GO:0020002	1	GO:0033646	host intracellular part
+GO:0000922	11	GO:0005815	microtubule organizing center
+GO:0000923	11	GO:0005815	microtubule organizing center
+GO:0044732	11	GO:0005815	microtubule organizing center
+GO:0019028	4	GO:0044423	virion component
+GO:0001740	17	GO:0034399	nuclear periphery
+GO:0031315	16	GO:0000322	storage vacuole
+GO:0071986	14	GO:0030133	transport vesicle
+GO:0019031	4	GO:0044423	virion component
+GO:0019033	4	GO:0044423	virion component
+GO:0031097	15	GO:0034045	phagophore assembly site membrane
+GO:0051285	15	GO:0034045	phagophore assembly site membrane
+GO:0099115	9	GO:0098687	chromosomal region
+GO:0033255	17	GO:0034399	nuclear periphery
+GO:0043160	14	GO:0030133	transport vesicle
+GO:0070876	17	GO:0034399	nuclear periphery
+GO:0044423	4	GO:0044423	virion component
+GO:0005576	12	GO:0005576	extracellular region
+GO:0031082	13	GO:0005829	cytosol
+GO:0031083	15	GO:0034045	phagophore assembly site membrane
+GO:0070161	7	GO:0070161	anchoring junction
+GO:0005881	10	GO:0005881	cytoplasmic microtubule
+GO:0031430	11	GO:0005815	microtubule organizing center
+GO:0005874	10	GO:0005881	cytoplasmic microtubule
+GO:0000407	13	GO:0005829	cytosol
+GO:0106068	5	GO:0098654	CENP-A recruiting complex
+GO:0019005	5	GO:0098654	CENP-A recruiting complex
+GO:0005829	13	GO:0005829	cytosol
+GO:0031511	9	GO:0098687	chromosomal region
+GO:0005811	11	GO:0005815	microtubule organizing center
+GO:0005813	11	GO:0005815	microtubule organizing center
+GO:0031514	3	GO:0031514	motile cilium
+GO:0034451	11	GO:0005815	microtubule organizing center
+GO:0055044	12	GO:0005576	extracellular region
+GO:0036126	3	GO:0031514	motile cilium
+GO:0055035	16	GO:0000322	storage vacuole
+GO:0090665	5	GO:0098654	CENP-A recruiting complex
+GO:0060187	12	GO:0005576	extracellular region
+GO:0005911	7	GO:0070161	anchoring junction
+GO:0051286	8	GO:0042600	egg chorion
+GO:0098982	7	GO:0070161	anchoring junction
+GO:0098831	15	GO:0034045	phagophore assembly site membrane
+GO:0042151	11	GO:0005815	microtubule organizing center
+GO:0005934	8	GO:0042600	egg chorion
+GO:0009534	16	GO:0000322	storage vacuole
+GO:0009535	16	GO:0000322	storage vacuole
+GO:0005615	12	GO:0005576	extracellular region
+GO:0000792	9	GO:0098687	chromosomal region
+GO:0000793	9	GO:0098687	chromosomal region
+GO:0000795	17	GO:0034399	nuclear periphery
+GO:0031012	8	GO:0042600	egg chorion
+GO:0098687	9	GO:0098687	chromosomal region
+GO:0030915	9	GO:0098687	chromosomal region
+GO:0051233	11	GO:0005815	microtubule organizing center
+GO:0009506	7	GO:0070161	anchoring junction
+GO:0097729	3	GO:0031514	motile cilium
+GO:0032153	12	GO:0005576	extracellular region
+GO:0000940	9	GO:0098687	chromosomal region
+GO:0072686	11	GO:0005815	microtubule organizing center
+GO:0072687	11	GO:0005815	microtubule organizing center
+GO:0000805	9	GO:0098687	chromosomal region
+GO:0031976	16	GO:0000322	storage vacuole
+GO:0032045	5	GO:0098654	CENP-A recruiting complex
+GO:0097731	3	GO:0031514	motile cilium
+GO:0000935	8	GO:0042600	egg chorion
+GO:0000785	9	GO:0098687	chromosomal region
+GO:0044184	1	GO:0033646	host intracellular part
+GO:0044185	1	GO:0033646	host intracellular part
+GO:0032982	8	GO:0042600	egg chorion
+GO:0000775	9	GO:0098687	chromosomal region
+GO:0044174	1	GO:0033646	host intracellular part
+GO:0031934	9	GO:0098687	chromosomal region
+GO:0042729	17	GO:0034399	nuclear periphery
+GO:0033650	1	GO:0033646	host intracellular part
+GO:0034045	15	GO:0034045	phagophore assembly site membrane
+GO:0097225	3	GO:0031514	motile cilium
+GO:0097228	3	GO:0031514	motile cilium
+GO:0016604	17	GO:0034399	nuclear periphery
+GO:0030665	14	GO:0030133	transport vesicle
+GO:0002080	14	GO:0030133	transport vesicle
+GO:0009579	13	GO:0005829	cytosol
+GO:0009524	13	GO:0005829	cytosol
+GO:0000782	9	GO:0098687	chromosomal region
+GO:0000783	17	GO:0034399	nuclear periphery
+GO:0005668	17	GO:0034399	nuclear periphery
+GO:0005875	11	GO:0005815	microtubule organizing center
+GO:0005680	17	GO:0034399	nuclear periphery
+GO:0005814	11	GO:0005815	microtubule organizing center
+GO:0005815	11	GO:0005815	microtubule organizing center
+GO:0036338	4	GO:0044423	virion component
+GO:0030118	15	GO:0034045	phagophore assembly site membrane
+GO:0034399	17	GO:0034399	nuclear periphery
+GO:0000939	9	GO:0098687	chromosomal region
+GO:0030055	7	GO:0070161	anchoring junction
+GO:0033646	1	GO:0033646	host intracellular part
+GO:0030056	7	GO:0070161	anchoring junction
+GO:0000243	17	GO:0034399	nuclear periphery
+GO:0000322	16	GO:0000322	storage vacuole
+GO:0009574	11	GO:0005815	microtubule organizing center
+GO:0055120	11	GO:0005815	microtubule organizing center
+GO:0042170	16	GO:0000322	storage vacuole
+GO:0042651	15	GO:0034045	phagophore assembly site membrane
+GO:0043034	11	GO:0005815	microtubule organizing center
+GO:0044165	1	GO:0033646	host intracellular part
+GO:0043656	1	GO:0033646	host intracellular part
+GO:0032777	17	GO:0034399	nuclear periphery
+GO:0034518	5	GO:0098654	CENP-A recruiting complex
+GO:0042627	6	GO:0042571	immunoglobulin complex, circulating
+GO:0034361	6	GO:0042571	immunoglobulin complex, circulating
+GO:0034385	6	GO:0042571	immunoglobulin complex, circulating
+GO:0002177	11	GO:0005815	microtubule organizing center
+GO:0030015	5	GO:0098654	CENP-A recruiting complex
+GO:0033645	1	GO:0033646	host intracellular part
+GO:0005818	11	GO:0005815	microtubule organizing center
+GO:0035267	17	GO:0034399	nuclear periphery
+GO:0019029	4	GO:0044423	virion component
+GO:0043291	13	GO:0005829	cytosol
+GO:1990316	15	GO:0034045	phagophore assembly site membrane
+GO:0036396	15	GO:0034045	phagophore assembly site membrane
+GO:0016592	17	GO:0034399	nuclear periphery
+GO:0072487	17	GO:0034399	nuclear periphery
+GO:0070176	17	GO:0034399	nuclear periphery
+GO:0005876	10	GO:0005881	cytoplasmic microtubule
+GO:0030998	17	GO:0034399	nuclear periphery
+GO:0009897	8	GO:0042600	egg chorion
+GO:0035686	3	GO:0031514	motile cilium
+GO:0034357	15	GO:0034045	phagophore assembly site membrane
+GO:0043202	16	GO:0000322	storage vacuole
+GO:0097440	2	GO:0043198	dendritic shaft
+GO:0097441	2	GO:0043198	dendritic shaft
+GO:0097433	13	GO:0005829	cytosol
+GO:0043073	17	GO:0034399	nuclear periphery
+GO:0071944	12	GO:0005576	extracellular region
+GO:1990023	11	GO:0005815	microtubule organizing center
+GO:0043186	10	GO:0005881	cytoplasmic microtubule
+GO:0005777	16	GO:0000322	storage vacuole
+GO:0045171	12	GO:0005576	extracellular region
+GO:0005721	9	GO:0098687	chromosomal region
+GO:0045120	17	GO:0034399	nuclear periphery
+GO:0060053	10	GO:0005881	cytoplasmic microtubule
+GO:0016324	8	GO:0042600	egg chorion
+GO:0070056	8	GO:0042600	egg chorion
+GO:0032133	11	GO:0005815	microtubule organizing center
+GO:0030133	14	GO:0030133	transport vesicle
+GO:0071751	6	GO:0042571	immunoglobulin complex, circulating
+GO:0030892	9	GO:0098687	chromosomal region
+GO:0055037	14	GO:0030133	transport vesicle
+GO:1990385	11	GO:0005815	microtubule organizing center
+GO:0071745	5	GO:0098654	CENP-A recruiting complex
+GO:0071746	6	GO:0042571	immunoglobulin complex, circulating
+GO:0071749	6	GO:0042571	immunoglobulin complex, circulating
+GO:0019814	5	GO:0098654	CENP-A recruiting complex
+GO:0000325	16	GO:0000322	storage vacuole
+GO:0001674	17	GO:0034399	nuclear periphery
+GO:0035996	2	GO:0043198	dendritic shaft
+GO:0044302	2	GO:0043198	dendritic shaft
+GO:0044304	3	GO:0031514	motile cilium
+GO:0030496	12	GO:0005576	extracellular region
+GO:0034270	13	GO:0005829	cytosol
+GO:0005879	10	GO:0005881	cytoplasmic microtubule
+GO:1990251	17	GO:0034399	nuclear periphery
+GO:0044228	1	GO:0033646	host intracellular part
+GO:0098826	16	GO:0000322	storage vacuole
+GO:0030428	12	GO:0005576	extracellular region
+GO:0005920	7	GO:0070161	anchoring junction
+GO:0005925	7	GO:0070161	anchoring junction
+GO:0097457	2	GO:0043198	dendritic shaft
+GO:0005912	7	GO:0070161	anchoring junction
+GO:1990477	17	GO:0034399	nuclear periphery
+GO:0044099	12	GO:0005576	extracellular region
+GO:0098595	12	GO:0005576	extracellular region
+GO:0000930	11	GO:0005815	microtubule organizing center
+GO:0042571	6	GO:0042571	immunoglobulin complex, circulating
+GO:0071683	2	GO:0043198	dendritic shaft
+GO:0071004	17	GO:0034399	nuclear periphery
+GO:0005930	11	GO:0005815	microtubule organizing center
+GO:0070772	16	GO:0000322	storage vacuole
+GO:0045170	11	GO:0005815	microtubule organizing center
+GO:0097014	3	GO:0031514	motile cilium
+GO:0071010	17	GO:0034399	nuclear periphery
+GO:0099092	7	GO:0070161	anchoring junction
+GO:0097209	14	GO:0030133	transport vesicle
+GO:0097442	2	GO:0043198	dendritic shaft
+GO:0043196	3	GO:0031514	motile cilium
+GO:0044196	1	GO:0033646	host intracellular part
+GO:0043198	2	GO:0043198	dendritic shaft
+GO:0048788	10	GO:0005881	cytoplasmic microtubule
+GO:0030018	11	GO:0005815	microtubule organizing center
+GO:0046536	17	GO:0034399	nuclear periphery
+GO:0032039	17	GO:0034399	nuclear periphery
+GO:0033150	11	GO:0005815	microtubule organizing center
+GO:0044161	1	GO:0033646	host intracellular part
+GO:0032154	8	GO:0042600	egg chorion
+GO:0045169	13	GO:0005829	cytosol
+GO:0044162	1	GO:0033646	host intracellular part
+GO:1990026	2	GO:0043198	dendritic shaft
+GO:0043159	16	GO:0000322	storage vacuole
+GO:0005788	16	GO:0000322	storage vacuole
+GO:0097546	3	GO:0031514	motile cilium
+GO:0036128	5	GO:0098654	CENP-A recruiting complex
+GO:0044172	1	GO:0033646	host intracellular part
+GO:0001725	10	GO:0005881	cytoplasmic microtubule
+GO:0046691	8	GO:0042600	egg chorion
+GO:0046696	5	GO:0098654	CENP-A recruiting complex
+GO:0061574	5	GO:0098654	CENP-A recruiting complex
+GO:0042383	8	GO:0042600	egg chorion
+GO:0062023	8	GO:0042600	egg chorion
+GO:0090733	8	GO:0042600	egg chorion
+GO:0030312	12	GO:0005576	extracellular region
+GO:0005701	9	GO:0098687	chromosomal region
+GO:0043332	2	GO:0043198	dendritic shaft
+GO:0033268	3	GO:0031514	motile cilium
+GO:0045495	13	GO:0005829	cytosol
+GO:0090619	11	GO:0005815	microtubule organizing center
+GO:0016456	17	GO:0034399	nuclear periphery
+GO:0005828	10	GO:0005881	cytoplasmic microtubule
+GO:1990604	16	GO:0000322	storage vacuole
+GO:0005604	8	GO:0042600	egg chorion
+GO:0031470	9	GO:0098687	chromosomal region
+GO:0098845	14	GO:0030133	transport vesicle
+GO:0009277	8	GO:0042600	egg chorion
+GO:0032590	2	GO:0043198	dendritic shaft
+GO:0060293	15	GO:0034045	phagophore assembly site membrane
+GO:0009986	12	GO:0005576	extracellular region
+GO:0042597	12	GO:0005576	extracellular region
+GO:0044201	1	GO:0033646	host intracellular part
+GO:0098978	7	GO:0070161	anchoring junction
+GO:0061499	11	GO:0005815	microtubule organizing center
+GO:0061832	7	GO:0070161	anchoring junction
+GO:0070847	17	GO:0034399	nuclear periphery
+GO:0031526	2	GO:0043198	dendritic shaft
+GO:0031527	2	GO:0043198	dendritic shaft

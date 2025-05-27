@@ -1,0 +1,161 @@
+GO:0090312	4	GO:0006140	regulation of nucleotide metabolic process
+GO:0052200	2	GO:0075136	response to host
+GO:0002281	9	GO:0007049	cell cycle
+GO:0042362	9	GO:0007049	cell cycle
+GO:0007218	9	GO:0007049	cell cycle
+GO:0006809	4	GO:0006140	regulation of nucleotide metabolic process
+GO:0090309	4	GO:0006140	regulation of nucleotide metabolic process
+GO:0050796	6	GO:0140353	lipid export from cell
+GO:0061097	4	GO:0006140	regulation of nucleotide metabolic process
+GO:0050769	7	GO:0030225	macrophage differentiation
+GO:0001562	2	GO:0075136	response to host
+GO:0030282	7	GO:0030225	macrophage differentiation
+GO:0042307	6	GO:0140353	lipid export from cell
+GO:0050727	5	GO:0006952	defense response
+GO:0050728	5	GO:0006952	defense response
+GO:0050729	5	GO:0006952	defense response
+GO:0030225	7	GO:0030225	macrophage differentiation
+GO:0016032	1	GO:0016032	viral process
+GO:0002027	8	GO:0040008	regulation of growth
+GO:0007049	9	GO:0007049	cell cycle
+GO:0051321	9	GO:0007049	cell cycle
+GO:0097191	9	GO:0007049	cell cycle
+GO:0046209	4	GO:0006140	regulation of nucleotide metabolic process
+GO:0140353	6	GO:0140353	lipid export from cell
+GO:1900015	3	GO:0032677	regulation of interleukin-8 production
+GO:0032755	3	GO:0032677	regulation of interleukin-8 production
+GO:0032757	3	GO:0032677	regulation of interleukin-8 production
+GO:0045582	7	GO:0030225	macrophage differentiation
+GO:0000003	9	GO:0007049	cell cycle
+GO:0045589	7	GO:0030225	macrophage differentiation
+GO:1902004	4	GO:0006140	regulation of nucleotide metabolic process
+GO:0051308	9	GO:0007049	cell cycle
+GO:0032770	8	GO:0040008	regulation of growth
+GO:0032722	3	GO:0032677	regulation of interleukin-8 production
+GO:0046761	1	GO:0016032	viral process
+GO:0044068	1	GO:0016032	viral process
+GO:0046765	1	GO:0016032	viral process
+GO:0051607	2	GO:0075136	response to host
+GO:0006623	6	GO:0140353	lipid export from cell
+GO:0072666	6	GO:0140353	lipid export from cell
+GO:0034391	9	GO:0007049	cell cycle
+GO:0039702	1	GO:0016032	viral process
+GO:0032735	3	GO:0032677	regulation of interleukin-8 production
+GO:0050832	2	GO:0075136	response to host
+GO:0046718	1	GO:0016032	viral process
+GO:0022622	7	GO:0030225	macrophage differentiation
+GO:0046740	1	GO:0016032	viral process
+GO:1901617	8	GO:0040008	regulation of growth
+GO:0098670	1	GO:0016032	viral process
+GO:0070673	5	GO:0006952	defense response
+GO:0046739	1	GO:0016032	viral process
+GO:0033138	4	GO:0006140	regulation of nucleotide metabolic process
+GO:0044000	1	GO:0016032	viral process
+GO:0044001	1	GO:0016032	viral process
+GO:0044003	1	GO:0016032	viral process
+GO:0048364	7	GO:0030225	macrophage differentiation
+GO:0031343	9	GO:0007049	cell cycle
+GO:0031348	5	GO:0006952	defense response
+GO:0052562	2	GO:0075136	response to host
+GO:0031334	9	GO:0007049	cell cycle
+GO:0006469	4	GO:0006140	regulation of nucleotide metabolic process
+GO:0048662	9	GO:0007049	cell cycle
+GO:0031640	9	GO:0007049	cell cycle
+GO:0043388	8	GO:0040008	regulation of growth
+GO:0010921	4	GO:0006140	regulation of nucleotide metabolic process
+GO:0010922	4	GO:0006140	regulation of nucleotide metabolic process
+GO:0045672	7	GO:0030225	macrophage differentiation
+GO:0030857	7	GO:0030225	macrophage differentiation
+GO:0019064	1	GO:0016032	viral process
+GO:0019054	1	GO:0016032	viral process
+GO:0009553	7	GO:0030225	macrophage differentiation
+GO:0022414	9	GO:0007049	cell cycle
+GO:0006403	6	GO:0140353	lipid export from cell
+GO:0019048	1	GO:0016032	viral process
+GO:0019049	2	GO:0075136	response to host
+GO:0018198	4	GO:0006140	regulation of nucleotide metabolic process
+GO:0017014	4	GO:0006140	regulation of nucleotide metabolic process
+GO:0071902	4	GO:0006140	regulation of nucleotide metabolic process
+GO:0062013	8	GO:0040008	regulation of growth
+GO:0060759	5	GO:0006952	defense response
+GO:0045450	7	GO:0030225	macrophage differentiation
+GO:0008016	8	GO:0040008	regulation of growth
+GO:0002532	5	GO:0006952	defense response
+GO:0002534	3	GO:0032677	regulation of interleukin-8 production
+GO:0060047	8	GO:0040008	regulation of growth
+GO:0045429	4	GO:0006140	regulation of nucleotide metabolic process
+GO:0046599	9	GO:0007049	cell cycle
+GO:0043470	8	GO:0040008	regulation of growth
+GO:1900542	4	GO:0006140	regulation of nucleotide metabolic process
+GO:0018119	4	GO:0006140	regulation of nucleotide metabolic process
+GO:0071715	6	GO:0140353	lipid export from cell
+GO:0050673	9	GO:0007049	cell cycle
+GO:0050678	9	GO:0007049	cell cycle
+GO:0002699	8	GO:0040008	regulation of growth
+GO:0006140	4	GO:0006140	regulation of nucleotide metabolic process
+GO:0030521	9	GO:0007049	cell cycle
+GO:0010893	8	GO:0040008	regulation of growth
+GO:0007340	9	GO:0007049	cell cycle
+GO:0051962	7	GO:0030225	macrophage differentiation
+GO:0042753	8	GO:0040008	regulation of growth
+GO:0019835	9	GO:0007049	cell cycle
+GO:0010824	9	GO:0007049	cell cycle
+GO:0032660	3	GO:0032677	regulation of interleukin-8 production
+GO:0071887	9	GO:0007049	cell cycle
+GO:0032680	3	GO:0032677	regulation of interleukin-8 production
+GO:0030388	4	GO:0006140	regulation of nucleotide metabolic process
+GO:0032310	6	GO:0140353	lipid export from cell
+GO:0010835	4	GO:0006140	regulation of nucleotide metabolic process
+GO:0006952	5	GO:0006952	defense response
+GO:0006954	5	GO:0006952	defense response
+GO:0032677	3	GO:0032677	regulation of interleukin-8 production
+GO:0006959	5	GO:0006952	defense response
+GO:0030656	8	GO:0040008	regulation of growth
+GO:0048143	7	GO:0030225	macrophage differentiation
+GO:0030682	2	GO:0075136	response to host
+GO:0040008	8	GO:0040008	regulation of growth
+GO:0001959	9	GO:0007049	cell cycle
+GO:0032640	3	GO:0032677	regulation of interleukin-8 production
+GO:0035821	1	GO:0016032	viral process
+GO:0120162	8	GO:0040008	regulation of growth
+GO:0032637	3	GO:0032677	regulation of interleukin-8 production
+GO:0032309	6	GO:0140353	lipid export from cell
+GO:1901216	9	GO:0007049	cell cycle
+GO:0006949	7	GO:0030225	macrophage differentiation
+GO:2000379	4	GO:0006140	regulation of nucleotide metabolic process
+GO:0046637	7	GO:0030225	macrophage differentiation
+GO:0051043	4	GO:0006140	regulation of nucleotide metabolic process
+GO:0051037	4	GO:0006140	regulation of nucleotide metabolic process
+GO:2000677	8	GO:0040008	regulation of growth
+GO:0031214	7	GO:0030225	macrophage differentiation
+GO:0046605	9	GO:0007049	cell cycle
+GO:0052173	2	GO:0075136	response to host
+GO:1903557	3	GO:0032677	regulation of interleukin-8 production
+GO:0045980	4	GO:0006140	regulation of nucleotide metabolic process
+GO:0051701	1	GO:0016032	viral process
+GO:0051702	1	GO:0016032	viral process
+GO:0048229	7	GO:0030225	macrophage differentiation
+GO:1903578	8	GO:0040008	regulation of growth
+GO:0051709	9	GO:0007049	cell cycle
+GO:0015732	6	GO:0140353	lipid export from cell
+GO:1903522	8	GO:0040008	regulation of growth
+GO:0001774	9	GO:0007049	cell cycle
+GO:0010508	4	GO:0006140	regulation of nucleotide metabolic process
+GO:0045938	8	GO:0040008	regulation of growth
+GO:0030435	7	GO:0030225	macrophage differentiation
+GO:0043934	7	GO:0030225	macrophage differentiation
+GO:0009132	4	GO:0006140	regulation of nucleotide metabolic process
+GO:0051851	1	GO:0016032	viral process
+GO:0007141	9	GO:0007049	cell cycle
+GO:0010661	9	GO:0007049	cell cycle
+GO:0075136	2	GO:0075136	response to host
+GO:0043086	8	GO:0040008	regulation of growth
+GO:2001057	8	GO:0040008	regulation of growth
+GO:0060333	5	GO:0006952	defense response
+GO:0042531	4	GO:0006140	regulation of nucleotide metabolic process
+GO:0010634	8	GO:0040008	regulation of growth
+GO:0002294	7	GO:0030225	macrophage differentiation
+GO:0045732	4	GO:0006140	regulation of nucleotide metabolic process
+GO:0042501	4	GO:0006140	regulation of nucleotide metabolic process
+GO:0001818	3	GO:0032677	regulation of interleukin-8 production
+GO:0002250	5	GO:0006952	defense response

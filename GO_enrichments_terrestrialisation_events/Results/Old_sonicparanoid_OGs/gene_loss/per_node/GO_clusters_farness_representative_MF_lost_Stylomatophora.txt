@@ -1,0 +1,270 @@
+GO:0005534	2	GO:0070492	oligosaccharide binding
+GO:0008146	13	GO:0016782	transferase activity, transferring sulphur-containing groups
+GO:0070976	4	GO:0019838	growth factor binding
+GO:0004402	13	GO:0016782	transferase activity, transferring sulphur-containing groups
+GO:0098632	2	GO:0070492	oligosaccharide binding
+GO:0008392	12	GO:0004497	monooxygenase activity
+GO:0008395	12	GO:0004497	monooxygenase activity
+GO:0005506	2	GO:0070492	oligosaccharide binding
+GO:0004962	6	GO:0004930	G protein-coupled receptor activity
+GO:0003690	5	GO:0003677	DNA binding
+GO:0004190	14	GO:0017171	serine hydrolase activity
+GO:0003756	14	GO:0017171	serine hydrolase activity
+GO:0004185	14	GO:0017171	serine hydrolase activity
+GO:0004945	6	GO:0004930	G protein-coupled receptor activity
+GO:0003677	5	GO:0003677	DNA binding
+GO:0048029	2	GO:0070492	oligosaccharide binding
+GO:0003964	13	GO:0016782	transferase activity, transferring sulphur-containing groups
+GO:1990846	9	GO:0004857	enzyme inhibitor activity
+GO:0008009	1	GO:0048018	receptor ligand activity
+GO:0001530	2	GO:0070492	oligosaccharide binding
+GO:0016796	11	GO:0004527	exonuclease activity
+GO:0004888	7	GO:0038023	signaling receptor activity
+GO:0004908	6	GO:0004930	G protein-coupled receptor activity
+GO:0000405	5	GO:0003677	DNA binding
+GO:0061809	14	GO:0017171	serine hydrolase activity
+GO:0048256	11	GO:0004527	exonuclease activity
+GO:0016782	13	GO:0016782	transferase activity, transferring sulphur-containing groups
+GO:0070001	14	GO:0017171	serine hydrolase activity
+GO:0020037	5	GO:0003677	DNA binding
+GO:0047372	11	GO:0004527	exonuclease activity
+GO:0016712	12	GO:0004497	monooxygenase activity
+GO:0004806	11	GO:0004527	exonuclease activity
+GO:0090729	10	GO:0038024	cargo receptor activity
+GO:0017171	14	GO:0017171	serine hydrolase activity
+GO:0000175	11	GO:0004527	exonuclease activity
+GO:0051787	4	GO:0019838	growth factor binding
+GO:0080030	11	GO:0004527	exonuclease activity
+GO:0016705	12	GO:0004497	monooxygenase activity
+GO:0042162	5	GO:0003677	DNA binding
+GO:0016895	11	GO:0004527	exonuclease activity
+GO:0016896	11	GO:0004527	exonuclease activity
+GO:0120160	2	GO:0070492	oligosaccharide binding
+GO:0017108	11	GO:0004527	exonuclease activity
+GO:0004527	11	GO:0004527	exonuclease activity
+GO:0008409	11	GO:0004527	exonuclease activity
+GO:0016864	13	GO:0016782	transferase activity, transferring sulphur-containing groups
+GO:0004497	12	GO:0004497	monooxygenase activity
+GO:0030594	7	GO:0038023	signaling receptor activity
+GO:0004519	11	GO:0004527	exonuclease activity
+GO:0050135	14	GO:0017171	serine hydrolase activity
+GO:0019838	4	GO:0019838	growth factor binding
+GO:0039660	10	GO:0038024	cargo receptor activity
+GO:0004532	11	GO:0004527	exonuclease activity
+GO:0038187	7	GO:0038023	signaling receptor activity
+GO:0001851	4	GO:0019838	growth factor binding
+GO:0001875	7	GO:0038023	signaling receptor activity
+GO:0061665	13	GO:0016782	transferase activity, transferring sulphur-containing groups
+GO:0042834	2	GO:0070492	oligosaccharide binding
+GO:0043565	5	GO:0003677	DNA binding
+GO:0061733	13	GO:0016782	transferase activity, transferring sulphur-containing groups
+GO:0001848	4	GO:0019838	growth factor binding
+GO:0016298	11	GO:0004527	exonuclease activity
+GO:0042379	3	GO:0005102	signaling receptor binding
+GO:0038085	4	GO:0019838	growth factor binding
+GO:0005540	2	GO:0070492	oligosaccharide binding
+GO:0008429	2	GO:0070492	oligosaccharide binding
+GO:0004222	14	GO:0017171	serine hydrolase activity
+GO:0005213	10	GO:0038024	cargo receptor activity
+GO:0005509	2	GO:0070492	oligosaccharide binding
+GO:0140297	4	GO:0019838	growth factor binding
+GO:0047256	13	GO:0016782	transferase activity, transferring sulphur-containing groups
+GO:0019212	9	GO:0004857	enzyme inhibitor activity
+GO:0089720	4	GO:0019838	growth factor binding
+GO:0030547	9	GO:0004857	enzyme inhibitor activity
+GO:0005201	10	GO:0038024	cargo receptor activity
+GO:0008191	9	GO:0004857	enzyme inhibitor activity
+GO:0032050	4	GO:0019838	growth factor binding
+GO:0004930	6	GO:0004930	G protein-coupled receptor activity
+GO:0009881	7	GO:0038023	signaling receptor activity
+GO:0051400	4	GO:0019838	growth factor binding
+GO:0003968	13	GO:0016782	transferase activity, transferring sulphur-containing groups
+GO:0030248	2	GO:0070492	oligosaccharide binding
+GO:0008810	14	GO:0017171	serine hydrolase activity
+GO:0031369	4	GO:0019838	growth factor binding
+GO:0003691	5	GO:0003677	DNA binding
+GO:0030371	10	GO:0038024	cargo receptor activity
+GO:0030957	1	GO:0048018	receptor ligand activity
+GO:0005044	10	GO:0038024	cargo receptor activity
+GO:0070008	14	GO:0017171	serine hydrolase activity
+GO:0005031	6	GO:0004930	G protein-coupled receptor activity
+GO:1990404	13	GO:0016782	transferase activity, transferring sulphur-containing groups
+GO:0019902	4	GO:0019838	growth factor binding
+GO:0016504	9	GO:0004857	enzyme inhibitor activity
+GO:0047756	13	GO:0016782	transferase activity, transferring sulphur-containing groups
+GO:0031624	4	GO:0019838	growth factor binding
+GO:0004415	14	GO:0017171	serine hydrolase activity
+GO:0032422	5	GO:0003677	DNA binding
+GO:0001227	10	GO:0038024	cargo receptor activity
+GO:0001217	10	GO:0038024	cargo receptor activity
+GO:0061663	13	GO:0016782	transferase activity, transferring sulphur-containing groups
+GO:0000981	10	GO:0038024	cargo receptor activity
+GO:0000977	5	GO:0003677	DNA binding
+GO:0004864	9	GO:0004857	enzyme inhibitor activity
+GO:0004866	9	GO:0004857	enzyme inhibitor activity
+GO:0004867	9	GO:0004857	enzyme inhibitor activity
+GO:0004869	9	GO:0004857	enzyme inhibitor activity
+GO:0004857	9	GO:0004857	enzyme inhibitor activity
+GO:0046789	2	GO:0070492	oligosaccharide binding
+GO:0003700	10	GO:0038024	cargo receptor activity
+GO:0008270	2	GO:0070492	oligosaccharide binding
+GO:0097677	1	GO:0048018	receptor ligand activity
+GO:0061630	13	GO:0016782	transferase activity, transferring sulphur-containing groups
+GO:0140416	9	GO:0004857	enzyme inhibitor activity
+GO:0008241	14	GO:0017171	serine hydrolase activity
+GO:0000900	5	GO:0003677	DNA binding
+GO:0031435	2	GO:0070492	oligosaccharide binding
+GO:0004180	14	GO:0017171	serine hydrolase activity
+GO:0008378	13	GO:0016782	transferase activity, transferring sulphur-containing groups
+GO:0004175	14	GO:0017171	serine hydrolase activity
+GO:0008061	2	GO:0070492	oligosaccharide binding
+GO:0001786	2	GO:0070492	oligosaccharide binding
+GO:0005178	3	GO:0005102	signaling receptor binding
+GO:0035250	13	GO:0016782	transferase activity, transferring sulphur-containing groups
+GO:0043027	9	GO:0004857	enzyme inhibitor activity
+GO:0009922	13	GO:0016782	transferase activity, transferring sulphur-containing groups
+GO:0005112	3	GO:0005102	signaling receptor binding
+GO:0043621	4	GO:0019838	growth factor binding
+GO:0008020	6	GO:0004930	G protein-coupled receptor activity
+GO:0005133	3	GO:0005102	signaling receptor binding
+GO:0003831	13	GO:0016782	transferase activity, transferring sulphur-containing groups
+GO:1990381	4	GO:0019838	growth factor binding
+GO:0004553	14	GO:0017171	serine hydrolase activity
+GO:0051010	2	GO:0070492	oligosaccharide binding
+GO:0046812	4	GO:0019838	growth factor binding
+GO:0008457	13	GO:0016782	transferase activity, transferring sulphur-containing groups
+GO:0004252	14	GO:0017171	serine hydrolase activity
+GO:0038023	7	GO:0038023	signaling receptor activity
+GO:0038024	10	GO:0038024	cargo receptor activity
+GO:0008083	1	GO:0048018	receptor ligand activity
+GO:0001517	13	GO:0016782	transferase activity, transferring sulphur-containing groups
+GO:0000995	10	GO:0038024	cargo receptor activity
+GO:0008307	10	GO:0038024	cargo receptor activity
+GO:0140103	14	GO:0017171	serine hydrolase activity
+GO:0019966	4	GO:0019838	growth factor binding
+GO:0005124	3	GO:0005102	signaling receptor binding
+GO:0005125	1	GO:0048018	receptor ligand activity
+GO:0005126	3	GO:0005102	signaling receptor binding
+GO:0008467	13	GO:0016782	transferase activity, transferring sulphur-containing groups
+GO:0051427	3	GO:0005102	signaling receptor binding
+GO:0051428	3	GO:0005102	signaling receptor binding
+GO:0070492	2	GO:0070492	oligosaccharide binding
+GO:0016709	12	GO:0004497	monooxygenase activity
+GO:0045130	13	GO:0016782	transferase activity, transferring sulphur-containing groups
+GO:0001181	10	GO:0038024	cargo receptor activity
+GO:0034483	13	GO:0016782	transferase activity, transferring sulphur-containing groups
+GO:0004517	12	GO:0004497	monooxygenase activity
+GO:0033764	12	GO:0004497	monooxygenase activity
+GO:0008097	5	GO:0003677	DNA binding
+GO:0031768	3	GO:0005102	signaling receptor binding
+GO:0016538	9	GO:0004857	enzyme inhibitor activity
+GO:0030546	9	GO:0004857	enzyme inhibitor activity
+GO:0048018	1	GO:0048018	receptor ligand activity
+GO:0008528	6	GO:0004930	G protein-coupled receptor activity
+GO:0030165	4	GO:0019838	growth factor binding
+GO:0008013	4	GO:0019838	growth factor binding
+GO:0004725	14	GO:0017171	serine hydrolase activity
+GO:0070403	2	GO:0070492	oligosaccharide binding
+GO:0019864	2	GO:0070492	oligosaccharide binding
+GO:0019865	2	GO:0070492	oligosaccharide binding
+GO:0030345	10	GO:0038024	cargo receptor activity
+GO:0030291	9	GO:0004857	enzyme inhibitor activity
+GO:0030296	9	GO:0004857	enzyme inhibitor activity
+GO:0016608	1	GO:0048018	receptor ligand activity
+GO:0004861	9	GO:0004857	enzyme inhibitor activity
+GO:0004993	6	GO:0004930	G protein-coupled receptor activity
+GO:0004957	6	GO:0004930	G protein-coupled receptor activity
+GO:0030414	9	GO:0004857	enzyme inhibitor activity
+GO:0016907	6	GO:0004930	G protein-coupled receptor activity
+GO:0016404	12	GO:0004497	monooxygenase activity
+GO:0071813	2	GO:0070492	oligosaccharide binding
+GO:0071814	2	GO:0070492	oligosaccharide binding
+GO:0015026	7	GO:0038023	signaling receptor activity
+GO:0005546	2	GO:0070492	oligosaccharide binding
+GO:0005537	2	GO:0070492	oligosaccharide binding
+GO:0035033	9	GO:0004857	enzyme inhibitor activity
+GO:0035034	9	GO:0004857	enzyme inhibitor activity
+GO:0097153	14	GO:0017171	serine hydrolase activity
+GO:0042608	3	GO:0005102	signaling receptor binding
+GO:1990782	2	GO:0070492	oligosaccharide binding
+GO:0005507	2	GO:0070492	oligosaccharide binding
+GO:0004322	12	GO:0004497	monooxygenase activity
+GO:0019955	4	GO:0019838	growth factor binding
+GO:0048020	3	GO:0005102	signaling receptor binding
+GO:0031994	4	GO:0019838	growth factor binding
+GO:0048306	4	GO:0019838	growth factor binding
+GO:0030247	2	GO:0070492	oligosaccharide binding
+GO:0019911	10	GO:0038024	cargo receptor activity
+GO:0030374	9	GO:0004857	enzyme inhibitor activity
+GO:0005035	6	GO:0004930	G protein-coupled receptor activity
+GO:0030346	2	GO:0070492	oligosaccharide binding
+GO:0042826	4	GO:0019838	growth factor binding
+GO:0030331	1	GO:0048018	receptor ligand activity
+GO:0008140	1	GO:0048018	receptor ligand activity
+GO:0003682	4	GO:0019838	growth factor binding
+GO:0042169	4	GO:0019838	growth factor binding
+GO:0004715	13	GO:0016782	transferase activity, transferring sulphur-containing groups
+GO:0046965	1	GO:0048018	receptor ligand activity
+GO:0046966	1	GO:0048018	receptor ligand activity
+GO:0030023	10	GO:0038024	cargo receptor activity
+GO:0017075	2	GO:0070492	oligosaccharide binding
+GO:0016505	9	GO:0004857	enzyme inhibitor activity
+GO:0070410	4	GO:0019838	growth factor binding
+GO:0030627	5	GO:0003677	DNA binding
+GO:0042802	4	GO:0019838	growth factor binding
+GO:0061980	5	GO:0003677	DNA binding
+GO:0042809	1	GO:0048018	receptor ligand activity
+GO:0023026	2	GO:0070492	oligosaccharide binding
+GO:0001228	10	GO:0038024	cargo receptor activity
+GO:0008297	11	GO:0004527	exonuclease activity
+GO:0001216	10	GO:0038024	cargo receptor activity
+GO:0003712	9	GO:0004857	enzyme inhibitor activity
+GO:0003713	9	GO:0004857	enzyme inhibitor activity
+GO:0003714	9	GO:0004857	enzyme inhibitor activity
+GO:0004896	6	GO:0004930	G protein-coupled receptor activity
+GO:0031005	4	GO:0019838	growth factor binding
+GO:0097200	14	GO:0017171	serine hydrolase activity
+GO:0000978	5	GO:0003677	DNA binding
+GO:0004862	9	GO:0004857	enzyme inhibitor activity
+GO:0043274	4	GO:0019838	growth factor binding
+GO:0071889	4	GO:0019838	growth factor binding
+GO:0140444	10	GO:0038024	cargo receptor activity
+GO:0008373	13	GO:0016782	transferase activity, transferring sulphur-containing groups
+GO:0008327	5	GO:0003677	DNA binding
+GO:0005179	1	GO:0048018	receptor ligand activity
+GO:0005127	3	GO:0005102	signaling receptor binding
+GO:0035259	1	GO:0048018	receptor ligand activity
+GO:0030882	2	GO:0070492	oligosaccharide binding
+GO:0043028	9	GO:0004857	enzyme inhibitor activity
+GO:0050693	4	GO:0019838	growth factor binding
+GO:0008656	9	GO:0004857	enzyme inhibitor activity
+GO:0003823	4	GO:0019838	growth factor binding
+GO:0005138	3	GO:0005102	signaling receptor binding
+GO:0043035	5	GO:0003677	DNA binding
+GO:0042975	3	GO:0005102	signaling receptor binding
+GO:0005102	3	GO:0005102	signaling receptor binding
+GO:0034987	3	GO:0005102	signaling receptor binding
+GO:0051018	4	GO:0019838	growth factor binding
+GO:0008603	9	GO:0004857	enzyme inhibitor activity
+GO:0070530	2	GO:0070492	oligosaccharide binding
+GO:0010385	5	GO:0003677	DNA binding
+GO:0005521	4	GO:0019838	growth factor binding
+GO:0043422	2	GO:0070492	oligosaccharide binding
+GO:0097199	14	GO:0017171	serine hydrolase activity
+GO:0043548	4	GO:0019838	growth factor binding
+GO:0097747	13	GO:0016782	transferase activity, transferring sulphur-containing groups
+GO:0034062	13	GO:0016782	transferase activity, transferring sulphur-containing groups
+GO:0004854	12	GO:0004497	monooxygenase activity
+GO:0004855	12	GO:0004497	monooxygenase activity
+GO:0004089	13	GO:0016782	transferase activity, transferring sulphur-containing groups
+GO:0004364	13	GO:0016782	transferase activity, transferring sulphur-containing groups
+GO:0070330	12	GO:0004497	monooxygenase activity
+GO:0016726	12	GO:0004497	monooxygenase activity
+GO:0016727	12	GO:0004497	monooxygenase activity
+GO:0046872	2	GO:0070492	oligosaccharide binding
+GO:0035312	11	GO:0004527	exonuclease activity
+GO:0016891	11	GO:0004527	exonuclease activity
+GO:0016893	11	GO:0004527	exonuclease activity
+GO:0004521	11	GO:0004527	exonuclease activity
+GO:0004523	11	GO:0004527	exonuclease activity
+GO:0045028	6	GO:0004930	G protein-coupled receptor activity

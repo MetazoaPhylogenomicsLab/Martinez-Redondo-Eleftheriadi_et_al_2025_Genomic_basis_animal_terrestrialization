@@ -1,0 +1,216 @@
+GO:0043935	6	GO:0035234	ectopic germ cell programmed cell death
+GO:0006749	9	GO:0006749	glutathione metabolic process
+GO:0030199	16	GO:0008037	cell recognition
+GO:0045685	7	GO:0050768	negative regulation of neurogenesis
+GO:0046847	16	GO:0008037	cell recognition
+GO:0016567	9	GO:0006749	glutathione metabolic process
+GO:1901224	4	GO:0062208	positive regulation of pattern recognition receptor signaling pathway
+GO:0031345	3	GO:1902905	positive regulation of supramolecular fiber organization
+GO:0018108	9	GO:0006749	glutathione metabolic process
+GO:0009394	9	GO:0006749	glutathione metabolic process
+GO:0007218	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0006884	16	GO:0008037	cell recognition
+GO:0048146	14	GO:0003254	regulation of membrane depolarization
+GO:0019433	9	GO:0006749	glutathione metabolic process
+GO:0070374	4	GO:0062208	positive regulation of pattern recognition receptor signaling pathway
+GO:0060349	2	GO:0035202	tracheal pit formation in open tracheal system
+GO:0072088	1	GO:0060675	ureteric bud morphogenesis
+GO:0072078	1	GO:0060675	ureteric bud morphogenesis
+GO:2000008	14	GO:0003254	regulation of membrane depolarization
+GO:0072028	1	GO:0060675	ureteric bud morphogenesis
+GO:1901700	11	GO:0009605	response to external stimulus
+GO:0030212	9	GO:0006749	glutathione metabolic process
+GO:0006563	9	GO:0006749	glutathione metabolic process
+GO:0032369	13	GO:1904731	positive regulation of intestinal lipid absorption
+GO:0072006	1	GO:0060675	ureteric bud morphogenesis
+GO:0060443	2	GO:0035202	tracheal pit formation in open tracheal system
+GO:0014068	4	GO:0062208	positive regulation of pattern recognition receptor signaling pathway
+GO:0032374	13	GO:1904731	positive regulation of intestinal lipid absorption
+GO:0031153	6	GO:0035234	ectopic germ cell programmed cell death
+GO:0034090	16	GO:0008037	cell recognition
+GO:0034097	11	GO:0009605	response to external stimulus
+GO:0006508	9	GO:0006749	glutathione metabolic process
+GO:0031112	3	GO:1902905	positive regulation of supramolecular fiber organization
+GO:0031113	3	GO:1902905	positive regulation of supramolecular fiber organization
+GO:0031116	3	GO:1902905	positive regulation of supramolecular fiber organization
+GO:0044090	3	GO:1902905	positive regulation of supramolecular fiber organization
+GO:0031146	9	GO:0006749	glutathione metabolic process
+GO:0048754	2	GO:0035202	tracheal pit formation in open tracheal system
+GO:0034087	16	GO:0008037	cell recognition
+GO:0034089	16	GO:0008037	cell recognition
+GO:0090263	4	GO:0062208	positive regulation of pattern recognition receptor signaling pathway
+GO:0061333	1	GO:0060675	ureteric bud morphogenesis
+GO:0090279	13	GO:1904731	positive regulation of intestinal lipid absorption
+GO:0071345	11	GO:0009605	response to external stimulus
+GO:0031295	14	GO:0003254	regulation of membrane depolarization
+GO:0071346	11	GO:0009605	response to external stimulus
+GO:0051495	3	GO:1902905	positive regulation of supramolecular fiber organization
+GO:0051497	3	GO:1902905	positive regulation of supramolecular fiber organization
+GO:0000209	9	GO:0006749	glutathione metabolic process
+GO:1901562	11	GO:0009605	response to external stimulus
+GO:0006636	9	GO:0006749	glutathione metabolic process
+GO:0010877	12	GO:0042908	xenobiotic transport
+GO:0032446	9	GO:0006749	glutathione metabolic process
+GO:0045913	10	GO:0045740	positive regulation of DNA replication
+GO:0140403	11	GO:0009605	response to external stimulus
+GO:0010800	10	GO:0045740	positive regulation of DNA replication
+GO:0030879	2	GO:0035202	tracheal pit formation in open tracheal system
+GO:0032197	16	GO:0008037	cell recognition
+GO:0010595	14	GO:0003254	regulation of membrane depolarization
+GO:0015074	9	GO:0006749	glutathione metabolic process
+GO:1902883	14	GO:0003254	regulation of membrane depolarization
+GO:0033344	12	GO:0042908	xenobiotic transport
+GO:0016998	9	GO:0006749	glutathione metabolic process
+GO:0042178	16	GO:0008037	cell recognition
+GO:1903204	14	GO:0003254	regulation of membrane depolarization
+GO:0035073	2	GO:0035202	tracheal pit formation in open tracheal system
+GO:0035075	11	GO:0009605	response to external stimulus
+GO:0061180	2	GO:0035202	tracheal pit formation in open tracheal system
+GO:0050768	7	GO:0050768	negative regulation of neurogenesis
+GO:0045087	11	GO:0009605	response to external stimulus
+GO:0098869	16	GO:0008037	cell recognition
+GO:1905330	8	GO:0060688	regulation of morphogenesis of a branching structure
+GO:0050770	7	GO:0050768	negative regulation of neurogenesis
+GO:0050771	7	GO:0050768	negative regulation of neurogenesis
+GO:0030517	7	GO:0050768	negative regulation of neurogenesis
+GO:0035008	10	GO:0045740	positive regulation of DNA replication
+GO:0048511	16	GO:0008037	cell recognition
+GO:0048514	2	GO:0035202	tracheal pit formation in open tracheal system
+GO:0032273	3	GO:1902905	positive regulation of supramolecular fiber organization
+GO:0010656	14	GO:0003254	regulation of membrane depolarization
+GO:0050708	13	GO:1904731	positive regulation of intestinal lipid absorption
+GO:0043410	4	GO:0062208	positive regulation of pattern recognition receptor signaling pathway
+GO:0034390	16	GO:0008037	cell recognition
+GO:0034391	14	GO:0003254	regulation of membrane depolarization
+GO:0010633	14	GO:0003254	regulation of membrane depolarization
+GO:0010638	3	GO:1902905	positive regulation of supramolecular fiber organization
+GO:0043406	10	GO:0045740	positive regulation of DNA replication
+GO:0048680	7	GO:0050768	negative regulation of neurogenesis
+GO:0006953	11	GO:0009605	response to external stimulus
+GO:0006954	11	GO:0009605	response to external stimulus
+GO:0034341	11	GO:0009605	response to external stimulus
+GO:0006979	11	GO:0009605	response to external stimulus
+GO:0048639	8	GO:0060688	regulation of morphogenesis of a branching structure
+GO:1903818	13	GO:1904731	positive regulation of intestinal lipid absorption
+GO:2000179	14	GO:0003254	regulation of membrane depolarization
+GO:0039573	14	GO:0003254	regulation of membrane depolarization
+GO:0036010	16	GO:0008037	cell recognition
+GO:0072163	1	GO:0060675	ureteric bud morphogenesis
+GO:0072164	1	GO:0060675	ureteric bud morphogenesis
+GO:2000146	14	GO:0003254	regulation of membrane depolarization
+GO:0001822	1	GO:0060675	ureteric bud morphogenesis
+GO:0001823	1	GO:0060675	ureteric bud morphogenesis
+GO:0031529	16	GO:0008037	cell recognition
+GO:0042744	9	GO:0006749	glutathione metabolic process
+GO:0072171	1	GO:0060675	ureteric bud morphogenesis
+GO:2000294	13	GO:1904731	positive regulation of intestinal lipid absorption
+GO:0060573	6	GO:0035234	ectopic germ cell programmed cell death
+GO:0071715	12	GO:0042908	xenobiotic transport
+GO:1900025	7	GO:0050768	negative regulation of neurogenesis
+GO:1900027	3	GO:1902905	positive regulation of supramolecular fiber organization
+GO:1904731	13	GO:1904731	positive regulation of intestinal lipid absorption
+GO:0051897	4	GO:0062208	positive regulation of pattern recognition receptor signaling pathway
+GO:2000252	14	GO:0003254	regulation of membrane depolarization
+GO:0032885	10	GO:0045740	positive regulation of DNA replication
+GO:0031666	4	GO:0062208	positive regulation of pattern recognition receptor signaling pathway
+GO:2000272	4	GO:0062208	positive regulation of pattern recognition receptor signaling pathway
+GO:0051865	9	GO:0006749	glutathione metabolic process
+GO:2000278	10	GO:0045740	positive regulation of DNA replication
+GO:0006024	9	GO:0006749	glutathione metabolic process
+GO:1905278	8	GO:0060688	regulation of morphogenesis of a branching structure
+GO:0001525	2	GO:0035202	tracheal pit formation in open tracheal system
+GO:0001516	9	GO:0006749	glutathione metabolic process
+GO:0099515	12	GO:0042908	xenobiotic transport
+GO:0031638	9	GO:0006749	glutathione metabolic process
+GO:0003254	14	GO:0003254	regulation of membrane depolarization
+GO:0062208	4	GO:0062208	positive regulation of pattern recognition receptor signaling pathway
+GO:0060688	8	GO:0060688	regulation of morphogenesis of a branching structure
+GO:0060675	1	GO:0060675	ureteric bud morphogenesis
+GO:0034143	4	GO:0062208	positive regulation of pattern recognition receptor signaling pathway
+GO:0042595	11	GO:0009605	response to external stimulus
+GO:0051597	11	GO:0009605	response to external stimulus
+GO:0010951	10	GO:0045740	positive regulation of DNA replication
+GO:0051567	9	GO:0006749	glutathione metabolic process
+GO:0032528	16	GO:0008037	cell recognition
+GO:0001657	1	GO:0060675	ureteric bud morphogenesis
+GO:0001658	1	GO:0060675	ureteric bud morphogenesis
+GO:0010977	7	GO:0050768	negative regulation of neurogenesis
+GO:0009620	11	GO:0009605	response to external stimulus
+GO:0034293	6	GO:0035234	ectopic germ cell programmed cell death
+GO:0009617	11	GO:0009605	response to external stimulus
+GO:2000738	7	GO:0050768	negative regulation of neurogenesis
+GO:0009631	11	GO:0009605	response to external stimulus
+GO:0009636	11	GO:0009605	response to external stimulus
+GO:1901018	13	GO:1904731	positive regulation of intestinal lipid absorption
+GO:0009605	11	GO:0009605	response to external stimulus
+GO:0042690	7	GO:0050768	negative regulation of neurogenesis
+GO:0030902	2	GO:0035202	tracheal pit formation in open tracheal system
+GO:0035151	2	GO:0035202	tracheal pit formation in open tracheal system
+GO:0035152	2	GO:0035202	tracheal pit formation in open tracheal system
+GO:0035153	6	GO:0035234	ectopic germ cell programmed cell death
+GO:0035154	6	GO:0035234	ectopic germ cell programmed cell death
+GO:1905885	13	GO:1904731	positive regulation of intestinal lipid absorption
+GO:0022603	8	GO:0060688	regulation of morphogenesis of a branching structure
+GO:1902905	3	GO:1902905	positive regulation of supramolecular fiber organization
+GO:0035148	2	GO:0035202	tracheal pit formation in open tracheal system
+GO:0035149	2	GO:0035202	tracheal pit formation in open tracheal system
+GO:0038083	9	GO:0006749	glutathione metabolic process
+GO:0030050	12	GO:0042908	xenobiotic transport
+GO:0030073	12	GO:0042908	xenobiotic transport
+GO:0002683	14	GO:0003254	regulation of membrane depolarization
+GO:0040013	14	GO:0003254	regulation of membrane depolarization
+GO:2000573	10	GO:0045740	positive regulation of DNA replication
+GO:0040018	8	GO:0060688	regulation of morphogenesis of a branching structure
+GO:0046456	9	GO:0006749	glutathione metabolic process
+GO:0046425	4	GO:0062208	positive regulation of pattern recognition receptor signaling pathway
+GO:0035234	6	GO:0035234	ectopic germ cell programmed cell death
+GO:0035235	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0035202	2	GO:0035202	tracheal pit formation in open tracheal system
+GO:0033674	10	GO:0045740	positive regulation of DNA replication
+GO:0008037	16	GO:0008037	cell recognition
+GO:0015721	12	GO:0042908	xenobiotic transport
+GO:0008038	6	GO:0035234	ectopic germ cell programmed cell death
+GO:0001941	16	GO:0008037	cell recognition
+GO:0001938	14	GO:0003254	regulation of membrane depolarization
+GO:0045740	10	GO:0045740	positive regulation of DNA replication
+GO:0045741	10	GO:0045740	positive regulation of DNA replication
+GO:0007362	2	GO:0035202	tracheal pit formation in open tracheal system
+GO:0006195	9	GO:0006749	glutathione metabolic process
+GO:0007370	2	GO:0035202	tracheal pit formation in open tracheal system
+GO:0051961	8	GO:0060688	regulation of morphogenesis of a branching structure
+GO:0017198	9	GO:0006749	glutathione metabolic process
+GO:0060041	2	GO:0035202	tracheal pit formation in open tracheal system
+GO:0007304	6	GO:0035234	ectopic germ cell programmed cell death
+GO:0007306	6	GO:0035234	ectopic germ cell programmed cell death
+GO:0099054	6	GO:0035234	ectopic germ cell programmed cell death
+GO:0110077	16	GO:0008037	cell recognition
+GO:0042908	12	GO:0042908	xenobiotic transport
+GO:0030381	6	GO:0035234	ectopic germ cell programmed cell death
+GO:0007455	2	GO:0035202	tracheal pit formation in open tracheal system
+GO:0110037	8	GO:0060688	regulation of morphogenesis of a branching structure
+GO:0007426	2	GO:0035202	tracheal pit formation in open tracheal system
+GO:0007429	2	GO:0035202	tracheal pit formation in open tracheal system
+GO:0030336	14	GO:0003254	regulation of membrane depolarization
+GO:0120033	3	GO:1902905	positive regulation of supramolecular fiber organization
+GO:0006278	9	GO:0006749	glutathione metabolic process
+GO:0010469	4	GO:0062208	positive regulation of pattern recognition receptor signaling pathway
+GO:0030307	3	GO:1902905	positive regulation of supramolecular fiber organization
+GO:0030308	3	GO:1902905	positive regulation of supramolecular fiber organization
+GO:0042063	6	GO:0035234	ectopic germ cell programmed cell death
+GO:0042052	6	GO:0035234	ectopic germ cell programmed cell death
+GO:0051085	16	GO:0008037	cell recognition
+GO:0042026	16	GO:0008037	cell recognition
+GO:0015695	12	GO:0042908	xenobiotic transport
+GO:0007166	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0007169	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0007155	16	GO:0008037	cell recognition
+GO:0007156	16	GO:0008037	cell recognition
+GO:0007158	16	GO:0008037	cell recognition
+GO:0007186	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0007189	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0002092	10	GO:0045740	positive regulation of DNA replication
+GO:0030437	6	GO:0035234	ectopic germ cell programmed cell death
+GO:0097178	16	GO:0008037	cell recognition
+GO:0010150	2	GO:0035202	tracheal pit formation in open tracheal system
+GO:0006718	9	GO:0006749	glutathione metabolic process
+GO:0002076	6	GO:0035234	ectopic germ cell programmed cell death

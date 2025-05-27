@@ -1,0 +1,1281 @@
+GO:0001664	3	GO:0005515	protein binding
+GO:0061135	10	GO:0016247	channel regulator activity
+GO:0030414	10	GO:0016247	channel regulator activity
+GO:0001228	12	GO:0005319	lipid transporter activity
+GO:0005549	1	GO:0044877	protein-containing complex binding
+GO:0001872	4	GO:0005504	fatty acid binding
+GO:0022821	6	GO:0005261	cation channel activity
+GO:0102965	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:0097153	19	GO:0008233	peptidase activity
+GO:0005506	4	GO:0005504	fatty acid binding
+GO:0038187	9	GO:0004888	transmembrane signaling receptor activity
+GO:0004866	10	GO:0016247	channel regulator activity
+GO:0004867	10	GO:0016247	channel regulator activity
+GO:0004869	10	GO:0016247	channel regulator activity
+GO:1990188	1	GO:0044877	protein-containing complex binding
+GO:0005044	12	GO:0005319	lipid transporter activity
+GO:0005031	9	GO:0004888	transmembrane signaling receptor activity
+GO:0005035	9	GO:0004888	transmembrane signaling receptor activity
+GO:0080019	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:0008083	2	GO:0005178	integrin binding
+GO:0080030	18	GO:0004518	nuclease activity
+GO:0005213	12	GO:0005319	lipid transporter activity
+GO:0020037	5	GO:0003676	nucleic acid binding
+GO:0043014	2	GO:0005178	integrin binding
+GO:0050062	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:0008010	12	GO:0005319	lipid transporter activity
+GO:0008011	12	GO:0005319	lipid transporter activity
+GO:0000981	12	GO:0005319	lipid transporter activity
+GO:0043035	5	GO:0003676	nucleic acid binding
+GO:0016705	13	GO:0016491	oxidoreductase activity
+GO:0004364	16	GO:1990404	protein ADP-ribosylase activity
+GO:0000977	5	GO:0003676	nucleic acid binding
+GO:0000978	5	GO:0003676	nucleic acid binding
+GO:0003700	12	GO:0005319	lipid transporter activity
+GO:0008270	4	GO:0005504	fatty acid binding
+GO:0099602	10	GO:0016247	channel regulator activity
+GO:0030527	12	GO:0005319	lipid transporter activity
+GO:0018685	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:0004181	19	GO:0008233	peptidase activity
+GO:0030548	10	GO:0016247	channel regulator activity
+GO:0031956	18	GO:0004518	nuclease activity
+GO:0042302	12	GO:0005319	lipid transporter activity
+GO:0016229	13	GO:0016491	oxidoreductase activity
+GO:0005179	2	GO:0005178	integrin binding
+GO:0005121	3	GO:0005515	protein binding
+GO:0035591	11	GO:0030674	protein-macromolecule adaptor activity
+GO:0004984	9	GO:0004888	transmembrane signaling receptor activity
+GO:0015149	7	GO:0015075	ion transmembrane transporter activity
+GO:0070006	19	GO:0008233	peptidase activity
+GO:0071855	2	GO:0005178	integrin binding
+GO:0004497	13	GO:0016491	oxidoreductase activity
+GO:0038024	14	GO:0038024	cargo receptor activity
+GO:0031210	4	GO:0005504	fatty acid binding
+GO:0009922	16	GO:1990404	protein ADP-ribosylase activity
+GO:0004190	19	GO:0008233	peptidase activity
+GO:0001227	12	GO:0005319	lipid transporter activity
+GO:0008012	12	GO:0005319	lipid transporter activity
+GO:0015373	6	GO:0005261	cation channel activity
+GO:0003723	5	GO:0003676	nucleic acid binding
+GO:0015378	6	GO:0005261	cation channel activity
+GO:0031208	2	GO:0005178	integrin binding
+GO:0061134	10	GO:0016247	channel regulator activity
+GO:0035613	5	GO:0003676	nucleic acid binding
+GO:0009881	9	GO:0004888	transmembrane signaling receptor activity
+GO:0004601	13	GO:0016491	oxidoreductase activity
+GO:0009882	9	GO:0004888	transmembrane signaling receptor activity
+GO:0003730	5	GO:0003676	nucleic acid binding
+GO:0003676	5	GO:0003676	nucleic acid binding
+GO:0004930	9	GO:0004888	transmembrane signaling receptor activity
+GO:0003678	19	GO:0008233	peptidase activity
+GO:0003964	16	GO:1990404	protein ADP-ribosylase activity
+GO:0000405	5	GO:0003676	nucleic acid binding
+GO:0031788	2	GO:0005178	integrin binding
+GO:0008494	5	GO:0003676	nucleic acid binding
+GO:0050997	1	GO:0044877	protein-containing complex binding
+GO:0043169	1	GO:0044877	protein-containing complex binding
+GO:0016721	13	GO:0016491	oxidoreductase activity
+GO:0046872	4	GO:0005504	fatty acid binding
+GO:0003887	16	GO:1990404	protein ADP-ribosylase activity
+GO:0004386	18	GO:0004518	nuclease activity
+GO:0019899	3	GO:0005515	protein binding
+GO:0004252	19	GO:0008233	peptidase activity
+GO:0001968	3	GO:0005515	protein binding
+GO:0019865	1	GO:0044877	protein-containing complex binding
+GO:0061501	16	GO:1990404	protein ADP-ribosylase activity
+GO:0004523	18	GO:0004518	nuclease activity
+GO:0004519	18	GO:0004518	nuclease activity
+GO:0039660	12	GO:0005319	lipid transporter activity
+GO:0008198	4	GO:0005504	fatty acid binding
+GO:0004453	18	GO:0004518	nuclease activity
+GO:0005227	6	GO:0005261	cation channel activity
+GO:0102756	16	GO:1990404	protein ADP-ribosylase activity
+GO:0001848	3	GO:0005515	protein binding
+GO:0005525	4	GO:0005504	fatty acid binding
+GO:0004784	13	GO:0016491	oxidoreductase activity
+GO:0050265	16	GO:1990404	protein ADP-ribosylase activity
+GO:0005540	4	GO:0005504	fatty acid binding
+GO:0031005	2	GO:0005178	integrin binding
+GO:0050341	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:0010313	3	GO:0005515	protein binding
+GO:0008422	19	GO:0008233	peptidase activity
+GO:0022829	6	GO:0005261	cation channel activity
+GO:0030550	10	GO:0016247	channel regulator activity
+GO:0102483	19	GO:0008233	peptidase activity
+GO:0005504	4	GO:0005504	fatty acid binding
+GO:0005243	6	GO:0005261	cation channel activity
+GO:0000182	5	GO:0003676	nucleic acid binding
+GO:0005200	12	GO:0005319	lipid transporter activity
+GO:0048018	2	GO:0005178	integrin binding
+GO:0015114	7	GO:0015075	ion transmembrane transporter activity
+GO:0030246	1	GO:0044877	protein-containing complex binding
+GO:0003950	16	GO:1990404	protein ADP-ribosylase activity
+GO:0008810	19	GO:0008233	peptidase activity
+GO:0051861	1	GO:0044877	protein-containing complex binding
+GO:0070492	1	GO:0044877	protein-containing complex binding
+GO:0048038	1	GO:0044877	protein-containing complex binding
+GO:0005042	9	GO:0004888	transmembrane signaling receptor activity
+GO:0106274	16	GO:1990404	protein ADP-ribosylase activity
+GO:1990404	16	GO:1990404	protein ADP-ribosylase activity
+GO:0008126	18	GO:0004518	nuclease activity
+GO:0017060	16	GO:1990404	protein ADP-ribosylase activity
+GO:0004725	19	GO:0008233	peptidase activity
+GO:0004713	15	GO:0004672	protein kinase activity
+GO:0004715	15	GO:0004672	protein kinase activity
+GO:0003677	5	GO:0003676	nucleic acid binding
+GO:0008138	19	GO:0008233	peptidase activity
+GO:0090729	14	GO:0038024	cargo receptor activity
+GO:0030627	5	GO:0003676	nucleic acid binding
+GO:0046920	16	GO:1990404	protein ADP-ribosylase activity
+GO:0043559	2	GO:0005178	integrin binding
+GO:0033821	16	GO:1990404	protein ADP-ribosylase activity
+GO:0070851	3	GO:0005515	protein binding
+GO:0098632	2	GO:0005178	integrin binding
+GO:0016936	1	GO:0044877	protein-containing complex binding
+GO:0031718	2	GO:0005178	integrin binding
+GO:0043539	10	GO:0016247	channel regulator activity
+GO:0001054	16	GO:1990404	protein ADP-ribosylase activity
+GO:0106006	11	GO:0030674	protein-macromolecule adaptor activity
+GO:0004197	19	GO:0008233	peptidase activity
+GO:0019864	4	GO:0005504	fatty acid binding
+GO:0000900	5	GO:0003676	nucleic acid binding
+GO:0019870	10	GO:0016247	channel regulator activity
+GO:0005184	2	GO:0005178	integrin binding
+GO:0005125	2	GO:0005178	integrin binding
+GO:0005126	3	GO:0005515	protein binding
+GO:0005112	3	GO:0005515	protein binding
+GO:0033293	4	GO:0005504	fatty acid binding
+GO:0005149	2	GO:0005178	integrin binding
+GO:0005133	2	GO:0005178	integrin binding
+GO:0008301	5	GO:0003676	nucleic acid binding
+GO:0045735	14	GO:0038024	cargo receptor activity
+GO:0046871	1	GO:0044877	protein-containing complex binding
+GO:0140110	14	GO:0038024	cargo receptor activity
+GO:0015101	7	GO:0015075	ion transmembrane transporter activity
+GO:0042887	7	GO:0015075	ion transmembrane transporter activity
+GO:0140326	18	GO:0004518	nuclease activity
+GO:0005261	6	GO:0005261	cation channel activity
+GO:0003990	18	GO:0004518	nuclease activity
+GO:0051119	7	GO:0015075	ion transmembrane transporter activity
+GO:0034237	2	GO:0005178	integrin binding
+GO:0015645	18	GO:0004518	nuclease activity
+GO:0030291	10	GO:0016247	channel regulator activity
+GO:0030296	10	GO:0016247	channel regulator activity
+GO:0015125	7	GO:0015075	ion transmembrane transporter activity
+GO:0015574	7	GO:0015075	ion transmembrane transporter activity
+GO:0016405	16	GO:1990404	protein ADP-ribosylase activity
+GO:0030547	10	GO:0016247	channel regulator activity
+GO:0140272	1	GO:0044877	protein-containing complex binding
+GO:0043047	5	GO:0003676	nucleic acid binding
+GO:0042162	5	GO:0003676	nucleic acid binding
+GO:0001517	16	GO:1990404	protein ADP-ribosylase activity
+GO:0005199	12	GO:0005319	lipid transporter activity
+GO:0001530	1	GO:0044877	protein-containing complex binding
+GO:0005537	4	GO:0005504	fatty acid binding
+GO:0098531	12	GO:0005319	lipid transporter activity
+GO:0004033	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:0031625	2	GO:0005178	integrin binding
+GO:0008146	16	GO:1990404	protein ADP-ribosylase activity
+GO:0030331	2	GO:0005178	integrin binding
+GO:0005139	2	GO:0005178	integrin binding
+GO:0004896	9	GO:0004888	transmembrane signaling receptor activity
+GO:0008106	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:0099106	10	GO:0016247	channel regulator activity
+GO:0001618	1	GO:0044877	protein-containing complex binding
+GO:0004879	12	GO:0005319	lipid transporter activity
+GO:0016247	10	GO:0016247	channel regulator activity
+GO:0034481	16	GO:1990404	protein ADP-ribosylase activity
+GO:0098847	5	GO:0003676	nucleic acid binding
+GO:0003968	16	GO:1990404	protein ADP-ribosylase activity
+GO:0140375	9	GO:0004888	transmembrane signaling receptor activity
+GO:0005214	12	GO:0005319	lipid transporter activity
+GO:0043565	5	GO:0003676	nucleic acid binding
+GO:0070840	1	GO:0044877	protein-containing complex binding
+GO:0010521	10	GO:0016247	channel regulator activity
+GO:0015026	9	GO:0004888	transmembrane signaling receptor activity
+GO:0016782	13	GO:0016491	oxidoreductase activity
+GO:0004089	16	GO:1990404	protein ADP-ribosylase activity
+GO:0008174	16	GO:1990404	protein ADP-ribosylase activity
+GO:0005536	4	GO:0005504	fatty acid binding
+GO:0034061	16	GO:1990404	protein ADP-ribosylase activity
+GO:0030674	11	GO:0030674	protein-macromolecule adaptor activity
+GO:0016530	12	GO:0005319	lipid transporter activity
+GO:0008252	18	GO:0004518	nuclease activity
+GO:0000987	5	GO:0003676	nucleic acid binding
+GO:0009019	16	GO:1990404	protein ADP-ribosylase activity
+GO:0043621	3	GO:0005515	protein binding
+GO:0005355	7	GO:0015075	ion transmembrane transporter activity
+GO:0005550	1	GO:0044877	protein-containing complex binding
+GO:0008191	10	GO:0016247	channel regulator activity
+GO:0022843	6	GO:0005261	cation channel activity
+GO:0004035	18	GO:0004518	nuclease activity
+GO:0015459	10	GO:0016247	channel regulator activity
+GO:0005267	6	GO:0005261	cation channel activity
+GO:0005283	6	GO:0005261	cation channel activity
+GO:0005416	7	GO:0015075	ion transmembrane transporter activity
+GO:0005249	6	GO:0005261	cation channel activity
+GO:0030545	10	GO:0016247	channel regulator activity
+GO:0015175	7	GO:0015075	ion transmembrane transporter activity
+GO:0005343	6	GO:0005261	cation channel activity
+GO:0035375	2	GO:0005178	integrin binding
+GO:0015145	7	GO:0015075	ion transmembrane transporter activity
+GO:0072349	7	GO:0015075	ion transmembrane transporter activity
+GO:0004222	19	GO:0008233	peptidase activity
+GO:0015194	7	GO:0015075	ion transmembrane transporter activity
+GO:0005313	7	GO:0015075	ion transmembrane transporter activity
+GO:0015189	7	GO:0015075	ion transmembrane transporter activity
+GO:0015172	7	GO:0015075	ion transmembrane transporter activity
+GO:0005346	7	GO:0015075	ion transmembrane transporter activity
+GO:0045130	16	GO:1990404	protein ADP-ribosylase activity
+GO:0019206	15	GO:0004672	protein kinase activity
+GO:0004305	15	GO:0004672	protein kinase activity
+GO:0005302	7	GO:0015075	ion transmembrane transporter activity
+GO:0003697	5	GO:0003676	nucleic acid binding
+GO:0008187	5	GO:0003676	nucleic acid binding
+GO:0000295	7	GO:0015075	ion transmembrane transporter activity
+GO:0070717	5	GO:0003676	nucleic acid binding
+GO:0030332	3	GO:0005515	protein binding
+GO:0008143	5	GO:0003676	nucleic acid binding
+GO:0047756	16	GO:1990404	protein ADP-ribosylase activity
+GO:0015216	7	GO:0015075	ion transmembrane transporter activity
+GO:0008266	5	GO:0003676	nucleic acid binding
+GO:0008234	19	GO:0008233	peptidase activity
+GO:0061459	7	GO:0015075	ion transmembrane transporter activity
+GO:0043028	10	GO:0016247	channel regulator activity
+GO:0008308	6	GO:0005261	cation channel activity
+GO:0070569	16	GO:1990404	protein ADP-ribosylase activity
+GO:0042973	19	GO:0008233	peptidase activity
+GO:0017151	2	GO:0005178	integrin binding
+GO:0005290	7	GO:0015075	ion transmembrane transporter activity
+GO:0016878	16	GO:1990404	protein ADP-ribosylase activity
+GO:0016812	19	GO:0008233	peptidase activity
+GO:0050431	2	GO:0005178	integrin binding
+GO:0099589	9	GO:0004888	transmembrane signaling receptor activity
+GO:0005154	2	GO:0005178	integrin binding
+GO:0046914	4	GO:0005504	fatty acid binding
+GO:0098988	9	GO:0004888	transmembrane signaling receptor activity
+GO:0005102	3	GO:0005515	protein binding
+GO:0030492	3	GO:0005515	protein binding
+GO:0016209	14	GO:0038024	cargo receptor activity
+GO:0004993	9	GO:0004888	transmembrane signaling receptor activity
+GO:0001640	9	GO:0004888	transmembrane signaling receptor activity
+GO:0016715	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:0004175	19	GO:0008233	peptidase activity
+GO:0005507	4	GO:0005504	fatty acid binding
+GO:0030546	10	GO:0016247	channel regulator activity
+GO:0005534	4	GO:0005504	fatty acid binding
+GO:0019239	19	GO:0008233	peptidase activity
+GO:0001216	12	GO:0005319	lipid transporter activity
+GO:0106330	18	GO:0004518	nuclease activity
+GO:0106331	18	GO:0004518	nuclease activity
+GO:0016207	16	GO:1990404	protein ADP-ribosylase activity
+GO:0047886	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:0000995	12	GO:0005319	lipid transporter activity
+GO:0070034	5	GO:0003676	nucleic acid binding
+GO:0033130	3	GO:0005515	protein binding
+GO:0016411	16	GO:1990404	protein ADP-ribosylase activity
+GO:0022848	6	GO:0005261	cation channel activity
+GO:0001681	18	GO:0004518	nuclease activity
+GO:0034584	5	GO:0003676	nucleic acid binding
+GO:0070530	2	GO:0005178	integrin binding
+GO:0042171	16	GO:1990404	protein ADP-ribosylase activity
+GO:0098505	5	GO:0003676	nucleic acid binding
+GO:0004467	18	GO:0004518	nuclease activity
+GO:0016814	19	GO:0008233	peptidase activity
+GO:0042834	4	GO:0005504	fatty acid binding
+GO:0097199	19	GO:0008233	peptidase activity
+GO:0001875	9	GO:0004888	transmembrane signaling receptor activity
+GO:0030247	1	GO:0044877	protein-containing complex binding
+GO:0005509	4	GO:0005504	fatty acid binding
+GO:0043027	10	GO:0016247	channel regulator activity
+GO:0035662	2	GO:0005178	integrin binding
+GO:0097200	19	GO:0008233	peptidase activity
+GO:0001217	12	GO:0005319	lipid transporter activity
+GO:0004806	18	GO:0004518	nuclease activity
+GO:0003691	5	GO:0003676	nucleic acid binding
+GO:0140416	10	GO:0016247	channel regulator activity
+GO:0015154	7	GO:0015075	ion transmembrane transporter activity
+GO:0015157	7	GO:0015075	ion transmembrane transporter activity
+GO:0000217	5	GO:0003676	nucleic acid binding
+GO:0005436	6	GO:0005261	cation channel activity
+GO:0030165	2	GO:0005178	integrin binding
+GO:0008013	3	GO:0005515	protein binding
+GO:0005164	2	GO:0005178	integrin binding
+GO:0015136	7	GO:0015075	ion transmembrane transporter activity
+GO:0019894	2	GO:0005178	integrin binding
+GO:0051019	2	GO:0005178	integrin binding
+GO:0070026	1	GO:0044877	protein-containing complex binding
+GO:0005326	7	GO:0015075	ion transmembrane transporter activity
+GO:1904855	1	GO:0044877	protein-containing complex binding
+GO:0051381	5	GO:0003676	nucleic acid binding
+GO:0019955	3	GO:0005515	protein binding
+GO:0004857	10	GO:0016247	channel regulator activity
+GO:0034235	4	GO:0005504	fatty acid binding
+GO:0042923	4	GO:0005504	fatty acid binding
+GO:0004983	9	GO:0004888	transmembrane signaling receptor activity
+GO:0019199	15	GO:0004672	protein kinase activity
+GO:0022839	6	GO:0005261	cation channel activity
+GO:0005272	6	GO:0005261	cation channel activity
+GO:0016712	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:0005230	6	GO:0005261	cation channel activity
+GO:0005231	6	GO:0005261	cation channel activity
+GO:0016918	4	GO:0005504	fatty acid binding
+GO:0046873	6	GO:0005261	cation channel activity
+GO:1902936	4	GO:0005504	fatty acid binding
+GO:0008395	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:0004714	15	GO:0004672	protein kinase activity
+GO:0019841	4	GO:0005504	fatty acid binding
+GO:0033041	9	GO:0004888	transmembrane signaling receptor activity
+GO:0005201	12	GO:0005319	lipid transporter activity
+GO:0046975	16	GO:1990404	protein ADP-ribosylase activity
+GO:0031423	3	GO:0005515	protein binding
+GO:0008061	1	GO:0044877	protein-containing complex binding
+GO:0042803	2	GO:0005178	integrin binding
+GO:0035325	3	GO:0005515	protein binding
+GO:0008525	12	GO:0005319	lipid transporter activity
+GO:1904121	12	GO:0005319	lipid transporter activity
+GO:0004180	19	GO:0008233	peptidase activity
+GO:1902388	12	GO:0005319	lipid transporter activity
+GO:0046624	12	GO:0005319	lipid transporter activity
+GO:0120020	12	GO:0005319	lipid transporter activity
+GO:0120015	12	GO:0005319	lipid transporter activity
+GO:0120016	12	GO:0005319	lipid transporter activity
+GO:0120017	12	GO:0005319	lipid transporter activity
+GO:0120019	12	GO:0005319	lipid transporter activity
+GO:0005319	12	GO:0005319	lipid transporter activity
+GO:0070001	19	GO:0008233	peptidase activity
+GO:0044877	1	GO:0044877	protein-containing complex binding
+GO:0015276	6	GO:0005261	cation channel activity
+GO:0022834	6	GO:0005261	cation channel activity
+GO:0000976	5	GO:0003676	nucleic acid binding
+GO:0140344	12	GO:0005319	lipid transporter activity
+GO:0008238	19	GO:0008233	peptidase activity
+GO:0030551	5	GO:0003676	nucleic acid binding
+GO:0050839	3	GO:0005515	protein binding
+GO:0035064	2	GO:0005178	integrin binding
+GO:0005483	11	GO:0030674	protein-macromolecule adaptor activity
+GO:0061665	16	GO:1990404	protein ADP-ribosylase activity
+GO:1901618	7	GO:0015075	ion transmembrane transporter activity
+GO:0004560	19	GO:0008233	peptidase activity
+GO:0140034	2	GO:0005178	integrin binding
+GO:0050840	1	GO:0044877	protein-containing complex binding
+GO:0015347	7	GO:0015075	ion transmembrane transporter activity
+GO:0036408	16	GO:1990404	protein ADP-ribosylase activity
+GO:0042277	1	GO:0044877	protein-containing complex binding
+GO:0004629	18	GO:0004518	nuclease activity
+GO:0009975	13	GO:0016491	oxidoreductase activity
+GO:0005248	6	GO:0005261	cation channel activity
+GO:0044547	2	GO:0005178	integrin binding
+GO:0043812	18	GO:0004518	nuclease activity
+GO:0034596	18	GO:0004518	nuclease activity
+GO:0005158	3	GO:0005515	protein binding
+GO:0016888	18	GO:0004518	nuclease activity
+GO:0004520	18	GO:0004518	nuclease activity
+GO:0004518	18	GO:0004518	nuclease activity
+GO:0005385	6	GO:0005261	cation channel activity
+GO:0031543	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:0031545	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:0016504	10	GO:0016247	channel regulator activity
+GO:0008597	10	GO:0016247	channel regulator activity
+GO:0016084	2	GO:0005178	integrin binding
+GO:0008528	9	GO:0004888	transmembrane signaling receptor activity
+GO:0046789	1	GO:0044877	protein-containing complex binding
+GO:0031418	4	GO:0005504	fatty acid binding
+GO:0031435	2	GO:0005178	integrin binding
+GO:0016706	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:1904067	1	GO:0044877	protein-containing complex binding
+GO:0004568	19	GO:0008233	peptidase activity
+GO:0017128	12	GO:0005319	lipid transporter activity
+GO:0004945	9	GO:0004888	transmembrane signaling receptor activity
+GO:0001653	9	GO:0004888	transmembrane signaling receptor activity
+GO:0048256	18	GO:0004518	nuclease activity
+GO:0140097	13	GO:0016491	oxidoreductase activity
+GO:0001595	9	GO:0004888	transmembrane signaling receptor activity
+GO:0038085	2	GO:0005178	integrin binding
+GO:0017171	19	GO:0008233	peptidase activity
+GO:0008236	19	GO:0008233	peptidase activity
+GO:0004962	9	GO:0004888	transmembrane signaling receptor activity
+GO:0017108	18	GO:0004518	nuclease activity
+GO:0005332	6	GO:0005261	cation channel activity
+GO:0060089	14	GO:0038024	cargo receptor activity
+GO:0015199	7	GO:0015075	ion transmembrane transporter activity
+GO:0008373	16	GO:1990404	protein ADP-ribosylase activity
+GO:0008378	16	GO:1990404	protein ADP-ribosylase activity
+GO:0098960	9	GO:0004888	transmembrane signaling receptor activity
+GO:0038023	9	GO:0004888	transmembrane signaling receptor activity
+GO:0017022	2	GO:0005178	integrin binding
+GO:0016757	13	GO:0016491	oxidoreductase activity
+GO:0004888	9	GO:0004888	transmembrane signaling receptor activity
+GO:0048029	1	GO:0044877	protein-containing complex binding
+GO:0102991	18	GO:0004518	nuclease activity
+GO:0036393	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:0000014	18	GO:0004518	nuclease activity
+GO:0004032	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:0003714	10	GO:0016247	channel regulator activity
+GO:0004693	15	GO:0004672	protein kinase activity
+GO:0016290	18	GO:0004518	nuclease activity
+GO:0051393	2	GO:0005178	integrin binding
+GO:0033882	18	GO:0004518	nuclease activity
+GO:0035250	16	GO:1990404	protein ADP-ribosylase activity
+GO:0047963	16	GO:1990404	protein ADP-ribosylase activity
+GO:0003823	1	GO:0044877	protein-containing complex binding
+GO:0042805	2	GO:0005178	integrin binding
+GO:0052815	18	GO:0004518	nuclease activity
+GO:0052817	18	GO:0004518	nuclease activity
+GO:0097472	15	GO:0004672	protein kinase activity
+GO:0051010	2	GO:0005178	integrin binding
+GO:0008017	2	GO:0005178	integrin binding
+GO:0008316	12	GO:0005319	lipid transporter activity
+GO:0004862	10	GO:0016247	channel regulator activity
+GO:0004099	19	GO:0008233	peptidase activity
+GO:0005171	2	GO:0005178	integrin binding
+GO:0005123	2	GO:0005178	integrin binding
+GO:0016671	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:0051428	2	GO:0005178	integrin binding
+GO:0032813	2	GO:0005178	integrin binding
+GO:0035035	2	GO:0005178	integrin binding
+GO:0055105	10	GO:0016247	channel regulator activity
+GO:0008745	19	GO:0008233	peptidase activity
+GO:0030345	12	GO:0005319	lipid transporter activity
+GO:0061783	13	GO:0016491	oxidoreductase activity
+GO:0008603	10	GO:0016247	channel regulator activity
+GO:0015144	7	GO:0015075	ion transmembrane transporter activity
+GO:0004745	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:0015081	6	GO:0005261	cation channel activity
+GO:0015293	7	GO:0015075	ion transmembrane transporter activity
+GO:0036122	2	GO:0005178	integrin binding
+GO:0015280	6	GO:0005261	cation channel activity
+GO:0008310	18	GO:0004518	nuclease activity
+GO:0016531	4	GO:0005504	fatty acid binding
+GO:0008239	19	GO:0008233	peptidase activity
+GO:0004104	18	GO:0004518	nuclease activity
+GO:0050660	4	GO:0005504	fatty acid binding
+GO:0046906	5	GO:0003676	nucleic acid binding
+GO:0000175	18	GO:0004518	nuclease activity
+GO:0035251	16	GO:1990404	protein ADP-ribosylase activity
+GO:0042943	7	GO:0015075	ion transmembrane transporter activity
+GO:0016896	18	GO:0004518	nuclease activity
+GO:0004532	18	GO:0004518	nuclease activity
+GO:0004447	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:0005021	15	GO:0004672	protein kinase activity
+GO:0015370	6	GO:0005261	cation channel activity
+GO:0015651	7	GO:0015075	ion transmembrane transporter activity
+GO:0003690	5	GO:0003676	nucleic acid binding
+GO:0016863	16	GO:1990404	protein ADP-ribosylase activity
+GO:0008097	5	GO:0003676	nucleic acid binding
+GO:0030544	2	GO:0005178	integrin binding
+GO:0015035	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:0042043	3	GO:0005515	protein binding
+GO:0016667	13	GO:0016491	oxidoreductase activity
+GO:0003696	5	GO:0003676	nucleic acid binding
+GO:0099122	2	GO:0005178	integrin binding
+GO:0015385	6	GO:0005261	cation channel activity
+GO:0015386	6	GO:0005261	cation channel activity
+GO:0004185	19	GO:0008233	peptidase activity
+GO:0004861	10	GO:0016247	channel regulator activity
+GO:0016538	10	GO:0016247	channel regulator activity
+GO:0008237	19	GO:0008233	peptidase activity
+GO:0008527	9	GO:0004888	transmembrane signaling receptor activity
+GO:0034594	18	GO:0004518	nuclease activity
+GO:0015464	9	GO:0004888	transmembrane signaling receptor activity
+GO:0005034	9	GO:0004888	transmembrane signaling receptor activity
+GO:0034485	18	GO:0004518	nuclease activity
+GO:1990760	6	GO:0005261	cation channel activity
+GO:0008157	2	GO:0005178	integrin binding
+GO:0030021	12	GO:0005319	lipid transporter activity
+GO:0052740	18	GO:0004518	nuclease activity
+GO:0052739	18	GO:0004518	nuclease activity
+GO:0008970	18	GO:0004518	nuclease activity
+GO:0032422	5	GO:0003676	nucleic acid binding
+GO:0003688	5	GO:0003676	nucleic acid binding
+GO:0004864	10	GO:0016247	channel regulator activity
+GO:0000993	2	GO:0005178	integrin binding
+GO:0031776	2	GO:0005178	integrin binding
+GO:0031777	2	GO:0005178	integrin binding
+GO:0019902	2	GO:0005178	integrin binding
+GO:0030354	2	GO:0005178	integrin binding
+GO:0005372	7	GO:0015075	ion transmembrane transporter activity
+GO:0045296	2	GO:0005178	integrin binding
+GO:0070403	4	GO:0005504	fatty acid binding
+GO:0000339	5	GO:0003676	nucleic acid binding
+GO:0008800	19	GO:0008233	peptidase activity
+GO:0001761	7	GO:0015075	ion transmembrane transporter activity
+GO:0042329	12	GO:0005319	lipid transporter activity
+GO:0008457	16	GO:1990404	protein ADP-ribosylase activity
+GO:0061659	16	GO:1990404	protein ADP-ribosylase activity
+GO:0034483	16	GO:1990404	protein ADP-ribosylase activity
+GO:0005544	4	GO:0005504	fatty acid binding
+GO:0015605	7	GO:0015075	ion transmembrane transporter activity
+GO:0001786	4	GO:0005504	fatty acid binding
+GO:0019871	10	GO:0016247	channel regulator activity
+GO:0008476	16	GO:1990404	protein ADP-ribosylase activity
+GO:1901363	1	GO:0044877	protein-containing complex binding
+GO:0015269	6	GO:0005261	cation channel activity
+GO:0015250	6	GO:0005261	cation channel activity
+GO:0070853	2	GO:0005178	integrin binding
+GO:0061630	16	GO:1990404	protein ADP-ribosylase activity
+GO:0008574	18	GO:0004518	nuclease activity
+GO:0008521	7	GO:0015075	ion transmembrane transporter activity
+GO:0005161	2	GO:0005178	integrin binding
+GO:0015215	7	GO:0015075	ion transmembrane transporter activity
+GO:0042802	3	GO:0005515	protein binding
+GO:0008545	15	GO:0004672	protein kinase activity
+GO:0015232	7	GO:0015075	ion transmembrane transporter activity
+GO:0004712	15	GO:0004672	protein kinase activity
+GO:0019905	2	GO:0005178	integrin binding
+GO:0016505	10	GO:0016247	channel regulator activity
+GO:0047407	19	GO:0008233	peptidase activity
+GO:1990226	2	GO:0005178	integrin binding
+GO:0042410	16	GO:1990404	protein ADP-ribosylase activity
+GO:0004394	16	GO:1990404	protein ADP-ribosylase activity
+GO:0004709	15	GO:0004672	protein kinase activity
+GO:0043394	3	GO:0005515	protein binding
+GO:0008656	10	GO:0016247	channel regulator activity
+GO:0047035	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:0070097	3	GO:0005515	protein binding
+GO:0047685	16	GO:1990404	protein ADP-ribosylase activity
+GO:0004303	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:0000287	4	GO:0005504	fatty acid binding
+GO:0016608	2	GO:0005178	integrin binding
+GO:0030971	2	GO:0005178	integrin binding
+GO:0042124	16	GO:1990404	protein ADP-ribosylase activity
+GO:0106310	15	GO:0004672	protein kinase activity
+GO:0004803	13	GO:0016491	oxidoreductase activity
+GO:0047256	16	GO:1990404	protein ADP-ribosylase activity
+GO:0140359	18	GO:0004518	nuclease activity
+GO:0032036	2	GO:0005178	integrin binding
+GO:0004567	19	GO:0008233	peptidase activity
+GO:0031768	2	GO:0005178	integrin binding
+GO:0004529	18	GO:0004518	nuclease activity
+GO:0016791	18	GO:0004518	nuclease activity
+GO:0016796	18	GO:0004518	nuclease activity
+GO:0046982	2	GO:0005178	integrin binding
+GO:0004535	18	GO:0004518	nuclease activity
+GO:0004062	16	GO:1990404	protein ADP-ribosylase activity
+GO:0019237	5	GO:0003676	nucleic acid binding
+GO:0004027	16	GO:1990404	protein ADP-ribosylase activity
+GO:0045295	3	GO:0005515	protein binding
+GO:0097159	1	GO:0044877	protein-containing complex binding
+GO:0043183	2	GO:0005178	integrin binding
+GO:0043184	2	GO:0005178	integrin binding
+GO:0004674	15	GO:0004672	protein kinase activity
+GO:0050291	16	GO:1990404	protein ADP-ribosylase activity
+GO:0016895	18	GO:0004518	nuclease activity
+GO:0019784	19	GO:0008233	peptidase activity
+GO:0043130	2	GO:0005178	integrin binding
+GO:0071077	7	GO:0015075	ion transmembrane transporter activity
+GO:0072341	1	GO:0044877	protein-containing complex binding
+GO:0034338	18	GO:0004518	nuclease activity
+GO:0000979	5	GO:0003676	nucleic acid binding
+GO:0052716	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:0097602	3	GO:0005515	protein binding
+GO:0016987	12	GO:0005319	lipid transporter activity
+GO:0033677	18	GO:0004518	nuclease activity
+GO:0008417	16	GO:1990404	protein ADP-ribosylase activity
+GO:0098631	2	GO:0005178	integrin binding
+GO:0042800	16	GO:1990404	protein ADP-ribosylase activity
+GO:0019789	16	GO:1990404	protein ADP-ribosylase activity
+GO:0061809	19	GO:0008233	peptidase activity
+GO:0048019	2	GO:0005178	integrin binding
+GO:0048306	3	GO:0005515	protein binding
+GO:0010485	16	GO:1990404	protein ADP-ribosylase activity
+GO:0003796	19	GO:0008233	peptidase activity
+GO:0017080	10	GO:0016247	channel regulator activity
+GO:0060090	14	GO:0038024	cargo receptor activity
+GO:0003755	19	GO:0008233	peptidase activity
+GO:0050135	19	GO:0008233	peptidase activity
+GO:0008568	19	GO:0008233	peptidase activity
+GO:1990837	5	GO:0003676	nucleic acid binding
+GO:0003746	5	GO:0003676	nucleic acid binding
+GO:0016018	4	GO:0005504	fatty acid binding
+GO:0001067	5	GO:0003676	nucleic acid binding
+GO:0016647	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:0004842	16	GO:1990404	protein ADP-ribosylase activity
+GO:0097747	16	GO:1990404	protein ADP-ribosylase activity
+GO:0034062	16	GO:1990404	protein ADP-ribosylase activity
+GO:0004517	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:0017046	4	GO:0005504	fatty acid binding
+GO:0050693	2	GO:0005178	integrin binding
+GO:0140296	2	GO:0005178	integrin binding
+GO:0097108	3	GO:0005515	protein binding
+GO:0005113	3	GO:0005515	protein binding
+GO:0001091	2	GO:0005178	integrin binding
+GO:0001098	3	GO:0005515	protein binding
+GO:0001099	2	GO:0005178	integrin binding
+GO:0003727	5	GO:0003676	nucleic acid binding
+GO:0030371	12	GO:0005319	lipid transporter activity
+GO:0062037	5	GO:0003676	nucleic acid binding
+GO:0008139	4	GO:0005504	fatty acid binding
+GO:0046966	2	GO:0005178	integrin binding
+GO:0031624	2	GO:0005178	integrin binding
+GO:0044389	2	GO:0005178	integrin binding
+GO:0051787	3	GO:0005515	protein binding
+GO:0004064	18	GO:0004518	nuclease activity
+GO:0004708	15	GO:0004672	protein kinase activity
+GO:0001163	5	GO:0003676	nucleic acid binding
+GO:0001165	5	GO:0003676	nucleic acid binding
+GO:0001181	12	GO:0005319	lipid transporter activity
+GO:0015184	7	GO:0015075	ion transmembrane transporter activity
+GO:0015562	7	GO:0015075	ion transmembrane transporter activity
+GO:0030600	18	GO:0004518	nuclease activity
+GO:0042562	1	GO:0044877	protein-containing complex binding
+GO:0008235	19	GO:0008233	peptidase activity
+GO:0008201	4	GO:0005504	fatty acid binding
+GO:0035925	5	GO:0003676	nucleic acid binding
+GO:0019825	1	GO:0044877	protein-containing complex binding
+GO:0008307	12	GO:0005319	lipid transporter activity
+GO:0030882	1	GO:0044877	protein-containing complex binding
+GO:0004769	16	GO:1990404	protein ADP-ribosylase activity
+GO:0097573	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:0047372	18	GO:0004518	nuclease activity
+GO:0097110	3	GO:0005515	protein binding
+GO:0004336	19	GO:0008233	peptidase activity
+GO:0008028	7	GO:0015075	ion transmembrane transporter activity
+GO:0090482	7	GO:0015075	ion transmembrane transporter activity
+GO:0004090	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:0002020	2	GO:0005178	integrin binding
+GO:0001846	3	GO:0005515	protein binding
+GO:1905573	4	GO:0005504	fatty acid binding
+GO:0030957	2	GO:0005178	integrin binding
+GO:1905574	4	GO:0005504	fatty acid binding
+GO:1905575	4	GO:0005504	fatty acid binding
+GO:1905576	4	GO:0005504	fatty acid binding
+GO:1905577	4	GO:0005504	fatty acid binding
+GO:0070402	4	GO:0005504	fatty acid binding
+GO:0055077	6	GO:0005261	cation channel activity
+GO:0004687	15	GO:0004672	protein kinase activity
+GO:0052689	18	GO:0004518	nuclease activity
+GO:0004620	18	GO:0004518	nuclease activity
+GO:0016298	18	GO:0004518	nuclease activity
+GO:0004950	9	GO:0004888	transmembrane signaling receptor activity
+GO:0030507	2	GO:0005178	integrin binding
+GO:0010436	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:0001540	4	GO:0005504	fatty acid binding
+GO:0061750	18	GO:0004518	nuclease activity
+GO:0008320	7	GO:0015075	ion transmembrane transporter activity
+GO:0005178	2	GO:0005178	integrin binding
+GO:0001637	9	GO:0004888	transmembrane signaling receptor activity
+GO:0030169	4	GO:0005504	fatty acid binding
+GO:0003834	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:0017166	2	GO:0005178	integrin binding
+GO:0022884	7	GO:0015075	ion transmembrane transporter activity
+GO:0051427	3	GO:0005515	protein binding
+GO:0004065	18	GO:0004518	nuclease activity
+GO:0003712	10	GO:0016247	channel regulator activity
+GO:0008188	9	GO:0004888	transmembrane signaling receptor activity
+GO:0008353	15	GO:0004672	protein kinase activity
+GO:0004103	15	GO:0004672	protein kinase activity
+GO:0120160	1	GO:0044877	protein-containing complex binding
+GO:0015926	19	GO:0008233	peptidase activity
+GO:0016798	19	GO:0008233	peptidase activity
+GO:0016799	19	GO:0008233	peptidase activity
+GO:0097604	6	GO:0005261	cation channel activity
+GO:0015278	6	GO:0005261	cation channel activity
+GO:0008134	3	GO:0005515	protein binding
+GO:0140297	2	GO:0005178	integrin binding
+GO:0097493	12	GO:0005319	lipid transporter activity
+GO:0034236	2	GO:0005178	integrin binding
+GO:0030552	4	GO:0005504	fatty acid binding
+GO:0055106	10	GO:0016247	channel regulator activity
+GO:0043992	16	GO:1990404	protein ADP-ribosylase activity
+GO:0048495	3	GO:0005515	protein binding
+GO:1990825	5	GO:0003676	nucleic acid binding
+GO:0099094	6	GO:0005261	cation channel activity
+GO:0004026	16	GO:1990404	protein ADP-ribosylase activity
+GO:0034318	16	GO:1990404	protein ADP-ribosylase activity
+GO:0003899	16	GO:1990404	protein ADP-ribosylase activity
+GO:0016413	16	GO:1990404	protein ADP-ribosylase activity
+GO:0140343	12	GO:0005319	lipid transporter activity
+GO:0030248	4	GO:0005504	fatty acid binding
+GO:0015288	6	GO:0005261	cation channel activity
+GO:0061133	10	GO:0016247	channel regulator activity
+GO:0035594	4	GO:0005504	fatty acid binding
+GO:0003682	1	GO:0044877	protein-containing complex binding
+GO:0046625	1	GO:0044877	protein-containing complex binding
+GO:0055102	10	GO:0016247	channel regulator activity
+GO:0030060	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:0004365	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:0071889	3	GO:0005515	protein binding
+GO:0042605	4	GO:0005504	fatty acid binding
+GO:0043208	4	GO:0005504	fatty acid binding
+GO:0070325	3	GO:0005515	protein binding
+GO:0051287	5	GO:0003676	nucleic acid binding
+GO:0039706	3	GO:0005515	protein binding
+GO:0008009	2	GO:0005178	integrin binding
+GO:0005518	1	GO:0044877	protein-containing complex binding
+GO:0050661	5	GO:0003676	nucleic acid binding
+GO:0042826	2	GO:0005178	integrin binding
+GO:0051018	3	GO:0005515	protein binding
+GO:0005245	6	GO:0005261	cation channel activity
+GO:0004030	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:0050998	2	GO:0005178	integrin binding
+GO:0070330	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:0043021	1	GO:0044877	protein-containing complex binding
+GO:0005524	4	GO:0005504	fatty acid binding
+GO:0004540	18	GO:0004518	nuclease activity
+GO:0004040	19	GO:0008233	peptidase activity
+GO:0005001	18	GO:0004518	nuclease activity
+GO:0097367	1	GO:0044877	protein-containing complex binding
+GO:1901681	1	GO:0044877	protein-containing complex binding
+GO:0016301	15	GO:0004672	protein kinase activity
+GO:0019843	5	GO:0003676	nucleic acid binding
+GO:0004672	15	GO:0004672	protein kinase activity
+GO:0043225	7	GO:0015075	ion transmembrane transporter activity
+GO:0042806	4	GO:0005504	fatty acid binding
+GO:0003988	16	GO:1990404	protein ADP-ribosylase activity
+GO:0032559	4	GO:0005504	fatty acid binding
+GO:0030554	4	GO:0005504	fatty acid binding
+GO:0019198	18	GO:0004518	nuclease activity
+GO:0051219	3	GO:0005515	protein binding
+GO:0004167	16	GO:1990404	protein ADP-ribosylase activity
+GO:0003680	5	GO:0003676	nucleic acid binding
+GO:0016628	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:0140030	3	GO:0005515	protein binding
+GO:0005515	3	GO:0005515	protein binding
+GO:0030275	2	GO:0005178	integrin binding
+GO:0043531	4	GO:0005504	fatty acid binding
+GO:0005174	2	GO:0005178	integrin binding
+GO:0004521	18	GO:0004518	nuclease activity
+GO:0008172	16	GO:1990404	protein ADP-ribosylase activity
+GO:0005119	2	GO:0005178	integrin binding
+GO:0005496	1	GO:0044877	protein-containing complex binding
+GO:0140311	12	GO:0005319	lipid transporter activity
+GO:0016634	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:0005501	4	GO:0005504	fatty acid binding
+GO:0004953	9	GO:0004888	transmembrane signaling receptor activity
+GO:0004954	9	GO:0004888	transmembrane signaling receptor activity
+GO:0004955	9	GO:0004888	transmembrane signaling receptor activity
+GO:0001965	3	GO:0005515	protein binding
+GO:0016615	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:0042056	2	GO:0005178	integrin binding
+GO:0102336	16	GO:1990404	protein ADP-ribosylase activity
+GO:0043548	3	GO:0005515	protein binding
+GO:0015185	7	GO:0015075	ion transmembrane transporter activity
+GO:0004527	18	GO:0004518	nuclease activity
+GO:0016641	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:0089720	2	GO:0005178	integrin binding
+GO:0050700	2	GO:0005178	integrin binding
+GO:0140161	6	GO:0005261	cation channel activity
+GO:0003953	19	GO:0008233	peptidase activity
+GO:0004673	15	GO:0004672	protein kinase activity
+GO:0016493	9	GO:0004888	transmembrane signaling receptor activity
+GO:0070063	2	GO:0005178	integrin binding
+GO:0031406	4	GO:0005504	fatty acid binding
+GO:0043177	1	GO:0044877	protein-containing complex binding
+GO:0008484	18	GO:0004518	nuclease activity
+GO:0004553	19	GO:0008233	peptidase activity
+GO:0097001	4	GO:0005504	fatty acid binding
+GO:0030594	9	GO:0004888	transmembrane signaling receptor activity
+GO:0005253	6	GO:0005261	cation channel activity
+GO:0005254	6	GO:0005261	cation channel activity
+GO:0016813	19	GO:0008233	peptidase activity
+GO:0016805	19	GO:0008233	peptidase activity
+GO:0035198	5	GO:0003676	nucleic acid binding
+GO:0003735	12	GO:0005319	lipid transporter activity
+GO:0008227	9	GO:0004888	transmembrane signaling receptor activity
+GO:0140102	13	GO:0016491	oxidoreductase activity
+GO:0008519	6	GO:0005261	cation channel activity
+GO:0046812	1	GO:0044877	protein-containing complex binding
+GO:0042379	2	GO:0005178	integrin binding
+GO:0061980	5	GO:0003676	nucleic acid binding
+GO:0043176	1	GO:0044877	protein-containing complex binding
+GO:0071813	4	GO:0005504	fatty acid binding
+GO:0071814	1	GO:0044877	protein-containing complex binding
+GO:0046558	19	GO:0008233	peptidase activity
+GO:0005092	10	GO:0016247	channel regulator activity
+GO:0005078	11	GO:0030674	protein-macromolecule adaptor activity
+GO:0001046	5	GO:0003676	nucleic acid binding
+GO:0120014	12	GO:0005319	lipid transporter activity
+GO:0042169	2	GO:0005178	integrin binding
+GO:1990846	10	GO:0016247	channel regulator activity
+GO:0005546	4	GO:0005504	fatty acid binding
+GO:0022832	6	GO:0005261	cation channel activity
+GO:0022836	6	GO:0005261	cation channel activity
+GO:0030215	3	GO:0005515	protein binding
+GO:0099604	6	GO:0005261	cation channel activity
+GO:0005217	6	GO:0005261	cation channel activity
+GO:0005244	6	GO:0005261	cation channel activity
+GO:0015377	6	GO:0005261	cation channel activity
+GO:0070628	1	GO:0044877	protein-containing complex binding
+GO:0004029	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:1901505	7	GO:0015075	ion transmembrane transporter activity
+GO:0015294	6	GO:0005261	cation channel activity
+GO:0032934	4	GO:0005504	fatty acid binding
+GO:0043878	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:0019862	4	GO:0005504	fatty acid binding
+GO:0005095	10	GO:0016247	channel regulator activity
+GO:0051015	2	GO:0005178	integrin binding
+GO:0034057	5	GO:0003676	nucleic acid binding
+GO:0000146	18	GO:0004518	nuclease activity
+GO:0031634	5	GO:0003676	nucleic acid binding
+GO:0070538	4	GO:0005504	fatty acid binding
+GO:0000246	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:0001092	2	GO:0005178	integrin binding
+GO:0032183	2	GO:0005178	integrin binding
+GO:0035438	4	GO:0005504	fatty acid binding
+GO:0045131	5	GO:0003676	nucleic acid binding
+GO:0001671	10	GO:0016247	channel regulator activity
+GO:0035033	10	GO:0016247	channel regulator activity
+GO:0005324	12	GO:0005319	lipid transporter activity
+GO:0004656	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:0003774	18	GO:0004518	nuclease activity
+GO:0005337	7	GO:0015075	ion transmembrane transporter activity
+GO:0003779	2	GO:0005178	integrin binding
+GO:0003711	12	GO:0005319	lipid transporter activity
+GO:0034987	3	GO:0005515	protein binding
+GO:0061507	4	GO:0005504	fatty acid binding
+GO:0032182	3	GO:0005515	protein binding
+GO:0032184	2	GO:0005178	integrin binding
+GO:0008200	10	GO:0016247	channel regulator activity
+GO:0015485	4	GO:0005504	fatty acid binding
+GO:0043178	1	GO:0044877	protein-containing complex binding
+GO:0002039	3	GO:0005515	protein binding
+GO:0033721	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:0004176	19	GO:0008233	peptidase activity
+GO:0033744	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:0051082	3	GO:0005515	protein binding
+GO:0015614	7	GO:0015075	ion transmembrane transporter activity
+GO:0000179	16	GO:1990404	protein ADP-ribosylase activity
+GO:0044183	14	GO:0038024	cargo receptor activity
+GO:0035173	15	GO:0004672	protein kinase activity
+GO:0035174	15	GO:0004672	protein kinase activity
+GO:0140078	16	GO:1990404	protein ADP-ribosylase activity
+GO:0008379	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:0051117	2	GO:0005178	integrin binding
+GO:0050483	18	GO:0004518	nuclease activity
+GO:0016717	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:0004372	16	GO:1990404	protein ADP-ribosylase activity
+GO:0052908	16	GO:1990404	protein ADP-ribosylase activity
+GO:0004300	16	GO:1990404	protein ADP-ribosylase activity
+GO:0001042	2	GO:0005178	integrin binding
+GO:0016837	16	GO:1990404	protein ADP-ribosylase activity
+GO:0030983	5	GO:0003676	nucleic acid binding
+GO:0018024	16	GO:1990404	protein ADP-ribosylase activity
+GO:0004488	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:0035312	18	GO:0004518	nuclease activity
+GO:0004477	18	GO:0004518	nuclease activity
+GO:0071111	18	GO:0004518	nuclease activity
+GO:0019104	19	GO:0008233	peptidase activity
+GO:0008113	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:0070401	4	GO:0005504	fatty acid binding
+GO:0031320	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:0099529	9	GO:0004888	transmembrane signaling receptor activity
+GO:1904315	6	GO:0005261	cation channel activity
+GO:0033218	1	GO:0044877	protein-containing complex binding
+GO:0033764	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:0004402	16	GO:1990404	protein ADP-ribosylase activity
+GO:0005520	2	GO:0005178	integrin binding
+GO:0017124	2	GO:0005178	integrin binding
+GO:0005539	1	GO:0044877	protein-containing complex binding
+GO:0005160	2	GO:0005178	integrin binding
+GO:0004161	16	GO:1990404	protein ADP-ribosylase activity
+GO:0047676	18	GO:0004518	nuclease activity
+GO:0004383	16	GO:1990404	protein ADP-ribosylase activity
+GO:0004311	16	GO:1990404	protein ADP-ribosylase activity
+GO:0004337	16	GO:1990404	protein ADP-ribosylase activity
+GO:0031957	18	GO:0004518	nuclease activity
+GO:0031409	1	GO:0044877	protein-containing complex binding
+GO:0031492	5	GO:0003676	nucleic acid binding
+GO:0016248	10	GO:0016247	channel regulator activity
+GO:0004948	9	GO:0004888	transmembrane signaling receptor activity
+GO:0046848	1	GO:0044877	protein-containing complex binding
+GO:0070573	19	GO:0008233	peptidase activity
+GO:0003831	16	GO:1990404	protein ADP-ribosylase activity
+GO:0030368	9	GO:0004888	transmembrane signaling receptor activity
+GO:0005007	15	GO:0004672	protein kinase activity
+GO:0002046	3	GO:0005515	protein binding
+GO:0070181	5	GO:0003676	nucleic acid binding
+GO:0048027	5	GO:0003676	nucleic acid binding
+GO:0004136	16	GO:1990404	protein ADP-ribosylase activity
+GO:0008296	18	GO:0004518	nuclease activity
+GO:0001882	5	GO:0003676	nucleic acid binding
+GO:0046922	16	GO:1990404	protein ADP-ribosylase activity
+GO:0043495	11	GO:0030674	protein-macromolecule adaptor activity
+GO:0015267	6	GO:0005261	cation channel activity
+GO:0005216	6	GO:0005261	cation channel activity
+GO:0005198	14	GO:0038024	cargo receptor activity
+GO:0070008	19	GO:0008233	peptidase activity
+GO:0008233	19	GO:0008233	peptidase activity
+GO:0016891	18	GO:0004518	nuclease activity
+GO:0016893	18	GO:0004518	nuclease activity
+GO:0043015	2	GO:0005178	integrin binding
+GO:0035034	10	GO:0016247	channel regulator activity
+GO:0030374	10	GO:0016247	channel regulator activity
+GO:1990430	3	GO:0005515	protein binding
+GO:0015171	7	GO:0015075	ion transmembrane transporter activity
+GO:0043175	2	GO:0005178	integrin binding
+GO:0008327	5	GO:0003676	nucleic acid binding
+GO:0004623	18	GO:0004518	nuclease activity
+GO:0004630	18	GO:0004518	nuclease activity
+GO:0070290	18	GO:0004518	nuclease activity
+GO:1990782	2	GO:0005178	integrin binding
+GO:0061733	16	GO:1990404	protein ADP-ribosylase activity
+GO:0003993	18	GO:0004518	nuclease activity
+GO:0034212	16	GO:1990404	protein ADP-ribosylase activity
+GO:0016709	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:0004579	16	GO:1990404	protein ADP-ribosylase activity
+GO:0004348	19	GO:0008233	peptidase activity
+GO:0042974	2	GO:0005178	integrin binding
+GO:0015355	7	GO:0015075	ion transmembrane transporter activity
+GO:0015295	6	GO:0005261	cation channel activity
+GO:0008020	9	GO:0004888	transmembrane signaling receptor activity
+GO:0005118	3	GO:0005515	protein binding
+GO:0034246	12	GO:0005319	lipid transporter activity
+GO:0099583	9	GO:0004888	transmembrane signaling receptor activity
+GO:0099530	9	GO:0004888	transmembrane signaling receptor activity
+GO:0045569	3	GO:0005515	protein binding
+GO:0042285	16	GO:1990404	protein ADP-ribosylase activity
+GO:0015277	6	GO:0005261	cation channel activity
+GO:0035275	1	GO:0044877	protein-containing complex binding
+GO:0015923	19	GO:0008233	peptidase activity
+GO:0050480	19	GO:0008233	peptidase activity
+GO:0022824	6	GO:0005261	cation channel activity
+GO:0022835	6	GO:0005261	cation channel activity
+GO:0004859	10	GO:0016247	channel regulator activity
+GO:0003847	18	GO:0004518	nuclease activity
+GO:0008046	9	GO:0004888	transmembrane signaling receptor activity
+GO:0140312	11	GO:0030674	protein-macromolecule adaptor activity
+GO:0015020	16	GO:1990404	protein ADP-ribosylase activity
+GO:0031593	2	GO:0005178	integrin binding
+GO:0035615	2	GO:0005178	integrin binding
+GO:0015174	7	GO:0015075	ion transmembrane transporter activity
+GO:0015179	7	GO:0015075	ion transmembrane transporter activity
+GO:0022857	7	GO:0015075	ion transmembrane transporter activity
+GO:0004675	15	GO:0004672	protein kinase activity
+GO:0005024	15	GO:0004672	protein kinase activity
+GO:0035804	12	GO:0005319	lipid transporter activity
+GO:0032190	2	GO:0005178	integrin binding
+GO:0102354	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:0046332	3	GO:0005515	protein binding
+GO:0003720	16	GO:1990404	protein ADP-ribosylase activity
+GO:0003721	16	GO:1990404	protein ADP-ribosylase activity
+GO:0008408	18	GO:0004518	nuclease activity
+GO:0043199	4	GO:0005504	fatty acid binding
+GO:1990525	2	GO:0005178	integrin binding
+GO:0051400	2	GO:0005178	integrin binding
+GO:0003729	5	GO:0003676	nucleic acid binding
+GO:0050750	2	GO:0005178	integrin binding
+GO:0044325	3	GO:0005515	protein binding
+GO:0008381	6	GO:0005261	cation channel activity
+GO:0022851	6	GO:0005261	cation channel activity
+GO:0051731	15	GO:0004672	protein kinase activity
+GO:0019840	1	GO:0044877	protein-containing complex binding
+GO:0015279	6	GO:0005261	cation channel activity
+GO:0070679	4	GO:0005504	fatty acid binding
+GO:0008289	1	GO:0044877	protein-containing complex binding
+GO:0015079	6	GO:0005261	cation channel activity
+GO:0140104	14	GO:0038024	cargo receptor activity
+GO:0015453	7	GO:0015075	ion transmembrane transporter activity
+GO:0016722	13	GO:0016491	oxidoreductase activity
+GO:0016832	16	GO:1990404	protein ADP-ribosylase activity
+GO:0030280	12	GO:0005319	lipid transporter activity
+GO:0003810	16	GO:1990404	protein ADP-ribosylase activity
+GO:0003985	16	GO:1990404	protein ADP-ribosylase activity
+GO:0003986	18	GO:0004518	nuclease activity
+GO:0016034	16	GO:1990404	protein ADP-ribosylase activity
+GO:0009374	4	GO:0005504	fatty acid binding
+GO:0016149	5	GO:0003676	nucleic acid binding
+GO:0008613	2	GO:0005178	integrin binding
+GO:0001591	9	GO:0004888	transmembrane signaling receptor activity
+GO:0043886	12	GO:0005319	lipid transporter activity
+GO:0004831	16	GO:1990404	protein ADP-ribosylase activity
+GO:0033897	18	GO:0004518	nuclease activity
+GO:0031749	2	GO:0005178	integrin binding
+GO:0004013	19	GO:0008233	peptidase activity
+GO:0045294	3	GO:0005515	protein binding
+GO:0031386	14	GO:0038024	cargo receptor activity
+GO:0005375	6	GO:0005261	cation channel activity
+GO:0031854	2	GO:0005178	integrin binding
+GO:0003756	16	GO:1990404	protein ADP-ribosylase activity
+GO:0052794	19	GO:0008233	peptidase activity
+GO:0052795	19	GO:0008233	peptidase activity
+GO:0052796	19	GO:0008233	peptidase activity
+GO:0008376	16	GO:1990404	protein ADP-ribosylase activity
+GO:0016864	16	GO:1990404	protein ADP-ribosylase activity
+GO:0019705	16	GO:1990404	protein ADP-ribosylase activity
+GO:0051378	5	GO:0003676	nucleic acid binding
+GO:0004952	9	GO:0004888	transmembrane signaling receptor activity
+GO:0031490	5	GO:0003676	nucleic acid binding
+GO:0022889	7	GO:0015075	ion transmembrane transporter activity
+GO:0016849	13	GO:0016491	oxidoreductase activity
+GO:0004719	16	GO:1990404	protein ADP-ribosylase activity
+GO:0140496	1	GO:0044877	protein-containing complex binding
+GO:0061631	16	GO:1990404	protein ADP-ribosylase activity
+GO:0005262	6	GO:0005261	cation channel activity
+GO:0045028	9	GO:0004888	transmembrane signaling receptor activity
+GO:0015108	7	GO:0015075	ion transmembrane transporter activity
+GO:0008509	7	GO:0015075	ion transmembrane transporter activity
+GO:0016638	13	GO:0016491	oxidoreductase activity
+GO:0140313	14	GO:0038024	cargo receptor activity
+GO:0004549	18	GO:0004518	nuclease activity
+GO:0016892	18	GO:0004518	nuclease activity
+GO:0016894	18	GO:0004518	nuclease activity
+GO:0000213	18	GO:0004518	nuclease activity
+GO:0042626	18	GO:0004518	nuclease activity
+GO:0140223	14	GO:0038024	cargo receptor activity
+GO:0004000	19	GO:0008233	peptidase activity
+GO:0008392	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:0004908	9	GO:0004888	transmembrane signaling receptor activity
+GO:0008526	12	GO:0005319	lipid transporter activity
+GO:0019966	2	GO:0005178	integrin binding
+GO:0033549	19	GO:0008233	peptidase activity
+GO:1990247	5	GO:0003676	nucleic acid binding
+GO:0022803	7	GO:0015075	ion transmembrane transporter activity
+GO:0005516	3	GO:0005515	protein binding
+GO:0019212	10	GO:0016247	channel regulator activity
+GO:0070513	2	GO:0005178	integrin binding
+GO:0015631	2	GO:0005178	integrin binding
+GO:0061629	2	GO:0005178	integrin binding
+GO:0016854	13	GO:0016491	oxidoreductase activity
+GO:0030023	12	GO:0005319	lipid transporter activity
+GO:0008242	19	GO:0008233	peptidase activity
+GO:0042123	13	GO:0016491	oxidoreductase activity
+GO:0072320	6	GO:0005261	cation channel activity
+GO:0051920	13	GO:0016491	oxidoreductase activity
+GO:0010314	4	GO:0005504	fatty acid binding
+GO:0102294	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:0003854	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:0070273	4	GO:0005504	fatty acid binding
+GO:0080025	4	GO:0005504	fatty acid binding
+GO:0032266	4	GO:0005504	fatty acid binding
+GO:1990756	11	GO:0030674	protein-macromolecule adaptor activity
+GO:0043325	4	GO:0005504	fatty acid binding
+GO:0008115	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:0005547	4	GO:0005504	fatty acid binding
+GO:0019215	1	GO:0044877	protein-containing complex binding
+GO:0005427	7	GO:0015075	ion transmembrane transporter activity
+GO:0015322	7	GO:0015075	ion transmembrane transporter activity
+GO:0036313	2	GO:0005178	integrin binding
+GO:0008066	9	GO:0004888	transmembrane signaling receptor activity
+GO:0005523	2	GO:0005178	integrin binding
+GO:0070410	2	GO:0005178	integrin binding
+GO:0030619	5	GO:0003676	nucleic acid binding
+GO:0015296	6	GO:0005261	cation channel activity
+GO:0015018	16	GO:1990404	protein ADP-ribosylase activity
+GO:0004177	19	GO:0008233	peptidase activity
+GO:0005548	12	GO:0005319	lipid transporter activity
+GO:0005215	14	GO:0038024	cargo receptor activity
+GO:0005094	10	GO:0016247	channel regulator activity
+GO:0019834	10	GO:0016247	channel regulator activity
+GO:0004970	6	GO:0005261	cation channel activity
+GO:0001222	2	GO:0005178	integrin binding
+GO:0017025	2	GO:0005178	integrin binding
+GO:0035049	16	GO:1990404	protein ADP-ribosylase activity
+GO:0019838	3	GO:0005515	protein binding
+GO:0019010	16	GO:1990404	protein ADP-ribosylase activity
+GO:0032399	2	GO:0005178	integrin binding
+GO:0016801	19	GO:0008233	peptidase activity
+GO:0016803	19	GO:0008233	peptidase activity
+GO:0042393	3	GO:0005515	protein binding
+GO:0004500	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:0015078	6	GO:0005261	cation channel activity
+GO:0140103	13	GO:0016491	oxidoreductase activity
+GO:0004797	16	GO:1990404	protein ADP-ribosylase activity
+GO:0051213	13	GO:0016491	oxidoreductase activity
+GO:0017040	19	GO:0008233	peptidase activity
+GO:0015038	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:0000774	4	GO:0005504	fatty acid binding
+GO:0030346	2	GO:0005178	integrin binding
+GO:0016251	12	GO:0005319	lipid transporter activity
+GO:0016842	16	GO:1990404	protein ADP-ribosylase activity
+GO:0004865	10	GO:0016247	channel regulator activity
+GO:0004499	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:0102338	16	GO:1990404	protein ADP-ribosylase activity
+GO:0015204	7	GO:0015075	ion transmembrane transporter activity
+GO:0017070	5	GO:0003676	nucleic acid binding
+GO:0015925	19	GO:0008233	peptidase activity
+GO:0061575	10	GO:0016247	channel regulator activity
+GO:0010385	5	GO:0003676	nucleic acid binding
+GO:0098918	12	GO:0005319	lipid transporter activity
+GO:0019888	10	GO:0016247	channel regulator activity
+GO:0005068	2	GO:0005178	integrin binding
+GO:0008375	16	GO:1990404	protein ADP-ribosylase activity
+GO:0005277	7	GO:0015075	ion transmembrane transporter activity
+GO:1990915	12	GO:0005319	lipid transporter activity
+GO:0005328	6	GO:0005261	cation channel activity
+GO:0031072	3	GO:0005515	protein binding
+GO:0035259	2	GO:0005178	integrin binding
+GO:0046965	2	GO:0005178	integrin binding
+GO:0042975	3	GO:0005515	protein binding
+GO:0042809	2	GO:0005178	integrin binding
+GO:0034647	16	GO:1990404	protein ADP-ribosylase activity
+GO:0032453	16	GO:1990404	protein ADP-ribosylase activity
+GO:0031717	2	GO:0005178	integrin binding
+GO:0003951	15	GO:0004672	protein kinase activity
+GO:0019209	10	GO:0016247	channel regulator activity
+GO:0051432	2	GO:0005178	integrin binding
+GO:0051434	2	GO:0005178	integrin binding
+GO:0001601	9	GO:0004888	transmembrane signaling receptor activity
+GO:0001602	9	GO:0004888	transmembrane signaling receptor activity
+GO:0001727	15	GO:0004672	protein kinase activity
+GO:0005080	2	GO:0005178	integrin binding
+GO:0003713	10	GO:0016247	channel regulator activity
+GO:0005000	9	GO:0004888	transmembrane signaling receptor activity
+GO:0045499	2	GO:0005178	integrin binding
+GO:0001851	2	GO:0005178	integrin binding
+GO:0004706	15	GO:0004672	protein kinase activity
+GO:0019900	2	GO:0005178	integrin binding
+GO:0098641	2	GO:0005178	integrin binding
+GO:0031369	3	GO:0005515	protein binding
+GO:0030295	10	GO:0016247	channel regulator activity
+GO:0003874	16	GO:1990404	protein ADP-ribosylase activity
+GO:0016907	9	GO:0004888	transmembrane signaling receptor activity
+GO:1905131	7	GO:0015075	ion transmembrane transporter activity
+GO:1905762	1	GO:0044877	protein-containing complex binding
+GO:0052650	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:1905394	1	GO:0044877	protein-containing complex binding
+GO:1990381	2	GO:0005178	integrin binding
+GO:0048020	2	GO:0005178	integrin binding
+GO:0043110	5	GO:0003676	nucleic acid binding
+GO:0030283	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:0016838	16	GO:1990404	protein ADP-ribosylase activity
+GO:0008821	18	GO:0004518	nuclease activity
+GO:0106332	18	GO:0004518	nuclease activity
+GO:0140096	13	GO:0016491	oxidoreductase activity
+GO:0016670	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:0010484	16	GO:1990404	protein ADP-ribosylase activity
+GO:0004439	18	GO:0004518	nuclease activity
+GO:0070259	18	GO:0004518	nuclease activity
+GO:0008092	3	GO:0005515	protein binding
+GO:0015929	19	GO:0008233	peptidase activity
+GO:0120013	12	GO:0005319	lipid transporter activity
+GO:0015248	12	GO:0005319	lipid transporter activity
+GO:0042301	4	GO:0005504	fatty acid binding
+GO:0016684	13	GO:0016491	oxidoreductase activity
+GO:0008391	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:0016491	13	GO:0016491	oxidoreductase activity
+GO:0016941	9	GO:0004888	transmembrane signaling receptor activity
+GO:0046983	3	GO:0005515	protein binding
+GO:0070996	2	GO:0005178	integrin binding
+GO:0015291	7	GO:0015075	ion transmembrane transporter activity
+GO:0016500	9	GO:0004888	transmembrane signaling receptor activity
+GO:0019200	15	GO:0004672	protein kinase activity
+GO:0000400	5	GO:0003676	nucleic acid binding
+GO:0051087	3	GO:0005515	protein binding
+GO:0008677	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:0019783	19	GO:0008233	peptidase activity
+GO:0016624	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:0016627	13	GO:0016491	oxidoreductase activity
+GO:0016645	13	GO:0016491	oxidoreductase activity
+GO:0031432	2	GO:0005178	integrin binding
+GO:0099528	9	GO:0004888	transmembrane signaling receptor activity
+GO:0030742	3	GO:0005515	protein binding
+GO:0005096	10	GO:0016247	channel regulator activity
+GO:0016780	16	GO:1990404	protein ADP-ribosylase activity
+GO:0016788	19	GO:0008233	peptidase activity
+GO:0120227	4	GO:0005504	fatty acid binding
+GO:0051540	1	GO:0044877	protein-containing complex binding
+GO:0051536	1	GO:0044877	protein-containing complex binding
+GO:0005484	11	GO:0030674	protein-macromolecule adaptor activity
+GO:0008094	18	GO:0004518	nuclease activity
+GO:1901702	7	GO:0015075	ion transmembrane transporter activity
+GO:0015095	6	GO:0005261	cation channel activity
+GO:0005041	12	GO:0005319	lipid transporter activity
+GO:0035673	7	GO:0015075	ion transmembrane transporter activity
+GO:0003743	5	GO:0003676	nucleic acid binding
+GO:0004322	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:0003747	5	GO:0003676	nucleic acid binding
+GO:0035612	1	GO:0044877	protein-containing complex binding
+GO:0015057	9	GO:0004888	transmembrane signaling receptor activity
+GO:0015085	6	GO:0005261	cation channel activity
+GO:0008079	5	GO:0003676	nucleic acid binding
+GO:0016860	13	GO:0016491	oxidoreductase activity
+GO:0016853	13	GO:0016491	oxidoreductase activity
+GO:0016880	16	GO:1990404	protein ADP-ribosylase activity
+GO:0004707	15	GO:0004672	protein kinase activity
+GO:0042781	18	GO:0004518	nuclease activity
+GO:0016829	13	GO:0016491	oxidoreductase activity
+GO:0016810	19	GO:0008233	peptidase activity
+GO:0016811	19	GO:0008233	peptidase activity
+GO:0140299	14	GO:0038024	cargo receptor activity
+GO:0016841	16	GO:1990404	protein ADP-ribosylase activity
+GO:0016835	13	GO:0016491	oxidoreductase activity
+GO:0000340	5	GO:0003676	nucleic acid binding
+GO:0008190	2	GO:0005178	integrin binding
+GO:0008194	16	GO:1990404	protein ADP-ribosylase activity
+GO:0004022	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:0005543	1	GO:0044877	protein-containing complex binding
+GO:0070080	2	GO:0005178	integrin binding
+GO:0008168	16	GO:1990404	protein ADP-ribosylase activity
+GO:0019901	2	GO:0005178	integrin binding
+GO:0004843	19	GO:0008233	peptidase activity
+GO:0101005	19	GO:0008233	peptidase activity
+GO:0051373	2	GO:0005178	integrin binding
+GO:0031769	2	GO:0005178	integrin binding
+GO:1901981	4	GO:0005504	fatty acid binding
+GO:0035091	4	GO:0005504	fatty acid binding
+GO:0051721	2	GO:0005178	integrin binding
+GO:0008147	12	GO:0005319	lipid transporter activity
+GO:0031780	2	GO:0005178	integrin binding
+GO:0031781	2	GO:0005178	integrin binding
+GO:0050656	4	GO:0005504	fatty acid binding
+GO:0031782	2	GO:0005178	integrin binding
+GO:0031783	2	GO:0005178	integrin binding
+GO:0050659	16	GO:1990404	protein ADP-ribosylase activity
+GO:0003997	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:0004198	19	GO:0008233	peptidase activity
+GO:0005109	2	GO:0005178	integrin binding
+GO:0034185	3	GO:0005515	protein binding
+GO:0031690	2	GO:0005178	integrin binding
+GO:0031698	2	GO:0005178	integrin binding
+GO:0008502	9	GO:0004888	transmembrane signaling receptor activity
+GO:0016985	19	GO:0008233	peptidase activity
+GO:0036435	2	GO:0005178	integrin binding
+GO:0030598	19	GO:0008233	peptidase activity
+GO:0016859	13	GO:0016491	oxidoreductase activity
+GO:0003707	9	GO:0004888	transmembrane signaling receptor activity
+GO:0019911	12	GO:0005319	lipid transporter activity
+GO:0102148	19	GO:0008233	peptidase activity
+GO:0005212	12	GO:0005319	lipid transporter activity
+GO:0004860	10	GO:0016247	channel regulator activity
+GO:0030145	4	GO:0005504	fatty acid binding
+GO:0043236	3	GO:0005515	protein binding
+GO:0008241	19	GO:0008233	peptidase activity
+GO:0016702	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:0004721	19	GO:0008233	peptidase activity
+GO:0008199	4	GO:0005504	fatty acid binding
+GO:0032217	7	GO:0015075	ion transmembrane transporter activity
+GO:0015143	7	GO:0015075	ion transmembrane transporter activity
+GO:0016779	16	GO:1990404	protein ADP-ribosylase activity
+GO:1901375	7	GO:0015075	ion transmembrane transporter activity
+GO:0051139	6	GO:0005261	cation channel activity
+GO:0044736	6	GO:0005261	cation channel activity
+GO:0031683	1	GO:0044877	protein-containing complex binding
+GO:0016917	9	GO:0004888	transmembrane signaling receptor activity
+GO:0004767	18	GO:0004518	nuclease activity
+GO:0035197	5	GO:0003676	nucleic acid binding
+GO:0000150	13	GO:0016491	oxidoreductase activity
+GO:0062105	16	GO:1990404	protein ADP-ribosylase activity
+GO:0070287	12	GO:0005319	lipid transporter activity
+GO:0008467	16	GO:1990404	protein ADP-ribosylase activity
+GO:1901474	7	GO:0015075	ion transmembrane transporter activity
+GO:0097642	9	GO:0004888	transmembrane signaling receptor activity
+GO:0008171	16	GO:1990404	protein ADP-ribosylase activity
+GO:0004679	15	GO:0004672	protein kinase activity
+GO:0050833	7	GO:0015075	ion transmembrane transporter activity
+GO:0004768	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:0004690	15	GO:0004672	protein kinase activity
+GO:0015141	7	GO:0015075	ion transmembrane transporter activity
+GO:0015137	7	GO:0015075	ion transmembrane transporter activity
+GO:0016675	13	GO:0016491	oxidoreductase activity
+GO:0015075	7	GO:0015075	ion transmembrane transporter activity
+GO:0004129	6	GO:0005261	cation channel activity
+GO:0070579	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:0019211	10	GO:0016247	channel regulator activity
+GO:0098821	15	GO:0004672	protein kinase activity
+GO:0019208	10	GO:0016247	channel regulator activity
+GO:0004565	19	GO:0008233	peptidase activity
+GO:0004396	15	GO:0004672	protein kinase activity
+GO:0008047	10	GO:0016247	channel regulator activity
+GO:0004340	15	GO:0004672	protein kinase activity
+GO:0019158	15	GO:0004672	protein kinase activity
+GO:0030597	19	GO:0008233	peptidase activity
+GO:0008865	15	GO:0004672	protein kinase activity
+GO:0017116	18	GO:0004518	nuclease activity
+GO:0030228	12	GO:0005319	lipid transporter activity
+GO:0019798	17	GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+GO:0017064	19	GO:0008233	peptidase activity
+GO:0019205	15	GO:0004672	protein kinase activity
+GO:0008489	16	GO:1990404	protein ADP-ribosylase activity
+GO:0047263	16	GO:1990404	protein ADP-ribosylase activity
+GO:0003851	16	GO:1990404	protein ADP-ribosylase activity

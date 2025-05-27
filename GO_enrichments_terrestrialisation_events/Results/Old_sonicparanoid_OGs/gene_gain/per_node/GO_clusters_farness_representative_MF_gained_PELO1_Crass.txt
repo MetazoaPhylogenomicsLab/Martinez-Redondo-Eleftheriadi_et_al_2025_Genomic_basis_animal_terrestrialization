@@ -1,0 +1,28 @@
+GO:0140110	1	GO:0140110	transcription regulator activity
+GO:0003712	1	GO:0140110	transcription regulator activity
+GO:0003714	1	GO:0140110	transcription regulator activity
+GO:0030246	4	GO:0005515	protein binding
+GO:0030247	4	GO:0005515	protein binding
+GO:0005515	4	GO:0005515	protein binding
+GO:0005516	4	GO:0005515	protein binding
+GO:0019887	2	GO:0030295	protein kinase activator activity
+GO:0030371	1	GO:0140110	transcription regulator activity
+GO:1990226	4	GO:0005515	protein binding
+GO:0001664	3	GO:0001664	G protein-coupled receptor binding
+GO:0005184	3	GO:0001664	G protein-coupled receptor binding
+GO:0005179	3	GO:0001664	G protein-coupled receptor binding
+GO:0004517	1	GO:0140110	transcription regulator activity
+GO:0008200	1	GO:0140110	transcription regulator activity
+GO:0030295	2	GO:0030295	protein kinase activator activity
+GO:0070840	4	GO:0005515	protein binding
+GO:0048018	3	GO:0001664	G protein-coupled receptor binding
+GO:0042974	3	GO:0001664	G protein-coupled receptor binding
+GO:0048306	4	GO:0005515	protein binding
+GO:0140030	4	GO:0005515	protein binding
+GO:0016248	1	GO:0140110	transcription regulator activity
+GO:0019207	2	GO:0030295	protein kinase activator activity
+GO:0019209	2	GO:0030295	protein kinase activator activity
+GO:0001848	4	GO:0005515	protein binding
+GO:0050699	4	GO:0005515	protein binding
+GO:0043539	2	GO:0030295	protein kinase activator activity
+GO:0071855	3	GO:0001664	G protein-coupled receptor binding

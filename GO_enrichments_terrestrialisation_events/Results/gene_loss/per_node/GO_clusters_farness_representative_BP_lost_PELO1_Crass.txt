@@ -1,0 +1,145 @@
+GO:0075713	7	GO:0044826	viral genome integration into host DNA
+GO:0075732	7	GO:0044826	viral genome integration into host DNA
+GO:0009408	10	GO:0033555	multicellular organismal response to stress
+GO:2001238	9	GO:0036462	TRAIL-activated apoptotic signaling pathway
+GO:0090305	4	GO:0006310	DNA recombination
+GO:0045666	8	GO:0040028	regulation of vulval development
+GO:1900015	6	GO:0032652	regulation of interleukin-1 production
+GO:1901666	12	GO:0019835	cytolysis
+GO:0009110	1	GO:2000646	positive regulation of receptor catabolic process
+GO:0003009	12	GO:0019835	cytolysis
+GO:0019835	12	GO:0019835	cytolysis
+GO:0070197	5	GO:0090220	chromosome localization to nuclear envelope involved in homologous chromosome segregation
+GO:0006995	10	GO:0033555	multicellular organismal response to stress
+GO:0090220	5	GO:0090220	chromosome localization to nuclear envelope involved in homologous chromosome segregation
+GO:0006963	1	GO:2000646	positive regulation of receptor catabolic process
+GO:0034377	12	GO:0019835	cytolysis
+GO:0006953	10	GO:0033555	multicellular organismal response to stress
+GO:0006954	10	GO:0033555	multicellular organismal response to stress
+GO:0039592	12	GO:0019835	cytolysis
+GO:0006919	1	GO:2000646	positive regulation of receptor catabolic process
+GO:0060251	8	GO:0040028	regulation of vulval development
+GO:0000722	4	GO:0006310	DNA recombination
+GO:0070227	9	GO:0036462	TRAIL-activated apoptotic signaling pathway
+GO:0070228	9	GO:0036462	TRAIL-activated apoptotic signaling pathway
+GO:0009566	12	GO:0019835	cytolysis
+GO:0051092	3	GO:0032210	regulation of telomere maintenance via telomerase
+GO:0044406	7	GO:0044826	viral genome integration into host DNA
+GO:0039644	1	GO:2000646	positive regulation of receptor catabolic process
+GO:0061097	2	GO:0018108	peptidyl-tyrosine phosphorylation
+GO:0050730	2	GO:0018108	peptidyl-tyrosine phosphorylation
+GO:0010508	1	GO:2000646	positive regulation of receptor catabolic process
+GO:0061057	9	GO:0036462	TRAIL-activated apoptotic signaling pathway
+GO:0042368	1	GO:2000646	positive regulation of receptor catabolic process
+GO:0042359	1	GO:2000646	positive regulation of receptor catabolic process
+GO:0030656	1	GO:2000646	positive regulation of receptor catabolic process
+GO:1903046	5	GO:0090220	chromosome localization to nuclear envelope involved in homologous chromosome segregation
+GO:0090502	4	GO:0006310	DNA recombination
+GO:0043123	9	GO:0036462	TRAIL-activated apoptotic signaling pathway
+GO:0007014	2	GO:0018108	peptidyl-tyrosine phosphorylation
+GO:0007004	3	GO:0032210	regulation of telomere maintenance via telomerase
+GO:0060556	1	GO:2000646	positive regulation of receptor catabolic process
+GO:0044790	7	GO:0044826	viral genome integration into host DNA
+GO:0044794	7	GO:0044826	viral genome integration into host DNA
+GO:0070525	4	GO:0006310	DNA recombination
+GO:0015074	4	GO:0006310	DNA recombination
+GO:1904355	3	GO:0032210	regulation of telomere maintenance via telomerase
+GO:1904356	3	GO:0032210	regulation of telomere maintenance via telomerase
+GO:1904358	3	GO:0032210	regulation of telomere maintenance via telomerase
+GO:0140527	4	GO:0006310	DNA recombination
+GO:1901046	12	GO:0019835	cytolysis
+GO:0070672	10	GO:0033555	multicellular organismal response to stress
+GO:0051321	5	GO:0090220	chromosome localization to nuclear envelope involved in homologous chromosome segregation
+GO:0010994	12	GO:0019835	cytolysis
+GO:0071350	10	GO:0033555	multicellular organismal response to stress
+GO:0032210	3	GO:0032210	regulation of telomere maintenance via telomerase
+GO:0032212	3	GO:0032210	regulation of telomere maintenance via telomerase
+GO:0044821	5	GO:0090220	chromosome localization to nuclear envelope involved in homologous chromosome segregation
+GO:0044826	7	GO:0044826	viral genome integration into host DNA
+GO:0031145	1	GO:2000646	positive regulation of receptor catabolic process
+GO:2000174	8	GO:0040028	regulation of vulval development
+GO:2000176	8	GO:0040028	regulation of vulval development
+GO:2000106	9	GO:0036462	TRAIL-activated apoptotic signaling pathway
+GO:0007365	8	GO:0040028	regulation of vulval development
+GO:0032755	6	GO:0032652	regulation of interleukin-1 production
+GO:0007367	8	GO:0040028	regulation of vulval development
+GO:0032757	6	GO:0032652	regulation of interleukin-1 production
+GO:0018119	2	GO:0018108	peptidyl-tyrosine phosphorylation
+GO:0038166	9	GO:0036462	TRAIL-activated apoptotic signaling pathway
+GO:0051444	2	GO:0018108	peptidyl-tyrosine phosphorylation
+GO:0048168	9	GO:0036462	TRAIL-activated apoptotic signaling pathway
+GO:0002230	10	GO:0033555	multicellular organismal response to stress
+GO:0071480	10	GO:0033555	multicellular organismal response to stress
+GO:0018108	2	GO:0018108	peptidyl-tyrosine phosphorylation
+GO:0007342	12	GO:0019835	cytolysis
+GO:0007338	12	GO:0019835	cytolysis
+GO:0048147	9	GO:0036462	TRAIL-activated apoptotic signaling pathway
+GO:0032897	7	GO:0044826	viral genome integration into host DNA
+GO:0033555	10	GO:0033555	multicellular organismal response to stress
+GO:0018212	2	GO:0018108	peptidyl-tyrosine phosphorylation
+GO:0044650	7	GO:0044826	viral genome integration into host DNA
+GO:0033522	2	GO:0018108	peptidyl-tyrosine phosphorylation
+GO:0033523	2	GO:0018108	peptidyl-tyrosine phosphorylation
+GO:0036462	9	GO:0036462	TRAIL-activated apoptotic signaling pathway
+GO:0006310	4	GO:0006310	DNA recombination
+GO:0006312	4	GO:0006310	DNA recombination
+GO:0034605	10	GO:0033555	multicellular organismal response to stress
+GO:0050951	12	GO:0019835	cytolysis
+GO:0002708	12	GO:0019835	cytolysis
+GO:0050974	10	GO:0033555	multicellular organismal response to stress
+GO:0050914	12	GO:0019835	cytolysis
+GO:0042595	10	GO:0033555	multicellular organismal response to stress
+GO:2001034	3	GO:0032210	regulation of telomere maintenance via telomerase
+GO:0019062	7	GO:0044826	viral genome integration into host DNA
+GO:0007176	2	GO:0018108	peptidyl-tyrosine phosphorylation
+GO:0070936	2	GO:0018108	peptidyl-tyrosine phosphorylation
+GO:0007127	5	GO:0090220	chromosome localization to nuclear envelope involved in homologous chromosome segregation
+GO:0007129	5	GO:0090220	chromosome localization to nuclear envelope involved in homologous chromosome segregation
+GO:0007131	5	GO:0090220	chromosome localization to nuclear envelope involved in homologous chromosome segregation
+GO:1903265	9	GO:0036462	TRAIL-activated apoptotic signaling pathway
+GO:1902173	9	GO:0036462	TRAIL-activated apoptotic signaling pathway
+GO:0001894	12	GO:0019835	cytolysis
+GO:0032691	6	GO:0032652	regulation of interleukin-1 production
+GO:0032692	6	GO:0032652	regulation of interleukin-1 production
+GO:0045444	8	GO:0040028	regulation of vulval development
+GO:1904747	9	GO:0036462	TRAIL-activated apoptotic signaling pathway
+GO:1904748	9	GO:0036462	TRAIL-activated apoptotic signaling pathway
+GO:0007291	8	GO:0040028	regulation of vulval development
+GO:0032652	6	GO:0032652	regulation of interleukin-1 production
+GO:0002572	8	GO:0040028	regulation of vulval development
+GO:0035199	10	GO:0033555	multicellular organismal response to stress
+GO:0032612	6	GO:0032652	regulation of interleukin-1 production
+GO:2000573	3	GO:0032210	regulation of telomere maintenance via telomerase
+GO:0097240	5	GO:0090220	chromosome localization to nuclear envelope involved in homologous chromosome segregation
+GO:0045141	5	GO:0090220	chromosome localization to nuclear envelope involved in homologous chromosome segregation
+GO:1902230	9	GO:0036462	TRAIL-activated apoptotic signaling pathway
+GO:0071897	3	GO:0032210	regulation of telomere maintenance via telomerase
+GO:0040025	8	GO:0040028	regulation of vulval development
+GO:0040028	8	GO:0040028	regulation of vulval development
+GO:0006278	3	GO:0032210	regulation of telomere maintenance via telomerase
+GO:0071887	9	GO:0036462	TRAIL-activated apoptotic signaling pathway
+GO:0031649	12	GO:0019835	cytolysis
+GO:0040003	8	GO:0040028	regulation of vulval development
+GO:1903883	9	GO:0036462	TRAIL-activated apoptotic signaling pathway
+GO:1903886	6	GO:0032652	regulation of interleukin-1 production
+GO:2000646	1	GO:2000646	positive regulation of receptor catabolic process
+GO:0046716	12	GO:0019835	cytolysis
+GO:0046718	7	GO:0044826	viral genome integration into host DNA
+GO:0048538	8	GO:0040028	regulation of vulval development
+GO:0001660	10	GO:0033555	multicellular organismal response to stress
+GO:0035723	9	GO:0036462	TRAIL-activated apoptotic signaling pathway
+GO:0046813	7	GO:0044826	viral genome integration into host DNA
+GO:0045736	2	GO:0018108	peptidyl-tyrosine phosphorylation
+GO:1902806	12	GO:0019835	cytolysis
+GO:0035865	10	GO:0033555	multicellular organismal response to stress
+GO:0035825	4	GO:0006310	DNA recombination
+GO:0010375	8	GO:0040028	regulation of vulval development
+GO:0071630	1	GO:2000646	positive regulation of receptor catabolic process
+GO:0006809	1	GO:2000646	positive regulation of receptor catabolic process
+GO:0140013	5	GO:0090220	chromosome localization to nuclear envelope involved in homologous chromosome segregation
+GO:0035561	12	GO:0019835	cytolysis
+GO:0035563	12	GO:0019835	cytolysis
+GO:0002949	4	GO:0006310	DNA recombination
+GO:0007638	10	GO:0033555	multicellular organismal response to stress
+GO:0045580	8	GO:0040028	regulation of vulval development
+GO:0009411	10	GO:0033555	multicellular organismal response to stress

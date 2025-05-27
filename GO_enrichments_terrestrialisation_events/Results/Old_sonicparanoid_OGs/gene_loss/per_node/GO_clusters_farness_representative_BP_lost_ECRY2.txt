@@ -1,0 +1,324 @@
+GO:1900246	13	GO:0002230	positive regulation of defense response to virus by host
+GO:1902083	11	GO:2000646	positive regulation of receptor catabolic process
+GO:0043065	12	GO:0010528	regulation of transposition
+GO:0043068	12	GO:0010528	regulation of transposition
+GO:2001034	11	GO:2000646	positive regulation of receptor catabolic process
+GO:0010975	3	GO:0031102	neuron projection regeneration
+GO:0010976	3	GO:0031102	neuron projection regeneration
+GO:0010923	11	GO:2000646	positive regulation of receptor catabolic process
+GO:0010942	12	GO:0010528	regulation of transposition
+GO:0003012	15	GO:0014894	response to denervation involved in regulation of muscle adaptation
+GO:0003018	15	GO:0014894	response to denervation involved in regulation of muscle adaptation
+GO:0003002	2	GO:0031016	pancreas development
+GO:0032774	1	GO:0032774	RNA biosynthetic process
+GO:0007317	6	GO:0042078	germ-line stem cell division
+GO:0021987	2	GO:0031016	pancreas development
+GO:0035148	2	GO:0031016	pancreas development
+GO:0030900	2	GO:0031016	pancreas development
+GO:0032733	11	GO:2000646	positive regulation of receptor catabolic process
+GO:1904600	7	GO:2000689	actomyosin contractile ring assembly actin filament organization
+GO:0031382	6	GO:0042078	germ-line stem cell division
+GO:0001960	9	GO:0007166	cell surface receptor signaling pathway
+GO:0001952	12	GO:0010528	regulation of transposition
+GO:0001954	12	GO:0010528	regulation of transposition
+GO:0035222	2	GO:0031016	pancreas development
+GO:0007411	3	GO:0031102	neuron projection regeneration
+GO:0035212	4	GO:0014016	neuroblast differentiation
+GO:0050982	15	GO:0014894	response to denervation involved in regulation of muscle adaptation
+GO:0007413	3	GO:0031102	neuron projection regeneration
+GO:0050974	15	GO:0014894	response to denervation involved in regulation of muscle adaptation
+GO:0007447	2	GO:0031016	pancreas development
+GO:0048538	2	GO:0031016	pancreas development
+GO:0050922	13	GO:0002230	positive regulation of defense response to virus by host
+GO:0032816	12	GO:0010528	regulation of transposition
+GO:0050911	15	GO:0014894	response to denervation involved in regulation of muscle adaptation
+GO:0039573	13	GO:0002230	positive regulation of defense response to virus by host
+GO:0070986	2	GO:0031016	pancreas development
+GO:0048690	3	GO:0031102	neuron projection regeneration
+GO:0048691	3	GO:0031102	neuron projection regeneration
+GO:0070918	11	GO:2000646	positive regulation of receptor catabolic process
+GO:0050907	15	GO:0014894	response to denervation involved in regulation of muscle adaptation
+GO:0050909	15	GO:0014894	response to denervation involved in regulation of muscle adaptation
+GO:0048666	4	GO:0014016	neuroblast differentiation
+GO:0007160	8	GO:0007155	cell adhesion
+GO:0007166	9	GO:0007166	cell surface receptor signaling pathway
+GO:0060339	13	GO:0002230	positive regulation of defense response to virus by host
+GO:0039502	13	GO:0002230	positive regulation of defense response to virus by host
+GO:0007155	8	GO:0007155	cell adhesion
+GO:0007156	8	GO:0007155	cell adhesion
+GO:0007157	8	GO:0007155	cell adhesion
+GO:0048681	3	GO:0031102	neuron projection regeneration
+GO:0048687	3	GO:0031102	neuron projection regeneration
+GO:0048678	15	GO:0014894	response to denervation involved in regulation of muscle adaptation
+GO:0048679	3	GO:0031102	neuron projection regeneration
+GO:0039693	5	GO:0019058	viral life cycle
+GO:0039696	5	GO:0019058	viral life cycle
+GO:0039697	5	GO:0019058	viral life cycle
+GO:0007112	6	GO:0042078	germ-line stem cell division
+GO:0043330	15	GO:0014894	response to denervation involved in regulation of muscle adaptation
+GO:0039686	5	GO:0019058	viral life cycle
+GO:0039689	5	GO:0019058	viral life cycle
+GO:0051304	8	GO:0007155	cell adhesion
+GO:0051306	7	GO:2000689	actomyosin contractile ring assembly actin filament organization
+GO:0007107	7	GO:2000689	actomyosin contractile ring assembly actin filament organization
+GO:0051308	6	GO:0042078	germ-line stem cell division
+GO:0038007	9	GO:0007166	cell surface receptor signaling pathway
+GO:0000165	9	GO:0007166	cell surface receptor signaling pathway
+GO:0008625	9	GO:0007166	cell surface receptor signaling pathway
+GO:0031128	2	GO:0031016	pancreas development
+GO:0031110	7	GO:2000689	actomyosin contractile ring assembly actin filament organization
+GO:0031111	7	GO:2000689	actomyosin contractile ring assembly actin filament organization
+GO:0031113	7	GO:2000689	actomyosin contractile ring assembly actin filament organization
+GO:0000122	1	GO:0032774	RNA biosynthetic process
+GO:0007254	9	GO:0007166	cell surface receptor signaling pathway
+GO:0007259	9	GO:0007166	cell surface receptor signaling pathway
+GO:0007288	6	GO:0042078	germ-line stem cell division
+GO:0000132	7	GO:2000689	actomyosin contractile ring assembly actin filament organization
+GO:0032653	11	GO:2000646	positive regulation of receptor catabolic process
+GO:0086001	15	GO:0014894	response to denervation involved in regulation of muscle adaptation
+GO:0031102	3	GO:0031102	neuron projection regeneration
+GO:0031103	3	GO:0031102	neuron projection regeneration
+GO:0031109	7	GO:2000689	actomyosin contractile ring assembly actin filament organization
+GO:0007210	9	GO:0007166	cell surface receptor signaling pathway
+GO:0035845	3	GO:0031102	neuron projection regeneration
+GO:1904937	4	GO:0014016	neuroblast differentiation
+GO:0032613	15	GO:0014894	response to denervation involved in regulation of muscle adaptation
+GO:0032649	11	GO:2000646	positive regulation of receptor catabolic process
+GO:0043403	2	GO:0031016	pancreas development
+GO:0042078	6	GO:0042078	germ-line stem cell division
+GO:0032609	15	GO:0014894	response to denervation involved in regulation of muscle adaptation
+GO:0002093	2	GO:0031016	pancreas development
+GO:0003413	2	GO:0031016	pancreas development
+GO:0003418	2	GO:0031016	pancreas development
+GO:2001141	1	GO:0032774	RNA biosynthetic process
+GO:0003431	2	GO:0031016	pancreas development
+GO:0003433	2	GO:0031016	pancreas development
+GO:1903506	1	GO:0032774	RNA biosynthetic process
+GO:0002089	2	GO:0031016	pancreas development
+GO:0002027	15	GO:0014894	response to denervation involved in regulation of muscle adaptation
+GO:0014067	9	GO:0007166	cell surface receptor signaling pathway
+GO:0006351	1	GO:0032774	RNA biosynthetic process
+GO:0006355	1	GO:0032774	RNA biosynthetic process
+GO:0006357	1	GO:0032774	RNA biosynthetic process
+GO:0014013	4	GO:0014016	neuroblast differentiation
+GO:0014015	4	GO:0014016	neuroblast differentiation
+GO:0014016	4	GO:0014016	neuroblast differentiation
+GO:0060271	7	GO:2000689	actomyosin contractile ring assembly actin filament organization
+GO:0000753	6	GO:0042078	germ-line stem cell division
+GO:1905458	4	GO:0014016	neuroblast differentiation
+GO:2001222	4	GO:0014016	neuroblast differentiation
+GO:1905483	4	GO:0014016	neuroblast differentiation
+GO:2001224	4	GO:0014016	neuroblast differentiation
+GO:1905485	4	GO:0014016	neuroblast differentiation
+GO:1905489	3	GO:0031102	neuron projection regeneration
+GO:0006301	1	GO:0032774	RNA biosynthetic process
+GO:2001238	9	GO:0007166	cell surface receptor signaling pathway
+GO:0000731	1	GO:0032774	RNA biosynthetic process
+GO:0046425	9	GO:0007166	cell surface receptor signaling pathway
+GO:0019985	1	GO:0032774	RNA biosynthetic process
+GO:0035633	15	GO:0014894	response to denervation involved in regulation of muscle adaptation
+GO:0007597	15	GO:0014894	response to denervation involved in regulation of muscle adaptation
+GO:0007526	2	GO:0031016	pancreas development
+GO:0007519	2	GO:0031016	pancreas development
+GO:0031589	8	GO:0007155	cell adhesion
+GO:0042310	15	GO:0014894	response to denervation involved in regulation of muscle adaptation
+GO:0000578	2	GO:0031016	pancreas development
+GO:0010085	2	GO:0031016	pancreas development
+GO:0071897	1	GO:0032774	RNA biosynthetic process
+GO:0002313	2	GO:0031016	pancreas development
+GO:0034391	12	GO:0010528	regulation of transposition
+GO:0031663	9	GO:0007166	cell surface receptor signaling pathway
+GO:1903975	4	GO:0014016	neuroblast differentiation
+GO:0007606	15	GO:0014894	response to denervation involved in regulation of muscle adaptation
+GO:1903977	4	GO:0014016	neuroblast differentiation
+GO:0007608	15	GO:0014894	response to denervation involved in regulation of muscle adaptation
+GO:0009414	15	GO:0014894	response to denervation involved in regulation of muscle adaptation
+GO:0009415	15	GO:0014894	response to denervation involved in regulation of muscle adaptation
+GO:0006278	1	GO:0032774	RNA biosynthetic process
+GO:0042472	2	GO:0031016	pancreas development
+GO:0035994	15	GO:0014894	response to denervation involved in regulation of muscle adaptation
+GO:0031646	15	GO:0014894	response to denervation involved in regulation of muscle adaptation
+GO:0031648	15	GO:0014894	response to denervation involved in regulation of muscle adaptation
+GO:0060537	2	GO:0031016	pancreas development
+GO:0060538	2	GO:0031016	pancreas development
+GO:0097009	15	GO:0014894	response to denervation involved in regulation of muscle adaptation
+GO:0046785	7	GO:2000689	actomyosin contractile ring assembly actin filament organization
+GO:0002460	15	GO:0014894	response to denervation involved in regulation of muscle adaptation
+GO:0043550	11	GO:2000646	positive regulation of receptor catabolic process
+GO:0043551	11	GO:2000646	positive regulation of receptor catabolic process
+GO:0002456	15	GO:0014894	response to denervation involved in regulation of muscle adaptation
+GO:0090085	11	GO:2000646	positive regulation of receptor catabolic process
+GO:0046718	5	GO:0019058	viral life cycle
+GO:0071562	7	GO:2000689	actomyosin contractile ring assembly actin filament organization
+GO:2000055	9	GO:0007166	cell surface receptor signaling pathway
+GO:1901186	9	GO:0007166	cell surface receptor signaling pathway
+GO:0071520	7	GO:2000689	actomyosin contractile ring assembly actin filament organization
+GO:2000042	11	GO:2000646	positive regulation of receptor catabolic process
+GO:0002164	2	GO:0031016	pancreas development
+GO:0009299	1	GO:0032774	RNA biosynthetic process
+GO:1902615	15	GO:0014894	response to denervation involved in regulation of muscle adaptation
+GO:0043622	7	GO:2000689	actomyosin contractile ring assembly actin filament organization
+GO:0110077	8	GO:0007155	cell adhesion
+GO:0061057	9	GO:0007166	cell surface receptor signaling pathway
+GO:0061058	9	GO:0007166	cell surface receptor signaling pathway
+GO:0061059	9	GO:0007166	cell surface receptor signaling pathway
+GO:0051607	13	GO:0002230	positive regulation of defense response to virus by host
+GO:0033003	12	GO:0010528	regulation of transposition
+GO:0033005	12	GO:0010528	regulation of transposition
+GO:1905522	10	GO:0002686	negative regulation of leukocyte migration
+GO:1905515	7	GO:2000689	actomyosin contractile ring assembly actin filament organization
+GO:0098724	8	GO:0007155	cell adhesion
+GO:0010375	2	GO:0031016	pancreas development
+GO:0098725	8	GO:0007155	cell adhesion
+GO:0098729	6	GO:0042078	germ-line stem cell division
+GO:0098730	6	GO:0042078	germ-line stem cell division
+GO:0002230	13	GO:0002230	positive regulation of defense response to virus by host
+GO:0097374	3	GO:0031102	neuron projection regeneration
+GO:0034260	12	GO:0010528	regulation of transposition
+GO:0042789	1	GO:0032774	RNA biosynthetic process
+GO:0010496	8	GO:0007155	cell adhesion
+GO:1905666	12	GO:0010528	regulation of transposition
+GO:0010497	8	GO:0007155	cell adhesion
+GO:0036090	7	GO:2000689	actomyosin contractile ring assembly actin filament organization
+GO:1905668	12	GO:0010528	regulation of transposition
+GO:1904037	12	GO:0010528	regulation of transposition
+GO:0098868	2	GO:0031016	pancreas development
+GO:0042730	13	GO:0002230	positive regulation of defense response to virus by host
+GO:0010453	12	GO:0010528	regulation of transposition
+GO:0002780	13	GO:0002230	positive regulation of defense response to virus by host
+GO:0002786	13	GO:0002230	positive regulation of defense response to virus by host
+GO:0002711	13	GO:0002230	positive regulation of defense response to virus by host
+GO:0009880	2	GO:0031016	pancreas development
+GO:2000379	11	GO:2000646	positive regulation of receptor catabolic process
+GO:0062208	9	GO:0007166	cell surface receptor signaling pathway
+GO:0097475	4	GO:0014016	neuroblast differentiation
+GO:0045213	11	GO:2000646	positive regulation of receptor catabolic process
+GO:0002706	13	GO:0002230	positive regulation of defense response to virus by host
+GO:0002709	13	GO:0002230	positive regulation of defense response to virus by host
+GO:0090305	1	GO:0032774	RNA biosynthetic process
+GO:0097435	7	GO:2000689	actomyosin contractile ring assembly actin filament organization
+GO:1902965	12	GO:0010528	regulation of transposition
+GO:1902966	12	GO:0010528	regulation of transposition
+GO:0070373	9	GO:0007166	cell surface receptor signaling pathway
+GO:0051984	12	GO:0010528	regulation of transposition
+GO:0009597	15	GO:0014894	response to denervation involved in regulation of muscle adaptation
+GO:0014894	15	GO:0014894	response to denervation involved in regulation of muscle adaptation
+GO:0043922	5	GO:0019058	viral life cycle
+GO:0043923	5	GO:0019058	viral life cycle
+GO:0002821	13	GO:0002230	positive regulation of defense response to virus by host
+GO:0002822	13	GO:0002230	positive regulation of defense response to virus by host
+GO:0002824	13	GO:0002230	positive regulation of defense response to virus by host
+GO:0042595	15	GO:0014894	response to denervation involved in regulation of muscle adaptation
+GO:0090426	7	GO:2000689	actomyosin contractile ring assembly actin filament organization
+GO:0051931	15	GO:0014894	response to denervation involved in regulation of muscle adaptation
+GO:0030178	9	GO:0007166	cell surface receptor signaling pathway
+GO:0002832	13	GO:0002230	positive regulation of defense response to virus by host
+GO:0045785	12	GO:0010528	regulation of transposition
+GO:0070306	2	GO:0031016	pancreas development
+GO:0070307	2	GO:0031016	pancreas development
+GO:0019064	5	GO:0019058	viral life cycle
+GO:0014820	15	GO:0014894	response to denervation involved in regulation of muscle adaptation
+GO:0045723	11	GO:2000646	positive regulation of receptor catabolic process
+GO:0019058	5	GO:0019058	viral life cycle
+GO:0002803	13	GO:0002230	positive regulation of defense response to virus by host
+GO:0002807	11	GO:2000646	positive regulation of receptor catabolic process
+GO:0002808	13	GO:0002230	positive regulation of defense response to virus by host
+GO:0045742	9	GO:0007166	cell surface receptor signaling pathway
+GO:0045746	9	GO:0007166	cell surface receptor signaling pathway
+GO:0019073	5	GO:0019058	viral life cycle
+GO:0019079	5	GO:0019058	viral life cycle
+GO:0019046	5	GO:0019058	viral life cycle
+GO:0008063	9	GO:0007166	cell surface receptor signaling pathway
+GO:0008065	2	GO:0031016	pancreas development
+GO:0098670	5	GO:0019058	viral life cycle
+GO:0098671	5	GO:0019058	viral life cycle
+GO:0045892	1	GO:0032774	RNA biosynthetic process
+GO:1900016	11	GO:2000646	positive regulation of receptor catabolic process
+GO:0008038	4	GO:0014016	neuroblast differentiation
+GO:0042659	12	GO:0010528	regulation of transposition
+GO:0045824	13	GO:0002230	positive regulation of defense response to virus by host
+GO:0009611	15	GO:0014894	response to denervation involved in regulation of muscle adaptation
+GO:0070197	7	GO:2000689	actomyosin contractile ring assembly actin filament organization
+GO:0034585	1	GO:0032774	RNA biosynthetic process
+GO:0010760	10	GO:0002686	negative regulation of leukocyte migration
+GO:0010764	10	GO:0002686	negative regulation of leukocyte migration
+GO:0010758	10	GO:0002686	negative regulation of leukocyte migration
+GO:1905941	2	GO:0031016	pancreas development
+GO:0070121	2	GO:0031016	pancreas development
+GO:0002683	13	GO:0002230	positive regulation of defense response to virus by host
+GO:0002686	10	GO:0002686	negative regulation of leukocyte migration
+GO:0002689	10	GO:0002686	negative regulation of leukocyte migration
+GO:0099004	9	GO:0007166	cell surface receptor signaling pathway
+GO:0090219	11	GO:2000646	positive regulation of receptor catabolic process
+GO:0006963	13	GO:0002230	positive regulation of defense response to virus by host
+GO:0033137	11	GO:2000646	positive regulation of receptor catabolic process
+GO:0021761	2	GO:0031016	pancreas development
+GO:0021766	2	GO:0031016	pancreas development
+GO:0097746	15	GO:0014894	response to denervation involved in regulation of muscle adaptation
+GO:0010810	12	GO:0010528	regulation of transposition
+GO:0010811	12	GO:0010528	regulation of transposition
+GO:1903034	13	GO:0002230	positive regulation of defense response to virus by host
+GO:0015074	1	GO:0032774	RNA biosynthetic process
+GO:0045665	4	GO:0014016	neuroblast differentiation
+GO:0045666	4	GO:0014016	neuroblast differentiation
+GO:1903003	11	GO:2000646	positive regulation of receptor catabolic process
+GO:0001764	4	GO:0014016	neuroblast differentiation
+GO:0044000	5	GO:0019058	viral life cycle
+GO:0001779	2	GO:0031016	pancreas development
+GO:0033206	7	GO:2000689	actomyosin contractile ring assembly actin filament organization
+GO:0010596	10	GO:0002686	negative regulation of leukocyte migration
+GO:0050777	13	GO:0002230	positive regulation of defense response to virus by host
+GO:0050727	13	GO:0002230	positive regulation of defense response to virus by host
+GO:0050728	13	GO:0002230	positive regulation of defense response to virus by host
+GO:0010562	11	GO:2000646	positive regulation of receptor catabolic process
+GO:0010528	12	GO:0010528	regulation of transposition
+GO:0010529	12	GO:0010528	regulation of transposition
+GO:0070741	15	GO:0014894	response to denervation involved in regulation of muscle adaptation
+GO:0061762	9	GO:0007166	cell surface receptor signaling pathway
+GO:0008347	4	GO:0014016	neuroblast differentiation
+GO:0009952	2	GO:0031016	pancreas development
+GO:0030517	3	GO:0031102	neuron projection regeneration
+GO:0009946	2	GO:0031016	pancreas development
+GO:0061709	7	GO:2000689	actomyosin contractile ring assembly actin filament organization
+GO:0021543	2	GO:0031016	pancreas development
+GO:0021537	2	GO:0031016	pancreas development
+GO:1900426	13	GO:0002230	positive regulation of defense response to virus by host
+GO:0010633	10	GO:0002686	negative regulation of leukocyte migration
+GO:0048168	12	GO:0010528	regulation of transposition
+GO:0007060	6	GO:0042078	germ-line stem cell division
+GO:0097659	1	GO:0032774	RNA biosynthetic process
+GO:0021695	2	GO:0031016	pancreas development
+GO:0021696	2	GO:0031016	pancreas development
+GO:1904776	12	GO:0010528	regulation of transposition
+GO:0008407	2	GO:0031016	pancreas development
+GO:1904778	12	GO:0010528	regulation of transposition
+GO:0040026	2	GO:0031016	pancreas development
+GO:0040028	2	GO:0031016	pancreas development
+GO:0040016	2	GO:0031016	pancreas development
+GO:0021629	2	GO:0031016	pancreas development
+GO:0040032	2	GO:0031016	pancreas development
+GO:0040034	12	GO:0010528	regulation of transposition
+GO:0070571	3	GO:0031102	neuron projection regeneration
+GO:0033564	3	GO:0031102	neuron projection regeneration
+GO:0045998	11	GO:2000646	positive regulation of receptor catabolic process
+GO:1904894	9	GO:0007166	cell surface receptor signaling pathway
+GO:0044321	15	GO:0014894	response to denervation involved in regulation of muscle adaptation
+GO:0000083	1	GO:0032774	RNA biosynthetic process
+GO:0031016	2	GO:0031016	pancreas development
+GO:0032196	8	GO:0007155	cell adhesion
+GO:0032197	8	GO:0007155	cell adhesion
+GO:0048262	2	GO:0031016	pancreas development
+GO:2000689	7	GO:2000689	actomyosin contractile ring assembly actin filament organization
+GO:0045923	11	GO:2000646	positive regulation of receptor catabolic process
+GO:2000646	11	GO:2000646	positive regulation of receptor catabolic process
+GO:0045944	1	GO:0032774	RNA biosynthetic process
+GO:0045937	11	GO:2000646	positive regulation of receptor catabolic process
+GO:0032147	11	GO:2000646	positive regulation of receptor catabolic process
+GO:0070650	7	GO:2000689	actomyosin contractile ring assembly actin filament organization
+GO:0032148	11	GO:2000646	positive regulation of receptor catabolic process
+GO:1904801	4	GO:0014016	neuroblast differentiation
+GO:1903478	7	GO:2000689	actomyosin contractile ring assembly actin filament organization
+GO:1903479	7	GO:2000689	actomyosin contractile ring assembly actin filament organization
+GO:0032102	13	GO:0002230	positive regulation of defense response to virus by host
+GO:0051094	12	GO:0010528	regulation of transposition
+GO:0060027	2	GO:0031016	pancreas development

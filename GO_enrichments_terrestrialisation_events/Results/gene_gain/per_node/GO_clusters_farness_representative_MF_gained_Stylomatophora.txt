@@ -1,0 +1,24 @@
+GO:0005198	3	GO:0070840	dynein complex binding
+GO:0042169	4	GO:0030332	cyclin binding
+GO:0098772	1	GO:0030234	enzyme regulator activity
+GO:0030234	1	GO:0030234	enzyme regulator activity
+GO:0030145	3	GO:0070840	dynein complex binding
+GO:1990226	4	GO:0030332	cyclin binding
+GO:0030971	4	GO:0030332	cyclin binding
+GO:0030332	4	GO:0030332	cyclin binding
+GO:0004857	1	GO:0030234	enzyme regulator activity
+GO:0042803	4	GO:0030332	cyclin binding
+GO:0016168	3	GO:0070840	dynein complex binding
+GO:0005096	1	GO:0030234	enzyme regulator activity
+GO:0042314	3	GO:0070840	dynein complex binding
+GO:0008437	4	GO:0030332	cyclin binding
+GO:0070840	3	GO:0070840	dynein complex binding
+GO:0048018	4	GO:0030332	cyclin binding
+GO:0048306	4	GO:0030332	cyclin binding
+GO:0005080	4	GO:0030332	cyclin binding
+GO:0097110	4	GO:0030332	cyclin binding
+GO:0008013	4	GO:0030332	cyclin binding
+GO:0030545	1	GO:0030234	enzyme regulator activity
+GO:0030546	1	GO:0030234	enzyme regulator activity
+GO:0008047	1	GO:0030234	enzyme regulator activity
+GO:0071855	4	GO:0030332	cyclin binding

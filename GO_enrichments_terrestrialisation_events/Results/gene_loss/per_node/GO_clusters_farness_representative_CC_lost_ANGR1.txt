@@ -1,0 +1,127 @@
+GO:0060170	3	GO:0032589	neuron projection membrane
+GO:0060171	3	GO:0032589	neuron projection membrane
+GO:0032391	4	GO:0005929	cilium
+GO:0098595	8	GO:0048471	perinuclear region of cytoplasm
+GO:0070985	5	GO:0005634	nucleus
+GO:0035003	2	GO:0098975	postsynapse of neuromuscular junction
+GO:0044175	2	GO:0098975	postsynapse of neuromuscular junction
+GO:0034451	6	GO:0015629	actin cytoskeleton
+GO:0099569	6	GO:0015629	actin cytoskeleton
+GO:0031528	3	GO:0032589	neuron projection membrane
+GO:0016591	5	GO:0005634	nucleus
+GO:1990454	2	GO:0098975	postsynapse of neuromuscular junction
+GO:0045179	7	GO:0099738	cell cortex region
+GO:0031514	4	GO:0005929	cilium
+GO:0030286	6	GO:0015629	actin cytoskeleton
+GO:0031252	8	GO:0048471	perinuclear region of cytoplasm
+GO:0031254	8	GO:0048471	perinuclear region of cytoplasm
+GO:0031256	3	GO:0032589	neuron projection membrane
+GO:0005923	2	GO:0098975	postsynapse of neuromuscular junction
+GO:0030992	1	GO:1902555	endoribonuclease complex
+GO:0005929	4	GO:0005929	cilium
+GO:0005912	2	GO:0098975	postsynapse of neuromuscular junction
+GO:0005667	1	GO:1902555	endoribonuclease complex
+GO:0034703	2	GO:0098975	postsynapse of neuromuscular junction
+GO:0034704	2	GO:0098975	postsynapse of neuromuscular junction
+GO:0005669	5	GO:0005634	nucleus
+GO:0034706	2	GO:0098975	postsynapse of neuromuscular junction
+GO:0060293	8	GO:0048471	perinuclear region of cytoplasm
+GO:0005918	2	GO:0098975	postsynapse of neuromuscular junction
+GO:0005919	2	GO:0098975	postsynapse of neuromuscular junction
+GO:0090665	1	GO:1902555	endoribonuclease complex
+GO:0036195	3	GO:0032589	neuron projection membrane
+GO:0005930	6	GO:0015629	actin cytoskeleton
+GO:0043186	6	GO:0015629	actin cytoskeleton
+GO:0031097	7	GO:0099738	cell cortex region
+GO:0048786	8	GO:0048471	perinuclear region of cytoplasm
+GO:0048788	7	GO:0099738	cell cortex region
+GO:0005902	4	GO:0005929	cilium
+GO:0019013	2	GO:0098975	postsynapse of neuromuscular junction
+GO:0044295	4	GO:0005929	cilium
+GO:0150034	4	GO:0005929	cilium
+GO:0005634	5	GO:0005634	nucleus
+GO:0005637	5	GO:0005634	nucleus
+GO:0030667	8	GO:0048471	perinuclear region of cytoplasm
+GO:0035869	4	GO:0005929	cilium
+GO:0097542	4	GO:0005929	cilium
+GO:0097546	4	GO:0005929	cilium
+GO:0031332	1	GO:1902555	endoribonuclease complex
+GO:0098975	2	GO:0098975	postsynapse of neuromuscular junction
+GO:0030027	4	GO:0005929	cilium
+GO:0031941	6	GO:0015629	actin cytoskeleton
+GO:0005604	2	GO:0098975	postsynapse of neuromuscular junction
+GO:0048471	8	GO:0048471	perinuclear region of cytoplasm
+GO:0060388	2	GO:0098975	postsynapse of neuromuscular junction
+GO:0046696	2	GO:0098975	postsynapse of neuromuscular junction
+GO:0030017	6	GO:0015629	actin cytoskeleton
+GO:0062023	2	GO:0098975	postsynapse of neuromuscular junction
+GO:0031672	6	GO:0015629	actin cytoskeleton
+GO:0005736	5	GO:0005634	nucleus
+GO:0031045	8	GO:0048471	perinuclear region of cytoplasm
+GO:0061695	1	GO:1902555	endoribonuclease complex
+GO:0043296	2	GO:0098975	postsynapse of neuromuscular junction
+GO:0016324	3	GO:0032589	neuron projection membrane
+GO:0016327	3	GO:0032589	neuron projection membrane
+GO:0016328	3	GO:0032589	neuron projection membrane
+GO:0032420	4	GO:0005929	cilium
+GO:0005704	6	GO:0015629	actin cytoskeleton
+GO:0016010	2	GO:0098975	postsynapse of neuromuscular junction
+GO:0099634	2	GO:0098975	postsynapse of neuromuscular junction
+GO:0030479	6	GO:0015629	actin cytoskeleton
+GO:0030424	4	GO:0005929	cilium
+GO:0030425	4	GO:0005929	cilium
+GO:0030426	4	GO:0005929	cilium
+GO:0000943	5	GO:0005634	nucleus
+GO:0045334	8	GO:0048471	perinuclear region of cytoplasm
+GO:0061645	7	GO:0099738	cell cortex region
+GO:0042575	1	GO:1902555	endoribonuclease complex
+GO:0035102	5	GO:0005634	nucleus
+GO:0000935	8	GO:0048471	perinuclear region of cytoplasm
+GO:0005886	3	GO:0032589	neuron projection membrane
+GO:0044304	4	GO:0005929	cilium
+GO:0005874	6	GO:0015629	actin cytoskeleton
+GO:0099738	7	GO:0099738	cell cortex region
+GO:0031430	6	GO:0015629	actin cytoskeleton
+GO:0031436	5	GO:0005634	nucleus
+GO:0005813	6	GO:0015629	actin cytoskeleton
+GO:0005814	6	GO:0015629	actin cytoskeleton
+GO:0043204	8	GO:0048471	perinuclear region of cytoplasm
+GO:0000783	5	GO:0005634	nucleus
+GO:0016459	6	GO:0015629	actin cytoskeleton
+GO:0001750	4	GO:0005929	cilium
+GO:0008328	2	GO:0098975	postsynapse of neuromuscular junction
+GO:0005834	2	GO:0098975	postsynapse of neuromuscular junction
+GO:0045495	8	GO:0048471	perinuclear region of cytoplasm
+GO:0030864	6	GO:0015629	actin cytoskeleton
+GO:0015629	6	GO:0015629	actin cytoskeleton
+GO:0043025	8	GO:0048471	perinuclear region of cytoplasm
+GO:0097482	2	GO:0098975	postsynapse of neuromuscular junction
+GO:0036064	6	GO:0015629	actin cytoskeleton
+GO:0097730	4	GO:0005929	cilium
+GO:0097731	4	GO:0005929	cilium
+GO:0001725	6	GO:0015629	actin cytoskeleton
+GO:0005802	5	GO:0005634	nucleus
+GO:0001726	4	GO:0005929	cilium
+GO:0008074	8	GO:0048471	perinuclear region of cytoplasm
+GO:0033583	3	GO:0032589	neuron projection membrane
+GO:0035996	4	GO:0005929	cilium
+GO:0035997	3	GO:0032589	neuron projection membrane
+GO:0020002	2	GO:0098975	postsynapse of neuromuscular junction
+GO:0031164	5	GO:0005634	nucleus
+GO:0032590	3	GO:0032589	neuron projection membrane
+GO:0035097	5	GO:0005634	nucleus
+GO:0035230	4	GO:0005929	cilium
+GO:0030175	4	GO:0005929	cilium
+GO:1902554	1	GO:1902555	endoribonuclease complex
+GO:1902555	1	GO:1902555	endoribonuclease complex
+GO:0036038	4	GO:0005929	cilium
+GO:1905348	1	GO:1902555	endoribonuclease complex
+GO:0005581	1	GO:1902555	endoribonuclease complex
+GO:0098831	7	GO:0099738	cell cortex region
+GO:0032587	3	GO:0032589	neuron projection membrane
+GO:0032589	3	GO:0032589	neuron projection membrane
+GO:0031143	4	GO:0005929	cilium
+GO:0071541	8	GO:0048471	perinuclear region of cytoplasm
+GO:0036464	6	GO:0015629	actin cytoskeleton
+GO:0090575	5	GO:0005634	nucleus
+GO:0055120	6	GO:0015629	actin cytoskeleton

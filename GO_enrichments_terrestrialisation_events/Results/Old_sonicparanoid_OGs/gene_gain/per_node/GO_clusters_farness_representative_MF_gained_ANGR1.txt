@@ -1,0 +1,16 @@
+GO:0030246	2	GO:0030246	carbohydrate binding
+GO:0097153	1	GO:0004601	peroxidase activity
+GO:0016936	2	GO:0030246	carbohydrate binding
+GO:0008289	2	GO:0030246	carbohydrate binding
+GO:0055077	1	GO:0004601	peroxidase activity
+GO:0005178	2	GO:0030246	carbohydrate binding
+GO:0004601	1	GO:0004601	peroxidase activity
+GO:0004602	1	GO:0004601	peroxidase activity
+GO:0004364	1	GO:0004601	peroxidase activity
+GO:0042834	2	GO:0030246	carbohydrate binding
+GO:0005534	2	GO:0030246	carbohydrate binding
+GO:0016684	1	GO:0004601	peroxidase activity
+GO:0070492	2	GO:0030246	carbohydrate binding
+GO:0044877	2	GO:0030246	carbohydrate binding
+GO:0004869	1	GO:0004601	peroxidase activity
+GO:0004622	1	GO:0004601	peroxidase activity

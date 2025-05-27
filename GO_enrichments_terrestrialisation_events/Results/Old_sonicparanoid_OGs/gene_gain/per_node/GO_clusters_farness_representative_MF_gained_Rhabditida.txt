@@ -1,0 +1,110 @@
+GO:0061135	4	GO:0004857	enzyme inhibitor activity
+GO:0015643	1	GO:0008289	lipid binding
+GO:0030414	4	GO:0004857	enzyme inhibitor activity
+GO:0046848	1	GO:0008289	lipid binding
+GO:0043621	2	GO:0005102	signaling receptor binding
+GO:0048018	2	GO:0005102	signaling receptor binding
+GO:0033041	3	GO:0004888	transmembrane signaling receptor activity
+GO:0019210	4	GO:0004857	enzyme inhibitor activity
+GO:0098988	3	GO:0004888	transmembrane signaling receptor activity
+GO:0043495	6	GO:0090729	toxin activity
+GO:0031683	1	GO:0008289	lipid binding
+GO:0005121	2	GO:0005102	signaling receptor binding
+GO:0005525	6	GO:0090729	toxin activity
+GO:0005118	2	GO:0005102	signaling receptor binding
+GO:0004984	3	GO:0004888	transmembrane signaling receptor activity
+GO:0016018	1	GO:0008289	lipid binding
+GO:0005133	2	GO:0005102	signaling receptor binding
+GO:0004860	4	GO:0004857	enzyme inhibitor activity
+GO:0004866	4	GO:0004857	enzyme inhibitor activity
+GO:0070026	1	GO:0008289	lipid binding
+GO:0001664	2	GO:0005102	signaling receptor binding
+GO:0004888	3	GO:0004888	transmembrane signaling receptor activity
+GO:0004930	3	GO:0004888	transmembrane signaling receptor activity
+GO:0038022	3	GO:0004888	transmembrane signaling receptor activity
+GO:0051381	1	GO:0008289	lipid binding
+GO:0008066	3	GO:0004888	transmembrane signaling receptor activity
+GO:0001640	3	GO:0004888	transmembrane signaling receptor activity
+GO:0009881	3	GO:0004888	transmembrane signaling receptor activity
+GO:0008083	2	GO:0005102	signaling receptor binding
+GO:0061134	4	GO:0004857	enzyme inhibitor activity
+GO:0039660	6	GO:0090729	toxin activity
+GO:0031788	2	GO:0005102	signaling receptor binding
+GO:0061507	6	GO:0090729	toxin activity
+GO:0030345	6	GO:0090729	toxin activity
+GO:0005179	2	GO:0005102	signaling receptor binding
+GO:0005124	2	GO:0005102	signaling receptor binding
+GO:0005125	2	GO:0005102	signaling receptor binding
+GO:0016918	1	GO:0008289	lipid binding
+GO:0005112	2	GO:0005102	signaling receptor binding
+GO:0019894	2	GO:0005102	signaling receptor binding
+GO:0001786	1	GO:0008289	lipid binding
+GO:0035438	6	GO:0090729	toxin activity
+GO:0016936	1	GO:0008289	lipid binding
+GO:0019864	1	GO:0008289	lipid binding
+GO:0016503	3	GO:0004888	transmembrane signaling receptor activity
+GO:0030248	1	GO:0008289	lipid binding
+GO:0008307	6	GO:0090729	toxin activity
+GO:0005504	1	GO:0008289	lipid binding
+GO:0019828	4	GO:0004857	enzyme inhibitor activity
+GO:0019841	1	GO:0008289	lipid binding
+GO:0008527	3	GO:0004888	transmembrane signaling receptor activity
+GO:0008528	3	GO:0004888	transmembrane signaling receptor activity
+GO:0001965	2	GO:0005102	signaling receptor binding
+GO:0035375	2	GO:0005102	signaling receptor binding
+GO:0005184	2	GO:0005102	signaling receptor binding
+GO:0005139	2	GO:0005102	signaling receptor binding
+GO:0045295	2	GO:0005102	signaling receptor binding
+GO:0005044	6	GO:0090729	toxin activity
+GO:0030368	3	GO:0004888	transmembrane signaling receptor activity
+GO:0070300	1	GO:0008289	lipid binding
+GO:0090729	6	GO:0090729	toxin activity
+GO:0099106	4	GO:0004857	enzyme inhibitor activity
+GO:0035064	2	GO:0005102	signaling receptor binding
+GO:0004864	4	GO:0004857	enzyme inhibitor activity
+GO:0005178	2	GO:0005102	signaling receptor binding
+GO:0051959	2	GO:0005102	signaling receptor binding
+GO:0005213	6	GO:0090729	toxin activity
+GO:0005214	6	GO:0090729	toxin activity
+GO:1901611	1	GO:0008289	lipid binding
+GO:1901612	1	GO:0008289	lipid binding
+GO:0005507	6	GO:0090729	toxin activity
+GO:0042329	6	GO:0090729	toxin activity
+GO:0031717	2	GO:0005102	signaling receptor binding
+GO:0031718	2	GO:0005102	signaling receptor binding
+GO:0030291	4	GO:0004857	enzyme inhibitor activity
+GO:0016247	4	GO:0004857	enzyme inhibitor activity
+GO:0051861	1	GO:0008289	lipid binding
+GO:0005102	2	GO:0005102	signaling receptor binding
+GO:0030165	2	GO:0005102	signaling receptor binding
+GO:0030021	6	GO:0090729	toxin activity
+GO:0034237	2	GO:0005102	signaling receptor binding
+GO:0042302	6	GO:0090729	toxin activity
+GO:0003700	6	GO:0090729	toxin activity
+GO:0004857	4	GO:0004857	enzyme inhibitor activity
+GO:0051018	2	GO:0005102	signaling receptor binding
+GO:0019208	4	GO:0004857	enzyme inhibitor activity
+GO:0008017	2	GO:0005102	signaling receptor binding
+GO:0005549	1	GO:0008289	lipid binding
+GO:0030545	4	GO:0004857	enzyme inhibitor activity
+GO:0030546	4	GO:0004857	enzyme inhibitor activity
+GO:0140110	6	GO:0090729	toxin activity
+GO:0000405	6	GO:0090729	toxin activity
+GO:0019212	4	GO:0004857	enzyme inhibitor activity
+GO:0019888	4	GO:0004857	enzyme inhibitor activity
+GO:0019902	2	GO:0005102	signaling receptor binding
+GO:0043236	2	GO:0005102	signaling receptor binding
+GO:0097108	2	GO:0005102	signaling receptor binding
+GO:0005496	1	GO:0008289	lipid binding
+GO:0008289	1	GO:0008289	lipid binding
+GO:0008158	3	GO:0004888	transmembrane signaling receptor activity
+GO:0072341	1	GO:0008289	lipid binding
+GO:0050840	1	GO:0008289	lipid binding
+GO:0070840	1	GO:0008289	lipid binding
+GO:0140375	3	GO:0004888	transmembrane signaling receptor activity
+GO:0004896	3	GO:0004888	transmembrane signaling receptor activity
+GO:0009882	3	GO:0004888	transmembrane signaling receptor activity
+GO:0031386	6	GO:0090729	toxin activity
+GO:0000900	6	GO:0090729	toxin activity
+GO:0005031	3	GO:0004888	transmembrane signaling receptor activity
+GO:0005518	1	GO:0008289	lipid binding

@@ -1,0 +1,116 @@
+GO:0016773	2	GO:0004672	protein kinase activity
+GO:0008559	4	GO:0042910	xenobiotic transmembrane transporter activity
+GO:0004060	1	GO:0009975	cyclase activity
+GO:0017151	5	GO:0019838	growth factor binding
+GO:0005524	6	GO:0030554	adenyl nucleotide binding
+GO:0004523	1	GO:0009975	cyclase activity
+GO:0008528	3	GO:0038023	signaling receptor activity
+GO:0050431	5	GO:0019838	growth factor binding
+GO:0043035	6	GO:0030554	adenyl nucleotide binding
+GO:0001530	7	GO:0005044	scavenger receptor activity
+GO:0004725	1	GO:0009975	cyclase activity
+GO:0004712	2	GO:0004672	protein kinase activity
+GO:0004713	2	GO:0004672	protein kinase activity
+GO:0004714	2	GO:0004672	protein kinase activity
+GO:0004715	2	GO:0004672	protein kinase activity
+GO:0005154	5	GO:0019838	growth factor binding
+GO:0005509	7	GO:0005044	scavenger receptor activity
+GO:1990189	1	GO:0009975	cyclase activity
+GO:0033130	5	GO:0019838	growth factor binding
+GO:0008188	3	GO:0038023	signaling receptor activity
+GO:0015101	4	GO:0042910	xenobiotic transmembrane transporter activity
+GO:0005007	2	GO:0004672	protein kinase activity
+GO:0015347	4	GO:0042910	xenobiotic transmembrane transporter activity
+GO:0005112	5	GO:0019838	growth factor binding
+GO:0004383	1	GO:0009975	cyclase activity
+GO:0016301	2	GO:0004672	protein kinase activity
+GO:0001653	3	GO:0038023	signaling receptor activity
+GO:0030296	7	GO:0005044	scavenger receptor activity
+GO:0045296	5	GO:0019838	growth factor binding
+GO:0004672	2	GO:0004672	protein kinase activity
+GO:0016840	1	GO:0009975	cyclase activity
+GO:0004675	2	GO:0004672	protein kinase activity
+GO:0004104	1	GO:0009975	cyclase activity
+GO:0099106	7	GO:0005044	scavenger receptor activity
+GO:0019838	5	GO:0019838	growth factor binding
+GO:0019955	5	GO:0019838	growth factor binding
+GO:0052689	1	GO:0009975	cyclase activity
+GO:0042834	7	GO:0005044	scavenger receptor activity
+GO:0098632	5	GO:0019838	growth factor binding
+GO:0008999	1	GO:0009975	cyclase activity
+GO:0031210	7	GO:0005044	scavenger receptor activity
+GO:0004601	1	GO:0009975	cyclase activity
+GO:0001604	3	GO:0038023	signaling receptor activity
+GO:0004252	1	GO:0009975	cyclase activity
+GO:0046920	1	GO:0009975	cyclase activity
+GO:0046922	1	GO:0009975	cyclase activity
+GO:0140359	4	GO:0042910	xenobiotic transmembrane transporter activity
+GO:0003964	1	GO:0009975	cyclase activity
+GO:0042910	4	GO:0042910	xenobiotic transmembrane transporter activity
+GO:0004222	1	GO:0009975	cyclase activity
+GO:0004983	3	GO:0038023	signaling receptor activity
+GO:0009975	1	GO:0009975	cyclase activity
+GO:0016791	1	GO:0009975	cyclase activity
+GO:0030550	7	GO:0005044	scavenger receptor activity
+GO:0032559	6	GO:0030554	adenyl nucleotide binding
+GO:0030554	6	GO:0030554	adenyl nucleotide binding
+GO:0004930	3	GO:0038023	signaling receptor activity
+GO:0019199	2	GO:0004672	protein kinase activity
+GO:0015026	3	GO:0038023	signaling receptor activity
+GO:0042578	1	GO:0009975	cyclase activity
+GO:0016772	2	GO:0004672	protein kinase activity
+GO:0038023	3	GO:0038023	signaling receptor activity
+GO:0017046	7	GO:0005044	scavenger receptor activity
+GO:0030548	7	GO:0005044	scavenger receptor activity
+GO:0005525	6	GO:0030554	adenyl nucleotide binding
+GO:0019001	6	GO:0030554	adenyl nucleotide binding
+GO:0030165	5	GO:0019838	growth factor binding
+GO:0099529	3	GO:0038023	signaling receptor activity
+GO:0008514	4	GO:0042910	xenobiotic transmembrane transporter activity
+GO:0008519	4	GO:0042910	xenobiotic transmembrane transporter activity
+GO:0008028	4	GO:0042910	xenobiotic transmembrane transporter activity
+GO:0004784	1	GO:0009975	cyclase activity
+GO:0015114	4	GO:0042910	xenobiotic transmembrane transporter activity
+GO:1901505	4	GO:0042910	xenobiotic transmembrane transporter activity
+GO:0005044	7	GO:0005044	scavenger receptor activity
+GO:0003727	6	GO:0030554	adenyl nucleotide binding
+GO:0016684	1	GO:0009975	cyclase activity
+GO:0060089	3	GO:0038023	signaling receptor activity
+GO:0051787	5	GO:0019838	growth factor binding
+GO:0005178	5	GO:0019838	growth factor binding
+GO:0016628	1	GO:0009975	cyclase activity
+GO:0004364	1	GO:0009975	cyclase activity
+GO:0016616	1	GO:0009975	cyclase activity
+GO:0031625	5	GO:0019838	growth factor binding
+GO:0046332	5	GO:0019838	growth factor binding
+GO:1904315	4	GO:0042910	xenobiotic transmembrane transporter activity
+GO:0008376	1	GO:0009975	cyclase activity
+GO:0004653	1	GO:0009975	cyclase activity
+GO:0030295	7	GO:0005044	scavenger receptor activity
+GO:0004896	3	GO:0038023	signaling receptor activity
+GO:0022824	4	GO:0042910	xenobiotic transmembrane transporter activity
+GO:0051119	4	GO:0042910	xenobiotic transmembrane transporter activity
+GO:0035250	1	GO:0009975	cyclase activity
+GO:0022835	3	GO:0038023	signaling receptor activity
+GO:0061665	1	GO:0009975	cyclase activity
+GO:0047256	1	GO:0009975	cyclase activity
+GO:0019237	6	GO:0030554	adenyl nucleotide binding
+GO:0016917	3	GO:0038023	signaling receptor activity
+GO:0016941	3	GO:0038023	signaling receptor activity
+GO:0099602	7	GO:0005044	scavenger receptor activity
+GO:0004965	3	GO:0038023	signaling receptor activity
+GO:0000287	7	GO:0005044	scavenger receptor activity
+GO:0019209	7	GO:0005044	scavenger receptor activity
+GO:0005275	4	GO:0042910	xenobiotic transmembrane transporter activity
+GO:0098960	3	GO:0038023	signaling receptor activity
+GO:0004984	3	GO:0038023	signaling receptor activity
+GO:0000981	7	GO:0005044	scavenger receptor activity
+GO:0008457	1	GO:0009975	cyclase activity
+GO:0000978	6	GO:0030554	adenyl nucleotide binding
+GO:0032561	6	GO:0030554	adenyl nucleotide binding
+GO:0140103	1	GO:0009975	cyclase activity
+GO:0003924	1	GO:0009975	cyclase activity
+GO:0005230	4	GO:0042910	xenobiotic transmembrane transporter activity
+GO:0090482	4	GO:0042910	xenobiotic transmembrane transporter activity
+GO:0034061	1	GO:0009975	cyclase activity
+GO:0031404	7	GO:0005044	scavenger receptor activity

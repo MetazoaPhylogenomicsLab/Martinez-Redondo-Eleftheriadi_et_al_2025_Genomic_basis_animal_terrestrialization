@@ -1,0 +1,630 @@
+GO:0034765	24	GO:0010941	regulation of cell death
+GO:0006312	3	GO:0009110	vitamin biosynthetic process
+GO:0044872	22	GO:0034220	ion transmembrane transport
+GO:0010760	8	GO:0002685	regulation of leukocyte migration
+GO:0010764	8	GO:0002685	regulation of leukocyte migration
+GO:1903034	11	GO:0002920	regulation of humoral immune response
+GO:0040001	23	GO:0051298	centrosome duplication
+GO:0120031	23	GO:0051298	centrosome duplication
+GO:1902679	4	GO:0031326	regulation of cellular biosynthetic process
+GO:0060271	23	GO:0051298	centrosome duplication
+GO:0032648	1	GO:0001817	regulation of cytokine production
+GO:0031347	11	GO:0002920	regulation of humoral immune response
+GO:0031348	11	GO:0002920	regulation of humoral immune response
+GO:1900016	1	GO:0001817	regulation of cytokine production
+GO:0032728	1	GO:0001817	regulation of cytokine production
+GO:0032608	1	GO:0001817	regulation of cytokine production
+GO:0007183	9	GO:0007166	cell surface receptor signaling pathway
+GO:0030031	23	GO:0051298	centrosome duplication
+GO:1905117	18	GO:0065009	regulation of molecular function
+GO:0021544	16	GO:0055123	digestive system development
+GO:0006813	22	GO:0034220	ion transmembrane transport
+GO:0061041	11	GO:0002920	regulation of humoral immune response
+GO:0051293	23	GO:0051298	centrosome duplication
+GO:0051295	23	GO:0051298	centrosome duplication
+GO:0008277	9	GO:0007166	cell surface receptor signaling pathway
+GO:0000022	23	GO:0051298	centrosome duplication
+GO:0045934	4	GO:0031326	regulation of cellular biosynthetic process
+GO:0070121	16	GO:0055123	digestive system development
+GO:0071805	22	GO:0034220	ion transmembrane transport
+GO:0015909	22	GO:0034220	ion transmembrane transport
+GO:0042953	22	GO:0034220	ion transmembrane transport
+GO:0007097	22	GO:0034220	ion transmembrane transport
+GO:0022412	19	GO:0019953	sexual reproduction
+GO:0022414	19	GO:0019953	sexual reproduction
+GO:0008037	24	GO:0010941	regulation of cell death
+GO:0008038	17	GO:0021782	glial cell development
+GO:0051653	23	GO:0051298	centrosome duplication
+GO:0031122	23	GO:0051298	centrosome duplication
+GO:1903507	4	GO:0031326	regulation of cellular biosynthetic process
+GO:0045892	4	GO:0031326	regulation of cellular biosynthetic process
+GO:0051037	4	GO:0031326	regulation of cellular biosynthetic process
+GO:0051647	22	GO:0034220	ion transmembrane transport
+GO:0051781	24	GO:0010941	regulation of cell death
+GO:0050727	11	GO:0002920	regulation of humoral immune response
+GO:0050728	11	GO:0002920	regulation of humoral immune response
+GO:0002920	11	GO:0002920	regulation of humoral immune response
+GO:0002922	11	GO:0002920	regulation of humoral immune response
+GO:0031334	24	GO:0010941	regulation of cell death
+GO:0019236	21	GO:0009607	response to biotic stimulus
+GO:0002532	21	GO:0009607	response to biotic stimulus
+GO:0002534	1	GO:0001817	regulation of cytokine production
+GO:0071674	8	GO:0002685	regulation of leukocyte migration
+GO:0006623	22	GO:0034220	ion transmembrane transport
+GO:0035036	19	GO:0019953	sexual reproduction
+GO:0010458	23	GO:0051298	centrosome duplication
+GO:2000516	12	GO:0046649	lymphocyte activation
+GO:0002699	11	GO:0002920	regulation of humoral immune response
+GO:0051043	6	GO:0030162	regulation of proteolysis
+GO:0040010	24	GO:0010941	regulation of cell death
+GO:0002685	8	GO:0002685	regulation of leukocyte migration
+GO:0002688	8	GO:0002685	regulation of leukocyte migration
+GO:0002225	11	GO:0002920	regulation of humoral immune response
+GO:0019730	7	GO:0045087	innate immune response
+GO:0040003	16	GO:0055123	digestive system development
+GO:0048662	24	GO:0010941	regulation of cell death
+GO:2000679	18	GO:0065009	regulation of molecular function
+GO:0090398	21	GO:0009607	response to biotic stimulus
+GO:0046635	12	GO:0046649	lymphocyte activation
+GO:0046638	14	GO:0032831	positive regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation
+GO:0007342	19	GO:0019953	sexual reproduction
+GO:0046209	3	GO:0009110	vitamin biosynthetic process
+GO:0010922	5	GO:0001932	regulation of protein phosphorylation
+GO:0048246	8	GO:0002685	regulation of leukocyte migration
+GO:0002760	11	GO:0002920	regulation of humoral immune response
+GO:0010941	24	GO:0010941	regulation of cell death
+GO:0002759	11	GO:0002920	regulation of humoral immune response
+GO:0090312	6	GO:0030162	regulation of proteolysis
+GO:2001057	3	GO:0009110	vitamin biosynthetic process
+GO:0002784	11	GO:0002920	regulation of humoral immune response
+GO:0050871	12	GO:0046649	lymphocyte activation
+GO:0006897	22	GO:0034220	ion transmembrane transport
+GO:0002775	7	GO:0045087	innate immune response
+GO:0006469	5	GO:0001932	regulation of protein phosphorylation
+GO:0045332	22	GO:0034220	ion transmembrane transport
+GO:0045736	5	GO:0001932	regulation of protein phosphorylation
+GO:0045737	5	GO:0001932	regulation of protein phosphorylation
+GO:0097529	8	GO:0002685	regulation of leukocyte migration
+GO:0002700	1	GO:0001817	regulation of cytokine production
+GO:0002702	1	GO:0001817	regulation of cytokine production
+GO:0009988	24	GO:0010941	regulation of cell death
+GO:0032103	11	GO:0002920	regulation of humoral immune response
+GO:0016063	2	GO:0042982	amyloid precursor protein metabolic process
+GO:0010628	1	GO:0001817	regulation of cytokine production
+GO:0008045	17	GO:0021782	glial cell development
+GO:0006809	3	GO:0009110	vitamin biosynthetic process
+GO:0030595	8	GO:0002685	regulation of leukocyte migration
+GO:0007009	23	GO:0051298	centrosome duplication
+GO:0045087	7	GO:0045087	innate immune response
+GO:0070306	17	GO:0021782	glial cell development
+GO:0001816	1	GO:0001817	regulation of cytokine production
+GO:0001817	1	GO:0001817	regulation of cytokine production
+GO:0001819	1	GO:0001817	regulation of cytokine production
+GO:0043372	14	GO:0032831	positive regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation
+GO:0045026	23	GO:0051298	centrosome duplication
+GO:0021556	16	GO:0055123	digestive system development
+GO:0032675	1	GO:0001817	regulation of cytokine production
+GO:0002440	1	GO:0001817	regulation of cytokine production
+GO:1905521	8	GO:0002685	regulation of leukocyte migration
+GO:0031637	24	GO:0010941	regulation of cell death
+GO:0034260	18	GO:0065009	regulation of molecular function
+GO:1905517	8	GO:0002685	regulation of leukocyte migration
+GO:0006954	21	GO:0009607	response to biotic stimulus
+GO:0006959	21	GO:0009607	response to biotic stimulus
+GO:0008592	9	GO:0007166	cell surface receptor signaling pathway
+GO:0033673	5	GO:0001932	regulation of protein phosphorylation
+GO:0033674	5	GO:0001932	regulation of protein phosphorylation
+GO:0032635	1	GO:0001817	regulation of cytokine production
+GO:0050900	8	GO:0002685	regulation of leukocyte migration
+GO:1904030	5	GO:0001932	regulation of protein phosphorylation
+GO:1904031	5	GO:0001932	regulation of protein phosphorylation
+GO:0010758	8	GO:0002685	regulation of leukocyte migration
+GO:0071941	3	GO:0009110	vitamin biosynthetic process
+GO:1902993	6	GO:0030162	regulation of proteolysis
+GO:0015980	3	GO:0009110	vitamin biosynthetic process
+GO:0061844	7	GO:0045087	innate immune response
+GO:0060326	8	GO:0002685	regulation of leukocyte migration
+GO:0071902	5	GO:0001932	regulation of protein phosphorylation
+GO:0051347	18	GO:0065009	regulation of molecular function
+GO:0043086	18	GO:0065009	regulation of molecular function
+GO:0060333	10	GO:0060339	negative regulation of type I interferon-mediated signaling pathway
+GO:0032755	1	GO:0001817	regulation of cytokine production
+GO:0043474	3	GO:0009110	vitamin biosynthetic process
+GO:0046154	2	GO:0042982	amyloid precursor protein metabolic process
+GO:1900015	1	GO:0001817	regulation of cytokine production
+GO:0035850	17	GO:0021782	glial cell development
+GO:0002119	16	GO:0055123	digestive system development
+GO:0035886	17	GO:0021782	glial cell development
+GO:0071684	16	GO:0055123	digestive system development
+GO:1905632	22	GO:0034220	ion transmembrane transport
+GO:2001238	9	GO:0007166	cell surface receptor signaling pathway
+GO:0034329	23	GO:0051298	centrosome duplication
+GO:0033339	16	GO:0055123	digestive system development
+GO:0007610	21	GO:0009607	response to biotic stimulus
+GO:0097305	21	GO:0009607	response to biotic stimulus
+GO:0032897	11	GO:0002920	regulation of humoral immune response
+GO:0007635	21	GO:0009607	response to biotic stimulus
+GO:0046692	19	GO:0019953	sexual reproduction
+GO:0040024	16	GO:0055123	digestive system development
+GO:0040028	15	GO:0051962	positive regulation of nervous system development
+GO:0033058	21	GO:0009607	response to biotic stimulus
+GO:0040036	9	GO:0007166	cell surface receptor signaling pathway
+GO:0046680	21	GO:0009607	response to biotic stimulus
+GO:0008608	23	GO:0051298	centrosome duplication
+GO:0030325	16	GO:0055123	digestive system development
+GO:0016203	16	GO:0055123	digestive system development
+GO:0035520	2	GO:0042982	amyloid precursor protein metabolic process
+GO:0035521	2	GO:0042982	amyloid precursor protein metabolic process
+GO:0035522	2	GO:0042982	amyloid precursor protein metabolic process
+GO:0010951	6	GO:0030162	regulation of proteolysis
+GO:0031581	23	GO:0051298	centrosome duplication
+GO:0051145	17	GO:0021782	glial cell development
+GO:0060900	16	GO:0055123	digestive system development
+GO:0048385	9	GO:0007166	cell surface receptor signaling pathway
+GO:0008078	8	GO:0002685	regulation of leukocyte migration
+GO:0061318	17	GO:0021782	glial cell development
+GO:0031268	23	GO:0051298	centrosome duplication
+GO:0031269	23	GO:0051298	centrosome duplication
+GO:0019953	19	GO:0019953	sexual reproduction
+GO:0061062	15	GO:0051962	positive regulation of nervous system development
+GO:0008594	17	GO:0021782	glial cell development
+GO:0048842	15	GO:0051962	positive regulation of nervous system development
+GO:0048437	16	GO:0055123	digestive system development
+GO:0045165	17	GO:0021782	glial cell development
+GO:0043057	21	GO:0009607	response to biotic stimulus
+GO:0090528	23	GO:0051298	centrosome duplication
+GO:1902292	3	GO:0009110	vitamin biosynthetic process
+GO:0006869	22	GO:0034220	ion transmembrane transport
+GO:0008365	16	GO:0055123	digestive system development
+GO:0035008	11	GO:0002920	regulation of humoral immune response
+GO:0009399	3	GO:0009110	vitamin biosynthetic process
+GO:0045740	4	GO:0031326	regulation of cellular biosynthetic process
+GO:0032273	24	GO:0010941	regulation of cell death
+GO:0007338	19	GO:0019953	sexual reproduction
+GO:0007155	24	GO:0010941	regulation of cell death
+GO:1990758	23	GO:0051298	centrosome duplication
+GO:0006654	3	GO:0009110	vitamin biosynthetic process
+GO:1901076	22	GO:0034220	ion transmembrane transport
+GO:0030838	23	GO:0051298	centrosome duplication
+GO:0016024	3	GO:0009110	vitamin biosynthetic process
+GO:1902315	3	GO:0009110	vitamin biosynthetic process
+GO:0042177	6	GO:0030162	regulation of proteolysis
+GO:0031146	2	GO:0042982	amyloid precursor protein metabolic process
+GO:0031134	23	GO:0051298	centrosome duplication
+GO:1902975	3	GO:0009110	vitamin biosynthetic process
+GO:0051987	24	GO:0010941	regulation of cell death
+GO:0051988	24	GO:0010941	regulation of cell death
+GO:0001764	17	GO:0021782	glial cell development
+GO:0051495	24	GO:0010941	regulation of cell death
+GO:0039644	4	GO:0031326	regulation of cellular biosynthetic process
+GO:0007266	9	GO:0007166	cell surface receptor signaling pathway
+GO:1902905	24	GO:0010941	regulation of cell death
+GO:0006260	3	GO:0009110	vitamin biosynthetic process
+GO:0051707	7	GO:0045087	innate immune response
+GO:0035821	21	GO:0009607	response to biotic stimulus
+GO:0044419	21	GO:0009607	response to biotic stimulus
+GO:0085029	23	GO:0051298	centrosome duplication
+GO:2000112	4	GO:0031326	regulation of cellular biosynthetic process
+GO:0039557	4	GO:0031326	regulation of cellular biosynthetic process
+GO:0022611	16	GO:0055123	digestive system development
+GO:0035803	19	GO:0019953	sexual reproduction
+GO:0008219	24	GO:0010941	regulation of cell death
+GO:0035194	4	GO:0031326	regulation of cellular biosynthetic process
+GO:0040026	15	GO:0051962	positive regulation of nervous system development
+GO:0060439	16	GO:0055123	digestive system development
+GO:0040015	15	GO:0051962	positive regulation of nervous system development
+GO:1905770	15	GO:0051962	positive regulation of nervous system development
+GO:0051402	24	GO:0010941	regulation of cell death
+GO:0043523	24	GO:0010941	regulation of cell death
+GO:0035149	16	GO:0055123	digestive system development
+GO:0060998	15	GO:0051962	positive regulation of nervous system development
+GO:0030704	19	GO:0019953	sexual reproduction
+GO:0007340	19	GO:0019953	sexual reproduction
+GO:1901381	22	GO:0034220	ion transmembrane transport
+GO:0042661	15	GO:0051962	positive regulation of nervous system development
+GO:0007305	19	GO:0019953	sexual reproduction
+GO:0030422	4	GO:0031326	regulation of cellular biosynthetic process
+GO:0001704	16	GO:0055123	digestive system development
+GO:0001707	16	GO:0055123	digestive system development
+GO:0001708	17	GO:0021782	glial cell development
+GO:0072089	24	GO:0010941	regulation of cell death
+GO:0030431	16	GO:0055123	digestive system development
+GO:0008063	9	GO:0007166	cell surface receptor signaling pathway
+GO:0006417	6	GO:0030162	regulation of proteolysis
+GO:0043207	7	GO:0045087	innate immune response
+GO:0007416	17	GO:0021782	glial cell development
+GO:0039722	10	GO:0060339	negative regulation of type I interferon-mediated signaling pathway
+GO:0039723	5	GO:0001932	regulation of protein phosphorylation
+GO:0039724	11	GO:0002920	regulation of humoral immune response
+GO:0098542	7	GO:0045087	innate immune response
+GO:0010212	21	GO:0009607	response to biotic stimulus
+GO:0048332	16	GO:0055123	digestive system development
+GO:0008039	17	GO:0021782	glial cell development
+GO:1990414	3	GO:0009110	vitamin biosynthetic process
+GO:0032222	24	GO:0010941	regulation of cell death
+GO:0006955	21	GO:0009607	response to biotic stimulus
+GO:1903818	22	GO:0034220	ion transmembrane transport
+GO:0006915	24	GO:0010941	regulation of cell death
+GO:0048814	15	GO:0051962	positive regulation of nervous system development
+GO:0009607	21	GO:0009607	response to biotic stimulus
+GO:0034397	22	GO:0034220	ion transmembrane transport
+GO:0010660	24	GO:0010941	regulation of cell death
+GO:0010661	24	GO:0010941	regulation of cell death
+GO:0042362	3	GO:0009110	vitamin biosynthetic process
+GO:0032722	1	GO:0001817	regulation of cytokine production
+GO:0030225	17	GO:0021782	glial cell development
+GO:0042368	3	GO:0009110	vitamin biosynthetic process
+GO:0043254	24	GO:0010941	regulation of cell death
+GO:1904796	18	GO:0065009	regulation of molecular function
+GO:0010657	24	GO:0010941	regulation of cell death
+GO:1904798	18	GO:0065009	regulation of molecular function
+GO:0033619	2	GO:0042982	amyloid precursor protein metabolic process
+GO:0042359	3	GO:0009110	vitamin biosynthetic process
+GO:0051099	18	GO:0065009	regulation of molecular function
+GO:2000307	1	GO:0001817	regulation of cytokine production
+GO:0032747	1	GO:0001817	regulation of cytokine production
+GO:2000309	1	GO:0001817	regulation of cytokine production
+GO:0032735	1	GO:0001817	regulation of cytokine production
+GO:0046136	4	GO:0031326	regulation of cellular biosynthetic process
+GO:0042326	5	GO:0001932	regulation of protein phosphorylation
+GO:0050796	22	GO:0034220	ion transmembrane transport
+GO:0032700	1	GO:0001817	regulation of cytokine production
+GO:0002686	8	GO:0002685	regulation of leukocyte migration
+GO:0002689	8	GO:0002685	regulation of leukocyte migration
+GO:0046631	12	GO:0046649	lymphocyte activation
+GO:0046632	13	GO:0046632	alpha-beta T cell differentiation
+GO:0010634	8	GO:0002685	regulation of leukocyte migration
+GO:0001774	12	GO:0046649	lymphocyte activation
+GO:0046634	12	GO:0046649	lymphocyte activation
+GO:0046637	14	GO:0032831	positive regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation
+GO:0007260	5	GO:0001932	regulation of protein phosphorylation
+GO:0050769	15	GO:0051962	positive regulation of nervous system development
+GO:1903555	1	GO:0001817	regulation of cytokine production
+GO:1903557	1	GO:0001817	regulation of cytokine production
+GO:0007259	9	GO:0007166	cell surface receptor signaling pathway
+GO:1903580	4	GO:0031326	regulation of cellular biosynthetic process
+GO:1900180	24	GO:0010941	regulation of cell death
+GO:1900182	24	GO:0010941	regulation of cell death
+GO:0042982	2	GO:0042982	amyloid precursor protein metabolic process
+GO:0051044	6	GO:0030162	regulation of proteolysis
+GO:0042306	22	GO:0034220	ion transmembrane transport
+GO:0042307	22	GO:0034220	ion transmembrane transport
+GO:0042987	2	GO:0042982	amyloid precursor protein metabolic process
+GO:0042832	7	GO:0045087	innate immune response
+GO:0050729	11	GO:0002920	regulation of humoral immune response
+GO:0035710	12	GO:0046649	lymphocyte activation
+GO:0002292	13	GO:0046632	alpha-beta T cell differentiation
+GO:0002293	13	GO:0046632	alpha-beta T cell differentiation
+GO:0002294	13	GO:0046632	alpha-beta T cell differentiation
+GO:0002298	13	GO:0046632	alpha-beta T cell differentiation
+GO:0031047	1	GO:0001817	regulation of cytokine production
+GO:0009733	21	GO:0009607	response to biotic stimulus
+GO:0072535	1	GO:0001817	regulation of cytokine production
+GO:0009735	21	GO:0009607	response to biotic stimulus
+GO:0032829	14	GO:0032831	positive regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation
+GO:0002269	12	GO:0046649	lymphocyte activation
+GO:1904892	9	GO:0007166	cell surface receptor signaling pathway
+GO:2000514	12	GO:0046649	lymphocyte activation
+GO:0034080	23	GO:0051298	centrosome duplication
+GO:0051101	18	GO:0065009	regulation of molecular function
+GO:0002281	12	GO:0046649	lymphocyte activation
+GO:0002285	12	GO:0046649	lymphocyte activation
+GO:0002286	12	GO:0046649	lymphocyte activation
+GO:0002287	12	GO:0046649	lymphocyte activation
+GO:0048708	17	GO:0021782	glial cell development
+GO:0032831	14	GO:0032831	positive regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation
+GO:0032832	14	GO:0032831	positive regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation
+GO:0032834	14	GO:0032831	positive regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation
+GO:0002275	12	GO:0046649	lymphocyte activation
+GO:0080090	6	GO:0030162	regulation of proteolysis
+GO:0031106	23	GO:0051298	centrosome duplication
+GO:0051607	7	GO:0045087	innate immune response
+GO:0019433	3	GO:0009110	vitamin biosynthetic process
+GO:0006935	21	GO:0009607	response to biotic stimulus
+GO:0001818	1	GO:0001817	regulation of cytokine production
+GO:0030388	3	GO:0009110	vitamin biosynthetic process
+GO:0009889	4	GO:0031326	regulation of cellular biosynthetic process
+GO:0042531	5	GO:0001932	regulation of protein phosphorylation
+GO:0090276	22	GO:0034220	ion transmembrane transport
+GO:0010761	8	GO:0002685	regulation of leukocyte migration
+GO:0010762	8	GO:0002685	regulation of leukocyte migration
+GO:0080164	4	GO:0031326	regulation of cellular biosynthetic process
+GO:0043367	13	GO:0046632	alpha-beta T cell differentiation
+GO:0045591	14	GO:0032831	positive regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation
+GO:0002791	22	GO:0034220	ion transmembrane transport
+GO:0030316	17	GO:0021782	glial cell development
+GO:0042501	5	GO:0001932	regulation of protein phosphorylation
+GO:0035306	5	GO:0001932	regulation of protein phosphorylation
+GO:0043388	18	GO:0065009	regulation of molecular function
+GO:0042509	5	GO:0001932	regulation of protein phosphorylation
+GO:0043370	14	GO:0032831	positive regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation
+GO:0050830	7	GO:0045087	innate immune response
+GO:0001932	5	GO:0001932	regulation of protein phosphorylation
+GO:0001933	5	GO:0001932	regulation of protein phosphorylation
+GO:2000677	18	GO:0065009	regulation of molecular function
+GO:0002761	15	GO:0051962	positive regulation of nervous system development
+GO:0050922	11	GO:0002920	regulation of humoral immune response
+GO:0002763	15	GO:0051962	positive regulation of nervous system development
+GO:0045428	4	GO:0031326	regulation of cellular biosynthetic process
+GO:0045429	4	GO:0031326	regulation of cellular biosynthetic process
+GO:0060550	5	GO:0001932	regulation of protein phosphorylation
+GO:0060551	5	GO:0001932	regulation of protein phosphorylation
+GO:0060552	5	GO:0001932	regulation of protein phosphorylation
+GO:0060556	4	GO:0031326	regulation of cellular biosynthetic process
+GO:0060557	4	GO:0031326	regulation of cellular biosynthetic process
+GO:0060558	18	GO:0065009	regulation of molecular function
+GO:0060559	18	GO:0065009	regulation of molecular function
+GO:0071706	1	GO:0001817	regulation of cytokine production
+GO:0045589	14	GO:0032831	positive regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation
+GO:0071365	21	GO:0009607	response to biotic stimulus
+GO:0071368	21	GO:0009607	response to biotic stimulus
+GO:0042116	12	GO:0046649	lymphocyte activation
+GO:0032506	23	GO:0051298	centrosome duplication
+GO:0006509	2	GO:0042982	amyloid precursor protein metabolic process
+GO:0060549	5	GO:0001932	regulation of protein phosphorylation
+GO:0034220	22	GO:0034220	ion transmembrane transport
+GO:0045066	13	GO:0046632	alpha-beta T cell differentiation
+GO:0051767	3	GO:0009110	vitamin biosynthetic process
+GO:0051769	4	GO:0031326	regulation of cellular biosynthetic process
+GO:1902991	6	GO:0030162	regulation of proteolysis
+GO:0042102	12	GO:0046649	lymphocyte activation
+GO:0014002	17	GO:0021782	glial cell development
+GO:0032185	23	GO:0051298	centrosome duplication
+GO:0071346	7	GO:0045087	innate immune response
+GO:1904407	4	GO:0031326	regulation of cellular biosynthetic process
+GO:0034248	6	GO:0030162	regulation of proteolysis
+GO:0051770	4	GO:0031326	regulation of cellular biosynthetic process
+GO:0015870	22	GO:0034220	ion transmembrane transport
+GO:0070673	21	GO:0009607	response to biotic stimulus
+GO:2000273	9	GO:0007166	cell surface receptor signaling pathway
+GO:0050435	3	GO:0009110	vitamin biosynthetic process
+GO:0032660	1	GO:0001817	regulation of cytokine production
+GO:0002361	13	GO:0046632	alpha-beta T cell differentiation
+GO:0043467	4	GO:0031326	regulation of cellular biosynthetic process
+GO:0032667	1	GO:0001817	regulation of cytokine production
+GO:0051712	24	GO:0010941	regulation of cell death
+GO:0032113	5	GO:0001932	regulation of protein phosphorylation
+GO:0032655	1	GO:0001817	regulation of cytokine production
+GO:0034205	2	GO:0042982	amyloid precursor protein metabolic process
+GO:0043470	4	GO:0031326	regulation of cellular biosynthetic process
+GO:0032620	1	GO:0001817	regulation of cytokine production
+GO:0046822	22	GO:0034220	ion transmembrane transport
+GO:0046824	24	GO:0010941	regulation of cell death
+GO:0032627	1	GO:0001817	regulation of cytokine production
+GO:0032615	1	GO:0001817	regulation of cytokine production
+GO:0032642	1	GO:0001817	regulation of cytokine production
+GO:1902947	5	GO:0001932	regulation of protein phosphorylation
+GO:1902948	5	GO:0001932	regulation of protein phosphorylation
+GO:0006109	4	GO:0031326	regulation of cellular biosynthetic process
+GO:0045670	15	GO:0051962	positive regulation of nervous system development
+GO:0045672	15	GO:0051962	positive regulation of nervous system development
+GO:0010835	6	GO:0030162	regulation of proteolysis
+GO:0001667	8	GO:0002685	regulation of leukocyte migration
+GO:0009691	3	GO:0009110	vitamin biosynthetic process
+GO:0051353	18	GO:0065009	regulation of molecular function
+GO:0071900	5	GO:0001932	regulation of protein phosphorylation
+GO:0032602	1	GO:0001817	regulation of cytokine production
+GO:0021782	17	GO:0021782	glial cell development
+GO:0045637	15	GO:0051962	positive regulation of nervous system development
+GO:0045639	15	GO:0051962	positive regulation of nervous system development
+GO:0048660	24	GO:0010941	regulation of cell death
+GO:0046461	3	GO:0009110	vitamin biosynthetic process
+GO:0046464	3	GO:0009110	vitamin biosynthetic process
+GO:0009110	3	GO:0009110	vitamin biosynthetic process
+GO:0090311	6	GO:0030162	regulation of proteolysis
+GO:0097191	9	GO:0007166	cell surface receptor signaling pathway
+GO:0090316	22	GO:0034220	ion transmembrane transport
+GO:0048659	24	GO:0010941	regulation of cell death
+GO:0048143	17	GO:0021782	glial cell development
+GO:0051962	15	GO:0051962	positive regulation of nervous system development
+GO:0032224	24	GO:0010941	regulation of cell death
+GO:0046425	9	GO:0007166	cell surface receptor signaling pathway
+GO:0031326	4	GO:0031326	regulation of cellular biosynthetic process
+GO:0051969	9	GO:0007166	cell surface receptor signaling pathway
+GO:0034390	24	GO:0010941	regulation of cell death
+GO:0034391	24	GO:0010941	regulation of cell death
+GO:0034393	24	GO:0010941	regulation of cell death
+GO:0030656	4	GO:0031326	regulation of cellular biosynthetic process
+GO:0097696	9	GO:0007166	cell surface receptor signaling pathway
+GO:0010556	4	GO:0031326	regulation of cellular biosynthetic process
+GO:1901216	24	GO:0010941	regulation of cell death
+GO:0061900	21	GO:0009607	response to biotic stimulus
+GO:0031343	24	GO:0010941	regulation of cell death
+GO:0031349	11	GO:0002920	regulation of humoral immune response
+GO:0031333	24	GO:0010941	regulation of cell death
+GO:0042759	3	GO:0009110	vitamin biosynthetic process
+GO:0140546	7	GO:0045087	innate immune response
+GO:0061512	22	GO:0034220	ion transmembrane transport
+GO:0032793	4	GO:0031326	regulation of cellular biosynthetic process
+GO:0008340	16	GO:0055123	digestive system development
+GO:0034341	7	GO:0045087	innate immune response
+GO:0046503	3	GO:0009110	vitamin biosynthetic process
+GO:0010508	4	GO:0031326	regulation of cellular biosynthetic process
+GO:1905522	8	GO:0002685	regulation of leukocyte migration
+GO:0006766	3	GO:0009110	vitamin biosynthetic process
+GO:0032768	18	GO:0065009	regulation of molecular function
+GO:2000310	9	GO:0007166	cell surface receptor signaling pathway
+GO:0033141	5	GO:0001932	regulation of protein phosphorylation
+GO:1902003	6	GO:0030162	regulation of proteolysis
+GO:1902004	6	GO:0030162	regulation of proteolysis
+GO:0098908	24	GO:0010941	regulation of cell death
+GO:0032770	18	GO:0065009	regulation of molecular function
+GO:0006775	3	GO:0009110	vitamin biosynthetic process
+GO:0033135	5	GO:0001932	regulation of protein phosphorylation
+GO:0150076	21	GO:0009607	response to biotic stimulus
+GO:0033138	5	GO:0001932	regulation of protein phosphorylation
+GO:0033139	5	GO:0001932	regulation of protein phosphorylation
+GO:0051249	12	GO:0046649	lymphocyte activation
+GO:0045761	18	GO:0065009	regulation of molecular function
+GO:0019724	21	GO:0009607	response to biotic stimulus
+GO:1903083	22	GO:0034220	ion transmembrane transport
+GO:1900073	24	GO:0010941	regulation of cell death
+GO:0030162	6	GO:0030162	regulation of proteolysis
+GO:0034501	22	GO:0034220	ion transmembrane transport
+GO:0031396	6	GO:0030162	regulation of proteolysis
+GO:2001021	9	GO:0007166	cell surface receptor signaling pathway
+GO:0050790	18	GO:0065009	regulation of molecular function
+GO:0007166	9	GO:0007166	cell surface receptor signaling pathway
+GO:0042129	12	GO:0046649	lymphocyte activation
+GO:0070050	24	GO:0010941	regulation of cell death
+GO:0052547	6	GO:0030162	regulation of proteolysis
+GO:0052548	6	GO:0030162	regulation of proteolysis
+GO:0001172	3	GO:0009110	vitamin biosynthetic process
+GO:0002694	12	GO:0046649	lymphocyte activation
+GO:0042659	15	GO:0051962	positive regulation of nervous system development
+GO:0002708	11	GO:0002920	regulation of humoral immune response
+GO:1903320	6	GO:0030162	regulation of proteolysis
+GO:0045861	6	GO:0030162	regulation of proteolysis
+GO:0007320	19	GO:0019953	sexual reproduction
+GO:0046649	12	GO:0046649	lymphocyte activation
+GO:0065009	18	GO:0065009	regulation of molecular function
+GO:0051350	18	GO:0065009	regulation of molecular function
+GO:0007620	19	GO:0019953	sexual reproduction
+GO:0006641	3	GO:0009110	vitamin biosynthetic process
+GO:0031280	18	GO:0065009	regulation of molecular function
+GO:0010466	6	GO:0030162	regulation of proteolysis
+GO:0002637	1	GO:0001817	regulation of cytokine production
+GO:0002821	11	GO:0002920	regulation of humoral immune response
+GO:0002824	11	GO:0002920	regulation of humoral immune response
+GO:0051346	18	GO:0065009	regulation of molecular function
+GO:0051336	18	GO:0065009	regulation of molecular function
+GO:0002250	21	GO:0009607	response to biotic stimulus
+GO:0050865	24	GO:0010941	regulation of cell death
+GO:0001841	16	GO:0055123	digestive system development
+GO:0001843	16	GO:0055123	digestive system development
+GO:0001838	16	GO:0055123	digestive system development
+GO:0019098	19	GO:0019953	sexual reproduction
+GO:0016064	21	GO:0009607	response to biotic stimulus
+GO:0044092	18	GO:0065009	regulation of molecular function
+GO:0060606	16	GO:0055123	digestive system development
+GO:0060278	19	GO:0019953	sexual reproduction
+GO:0060279	19	GO:0019953	sexual reproduction
+GO:0014020	16	GO:0055123	digestive system development
+GO:0051240	15	GO:0051962	positive regulation of nervous system development
+GO:0071357	7	GO:0045087	innate immune response
+GO:0042744	3	GO:0009110	vitamin biosynthetic process
+GO:0015886	22	GO:0034220	ion transmembrane transport
+GO:0000183	4	GO:0031326	regulation of cellular biosynthetic process
+GO:0093002	21	GO:0009607	response to biotic stimulus
+GO:2000649	22	GO:0034220	ion transmembrane transport
+GO:1990700	23	GO:0051298	centrosome duplication
+GO:1901379	22	GO:0034220	ion transmembrane transport
+GO:0090031	4	GO:0031326	regulation of cellular biosynthetic process
+GO:0086009	22	GO:0034220	ion transmembrane transport
+GO:0039502	10	GO:0060339	negative regulation of type I interferon-mediated signaling pathway
+GO:0021551	16	GO:0055123	digestive system development
+GO:0045998	4	GO:0031326	regulation of cellular biosynthetic process
+GO:0043570	3	GO:0009110	vitamin biosynthetic process
+GO:0060337	10	GO:0060339	negative regulation of type I interferon-mediated signaling pathway
+GO:0060338	10	GO:0060339	negative regulation of type I interferon-mediated signaling pathway
+GO:0060339	10	GO:0060339	negative regulation of type I interferon-mediated signaling pathway
+GO:0043266	22	GO:0034220	ion transmembrane transport
+GO:0045966	4	GO:0031326	regulation of cellular biosynthetic process
+GO:0001960	10	GO:0060339	negative regulation of type I interferon-mediated signaling pathway
+GO:0043271	22	GO:0034220	ion transmembrane transport
+GO:0060761	11	GO:0002920	regulation of humoral immune response
+GO:0007553	4	GO:0031326	regulation of cellular biosynthetic process
+GO:0007554	4	GO:0031326	regulation of cellular biosynthetic process
+GO:0048168	24	GO:0010941	regulation of cell death
+GO:0048831	15	GO:0051962	positive regulation of nervous system development
+GO:0015031	22	GO:0034220	ion transmembrane transport
+GO:0032801	3	GO:0009110	vitamin biosynthetic process
+GO:0098869	21	GO:0009607	response to biotic stimulus
+GO:0051321	19	GO:0019953	sexual reproduction
+GO:1905953	24	GO:0010941	regulation of cell death
+GO:0034340	7	GO:0045087	innate immune response
+GO:0017121	22	GO:0034220	ion transmembrane transport
+GO:0051305	23	GO:0051298	centrosome duplication
+GO:0002168	16	GO:0055123	digestive system development
+GO:0050000	22	GO:0034220	ion transmembrane transport
+GO:0016926	2	GO:0042982	amyloid precursor protein metabolic process
+GO:0043280	6	GO:0030162	regulation of proteolysis
+GO:0043281	6	GO:0030162	regulation of proteolysis
+GO:0098586	7	GO:0045087	innate immune response
+GO:0042330	21	GO:0009607	response to biotic stimulus
+GO:0097202	6	GO:0030162	regulation of proteolysis
+GO:1904747	15	GO:0051962	positive regulation of nervous system development
+GO:0031508	4	GO:0031326	regulation of cellular biosynthetic process
+GO:0031509	4	GO:0031326	regulation of cellular biosynthetic process
+GO:0016579	2	GO:0042982	amyloid precursor protein metabolic process
+GO:1900118	24	GO:0010941	regulation of cell death
+GO:0031048	4	GO:0031326	regulation of cellular biosynthetic process
+GO:0006826	22	GO:0034220	ion transmembrane transport
+GO:0034508	23	GO:0051298	centrosome duplication
+GO:0042475	16	GO:0055123	digestive system development
+GO:0042476	16	GO:0055123	digestive system development
+GO:0006919	6	GO:0030162	regulation of proteolysis
+GO:0031647	18	GO:0065009	regulation of molecular function
+GO:0050829	7	GO:0045087	innate immune response
+GO:0045597	15	GO:0051962	positive regulation of nervous system development
+GO:1902742	17	GO:0021782	glial cell development
+GO:0010720	15	GO:0051962	positive regulation of nervous system development
+GO:0031214	16	GO:0055123	digestive system development
+GO:0046716	24	GO:0010941	regulation of cell death
+GO:0030466	4	GO:0031326	regulation of cellular biosynthetic process
+GO:0030587	16	GO:0055123	digestive system development
+GO:0002376	21	GO:0009607	response to biotic stimulus
+GO:1901678	22	GO:0034220	ion transmembrane transport
+GO:0040011	21	GO:0009607	response to biotic stimulus
+GO:0010954	6	GO:0030162	regulation of proteolysis
+GO:0040034	15	GO:0051962	positive regulation of nervous system development
+GO:0030042	23	GO:0051298	centrosome duplication
+GO:1905808	24	GO:0010941	regulation of cell death
+GO:0043628	3	GO:0009110	vitamin biosynthetic process
+GO:0042742	7	GO:0045087	innate immune response
+GO:0070782	22	GO:0034220	ion transmembrane transport
+GO:2000816	23	GO:0051298	centrosome duplication
+GO:0002697	11	GO:0002920	regulation of humoral immune response
+GO:1902100	23	GO:0051298	centrosome duplication
+GO:0031577	24	GO:0010941	regulation of cell death
+GO:0007638	21	GO:0009607	response to biotic stimulus
+GO:0042332	21	GO:0009607	response to biotic stimulus
+GO:0006898	22	GO:0034220	ion transmembrane transport
+GO:0050730	5	GO:0001932	regulation of protein phosphorylation
+GO:0050731	5	GO:0001932	regulation of protein phosphorylation
+GO:0051298	23	GO:0051298	centrosome duplication
+GO:0045841	23	GO:0051298	centrosome duplication
+GO:0016048	21	GO:0009607	response to biotic stimulus
+GO:0008049	19	GO:0019953	sexual reproduction
+GO:1903037	24	GO:0010941	regulation of cell death
+GO:0045839	23	GO:0051298	centrosome duplication
+GO:0050863	12	GO:0046649	lymphocyte activation
+GO:0072659	22	GO:0034220	ion transmembrane transport
+GO:0045940	4	GO:0031326	regulation of cellular biosynthetic process
+GO:0050810	4	GO:0031326	regulation of cellular biosynthetic process
+GO:0062013	4	GO:0031326	regulation of cellular biosynthetic process
+GO:0042110	12	GO:0046649	lymphocyte activation
+GO:0048565	16	GO:0055123	digestive system development
+GO:0010893	4	GO:0031326	regulation of cellular biosynthetic process
+GO:0051784	23	GO:0051298	centrosome duplication
+GO:1904064	22	GO:0034220	ion transmembrane transport
+GO:0046889	4	GO:0031326	regulation of cellular biosynthetic process
+GO:0048060	21	GO:0009607	response to biotic stimulus
+GO:0010965	23	GO:0051298	centrosome duplication
+GO:0019221	9	GO:0007166	cell surface receptor signaling pathway
+GO:0055123	16	GO:0055123	digestive system development
+GO:0019218	4	GO:0031326	regulation of cellular biosynthetic process
+GO:1905342	24	GO:0010941	regulation of cell death
+GO:0002832	11	GO:0002920	regulation of humoral immune response
+GO:0007422	16	GO:0055123	digestive system development
+GO:0007411	17	GO:0021782	glial cell development
+GO:0043052	21	GO:0009607	response to biotic stimulus
+GO:0007413	17	GO:0021782	glial cell development
+GO:0033555	21	GO:0009607	response to biotic stimulus
+GO:1905819	24	GO:0010941	regulation of cell death
+GO:0050670	12	GO:0046649	lymphocyte activation
+GO:0009629	21	GO:0009607	response to biotic stimulus
+GO:0007094	23	GO:0051298	centrosome duplication
+GO:1903394	23	GO:0051298	centrosome duplication
+GO:0051304	23	GO:0051298	centrosome duplication
+GO:0051985	24	GO:0010941	regulation of cell death
+GO:0048265	21	GO:0009607	response to biotic stimulus
+GO:0048266	21	GO:0009607	response to biotic stimulus
+GO:0007159	24	GO:0010941	regulation of cell death
+GO:0033046	23	GO:0051298	centrosome duplication
+GO:0033047	23	GO:0051298	centrosome duplication
+GO:0033048	23	GO:0051298	centrosome duplication
+GO:0071173	24	GO:0010941	regulation of cell death
+GO:0071174	24	GO:0010941	regulation of cell death
+GO:2001251	23	GO:0051298	centrosome duplication
+GO:0010696	23	GO:0051298	centrosome duplication

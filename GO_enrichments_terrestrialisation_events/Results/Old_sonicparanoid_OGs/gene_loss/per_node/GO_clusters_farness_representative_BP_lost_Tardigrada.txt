@@ -1,0 +1,311 @@
+GO:1900034	14	GO:0050777	negative regulation of immune response
+GO:1903531	12	GO:0008284	positive regulation of cell population proliferation
+GO:0003206	5	GO:0001501	skeletal system development
+GO:0046693	9	GO:0019953	sexual reproduction
+GO:1901224	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0050805	12	GO:0008284	positive regulation of cell population proliferation
+GO:0010393	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:1990266	13	GO:0006959	humoral immune response
+GO:0016558	8	GO:0034220	ion transmembrane transport
+GO:0019221	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:2000294	10	GO:0031646	positive regulation of nervous system process
+GO:0015919	8	GO:0034220	ion transmembrane transport
+GO:0010378	14	GO:0050777	negative regulation of immune response
+GO:0018996	10	GO:0031646	positive regulation of nervous system process
+GO:0031295	12	GO:0008284	positive regulation of cell population proliferation
+GO:2000252	12	GO:0008284	positive regulation of cell population proliferation
+GO:0090303	14	GO:0050777	negative regulation of immune response
+GO:0015908	8	GO:0034220	ion transmembrane transport
+GO:0034142	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0034143	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0008585	5	GO:0001501	skeletal system development
+GO:0045490	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0008543	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:1904731	8	GO:0034220	ion transmembrane transport
+GO:0019722	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0048332	5	GO:0001501	skeletal system development
+GO:0033674	12	GO:0008284	positive regulation of cell population proliferation
+GO:0045488	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0006278	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:2000785	12	GO:0008284	positive regulation of cell population proliferation
+GO:0034219	8	GO:0034220	ion transmembrane transport
+GO:0045434	9	GO:0019953	sexual reproduction
+GO:0042744	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0035073	5	GO:0001501	skeletal system development
+GO:0035075	1	GO:0071869	response to catecholamine
+GO:0022600	10	GO:0031646	positive regulation of nervous system process
+GO:0008645	8	GO:0034220	ion transmembrane transport
+GO:0035007	14	GO:0050777	negative regulation of immune response
+GO:0035008	14	GO:0050777	negative regulation of immune response
+GO:0019835	12	GO:0008284	positive regulation of cell population proliferation
+GO:0090101	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0051148	7	GO:1902106	negative regulation of leukocyte differentiation
+GO:0060438	5	GO:0001501	skeletal system development
+GO:0048199	8	GO:0034220	ion transmembrane transport
+GO:0044088	12	GO:0008284	positive regulation of cell population proliferation
+GO:0048168	12	GO:0008284	positive regulation of cell population proliferation
+GO:0070588	8	GO:0034220	ion transmembrane transport
+GO:1902106	7	GO:1902106	negative regulation of leukocyte differentiation
+GO:0045299	5	GO:0001501	skeletal system development
+GO:0042595	13	GO:0006959	humoral immune response
+GO:0002376	13	GO:0006959	humoral immune response
+GO:0071346	13	GO:0006959	humoral immune response
+GO:0001704	5	GO:0001501	skeletal system development
+GO:0001707	5	GO:0001501	skeletal system development
+GO:0033002	12	GO:0008284	positive regulation of cell population proliferation
+GO:0008063	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0007426	5	GO:0001501	skeletal system development
+GO:0007427	5	GO:0001501	skeletal system development
+GO:0030308	12	GO:0008284	positive regulation of cell population proliferation
+GO:0007428	5	GO:0001501	skeletal system development
+GO:0070664	12	GO:0008284	positive regulation of cell population proliferation
+GO:0007429	5	GO:0001501	skeletal system development
+GO:0050960	10	GO:0031646	positive regulation of nervous system process
+GO:0050965	10	GO:0031646	positive regulation of nervous system process
+GO:0050968	10	GO:0031646	positive regulation of nervous system process
+GO:0007430	5	GO:0001501	skeletal system development
+GO:0042690	7	GO:1902106	negative regulation of leukocyte differentiation
+GO:0050918	13	GO:0006959	humoral immune response
+GO:0045752	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0007193	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0042661	7	GO:1902106	negative regulation of leukocyte differentiation
+GO:0030421	10	GO:0031646	positive regulation of nervous system process
+GO:0097530	13	GO:0006959	humoral immune response
+GO:0071417	1	GO:0071869	response to catecholamine
+GO:0007169	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:1903350	1	GO:0071869	response to catecholamine
+GO:1903351	1	GO:0071869	response to catecholamine
+GO:0003012	10	GO:0031646	positive regulation of nervous system process
+GO:0007186	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0007187	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0007188	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0031663	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0031666	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0010739	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0061077	12	GO:0008284	positive regulation of cell population proliferation
+GO:0030193	14	GO:0050777	negative regulation of immune response
+GO:0006508	4	GO:0036211	protein modification process
+GO:0031646	10	GO:0031646	positive regulation of nervous system process
+GO:0001580	10	GO:0031646	positive regulation of nervous system process
+GO:0032228	12	GO:0008284	positive regulation of cell population proliferation
+GO:0018108	4	GO:0036211	protein modification process
+GO:0031638	4	GO:0036211	protein modification process
+GO:0006690	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0001573	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0060761	14	GO:0050777	negative regulation of immune response
+GO:0001516	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0060759	14	GO:0050777	negative regulation of immune response
+GO:0007298	6	GO:0030707	ovarian follicle cell development
+GO:0045887	7	GO:1902106	negative regulation of leukocyte differentiation
+GO:1901048	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0010877	8	GO:0034220	ion transmembrane transport
+GO:0006689	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0045824	14	GO:0050777	negative regulation of immune response
+GO:0006625	8	GO:0034220	ion transmembrane transport
+GO:0046479	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0007272	5	GO:0001501	skeletal system development
+GO:0032760	10	GO:0031646	positive regulation of nervous system process
+GO:0007218	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0034605	13	GO:0006959	humoral immune response
+GO:0039573	14	GO:0050777	negative regulation of immune response
+GO:0032729	10	GO:0031646	positive regulation of nervous system process
+GO:0002264	13	GO:0006959	humoral immune response
+GO:0015749	8	GO:0034220	ion transmembrane transport
+GO:0000165	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0009820	4	GO:0036211	protein modification process
+GO:0009821	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0042048	13	GO:0006959	humoral immune response
+GO:0098734	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0032891	8	GO:0034220	ion transmembrane transport
+GO:0008366	5	GO:0001501	skeletal system development
+GO:0035154	5	GO:0001501	skeletal system development
+GO:0032876	12	GO:0008284	positive regulation of cell population proliferation
+GO:0008347	5	GO:0001501	skeletal system development
+GO:0019953	9	GO:0019953	sexual reproduction
+GO:0003391	5	GO:0001501	skeletal system development
+GO:0035147	5	GO:0001501	skeletal system development
+GO:0035149	5	GO:0001501	skeletal system development
+GO:0048511	13	GO:0006959	humoral immune response
+GO:0010656	12	GO:0008284	positive regulation of cell population proliferation
+GO:1905789	10	GO:0031646	positive regulation of nervous system process
+GO:1905770	7	GO:1902106	negative regulation of leukocyte differentiation
+GO:0045614	7	GO:1902106	negative regulation of leukocyte differentiation
+GO:1902622	14	GO:0050777	negative regulation of immune response
+GO:0043574	8	GO:0034220	ion transmembrane transport
+GO:0030707	6	GO:0030707	ovarian follicle cell development
+GO:0040010	12	GO:0008284	positive regulation of cell population proliferation
+GO:0040013	12	GO:0008284	positive regulation of cell population proliferation
+GO:0040015	7	GO:1902106	negative regulation of leukocyte differentiation
+GO:0023041	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0040040	13	GO:0006959	humoral immune response
+GO:0048660	12	GO:0008284	positive regulation of cell population proliferation
+GO:0048661	12	GO:0008284	positive regulation of cell population proliferation
+GO:0048659	12	GO:0008284	positive regulation of cell population proliferation
+GO:0035215	5	GO:0001501	skeletal system development
+GO:0095500	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0071867	1	GO:0071869	response to catecholamine
+GO:0071868	1	GO:0071869	response to catecholamine
+GO:0071869	1	GO:0071869	response to catecholamine
+GO:0071870	1	GO:0071869	response to catecholamine
+GO:0035202	5	GO:0001501	skeletal system development
+GO:1905885	8	GO:0034220	ion transmembrane transport
+GO:0006953	13	GO:0006959	humoral immune response
+GO:0006956	14	GO:0050777	negative regulation of immune response
+GO:0006959	13	GO:0006959	humoral immune response
+GO:0007586	10	GO:0031646	positive regulation of nervous system process
+GO:0007588	10	GO:0031646	positive regulation of nervous system process
+GO:0110077	8	GO:0034220	ion transmembrane transport
+GO:0030593	13	GO:0006959	humoral immune response
+GO:0001960	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0006907	8	GO:0034220	ion transmembrane transport
+GO:0090022	14	GO:0050777	negative regulation of immune response
+GO:0001959	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0019377	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0007501	5	GO:0001501	skeletal system development
+GO:1903706	7	GO:1902106	negative regulation of leukocyte differentiation
+GO:1903707	7	GO:1902106	negative regulation of leukocyte differentiation
+GO:0098664	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0045087	13	GO:0006959	humoral immune response
+GO:0032649	10	GO:0031646	positive regulation of nervous system process
+GO:0003151	5	GO:0001501	skeletal system development
+GO:0002526	13	GO:0006959	humoral immune response
+GO:0030512	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0030516	7	GO:1902106	negative regulation of leukocyte differentiation
+GO:0030517	7	GO:1902106	negative regulation of leukocyte differentiation
+GO:0032609	10	GO:0031646	positive regulation of nervous system process
+GO:0008284	12	GO:0008284	positive regulation of cell population proliferation
+GO:0050771	7	GO:1902106	negative regulation of leukocyte differentiation
+GO:0050777	14	GO:0050777	negative regulation of immune response
+GO:0007638	13	GO:0006959	humoral immune response
+GO:0034391	12	GO:0008284	positive regulation of cell population proliferation
+GO:0050728	14	GO:0050777	negative regulation of immune response
+GO:0050729	14	GO:0050777	negative regulation of immune response
+GO:0002673	14	GO:0050777	negative regulation of immune response
+GO:0051953	8	GO:0034220	ion transmembrane transport
+GO:0051955	8	GO:0034220	ion transmembrane transport
+GO:0051956	8	GO:0034220	ion transmembrane transport
+GO:0042472	5	GO:0001501	skeletal system development
+GO:0071621	13	GO:0006959	humoral immune response
+GO:0071622	14	GO:0050777	negative regulation of immune response
+GO:0043052	13	GO:0006959	humoral immune response
+GO:0010977	7	GO:1902106	negative regulation of leukocyte differentiation
+GO:0050893	10	GO:0031646	positive regulation of nervous system process
+GO:0042438	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:1900020	4	GO:0036211	protein modification process
+GO:0046514	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0003231	5	GO:0001501	skeletal system development
+GO:0050850	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0046545	5	GO:0001501	skeletal system development
+GO:0043279	1	GO:0071869	response to catecholamine
+GO:0010493	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0006582	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0006589	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0006570	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0002443	13	GO:0006959	humoral immune response
+GO:0002449	13	GO:0006959	humoral immune response
+GO:0019724	13	GO:0006959	humoral immune response
+GO:0019748	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0070647	4	GO:0036211	protein modification process
+GO:0051965	7	GO:1902106	negative regulation of leukocyte differentiation
+GO:1904396	12	GO:0008284	positive regulation of cell population proliferation
+GO:1904398	12	GO:0008284	positive regulation of cell population proliferation
+GO:0030157	10	GO:0031646	positive regulation of nervous system process
+GO:0098703	8	GO:0034220	ion transmembrane transport
+GO:0042387	7	GO:1902106	negative regulation of leukocyte differentiation
+GO:0060041	5	GO:0001501	skeletal system development
+GO:0007304	6	GO:0030707	ovarian follicle cell development
+GO:0007306	6	GO:0030707	ovarian follicle cell development
+GO:0006693	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0002158	12	GO:0008284	positive regulation of cell population proliferation
+GO:0042311	10	GO:0031646	positive regulation of nervous system process
+GO:0098869	13	GO:0006959	humoral immune response
+GO:0006611	8	GO:0034220	ion transmembrane transport
+GO:0035435	8	GO:0034220	ion transmembrane transport
+GO:1903051	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0007417	5	GO:0001501	skeletal system development
+GO:0051447	12	GO:0008284	positive regulation of cell population proliferation
+GO:1903037	12	GO:0008284	positive regulation of cell population proliferation
+GO:0042421	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0042423	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0042415	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0042417	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0042439	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0032481	10	GO:0031646	positive regulation of nervous system process
+GO:0035148	5	GO:0001501	skeletal system development
+GO:0032446	4	GO:0036211	protein modification process
+GO:0051180	8	GO:0034220	ion transmembrane transport
+GO:0032435	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0055085	8	GO:0034220	ion transmembrane transport
+GO:0042177	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0018212	4	GO:0036211	protein modification process
+GO:0042136	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0009312	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0036065	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0016567	4	GO:0036211	protein modification process
+GO:0000079	4	GO:0036211	protein modification process
+GO:0044344	1	GO:0071869	response to catecholamine
+GO:1905516	9	GO:0019953	sexual reproduction
+GO:0120163	10	GO:0031646	positive regulation of nervous system process
+GO:0051241	7	GO:1902106	negative regulation of leukocyte differentiation
+GO:0007200	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0008643	8	GO:0034220	ion transmembrane transport
+GO:0016064	13	GO:0006959	humoral immune response
+GO:0050954	10	GO:0031646	positive regulation of nervous system process
+GO:0006313	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0006979	13	GO:0006959	humoral immune response
+GO:0050911	10	GO:0031646	positive regulation of nervous system process
+GO:0032218	8	GO:0034220	ion transmembrane transport
+GO:0033688	12	GO:0008284	positive regulation of cell population proliferation
+GO:0050907	10	GO:0031646	positive regulation of nervous system process
+GO:1903975	7	GO:1902106	negative regulation of leukocyte differentiation
+GO:1903977	7	GO:1902106	negative regulation of leukocyte differentiation
+GO:0006468	4	GO:0036211	protein modification process
+GO:0006486	4	GO:0036211	protein modification process
+GO:0015721	8	GO:0034220	ion transmembrane transport
+GO:0040019	7	GO:1902106	negative regulation of leukocyte differentiation
+GO:0015718	8	GO:0034220	ion transmembrane transport
+GO:0048662	12	GO:0008284	positive regulation of cell population proliferation
+GO:0035810	10	GO:0031646	positive regulation of nervous system process
+GO:0032728	10	GO:0031646	positive regulation of nervous system process
+GO:0045596	7	GO:1902106	negative regulation of leukocyte differentiation
+GO:0048015	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0009100	4	GO:0036211	protein modification process
+GO:0009101	4	GO:0036211	protein modification process
+GO:1901799	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:1903430	7	GO:1902106	negative regulation of leukocyte differentiation
+GO:1903431	7	GO:1902106	negative regulation of leukocyte differentiation
+GO:0007596	10	GO:0031646	positive regulation of nervous system process
+GO:0007599	10	GO:0031646	positive regulation of nervous system process
+GO:0046942	8	GO:0034220	ion transmembrane transport
+GO:0015812	8	GO:0034220	ion transmembrane transport
+GO:0090305	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0032875	12	GO:0008284	positive regulation of cell population proliferation
+GO:0015838	8	GO:0034220	ion transmembrane transport
+GO:0007517	5	GO:0001501	skeletal system development
+GO:0060281	6	GO:0030707	ovarian follicle cell development
+GO:0060282	6	GO:0030707	ovarian follicle cell development
+GO:0071684	10	GO:0031646	positive regulation of nervous system process
+GO:0060278	9	GO:0019953	sexual reproduction
+GO:0034220	8	GO:0034220	ion transmembrane transport
+GO:0045611	7	GO:1902106	negative regulation of leukocyte differentiation
+GO:0045613	7	GO:1902106	negative regulation of leukocyte differentiation
+GO:0051093	7	GO:1902106	negative regulation of leukocyte differentiation
+GO:0016925	4	GO:0036211	protein modification process
+GO:0042023	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0042689	7	GO:1902106	negative regulation of leukocyte differentiation
+GO:0007608	10	GO:0031646	positive regulation of nervous system process
+GO:0015074	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0043413	4	GO:0036211	protein modification process
+GO:2000272	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0016485	4	GO:0036211	protein modification process
+GO:0043406	12	GO:0008284	positive regulation of cell population proliferation
+GO:0032648	10	GO:0031646	positive regulation of nervous system process
+GO:0001556	6	GO:0030707	ovarian follicle cell development
+GO:0032608	10	GO:0031646	positive regulation of nervous system process
+GO:0050817	10	GO:0031646	positive regulation of nervous system process
+GO:0001501	5	GO:0001501	skeletal system development
+GO:0036211	4	GO:0036211	protein modification process
+GO:1902435	9	GO:0019953	sexual reproduction
+GO:0008217	10	GO:0031646	positive regulation of nervous system process
+GO:0002460	13	GO:0006959	humoral immune response
+GO:0043252	8	GO:0034220	ion transmembrane transport

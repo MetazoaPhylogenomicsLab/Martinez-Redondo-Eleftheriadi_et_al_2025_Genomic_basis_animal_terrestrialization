@@ -1,0 +1,22 @@
+GO:0098754	1	GO:1990748	cellular detoxification
+GO:0009409	2	GO:0006790	sulfur compound metabolic process
+GO:2000242	3	GO:0008285	negative regulation of cell population proliferation
+GO:0098869	1	GO:1990748	cellular detoxification
+GO:1990748	1	GO:1990748	cellular detoxification
+GO:0010389	3	GO:0008285	negative regulation of cell population proliferation
+GO:0006790	2	GO:0006790	sulfur compound metabolic process
+GO:0098542	2	GO:0006790	sulfur compound metabolic process
+GO:0007626	2	GO:0006790	sulfur compound metabolic process
+GO:0008285	3	GO:0008285	negative regulation of cell population proliferation
+GO:2000254	3	GO:0008285	negative regulation of cell population proliferation
+GO:0097237	1	GO:1990748	cellular detoxification
+GO:0002181	2	GO:0006790	sulfur compound metabolic process
+GO:0001516	2	GO:0006790	sulfur compound metabolic process
+GO:0120162	3	GO:0008285	negative regulation of cell population proliferation
+GO:0031424	2	GO:0006790	sulfur compound metabolic process
+GO:0040015	3	GO:0008285	negative regulation of cell population proliferation
+GO:0051241	3	GO:0008285	negative regulation of cell population proliferation
+GO:0006749	2	GO:0006790	sulfur compound metabolic process
+GO:0006685	2	GO:0006790	sulfur compound metabolic process
+GO:0050873	2	GO:0006790	sulfur compound metabolic process
+GO:0046513	2	GO:0006790	sulfur compound metabolic process

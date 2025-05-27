@@ -1,0 +1,105 @@
+GO:0090729	7	GO:0030280	structural constituent of skin epidermis
+GO:0010385	3	GO:0003677	DNA binding
+GO:0051373	2	GO:0005515	protein binding
+GO:0000774	6	GO:0003700	DNA-binding transcription factor activity
+GO:0060590	6	GO:0003700	DNA-binding transcription factor activity
+GO:0042030	6	GO:0003700	DNA-binding transcription factor activity
+GO:0034987	2	GO:0005515	protein binding
+GO:0008092	2	GO:0005515	protein binding
+GO:1990226	2	GO:0005515	protein binding
+GO:0008097	3	GO:0003677	DNA binding
+GO:0035375	2	GO:0005515	protein binding
+GO:0000995	7	GO:0030280	structural constituent of skin epidermis
+GO:0005102	2	GO:0005515	protein binding
+GO:0031849	2	GO:0005515	protein binding
+GO:0030020	7	GO:0030280	structural constituent of skin epidermis
+GO:0097108	2	GO:0005515	protein binding
+GO:0008083	2	GO:0005515	protein binding
+GO:0045735	7	GO:0030280	structural constituent of skin epidermis
+GO:1990446	1	GO:0008289	lipid binding
+GO:0048185	1	GO:0008289	lipid binding
+GO:0030280	7	GO:0030280	structural constituent of skin epidermis
+GO:0005125	2	GO:0005515	protein binding
+GO:0005126	2	GO:0005515	protein binding
+GO:0005024	5	GO:0019198	transmembrane receptor protein phosphatase activity
+GO:0000981	6	GO:0003700	DNA-binding transcription factor activity
+GO:0000987	3	GO:0003677	DNA binding
+GO:0000977	3	GO:0003677	DNA binding
+GO:0000978	3	GO:0003677	DNA binding
+GO:0044183	7	GO:0030280	structural constituent of skin epidermis
+GO:0003730	3	GO:0003677	DNA binding
+GO:0000900	3	GO:0003677	DNA binding
+GO:0005488	2	GO:0005515	protein binding
+GO:0005044	7	GO:0030280	structural constituent of skin epidermis
+GO:0005136	2	GO:0005515	protein binding
+GO:0030291	6	GO:0003700	DNA-binding transcription factor activity
+GO:0039660	7	GO:0030280	structural constituent of skin epidermis
+GO:0015020	5	GO:0019198	transmembrane receptor protein phosphatase activity
+GO:0043130	2	GO:0005515	protein binding
+GO:0032813	2	GO:0005515	protein binding
+GO:0005001	5	GO:0019198	transmembrane receptor protein phosphatase activity
+GO:0019198	5	GO:0019198	transmembrane receptor protein phosphatase activity
+GO:0008179	2	GO:0005515	protein binding
+GO:0017002	5	GO:0019198	transmembrane receptor protein phosphatase activity
+GO:0051428	2	GO:0005515	protein binding
+GO:0030881	2	GO:0005515	protein binding
+GO:0048018	2	GO:0005515	protein binding
+GO:0004675	5	GO:0019198	transmembrane receptor protein phosphatase activity
+GO:0008289	1	GO:0008289	lipid binding
+GO:0019864	1	GO:0008289	lipid binding
+GO:0005179	2	GO:0005515	protein binding
+GO:0017124	2	GO:0005515	protein binding
+GO:0005085	6	GO:0003700	DNA-binding transcription factor activity
+GO:0070851	2	GO:0005515	protein binding
+GO:0051787	2	GO:0005515	protein binding
+GO:0031267	2	GO:0005515	protein binding
+GO:0046872	1	GO:0008289	lipid binding
+GO:0005509	1	GO:0008289	lipid binding
+GO:0034040	4	GO:0034040	ATPase-coupled lipid transmembrane transporter activity
+GO:0140359	4	GO:0034040	ATPase-coupled lipid transmembrane transporter activity
+GO:0034190	2	GO:0005515	protein binding
+GO:0046332	2	GO:0005515	protein binding
+GO:0005139	2	GO:0005515	protein binding
+GO:0140326	4	GO:0034040	ATPase-coupled lipid transmembrane transporter activity
+GO:0140327	4	GO:0034040	ATPase-coupled lipid transmembrane transporter activity
+GO:0005096	6	GO:0003700	DNA-binding transcription factor activity
+GO:0001227	6	GO:0003700	DNA-binding transcription factor activity
+GO:0015464	5	GO:0019198	transmembrane receptor protein phosphatase activity
+GO:0008093	6	GO:0003700	DNA-binding transcription factor activity
+GO:0022848	5	GO:0019198	transmembrane receptor protein phosphatase activity
+GO:0003700	6	GO:0003700	DNA-binding transcription factor activity
+GO:0005201	7	GO:0030280	structural constituent of skin epidermis
+GO:0001217	6	GO:0003700	DNA-binding transcription factor activity
+GO:0001530	1	GO:0008289	lipid binding
+GO:0003677	3	GO:0003677	DNA binding
+GO:0003735	7	GO:0030280	structural constituent of skin epidermis
+GO:0071933	1	GO:0008289	lipid binding
+GO:0023023	1	GO:0008289	lipid binding
+GO:0017025	2	GO:0005515	protein binding
+GO:0031369	2	GO:0005515	protein binding
+GO:0005164	2	GO:0005515	protein binding
+GO:0120160	1	GO:0008289	lipid binding
+GO:0046975	5	GO:0019198	transmembrane receptor protein phosphatase activity
+GO:0042800	5	GO:0019198	transmembrane receptor protein phosphatase activity
+GO:0008190	2	GO:0005515	protein binding
+GO:0015232	4	GO:0034040	ATPase-coupled lipid transmembrane transporter activity
+GO:0071837	2	GO:0005515	protein binding
+GO:0008301	3	GO:0003677	DNA binding
+GO:0034237	2	GO:0005515	protein binding
+GO:0051018	2	GO:0005515	protein binding
+GO:0043565	3	GO:0003677	DNA binding
+GO:1990837	3	GO:0003677	DNA binding
+GO:0001067	3	GO:0003677	DNA binding
+GO:0030297	6	GO:0003700	DNA-binding transcription factor activity
+GO:0000976	3	GO:0003677	DNA binding
+GO:0016500	5	GO:0019198	transmembrane receptor protein phosphatase activity
+GO:0097027	6	GO:0003700	DNA-binding transcription factor activity
+GO:0042803	2	GO:0005515	protein binding
+GO:0031625	2	GO:0005515	protein binding
+GO:0005515	2	GO:0005515	protein binding
+GO:0042562	1	GO:0008289	lipid binding
+GO:0070840	1	GO:0008289	lipid binding
+GO:0061630	5	GO:0019198	transmembrane receptor protein phosphatase activity
+GO:0030021	7	GO:0030280	structural constituent of skin epidermis
+GO:0030332	2	GO:0005515	protein binding
+GO:0031432	2	GO:0005515	protein binding

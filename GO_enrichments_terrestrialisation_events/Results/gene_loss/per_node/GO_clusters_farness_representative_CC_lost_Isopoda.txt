@@ -1,0 +1,194 @@
+GO:0034518	2	GO:0044423	virion component
+GO:0019030	2	GO:0044423	virion component
+GO:0019031	2	GO:0044423	virion component
+GO:0019033	2	GO:0044423	virion component
+GO:0042025	1	GO:0033643	host cell part
+GO:0001401	12	GO:0098799	outer mitochondrial membrane protein complex
+GO:0000408	2	GO:0044423	virion component
+GO:0036157	7	GO:0005885	Arp2/3 protein complex
+GO:0045169	10	GO:0045169	fusome
+GO:0008074	10	GO:0045169	fusome
+GO:0044167	1	GO:0033643	host cell part
+GO:0044156	1	GO:0033643	host cell part
+GO:0020002	1	GO:0033643	host cell part
+GO:0000781	7	GO:0005885	Arp2/3 protein complex
+GO:0043186	7	GO:0005885	Arp2/3 protein complex
+GO:0042734	5	GO:0005886	plasma membrane
+GO:0045170	8	GO:0030017	sarcomere
+GO:0044177	1	GO:0033643	host cell part
+GO:0005730	11	GO:0005654	nucleoplasm
+GO:0036379	8	GO:0030017	sarcomere
+GO:0016342	3	GO:0043190	ATP-binding cassette (ABC) transporter complex
+GO:0043657	1	GO:0033643	host cell part
+GO:0000120	11	GO:0005654	nucleoplasm
+GO:0055036	6	GO:0005576	extracellular region
+GO:0030678	12	GO:0098799	outer mitochondrial membrane protein complex
+GO:0039615	2	GO:0044423	virion component
+GO:0005654	11	GO:0005654	nucleoplasm
+GO:0033643	1	GO:0033643	host cell part
+GO:0033648	1	GO:0033643	host cell part
+GO:0018995	6	GO:0005576	extracellular region
+GO:0005680	11	GO:0005654	nucleoplasm
+GO:0042645	13	GO:0042579	microbody
+GO:0005614	5	GO:0005886	plasma membrane
+GO:0005858	7	GO:0005885	Arp2/3 protein complex
+GO:0005886	5	GO:0005886	plasma membrane
+GO:0032983	3	GO:0043190	ATP-binding cassette (ABC) transporter complex
+GO:0000812	11	GO:0005654	nucleoplasm
+GO:0005845	2	GO:0044423	virion component
+GO:0044219	1	GO:0033643	host cell part
+GO:0044423	2	GO:0044423	virion component
+GO:0098982	6	GO:0005576	extracellular region
+GO:0000214	11	GO:0005654	nucleoplasm
+GO:0044200	1	GO:0033643	host cell part
+GO:0044201	1	GO:0033643	host cell part
+GO:0005925	6	GO:0005576	extracellular region
+GO:0044204	1	GO:0033643	host cell part
+GO:0030430	1	GO:0033643	host cell part
+GO:1990423	7	GO:0005885	Arp2/3 protein complex
+GO:0000419	11	GO:0005654	nucleoplasm
+GO:0019028	2	GO:0044423	virion component
+GO:0019029	2	GO:0044423	virion component
+GO:0033647	1	GO:0033643	host cell part
+GO:0030849	7	GO:0005885	Arp2/3 protein complex
+GO:0000325	13	GO:0042579	microbody
+GO:0009535	12	GO:0098799	outer mitochondrial membrane protein complex
+GO:0008076	3	GO:0043190	ATP-binding cassette (ABC) transporter complex
+GO:0035869	4	GO:0005937	mating projection
+GO:0031160	5	GO:0005886	plasma membrane
+GO:0005615	6	GO:0005576	extracellular region
+GO:0009897	5	GO:0005886	plasma membrane
+GO:0070069	2	GO:0044423	virion component
+GO:0062023	5	GO:0005886	plasma membrane
+GO:0042579	13	GO:0042579	microbody
+GO:0032839	4	GO:0005937	mating projection
+GO:0005777	13	GO:0042579	microbody
+GO:0005581	2	GO:0044423	virion component
+GO:0005576	6	GO:0005576	extracellular region
+GO:0043020	3	GO:0043190	ATP-binding cassette (ABC) transporter complex
+GO:0098799	12	GO:0098799	outer mitochondrial membrane protein complex
+GO:0009579	10	GO:0045169	fusome
+GO:0030017	8	GO:0030017	sarcomere
+GO:0009526	13	GO:0042579	microbody
+GO:0005767	13	GO:0042579	microbody
+GO:0072562	6	GO:0005576	extracellular region
+GO:0036126	4	GO:0005937	mating projection
+GO:0044178	1	GO:0033643	host cell part
+GO:0034364	6	GO:0005576	extracellular region
+GO:0097729	4	GO:0005937	mating projection
+GO:0034357	10	GO:0045169	fusome
+GO:0005741	12	GO:0098799	outer mitochondrial membrane protein complex
+GO:0005742	12	GO:0098799	outer mitochondrial membrane protein complex
+GO:1905360	2	GO:0044423	virion component
+GO:0097730	4	GO:0005937	mating projection
+GO:0030670	9	GO:0030133	transport vesicle
+GO:0045335	9	GO:0030133	transport vesicle
+GO:0000138	12	GO:0098799	outer mitochondrial membrane protein complex
+GO:0000307	2	GO:0044423	virion component
+GO:0031463	2	GO:0044423	virion component
+GO:0045240	10	GO:0045169	fusome
+GO:0005834	3	GO:0043190	ATP-binding cassette (ABC) transporter complex
+GO:0032590	4	GO:0005937	mating projection
+GO:0030425	4	GO:0005937	mating projection
+GO:0035098	11	GO:0005654	nucleoplasm
+GO:0031097	10	GO:0045169	fusome
+GO:0098975	6	GO:0005576	extracellular region
+GO:0009941	12	GO:0098799	outer mitochondrial membrane protein complex
+GO:0000943	13	GO:0042579	microbody
+GO:1903561	9	GO:0030133	transport vesicle
+GO:0005937	4	GO:0005937	mating projection
+GO:0031597	10	GO:0045169	fusome
+GO:0042729	11	GO:0005654	nucleoplasm
+GO:1904724	9	GO:0030133	transport vesicle
+GO:0044165	1	GO:0033643	host cell part
+GO:0044172	1	GO:0033643	host cell part
+GO:0005952	2	GO:0044423	virion component
+GO:0031526	4	GO:0005937	mating projection
+GO:0043190	3	GO:0043190	ATP-binding cassette (ABC) transporter complex
+GO:0005697	11	GO:0005654	nucleoplasm
+GO:0031514	4	GO:0005937	mating projection
+GO:0120044	4	GO:0005937	mating projection
+GO:0032982	6	GO:0005576	extracellular region
+GO:0000137	12	GO:0098799	outer mitochondrial membrane protein complex
+GO:0034707	3	GO:0043190	ATP-binding cassette (ABC) transporter complex
+GO:0005919	2	GO:0044423	virion component
+GO:0005652	11	GO:0005654	nucleoplasm
+GO:0043159	13	GO:0042579	microbody
+GO:0005930	7	GO:0005885	Arp2/3 protein complex
+GO:0048046	6	GO:0005576	extracellular region
+GO:0089701	11	GO:0005654	nucleoplasm
+GO:0005766	13	GO:0042579	microbody
+GO:0019013	2	GO:0044423	virion component
+GO:0044295	4	GO:0005937	mating projection
+GO:0030313	6	GO:0005576	extracellular region
+GO:0005782	13	GO:0042579	microbody
+GO:0036128	3	GO:0043190	ATP-binding cassette (ABC) transporter complex
+GO:0031941	7	GO:0005885	Arp2/3 protein complex
+GO:0016507	11	GO:0005654	nucleoplasm
+GO:0019005	2	GO:0044423	virion component
+GO:0019008	2	GO:0044423	virion component
+GO:0030018	8	GO:0030017	sarcomere
+GO:0031672	8	GO:0030017	sarcomere
+GO:0031674	8	GO:0030017	sarcomere
+GO:0016235	10	GO:0045169	fusome
+GO:0000220	12	GO:0098799	outer mitochondrial membrane protein complex
+GO:0031907	13	GO:0042579	microbody
+GO:0044354	9	GO:0030133	transport vesicle
+GO:1990184	3	GO:0043190	ATP-binding cassette (ABC) transporter complex
+GO:0045211	5	GO:0005886	plasma membrane
+GO:0044099	6	GO:0005576	extracellular region
+GO:0042597	6	GO:0005576	extracellular region
+GO:0140007	2	GO:0044423	virion component
+GO:0035805	5	GO:0005886	plasma membrane
+GO:0008250	12	GO:0098799	outer mitochondrial membrane protein complex
+GO:0008540	10	GO:0045169	fusome
+GO:0140453	7	GO:0005885	Arp2/3 protein complex
+GO:0045202	6	GO:0005576	extracellular region
+GO:0005861	7	GO:0005885	Arp2/3 protein complex
+GO:0005865	8	GO:0030017	sarcomere
+GO:0009543	12	GO:0098799	outer mitochondrial membrane protein complex
+GO:0005869	7	GO:0005885	Arp2/3 protein complex
+GO:0042582	9	GO:0030133	transport vesicle
+GO:0042588	9	GO:0030133	transport vesicle
+GO:0070161	6	GO:0005576	extracellular region
+GO:0097014	4	GO:0005937	mating projection
+GO:0005884	7	GO:0005885	Arp2/3 protein complex
+GO:0005885	7	GO:0005885	Arp2/3 protein complex
+GO:0009279	5	GO:0005886	plasma membrane
+GO:0033111	12	GO:0098799	outer mitochondrial membrane protein complex
+GO:0016007	13	GO:0042579	microbody
+GO:0031430	8	GO:0030017	sarcomere
+GO:0044753	13	GO:0042579	microbody
+GO:0012510	9	GO:0030133	transport vesicle
+GO:0035578	9	GO:0030133	transport vesicle
+GO:0016459	7	GO:0005885	Arp2/3 protein complex
+GO:0005832	10	GO:0045169	fusome
+GO:0043083	6	GO:0005576	extracellular region
+GO:0098890	5	GO:0005886	plasma membrane
+GO:0034271	3	GO:0043190	ATP-binding cassette (ABC) transporter complex
+GO:0001726	4	GO:0005937	mating projection
+GO:0031164	12	GO:0098799	outer mitochondrial membrane protein complex
+GO:0030121	12	GO:0098799	outer mitochondrial membrane protein complex
+GO:0030133	9	GO:0030133	transport vesicle
+GO:0031143	4	GO:0005937	mating projection
+GO:0055120	8	GO:0030017	sarcomere
+GO:0034705	3	GO:0043190	ATP-binding cassette (ABC) transporter complex
+GO:0045495	10	GO:0045169	fusome
+GO:0033655	1	GO:0033643	host cell part
+GO:0060293	10	GO:0045169	fusome
+GO:0071683	4	GO:0005937	mating projection
+GO:0033644	1	GO:0033643	host cell part
+GO:0030126	12	GO:0098799	outer mitochondrial membrane protein complex
+GO:0042651	10	GO:0045169	fusome
+GO:0031676	10	GO:0045169	fusome
+GO:0042717	10	GO:0045169	fusome
+GO:0042627	6	GO:0005576	extracellular region
+GO:0030075	7	GO:0005885	Arp2/3 protein complex
+GO:0101002	9	GO:0030133	transport vesicle
+GO:0032010	9	GO:0030133	transport vesicle
+GO:1904813	9	GO:0030133	transport vesicle
+GO:0030312	5	GO:0005886	plasma membrane
+GO:0035577	9	GO:0030133	transport vesicle
+GO:0031012	5	GO:0005886	plasma membrane
+GO:0043332	4	GO:0005937	mating projection
+GO:0062129	5	GO:0005886	plasma membrane

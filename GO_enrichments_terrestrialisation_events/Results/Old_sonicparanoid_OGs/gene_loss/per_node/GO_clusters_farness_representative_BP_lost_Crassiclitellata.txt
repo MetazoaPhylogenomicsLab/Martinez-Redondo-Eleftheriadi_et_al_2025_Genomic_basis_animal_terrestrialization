@@ -1,0 +1,188 @@
+GO:1902622	6	GO:0071622	regulation of granulocyte chemotaxis
+GO:1905168	14	GO:0030047	actin modification
+GO:0006697	13	GO:1902932	positive regulation of alcohol biosynthetic process
+GO:2001238	8	GO:0008593	regulation of Notch signaling pathway
+GO:0030437	12	GO:0048762	mesenchymal cell differentiation
+GO:0090305	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0090309	4	GO:0006355	regulation of transcription, DNA-templated
+GO:0045664	12	GO:0048762	mesenchymal cell differentiation
+GO:0045666	12	GO:0048762	mesenchymal cell differentiation
+GO:0060390	8	GO:0008593	regulation of Notch signaling pathway
+GO:0060391	8	GO:0008593	regulation of Notch signaling pathway
+GO:1900020	14	GO:0030047	actin modification
+GO:0044030	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:1900015	1	GO:0032651	regulation of interleukin-1 beta production
+GO:1900016	1	GO:0032651	regulation of interleukin-1 beta production
+GO:0060326	6	GO:0071622	regulation of granulocyte chemotaxis
+GO:0051983	9	GO:0033045	regulation of sister chromatid segregation
+GO:0060348	12	GO:0048762	mesenchymal cell differentiation
+GO:0060339	8	GO:0008593	regulation of Notch signaling pathway
+GO:0009299	4	GO:0006355	regulation of transcription, DNA-templated
+GO:0033045	9	GO:0033045	regulation of sister chromatid segregation
+GO:0033047	9	GO:0033045	regulation of sister chromatid segregation
+GO:0030282	12	GO:0048762	mesenchymal cell differentiation
+GO:0000122	4	GO:0006355	regulation of transcription, DNA-templated
+GO:0022030	12	GO:0048762	mesenchymal cell differentiation
+GO:0010760	6	GO:0071622	regulation of granulocyte chemotaxis
+GO:1902991	14	GO:0030047	actin modification
+GO:1902992	14	GO:0030047	actin modification
+GO:0010764	6	GO:0071622	regulation of granulocyte chemotaxis
+GO:0010758	6	GO:0071622	regulation of granulocyte chemotaxis
+GO:1902969	14	GO:0030047	actin modification
+GO:0010738	8	GO:0008593	regulation of Notch signaling pathway
+GO:0002063	12	GO:0048762	mesenchymal cell differentiation
+GO:1902932	13	GO:1902932	positive regulation of alcohol biosynthetic process
+GO:0090220	9	GO:0033045	regulation of sister chromatid segregation
+GO:0030718	12	GO:0048762	mesenchymal cell differentiation
+GO:0006963	13	GO:1902932	positive regulation of alcohol biosynthetic process
+GO:0070121	12	GO:0048762	mesenchymal cell differentiation
+GO:1905818	9	GO:0033045	regulation of sister chromatid segregation
+GO:0010893	13	GO:1902932	positive regulation of alcohol biosynthetic process
+GO:0006955	7	GO:0006956	complement activation
+GO:0006956	7	GO:0006956	complement activation
+GO:0045998	13	GO:1902932	positive regulation of alcohol biosynthetic process
+GO:0031028	8	GO:0008593	regulation of Notch signaling pathway
+GO:0031029	8	GO:0008593	regulation of Notch signaling pathway
+GO:0006919	14	GO:0030047	actin modification
+GO:0039564	9	GO:0033045	regulation of sister chromatid segregation
+GO:0034308	13	GO:1902932	positive regulation of alcohol biosynthetic process
+GO:0034309	13	GO:1902932	positive regulation of alcohol biosynthetic process
+GO:2000028	12	GO:0048762	mesenchymal cell differentiation
+GO:0039573	7	GO:0006956	complement activation
+GO:0010845	14	GO:0030047	actin modification
+GO:0045940	13	GO:1902932	positive regulation of alcohol biosynthetic process
+GO:1905521	6	GO:0071622	regulation of granulocyte chemotaxis
+GO:0039502	8	GO:0008593	regulation of Notch signaling pathway
+GO:0060231	12	GO:0048762	mesenchymal cell differentiation
+GO:0000706	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0072078	5	GO:0072171	mesonephric tubule morphogenesis
+GO:0030593	6	GO:0071622	regulation of granulocyte chemotaxis
+GO:0030595	6	GO:0071622	regulation of granulocyte chemotaxis
+GO:0010526	9	GO:0033045	regulation of sister chromatid segregation
+GO:0050728	7	GO:0006956	complement activation
+GO:0039645	9	GO:0033045	regulation of sister chromatid segregation
+GO:0030512	8	GO:0008593	regulation of Notch signaling pathway
+GO:0008063	8	GO:0008593	regulation of Notch signaling pathway
+GO:0061062	12	GO:0048762	mesenchymal cell differentiation
+GO:0032352	13	GO:1902932	positive regulation of alcohol biosynthetic process
+GO:0061057	8	GO:0008593	regulation of Notch signaling pathway
+GO:0043470	14	GO:0030047	actin modification
+GO:0010688	4	GO:0006355	regulation of transcription, DNA-templated
+GO:0007096	9	GO:0033045	regulation of sister chromatid segregation
+GO:0007099	9	GO:0033045	regulation of sister chromatid segregation
+GO:0003418	12	GO:0048762	mesenchymal cell differentiation
+GO:0034244	4	GO:0006355	regulation of transcription, DNA-templated
+GO:0016032	10	GO:0016032	viral process
+GO:0007014	14	GO:0030047	actin modification
+GO:1990266	6	GO:0071622	regulation of granulocyte chemotaxis
+GO:0044790	10	GO:0016032	viral process
+GO:0015074	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0035067	14	GO:0030047	actin modification
+GO:0006047	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0006048	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0042138	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0006002	14	GO:0030047	actin modification
+GO:0060688	12	GO:0048762	mesenchymal cell differentiation
+GO:0060675	5	GO:0072171	mesonephric tubule morphogenesis
+GO:0140527	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0051321	9	GO:0033045	regulation of sister chromatid segregation
+GO:0010965	9	GO:0033045	regulation of sister chromatid segregation
+GO:0048478	4	GO:0006355	regulation of transcription, DNA-templated
+GO:2000176	12	GO:0048762	mesenchymal cell differentiation
+GO:0032793	4	GO:0006355	regulation of transcription, DNA-templated
+GO:0002252	7	GO:0006956	complement activation
+GO:0036392	1	GO:0032651	regulation of interleukin-1 beta production
+GO:0032755	2	GO:0001819	positive regulation of cytokine production
+GO:0032757	2	GO:0001819	positive regulation of cytokine production
+GO:0018119	14	GO:0030047	actin modification
+GO:0001172	4	GO:0006355	regulation of transcription, DNA-templated
+GO:0002230	7	GO:0006956	complement activation
+GO:0072171	5	GO:0072171	mesonephric tubule morphogenesis
+GO:0055013	12	GO:0048762	mesenchymal cell differentiation
+GO:0032731	2	GO:0001819	positive regulation of cytokine production
+GO:0048145	9	GO:0033045	regulation of sister chromatid segregation
+GO:0048147	9	GO:0033045	regulation of sister chromatid segregation
+GO:0055005	12	GO:0048762	mesenchymal cell differentiation
+GO:0021799	12	GO:0048762	mesenchymal cell differentiation
+GO:0046349	13	GO:1902932	positive regulation of alcohol biosynthetic process
+GO:0032897	10	GO:0016032	viral process
+GO:0006355	4	GO:0006355	regulation of transcription, DNA-templated
+GO:0006357	4	GO:0006355	regulation of transcription, DNA-templated
+GO:0002711	7	GO:0006956	complement activation
+GO:0036462	8	GO:0008593	regulation of Notch signaling pathway
+GO:0006383	4	GO:0006355	regulation of transcription, DNA-templated
+GO:0032825	12	GO:0048762	mesenchymal cell differentiation
+GO:0006310	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0006312	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0002708	7	GO:0006956	complement activation
+GO:0002709	7	GO:0006956	complement activation
+GO:2000736	9	GO:0033045	regulation of sister chromatid segregation
+GO:0051276	9	GO:0033045	regulation of sister chromatid segregation
+GO:0002821	7	GO:0006956	complement activation
+GO:0019068	10	GO:0016032	viral process
+GO:0002824	7	GO:0006956	complement activation
+GO:0019058	10	GO:0016032	viral process
+GO:0019083	10	GO:0016032	viral process
+GO:0048762	12	GO:0048762	mesenchymal cell differentiation
+GO:0048769	12	GO:0048762	mesenchymal cell differentiation
+GO:0007127	9	GO:0033045	regulation of sister chromatid segregation
+GO:0007131	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0021801	12	GO:0048762	mesenchymal cell differentiation
+GO:0045456	13	GO:1902932	positive regulation of alcohol biosynthetic process
+GO:0007291	12	GO:0048762	mesenchymal cell differentiation
+GO:0051781	9	GO:0033045	regulation of sister chromatid segregation
+GO:0051783	9	GO:0033045	regulation of sister chromatid segregation
+GO:0061762	8	GO:0008593	regulation of Notch signaling pathway
+GO:0032651	1	GO:0032651	regulation of interleukin-1 beta production
+GO:0007284	12	GO:0048762	mesenchymal cell differentiation
+GO:0021545	12	GO:0048762	mesenchymal cell differentiation
+GO:0048863	12	GO:0048762	mesenchymal cell differentiation
+GO:0001819	2	GO:0001819	positive regulation of cytokine production
+GO:0032611	1	GO:0032651	regulation of interleukin-1 beta production
+GO:0009070	13	GO:1902932	positive regulation of alcohol biosynthetic process
+GO:0048841	12	GO:0048762	mesenchymal cell differentiation
+GO:0048846	12	GO:0048762	mesenchymal cell differentiation
+GO:1902284	12	GO:0048762	mesenchymal cell differentiation
+GO:0002699	7	GO:0006956	complement activation
+GO:0045143	9	GO:0033045	regulation of sister chromatid segregation
+GO:1902230	8	GO:0008593	regulation of Notch signaling pathway
+GO:0030047	14	GO:0030047	actin modification
+GO:0001570	12	GO:0048762	mesenchymal cell differentiation
+GO:0098868	12	GO:0048762	mesenchymal cell differentiation
+GO:0006278	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0072574	12	GO:0048762	mesenchymal cell differentiation
+GO:0072575	12	GO:0048762	mesenchymal cell differentiation
+GO:0072576	12	GO:0048762	mesenchymal cell differentiation
+GO:0048580	12	GO:0048762	mesenchymal cell differentiation
+GO:0048524	10	GO:0016032	viral process
+GO:2000615	14	GO:0030047	actin modification
+GO:1903881	8	GO:0008593	regulation of Notch signaling pathway
+GO:1903883	8	GO:0008593	regulation of Notch signaling pathway
+GO:1903884	1	GO:0032651	regulation of interleukin-1 beta production
+GO:1903886	2	GO:0001819	positive regulation of cytokine production
+GO:0048532	12	GO:0048762	mesenchymal cell differentiation
+GO:0048538	12	GO:0048762	mesenchymal cell differentiation
+GO:0008593	8	GO:0008593	regulation of Notch signaling pathway
+GO:1901224	8	GO:0008593	regulation of Notch signaling pathway
+GO:0051569	14	GO:0030047	actin modification
+GO:0001658	5	GO:0072171	mesonephric tubule morphogenesis
+GO:0090031	13	GO:1902932	positive regulation of alcohol biosynthetic process
+GO:0046886	13	GO:1902932	positive regulation of alcohol biosynthetic process
+GO:0045787	9	GO:0033045	regulation of sister chromatid segregation
+GO:0045723	13	GO:1902932	positive regulation of alcohol biosynthetic process
+GO:0046813	10	GO:0016032	viral process
+GO:0045746	8	GO:0008593	regulation of Notch signaling pathway
+GO:0032955	9	GO:0033045	regulation of sister chromatid segregation
+GO:1902806	9	GO:0033045	regulation of sister chromatid segregation
+GO:1902807	9	GO:0033045	regulation of sister chromatid segregation
+GO:0045892	4	GO:0006355	regulation of transcription, DNA-templated
+GO:0098671	10	GO:0016032	viral process
+GO:1901891	9	GO:0033045	regulation of sister chromatid segregation
+GO:0071621	6	GO:0071622	regulation of granulocyte chemotaxis
+GO:0071622	6	GO:0071622	regulation of granulocyte chemotaxis
+GO:0035825	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0010375	12	GO:0048762	mesenchymal cell differentiation
+GO:0006809	14	GO:0030047	actin modification
+GO:0045836	9	GO:0033045	regulation of sister chromatid segregation
+GO:0002949	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0030308	9	GO:0033045	regulation of sister chromatid segregation

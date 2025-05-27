@@ -1,0 +1,1045 @@
+GO:0006306	3	GO:0000255	allantoin metabolic process
+GO:0070121	14	GO:0048513	animal organ development
+GO:0031440	4	GO:1903506	regulation of nucleic acid-templated transcription
+GO:0031442	4	GO:1903506	regulation of nucleic acid-templated transcription
+GO:0031445	4	GO:1903506	regulation of nucleic acid-templated transcription
+GO:0006493	3	GO:0000255	allantoin metabolic process
+GO:0015031	18	GO:0008298	intracellular mRNA localization
+GO:0050848	10	GO:0010469	regulation of signaling receptor activity
+GO:0036124	3	GO:0000255	allantoin metabolic process
+GO:0050830	9	GO:0051707	response to other organism
+GO:0044839	7	GO:0034086	maintenance of sister chromatid cohesion
+GO:0050832	9	GO:0051707	response to other organism
+GO:0046692	16	GO:0019953	sexual reproduction
+GO:0009953	14	GO:0048513	animal organ development
+GO:0097435	6	GO:0022607	cellular component assembly
+GO:1901216	12	GO:0010528	regulation of transposition
+GO:0007063	11	GO:0033045	regulation of sister chromatid segregation
+GO:0007064	7	GO:0034086	maintenance of sister chromatid cohesion
+GO:0007051	7	GO:0034086	maintenance of sister chromatid cohesion
+GO:0046661	14	GO:0048513	animal organ development
+GO:0007059	6	GO:0022607	cellular component assembly
+GO:0046651	21	GO:0002253	activation of immune response
+GO:0042129	21	GO:0002253	activation of immune response
+GO:0007088	11	GO:0033045	regulation of sister chromatid segregation
+GO:0046688	20	GO:0006955	immune response
+GO:0009948	14	GO:0048513	animal organ development
+GO:0072710	20	GO:0006955	immune response
+GO:0072711	20	GO:0006955	immune response
+GO:0042138	3	GO:0000255	allantoin metabolic process
+GO:0031122	6	GO:0022607	cellular component assembly
+GO:0007032	6	GO:0022607	cellular component assembly
+GO:0043922	8	GO:0016032	viral process
+GO:0043923	8	GO:0016032	viral process
+GO:0030099	13	GO:1902105	regulation of leukocyte differentiation
+GO:0042102	21	GO:0002253	activation of immune response
+GO:0031113	11	GO:0033045	regulation of sister chromatid segregation
+GO:0031146	3	GO:0000255	allantoin metabolic process
+GO:0090385	6	GO:0022607	cellular component assembly
+GO:0007005	6	GO:0022607	cellular component assembly
+GO:0046601	11	GO:0033045	regulation of sister chromatid segregation
+GO:0090312	2	GO:0001919	regulation of receptor recycling
+GO:0019226	19	GO:0051239	regulation of multicellular organismal process
+GO:2000292	19	GO:0051239	regulation of multicellular organismal process
+GO:2000294	19	GO:0051239	regulation of multicellular organismal process
+GO:0036214	7	GO:0034086	maintenance of sister chromatid cohesion
+GO:0010389	11	GO:0033045	regulation of sister chromatid segregation
+GO:0032946	12	GO:0010528	regulation of transposition
+GO:0051382	6	GO:0022607	cellular component assembly
+GO:0002026	19	GO:0051239	regulation of multicellular organismal process
+GO:0002027	19	GO:0051239	regulation of multicellular organismal process
+GO:0034182	11	GO:0033045	regulation of sister chromatid segregation
+GO:0051321	5	GO:0045143	homologous chromosome segregation
+GO:0090308	4	GO:1903506	regulation of nucleic acid-templated transcription
+GO:0090309	4	GO:1903506	regulation of nucleic acid-templated transcription
+GO:0051316	5	GO:0045143	homologous chromosome segregation
+GO:0045342	3	GO:0000255	allantoin metabolic process
+GO:0045346	2	GO:0001919	regulation of receptor recycling
+GO:1901739	12	GO:0010528	regulation of transposition
+GO:0045348	2	GO:0001919	regulation of receptor recycling
+GO:0008595	14	GO:0048513	animal organ development
+GO:0050691	9	GO:0051707	response to other organism
+GO:2000272	10	GO:0010469	regulation of signaling receptor activity
+GO:2000273	10	GO:0010469	regulation of signaling receptor activity
+GO:0042244	15	GO:0048468	cell development
+GO:0031288	14	GO:0048513	animal organ development
+GO:0051301	6	GO:0022607	cellular component assembly
+GO:0051304	7	GO:0034086	maintenance of sister chromatid cohesion
+GO:0051306	7	GO:0034086	maintenance of sister chromatid cohesion
+GO:0051308	5	GO:0045143	homologous chromosome segregation
+GO:0008584	14	GO:0048513	animal organ development
+GO:0098900	12	GO:0010528	regulation of transposition
+GO:0031214	14	GO:0048513	animal organ development
+GO:1904778	18	GO:0008298	intracellular mRNA localization
+GO:0050671	21	GO:0002253	activation of immune response
+GO:0050679	12	GO:0010528	regulation of transposition
+GO:0034293	16	GO:0019953	sexual reproduction
+GO:0048311	6	GO:0022607	cellular component assembly
+GO:1901857	2	GO:0001919	regulation of receptor recycling
+GO:0010469	10	GO:0010469	regulation of signaling receptor activity
+GO:0033687	6	GO:0022607	cellular component assembly
+GO:0033688	12	GO:0010528	regulation of transposition
+GO:0051455	5	GO:0045143	homologous chromosome segregation
+GO:2001034	4	GO:1903506	regulation of nucleic acid-templated transcription
+GO:0033674	2	GO:0001919	regulation of receptor recycling
+GO:0019740	19	GO:0051239	regulation of multicellular organismal process
+GO:1902459	19	GO:0051239	regulation of multicellular organismal process
+GO:0019731	9	GO:0051707	response to other organism
+GO:0071988	18	GO:0008298	intracellular mRNA localization
+GO:0042789	4	GO:1903506	regulation of nucleic acid-templated transcription
+GO:0045429	2	GO:0001919	regulation of receptor recycling
+GO:0048308	6	GO:0022607	cellular component assembly
+GO:0000086	7	GO:0034086	maintenance of sister chromatid cohesion
+GO:0060317	14	GO:0048513	animal organ development
+GO:1902426	11	GO:0033045	regulation of sister chromatid segregation
+GO:0000070	7	GO:0034086	maintenance of sister chromatid cohesion
+GO:0060341	12	GO:0010528	regulation of transposition
+GO:1904894	10	GO:0010469	regulation of signaling receptor activity
+GO:1902410	7	GO:0034086	maintenance of sister chromatid cohesion
+GO:1902412	11	GO:0033045	regulation of sister chromatid segregation
+GO:1902414	18	GO:0008298	intracellular mRNA localization
+GO:0051446	12	GO:0010528	regulation of transposition
+GO:0072574	14	GO:0048513	animal organ development
+GO:0060333	10	GO:0010469	regulation of signaling receptor activity
+GO:0002949	3	GO:0000255	allantoin metabolic process
+GO:1903078	18	GO:0008298	intracellular mRNA localization
+GO:0043374	13	GO:1902105	regulation of leukocyte differentiation
+GO:1903046	5	GO:0045143	homologous chromosome segregation
+GO:0070884	10	GO:0010469	regulation of signaling receptor activity
+GO:0048468	15	GO:0048468	cell development
+GO:0035075	20	GO:0006955	immune response
+GO:0071902	2	GO:0001919	regulation of receptor recycling
+GO:1902406	7	GO:0034086	maintenance of sister chromatid cohesion
+GO:1902407	7	GO:0034086	maintenance of sister chromatid cohesion
+GO:0046006	21	GO:0002253	activation of immune response
+GO:0048478	4	GO:1903506	regulation of nucleic acid-templated transcription
+GO:0022607	6	GO:0022607	cellular component assembly
+GO:0035036	16	GO:0019953	sexual reproduction
+GO:0034765	12	GO:0010528	regulation of transposition
+GO:0006757	3	GO:0000255	allantoin metabolic process
+GO:0008608	7	GO:0034086	maintenance of sister chromatid cohesion
+GO:0019835	6	GO:0022607	cellular component assembly
+GO:0007350	14	GO:0048513	animal organ development
+GO:0007351	14	GO:0048513	animal organ development
+GO:1990834	20	GO:0006955	immune response
+GO:0045143	5	GO:0045143	homologous chromosome segregation
+GO:1902116	11	GO:0033045	regulation of sister chromatid segregation
+GO:0031860	3	GO:0000255	allantoin metabolic process
+GO:0044062	19	GO:0051239	regulation of multicellular organismal process
+GO:0048190	14	GO:0048513	animal organ development
+GO:0045137	14	GO:0048513	animal organ development
+GO:0045138	14	GO:0048513	animal organ development
+GO:0007320	16	GO:0019953	sexual reproduction
+GO:0044057	19	GO:0051239	regulation of multicellular organismal process
+GO:0099558	6	GO:0022607	cellular component assembly
+GO:0007316	15	GO:0048468	cell development
+GO:0043410	10	GO:0010469	regulation of signaling receptor activity
+GO:0032465	11	GO:0033045	regulation of sister chromatid segregation
+GO:0032467	11	GO:0033045	regulation of sister chromatid segregation
+GO:0007340	16	GO:0019953	sexual reproduction
+GO:1900424	9	GO:0051707	response to other organism
+GO:1900425	9	GO:0051707	response to other organism
+GO:0007342	16	GO:0019953	sexual reproduction
+GO:0045104	6	GO:0022607	cellular component assembly
+GO:0000915	7	GO:0034086	maintenance of sister chromatid cohesion
+GO:1902105	13	GO:1902105	regulation of leukocyte differentiation
+GO:1902106	13	GO:1902105	regulation of leukocyte differentiation
+GO:0090257	19	GO:0051239	regulation of multicellular organismal process
+GO:0035987	15	GO:0048468	cell development
+GO:0001755	15	GO:0048468	cell development
+GO:0007304	15	GO:0048468	cell development
+GO:0007306	15	GO:0048468	cell development
+GO:0001774	21	GO:0002253	activation of immune response
+GO:0001776	21	GO:0002253	activation of immune response
+GO:0071351	20	GO:0006955	immune response
+GO:0048143	15	GO:0048468	cell development
+GO:0001711	15	GO:0048468	cell development
+GO:0051255	7	GO:0034086	maintenance of sister chromatid cohesion
+GO:0002322	21	GO:0002253	activation of immune response
+GO:0051276	6	GO:0022607	cellular component assembly
+GO:1902275	11	GO:0033045	regulation of sister chromatid segregation
+GO:0007450	14	GO:0048513	animal organ development
+GO:0001701	14	GO:0048513	animal organ development
+GO:0060142	12	GO:0010528	regulation of transposition
+GO:0033005	21	GO:0002253	activation of immune response
+GO:0051240	19	GO:0051239	regulation of multicellular organismal process
+GO:0051239	19	GO:0051239	regulation of multicellular organismal process
+GO:0070665	12	GO:0010528	regulation of transposition
+GO:0042531	2	GO:0001919	regulation of receptor recycling
+GO:0031589	6	GO:0022607	cellular component assembly
+GO:0032187	7	GO:0034086	maintenance of sister chromatid cohesion
+GO:0006809	3	GO:0000255	allantoin metabolic process
+GO:0010791	3	GO:0000255	allantoin metabolic process
+GO:0008037	6	GO:0022607	cellular component assembly
+GO:0008038	15	GO:0048468	cell development
+GO:0072091	12	GO:0010528	regulation of transposition
+GO:0030466	4	GO:1903506	regulation of nucleic acid-templated transcription
+GO:0010760	20	GO:0006955	immune response
+GO:0009250	3	GO:0000255	allantoin metabolic process
+GO:1905458	13	GO:1902105	regulation of leukocyte differentiation
+GO:0051767	3	GO:0000255	allantoin metabolic process
+GO:0051769	2	GO:0001919	regulation of receptor recycling
+GO:0031507	4	GO:1903506	regulation of nucleic acid-templated transcription
+GO:0051754	5	GO:0045143	homologous chromosome segregation
+GO:0010780	3	GO:0000255	allantoin metabolic process
+GO:0005978	3	GO:0000255	allantoin metabolic process
+GO:0010789	5	GO:0045143	homologous chromosome segregation
+GO:0051781	12	GO:0010528	regulation of transposition
+GO:0051783	11	GO:0033045	regulation of sister chromatid segregation
+GO:0060271	6	GO:0022607	cellular component assembly
+GO:0051770	2	GO:0001919	regulation of receptor recycling
+GO:0032104	20	GO:0006955	immune response
+GO:0032107	20	GO:0006955	immune response
+GO:0007155	6	GO:0022607	cellular component assembly
+GO:0030435	15	GO:0048468	cell development
+GO:0051712	12	GO:0010528	regulation of transposition
+GO:0043254	11	GO:0033045	regulation of sister chromatid segregation
+GO:0072012	14	GO:0048513	animal organ development
+GO:0007186	10	GO:0010469	regulation of signaling receptor activity
+GO:0060236	11	GO:0033045	regulation of sister chromatid segregation
+GO:0045739	4	GO:1903506	regulation of nucleic acid-templated transcription
+GO:0061057	10	GO:0010469	regulation of signaling receptor activity
+GO:1902749	11	GO:0033045	regulation of sister chromatid segregation
+GO:0007129	5	GO:0045143	homologous chromosome segregation
+GO:0018119	3	GO:0000255	allantoin metabolic process
+GO:2000616	2	GO:0001919	regulation of receptor recycling
+GO:1900221	19	GO:0051239	regulation of multicellular organismal process
+GO:1900222	19	GO:0051239	regulation of multicellular organismal process
+GO:0007140	5	GO:0045143	homologous chromosome segregation
+GO:0007141	5	GO:0045143	homologous chromosome segregation
+GO:0043247	3	GO:0000255	allantoin metabolic process
+GO:0007131	5	GO:0045143	homologous chromosome segregation
+GO:0003006	16	GO:0019953	sexual reproduction
+GO:0034502	18	GO:0008298	intracellular mRNA localization
+GO:0003009	19	GO:0051239	regulation of multicellular organismal process
+GO:0006501	3	GO:0000255	allantoin metabolic process
+GO:0001568	14	GO:0048513	animal organ development
+GO:0061041	20	GO:0006955	immune response
+GO:0035315	15	GO:0048468	cell development
+GO:0035316	15	GO:0048468	cell development
+GO:0035317	15	GO:0048468	cell development
+GO:0045892	4	GO:1903506	regulation of nucleic acid-templated transcription
+GO:0031642	13	GO:1902105	regulation of leukocyte differentiation
+GO:0031644	19	GO:0051239	regulation of multicellular organismal process
+GO:0031647	19	GO:0051239	regulation of multicellular organismal process
+GO:0018108	3	GO:0000255	allantoin metabolic process
+GO:0043200	20	GO:0006955	immune response
+GO:0002164	14	GO:0048513	animal organ development
+GO:0032211	4	GO:1903506	regulation of nucleic acid-templated transcription
+GO:0071168	18	GO:0008298	intracellular mRNA localization
+GO:0030154	15	GO:0048468	cell development
+GO:0030155	12	GO:0010528	regulation of transposition
+GO:0045869	8	GO:0016032	viral process
+GO:0030177	10	GO:0010469	regulation of signaling receptor activity
+GO:0035303	2	GO:0001919	regulation of receptor recycling
+GO:0035306	2	GO:0001919	regulation of receptor recycling
+GO:0030111	10	GO:0010469	regulation of signaling receptor activity
+GO:0032200	6	GO:0022607	cellular component assembly
+GO:0002119	14	GO:0048513	animal organ development
+GO:0045821	2	GO:0001919	regulation of receptor recycling
+GO:0045822	19	GO:0051239	regulation of multicellular organismal process
+GO:0048701	14	GO:0048513	animal organ development
+GO:0060711	14	GO:0048513	animal organ development
+GO:0045815	1	GO:0010468	regulation of gene expression
+GO:0045818	2	GO:0001919	regulation of receptor recycling
+GO:0001501	14	GO:0048513	animal organ development
+GO:0007281	15	GO:0048468	cell development
+GO:0007283	16	GO:0019953	sexual reproduction
+GO:0099054	15	GO:0048468	cell development
+GO:0045830	21	GO:0002253	activation of immune response
+GO:0010835	2	GO:0001919	regulation of receptor recycling
+GO:0019094	15	GO:0048468	cell development
+GO:0045836	11	GO:0033045	regulation of sister chromatid segregation
+GO:0034644	20	GO:0006955	immune response
+GO:0090598	14	GO:0048513	animal organ development
+GO:0048869	15	GO:0048468	cell development
+GO:0032754	1	GO:0010468	regulation of gene expression
+GO:0032755	1	GO:0010468	regulation of gene expression
+GO:0032757	1	GO:0010468	regulation of gene expression
+GO:0034605	20	GO:0006955	immune response
+GO:0001660	20	GO:0006955	immune response
+GO:0035418	18	GO:0008298	intracellular mRNA localization
+GO:0048871	19	GO:0051239	regulation of multicellular organismal process
+GO:0032722	1	GO:0010468	regulation of gene expression
+GO:0002262	21	GO:0002253	activation of immune response
+GO:0032747	1	GO:0010468	regulation of gene expression
+GO:0010562	2	GO:0001919	regulation of receptor recycling
+GO:0016322	15	GO:0048468	cell development
+GO:0080182	3	GO:0000255	allantoin metabolic process
+GO:0002281	21	GO:0002253	activation of immune response
+GO:0032731	1	GO:0010468	regulation of gene expression
+GO:0032732	1	GO:0010468	regulation of gene expression
+GO:0032733	1	GO:0010468	regulation of gene expression
+GO:0032735	1	GO:0010468	regulation of gene expression
+GO:0032736	1	GO:0010468	regulation of gene expression
+GO:0071287	20	GO:0006955	immune response
+GO:0060857	15	GO:0048468	cell development
+GO:0009886	14	GO:0048513	animal organ development
+GO:0045580	13	GO:1902105	regulation of leukocyte differentiation
+GO:0045582	13	GO:1902105	regulation of leukocyte differentiation
+GO:0001649	15	GO:0048468	cell development
+GO:0030225	13	GO:1902105	regulation of leukocyte differentiation
+GO:0071222	20	GO:0006955	immune response
+GO:0010571	2	GO:0001919	regulation of receptor recycling
+GO:0051570	2	GO:0001919	regulation of receptor recycling
+GO:0098728	15	GO:0048468	cell development
+GO:0032700	1	GO:0010468	regulation of gene expression
+GO:0010528	12	GO:0010528	regulation of transposition
+GO:0060828	10	GO:0010469	regulation of signaling receptor activity
+GO:0010529	12	GO:0010528	regulation of transposition
+GO:0060810	14	GO:0048513	animal organ development
+GO:0060811	14	GO:0048513	animal organ development
+GO:0098743	6	GO:0022607	cellular component assembly
+GO:0071230	20	GO:0006955	immune response
+GO:0033301	7	GO:0034086	maintenance of sister chromatid cohesion
+GO:0035162	14	GO:0048513	animal organ development
+GO:2000042	4	GO:1903506	regulation of nucleic acid-templated transcription
+GO:0039692	8	GO:0016032	viral process
+GO:0031023	6	GO:0022607	cellular component assembly
+GO:2000036	19	GO:0051239	regulation of multicellular organismal process
+GO:0035186	14	GO:0048513	animal organ development
+GO:0031047	1	GO:0010468	regulation of gene expression
+GO:0106016	20	GO:0006955	immune response
+GO:0031030	11	GO:0033045	regulation of sister chromatid segregation
+GO:0031031	11	GO:0033045	regulation of sister chromatid segregation
+GO:0032880	12	GO:0010528	regulation of transposition
+GO:2001251	11	GO:0033045	regulation of sister chromatid segregation
+GO:2001252	11	GO:0033045	regulation of sister chromatid segregation
+GO:0034091	11	GO:0033045	regulation of sister chromatid segregation
+GO:0006096	3	GO:0000255	allantoin metabolic process
+GO:0008344	19	GO:0051239	regulation of multicellular organismal process
+GO:0008345	19	GO:0051239	regulation of multicellular organismal process
+GO:0032879	12	GO:0010528	regulation of transposition
+GO:0032823	13	GO:1902105	regulation of leukocyte differentiation
+GO:0019953	16	GO:0019953	sexual reproduction
+GO:0002762	13	GO:1902105	regulation of leukocyte differentiation
+GO:0071763	6	GO:0022607	cellular component assembly
+GO:0032816	21	GO:0002253	activation of immune response
+GO:0019985	3	GO:0000255	allantoin metabolic process
+GO:0035136	14	GO:0048513	animal organ development
+GO:2001228	10	GO:0010469	regulation of signaling receptor activity
+GO:0048513	14	GO:0048513	animal organ development
+GO:0098868	14	GO:0048513	animal organ development
+GO:0140014	7	GO:0034086	maintenance of sister chromatid cohesion
+GO:0045666	13	GO:1902105	regulation of leukocyte differentiation
+GO:0002786	9	GO:0051707	response to other organism
+GO:0034080	6	GO:0022607	cellular component assembly
+GO:0032834	13	GO:1902105	regulation of leukocyte differentiation
+GO:0060550	2	GO:0001919	regulation of receptor recycling
+GO:1905758	11	GO:0033045	regulation of sister chromatid segregation
+GO:0060552	2	GO:0001919	regulation of receptor recycling
+GO:0034086	7	GO:0034086	maintenance of sister chromatid cohesion
+GO:0060557	2	GO:0001919	regulation of receptor recycling
+GO:0044406	8	GO:0016032	viral process
+GO:0048538	14	GO:0048513	animal organ development
+GO:1905779	2	GO:0001919	regulation of receptor recycling
+GO:0045671	13	GO:1902105	regulation of leukocyte differentiation
+GO:0045672	13	GO:1902105	regulation of leukocyte differentiation
+GO:0002711	21	GO:0002253	activation of immune response
+GO:0002714	21	GO:0002253	activation of immune response
+GO:0010623	15	GO:0048468	cell development
+GO:0000255	3	GO:0000255	allantoin metabolic process
+GO:0022412	16	GO:0019953	sexual reproduction
+GO:0022413	16	GO:0019953	sexual reproduction
+GO:1902615	20	GO:0006955	immune response
+GO:0010634	12	GO:0010528	regulation of transposition
+GO:0000226	6	GO:0022607	cellular component assembly
+GO:0045638	13	GO:1902105	regulation of leukocyte differentiation
+GO:0030703	15	GO:0048468	cell development
+GO:0002701	1	GO:0010468	regulation of gene expression
+GO:1902633	3	GO:0000255	allantoin metabolic process
+GO:1902635	3	GO:0000255	allantoin metabolic process
+GO:0045601	13	GO:1902105	regulation of leukocyte differentiation
+GO:0048662	12	GO:0010528	regulation of transposition
+GO:0040032	14	GO:0048513	animal organ development
+GO:0023035	10	GO:0010469	regulation of signaling receptor activity
+GO:0040034	12	GO:0010528	regulation of transposition
+GO:0002891	21	GO:0002253	activation of immune response
+GO:0061343	14	GO:0048513	animal organ development
+GO:0040007	19	GO:0051239	regulation of multicellular organismal process
+GO:0040008	12	GO:0010528	regulation of transposition
+GO:0033173	10	GO:0010469	regulation of signaling receptor activity
+GO:0048646	14	GO:0048513	animal organ development
+GO:0009653	14	GO:0048513	animal organ development
+GO:0008406	14	GO:0048513	animal organ development
+GO:0007595	14	GO:0048513	animal organ development
+GO:0030879	14	GO:0048513	animal organ development
+GO:0033141	2	GO:0001919	regulation of receptor recycling
+GO:0060674	14	GO:0048513	animal organ development
+GO:0060627	12	GO:0010528	regulation of transposition
+GO:0009611	20	GO:0006955	immune response
+GO:0009617	9	GO:0051707	response to other organism
+GO:0007584	20	GO:0006955	immune response
+GO:0007588	19	GO:0051239	regulation of multicellular organismal process
+GO:0000722	3	GO:0000255	allantoin metabolic process
+GO:0000723	3	GO:0000255	allantoin metabolic process
+GO:0006942	19	GO:0051239	regulation of multicellular organismal process
+GO:1904357	4	GO:1903506	regulation of nucleic acid-templated transcription
+GO:0006936	19	GO:0051239	regulation of multicellular organismal process
+GO:0000741	6	GO:0022607	cellular component assembly
+GO:0006937	19	GO:0051239	regulation of multicellular organismal process
+GO:0090068	11	GO:0033045	regulation of sister chromatid segregation
+GO:0000737	3	GO:0000255	allantoin metabolic process
+GO:0045091	8	GO:0016032	viral process
+GO:0007530	16	GO:0019953	sexual reproduction
+GO:0007531	15	GO:0048468	cell development
+GO:0051094	12	GO:0010528	regulation of transposition
+GO:0007533	15	GO:0048468	cell development
+GO:0030593	20	GO:0006955	immune response
+GO:0007534	3	GO:0000255	allantoin metabolic process
+GO:0007535	15	GO:0048468	cell development
+GO:0043631	3	GO:0000255	allantoin metabolic process
+GO:0001961	10	GO:0010469	regulation of signaling receptor activity
+GO:0006907	18	GO:0008298	intracellular mRNA localization
+GO:0006909	18	GO:0008298	intracellular mRNA localization
+GO:0033262	2	GO:0001919	regulation of receptor recycling
+GO:0061440	14	GO:0048513	animal organ development
+GO:0016266	3	GO:0000255	allantoin metabolic process
+GO:0061448	14	GO:0048513	animal organ development
+GO:0000706	3	GO:0000255	allantoin metabolic process
+GO:0061437	14	GO:0048513	animal organ development
+GO:1903706	13	GO:1902105	regulation of leukocyte differentiation
+GO:1903707	13	GO:1902105	regulation of leukocyte differentiation
+GO:0033273	20	GO:0006955	immune response
+GO:0036314	20	GO:0006955	immune response
+GO:0008104	18	GO:0008298	intracellular mRNA localization
+GO:0071588	10	GO:0010469	regulation of signaling receptor activity
+GO:0001919	2	GO:0001919	regulation of receptor recycling
+GO:0098670	8	GO:0016032	viral process
+GO:0030521	10	GO:0010469	regulation of signaling receptor activity
+GO:0030512	10	GO:0010469	regulation of signaling receptor activity
+GO:0033234	2	GO:0001919	regulation of receptor recycling
+GO:0071514	4	GO:1903506	regulation of nucleic acid-templated transcription
+GO:0051044	2	GO:0001919	regulation of receptor recycling
+GO:0044794	8	GO:0016032	viral process
+GO:0050793	12	GO:0010528	regulation of transposition
+GO:0050798	21	GO:0002253	activation of immune response
+GO:2000310	10	GO:0010469	regulation of signaling receptor activity
+GO:0042338	14	GO:0048513	animal organ development
+GO:0046813	8	GO:0016032	viral process
+GO:0050764	12	GO:0010528	regulation of transposition
+GO:0050766	12	GO:0010528	regulation of transposition
+GO:0050769	13	GO:1902105	regulation of leukocyte differentiation
+GO:0072132	14	GO:0048513	animal organ development
+GO:0046843	15	GO:0048468	cell development
+GO:0008284	12	GO:0010528	regulation of transposition
+GO:1902003	2	GO:0001919	regulation of receptor recycling
+GO:1902004	2	GO:0001919	regulation of receptor recycling
+GO:0035822	3	GO:0000255	allantoin metabolic process
+GO:0035825	3	GO:0000255	allantoin metabolic process
+GO:0050728	20	GO:0006955	immune response
+GO:0050729	20	GO:0006955	immune response
+GO:2000309	1	GO:0010468	regulation of gene expression
+GO:0120261	11	GO:0033045	regulation of sister chromatid segregation
+GO:0007608	19	GO:0051239	regulation of multicellular organismal process
+GO:0050731	2	GO:0001919	regulation of receptor recycling
+GO:1901186	10	GO:0010469	regulation of signaling receptor activity
+GO:0071654	1	GO:0010468	regulation of gene expression
+GO:0071657	1	GO:0010468	regulation of gene expression
+GO:0060070	10	GO:0010469	regulation of signaling receptor activity
+GO:0002685	12	GO:0010528	regulation of transposition
+GO:0010951	2	GO:0001919	regulation of receptor recycling
+GO:0006378	3	GO:0000255	allantoin metabolic process
+GO:0042475	14	GO:0048513	animal organ development
+GO:0051983	12	GO:0010528	regulation of transposition
+GO:0071621	20	GO:0006955	immune response
+GO:0070192	5	GO:0045143	homologous chromosome segregation
+GO:0070198	18	GO:0008298	intracellular mRNA localization
+GO:0010923	2	GO:0001919	regulation of receptor recycling
+GO:0006312	3	GO:0000255	allantoin metabolic process
+GO:0010927	15	GO:0048468	cell development
+GO:0002639	1	GO:0010468	regulation of gene expression
+GO:0045944	4	GO:1903506	regulation of nucleic acid-templated transcription
+GO:0000578	14	GO:0048513	animal organ development
+GO:1900075	10	GO:0010469	regulation of signaling receptor activity
+GO:0045937	2	GO:0001919	regulation of receptor recycling
+GO:0051930	19	GO:0051239	regulation of multicellular organismal process
+GO:0051931	19	GO:0051239	regulation of multicellular organismal process
+GO:0050863	21	GO:0002253	activation of immune response
+GO:1902948	2	GO:0001919	regulation of receptor recycling
+GO:0060008	15	GO:0048468	cell development
+GO:0060009	15	GO:0048468	cell development
+GO:0043045	3	GO:0000255	allantoin metabolic process
+GO:0043046	3	GO:0000255	allantoin metabolic process
+GO:1900015	1	GO:0010468	regulation of gene expression
+GO:1900016	1	GO:0010468	regulation of gene expression
+GO:0046546	14	GO:0048513	animal organ development
+GO:0006304	3	GO:0000255	allantoin metabolic process
+GO:0006305	3	GO:0000255	allantoin metabolic process
+GO:0044827	8	GO:0016032	viral process
+GO:0007097	18	GO:0008298	intracellular mRNA localization
+GO:0007099	7	GO:0034086	maintenance of sister chromatid cohesion
+GO:0034472	3	GO:0000255	allantoin metabolic process
+GO:0007052	7	GO:0034086	maintenance of sister chromatid cohesion
+GO:0042119	21	GO:0002253	activation of immune response
+GO:1903649	12	GO:0010528	regulation of transposition
+GO:0002063	15	GO:0048468	cell development
+GO:0019221	10	GO:0010469	regulation of signaling receptor activity
+GO:0019228	19	GO:0051239	regulation of multicellular organismal process
+GO:0051383	6	GO:0022607	cellular component assembly
+GO:0036230	21	GO:0002253	activation of immune response
+GO:0017145	6	GO:0022607	cellular component assembly
+GO:1904750	18	GO:0008298	intracellular mRNA localization
+GO:0060390	10	GO:0010469	regulation of signaling receptor activity
+GO:0060393	2	GO:0001919	regulation of receptor recycling
+GO:0050678	12	GO:0010528	regulation of transposition
+GO:0061844	9	GO:0051707	response to other organism
+GO:1904749	18	GO:0008298	intracellular mRNA localization
+GO:0140278	7	GO:0034086	maintenance of sister chromatid cohesion
+GO:0060351	14	GO:0048513	animal organ development
+GO:0060389	2	GO:0001919	regulation of receptor recycling
+GO:0019730	9	GO:0051707	response to other organism
+GO:0140238	18	GO:0008298	intracellular mRNA localization
+GO:2000780	4	GO:1903506	regulation of nucleic acid-templated transcription
+GO:0051445	12	GO:0010528	regulation of transposition
+GO:0042742	9	GO:0051707	response to other organism
+GO:2000711	11	GO:0033045	regulation of sister chromatid segregation
+GO:0034205	3	GO:0000255	allantoin metabolic process
+GO:1904888	14	GO:0048513	animal organ development
+GO:0032388	12	GO:0010528	regulation of transposition
+GO:0048488	18	GO:0008298	intracellular mRNA localization
+GO:0090175	14	GO:0048513	animal organ development
+GO:0070849	20	GO:0006955	immune response
+GO:0044060	19	GO:0051239	regulation of multicellular organismal process
+GO:0042832	9	GO:0051707	response to other organism
+GO:2000816	11	GO:0033045	regulation of sister chromatid segregation
+GO:0071364	20	GO:0006955	immune response
+GO:0016073	3	GO:0000255	allantoin metabolic process
+GO:0071350	20	GO:0006955	immune response
+GO:0051261	6	GO:0022607	cellular component assembly
+GO:0044000	8	GO:0016032	viral process
+GO:0033045	11	GO:0033045	regulation of sister chromatid segregation
+GO:0033046	11	GO:0033045	regulation of sister chromatid segregation
+GO:0033048	11	GO:0033045	regulation of sister chromatid segregation
+GO:0030308	12	GO:0010528	regulation of transposition
+GO:0048268	6	GO:0022607	cellular component assembly
+GO:0070672	20	GO:0006955	immune response
+GO:0031536	11	GO:0033045	regulation of sister chromatid segregation
+GO:0007409	15	GO:0048468	cell development
+GO:0005981	2	GO:0001919	regulation of receptor recycling
+GO:0045786	12	GO:0010528	regulation of transposition
+GO:0051784	11	GO:0033045	regulation of sister chromatid segregation
+GO:0120033	11	GO:0033045	regulation of sister chromatid segregation
+GO:0007162	12	GO:0010528	regulation of transposition
+GO:0030437	15	GO:0048468	cell development
+GO:0045740	4	GO:1903506	regulation of nucleic acid-templated transcription
+GO:0045738	4	GO:1903506	regulation of nucleic acid-templated transcription
+GO:0061058	10	GO:0010469	regulation of signaling receptor activity
+GO:0034501	18	GO:0008298	intracellular mRNA localization
+GO:0034508	6	GO:0022607	cellular component assembly
+GO:0001562	9	GO:0051707	response to other organism
+GO:0032212	4	GO:1903506	regulation of nucleic acid-templated transcription
+GO:0060765	10	GO:0010469	regulation of signaling receptor activity
+GO:0048704	14	GO:0048513	animal organ development
+GO:0048705	14	GO:0048513	animal organ development
+GO:0048706	14	GO:0048513	animal organ development
+GO:0007289	15	GO:0048468	cell development
+GO:0044351	18	GO:0008298	intracellular mRNA localization
+GO:0007210	10	GO:0010469	regulation of signaling receptor activity
+GO:0007218	10	GO:0010469	regulation of signaling receptor activity
+GO:0039563	12	GO:0010528	regulation of transposition
+GO:0002292	13	GO:1902105	regulation of leukocyte differentiation
+GO:0002293	13	GO:1902105	regulation of leukocyte differentiation
+GO:0002294	13	GO:1902105	regulation of leukocyte differentiation
+GO:1901992	11	GO:0033045	regulation of sister chromatid segregation
+GO:0039554	9	GO:0051707	response to other organism
+GO:0019076	8	GO:0016032	viral process
+GO:0051593	20	GO:0006955	immune response
+GO:1905269	11	GO:0033045	regulation of sister chromatid segregation
+GO:0016321	5	GO:0045143	homologous chromosome segregation
+GO:0010566	2	GO:0001919	regulation of receptor recycling
+GO:0002287	21	GO:0002253	activation of immune response
+GO:1901989	11	GO:0033045	regulation of sister chromatid segregation
+GO:0002274	21	GO:0002253	activation of immune response
+GO:2000050	10	GO:0010469	regulation of signaling receptor activity
+GO:0010520	4	GO:1903506	regulation of nucleic acid-templated transcription
+GO:0010526	12	GO:0010528	regulation of transposition
+GO:1902570	18	GO:0008298	intracellular mRNA localization
+GO:0030239	15	GO:0048468	cell development
+GO:0000122	4	GO:1903506	regulation of nucleic acid-templated transcription
+GO:0002763	13	GO:1902105	regulation of leukocyte differentiation
+GO:0050435	3	GO:0000255	allantoin metabolic process
+GO:0002759	9	GO:0051707	response to other organism
+GO:0002784	9	GO:0051707	response to other organism
+GO:0034085	7	GO:0034086	maintenance of sister chromatid cohesion
+GO:0034087	7	GO:0034086	maintenance of sister chromatid cohesion
+GO:0002775	9	GO:0051707	response to other organism
+GO:2001236	10	GO:0010469	regulation of signaling receptor activity
+GO:2001237	10	GO:0010469	regulation of signaling receptor activity
+GO:0010677	2	GO:0001919	regulation of receptor recycling
+GO:0042982	3	GO:0000255	allantoin metabolic process
+GO:0010628	1	GO:0010468	regulation of gene expression
+GO:0042987	3	GO:0000255	allantoin metabolic process
+GO:0051646	18	GO:0008298	intracellular mRNA localization
+GO:0000212	5	GO:0045143	homologous chromosome segregation
+GO:0016180	3	GO:0000255	allantoin metabolic process
+GO:0006997	6	GO:0022607	cellular component assembly
+GO:0006955	20	GO:0006955	immune response
+GO:0046765	8	GO:0016032	viral process
+GO:0006959	20	GO:0006955	immune response
+GO:1905818	11	GO:0033045	regulation of sister chromatid segregation
+GO:1905819	11	GO:0033045	regulation of sister chromatid segregation
+GO:0098542	9	GO:0051707	response to other organism
+GO:0090090	10	GO:0010469	regulation of signaling receptor activity
+GO:1904355	4	GO:1903506	regulation of nucleic acid-templated transcription
+GO:0035723	10	GO:0010469	regulation of signaling receptor activity
+GO:0062013	2	GO:0001919	regulation of receptor recycling
+GO:0098664	10	GO:0010469	regulation of signaling receptor activity
+GO:0090031	2	GO:0001919	regulation of receptor recycling
+GO:0045022	18	GO:0008298	intracellular mRNA localization
+GO:0044793	8	GO:0016032	viral process
+GO:2000370	12	GO:0010528	regulation of transposition
+GO:0035891	8	GO:0016032	viral process
+GO:0046883	10	GO:0010469	regulation of signaling receptor activity
+GO:0046887	10	GO:0010469	regulation of signaling receptor activity
+GO:0051037	4	GO:1903506	regulation of nucleic acid-templated transcription
+GO:0044788	8	GO:0016032	viral process
+GO:0036465	18	GO:0008298	intracellular mRNA localization
+GO:0140353	18	GO:0008298	intracellular mRNA localization
+GO:0120263	11	GO:0033045	regulation of sister chromatid segregation
+GO:0046802	8	GO:0016032	viral process
+GO:0120255	3	GO:0000255	allantoin metabolic process
+GO:1902991	2	GO:0001919	regulation of receptor recycling
+GO:0050730	2	GO:0001919	regulation of receptor recycling
+GO:0010965	11	GO:0033045	regulation of sister chromatid segregation
+GO:0060071	13	GO:1902105	regulation of leukocyte differentiation
+GO:0051985	12	GO:0010528	regulation of transposition
+GO:0010977	15	GO:0048468	cell development
+GO:0009048	1	GO:0010468	regulation of gene expression
+GO:2000480	2	GO:0001919	regulation of receptor recycling
+GO:0051973	4	GO:1903506	regulation of nucleic acid-templated transcription
+GO:0010921	2	GO:0001919	regulation of receptor recycling
+GO:0034341	9	GO:0051707	response to other organism
+GO:0031453	4	GO:1903506	regulation of nucleic acid-templated transcription
+GO:0070166	14	GO:0048513	animal organ development
+GO:0045931	12	GO:0010528	regulation of transposition
+GO:1900024	13	GO:1902105	regulation of leukocyte differentiation
+GO:0050881	19	GO:0051239	regulation of multicellular organismal process
+GO:0050879	19	GO:0051239	regulation of multicellular organismal process
+GO:1990166	18	GO:0008298	intracellular mRNA localization
+GO:0042116	21	GO:0002253	activation of immune response
+GO:2000176	13	GO:1902105	regulation of leukocyte differentiation
+GO:0007049	7	GO:0034086	maintenance of sister chromatid cohesion
+GO:0033563	15	GO:0048468	cell development
+GO:0090311	2	GO:0001919	regulation of receptor recycling
+GO:0043903	12	GO:0010528	regulation of transposition
+GO:0034184	11	GO:0033045	regulation of sister chromatid segregation
+GO:0034142	10	GO:0010469	regulation of signaling receptor activity
+GO:0075136	9	GO:0051707	response to other organism
+GO:0051303	18	GO:0008298	intracellular mRNA localization
+GO:1904776	18	GO:0008298	intracellular mRNA localization
+GO:0070726	6	GO:0022607	cellular component assembly
+GO:0045428	2	GO:0001919	regulation of receptor recycling
+GO:1903083	18	GO:0008298	intracellular mRNA localization
+GO:0071940	6	GO:0022607	cellular component assembly
+GO:0043326	20	GO:0006955	immune response
+GO:0072535	1	GO:0010468	regulation of gene expression
+GO:1901550	13	GO:1902105	regulation of leukocyte differentiation
+GO:1901552	13	GO:1902105	regulation of leukocyte differentiation
+GO:0070590	15	GO:0048468	cell development
+GO:0070591	15	GO:0048468	cell development
+GO:0043470	2	GO:0001919	regulation of receptor recycling
+GO:0075733	8	GO:0016032	viral process
+GO:0000911	7	GO:0034086	maintenance of sister chromatid cohesion
+GO:0002367	1	GO:0010468	regulation of gene expression
+GO:0061647	3	GO:0000255	allantoin metabolic process
+GO:0050000	18	GO:0008298	intracellular mRNA localization
+GO:0016032	8	GO:0016032	viral process
+GO:0002347	20	GO:0006955	immune response
+GO:0062208	10	GO:0010469	regulation of signaling receptor activity
+GO:0033003	21	GO:0002253	activation of immune response
+GO:0070673	20	GO:0006955	immune response
+GO:0048285	6	GO:0022607	cellular component assembly
+GO:0060260	4	GO:1903506	regulation of nucleic acid-templated transcription
+GO:0000395	3	GO:0000255	allantoin metabolic process
+GO:0071459	18	GO:0008298	intracellular mRNA localization
+GO:0031505	6	GO:0022607	cellular component assembly
+GO:0030476	15	GO:0048468	cell development
+GO:0031509	4	GO:1903506	regulation of nucleic acid-templated transcription
+GO:0009272	6	GO:0022607	cellular component assembly
+GO:0140546	9	GO:0051707	response to other organism
+GO:0050905	19	GO:0051239	regulation of multicellular organismal process
+GO:0039707	8	GO:0016032	viral process
+GO:0075528	9	GO:0051707	response to other organism
+GO:0007127	5	GO:0045143	homologous chromosome segregation
+GO:0007130	5	GO:0045143	homologous chromosome segregation
+GO:0034504	18	GO:0008298	intracellular mRNA localization
+GO:0001570	15	GO:0048468	cell development
+GO:0002168	14	GO:0048513	animal organ development
+GO:0000463	3	GO:0000255	allantoin metabolic process
+GO:0000480	3	GO:0000255	allantoin metabolic process
+GO:0000472	3	GO:0000255	allantoin metabolic process
+GO:0019064	8	GO:0016032	viral process
+GO:0061982	5	GO:0045143	homologous chromosome segregation
+GO:0032729	1	GO:0010468	regulation of gene expression
+GO:0080164	2	GO:0001919	regulation of receptor recycling
+GO:0002269	21	GO:0002253	activation of immune response
+GO:2000095	10	GO:0010469	regulation of signaling receptor activity
+GO:0019049	9	GO:0051707	response to other organism
+GO:0030223	13	GO:1902105	regulation of leukocyte differentiation
+GO:0002228	9	GO:0051707	response to other organism
+GO:0039502	20	GO:0006955	immune response
+GO:0039503	21	GO:0002253	activation of immune response
+GO:0030238	14	GO:0048513	animal organ development
+GO:0052173	9	GO:0051707	response to other organism
+GO:2000035	12	GO:0010528	regulation of transposition
+GO:1903140	13	GO:1902105	regulation of leukocyte differentiation
+GO:1903142	13	GO:1902105	regulation of leukocyte differentiation
+GO:0034093	11	GO:0033045	regulation of sister chromatid segregation
+GO:0032825	13	GO:1902105	regulation of leukocyte differentiation
+GO:0002752	10	GO:0010469	regulation of signaling receptor activity
+GO:0002756	10	GO:0010469	regulation of signaling receptor activity
+GO:0045660	13	GO:1902105	regulation of leukocyte differentiation
+GO:0045658	13	GO:1902105	regulation of leukocyte differentiation
+GO:0051657	18	GO:0008298	intracellular mRNA localization
+GO:0002718	1	GO:0010468	regulation of gene expression
+GO:0002700	1	GO:0010468	regulation of gene expression
+GO:0002702	1	GO:0010468	regulation of gene expression
+GO:0016191	18	GO:0008298	intracellular mRNA localization
+GO:0048660	12	GO:0010528	regulation of transposition
+GO:0051607	9	GO:0051707	response to other organism
+GO:0052200	9	GO:0051707	response to other organism
+GO:0030852	13	GO:1902105	regulation of leukocyte differentiation
+GO:0030854	13	GO:1902105	regulation of leukocyte differentiation
+GO:0030858	13	GO:1902105	regulation of leukocyte differentiation
+GO:0046794	8	GO:0016032	viral process
+GO:0098534	6	GO:0022607	cellular component assembly
+GO:0046718	8	GO:0016032	viral process
+GO:0071806	18	GO:0008298	intracellular mRNA localization
+GO:0000731	4	GO:1903506	regulation of nucleic acid-templated transcription
+GO:0032653	1	GO:0010468	regulation of gene expression
+GO:0045087	9	GO:0051707	response to other organism
+GO:0001910	12	GO:0010528	regulation of transposition
+GO:0046824	12	GO:0010528	regulation of transposition
+GO:0007620	16	GO:0019953	sexual reproduction
+GO:0000819	7	GO:0034086	maintenance of sister chromatid cohesion
+GO:0031343	12	GO:0010528	regulation of transposition
+GO:0031349	20	GO:0006955	immune response
+GO:2000307	1	GO:0010468	regulation of gene expression
+GO:0007606	19	GO:0051239	regulation of multicellular organismal process
+GO:1902993	2	GO:0001919	regulation of receptor recycling
+GO:0030682	9	GO:0051707	response to other organism
+GO:1904407	2	GO:0001919	regulation of receptor recycling
+GO:0050891	19	GO:0051239	regulation of multicellular organismal process
+GO:0006301	3	GO:0000255	allantoin metabolic process
+GO:1903507	4	GO:1903506	regulation of nucleic acid-templated transcription
+GO:1901224	10	GO:0010469	regulation of signaling receptor activity
+GO:0042113	21	GO:0002253	activation of immune response
+GO:0007020	6	GO:0022607	cellular component assembly
+GO:2000142	4	GO:1903506	regulation of nucleic acid-templated transcription
+GO:0043935	15	GO:0048468	cell development
+GO:0016556	3	GO:0000255	allantoin metabolic process
+GO:0051302	12	GO:0010528	regulation of transposition
+GO:0044650	8	GO:0016032	viral process
+GO:1904747	12	GO:0010528	regulation of transposition
+GO:0010466	2	GO:0001919	regulation of receptor recycling
+GO:1904892	10	GO:0010469	regulation of signaling receptor activity
+GO:0060339	20	GO:0006955	immune response
+GO:0043372	13	GO:1902105	regulation of leukocyte differentiation
+GO:0090158	6	GO:0022607	cellular component assembly
+GO:0034762	12	GO:0010528	regulation of transposition
+GO:0032496	9	GO:0051707	response to other organism
+GO:0044068	6	GO:0022607	cellular component assembly
+GO:1990809	6	GO:0022607	cellular component assembly
+GO:0000917	7	GO:0034086	maintenance of sister chromatid cohesion
+GO:0046931	6	GO:0022607	cellular component assembly
+GO:0002361	13	GO:1902105	regulation of leukocyte differentiation
+GO:0030388	3	GO:0000255	allantoin metabolic process
+GO:0002377	1	GO:0010468	regulation of gene expression
+GO:0008063	10	GO:0010469	regulation of signaling receptor activity
+GO:1900182	12	GO:0010528	regulation of transposition
+GO:0001881	3	GO:0000255	allantoin metabolic process
+GO:0032113	2	GO:0001919	regulation of receptor recycling
+GO:0001819	1	GO:0010468	regulation of gene expression
+GO:0016973	18	GO:0008298	intracellular mRNA localization
+GO:0060279	16	GO:0019953	sexual reproduction
+GO:0014002	15	GO:0048468	cell development
+GO:0051709	12	GO:0010528	regulation of transposition
+GO:0032258	18	GO:0008298	intracellular mRNA localization
+GO:0031640	6	GO:0022607	cellular component assembly
+GO:0001580	20	GO:0006955	immune response
+GO:0097659	4	GO:1903506	regulation of nucleic acid-templated transcription
+GO:0030150	18	GO:0008298	intracellular mRNA localization
+GO:0060759	10	GO:0010469	regulation of signaling receptor activity
+GO:1902850	7	GO:0034086	maintenance of sister chromatid cohesion
+GO:0048708	15	GO:0048468	cell development
+GO:0007276	16	GO:0019953	sexual reproduction
+GO:0070072	6	GO:0022607	cellular component assembly
+GO:0019062	8	GO:0016032	viral process
+GO:0019054	8	GO:0016032	viral process
+GO:0099046	9	GO:0051707	response to other organism
+GO:0002298	13	GO:1902105	regulation of leukocyte differentiation
+GO:0045591	13	GO:1902105	regulation of leukocyte differentiation
+GO:0002250	20	GO:0006955	immune response
+GO:0090529	7	GO:0034086	maintenance of sister chromatid cohesion
+GO:0039548	2	GO:0001919	regulation of receptor recycling
+GO:0002244	13	GO:1902105	regulation of leukocyte differentiation
+GO:0039504	21	GO:0002253	activation of immune response
+GO:0002237	9	GO:0051707	response to other organism
+GO:0046136	2	GO:0001919	regulation of receptor recycling
+GO:0039663	8	GO:0016032	viral process
+GO:0032829	13	GO:1902105	regulation of leukocyte differentiation
+GO:0009566	16	GO:0019953	sexual reproduction
+GO:0032831	13	GO:1902105	regulation of leukocyte differentiation
+GO:0032832	13	GO:1902105	regulation of leukocyte differentiation
+GO:0060551	2	GO:0001919	regulation of receptor recycling
+GO:0071786	6	GO:0022607	cellular component assembly
+GO:0060556	2	GO:0001919	regulation of receptor recycling
+GO:1902679	4	GO:1903506	regulation of nucleic acid-templated transcription
+GO:0060549	2	GO:0001919	regulation of receptor recycling
+GO:0040025	14	GO:0048513	animal organ development
+GO:0033138	2	GO:0001919	regulation of receptor recycling
+GO:0033139	2	GO:0001919	regulation of receptor recycling
+GO:0032505	16	GO:0019953	sexual reproduction
+GO:0032506	7	GO:0034086	maintenance of sister chromatid cohesion
+GO:0009615	9	GO:0051707	response to other organism
+GO:0043687	3	GO:0000255	allantoin metabolic process
+GO:0032660	1	GO:0010468	regulation of gene expression
+GO:0032667	1	GO:0010468	regulation of gene expression
+GO:0001959	10	GO:0010469	regulation of signaling receptor activity
+GO:0032620	1	GO:0010468	regulation of gene expression
+GO:0032627	1	GO:0010468	regulation of gene expression
+GO:0042362	3	GO:0000255	allantoin metabolic process
+GO:0042368	3	GO:0000255	allantoin metabolic process
+GO:0042359	3	GO:0000255	allantoin metabolic process
+GO:0051043	2	GO:0001919	regulation of receptor recycling
+GO:0030534	19	GO:0051239	regulation of multicellular organismal process
+GO:0030537	19	GO:0051239	regulation of multicellular organismal process
+GO:0035821	8	GO:0016032	viral process
+GO:0002699	21	GO:0002253	activation of immune response
+GO:1902992	2	GO:0001919	regulation of receptor recycling
+GO:0006366	4	GO:1903506	regulation of nucleic acid-templated transcription
+GO:0030656	2	GO:0001919	regulation of receptor recycling
+GO:0006357	4	GO:1903506	regulation of nucleic acid-templated transcription
+GO:0032095	20	GO:0006955	immune response
+GO:1903557	1	GO:0010468	regulation of gene expression
+GO:1902947	2	GO:0001919	regulation of receptor recycling
+GO:1901256	1	GO:0010468	regulation of gene expression
+GO:1901258	1	GO:0010468	regulation of gene expression
+GO:0031321	15	GO:0048468	cell development
+GO:0031348	20	GO:0006955	immune response
+GO:0031334	11	GO:0033045	regulation of sister chromatid segregation
+GO:0000423	6	GO:0022607	cellular component assembly
+GO:2000053	10	GO:0010469	regulation of signaling receptor activity
+GO:0052031	9	GO:0051707	response to other organism
+GO:0030282	14	GO:0048513	animal organ development
+GO:0030242	3	GO:0000255	allantoin metabolic process
+GO:0000290	3	GO:0000255	allantoin metabolic process
+GO:0009411	20	GO:0006955	immune response
+GO:0051315	7	GO:0034086	maintenance of sister chromatid cohesion
+GO:0000280	6	GO:0022607	cellular component assembly
+GO:0031134	7	GO:0034086	maintenance of sister chromatid cohesion
+GO:0051300	7	GO:0034086	maintenance of sister chromatid cohesion
+GO:0070175	14	GO:0048513	animal organ development
+GO:0045950	4	GO:1903506	regulation of nucleic acid-templated transcription
+GO:0001172	4	GO:1903506	regulation of nucleic acid-templated transcription
+GO:0099120	14	GO:0048513	animal organ development
+GO:0071425	13	GO:1902105	regulation of leukocyte differentiation
+GO:0090735	6	GO:0022607	cellular component assembly
+GO:0002429	10	GO:0010469	regulation of signaling receptor activity
+GO:0002443	21	GO:0002253	activation of immune response
+GO:0002449	21	GO:0002253	activation of immune response
+GO:0030587	14	GO:0048513	animal organ development
+GO:0039702	8	GO:0016032	viral process
+GO:0050776	21	GO:0002253	activation of immune response
+GO:0050777	21	GO:0002253	activation of immune response
+GO:0098813	7	GO:0034086	maintenance of sister chromatid cohesion
+GO:0060716	14	GO:0048513	animal organ development
+GO:0032273	11	GO:0033045	regulation of sister chromatid segregation
+GO:0032222	10	GO:0010469	regulation of signaling receptor activity
+GO:0032224	10	GO:0010469	regulation of signaling receptor activity
+GO:0032760	1	GO:0010468	regulation of gene expression
+GO:0052167	9	GO:0051707	response to other organism
+GO:0002253	21	GO:0002253	activation of immune response
+GO:0050806	10	GO:0010469	regulation of signaling receptor activity
+GO:0052170	9	GO:0051707	response to other organism
+GO:0044332	10	GO:0010469	regulation of signaling receptor activity
+GO:0002224	10	GO:0010469	regulation of signaling receptor activity
+GO:0002218	9	GO:0051707	response to other organism
+GO:0002209	20	GO:0006955	immune response
+GO:0051703	19	GO:0051239	regulation of multicellular organismal process
+GO:0051707	9	GO:0051707	response to other organism
+GO:1900073	10	GO:0010469	regulation of signaling receptor activity
+GO:0039695	8	GO:0016032	viral process
+GO:0002757	10	GO:0010469	regulation of signaling receptor activity
+GO:0044414	9	GO:0051707	response to other organism
+GO:0039686	8	GO:0016032	viral process
+GO:0032835	14	GO:0048513	animal organ development
+GO:0001541	14	GO:0048513	animal organ development
+GO:0031645	19	GO:0051239	regulation of multicellular organismal process
+GO:0043207	9	GO:0051707	response to other organism
+GO:0002703	21	GO:0002253	activation of immune response
+GO:0002705	21	GO:0002253	activation of immune response
+GO:0002706	21	GO:0002253	activation of immune response
+GO:0002708	21	GO:0002253	activation of immune response
+GO:0050688	9	GO:0051707	response to other organism
+GO:0050670	21	GO:0002253	activation of immune response
+GO:1903651	12	GO:0010528	regulation of transposition
+GO:0010968	11	GO:0033045	regulation of sister chromatid segregation
+GO:0002831	10	GO:0010469	regulation of signaling receptor activity
+GO:0002833	10	GO:0010469	regulation of signaling receptor activity
+GO:0032651	1	GO:0010468	regulation of gene expression
+GO:0032652	1	GO:0010468	regulation of gene expression
+GO:0032656	1	GO:0010468	regulation of gene expression
+GO:0022612	14	GO:0048513	animal organ development
+GO:0032674	1	GO:0010468	regulation of gene expression
+GO:0032611	1	GO:0010468	regulation of gene expression
+GO:0032612	1	GO:0010468	regulation of gene expression
+GO:0032647	1	GO:0010468	regulation of gene expression
+GO:0042628	16	GO:0019953	sexual reproduction
+GO:0032607	1	GO:0010468	regulation of gene expression
+GO:0036301	1	GO:0010468	regulation of gene expression
+GO:0036305	15	GO:0048468	cell development
+GO:0071652	1	GO:0010468	regulation of gene expression
+GO:0097009	19	GO:0051239	regulation of multicellular organismal process
+GO:0071655	1	GO:0010468	regulation of gene expression
+GO:0071610	1	GO:0010468	regulation of gene expression
+GO:0071611	1	GO:0010468	regulation of gene expression
+GO:0052562	9	GO:0051707	response to other organism
+GO:0052553	9	GO:0051707	response to other organism
+GO:0002683	12	GO:0010528	regulation of transposition
+GO:0040027	13	GO:1902105	regulation of leukocyte differentiation
+GO:0052572	9	GO:0051707	response to other organism
+GO:0002637	1	GO:0010468	regulation of gene expression
+GO:0072575	14	GO:0048513	animal organ development
+GO:0072576	14	GO:0048513	animal organ development
+GO:0019068	8	GO:0016032	viral process
+GO:0007398	14	GO:0048513	animal organ development
+GO:1905634	18	GO:0008298	intracellular mRNA localization
+GO:0045744	10	GO:0010469	regulation of signaling receptor activity
+GO:0007379	14	GO:0048513	animal organ development
+GO:1903076	18	GO:0008298	intracellular mRNA localization
+GO:0032944	12	GO:0010528	regulation of transposition
+GO:0051987	11	GO:0033045	regulation of sister chromatid segregation
+GO:0045860	2	GO:0001919	regulation of receptor recycling
+GO:0045859	2	GO:0001919	regulation of receptor recycling
+GO:0071921	7	GO:0034086	maintenance of sister chromatid cohesion
+GO:0071922	11	GO:0033045	regulation of sister chromatid segregation
+GO:0080009	3	GO:0000255	allantoin metabolic process
+GO:0071900	2	GO:0001919	regulation of receptor recycling
+GO:0097191	10	GO:0010469	regulation of signaling receptor activity
+GO:1990758	7	GO:0034086	maintenance of sister chromatid cohesion
+GO:0043984	3	GO:0000255	allantoin metabolic process
+GO:1905954	12	GO:0010528	regulation of transposition
+GO:1902440	18	GO:0008298	intracellular mRNA localization
+GO:0000470	3	GO:0000255	allantoin metabolic process
+GO:0097201	4	GO:1903506	regulation of nucleic acid-templated transcription
+GO:0097205	19	GO:0051239	regulation of multicellular organismal process
+GO:0060491	11	GO:0033045	regulation of sister chromatid segregation
+GO:0003094	19	GO:0051239	regulation of multicellular organismal process
+GO:1902107	13	GO:1902105	regulation of leukocyte differentiation
+GO:0048232	16	GO:0019953	sexual reproduction
+GO:0008293	10	GO:0010469	regulation of signaling receptor activity
+GO:0008298	18	GO:0008298	intracellular mRNA localization
+GO:0046637	13	GO:1902105	regulation of leukocyte differentiation
+GO:0030717	15	GO:0048468	cell development
+GO:0070167	13	GO:1902105	regulation of leukocyte differentiation
+GO:0070168	13	GO:1902105	regulation of leukocyte differentiation
+GO:0019233	19	GO:0051239	regulation of multicellular organismal process
+GO:0002320	13	GO:1902105	regulation of leukocyte differentiation
+GO:1901534	13	GO:1902105	regulation of leukocyte differentiation
+GO:0060263	2	GO:0001919	regulation of receptor recycling
+GO:0098789	3	GO:0000255	allantoin metabolic process
+GO:0001101	20	GO:0006955	immune response
+GO:0033313	11	GO:0033045	regulation of sister chromatid segregation
+GO:0043370	13	GO:1902105	regulation of leukocyte differentiation
+GO:2000379	2	GO:0001919	regulation of receptor recycling
+GO:0035067	2	GO:0001919	regulation of receptor recycling
+GO:0045071	8	GO:0016032	viral process
+GO:0048525	12	GO:0010528	regulation of transposition
+GO:0030500	13	GO:1902105	regulation of leukocyte differentiation
+GO:0030502	13	GO:1902105	regulation of leukocyte differentiation
+GO:2000479	2	GO:0001919	regulation of receptor recycling
+GO:1905456	13	GO:1902105	regulation of leukocyte differentiation
+GO:0051273	3	GO:0000255	allantoin metabolic process
+GO:1903708	13	GO:1902105	regulation of leukocyte differentiation
+GO:0001779	13	GO:1902105	regulation of leukocyte differentiation
+GO:0006952	20	GO:0006955	immune response
+GO:0071229	20	GO:0006955	immune response
+GO:1903873	11	GO:0033045	regulation of sister chromatid segregation
+GO:0048640	19	GO:0051239	regulation of multicellular organismal process
+GO:0060836	14	GO:0048513	animal organ development
+GO:2000174	13	GO:1902105	regulation of leukocyte differentiation
+GO:0048609	16	GO:0019953	sexual reproduction
+GO:0034453	6	GO:0022607	cellular component assembly
+GO:0039694	8	GO:0016032	viral process
+GO:0051897	10	GO:0010469	regulation of signaling receptor activity
+GO:0032814	21	GO:0002253	activation of immune response
+GO:1903506	4	GO:1903506	regulation of nucleic acid-templated transcription
+GO:2000242	12	GO:0010528	regulation of transposition
+GO:0002709	21	GO:0002253	activation of immune response
+GO:2000781	4	GO:1903506	regulation of nucleic acid-templated transcription
+GO:0045478	6	GO:0022607	cellular component assembly
+GO:0002572	13	GO:1902105	regulation of leukocyte differentiation
+GO:0032649	1	GO:0010468	regulation of gene expression
+GO:0032609	1	GO:0010468	regulation of gene expression
+GO:0000914	7	GO:0034086	maintenance of sister chromatid cohesion
+GO:0006351	4	GO:1903506	regulation of nucleic acid-templated transcription
+GO:0006355	4	GO:1903506	regulation of nucleic acid-templated transcription
+GO:0040015	19	GO:0051239	regulation of multicellular organismal process
+GO:2000694	11	GO:0033045	regulation of sister chromatid segregation
+GO:0019083	8	GO:0016032	viral process
+GO:0000018	4	GO:1903506	regulation of nucleic acid-templated transcription
+GO:0000019	4	GO:1903506	regulation of nucleic acid-templated transcription
+GO:0043618	4	GO:1903506	regulation of nucleic acid-templated transcription
+GO:2000615	2	GO:0001919	regulation of receptor recycling
+GO:1903900	8	GO:0016032	viral process
+GO:0031055	6	GO:0022607	cellular component assembly
+GO:0045752	10	GO:0010469	regulation of signaling receptor activity
+GO:0007369	14	GO:0048513	animal organ development
+GO:0007341	16	GO:0019953	sexual reproduction
+GO:0046755	8	GO:0016032	viral process
+GO:0010468	1	GO:0010468	regulation of gene expression
+GO:0010457	7	GO:0034086	maintenance of sister chromatid cohesion
+GO:0043966	3	GO:0000255	allantoin metabolic process
+GO:0043954	6	GO:0022607	cellular component assembly
+GO:0035694	3	GO:0000255	allantoin metabolic process
+GO:0043970	3	GO:0000255	allantoin metabolic process
+GO:0050871	21	GO:0002253	activation of immune response
+GO:0035545	14	GO:0048513	animal organ development
+GO:0046660	14	GO:0048513	animal organ development
+GO:2000104	4	GO:1903506	regulation of nucleic acid-templated transcription
+GO:2000106	12	GO:0010528	regulation of transposition
+GO:0044658	8	GO:0016032	viral process
+GO:0060391	10	GO:0010469	regulation of signaling receptor activity
+GO:0010458	7	GO:0034086	maintenance of sister chromatid cohesion
+GO:0032352	2	GO:0001919	regulation of receptor recycling
+GO:0045190	3	GO:0000255	allantoin metabolic process
+GO:0045191	3	GO:0000255	allantoin metabolic process
+GO:0002381	21	GO:0002253	activation of immune response
+GO:0060122	15	GO:0048468	cell development
+GO:0050913	19	GO:0051239	regulation of multicellular organismal process
+GO:0030473	18	GO:0008298	intracellular mRNA localization
+GO:0050909	19	GO:0051239	regulation of multicellular organismal process
+GO:2000641	12	GO:0010528	regulation of transposition
+GO:0019073	8	GO:0016032	viral process
+GO:0001680	3	GO:0000255	allantoin metabolic process
+GO:0042078	15	GO:0048468	cell development
+GO:2000055	10	GO:0010469	regulation of signaling receptor activity
+GO:0052150	12	GO:0010528	regulation of transposition
+GO:0030237	14	GO:0048513	animal organ development
+GO:0052111	8	GO:0016032	viral process
+GO:0002204	3	GO:0000255	allantoin metabolic process
+GO:0002208	14	GO:0048513	animal organ development
+GO:0034090	5	GO:0045143	homologous chromosome segregation
+GO:0039645	11	GO:0033045	regulation of sister chromatid segregation
+GO:0039646	11	GO:0033045	regulation of sister chromatid segregation
+GO:0034089	5	GO:0045143	homologous chromosome segregation
+GO:0016445	14	GO:0048513	animal organ development
+GO:0016447	3	GO:0000255	allantoin metabolic process
+GO:0017015	10	GO:0010469	regulation of signaling receptor activity
+GO:1990399	20	GO:0006955	immune response
+GO:0002562	3	GO:0000255	allantoin metabolic process
+GO:0032616	1	GO:0010468	regulation of gene expression
+GO:0090030	2	GO:0001919	regulation of receptor recycling
+GO:0120178	3	GO:0000255	allantoin metabolic process
+GO:0032634	1	GO:0010468	regulation of gene expression
+GO:0016242	2	GO:0001919	regulation of receptor recycling
+GO:0046885	2	GO:0001919	regulation of receptor recycling
+GO:0046886	2	GO:0001919	regulation of receptor recycling
+GO:0034397	18	GO:0008298	intracellular mRNA localization
+GO:0034398	18	GO:0008298	intracellular mRNA localization
+GO:0046599	11	GO:0033045	regulation of sister chromatid segregation
+GO:0008207	3	GO:0000255	allantoin metabolic process
+GO:0045910	4	GO:1903506	regulation of nucleic acid-templated transcription
+GO:1903523	19	GO:0051239	regulation of multicellular organismal process

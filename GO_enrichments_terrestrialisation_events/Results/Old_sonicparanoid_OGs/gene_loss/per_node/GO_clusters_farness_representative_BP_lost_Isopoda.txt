@@ -1,0 +1,877 @@
+GO:0006691	5	GO:0042219	cellular modified amino acid catabolic process
+GO:0034080	15	GO:1902275	regulation of chromatin organization
+GO:0034089	15	GO:1902275	regulation of chromatin organization
+GO:0030449	12	GO:0050777	negative regulation of immune response
+GO:1905144	14	GO:0071357	cellular response to type I interferon
+GO:1905145	14	GO:0071357	cellular response to type I interferon
+GO:1900015	4	GO:0045833	negative regulation of lipid metabolic process
+GO:1901659	5	GO:0042219	cellular modified amino acid catabolic process
+GO:0044000	11	GO:0016032	viral process
+GO:0095500	1	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:0033045	15	GO:1902275	regulation of chromatin organization
+GO:0033046	15	GO:1902275	regulation of chromatin organization
+GO:0033047	15	GO:1902275	regulation of chromatin organization
+GO:0033048	15	GO:1902275	regulation of chromatin organization
+GO:0019730	14	GO:0071357	cellular response to type I interferon
+GO:0016999	6	GO:0046500	S-adenosylmethionine metabolic process
+GO:0075528	14	GO:0071357	cellular response to type I interferon
+GO:1903977	10	GO:0030856	regulation of epithelial cell differentiation
+GO:0039722	12	GO:0050777	negative regulation of immune response
+GO:0039723	12	GO:0050777	negative regulation of immune response
+GO:0039724	12	GO:0050777	negative regulation of immune response
+GO:0070481	6	GO:0046500	S-adenosylmethionine metabolic process
+GO:0016925	6	GO:0046500	S-adenosylmethionine metabolic process
+GO:0019827	8	GO:0007389	pattern specification process
+GO:0070197	15	GO:1902275	regulation of chromatin organization
+GO:0009746	14	GO:0071357	cellular response to type I interferon
+GO:0009749	14	GO:0071357	cellular response to type I interferon
+GO:0030727	7	GO:0007276	gamete generation
+GO:0002052	10	GO:0030856	regulation of epithelial cell differentiation
+GO:1905819	17	GO:0051302	regulation of cell division
+GO:0031055	15	GO:1902275	regulation of chromatin organization
+GO:0006959	14	GO:0071357	cellular response to type I interferon
+GO:0039557	12	GO:0050777	negative regulation of immune response
+GO:0039588	12	GO:0050777	negative regulation of immune response
+GO:0060252	10	GO:0030856	regulation of epithelial cell differentiation
+GO:0000722	6	GO:0046500	S-adenosylmethionine metabolic process
+GO:0019695	6	GO:0046500	S-adenosylmethionine metabolic process
+GO:0039501	12	GO:0050777	negative regulation of immune response
+GO:0039502	12	GO:0050777	negative regulation of immune response
+GO:0039505	12	GO:0050777	negative regulation of immune response
+GO:0033387	5	GO:0042219	cellular modified amino acid catabolic process
+GO:0030838	15	GO:1902275	regulation of chromatin organization
+GO:0005981	4	GO:0045833	negative regulation of lipid metabolic process
+GO:0039693	11	GO:0016032	viral process
+GO:1904069	5	GO:0042219	cellular modified amino acid catabolic process
+GO:0050766	17	GO:0051302	regulation of cell division
+GO:0030593	14	GO:0071357	cellular response to type I interferon
+GO:0030595	14	GO:0071357	cellular response to type I interferon
+GO:1904070	5	GO:0042219	cellular modified amino acid catabolic process
+GO:0050729	12	GO:0050777	negative regulation of immune response
+GO:0038007	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0039645	17	GO:0051302	regulation of cell division
+GO:0008063	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0061060	1	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:0030540	8	GO:0007389	pattern specification process
+GO:0017014	6	GO:0046500	S-adenosylmethionine metabolic process
+GO:0030539	8	GO:0007389	pattern specification process
+GO:0009620	14	GO:0071357	cellular response to type I interferon
+GO:0090598	8	GO:0007389	pattern specification process
+GO:0010628	4	GO:0045833	negative regulation of lipid metabolic process
+GO:1903078	17	GO:0051302	regulation of cell division
+GO:0007091	15	GO:1902275	regulation of chromatin organization
+GO:0007094	15	GO:1902275	regulation of chromatin organization
+GO:0007060	7	GO:0007276	gamete generation
+GO:1903006	4	GO:0045833	negative regulation of lipid metabolic process
+GO:0043154	4	GO:0045833	negative regulation of lipid metabolic process
+GO:0016032	11	GO:0016032	viral process
+GO:0090502	6	GO:0046500	S-adenosylmethionine metabolic process
+GO:1902099	15	GO:1902275	regulation of chromatin organization
+GO:0033138	4	GO:0045833	negative regulation of lipid metabolic process
+GO:0031343	17	GO:0051302	regulation of cell division
+GO:0031334	15	GO:1902275	regulation of chromatin organization
+GO:0044784	15	GO:1902275	regulation of chromatin organization
+GO:0033235	4	GO:0045833	negative regulation of lipid metabolic process
+GO:0032148	4	GO:0045833	negative regulation of lipid metabolic process
+GO:0044719	8	GO:0007389	pattern specification process
+GO:0050667	6	GO:0046500	S-adenosylmethionine metabolic process
+GO:0043248	15	GO:1902275	regulation of chromatin organization
+GO:0042135	6	GO:0046500	S-adenosylmethionine metabolic process
+GO:0051382	15	GO:1902275	regulation of chromatin organization
+GO:0010965	15	GO:1902275	regulation of chromatin organization
+GO:0010951	4	GO:0045833	negative regulation of lipid metabolic process
+GO:0031145	5	GO:0042219	cellular modified amino acid catabolic process
+GO:0051307	15	GO:1902275	regulation of chromatin organization
+GO:0051308	7	GO:0007276	gamete generation
+GO:0010923	4	GO:0045833	negative regulation of lipid metabolic process
+GO:2000117	4	GO:0045833	negative regulation of lipid metabolic process
+GO:1990806	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0032755	4	GO:0045833	negative regulation of lipid metabolic process
+GO:0031268	15	GO:1902275	regulation of chromatin organization
+GO:0031269	15	GO:1902275	regulation of chromatin organization
+GO:0018119	6	GO:0046500	S-adenosylmethionine metabolic process
+GO:0002225	12	GO:0050777	negative regulation of immune response
+GO:0031272	15	GO:1902275	regulation of chromatin organization
+GO:0031274	15	GO:1902275	regulation of chromatin organization
+GO:0007320	7	GO:0007276	gamete generation
+GO:0018108	6	GO:0046500	S-adenosylmethionine metabolic process
+GO:0034508	15	GO:1902275	regulation of chromatin organization
+GO:0048132	7	GO:0007276	gamete generation
+GO:0048134	7	GO:0007276	gamete generation
+GO:0048135	7	GO:0007276	gamete generation
+GO:0002760	12	GO:0050777	negative regulation of immune response
+GO:0018212	6	GO:0046500	S-adenosylmethionine metabolic process
+GO:0106070	1	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:0006355	3	GO:2001141	regulation of RNA biosynthetic process
+GO:0007487	8	GO:0007389	pattern specification process
+GO:0046495	6	GO:0046500	S-adenosylmethionine metabolic process
+GO:0051131	15	GO:1902275	regulation of chromatin organization
+GO:0006370	6	GO:0046500	S-adenosylmethionine metabolic process
+GO:0018208	6	GO:0046500	S-adenosylmethionine metabolic process
+GO:0071173	17	GO:0051302	regulation of cell division
+GO:0071174	17	GO:0051302	regulation of cell division
+GO:1900619	6	GO:0046500	S-adenosylmethionine metabolic process
+GO:0042832	14	GO:0071357	cellular response to type I interferon
+GO:0060965	4	GO:0045833	negative regulation of lipid metabolic process
+GO:2000736	10	GO:0030856	regulation of epithelial cell differentiation
+GO:0008291	6	GO:0046500	S-adenosylmethionine metabolic process
+GO:1903142	10	GO:0030856	regulation of epithelial cell differentiation
+GO:1902435	7	GO:0007276	gamete generation
+GO:0050901	16	GO:0032196	transposition
+GO:0007155	16	GO:0032196	transposition
+GO:0007157	16	GO:0032196	transposition
+GO:0007187	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0019058	11	GO:0016032	viral process
+GO:0019082	11	GO:0016032	viral process
+GO:0045496	8	GO:0007389	pattern specification process
+GO:0045497	8	GO:0007389	pattern specification process
+GO:0016138	5	GO:0042219	cellular modified amino acid catabolic process
+GO:0019073	11	GO:0016032	viral process
+GO:0019076	11	GO:0016032	viral process
+GO:0033631	16	GO:0032196	transposition
+GO:0045464	9	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0019049	11	GO:0016032	viral process
+GO:0001702	8	GO:0007389	pattern specification process
+GO:0042531	4	GO:0045833	negative regulation of lipid metabolic process
+GO:2000816	15	GO:1902275	regulation of chromatin organization
+GO:0042537	6	GO:0046500	S-adenosylmethionine metabolic process
+GO:1904778	17	GO:0051302	regulation of cell division
+GO:0042509	4	GO:0045833	negative regulation of lipid metabolic process
+GO:0045434	7	GO:0007276	gamete generation
+GO:0021556	8	GO:0007389	pattern specification process
+GO:0051784	15	GO:1902275	regulation of chromatin organization
+GO:0046103	5	GO:0042219	cellular modified amino acid catabolic process
+GO:0007260	4	GO:0045833	negative regulation of lipid metabolic process
+GO:1902100	15	GO:1902275	regulation of chromatin organization
+GO:0007282	7	GO:0007276	gamete generation
+GO:0007284	7	GO:0007276	gamete generation
+GO:0031577	17	GO:0051302	regulation of cell division
+GO:0016233	6	GO:0046500	S-adenosylmethionine metabolic process
+GO:0002532	14	GO:0071357	cellular response to type I interferon
+GO:0002534	4	GO:0045833	negative regulation of lipid metabolic process
+GO:0007213	1	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:0098724	16	GO:0032196	transposition
+GO:0098725	16	GO:0032196	transposition
+GO:0098729	7	GO:0007276	gamete generation
+GO:0098730	7	GO:0007276	gamete generation
+GO:0071732	14	GO:0071357	cellular response to type I interferon
+GO:0052553	14	GO:0071357	cellular response to type I interferon
+GO:0030071	15	GO:1902275	regulation of chromatin organization
+GO:0045138	8	GO:0007389	pattern specification process
+GO:0052572	14	GO:0071357	cellular response to type I interferon
+GO:0014902	9	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0046794	11	GO:0016032	viral process
+GO:0046765	11	GO:0016032	viral process
+GO:0061844	14	GO:0071357	cellular response to type I interferon
+GO:0031637	17	GO:0051302	regulation of cell division
+GO:0031638	5	GO:0042219	cellular modified amino acid catabolic process
+GO:0001502	8	GO:0007389	pattern specification process
+GO:0035212	10	GO:0030856	regulation of epithelial cell differentiation
+GO:0035215	8	GO:0007389	pattern specification process
+GO:0097745	5	GO:0042219	cellular modified amino acid catabolic process
+GO:0035235	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0008592	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0001682	5	GO:0042219	cellular modified amino acid catabolic process
+GO:0048668	9	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0048678	14	GO:0071357	cellular response to type I interferon
+GO:0006730	6	GO:0046500	S-adenosylmethionine metabolic process
+GO:0070096	15	GO:1902275	regulation of chromatin organization
+GO:0045742	1	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:0045745	1	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:1903506	3	GO:2001141	regulation of RNA biosynthetic process
+GO:0098664	1	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:0007520	9	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0071621	14	GO:0071357	cellular response to type I interferon
+GO:0110037	10	GO:0030856	regulation of epithelial cell differentiation
+GO:0110039	10	GO:0030856	regulation of epithelial cell differentiation
+GO:0045818	4	GO:0045833	negative regulation of lipid metabolic process
+GO:0045841	15	GO:1902275	regulation of chromatin organization
+GO:0045842	15	GO:1902275	regulation of chromatin organization
+GO:0045839	15	GO:1902275	regulation of chromatin organization
+GO:2001141	3	GO:2001141	regulation of RNA biosynthetic process
+GO:0002920	12	GO:0050777	negative regulation of immune response
+GO:0006569	5	GO:0042219	cellular modified amino acid catabolic process
+GO:0002922	12	GO:0050777	negative regulation of immune response
+GO:0046692	7	GO:0007276	gamete generation
+GO:0046693	7	GO:0007276	gamete generation
+GO:0006581	6	GO:0046500	S-adenosylmethionine metabolic process
+GO:0002949	6	GO:0046500	S-adenosylmethionine metabolic process
+GO:0010466	4	GO:0045833	negative regulation of lipid metabolic process
+GO:0046661	8	GO:0007389	pattern specification process
+GO:0045572	10	GO:0030856	regulation of epithelial cell differentiation
+GO:0046813	11	GO:0016032	viral process
+GO:0043903	17	GO:0051302	regulation of cell division
+GO:1905941	10	GO:0030856	regulation of epithelial cell differentiation
+GO:0030168	16	GO:0032196	transposition
+GO:0031347	12	GO:0050777	negative regulation of immune response
+GO:0031348	12	GO:0050777	negative regulation of immune response
+GO:0030183	9	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0007266	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0007283	7	GO:0007276	gamete generation
+GO:0045601	10	GO:0030856	regulation of epithelial cell differentiation
+GO:0007215	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0033077	9	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0060326	14	GO:0071357	cellular response to type I interferon
+GO:0007200	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0033003	17	GO:0051302	regulation of cell division
+GO:0062013	4	GO:0045833	negative regulation of lipid metabolic process
+GO:0000122	3	GO:2001141	regulation of RNA biosynthetic process
+GO:0030217	9	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0048240	7	GO:0007276	gamete generation
+GO:0048246	14	GO:0071357	cellular response to type I interferon
+GO:0048232	7	GO:0007276	gamete generation
+GO:0097722	16	GO:0032196	transposition
+GO:0046651	16	GO:0032196	transposition
+GO:0010760	12	GO:0050777	negative regulation of immune response
+GO:0010764	17	GO:0051302	regulation of cell division
+GO:0010758	12	GO:0050777	negative regulation of immune response
+GO:0034090	15	GO:1902275	regulation of chromatin organization
+GO:0046632	9	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0034050	14	GO:0071357	cellular response to type I interferon
+GO:0044068	16	GO:0032196	transposition
+GO:0060153	17	GO:0051302	regulation of cell division
+GO:0031102	9	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0031103	9	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0015979	6	GO:0046500	S-adenosylmethionine metabolic process
+GO:0045998	4	GO:0045833	negative regulation of lipid metabolic process
+GO:1903140	10	GO:0030856	regulation of epithelial cell differentiation
+GO:0070121	8	GO:0007389	pattern specification process
+GO:1901550	10	GO:0030856	regulation of epithelial cell differentiation
+GO:0045966	4	GO:0045833	negative regulation of lipid metabolic process
+GO:0044003	11	GO:0016032	viral process
+GO:0022409	17	GO:0051302	regulation of cell division
+GO:0060294	16	GO:0032196	transposition
+GO:0045944	3	GO:2001141	regulation of RNA biosynthetic process
+GO:0007553	4	GO:0045833	negative regulation of lipid metabolic process
+GO:0007554	4	GO:0045833	negative regulation of lipid metabolic process
+GO:0060285	16	GO:0032196	transposition
+GO:0043367	9	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0002456	14	GO:0071357	cellular response to type I interferon
+GO:0070286	15	GO:1902275	regulation of chromatin organization
+GO:0010566	3	GO:2001141	regulation of RNA biosynthetic process
+GO:0043327	14	GO:0071357	cellular response to type I interferon
+GO:0042113	16	GO:0032196	transposition
+GO:0042116	16	GO:0032196	transposition
+GO:0045087	14	GO:0071357	cellular response to type I interferon
+GO:0050727	12	GO:0050777	negative regulation of immune response
+GO:0050728	12	GO:0050777	negative regulation of immune response
+GO:0035006	14	GO:0071357	cellular response to type I interferon
+GO:0048538	8	GO:0007389	pattern specification process
+GO:0003341	16	GO:0032196	transposition
+GO:0051260	15	GO:1902275	regulation of chromatin organization
+GO:1905458	10	GO:0030856	regulation of epithelial cell differentiation
+GO:0050867	17	GO:0051302	regulation of cell division
+GO:0048662	17	GO:0051302	regulation of cell division
+GO:0050870	17	GO:0051302	regulation of cell division
+GO:0050819	17	GO:0051302	regulation of cell division
+GO:0006956	12	GO:0050777	negative regulation of immune response
+GO:0006979	14	GO:0071357	cellular response to type I interferon
+GO:0032757	4	GO:0045833	negative regulation of lipid metabolic process
+GO:0002274	16	GO:0032196	transposition
+GO:0032722	4	GO:0045833	negative regulation of lipid metabolic process
+GO:0042789	3	GO:2001141	regulation of RNA biosynthetic process
+GO:2000146	17	GO:0051302	regulation of cell division
+GO:0001818	4	GO:0045833	negative regulation of lipid metabolic process
+GO:1904750	17	GO:0051302	regulation of cell division
+GO:0031536	15	GO:1902275	regulation of chromatin organization
+GO:0051702	11	GO:0016032	viral process
+GO:1900016	4	GO:0045833	negative regulation of lipid metabolic process
+GO:0070527	16	GO:0032196	transposition
+GO:0032825	10	GO:0030856	regulation of epithelial cell differentiation
+GO:0098609	16	GO:0032196	transposition
+GO:0002711	12	GO:0050777	negative regulation of immune response
+GO:1904892	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0044409	11	GO:0016032	viral process
+GO:0002709	12	GO:0050777	negative regulation of immune response
+GO:0001539	16	GO:0032196	transposition
+GO:0070661	16	GO:0032196	transposition
+GO:0034109	16	GO:0032196	transposition
+GO:0002824	12	GO:0050777	negative regulation of immune response
+GO:0009626	14	GO:0071357	cellular response to type I interferon
+GO:0009611	14	GO:0071357	cellular response to type I interferon
+GO:0002831	12	GO:0050777	negative regulation of immune response
+GO:0007064	15	GO:1902275	regulation of chromatin organization
+GO:0016339	16	GO:0032196	transposition
+GO:0032677	4	GO:0045833	negative regulation of lipid metabolic process
+GO:0032637	4	GO:0045833	negative regulation of lipid metabolic process
+GO:0042631	14	GO:0071357	cellular response to type I interferon
+GO:0034776	14	GO:0071357	cellular response to type I interferon
+GO:0002696	17	GO:0051302	regulation of cell division
+GO:0002682	17	GO:0051302	regulation of cell division
+GO:0002685	17	GO:0051302	regulation of cell division
+GO:0006357	3	GO:2001141	regulation of RNA biosynthetic process
+GO:0002686	17	GO:0051302	regulation of cell division
+GO:0002688	12	GO:0050777	negative regulation of immune response
+GO:0002689	12	GO:0050777	negative regulation of immune response
+GO:0040032	8	GO:0007389	pattern specification process
+GO:1905521	17	GO:0051302	regulation of cell division
+GO:1905522	17	GO:0051302	regulation of cell division
+GO:0046426	1	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:1905517	16	GO:0032196	transposition
+GO:0072574	8	GO:0007389	pattern specification process
+GO:0072575	8	GO:0007389	pattern specification process
+GO:0072576	8	GO:0007389	pattern specification process
+GO:0050922	12	GO:0050777	negative regulation of immune response
+GO:0019068	11	GO:0016032	viral process
+GO:0000027	15	GO:1902275	regulation of chromatin organization
+GO:0019080	11	GO:0016032	viral process
+GO:0019083	11	GO:0016032	viral process
+GO:0044826	11	GO:0016032	viral process
+GO:0036159	15	GO:1902275	regulation of chromatin organization
+GO:0050900	16	GO:0032196	transposition
+GO:0001953	17	GO:0051302	regulation of cell division
+GO:0090031	4	GO:0045833	negative regulation of lipid metabolic process
+GO:1901346	10	GO:0030856	regulation of epithelial cell differentiation
+GO:0032963	6	GO:0046500	S-adenosylmethionine metabolic process
+GO:1903053	17	GO:0051302	regulation of cell division
+GO:0035891	11	GO:0016032	viral process
+GO:0007311	7	GO:0007276	gamete generation
+GO:0007340	7	GO:0007276	gamete generation
+GO:0045892	3	GO:2001141	regulation of RNA biosynthetic process
+GO:0007338	7	GO:0007276	gamete generation
+GO:0007339	7	GO:0007276	gamete generation
+GO:0032943	16	GO:0032196	transposition
+GO:0051923	6	GO:0046500	S-adenosylmethionine metabolic process
+GO:0035821	11	GO:0016032	viral process
+GO:0030317	16	GO:0032196	transposition
+GO:0006268	6	GO:0046500	S-adenosylmethionine metabolic process
+GO:0030336	17	GO:0051302	regulation of cell division
+GO:0046718	11	GO:0016032	viral process
+GO:0045582	10	GO:0030856	regulation of epithelial cell differentiation
+GO:0045576	16	GO:0032196	transposition
+GO:0075713	11	GO:0016032	viral process
+GO:0030435	9	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0006508	6	GO:0046500	S-adenosylmethionine metabolic process
+GO:0034097	14	GO:0071357	cellular response to type I interferon
+GO:0046649	16	GO:0032196	transposition
+GO:0046631	16	GO:0032196	transposition
+GO:0075732	11	GO:0016032	viral process
+GO:0001960	1	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:0019221	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0090305	6	GO:0046500	S-adenosylmethionine metabolic process
+GO:0045665	10	GO:0030856	regulation of epithelial cell differentiation
+GO:0051984	17	GO:0051302	regulation of cell division
+GO:0051972	3	GO:2001141	regulation of RNA biosynthetic process
+GO:0051973	3	GO:2001141	regulation of RNA biosynthetic process
+GO:0051974	3	GO:2001141	regulation of RNA biosynthetic process
+GO:0060337	1	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:0060338	12	GO:0050777	negative regulation of immune response
+GO:0060339	12	GO:0050777	negative regulation of immune response
+GO:0043065	17	GO:0051302	regulation of cell division
+GO:0043068	17	GO:0051302	regulation of cell division
+GO:0050433	17	GO:0051302	regulation of cell division
+GO:0019882	16	GO:0032196	transposition
+GO:0140448	6	GO:0046500	S-adenosylmethionine metabolic process
+GO:0006953	14	GO:0071357	cellular response to type I interferon
+GO:0006954	14	GO:0071357	cellular response to type I interferon
+GO:0006958	12	GO:0050777	negative regulation of immune response
+GO:0034340	14	GO:0071357	cellular response to type I interferon
+GO:1901984	4	GO:0045833	negative regulation of lipid metabolic process
+GO:0045913	4	GO:0045833	negative regulation of lipid metabolic process
+GO:0010838	17	GO:0051302	regulation of cell division
+GO:0010594	17	GO:0051302	regulation of cell division
+GO:0010595	17	GO:0051302	regulation of cell division
+GO:0005976	6	GO:0046500	S-adenosylmethionine metabolic process
+GO:0060761	12	GO:0050777	negative regulation of immune response
+GO:0003391	9	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0051053	3	GO:2001141	regulation of RNA biosynthetic process
+GO:0099500	15	GO:1902275	regulation of chromatin organization
+GO:0043457	4	GO:0045833	negative regulation of lipid metabolic process
+GO:0044179	16	GO:0032196	transposition
+GO:0010676	4	GO:0045833	negative regulation of lipid metabolic process
+GO:0050853	1	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:0050818	10	GO:0030856	regulation of epithelial cell differentiation
+GO:0032496	14	GO:0071357	cellular response to type I interferon
+GO:0044264	6	GO:0046500	S-adenosylmethionine metabolic process
+GO:0036065	5	GO:0042219	cellular modified amino acid catabolic process
+GO:0044278	11	GO:0016032	viral process
+GO:0043171	6	GO:0046500	S-adenosylmethionine metabolic process
+GO:0042423	5	GO:0042219	cellular modified amino acid catabolic process
+GO:0070593	9	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0007008	15	GO:1902275	regulation of chromatin organization
+GO:0032196	16	GO:0032196	transposition
+GO:0034765	17	GO:0051302	regulation of cell division
+GO:0060537	8	GO:0007389	pattern specification process
+GO:0015074	6	GO:0046500	S-adenosylmethionine metabolic process
+GO:0043269	17	GO:0051302	regulation of cell division
+GO:0002437	14	GO:0071357	cellular response to type I interferon
+GO:2000480	4	GO:0045833	negative regulation of lipid metabolic process
+GO:0042110	16	GO:0032196	transposition
+GO:2000479	4	GO:0045833	negative regulation of lipid metabolic process
+GO:1904353	3	GO:2001141	regulation of RNA biosynthetic process
+GO:1904355	3	GO:2001141	regulation of RNA biosynthetic process
+GO:0045058	9	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0035008	12	GO:0050777	negative regulation of immune response
+GO:0048499	15	GO:1902275	regulation of chromatin organization
+GO:1905939	10	GO:0030856	regulation of epithelial cell differentiation
+GO:0071357	14	GO:0071357	cellular response to type I interferon
+GO:0032210	3	GO:2001141	regulation of RNA biosynthetic process
+GO:0032212	3	GO:2001141	regulation of RNA biosynthetic process
+GO:0051301	16	GO:0032196	transposition
+GO:0051302	17	GO:0051302	regulation of cell division
+GO:0071345	14	GO:0071357	cellular response to type I interferon
+GO:0010942	17	GO:0051302	regulation of cell division
+GO:0038166	1	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:0071465	14	GO:0071357	cellular response to type I interferon
+GO:2000279	3	GO:2001141	regulation of RNA biosynthetic process
+GO:2000241	17	GO:0051302	regulation of cell division
+GO:2000243	17	GO:0051302	regulation of cell division
+GO:0016486	6	GO:0046500	S-adenosylmethionine metabolic process
+GO:0006313	6	GO:0046500	S-adenosylmethionine metabolic process
+GO:0033692	6	GO:0046500	S-adenosylmethionine metabolic process
+GO:0007186	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0035461	16	GO:0032196	transposition
+GO:0019079	11	GO:0016032	viral process
+GO:0001732	6	GO:0046500	S-adenosylmethionine metabolic process
+GO:0071222	14	GO:0071357	cellular response to type I interferon
+GO:0045450	7	GO:0007276	gamete generation
+GO:0071219	14	GO:0071357	cellular response to type I interferon
+GO:0042546	16	GO:0032196	transposition
+GO:0051781	17	GO:0051302	regulation of cell division
+GO:1903202	17	GO:0051302	regulation of cell division
+GO:1903204	17	GO:0051302	regulation of cell division
+GO:0002526	14	GO:0071357	cellular response to type I interferon
+GO:0001825	8	GO:0007389	pattern specification process
+GO:0006171	5	GO:0042219	cellular modified amino acid catabolic process
+GO:0007218	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0032649	4	GO:0045833	negative regulation of lipid metabolic process
+GO:0002694	17	GO:0051302	regulation of cell division
+GO:0001562	14	GO:0071357	cellular response to type I interferon
+GO:0031663	1	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:0031664	1	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:0098868	8	GO:0007389	pattern specification process
+GO:0001541	8	GO:0007389	pattern specification process
+GO:0006278	3	GO:2001141	regulation of RNA biosynthetic process
+GO:1901224	1	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:1902883	12	GO:0050777	negative regulation of immune response
+GO:0048634	10	GO:0030856	regulation of epithelial cell differentiation
+GO:0045744	1	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:0060041	8	GO:0007389	pattern specification process
+GO:0035590	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0035589	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0046688	14	GO:0071357	cellular response to type I interferon
+GO:1901562	14	GO:0071357	cellular response to type I interferon
+GO:0038107	3	GO:2001141	regulation of RNA biosynthetic process
+GO:0016545	7	GO:0007276	gamete generation
+GO:0060662	8	GO:0007389	pattern specification process
+GO:1990146	16	GO:0032196	transposition
+GO:0060675	8	GO:0007389	pattern specification process
+GO:0003197	8	GO:0007389	pattern specification process
+GO:0035186	8	GO:0007389	pattern specification process
+GO:0070050	16	GO:0032196	transposition
+GO:0003156	8	GO:0007389	pattern specification process
+GO:1990266	16	GO:0032196	transposition
+GO:0003140	8	GO:0007389	pattern specification process
+GO:0061061	8	GO:0007389	pattern specification process
+GO:0001961	1	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:0051607	14	GO:0071357	cellular response to type I interferon
+GO:0061041	12	GO:0050777	negative regulation of immune response
+GO:0001912	17	GO:0051302	regulation of cell division
+GO:0001913	14	GO:0071357	cellular response to type I interferon
+GO:0001947	8	GO:0007389	pattern specification process
+GO:0035222	8	GO:0007389	pattern specification process
+GO:0022611	8	GO:0007389	pattern specification process
+GO:0003281	8	GO:0007389	pattern specification process
+GO:0008156	3	GO:2001141	regulation of RNA biosynthetic process
+GO:0044782	15	GO:1902275	regulation of chromatin organization
+GO:0014904	9	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:1904894	1	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:0000070	15	GO:1902275	regulation of chromatin organization
+GO:0008293	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0072080	8	GO:0007389	pattern specification process
+GO:0072088	8	GO:0007389	pattern specification process
+GO:0072078	8	GO:0007389	pattern specification process
+GO:0060993	8	GO:0007389	pattern specification process
+GO:0072028	8	GO:0007389	pattern specification process
+GO:0060971	8	GO:0007389	pattern specification process
+GO:0035883	9	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:1903004	4	GO:0045833	negative regulation of lipid metabolic process
+GO:0072006	8	GO:0007389	pattern specification process
+GO:0072009	8	GO:0007389	pattern specification process
+GO:0030474	15	GO:1902275	regulation of chromatin organization
+GO:0010004	8	GO:0007389	pattern specification process
+GO:0035802	8	GO:0007389	pattern specification process
+GO:0002067	9	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0046782	11	GO:0016032	viral process
+GO:0002089	8	GO:0007389	pattern specification process
+GO:1901552	10	GO:0030856	regulation of epithelial cell differentiation
+GO:0030177	1	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:0048086	17	GO:0051302	regulation of cell division
+GO:0061308	9	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0048071	7	GO:0007276	gamete generation
+GO:0044658	11	GO:0016032	viral process
+GO:0007098	15	GO:1902275	regulation of chromatin organization
+GO:0046885	4	GO:0045833	negative regulation of lipid metabolic process
+GO:0061428	3	GO:2001141	regulation of RNA biosynthetic process
+GO:0061418	3	GO:2001141	regulation of RNA biosynthetic process
+GO:0046843	7	GO:0007276	gamete generation
+GO:0008593	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0008595	8	GO:0007389	pattern specification process
+GO:0045066	9	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0030218	9	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0030238	8	GO:0007389	pattern specification process
+GO:0032410	17	GO:0051302	regulation of cell division
+GO:0032438	15	GO:1902275	regulation of chromatin organization
+GO:0061156	8	GO:0007389	pattern specification process
+GO:0010363	12	GO:0050777	negative regulation of immune response
+GO:0010375	8	GO:0007389	pattern specification process
+GO:0032197	16	GO:0032196	transposition
+GO:0046530	9	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0030713	7	GO:0007276	gamete generation
+GO:0070228	17	GO:0051302	regulation of cell division
+GO:0046697	8	GO:0007389	pattern specification process
+GO:0070232	17	GO:0051302	regulation of cell division
+GO:0070233	17	GO:0051302	regulation of cell division
+GO:0030708	7	GO:0007276	gamete generation
+GO:0010496	16	GO:0032196	transposition
+GO:0010497	16	GO:0032196	transposition
+GO:0046662	7	GO:0007276	gamete generation
+GO:0046621	10	GO:0030856	regulation of epithelial cell differentiation
+GO:0023058	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0030851	9	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0030856	10	GO:0030856	regulation of epithelial cell differentiation
+GO:0048383	8	GO:0007389	pattern specification process
+GO:0072163	8	GO:0007389	pattern specification process
+GO:0072164	8	GO:0007389	pattern specification process
+GO:0048332	8	GO:0007389	pattern specification process
+GO:0048333	9	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0000256	5	GO:0042219	cellular modified amino acid catabolic process
+GO:0072171	8	GO:0007389	pattern specification process
+GO:0032206	3	GO:2001141	regulation of RNA biosynthetic process
+GO:0007365	8	GO:0007389	pattern specification process
+GO:0007366	8	GO:0007389	pattern specification process
+GO:0007367	8	GO:0007389	pattern specification process
+GO:0007355	8	GO:0007389	pattern specification process
+GO:0007389	8	GO:0007389	pattern specification process
+GO:0007370	8	GO:0007389	pattern specification process
+GO:0007374	8	GO:0007389	pattern specification process
+GO:0007379	8	GO:0007389	pattern specification process
+GO:0007313	7	GO:0007276	gamete generation
+GO:0035914	9	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0007342	7	GO:0007276	gamete generation
+GO:0007343	7	GO:0007276	gamete generation
+GO:0032754	4	GO:0045833	negative regulation of lipid metabolic process
+GO:0061709	15	GO:1902275	regulation of chromatin organization
+GO:0048478	3	GO:2001141	regulation of RNA biosynthetic process
+GO:0070828	15	GO:1902275	regulation of chromatin organization
+GO:0019062	11	GO:0016032	viral process
+GO:0019064	11	GO:0016032	viral process
+GO:0019069	11	GO:0016032	viral process
+GO:0035909	8	GO:0007389	pattern specification process
+GO:0045316	10	GO:0030856	regulation of epithelial cell differentiation
+GO:0032733	4	GO:0045833	negative regulation of lipid metabolic process
+GO:0032736	4	GO:0045833	negative regulation of lipid metabolic process
+GO:0019042	11	GO:0016032	viral process
+GO:0019043	11	GO:0016032	viral process
+GO:0019045	11	GO:0016032	viral process
+GO:0019046	11	GO:0016032	viral process
+GO:1900074	17	GO:0051302	regulation of cell division
+GO:0048190	8	GO:0007389	pattern specification process
+GO:0007450	8	GO:0007389	pattern specification process
+GO:0007458	8	GO:0007389	pattern specification process
+GO:0007485	8	GO:0007389	pattern specification process
+GO:0007486	8	GO:0007389	pattern specification process
+GO:0032897	11	GO:0016032	viral process
+GO:0045498	8	GO:0007389	pattern specification process
+GO:0007411	9	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0032875	3	GO:2001141	regulation of RNA biosynthetic process
+GO:0032876	3	GO:2001141	regulation of RNA biosynthetic process
+GO:0007400	9	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0040029	4	GO:0045833	negative regulation of lipid metabolic process
+GO:0040015	10	GO:0030856	regulation of epithelial cell differentiation
+GO:0045433	7	GO:0007276	gamete generation
+GO:0040034	10	GO:0030856	regulation of epithelial cell differentiation
+GO:0002262	16	GO:0032196	transposition
+GO:0000819	15	GO:1902275	regulation of chromatin organization
+GO:0040009	17	GO:0051302	regulation of cell division
+GO:0061515	9	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0007156	16	GO:0032196	transposition
+GO:0002221	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0031023	15	GO:1902275	regulation of chromatin organization
+GO:0007189	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0021602	8	GO:0007389	pattern specification process
+GO:0002218	12	GO:0050777	negative regulation of immune response
+GO:0002230	12	GO:0050777	negative regulation of immune response
+GO:0031038	15	GO:1902275	regulation of chromatin organization
+GO:0007141	7	GO:0007276	gamete generation
+GO:1903863	7	GO:0007276	gamete generation
+GO:0018993	8	GO:0007389	pattern specification process
+GO:0045143	15	GO:1902275	regulation of chromatin organization
+GO:0002758	12	GO:0050777	negative regulation of immune response
+GO:0032504	7	GO:0007276	gamete generation
+GO:0007276	7	GO:0007276	gamete generation
+GO:0007277	7	GO:0007276	gamete generation
+GO:0007279	7	GO:0007276	gamete generation
+GO:0007219	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0032653	4	GO:0045833	negative regulation of lipid metabolic process
+GO:0010833	6	GO:0046500	S-adenosylmethionine metabolic process
+GO:1905208	10	GO:0030856	regulation of epithelial cell differentiation
+GO:1903565	17	GO:0051302	regulation of cell division
+GO:1903568	17	GO:0051302	regulation of cell division
+GO:0009414	14	GO:0071357	cellular response to type I interferon
+GO:0032613	4	GO:0045833	negative regulation of lipid metabolic process
+GO:0052111	11	GO:0016032	viral process
+GO:0090090	1	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:1903524	17	GO:0051302	regulation of cell division
+GO:1905770	10	GO:0030856	regulation of epithelial cell differentiation
+GO:0032609	4	GO:0045833	negative regulation of lipid metabolic process
+GO:2000020	10	GO:0030856	regulation of epithelial cell differentiation
+GO:0030950	15	GO:1902275	regulation of chromatin organization
+GO:0002821	12	GO:0050777	negative regulation of immune response
+GO:0002822	12	GO:0050777	negative regulation of immune response
+GO:0034341	14	GO:0071357	cellular response to type I interferon
+GO:2000018	10	GO:0030856	regulation of epithelial cell differentiation
+GO:0002819	12	GO:0050777	negative regulation of immune response
+GO:0010529	17	GO:0051302	regulation of cell division
+GO:0039707	11	GO:0016032	viral process
+GO:0045752	1	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:0043519	15	GO:1902275	regulation of chromatin organization
+GO:0048821	9	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0001080	3	GO:2001141	regulation of RNA biosynthetic process
+GO:0021954	9	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0120261	15	GO:1902275	regulation of chromatin organization
+GO:0045746	1	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:0120251	5	GO:0042219	cellular modified amino acid catabolic process
+GO:0120252	6	GO:0046500	S-adenosylmethionine metabolic process
+GO:0009102	5	GO:0042219	cellular modified amino acid catabolic process
+GO:0010667	17	GO:0051302	regulation of cell division
+GO:0014016	9	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0014018	9	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0019430	14	GO:0071357	cellular response to type I interferon
+GO:0048598	8	GO:0007389	pattern specification process
+GO:0045898	3	GO:2001141	regulation of RNA biosynthetic process
+GO:0031349	12	GO:0050777	negative regulation of immune response
+GO:0043622	15	GO:1902275	regulation of chromatin organization
+GO:0070983	9	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0034405	14	GO:0071357	cellular response to type I interferon
+GO:0048521	17	GO:0051302	regulation of cell division
+GO:0048511	16	GO:0032196	transposition
+GO:0045814	4	GO:0045833	negative regulation of lipid metabolic process
+GO:0061963	10	GO:0030856	regulation of epithelial cell differentiation
+GO:0007595	8	GO:0007389	pattern specification process
+GO:1900164	3	GO:2001141	regulation of RNA biosynthetic process
+GO:0050691	12	GO:0050777	negative regulation of immune response
+GO:0098742	16	GO:0032196	transposition
+GO:0048664	9	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0019101	8	GO:0007389	pattern specification process
+GO:0007525	8	GO:0007389	pattern specification process
+GO:0007526	8	GO:0007389	pattern specification process
+GO:0007527	8	GO:0007389	pattern specification process
+GO:0031445	3	GO:2001141	regulation of RNA biosynthetic process
+GO:0050688	12	GO:0050777	negative regulation of immune response
+GO:0007530	7	GO:0007276	gamete generation
+GO:0045589	10	GO:0030856	regulation of epithelial cell differentiation
+GO:0007500	9	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0007509	8	GO:0007389	pattern specification process
+GO:0039663	11	GO:0016032	viral process
+GO:0039657	4	GO:0045833	negative regulation of lipid metabolic process
+GO:1900262	3	GO:2001141	regulation of RNA biosynthetic process
+GO:1900264	3	GO:2001141	regulation of RNA biosynthetic process
+GO:0039686	11	GO:0016032	viral process
+GO:0048609	7	GO:0007276	gamete generation
+GO:0060046	7	GO:0007276	gamete generation
+GO:2000352	17	GO:0051302	regulation of cell division
+GO:0034220	16	GO:0032196	transposition
+GO:0051054	3	GO:2001141	regulation of RNA biosynthetic process
+GO:0019236	14	GO:0071357	cellular response to type I interferon
+GO:0098813	16	GO:0032196	transposition
+GO:0090329	3	GO:2001141	regulation of RNA biosynthetic process
+GO:0007621	7	GO:0007276	gamete generation
+GO:0009880	8	GO:0007389	pattern specification process
+GO:0009826	9	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0090308	3	GO:2001141	regulation of RNA biosynthetic process
+GO:0080154	7	GO:0007276	gamete generation
+GO:0080188	4	GO:0045833	negative regulation of lipid metabolic process
+GO:0042480	10	GO:0030856	regulation of epithelial cell differentiation
+GO:0034770	6	GO:0046500	S-adenosylmethionine metabolic process
+GO:0034773	6	GO:0046500	S-adenosylmethionine metabolic process
+GO:0019731	14	GO:0071357	cellular response to type I interferon
+GO:0090444	10	GO:0030856	regulation of epithelial cell differentiation
+GO:0006310	6	GO:0046500	S-adenosylmethionine metabolic process
+GO:0098670	11	GO:0016032	viral process
+GO:2000142	3	GO:2001141	regulation of RNA biosynthetic process
+GO:1902275	15	GO:1902275	regulation of chromatin organization
+GO:0071277	14	GO:0071357	cellular response to type I interferon
+GO:2000104	3	GO:2001141	regulation of RNA biosynthetic process
+GO:2000106	17	GO:0051302	regulation of cell division
+GO:0009612	14	GO:0071357	cellular response to type I interferon
+GO:0001172	3	GO:2001141	regulation of RNA biosynthetic process
+GO:0090263	1	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:0033005	17	GO:0051302	regulation of cell division
+GO:0090251	9	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0042249	8	GO:0007389	pattern specification process
+GO:0090220	15	GO:1902275	regulation of chromatin organization
+GO:2000242	17	GO:0051302	regulation of cell division
+GO:0051304	16	GO:0032196	transposition
+GO:0060411	8	GO:0007389	pattern specification process
+GO:0060412	8	GO:0007389	pattern specification process
+GO:0060438	8	GO:0007389	pattern specification process
+GO:1904035	17	GO:0051302	regulation of cell division
+GO:1904036	17	GO:0051302	regulation of cell division
+GO:0016485	6	GO:0046500	S-adenosylmethionine metabolic process
+GO:0016476	10	GO:0030856	regulation of epithelial cell differentiation
+GO:0071887	16	GO:0032196	transposition
+GO:2000737	10	GO:0030856	regulation of epithelial cell differentiation
+GO:2000738	10	GO:0030856	regulation of epithelial cell differentiation
+GO:0035094	14	GO:0071357	cellular response to type I interferon
+GO:0031507	3	GO:2001141	regulation of RNA biosynthetic process
+GO:0006264	6	GO:0046500	S-adenosylmethionine metabolic process
+GO:0071801	15	GO:1902275	regulation of chromatin organization
+GO:0035082	15	GO:1902275	regulation of chromatin organization
+GO:0071803	15	GO:1902275	regulation of chromatin organization
+GO:0006275	3	GO:2001141	regulation of RNA biosynthetic process
+GO:0035075	14	GO:0071357	cellular response to type I interferon
+GO:0031666	1	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:0060136	7	GO:0007276	gamete generation
+GO:0042811	6	GO:0046500	S-adenosylmethionine metabolic process
+GO:0035036	7	GO:0007276	gamete generation
+GO:1901048	1	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:0001703	8	GO:0007389	pattern specification process
+GO:0001704	8	GO:0007389	pattern specification process
+GO:0001707	8	GO:0007389	pattern specification process
+GO:0001709	9	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0035002	8	GO:0007389	pattern specification process
+GO:0035007	12	GO:0050777	negative regulation of immune response
+GO:0001892	8	GO:0007389	pattern specification process
+GO:0097150	8	GO:0007389	pattern specification process
+GO:0009988	16	GO:0032196	transposition
+GO:0009948	8	GO:0007389	pattern specification process
+GO:0060271	15	GO:1902275	regulation of chromatin organization
+GO:0001823	8	GO:0007389	pattern specification process
+GO:0001829	9	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0006749	6	GO:0046500	S-adenosylmethionine metabolic process
+GO:2000573	3	GO:2001141	regulation of RNA biosynthetic process
+GO:0110072	9	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0071654	4	GO:0045833	negative regulation of lipid metabolic process
+GO:0071657	4	GO:0045833	negative regulation of lipid metabolic process
+GO:0051276	15	GO:1902275	regulation of chromatin organization
+GO:0016237	6	GO:0046500	S-adenosylmethionine metabolic process
+GO:0008045	9	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0008037	16	GO:0032196	transposition
+GO:0008038	9	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0001570	9	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0042661	10	GO:0030856	regulation of epithelial cell differentiation
+GO:0019953	7	GO:0007276	gamete generation
+GO:0042659	10	GO:0030856	regulation of epithelial cell differentiation
+GO:0042682	10	GO:0030856	regulation of epithelial cell differentiation
+GO:0042683	10	GO:0030856	regulation of epithelial cell differentiation
+GO:0060711	8	GO:0007389	pattern specification process
+GO:0060716	8	GO:0007389	pattern specification process
+GO:0042676	9	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0042679	9	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0044396	15	GO:1902275	regulation of chromatin organization
+GO:0097201	3	GO:2001141	regulation of RNA biosynthetic process
+GO:0046008	7	GO:0007276	gamete generation
+GO:0001657	8	GO:0007389	pattern specification process
+GO:0001658	8	GO:0007389	pattern specification process
+GO:0035360	1	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:0003390	9	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0006582	6	GO:0046500	S-adenosylmethionine metabolic process
+GO:0006548	5	GO:0042219	cellular modified amino acid catabolic process
+GO:0003383	9	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0003386	8	GO:0007389	pattern specification process
+GO:0003387	9	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0003388	9	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0003389	9	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0035336	5	GO:0042219	cellular modified amino acid catabolic process
+GO:0060560	8	GO:0007389	pattern specification process
+GO:1990414	6	GO:0046500	S-adenosylmethionine metabolic process
+GO:0035456	14	GO:0071357	cellular response to type I interferon
+GO:0033209	1	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:0008360	10	GO:0030856	regulation of epithelial cell differentiation
+GO:0060042	8	GO:0007389	pattern specification process
+GO:0032292	9	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:1902074	14	GO:0071357	cellular response to type I interferon
+GO:0080028	6	GO:0046500	S-adenosylmethionine metabolic process
+GO:0019762	5	GO:0042219	cellular modified amino acid catabolic process
+GO:0030968	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0039702	11	GO:0016032	viral process
+GO:0032760	4	GO:0045833	negative regulation of lipid metabolic process
+GO:0072112	8	GO:0007389	pattern specification process
+GO:0048844	8	GO:0007389	pattern specification process
+GO:0050994	4	GO:0045833	negative regulation of lipid metabolic process
+GO:0001959	1	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:0072243	8	GO:0007389	pattern specification process
+GO:0006099	6	GO:0046500	S-adenosylmethionine metabolic process
+GO:0050982	14	GO:0071357	cellular response to type I interferon
+GO:0006068	5	GO:0042219	cellular modified amino acid catabolic process
+GO:0032835	8	GO:0007389	pattern specification process
+GO:0039573	12	GO:0050777	negative regulation of immune response
+GO:0006086	5	GO:0042219	cellular modified amino acid catabolic process
+GO:0003338	8	GO:0007389	pattern specification process
+GO:0022011	9	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0046320	4	GO:0045833	negative regulation of lipid metabolic process
+GO:0002084	6	GO:0046500	S-adenosylmethionine metabolic process
+GO:0002072	8	GO:0007389	pattern specification process
+GO:0060263	4	GO:0045833	negative regulation of lipid metabolic process
+GO:0060267	4	GO:0045833	negative regulation of lipid metabolic process
+GO:0060216	8	GO:0007389	pattern specification process
+GO:1905477	17	GO:0051302	regulation of cell division
+GO:0051289	15	GO:1902275	regulation of chromatin organization
+GO:0006457	16	GO:0032196	transposition
+GO:0017085	14	GO:0071357	cellular response to type I interferon
+GO:0031581	15	GO:1902275	regulation of chromatin organization
+GO:0006108	5	GO:0042219	cellular modified amino acid catabolic process
+GO:0065005	15	GO:1902275	regulation of chromatin organization
+GO:0071825	15	GO:1902275	regulation of chromatin organization
+GO:0006285	6	GO:0046500	S-adenosylmethionine metabolic process
+GO:0009415	14	GO:0071357	cellular response to type I interferon
+GO:0034377	17	GO:0051302	regulation of cell division
+GO:0034310	5	GO:0042219	cellular modified amino acid catabolic process
+GO:0046755	11	GO:0016032	viral process
+GO:0018279	6	GO:0046500	S-adenosylmethionine metabolic process
+GO:0090083	15	GO:1902275	regulation of chromatin organization
+GO:0034440	6	GO:0046500	S-adenosylmethionine metabolic process
+GO:1902633	5	GO:0042219	cellular modified amino acid catabolic process
+GO:0110077	16	GO:0032196	transposition
+GO:0045454	17	GO:0051302	regulation of cell division
+GO:0009249	6	GO:0046500	S-adenosylmethionine metabolic process
+GO:0042219	5	GO:0042219	cellular modified amino acid catabolic process
+GO:0098734	5	GO:0042219	cellular modified amino acid catabolic process
+GO:0045167	9	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0030325	8	GO:0007389	pattern specification process
+GO:0046500	6	GO:0046500	S-adenosylmethionine metabolic process
+GO:0097320	15	GO:1902275	regulation of chromatin organization
+GO:0002762	10	GO:0030856	regulation of epithelial cell differentiation
+GO:0046622	10	GO:0030856	regulation of epithelial cell differentiation
+GO:2000379	4	GO:0045833	negative regulation of lipid metabolic process
+GO:0006680	5	GO:0042219	cellular modified amino acid catabolic process
+GO:0017148	3	GO:2001141	regulation of RNA biosynthetic process
+GO:0006635	5	GO:0042219	cellular modified amino acid catabolic process
+GO:0010150	8	GO:0007389	pattern specification process
+GO:0030195	12	GO:0050777	negative regulation of immune response
+GO:0033353	6	GO:0046500	S-adenosylmethionine metabolic process
+GO:0042595	14	GO:0071357	cellular response to type I interferon
+GO:0045740	3	GO:2001141	regulation of RNA biosynthetic process
+GO:0045747	1	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:0098671	11	GO:0016032	viral process
+GO:0090181	4	GO:0045833	negative regulation of lipid metabolic process
+GO:2000113	3	GO:2001141	regulation of RNA biosynthetic process
+GO:0090101	1	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:0034585	6	GO:0046500	S-adenosylmethionine metabolic process
+GO:0045833	4	GO:0045833	negative regulation of lipid metabolic process
+GO:2000105	3	GO:2001141	regulation of RNA biosynthetic process
+GO:2000253	17	GO:0051302	regulation of cell division
+GO:0044073	3	GO:2001141	regulation of RNA biosynthetic process
+GO:0010842	8	GO:0007389	pattern specification process
+GO:0019395	5	GO:0042219	cellular modified amino acid catabolic process
+GO:0016198	9	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0045670	10	GO:0030856	regulation of epithelial cell differentiation
+GO:0016199	9	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0072010	8	GO:0007389	pattern specification process
+GO:0045617	10	GO:0030856	regulation of epithelial cell differentiation
+GO:0050777	12	GO:0050777	negative regulation of immune response
+GO:0008365	8	GO:0007389	pattern specification process
+GO:0035001	8	GO:0007389	pattern specification process
+GO:0061771	14	GO:0071357	cellular response to type I interferon
+GO:0030512	1	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:0050830	14	GO:0071357	cellular response to type I interferon
+GO:0070841	15	GO:1902275	regulation of chromatin organization
+GO:0010640	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:1904776	17	GO:0051302	regulation of cell division
+GO:0034976	14	GO:0071357	cellular response to type I interferon
+GO:0040016	9	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0040002	8	GO:0007389	pattern specification process
+GO:0033539	5	GO:0042219	cellular modified amino acid catabolic process
+GO:0072311	8	GO:0007389	pattern specification process
+GO:1900271	17	GO:0051302	regulation of cell division

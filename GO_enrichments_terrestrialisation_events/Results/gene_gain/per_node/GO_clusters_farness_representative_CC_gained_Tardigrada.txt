@@ -1,0 +1,26 @@
+GO:0016342	2	GO:0005576	extracellular region
+GO:0019029	2	GO:0005576	extracellular region
+GO:0045169	2	GO:0005576	extracellular region
+GO:0019013	2	GO:0005576	extracellular region
+GO:0005856	1	GO:0000775	chromosome, centromeric region
+GO:0005576	2	GO:0005576	extracellular region
+GO:0000781	1	GO:0000775	chromosome, centromeric region
+GO:0019031	2	GO:0005576	extracellular region
+GO:0000775	1	GO:0000775	chromosome, centromeric region
+GO:0045170	1	GO:0000775	chromosome, centromeric region
+GO:0000779	1	GO:0000775	chromosome, centromeric region
+GO:0044309	3	GO:0043197	dendritic spine
+GO:0005814	1	GO:0000775	chromosome, centromeric region
+GO:0042600	2	GO:0005576	extracellular region
+GO:0009897	2	GO:0005576	extracellular region
+GO:0019005	2	GO:0005576	extracellular region
+GO:0030430	2	GO:0005576	extracellular region
+GO:0055036	2	GO:0005576	extracellular region
+GO:0044178	2	GO:0005576	extracellular region
+GO:0098982	3	GO:0043197	dendritic spine
+GO:0043195	3	GO:0043197	dendritic spine
+GO:0043197	3	GO:0043197	dendritic spine
+GO:0048046	2	GO:0005576	extracellular region
+GO:0043160	2	GO:0005576	extracellular region
+GO:0020002	2	GO:0005576	extracellular region
+GO:0098686	3	GO:0043197	dendritic spine

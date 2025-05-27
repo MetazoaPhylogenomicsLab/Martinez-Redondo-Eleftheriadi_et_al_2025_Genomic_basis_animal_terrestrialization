@@ -1,0 +1,475 @@
+GO:0044068	8	GO:0044003	modulation by symbiont of host process
+GO:0060252	18	GO:1900048	positive regulation of hemostasis
+GO:0060258	18	GO:1900048	positive regulation of hemostasis
+GO:0045137	9	GO:0048608	reproductive structure development
+GO:0045138	9	GO:0048608	reproductive structure development
+GO:0044036	1	GO:0009100	glycoprotein metabolic process
+GO:0022611	19	GO:0071684	organism emergence from protective structure
+GO:0008645	16	GO:0050658	RNA transport
+GO:0052173	6	GO:0044414	suppression of host defenses by symbiont
+GO:0002322	17	GO:0051606	detection of stimulus
+GO:0033692	1	GO:0009100	glycoprotein metabolic process
+GO:0034637	1	GO:0009100	glycoprotein metabolic process
+GO:0050829	6	GO:0044414	suppression of host defenses by symbiont
+GO:0000271	1	GO:0009100	glycoprotein metabolic process
+GO:1904659	16	GO:0050658	RNA transport
+GO:0061458	9	GO:0048608	reproductive structure development
+GO:0036093	19	GO:0071684	organism emergence from protective structure
+GO:0019054	8	GO:0044003	modulation by symbiont of host process
+GO:0019058	7	GO:0016032	viral process
+GO:0019083	7	GO:0016032	viral process
+GO:0044501	8	GO:0044003	modulation by symbiont of host process
+GO:0042595	17	GO:0051606	detection of stimulus
+GO:0030435	11	GO:0008038	neuron recognition
+GO:0019048	8	GO:0044003	modulation by symbiont of host process
+GO:0019049	8	GO:0044003	modulation by symbiont of host process
+GO:0046718	7	GO:0016032	viral process
+GO:1900428	18	GO:1900048	positive regulation of hemostasis
+GO:0046740	7	GO:0016032	viral process
+GO:1900429	18	GO:1900048	positive regulation of hemostasis
+GO:0035821	8	GO:0044003	modulation by symbiont of host process
+GO:1905897	18	GO:1900048	positive regulation of hemostasis
+GO:0052200	6	GO:0044414	suppression of host defenses by symbiont
+GO:0042546	14	GO:0006325	chromatin organization
+GO:0097628	19	GO:0071684	organism emergence from protective structure
+GO:0071480	17	GO:0051606	detection of stimulus
+GO:0046885	3	GO:0045966	positive regulation of ecdysteroid metabolic process
+GO:0002921	18	GO:1900048	positive regulation of hemostasis
+GO:0006310	2	GO:0006259	DNA metabolic process
+GO:0042661	11	GO:0008038	neuron recognition
+GO:0008406	9	GO:0048608	reproductive structure development
+GO:0060558	18	GO:1900048	positive regulation of hemostasis
+GO:0042631	17	GO:0051606	detection of stimulus
+GO:0030203	1	GO:0009100	glycoprotein metabolic process
+GO:0010570	18	GO:1900048	positive regulation of hemostasis
+GO:2001238	18	GO:1900048	positive regulation of hemostasis
+GO:0052027	8	GO:0044003	modulation by symbiont of host process
+GO:0007157	19	GO:0071684	organism emergence from protective structure
+GO:0002230	6	GO:0044414	suppression of host defenses by symbiont
+GO:0016925	1	GO:0009100	glycoprotein metabolic process
+GO:0006963	5	GO:0017148	negative regulation of translation
+GO:0035633	19	GO:0071684	organism emergence from protective structure
+GO:1904950	18	GO:1900048	positive regulation of hemostasis
+GO:0006956	18	GO:1900048	positive regulation of hemostasis
+GO:0006959	17	GO:0051606	detection of stimulus
+GO:0048608	9	GO:0048608	reproductive structure development
+GO:0007141	13	GO:0045144	meiotic sister chromatid segregation
+GO:0039562	8	GO:0044003	modulation by symbiont of host process
+GO:0039564	8	GO:0044003	modulation by symbiont of host process
+GO:0006919	4	GO:0032881	regulation of polysaccharide metabolic process
+GO:0015979	1	GO:0009100	glycoprotein metabolic process
+GO:0007291	11	GO:0008038	neuron recognition
+GO:0044409	7	GO:0016032	viral process
+GO:0006144	2	GO:0006259	DNA metabolic process
+GO:2000648	18	GO:1900048	positive regulation of hemostasis
+GO:0039514	8	GO:0044003	modulation by symbiont of host process
+GO:0007283	9	GO:0048608	reproductive structure development
+GO:0061057	6	GO:0044414	suppression of host defenses by symbiont
+GO:0036462	18	GO:1900048	positive regulation of hemostasis
+GO:0075136	6	GO:0044414	suppression of host defenses by symbiont
+GO:0043934	19	GO:0071684	organism emergence from protective structure
+GO:0039644	5	GO:0017148	negative regulation of translation
+GO:0009414	17	GO:0051606	detection of stimulus
+GO:0009415	17	GO:0051606	detection of stimulus
+GO:0072091	18	GO:1900048	positive regulation of hemostasis
+GO:0044264	1	GO:0009100	glycoprotein metabolic process
+GO:0110077	19	GO:0071684	organism emergence from protective structure
+GO:0050911	17	GO:0051606	detection of stimulus
+GO:0110011	18	GO:1900048	positive regulation of hemostasis
+GO:0043252	16	GO:0050658	RNA transport
+GO:0010496	19	GO:0071684	organism emergence from protective structure
+GO:0009110	1	GO:0009100	glycoprotein metabolic process
+GO:0048934	11	GO:0008038	neuron recognition
+GO:0048935	11	GO:0008038	neuron recognition
+GO:0030682	6	GO:0044414	suppression of host defenses by symbiont
+GO:1905936	18	GO:1900048	positive regulation of hemostasis
+GO:0016032	7	GO:0016032	viral process
+GO:0010951	4	GO:0032881	regulation of polysaccharide metabolic process
+GO:0051308	13	GO:0045144	meiotic sister chromatid segregation
+GO:0006020	1	GO:0009100	glycoprotein metabolic process
+GO:0006023	1	GO:0009100	glycoprotein metabolic process
+GO:0006024	1	GO:0009100	glycoprotein metabolic process
+GO:0070085	19	GO:0071684	organism emergence from protective structure
+GO:0097345	18	GO:1900048	positive regulation of hemostasis
+GO:0044650	7	GO:0016032	viral process
+GO:0030193	18	GO:1900048	positive regulation of hemostasis
+GO:0030194	18	GO:1900048	positive regulation of hemostasis
+GO:0000723	2	GO:0006259	DNA metabolic process
+GO:1903557	4	GO:0032881	regulation of polysaccharide metabolic process
+GO:0006508	1	GO:0009100	glycoprotein metabolic process
+GO:0046813	7	GO:0016032	viral process
+GO:0006026	1	GO:0009100	glycoprotein metabolic process
+GO:0006027	1	GO:0009100	glycoprotein metabolic process
+GO:0006685	1	GO:0009100	glycoprotein metabolic process
+GO:0030243	1	GO:0009100	glycoprotein metabolic process
+GO:0032497	17	GO:0051606	detection of stimulus
+GO:0045143	13	GO:0045144	meiotic sister chromatid segregation
+GO:0031663	17	GO:0051606	detection of stimulus
+GO:0046513	1	GO:0009100	glycoprotein metabolic process
+GO:0039657	4	GO:0032881	regulation of polysaccharide metabolic process
+GO:0007129	13	GO:0045144	meiotic sister chromatid segregation
+GO:0032434	4	GO:0032881	regulation of polysaccharide metabolic process
+GO:0039646	8	GO:0044003	modulation by symbiont of host process
+GO:0071222	17	GO:0051606	detection of stimulus
+GO:0071215	17	GO:0051606	detection of stimulus
+GO:0071219	6	GO:0044414	suppression of host defenses by symbiont
+GO:1900048	18	GO:1900048	positive regulation of hemostasis
+GO:0006366	2	GO:0006259	DNA metabolic process
+GO:0006355	5	GO:0017148	negative regulation of translation
+GO:0006357	5	GO:0017148	negative regulation of translation
+GO:0042244	11	GO:0008038	neuron recognition
+GO:0006305	2	GO:0006259	DNA metabolic process
+GO:0006306	2	GO:0006259	DNA metabolic process
+GO:0030587	10	GO:0035270	endocrine system development
+GO:0044406	7	GO:0016032	viral process
+GO:0032200	14	GO:0006325	chromatin organization
+GO:0006486	1	GO:0009100	glycoprotein metabolic process
+GO:0032760	4	GO:0032881	regulation of polysaccharide metabolic process
+GO:0040032	10	GO:0035270	endocrine system development
+GO:0071554	19	GO:0071684	organism emergence from protective structure
+GO:0071555	14	GO:0006325	chromatin organization
+GO:0002690	18	GO:1900048	positive regulation of hemostasis
+GO:0009250	1	GO:0009100	glycoprotein metabolic process
+GO:0009251	1	GO:0009100	glycoprotein metabolic process
+GO:0034142	18	GO:1900048	positive regulation of hemostasis
+GO:0000395	1	GO:0009100	glycoprotein metabolic process
+GO:0002687	18	GO:1900048	positive regulation of hemostasis
+GO:0009225	2	GO:0006259	DNA metabolic process
+GO:0042832	6	GO:0044414	suppression of host defenses by symbiont
+GO:0032881	4	GO:0032881	regulation of polysaccharide metabolic process
+GO:0032885	4	GO:0032881	regulation of polysaccharide metabolic process
+GO:0044275	1	GO:0009100	glycoprotein metabolic process
+GO:0044247	1	GO:0009100	glycoprotein metabolic process
+GO:0034285	17	GO:0051606	detection of stimulus
+GO:0071674	19	GO:0071684	organism emergence from protective structure
+GO:0071675	18	GO:1900048	positive regulation of hemostasis
+GO:0071622	18	GO:1900048	positive regulation of hemostasis
+GO:0031152	17	GO:0051606	detection of stimulus
+GO:0006278	2	GO:0006259	DNA metabolic process
+GO:0009744	17	GO:0051606	detection of stimulus
+GO:0009738	17	GO:0051606	detection of stimulus
+GO:0016339	19	GO:0071684	organism emergence from protective structure
+GO:0031288	10	GO:0035270	endocrine system development
+GO:0043413	1	GO:0009100	glycoprotein metabolic process
+GO:0046130	1	GO:0009100	glycoprotein metabolic process
+GO:0009832	14	GO:0006325	chromatin organization
+GO:0044826	7	GO:0016032	viral process
+GO:0001580	17	GO:0051606	detection of stimulus
+GO:0009566	19	GO:0071684	organism emergence from protective structure
+GO:0075713	7	GO:0016032	viral process
+GO:0050820	18	GO:1900048	positive regulation of hemostasis
+GO:0090200	18	GO:1900048	positive regulation of hemostasis
+GO:0000272	1	GO:0009100	glycoprotein metabolic process
+GO:0010383	1	GO:0009100	glycoprotein metabolic process
+GO:0010962	5	GO:0017148	negative regulation of translation
+GO:0019233	19	GO:0071684	organism emergence from protective structure
+GO:0018996	19	GO:0071684	organism emergence from protective structure
+GO:0045944	5	GO:0017148	negative regulation of translation
+GO:0007549	4	GO:0032881	regulation of polysaccharide metabolic process
+GO:1901891	12	GO:0140279	regulation of mitotic division septum assembly
+GO:1901893	12	GO:0140279	regulation of mitotic division septum assembly
+GO:0071684	19	GO:0071684	organism emergence from protective structure
+GO:0031028	18	GO:1900048	positive regulation of hemostasis
+GO:0031029	18	GO:1900048	positive regulation of hemostasis
+GO:0019731	6	GO:0044414	suppression of host defenses by symbiont
+GO:0031031	12	GO:0140279	regulation of mitotic division septum assembly
+GO:0097009	19	GO:0071684	organism emergence from protective structure
+GO:1905756	12	GO:0140279	regulation of mitotic division septum assembly
+GO:1905758	12	GO:0140279	regulation of mitotic division septum assembly
+GO:0031671	12	GO:0140279	regulation of mitotic division septum assembly
+GO:0000729	2	GO:0006259	DNA metabolic process
+GO:0007338	19	GO:0071684	organism emergence from protective structure
+GO:0006325	14	GO:0006325	chromatin organization
+GO:0050691	6	GO:0044414	suppression of host defenses by symbiont
+GO:0060049	5	GO:0017148	negative regulation of translation
+GO:0045892	5	GO:0017148	negative regulation of translation
+GO:0006334	14	GO:0006325	chromatin organization
+GO:0006338	14	GO:0006325	chromatin organization
+GO:0006493	1	GO:0009100	glycoprotein metabolic process
+GO:0006497	1	GO:0009100	glycoprotein metabolic process
+GO:0070096	14	GO:0006325	chromatin organization
+GO:1903490	12	GO:0140279	regulation of mitotic division septum assembly
+GO:1903436	12	GO:0140279	regulation of mitotic division septum assembly
+GO:1903438	12	GO:0140279	regulation of mitotic division septum assembly
+GO:1902412	12	GO:0140279	regulation of mitotic division septum assembly
+GO:0032955	12	GO:0140279	regulation of mitotic division septum assembly
+GO:0051037	5	GO:0017148	negative regulation of translation
+GO:0051597	17	GO:0051606	detection of stimulus
+GO:0005975	1	GO:0009100	glycoprotein metabolic process
+GO:0043433	5	GO:0017148	negative regulation of translation
+GO:0045671	18	GO:1900048	positive regulation of hemostasis
+GO:0090501	2	GO:0006259	DNA metabolic process
+GO:0090502	2	GO:0006259	DNA metabolic process
+GO:0042158	1	GO:0009100	glycoprotein metabolic process
+GO:1902275	14	GO:0006325	chromatin organization
+GO:0000379	2	GO:0006259	DNA metabolic process
+GO:0030540	9	GO:0048608	reproductive structure development
+GO:0030539	9	GO:0048608	reproductive structure development
+GO:0032768	18	GO:1900048	positive regulation of hemostasis
+GO:0040029	4	GO:0032881	regulation of polysaccharide metabolic process
+GO:0040016	11	GO:0008038	neuron recognition
+GO:0046426	18	GO:1900048	positive regulation of hemostasis
+GO:0045496	10	GO:0035270	endocrine system development
+GO:0045497	10	GO:0035270	endocrine system development
+GO:0060964	4	GO:0032881	regulation of polysaccharide metabolic process
+GO:0007060	13	GO:0045144	meiotic sister chromatid segregation
+GO:0009100	1	GO:0009100	glycoprotein metabolic process
+GO:0009101	1	GO:0009100	glycoprotein metabolic process
+GO:0040003	10	GO:0035270	endocrine system development
+GO:0072526	1	GO:0009100	glycoprotein metabolic process
+GO:0006090	1	GO:0009100	glycoprotein metabolic process
+GO:0140278	12	GO:0140279	regulation of mitotic division septum assembly
+GO:0140279	12	GO:0140279	regulation of mitotic division septum assembly
+GO:0098868	10	GO:0035270	endocrine system development
+GO:0007595	10	GO:0035270	endocrine system development
+GO:0015812	16	GO:0050658	RNA transport
+GO:0010973	12	GO:0140279	regulation of mitotic division septum assembly
+GO:0015838	16	GO:0050658	RNA transport
+GO:0035268	1	GO:0009100	glycoprotein metabolic process
+GO:0035269	1	GO:0009100	glycoprotein metabolic process
+GO:0090305	2	GO:0006259	DNA metabolic process
+GO:0035270	10	GO:0035270	endocrine system development
+GO:0006575	1	GO:0009100	glycoprotein metabolic process
+GO:0009615	6	GO:0044414	suppression of host defenses by symbiont
+GO:0034090	13	GO:0045144	meiotic sister chromatid segregation
+GO:0098742	19	GO:0071684	organism emergence from protective structure
+GO:0042398	1	GO:0009100	glycoprotein metabolic process
+GO:0071465	17	GO:0051606	detection of stimulus
+GO:0044038	1	GO:0009100	glycoprotein metabolic process
+GO:0034089	13	GO:0045144	meiotic sister chromatid segregation
+GO:0044003	8	GO:0044003	modulation by symbiont of host process
+GO:0032350	3	GO:0045966	positive regulation of ecdysteroid metabolic process
+GO:0050673	19	GO:0071684	organism emergence from protective structure
+GO:0007416	11	GO:0008038	neuron recognition
+GO:0030282	10	GO:0035270	endocrine system development
+GO:0031509	5	GO:0017148	negative regulation of translation
+GO:0030278	18	GO:1900048	positive regulation of hemostasis
+GO:0048232	19	GO:0071684	organism emergence from protective structure
+GO:0046500	1	GO:0009100	glycoprotein metabolic process
+GO:0052562	6	GO:0044414	suppression of host defenses by symbiont
+GO:0046692	19	GO:0071684	organism emergence from protective structure
+GO:0046651	19	GO:0071684	organism emergence from protective structure
+GO:1900047	18	GO:1900048	positive regulation of hemostasis
+GO:0019064	7	GO:0016032	viral process
+GO:0019068	7	GO:0016032	viral process
+GO:0019069	7	GO:0016032	viral process
+GO:0002780	5	GO:0017148	negative regulation of translation
+GO:0002786	6	GO:0044414	suppression of host defenses by symbiont
+GO:0002777	5	GO:0017148	negative regulation of translation
+GO:0002778	6	GO:0044414	suppression of host defenses by symbiont
+GO:0019072	7	GO:0016032	viral process
+GO:0019076	7	GO:0016032	viral process
+GO:0036065	19	GO:0071684	organism emergence from protective structure
+GO:0019079	7	GO:0016032	viral process
+GO:0097205	19	GO:0071684	organism emergence from protective structure
+GO:0062013	3	GO:0045966	positive regulation of ecdysteroid metabolic process
+GO:0098609	19	GO:0071684	organism emergence from protective structure
+GO:0008625	18	GO:1900048	positive regulation of hemostasis
+GO:0008037	19	GO:0071684	organism emergence from protective structure
+GO:0008039	11	GO:0008038	neuron recognition
+GO:0043065	18	GO:1900048	positive regulation of hemostasis
+GO:0043068	18	GO:1900048	positive regulation of hemostasis
+GO:0045742	18	GO:1900048	positive regulation of hemostasis
+GO:0052031	6	GO:0044414	suppression of host defenses by symbiont
+GO:0045730	19	GO:0071684	organism emergence from protective structure
+GO:0010893	3	GO:0045966	positive regulation of ecdysteroid metabolic process
+GO:0044414	6	GO:0044414	suppression of host defenses by symbiont
+GO:0002803	6	GO:0044414	suppression of host defenses by symbiont
+GO:0002805	5	GO:0017148	negative regulation of translation
+GO:0002807	5	GO:0017148	negative regulation of translation
+GO:0002808	5	GO:0017148	negative regulation of translation
+GO:1903977	18	GO:1900048	positive regulation of hemostasis
+GO:0051701	8	GO:0044003	modulation by symbiont of host process
+GO:0048668	11	GO:0008038	neuron recognition
+GO:0017148	5	GO:0017148	negative regulation of translation
+GO:0098963	16	GO:0050658	RNA transport
+GO:0061572	14	GO:0006325	chromatin organization
+GO:0034103	18	GO:1900048	positive regulation of hemostasis
+GO:0070233	18	GO:1900048	positive regulation of hemostasis
+GO:0031154	10	GO:0035270	endocrine system development
+GO:0006268	1	GO:0009100	glycoprotein metabolic process
+GO:0006259	2	GO:0006259	DNA metabolic process
+GO:0043327	17	GO:0051606	detection of stimulus
+GO:0140546	6	GO:0044414	suppression of host defenses by symbiont
+GO:0051017	14	GO:0006325	chromatin organization
+GO:0051607	6	GO:0044414	suppression of host defenses by symbiont
+GO:0052167	6	GO:0044414	suppression of host defenses by symbiont
+GO:0052170	6	GO:0044414	suppression of host defenses by symbiont
+GO:0070593	11	GO:0008038	neuron recognition
+GO:0075732	7	GO:0016032	viral process
+GO:0075733	7	GO:0016032	viral process
+GO:0050810	3	GO:0045966	positive regulation of ecdysteroid metabolic process
+GO:0008284	18	GO:1900048	positive regulation of hemostasis
+GO:0080058	1	GO:0009100	glycoprotein metabolic process
+GO:0046794	7	GO:0016032	viral process
+GO:0030474	14	GO:0006325	chromatin organization
+GO:0045940	3	GO:0045966	positive regulation of ecdysteroid metabolic process
+GO:0048168	18	GO:1900048	positive regulation of hemostasis
+GO:0044658	8	GO:0044003	modulation by symbiont of host process
+GO:0044000	7	GO:0016032	viral process
+GO:1903575	14	GO:0006325	chromatin organization
+GO:0050657	16	GO:0050658	RNA transport
+GO:0050658	16	GO:0050658	RNA transport
+GO:0015931	16	GO:0050658	RNA transport
+GO:0003094	19	GO:0071684	organism emergence from protective structure
+GO:0045144	13	GO:0045144	meiotic sister chromatid segregation
+GO:0039693	7	GO:0016032	viral process
+GO:0048755	10	GO:0035270	endocrine system development
+GO:0090503	2	GO:0006259	DNA metabolic process
+GO:0051177	13	GO:0045144	meiotic sister chromatid segregation
+GO:0007135	13	GO:0045144	meiotic sister chromatid segregation
+GO:0052553	6	GO:0044414	suppression of host defenses by symbiont
+GO:0032197	19	GO:0071684	organism emergence from protective structure
+GO:0019080	7	GO:0016032	viral process
+GO:0019073	7	GO:0016032	viral process
+GO:0098671	7	GO:0016032	viral process
+GO:0051236	16	GO:0050658	RNA transport
+GO:0052043	8	GO:0044003	modulation by symbiont of host process
+GO:0006970	17	GO:0051606	detection of stimulus
+GO:0006974	17	GO:0051606	detection of stimulus
+GO:0071897	2	GO:0006259	DNA metabolic process
+GO:0001172	2	GO:0006259	DNA metabolic process
+GO:0010800	4	GO:0032881	regulation of polysaccharide metabolic process
+GO:0006403	16	GO:0050658	RNA transport
+GO:0045668	18	GO:1900048	positive regulation of hemostasis
+GO:0006298	2	GO:0006259	DNA metabolic process
+GO:0046415	1	GO:0009100	glycoprotein metabolic process
+GO:0006281	2	GO:0006259	DNA metabolic process
+GO:0006275	5	GO:0017148	negative regulation of translation
+GO:0051028	16	GO:0050658	RNA transport
+GO:0034769	14	GO:0006325	chromatin organization
+GO:0015074	2	GO:0006259	DNA metabolic process
+GO:0046113	2	GO:0006259	DNA metabolic process
+GO:0030989	13	GO:0045144	meiotic sister chromatid segregation
+GO:0052111	8	GO:0044003	modulation by symbiont of host process
+GO:0039707	8	GO:0044003	modulation by symbiont of host process
+GO:0035215	10	GO:0035270	endocrine system development
+GO:0007531	11	GO:0008038	neuron recognition
+GO:0007533	11	GO:0008038	neuron recognition
+GO:0034508	14	GO:0006325	chromatin organization
+GO:0031048	5	GO:0017148	negative regulation of translation
+GO:0008608	13	GO:0045144	meiotic sister chromatid segregation
+GO:0032505	19	GO:0071684	organism emergence from protective structure
+GO:0031508	5	GO:0017148	negative regulation of translation
+GO:1901570	1	GO:0009100	glycoprotein metabolic process
+GO:0048806	9	GO:0048608	reproductive structure development
+GO:1904357	5	GO:0017148	negative regulation of translation
+GO:0046886	3	GO:0045966	positive regulation of ecdysteroid metabolic process
+GO:0039722	6	GO:0044414	suppression of host defenses by symbiont
+GO:0032352	3	GO:0045966	positive regulation of ecdysteroid metabolic process
+GO:0022413	19	GO:0071684	organism emergence from protective structure
+GO:0007487	10	GO:0035270	endocrine system development
+GO:0010566	3	GO:0045966	positive regulation of ecdysteroid metabolic process
+GO:0048680	18	GO:1900048	positive regulation of hemostasis
+GO:0046661	9	GO:0048608	reproductive structure development
+GO:0070572	18	GO:1900048	positive regulation of hemostasis
+GO:0039526	8	GO:0044003	modulation by symbiont of host process
+GO:0005976	1	GO:0009100	glycoprotein metabolic process
+GO:0039540	6	GO:0044414	suppression of host defenses by symbiont
+GO:0039545	6	GO:0044414	suppression of host defenses by symbiont
+GO:0090030	3	GO:0045966	positive regulation of ecdysteroid metabolic process
+GO:0039548	5	GO:0017148	negative regulation of translation
+GO:0090031	3	GO:0045966	positive regulation of ecdysteroid metabolic process
+GO:0039502	6	GO:0044414	suppression of host defenses by symbiont
+GO:0031134	13	GO:0045144	meiotic sister chromatid segregation
+GO:1990758	13	GO:0045144	meiotic sister chromatid segregation
+GO:0035435	16	GO:0050658	RNA transport
+GO:1990823	17	GO:0051606	detection of stimulus
+GO:0040002	10	GO:0035270	endocrine system development
+GO:1990830	17	GO:0051606	detection of stimulus
+GO:0051382	14	GO:0006325	chromatin organization
+GO:0051383	14	GO:0006325	chromatin organization
+GO:0051315	13	GO:0045144	meiotic sister chromatid segregation
+GO:0006817	16	GO:0050658	RNA transport
+GO:0045998	3	GO:0045966	positive regulation of ecdysteroid metabolic process
+GO:0051300	14	GO:0006325	chromatin organization
+GO:0007008	14	GO:0006325	chromatin organization
+GO:0045966	3	GO:0045966	positive regulation of ecdysteroid metabolic process
+GO:0007553	3	GO:0045966	positive regulation of ecdysteroid metabolic process
+GO:0007554	3	GO:0045966	positive regulation of ecdysteroid metabolic process
+GO:0031860	2	GO:0006259	DNA metabolic process
+GO:0045910	2	GO:0006259	DNA metabolic process
+GO:0007534	2	GO:0006259	DNA metabolic process
+GO:0009735	17	GO:0051606	detection of stimulus
+GO:0030466	5	GO:0017148	negative regulation of translation
+GO:0019062	7	GO:0016032	viral process
+GO:0007606	19	GO:0071684	organism emergence from protective structure
+GO:0007608	19	GO:0071684	organism emergence from protective structure
+GO:0071365	17	GO:0051606	detection of stimulus
+GO:0071368	17	GO:0051606	detection of stimulus
+GO:1905779	4	GO:0032881	regulation of polysaccharide metabolic process
+GO:0003413	10	GO:0035270	endocrine system development
+GO:0003416	10	GO:0035270	endocrine system development
+GO:0003417	10	GO:0035270	endocrine system development
+GO:0003418	10	GO:0035270	endocrine system development
+GO:2000779	2	GO:0006259	DNA metabolic process
+GO:0003431	10	GO:0035270	endocrine system development
+GO:0003433	10	GO:0035270	endocrine system development
+GO:0019045	7	GO:0016032	viral process
+GO:0019046	7	GO:0016032	viral process
+GO:0009593	17	GO:0051606	detection of stimulus
+GO:0032606	4	GO:0032881	regulation of polysaccharide metabolic process
+GO:0000737	2	GO:0006259	DNA metabolic process
+GO:0000706	2	GO:0006259	DNA metabolic process
+GO:0046068	1	GO:0009100	glycoprotein metabolic process
+GO:0045861	4	GO:0032881	regulation of polysaccharide metabolic process
+GO:0051754	13	GO:0045144	meiotic sister chromatid segregation
+GO:0010833	2	GO:0006259	DNA metabolic process
+GO:0009690	1	GO:0009100	glycoprotein metabolic process
+GO:0009691	1	GO:0009100	glycoprotein metabolic process
+GO:0045003	2	GO:0006259	DNA metabolic process
+GO:0032479	4	GO:0032881	regulation of polysaccharide metabolic process
+GO:0052029	8	GO:0044003	modulation by symbiont of host process
+GO:0006182	1	GO:0009100	glycoprotein metabolic process
+GO:0032196	19	GO:0071684	organism emergence from protective structure
+GO:0052547	4	GO:0032881	regulation of polysaccharide metabolic process
+GO:0052548	4	GO:0032881	regulation of polysaccharide metabolic process
+GO:0039537	6	GO:0044414	suppression of host defenses by symbiont
+GO:0039694	7	GO:0016032	viral process
+GO:0075111	8	GO:0044003	modulation by symbiont of host process
+GO:0035306	18	GO:1900048	positive regulation of hemostasis
+GO:0075109	8	GO:0044003	modulation by symbiont of host process
+GO:0039645	8	GO:0044003	modulation by symbiont of host process
+GO:0042138	2	GO:0006259	DNA metabolic process
+GO:0006751	1	GO:0009100	glycoprotein metabolic process
+GO:0019934	18	GO:1900048	positive regulation of hemostasis
+GO:0050906	17	GO:0051606	detection of stimulus
+GO:0050907	17	GO:0051606	detection of stimulus
+GO:0051606	17	GO:0051606	detection of stimulus
+GO:0040015	18	GO:1900048	positive regulation of hemostasis
+GO:0010466	4	GO:0032881	regulation of polysaccharide metabolic process
+GO:0008038	11	GO:0008038	neuron recognition
+GO:1904000	18	GO:1900048	positive regulation of hemostasis
+GO:0050728	18	GO:1900048	positive regulation of hemostasis
+GO:0006553	1	GO:0009100	glycoprotein metabolic process
+GO:0008652	1	GO:0009100	glycoprotein metabolic process
+GO:0006573	1	GO:0009100	glycoprotein metabolic process
+GO:0006549	1	GO:0009100	glycoprotein metabolic process
+GO:0009066	1	GO:0009100	glycoprotein metabolic process
+GO:0009067	1	GO:0009100	glycoprotein metabolic process
+GO:0009069	1	GO:0009100	glycoprotein metabolic process
+GO:0009082	1	GO:0009100	glycoprotein metabolic process
+GO:0009070	1	GO:0009100	glycoprotein metabolic process
+GO:0031648	18	GO:1900048	positive regulation of hemostasis
+GO:1901678	16	GO:0050658	RNA transport
+GO:0000096	1	GO:0009100	glycoprotein metabolic process
+GO:1901607	1	GO:0009100	glycoprotein metabolic process
+GO:0016485	1	GO:0009100	glycoprotein metabolic process
+GO:0071941	1	GO:0009100	glycoprotein metabolic process
+GO:0000002	14	GO:0006325	chromatin organization
+GO:0022900	1	GO:0009100	glycoprotein metabolic process
+GO:0042364	1	GO:0009100	glycoprotein metabolic process
+GO:0006958	18	GO:1900048	positive regulation of hemostasis
+GO:1902475	16	GO:0050658	RNA transport
+GO:0042454	1	GO:0009100	glycoprotein metabolic process
+GO:0090529	12	GO:0140279	regulation of mitotic division septum assembly
+GO:0051604	1	GO:0009100	glycoprotein metabolic process
+GO:0043255	4	GO:0032881	regulation of polysaccharide metabolic process
+GO:1990822	16	GO:0050658	RNA transport
+GO:1903746	18	GO:1900048	positive regulation of hemostasis
+GO:0006099	1	GO:0009100	glycoprotein metabolic process
+GO:1905941	9	GO:0048608	reproductive structure development
+GO:1905939	9	GO:0048608	reproductive structure development
+GO:0006073	1	GO:0009100	glycoprotein metabolic process
+GO:0090303	18	GO:1900048	positive regulation of hemostasis
+GO:0015802	16	GO:0050658	RNA transport

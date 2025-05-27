@@ -1,0 +1,250 @@
+GO:0001990	9	GO:0050879	multicellular organismal movement
+GO:0006508	6	GO:0006470	protein dephosphorylation
+GO:0014020	2	GO:0001838	embryonic epithelial tube formation
+GO:0014013	1	GO:0045664	regulation of neuron differentiation
+GO:0001963	10	GO:1903580	positive regulation of ATP metabolic process
+GO:0090327	10	GO:1903580	positive regulation of ATP metabolic process
+GO:0009190	7	GO:0045005	DNA-dependent DNA replication maintenance of fidelity
+GO:1905145	10	GO:1903580	positive regulation of ATP metabolic process
+GO:0001947	2	GO:0001838	embryonic epithelial tube formation
+GO:0090305	7	GO:0045005	DNA-dependent DNA replication maintenance of fidelity
+GO:0045664	1	GO:0045664	regulation of neuron differentiation
+GO:0010187	3	GO:0042335	cuticle development
+GO:0030198	11	GO:0043062	extracellular structure organization
+GO:0035641	10	GO:1903580	positive regulation of ATP metabolic process
+GO:0035633	9	GO:0050879	multicellular organismal movement
+GO:1900034	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0030168	9	GO:0050879	multicellular organismal movement
+GO:0095500	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0043062	11	GO:0043062	extracellular structure organization
+GO:0019722	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0009263	7	GO:0045005	DNA-dependent DNA replication maintenance of fidelity
+GO:0009268	10	GO:1903580	positive regulation of ATP metabolic process
+GO:0000165	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:1903975	1	GO:0045664	regulation of neuron differentiation
+GO:1903977	1	GO:0045664	regulation of neuron differentiation
+GO:0039724	10	GO:1903580	positive regulation of ATP metabolic process
+GO:0000183	7	GO:0045005	DNA-dependent DNA replication maintenance of fidelity
+GO:0070482	10	GO:1903580	positive regulation of ATP metabolic process
+GO:0003081	9	GO:0050879	multicellular organismal movement
+GO:0016925	6	GO:0006470	protein dephosphorylation
+GO:0003012	9	GO:0050879	multicellular organismal movement
+GO:0003044	9	GO:0050879	multicellular organismal movement
+GO:0003007	3	GO:0042335	cuticle development
+GO:0042044	8	GO:0051048	negative regulation of secretion
+GO:0000256	7	GO:0045005	DNA-dependent DNA replication maintenance of fidelity
+GO:0009734	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0060173	3	GO:0042335	cuticle development
+GO:0031099	3	GO:0042335	cuticle development
+GO:1905885	8	GO:0051048	negative regulation of secretion
+GO:0090219	10	GO:1903580	positive regulation of ATP metabolic process
+GO:0080182	6	GO:0006470	protein dephosphorylation
+GO:0045998	10	GO:1903580	positive regulation of ATP metabolic process
+GO:0044331	11	GO:0043062	extracellular structure organization
+GO:0006935	10	GO:1903580	positive regulation of ATP metabolic process
+GO:0010877	8	GO:0051048	negative regulation of secretion
+GO:0039529	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0045944	7	GO:0045005	DNA-dependent DNA replication maintenance of fidelity
+GO:0039531	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0000712	7	GO:0045005	DNA-dependent DNA replication maintenance of fidelity
+GO:0034486	8	GO:0051048	negative regulation of secretion
+GO:0045907	9	GO:0050879	multicellular organismal movement
+GO:0060249	9	GO:0050879	multicellular organismal movement
+GO:0001080	7	GO:0045005	DNA-dependent DNA replication maintenance of fidelity
+GO:1905515	11	GO:0043062	extracellular structure organization
+GO:0038060	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0009597	10	GO:1903580	positive regulation of ATP metabolic process
+GO:0039693	10	GO:1903580	positive regulation of ATP metabolic process
+GO:0033333	3	GO:0042335	cuticle development
+GO:1905508	10	GO:1903580	positive regulation of ATP metabolic process
+GO:1904066	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:1904068	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:1904069	10	GO:1903580	positive regulation of ATP metabolic process
+GO:0060795	2	GO:0001838	embryonic epithelial tube formation
+GO:1904070	10	GO:1903580	positive regulation of ATP metabolic process
+GO:0003391	1	GO:0045664	regulation of neuron differentiation
+GO:0060788	3	GO:0042335	cuticle development
+GO:0039645	10	GO:1903580	positive regulation of ATP metabolic process
+GO:0030512	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0042395	9	GO:0050879	multicellular organismal movement
+GO:0008063	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0061062	3	GO:0042335	cuticle development
+GO:0061081	10	GO:1903580	positive regulation of ATP metabolic process
+GO:0051048	8	GO:0051048	negative regulation of secretion
+GO:0070734	6	GO:0006470	protein dephosphorylation
+GO:0050893	9	GO:0050879	multicellular organismal movement
+GO:0008045	1	GO:0045664	regulation of neuron differentiation
+GO:0042310	9	GO:0050879	multicellular organismal movement
+GO:0034109	11	GO:0043062	extracellular structure organization
+GO:0090598	4	GO:0045137	development of primary sexual characteristics
+GO:0050881	9	GO:0050879	multicellular organismal movement
+GO:0042330	10	GO:1903580	positive regulation of ATP metabolic process
+GO:0042335	3	GO:0042335	cuticle development
+GO:0050879	9	GO:0050879	multicellular organismal movement
+GO:1990138	1	GO:0045664	regulation of neuron differentiation
+GO:0050830	10	GO:1903580	positive regulation of ATP metabolic process
+GO:0060840	3	GO:0042335	cuticle development
+GO:0002385	10	GO:1903580	positive regulation of ATP metabolic process
+GO:0032480	9	GO:0050879	multicellular organismal movement
+GO:0002312	10	GO:1903580	positive regulation of ATP metabolic process
+GO:0034243	7	GO:0045005	DNA-dependent DNA replication maintenance of fidelity
+GO:0090502	7	GO:0045005	DNA-dependent DNA replication maintenance of fidelity
+GO:0043122	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0043123	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0046068	7	GO:0045005	DNA-dependent DNA replication maintenance of fidelity
+GO:0043111	7	GO:0045005	DNA-dependent DNA replication maintenance of fidelity
+GO:0097009	9	GO:0050879	multicellular organismal movement
+GO:0003151	3	GO:0042335	cuticle development
+GO:0046008	9	GO:0050879	multicellular organismal movement
+GO:0034773	6	GO:0006470	protein dephosphorylation
+GO:0070527	11	GO:0043062	extracellular structure organization
+GO:0015074	7	GO:0045005	DNA-dependent DNA replication maintenance of fidelity
+GO:0034720	6	GO:0006470	protein dephosphorylation
+GO:0003143	2	GO:0001838	embryonic epithelial tube formation
+GO:0042113	10	GO:1903580	positive regulation of ATP metabolic process
+GO:0035025	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0035010	10	GO:1903580	positive regulation of ATP metabolic process
+GO:0050687	10	GO:1903580	positive regulation of ATP metabolic process
+GO:0072337	8	GO:0051048	negative regulation of secretion
+GO:0050688	10	GO:1903580	positive regulation of ATP metabolic process
+GO:0048332	2	GO:0001838	embryonic epithelial tube formation
+GO:0048333	2	GO:0001838	embryonic epithelial tube formation
+GO:0014820	9	GO:0050879	multicellular organismal movement
+GO:0042100	10	GO:1903580	positive regulation of ATP metabolic process
+GO:0035002	3	GO:0042335	cuticle development
+GO:0035006	10	GO:1903580	positive regulation of ATP metabolic process
+GO:0035007	10	GO:1903580	positive regulation of ATP metabolic process
+GO:0002168	3	GO:0042335	cuticle development
+GO:0048308	11	GO:0043062	extracellular structure organization
+GO:1901016	8	GO:0051048	negative regulation of secretion
+GO:1901018	8	GO:0051048	negative regulation of secretion
+GO:0140527	7	GO:0045005	DNA-dependent DNA replication maintenance of fidelity
+GO:1901048	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0060633	7	GO:0045005	DNA-dependent DNA replication maintenance of fidelity
+GO:0045005	7	GO:0045005	DNA-dependent DNA replication maintenance of fidelity
+GO:1905941	4	GO:0045137	development of primary sexual characteristics
+GO:0071360	10	GO:1903580	positive regulation of ATP metabolic process
+GO:0061371	3	GO:0042335	cuticle development
+GO:0031175	1	GO:0045664	regulation of neuron differentiation
+GO:0060606	2	GO:0001838	embryonic epithelial tube formation
+GO:0071359	10	GO:1903580	positive regulation of ATP metabolic process
+GO:1905909	3	GO:0042335	cuticle development
+GO:0031146	6	GO:0006470	protein dephosphorylation
+GO:0009926	8	GO:0051048	negative regulation of secretion
+GO:0031102	1	GO:0045664	regulation of neuron differentiation
+GO:0031103	1	GO:0045664	regulation of neuron differentiation
+GO:0009934	3	GO:0042335	cuticle development
+GO:2000104	7	GO:0045005	DNA-dependent DNA replication maintenance of fidelity
+GO:0051482	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0007368	3	GO:0042335	cuticle development
+GO:2000294	8	GO:0051048	negative regulation of secretion
+GO:0032727	9	GO:0050879	multicellular organismal movement
+GO:0032728	9	GO:0050879	multicellular organismal movement
+GO:0016339	11	GO:0043062	extracellular structure organization
+GO:0072175	2	GO:0001838	embryonic epithelial tube formation
+GO:0007311	4	GO:0045137	development of primary sexual characteristics
+GO:0007343	11	GO:0043062	extracellular structure organization
+GO:0071444	10	GO:1903580	positive regulation of ATP metabolic process
+GO:0008406	4	GO:0045137	development of primary sexual characteristics
+GO:1903441	10	GO:1903580	positive regulation of ATP metabolic process
+GO:0048100	3	GO:0042335	cuticle development
+GO:0033563	1	GO:0045664	regulation of neuron differentiation
+GO:0016485	6	GO:0006470	protein dephosphorylation
+GO:0008156	7	GO:0045005	DNA-dependent DNA replication maintenance of fidelity
+GO:0006360	7	GO:0045005	DNA-dependent DNA replication maintenance of fidelity
+GO:0043562	10	GO:1903580	positive regulation of ATP metabolic process
+GO:0006357	7	GO:0045005	DNA-dependent DNA replication maintenance of fidelity
+GO:0006370	7	GO:0045005	DNA-dependent DNA replication maintenance of fidelity
+GO:0007424	3	GO:0042335	cuticle development
+GO:0002730	10	GO:1903580	positive regulation of ATP metabolic process
+GO:0006310	7	GO:0045005	DNA-dependent DNA replication maintenance of fidelity
+GO:0007448	3	GO:0042335	cuticle development
+GO:0061137	3	GO:0042335	cuticle development
+GO:1900618	3	GO:0042335	cuticle development
+GO:0062208	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:1901381	8	GO:0051048	negative regulation of secretion
+GO:0060976	3	GO:0042335	cuticle development
+GO:0097402	10	GO:1903580	positive regulation of ATP metabolic process
+GO:0007191	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0007193	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0001756	2	GO:0001838	embryonic epithelial tube formation
+GO:0007156	11	GO:0043062	extracellular structure organization
+GO:0007157	11	GO:0043062	extracellular structure organization
+GO:0007186	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0007187	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0001710	2	GO:0001838	embryonic epithelial tube formation
+GO:0006470	6	GO:0006470	protein dephosphorylation
+GO:0016138	10	GO:1903580	positive regulation of ATP metabolic process
+GO:0007143	11	GO:0043062	extracellular structure organization
+GO:0036124	6	GO:0006470	protein dephosphorylation
+GO:0007131	7	GO:0045005	DNA-dependent DNA replication maintenance of fidelity
+GO:0001704	2	GO:0001838	embryonic epithelial tube formation
+GO:0001707	2	GO:0001838	embryonic epithelial tube formation
+GO:0001708	1	GO:0045664	regulation of neuron differentiation
+GO:0008203	10	GO:1903580	positive regulation of ATP metabolic process
+GO:0001894	9	GO:0050879	multicellular organismal movement
+GO:1904731	8	GO:0051048	negative regulation of secretion
+GO:0045434	9	GO:0050879	multicellular organismal movement
+GO:0021517	3	GO:0042335	cuticle development
+GO:0006182	7	GO:0045005	DNA-dependent DNA replication maintenance of fidelity
+GO:0007279	4	GO:0045137	development of primary sexual characteristics
+GO:0001841	2	GO:0001838	embryonic epithelial tube formation
+GO:0035150	9	GO:0050879	multicellular organismal movement
+GO:0001843	2	GO:0001838	embryonic epithelial tube formation
+GO:0007213	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0007218	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0001838	2	GO:0001838	embryonic epithelial tube formation
+GO:0098719	8	GO:0051048	negative regulation of secretion
+GO:0098742	11	GO:0043062	extracellular structure organization
+GO:0045187	9	GO:0050879	multicellular organismal movement
+GO:0048844	3	GO:0042335	cuticle development
+GO:0061709	11	GO:0043062	extracellular structure organization
+GO:0045143	11	GO:0043062	extracellular structure organization
+GO:1903746	10	GO:1903580	positive regulation of ATP metabolic process
+GO:0045137	4	GO:0045137	development of primary sexual characteristics
+GO:0045138	4	GO:0045137	development of primary sexual characteristics
+GO:0006298	7	GO:0045005	DNA-dependent DNA replication maintenance of fidelity
+GO:0006260	7	GO:0045005	DNA-dependent DNA replication maintenance of fidelity
+GO:0006261	7	GO:0045005	DNA-dependent DNA replication maintenance of fidelity
+GO:0030030	11	GO:0043062	extracellular structure organization
+GO:0040027	3	GO:0042335	cuticle development
+GO:0098868	3	GO:0042335	cuticle development
+GO:0006289	7	GO:0045005	DNA-dependent DNA replication maintenance of fidelity
+GO:0006278	7	GO:0045005	DNA-dependent DNA replication maintenance of fidelity
+GO:0071880	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0031648	9	GO:0050879	multicellular organismal movement
+GO:0035277	3	GO:0042335	cuticle development
+GO:0048514	3	GO:0042335	cuticle development
+GO:2000616	6	GO:0006470	protein dephosphorylation
+GO:0035249	10	GO:1903580	positive regulation of ATP metabolic process
+GO:0035235	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:1903818	8	GO:0051048	negative regulation of secretion
+GO:0006760	7	GO:0045005	DNA-dependent DNA replication maintenance of fidelity
+GO:0061512	10	GO:1903580	positive regulation of ATP metabolic process
+GO:0043922	10	GO:1903580	positive regulation of ATP metabolic process
+GO:0043923	10	GO:1903580	positive regulation of ATP metabolic process
+GO:0045752	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0043949	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0035725	8	GO:0051048	negative regulation of secretion
+GO:1903580	10	GO:1903580	positive regulation of ATP metabolic process
+GO:0060021	3	GO:0042335	cuticle development
+GO:0060025	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0071696	3	GO:0042335	cuticle development
+GO:0071697	3	GO:0042335	cuticle development
+GO:0016571	6	GO:0006470	protein dephosphorylation
+GO:0098664	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0007548	4	GO:0045137	development of primary sexual characteristics
+GO:0045880	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0007501	2	GO:0001838	embryonic epithelial tube formation
+GO:1902584	10	GO:1903580	positive regulation of ATP metabolic process
+GO:0097502	10	GO:1903580	positive regulation of ATP metabolic process
+GO:0030326	3	GO:0042335	cuticle development
+GO:0009307	7	GO:0045005	DNA-dependent DNA replication maintenance of fidelity
+GO:0007621	9	GO:0050879	multicellular organismal movement
+GO:0030307	10	GO:1903580	positive regulation of ATP metabolic process
+GO:0007614	9	GO:0050879	multicellular organismal movement
+GO:0046662	9	GO:0050879	multicellular organismal movement
+GO:0046653	7	GO:0045005	DNA-dependent DNA replication maintenance of fidelity
+GO:0018996	9	GO:0050879	multicellular organismal movement
+GO:0014068	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0035545	3	GO:0042335	cuticle development

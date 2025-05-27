@@ -1,0 +1,22 @@
+GO:0009826	1	GO:0007017	microtubule-based process
+GO:0006096	1	GO:0007017	microtubule-based process
+GO:0007010	1	GO:0007017	microtubule-based process
+GO:0006693	1	GO:0007017	microtubule-based process
+GO:0050994	1	GO:0007017	microtubule-based process
+GO:0007017	1	GO:0007017	microtubule-based process
+GO:0007565	1	GO:0007017	microtubule-based process
+GO:0005996	2	GO:0019318	hexose metabolic process
+GO:0030728	1	GO:0007017	microtubule-based process
+GO:0006013	2	GO:0019318	hexose metabolic process
+GO:0007186	1	GO:0007017	microtubule-based process
+GO:0046835	1	GO:0007017	microtubule-based process
+GO:0045786	1	GO:0007017	microtubule-based process
+GO:0007179	1	GO:0007017	microtubule-based process
+GO:0001678	1	GO:0007017	microtubule-based process
+GO:0019318	2	GO:0019318	hexose metabolic process
+GO:1901569	1	GO:0007017	microtubule-based process
+GO:0000278	1	GO:0007017	microtubule-based process
+GO:0000226	1	GO:0007017	microtubule-based process
+GO:0048844	1	GO:0007017	microtubule-based process
+GO:0006006	2	GO:0019318	hexose metabolic process
+GO:0051156	1	GO:0007017	microtubule-based process

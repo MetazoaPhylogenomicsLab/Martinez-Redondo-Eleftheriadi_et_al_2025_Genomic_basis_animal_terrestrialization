@@ -1,0 +1,316 @@
+GO:0009988	14	GO:0019835	cytolysis
+GO:0035627	6	GO:0140353	lipid export from cell
+GO:0090304	1	GO:0090304	nucleic acid metabolic process
+GO:0051304	12	GO:0045132	meiotic chromosome segregation
+GO:0051306	12	GO:0045132	meiotic chromosome segregation
+GO:0034109	14	GO:0019835	cytolysis
+GO:1902475	6	GO:0140353	lipid export from cell
+GO:0000070	12	GO:0045132	meiotic chromosome segregation
+GO:0042744	2	GO:0072376	protein activation cascade
+GO:0032370	6	GO:0140353	lipid export from cell
+GO:0090158	13	GO:0098534	centriole assembly
+GO:0090175	10	GO:0035212	cell competition in a multicellular organism
+GO:0035036	11	GO:0007281	germ cell development
+GO:0019835	14	GO:0019835	cytolysis
+GO:0009414	9	GO:0032102	negative regulation of response to external stimulus
+GO:0009415	9	GO:0032102	negative regulation of response to external stimulus
+GO:0045143	12	GO:0045132	meiotic chromosome segregation
+GO:0045132	12	GO:0045132	meiotic chromosome segregation
+GO:0075733	5	GO:0019058	viral life cycle
+GO:0007340	11	GO:0007281	germ cell development
+GO:0007342	11	GO:0007281	germ cell development
+GO:0006865	6	GO:0140353	lipid export from cell
+GO:0006814	6	GO:0140353	lipid export from cell
+GO:0008063	4	GO:0008593	regulation of Notch signaling pathway
+GO:0042546	13	GO:0098534	centriole assembly
+GO:0071480	9	GO:0032102	negative regulation of response to external stimulus
+GO:0045752	4	GO:0008593	regulation of Notch signaling pathway
+GO:0140527	1	GO:0090304	nucleic acid metabolic process
+GO:0030422	1	GO:0090304	nucleic acid metabolic process
+GO:0071479	9	GO:0032102	negative regulation of response to external stimulus
+GO:0034587	1	GO:0090304	nucleic acid metabolic process
+GO:0007127	12	GO:0045132	meiotic chromosome segregation
+GO:0018130	1	GO:0090304	nucleic acid metabolic process
+GO:0007131	12	GO:0045132	meiotic chromosome segregation
+GO:0097659	1	GO:0090304	nucleic acid metabolic process
+GO:0031638	2	GO:0072376	protein activation cascade
+GO:0034654	1	GO:0090304	nucleic acid metabolic process
+GO:0046473	2	GO:0072376	protein activation cascade
+GO:0061982	12	GO:0045132	meiotic chromosome segregation
+GO:0032774	1	GO:0090304	nucleic acid metabolic process
+GO:2000050	4	GO:0008593	regulation of Notch signaling pathway
+GO:0039502	9	GO:0032102	negative regulation of response to external stimulus
+GO:0098743	14	GO:0019835	cytolysis
+GO:0070918	1	GO:0090304	nucleic acid metabolic process
+GO:0140013	12	GO:0045132	meiotic chromosome segregation
+GO:0140014	12	GO:0045132	meiotic chromosome segregation
+GO:0071786	13	GO:0098534	centriole assembly
+GO:0039644	1	GO:0090304	nucleic acid metabolic process
+GO:0039645	14	GO:0019835	cytolysis
+GO:0098813	12	GO:0045132	meiotic chromosome segregation
+GO:0097006	14	GO:0019835	cytolysis
+GO:0000280	13	GO:0098534	centriole assembly
+GO:0045604	10	GO:0035212	cell competition in a multicellular organism
+GO:1901362	2	GO:0072376	protein activation cascade
+GO:0046794	5	GO:0019058	viral life cycle
+GO:0006956	9	GO:0032102	negative regulation of response to external stimulus
+GO:0009636	9	GO:0032102	negative regulation of response to external stimulus
+GO:0046718	5	GO:0019058	viral life cycle
+GO:0007534	1	GO:0090304	nucleic acid metabolic process
+GO:0035725	6	GO:0140353	lipid export from cell
+GO:0071555	13	GO:0098534	centriole assembly
+GO:0045026	13	GO:0098534	centriole assembly
+GO:0071514	1	GO:0090304	nucleic acid metabolic process
+GO:0046813	5	GO:0019058	viral life cycle
+GO:0000819	12	GO:0045132	meiotic chromosome segregation
+GO:0035822	1	GO:0090304	nucleic acid metabolic process
+GO:0006351	1	GO:0090304	nucleic acid metabolic process
+GO:0019438	1	GO:0090304	nucleic acid metabolic process
+GO:0042476	10	GO:0035212	cell competition in a multicellular organism
+GO:0006312	1	GO:0090304	nucleic acid metabolic process
+GO:0034661	1	GO:0090304	nucleic acid metabolic process
+GO:0007338	11	GO:0007281	germ cell development
+GO:0044000	5	GO:0019058	viral life cycle
+GO:0071444	9	GO:0032102	negative regulation of response to external stimulus
+GO:0039592	14	GO:0019835	cytolysis
+GO:0098868	10	GO:0035212	cell competition in a multicellular organism
+GO:0030282	10	GO:0035212	cell competition in a multicellular organism
+GO:0042475	10	GO:0035212	cell competition in a multicellular organism
+GO:0086100	4	GO:0008593	regulation of Notch signaling pathway
+GO:0019058	5	GO:0019058	viral life cycle
+GO:0019076	5	GO:0019058	viral life cycle
+GO:0019045	5	GO:0019058	viral life cycle
+GO:0019046	5	GO:0019058	viral life cycle
+GO:0006390	1	GO:0090304	nucleic acid metabolic process
+GO:0043062	13	GO:0098534	centriole assembly
+GO:0060348	10	GO:0035212	cell competition in a multicellular organism
+GO:0006954	9	GO:0032102	negative regulation of response to external stimulus
+GO:0043045	1	GO:0090304	nucleic acid metabolic process
+GO:0016075	1	GO:0090304	nucleic acid metabolic process
+GO:0043633	1	GO:0090304	nucleic acid metabolic process
+GO:0006306	1	GO:0090304	nucleic acid metabolic process
+GO:0080182	2	GO:0072376	protein activation cascade
+GO:0035891	5	GO:0019058	viral life cycle
+GO:0002573	10	GO:0035212	cell competition in a multicellular organism
+GO:0040024	10	GO:0035212	cell competition in a multicellular organism
+GO:0040029	3	GO:0032677	regulation of interleukin-8 production
+GO:0038084	4	GO:0008593	regulation of Notch signaling pathway
+GO:0002063	10	GO:0035212	cell competition in a multicellular organism
+GO:0072376	2	GO:0072376	protein activation cascade
+GO:0072378	2	GO:0072376	protein activation cascade
+GO:0002683	14	GO:0019835	cytolysis
+GO:0090305	1	GO:0090304	nucleic acid metabolic process
+GO:0000912	13	GO:0098534	centriole assembly
+GO:0000915	13	GO:0098534	centriole assembly
+GO:0045668	10	GO:0035212	cell competition in a multicellular organism
+GO:0071025	1	GO:0090304	nucleic acid metabolic process
+GO:0071027	1	GO:0090304	nucleic acid metabolic process
+GO:0045670	10	GO:0035212	cell competition in a multicellular organism
+GO:0003197	10	GO:0035212	cell competition in a multicellular organism
+GO:0006278	1	GO:0090304	nucleic acid metabolic process
+GO:0031146	2	GO:0072376	protein activation cascade
+GO:0061647	2	GO:0072376	protein activation cascade
+GO:0001893	11	GO:0007281	germ cell development
+GO:0016925	2	GO:0072376	protein activation cascade
+GO:1900182	14	GO:0019835	cytolysis
+GO:0034776	9	GO:0032102	negative regulation of response to external stimulus
+GO:0031214	10	GO:0035212	cell competition in a multicellular organism
+GO:0050727	9	GO:0032102	negative regulation of response to external stimulus
+GO:0000122	1	GO:0090304	nucleic acid metabolic process
+GO:0044837	13	GO:0098534	centriole assembly
+GO:0030316	10	GO:0035212	cell competition in a multicellular organism
+GO:0050893	7	GO:0007606	sensory perception of chemical stimulus
+GO:0009566	11	GO:0007281	germ cell development
+GO:0001503	7	GO:0007606	sensory perception of chemical stimulus
+GO:0021766	10	GO:0035212	cell competition in a multicellular organism
+GO:0019236	9	GO:0032102	negative regulation of response to external stimulus
+GO:0071346	9	GO:0032102	negative regulation of response to external stimulus
+GO:0030435	10	GO:0035212	cell competition in a multicellular organism
+GO:1902407	13	GO:0098534	centriole assembly
+GO:0010496	14	GO:0019835	cytolysis
+GO:0009611	9	GO:0032102	negative regulation of response to external stimulus
+GO:0098728	11	GO:0007281	germ cell development
+GO:0009617	9	GO:0032102	negative regulation of response to external stimulus
+GO:0030198	13	GO:0098534	centriole assembly
+GO:0007310	11	GO:0007281	germ cell development
+GO:0051385	9	GO:0032102	negative regulation of response to external stimulus
+GO:0007315	11	GO:0007281	germ cell development
+GO:0007317	11	GO:0007281	germ cell development
+GO:0030150	6	GO:0140353	lipid export from cell
+GO:0045451	11	GO:0007281	germ cell development
+GO:0051984	14	GO:0019835	cytolysis
+GO:0140353	6	GO:0140353	lipid export from cell
+GO:0007306	11	GO:0007281	germ cell development
+GO:0007309	11	GO:0007281	germ cell development
+GO:0098869	14	GO:0019835	cytolysis
+GO:1903507	1	GO:0090304	nucleic acid metabolic process
+GO:0046843	11	GO:0007281	germ cell development
+GO:0032310	6	GO:0140353	lipid export from cell
+GO:0032309	6	GO:0140353	lipid export from cell
+GO:0018119	2	GO:0072376	protein activation cascade
+GO:0045141	12	GO:0045132	meiotic chromosome segregation
+GO:0039694	5	GO:0019058	viral life cycle
+GO:0045103	14	GO:0019835	cytolysis
+GO:0045104	13	GO:0098534	centriole assembly
+GO:1901977	14	GO:0019835	cytolysis
+GO:0007141	12	GO:0045132	meiotic chromosome segregation
+GO:0048714	10	GO:0035212	cell competition in a multicellular organism
+GO:2000001	14	GO:0019835	cytolysis
+GO:0065002	6	GO:0140353	lipid export from cell
+GO:1900015	3	GO:0032677	regulation of interleukin-8 production
+GO:1900016	3	GO:0032677	regulation of interleukin-8 production
+GO:0019068	5	GO:0019058	viral life cycle
+GO:0007293	11	GO:0007281	germ cell development
+GO:0019080	5	GO:0019058	viral life cycle
+GO:0019083	5	GO:0019058	viral life cycle
+GO:0007260	2	GO:0072376	protein activation cascade
+GO:0097237	9	GO:0032102	negative regulation of response to external stimulus
+GO:0007281	11	GO:0007281	germ cell development
+GO:0035212	10	GO:0035212	cell competition in a multicellular organism
+GO:0034397	14	GO:0019835	cytolysis
+GO:0010764	9	GO:0032102	negative regulation of response to external stimulus
+GO:0000018	1	GO:0090304	nucleic acid metabolic process
+GO:0002701	3	GO:0032677	regulation of interleukin-8 production
+GO:0032102	9	GO:0032102	negative regulation of response to external stimulus
+GO:0071715	6	GO:0140353	lipid export from cell
+GO:0006357	1	GO:0090304	nucleic acid metabolic process
+GO:0006953	9	GO:0032102	negative regulation of response to external stimulus
+GO:0050913	7	GO:0007606	sensory perception of chemical stimulus
+GO:0050907	7	GO:0007606	sensory perception of chemical stimulus
+GO:0048534	10	GO:0035212	cell competition in a multicellular organism
+GO:0001172	1	GO:0090304	nucleic acid metabolic process
+GO:0070192	12	GO:0045132	meiotic chromosome segregation
+GO:0033003	14	GO:0019835	cytolysis
+GO:0071806	6	GO:0140353	lipid export from cell
+GO:0002526	9	GO:0032102	negative regulation of response to external stimulus
+GO:0032755	3	GO:0032677	regulation of interleukin-8 production
+GO:0032757	3	GO:0032677	regulation of interleukin-8 production
+GO:0040016	10	GO:0035212	cell competition in a multicellular organism
+GO:0015732	6	GO:0140353	lipid export from cell
+GO:0032722	3	GO:0032677	regulation of interleukin-8 production
+GO:0010569	1	GO:0090304	nucleic acid metabolic process
+GO:1902679	1	GO:0090304	nucleic acid metabolic process
+GO:0045576	14	GO:0019835	cytolysis
+GO:0006110	2	GO:0072376	protein activation cascade
+GO:1904801	10	GO:0035212	cell competition in a multicellular organism
+GO:0008354	11	GO:0007281	germ cell development
+GO:0007549	3	GO:0032677	regulation of interleukin-8 production
+GO:0045040	6	GO:0140353	lipid export from cell
+GO:1904580	14	GO:0019835	cytolysis
+GO:0007060	12	GO:0045132	meiotic chromosome segregation
+GO:0061028	10	GO:0035212	cell competition in a multicellular organism
+GO:0042531	2	GO:0072376	protein activation cascade
+GO:0045601	10	GO:0035212	cell competition in a multicellular organism
+GO:0016325	11	GO:0007281	germ cell development
+GO:0042509	2	GO:0072376	protein activation cascade
+GO:0043934	10	GO:0035212	cell competition in a multicellular organism
+GO:0060760	9	GO:0032102	negative regulation of response to external stimulus
+GO:0044743	6	GO:0140353	lipid export from cell
+GO:0042060	9	GO:0032102	negative regulation of response to external stimulus
+GO:0031297	1	GO:0090304	nucleic acid metabolic process
+GO:0007606	7	GO:0007606	sensory perception of chemical stimulus
+GO:0007608	7	GO:0007606	sensory perception of chemical stimulus
+GO:0008407	10	GO:0035212	cell competition in a multicellular organism
+GO:0050728	9	GO:0032102	negative regulation of response to external stimulus
+GO:0032677	3	GO:0032677	regulation of interleukin-8 production
+GO:2001057	2	GO:0072376	protein activation cascade
+GO:0032642	3	GO:0032677	regulation of interleukin-8 production
+GO:0030951	13	GO:0098534	centriole assembly
+GO:0032637	3	GO:0032677	regulation of interleukin-8 production
+GO:0009593	9	GO:0032102	negative regulation of response to external stimulus
+GO:0032602	3	GO:0032677	regulation of interleukin-8 production
+GO:0090220	12	GO:0045132	meiotic chromosome segregation
+GO:0008103	11	GO:0007281	germ cell development
+GO:1905168	2	GO:0072376	protein activation cascade
+GO:0048477	11	GO:0007281	germ cell development
+GO:0046209	2	GO:0072376	protein activation cascade
+GO:0000226	13	GO:0098534	centriole assembly
+GO:0010951	2	GO:0072376	protein activation cascade
+GO:1990748	14	GO:0019835	cytolysis
+GO:0006809	2	GO:0072376	protein activation cascade
+GO:0071322	9	GO:0032102	negative regulation of response to external stimulus
+GO:0071326	9	GO:0032102	negative regulation of response to external stimulus
+GO:0014820	7	GO:0007606	sensory perception of chemical stimulus
+GO:0070096	13	GO:0098534	centriole assembly
+GO:0046755	5	GO:0019058	viral life cycle
+GO:0071331	9	GO:0032102	negative regulation of response to external stimulus
+GO:0071333	9	GO:0032102	negative regulation of response to external stimulus
+GO:0098754	9	GO:0032102	negative regulation of response to external stimulus
+GO:0070121	10	GO:0035212	cell competition in a multicellular organism
+GO:0015074	1	GO:0090304	nucleic acid metabolic process
+GO:0044826	5	GO:0019058	viral life cycle
+GO:0007099	13	GO:0098534	centriole assembly
+GO:0034454	13	GO:0098534	centriole assembly
+GO:1901222	4	GO:0008593	regulation of Notch signaling pathway
+GO:1901224	4	GO:0008593	regulation of Notch signaling pathway
+GO:0042118	14	GO:0019835	cytolysis
+GO:0042138	1	GO:0090304	nucleic acid metabolic process
+GO:0043922	5	GO:0019058	viral life cycle
+GO:0090363	13	GO:0098534	centriole assembly
+GO:0090364	13	GO:0098534	centriole assembly
+GO:0018996	7	GO:0007606	sensory perception of chemical stimulus
+GO:0008593	4	GO:0008593	regulation of Notch signaling pathway
+GO:0044650	5	GO:0019058	viral life cycle
+GO:0000077	14	GO:0019835	cytolysis
+GO:0000079	2	GO:0072376	protein activation cascade
+GO:0000019	1	GO:0090304	nucleic acid metabolic process
+GO:0038061	4	GO:0008593	regulation of Notch signaling pathway
+GO:0075713	5	GO:0019058	viral life cycle
+GO:0048199	6	GO:0140353	lipid export from cell
+GO:0006895	6	GO:0140353	lipid export from cell
+GO:0045229	13	GO:0098534	centriole assembly
+GO:0032196	14	GO:0019835	cytolysis
+GO:0031570	14	GO:0019835	cytolysis
+GO:0050974	7	GO:0007606	sensory perception of chemical stimulus
+GO:0050975	7	GO:0007606	sensory perception of chemical stimulus
+GO:0050920	9	GO:0032102	negative regulation of response to external stimulus
+GO:0050922	9	GO:0032102	negative regulation of response to external stimulus
+GO:0050911	7	GO:0007606	sensory perception of chemical stimulus
+GO:0010760	9	GO:0032102	negative regulation of response to external stimulus
+GO:0048246	9	GO:0032102	negative regulation of response to external stimulus
+GO:0010758	9	GO:0032102	negative regulation of response to external stimulus
+GO:0039702	5	GO:0019058	viral life cycle
+GO:0045746	4	GO:0008593	regulation of Notch signaling pathway
+GO:0010737	4	GO:0008593	regulation of Notch signaling pathway
+GO:0010738	4	GO:0008593	regulation of Notch signaling pathway
+GO:0010739	4	GO:0008593	regulation of Notch signaling pathway
+GO:0007129	12	GO:0045132	meiotic chromosome segregation
+GO:0048769	13	GO:0098534	centriole assembly
+GO:0055005	10	GO:0035212	cell competition in a multicellular organism
+GO:0045892	1	GO:0090304	nucleic acid metabolic process
+GO:0010894	2	GO:0072376	protein activation cascade
+GO:0031646	7	GO:0007606	sensory perception of chemical stimulus
+GO:0010824	13	GO:0098534	centriole assembly
+GO:0010833	1	GO:0090304	nucleic acid metabolic process
+GO:0007218	4	GO:0008593	regulation of Notch signaling pathway
+GO:1904029	2	GO:0072376	protein activation cascade
+GO:0002264	14	GO:0019835	cytolysis
+GO:0080129	13	GO:0098534	centriole assembly
+GO:0035194	3	GO:0032677	regulation of interleukin-8 production
+GO:0072393	13	GO:0098534	centriole assembly
+GO:0048525	5	GO:0019058	viral life cycle
+GO:0045666	10	GO:0035212	cell competition in a multicellular organism
+GO:0016441	3	GO:0032677	regulation of interleukin-8 production
+GO:0071897	1	GO:0090304	nucleic acid metabolic process
+GO:0046782	5	GO:0019058	viral life cycle
+GO:0098534	13	GO:0098534	centriole assembly
+GO:0030510	4	GO:0008593	regulation of Notch signaling pathway
+GO:1905521	9	GO:0032102	negative regulation of response to external stimulus
+GO:1905522	9	GO:0032102	negative regulation of response to external stimulus
+GO:0002532	7	GO:0007606	sensory perception of chemical stimulus
+GO:0002534	3	GO:0032677	regulation of interleukin-8 production
+GO:0033209	4	GO:0008593	regulation of Notch signaling pathway
+GO:0030509	4	GO:0008593	regulation of Notch signaling pathway
+GO:0046599	13	GO:0098534	centriole assembly
+GO:0002686	9	GO:0032102	negative regulation of response to external stimulus
+GO:0002688	9	GO:0032102	negative regulation of response to external stimulus
+GO:0002689	9	GO:0032102	negative regulation of response to external stimulus
+GO:0045950	1	GO:0090304	nucleic acid metabolic process
+GO:0006310	1	GO:0090304	nucleic acid metabolic process
+GO:0045944	1	GO:0090304	nucleic acid metabolic process
+GO:1900020	2	GO:0072376	protein activation cascade
+GO:0032069	3	GO:0032677	regulation of interleukin-8 production
+GO:0051931	7	GO:0007606	sensory perception of chemical stimulus
+GO:0045939	2	GO:0072376	protein activation cascade
+GO:1900025	10	GO:0035212	cell competition in a multicellular organism
+GO:1900019	2	GO:0072376	protein activation cascade

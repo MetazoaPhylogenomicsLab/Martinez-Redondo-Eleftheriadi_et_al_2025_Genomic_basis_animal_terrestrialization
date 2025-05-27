@@ -1,0 +1,48 @@
+GO:2000242	6	GO:2000242	negative regulation of reproductive process
+GO:1903883	5	GO:0045787	positive regulation of cell cycle
+GO:1903886	6	GO:2000242	negative regulation of reproductive process
+GO:0009411	6	GO:2000242	negative regulation of reproductive process
+GO:0030030	4	GO:0031175	neuron projection development
+GO:0048147	6	GO:2000242	negative regulation of reproductive process
+GO:0001516	1	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0120036	4	GO:0031175	neuron projection development
+GO:0045666	5	GO:0045787	positive regulation of cell cycle
+GO:0010508	5	GO:0045787	positive regulation of cell cycle
+GO:1905936	6	GO:2000242	negative regulation of reproductive process
+GO:0045732	1	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0006749	1	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0071555	4	GO:0031175	neuron projection development
+GO:0001539	3	GO:0060294	cilium movement involved in cell motility
+GO:0051155	5	GO:0045787	positive regulation of cell cycle
+GO:0051092	1	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0046716	7	GO:0001894	tissue homeostasis
+GO:0006278	1	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0018996	7	GO:0001894	tissue homeostasis
+GO:0090305	1	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0060294	3	GO:0060294	cilium movement involved in cell motility
+GO:0060378	7	GO:0001894	tissue homeostasis
+GO:1904035	6	GO:2000242	negative regulation of reproductive process
+GO:0030335	5	GO:0045787	positive regulation of cell cycle
+GO:0043632	2	GO:0019941	modification-dependent protein catabolic process
+GO:1903265	5	GO:0045787	positive regulation of cell cycle
+GO:0051603	2	GO:0019941	modification-dependent protein catabolic process
+GO:0043123	5	GO:0045787	positive regulation of cell cycle
+GO:0030307	5	GO:0045787	positive regulation of cell cycle
+GO:0010994	7	GO:0001894	tissue homeostasis
+GO:0060285	3	GO:0060294	cilium movement involved in cell motility
+GO:1902230	6	GO:2000242	negative regulation of reproductive process
+GO:0070936	1	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0045862	1	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0030245	1	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0031175	4	GO:0031175	neuron projection development
+GO:0006511	2	GO:0019941	modification-dependent protein catabolic process
+GO:0019941	2	GO:0019941	modification-dependent protein catabolic process
+GO:0061564	4	GO:0031175	neuron projection development
+GO:0044790	6	GO:2000242	negative regulation of reproductive process
+GO:0032897	6	GO:2000242	negative regulation of reproductive process
+GO:0050769	5	GO:0045787	positive regulation of cell cycle
+GO:0045444	4	GO:0031175	neuron projection development
+GO:0003341	3	GO:0060294	cilium movement involved in cell motility
+GO:0045787	5	GO:0045787	positive regulation of cell cycle
+GO:0007014	1	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0001894	7	GO:0001894	tissue homeostasis

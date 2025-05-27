@@ -1,0 +1,80 @@
+GO:0030296	2	GO:0004857	enzyme inhibitor activity
+GO:0022841	3	GO:0008028	monocarboxylic acid transmembrane transporter activity
+GO:0005243	3	GO:0008028	monocarboxylic acid transmembrane transporter activity
+GO:0005249	3	GO:0008028	monocarboxylic acid transmembrane transporter activity
+GO:0005096	2	GO:0004857	enzyme inhibitor activity
+GO:0051428	7	GO:0008092	cytoskeletal protein binding
+GO:0015154	3	GO:0008028	monocarboxylic acid transmembrane transporter activity
+GO:0015157	3	GO:0008028	monocarboxylic acid transmembrane transporter activity
+GO:0048306	7	GO:0008092	cytoskeletal protein binding
+GO:0004497	1	GO:0016709	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen
+GO:0043130	7	GO:0008092	cytoskeletal protein binding
+GO:0017069	5	GO:0003677	DNA binding
+GO:0030332	7	GO:0008092	cytoskeletal protein binding
+GO:0003680	5	GO:0003677	DNA binding
+GO:0042169	7	GO:0008092	cytoskeletal protein binding
+GO:0003677	5	GO:0003677	DNA binding
+GO:0042834	6	GO:0005549	odorant binding
+GO:0015574	3	GO:0008028	monocarboxylic acid transmembrane transporter activity
+GO:0030627	5	GO:0003677	DNA binding
+GO:0043565	5	GO:0003677	DNA binding
+GO:0030619	5	GO:0003677	DNA binding
+GO:0051119	3	GO:0008028	monocarboxylic acid transmembrane transporter activity
+GO:0003785	7	GO:0008092	cytoskeletal protein binding
+GO:1990846	2	GO:0004857	enzyme inhibitor activity
+GO:0031768	7	GO:0008092	cytoskeletal protein binding
+GO:0003779	7	GO:0008092	cytoskeletal protein binding
+GO:0000987	5	GO:0003677	DNA binding
+GO:0070851	7	GO:0008092	cytoskeletal protein binding
+GO:0000977	5	GO:0003677	DNA binding
+GO:0000978	5	GO:0003677	DNA binding
+GO:0004862	2	GO:0004857	enzyme inhibitor activity
+GO:0008395	1	GO:0016709	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen
+GO:0004857	2	GO:0004857	enzyme inhibitor activity
+GO:0071889	7	GO:0008092	cytoskeletal protein binding
+GO:0070840	6	GO:0005549	odorant binding
+GO:0008092	7	GO:0008092	cytoskeletal protein binding
+GO:0000900	5	GO:0003677	DNA binding
+GO:0016712	1	GO:0016709	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen
+GO:0016715	1	GO:0016709	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen
+GO:0016608	6	GO:0005549	odorant binding
+GO:0032182	7	GO:0008092	cytoskeletal protein binding
+GO:0005179	6	GO:0005549	odorant binding
+GO:0005112	7	GO:0008092	cytoskeletal protein binding
+GO:0020037	5	GO:0003677	DNA binding
+GO:0005149	7	GO:0008092	cytoskeletal protein binding
+GO:0008028	3	GO:0008028	monocarboxylic acid transmembrane transporter activity
+GO:0008047	2	GO:0004857	enzyme inhibitor activity
+GO:0005109	7	GO:0008092	cytoskeletal protein binding
+GO:0070530	6	GO:0005549	odorant binding
+GO:0004517	1	GO:0016709	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen
+GO:0005516	7	GO:0008092	cytoskeletal protein binding
+GO:0005549	6	GO:0005549	odorant binding
+GO:0005283	3	GO:0008028	monocarboxylic acid transmembrane transporter activity
+GO:0005539	6	GO:0005549	odorant binding
+GO:0035035	7	GO:0008092	cytoskeletal protein binding
+GO:0030291	2	GO:0004857	enzyme inhibitor activity
+GO:0015199	3	GO:0008028	monocarboxylic acid transmembrane transporter activity
+GO:0051427	7	GO:0008092	cytoskeletal protein binding
+GO:0061134	2	GO:0004857	enzyme inhibitor activity
+GO:0061135	2	GO:0004857	enzyme inhibitor activity
+GO:0070492	6	GO:0005549	odorant binding
+GO:0015293	3	GO:0008028	monocarboxylic acid transmembrane transporter activity
+GO:0015296	3	GO:0008028	monocarboxylic acid transmembrane transporter activity
+GO:1990825	5	GO:0003677	DNA binding
+GO:0062037	5	GO:0003677	DNA binding
+GO:0000217	5	GO:0003677	DNA binding
+GO:0098631	7	GO:0008092	cytoskeletal protein binding
+GO:0098632	7	GO:0008092	cytoskeletal protein binding
+GO:0015355	3	GO:0008028	monocarboxylic acid transmembrane transporter activity
+GO:0120160	6	GO:0005549	odorant binding
+GO:0004866	2	GO:0004857	enzyme inhibitor activity
+GO:0015377	3	GO:0008028	monocarboxylic acid transmembrane transporter activity
+GO:0030414	2	GO:0004857	enzyme inhibitor activity
+GO:0008201	6	GO:0005549	odorant binding
+GO:0008083	6	GO:0005549	odorant binding
+GO:0016705	1	GO:0016709	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen
+GO:0016709	1	GO:0016709	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen
+GO:0008013	7	GO:0008092	cytoskeletal protein binding
+GO:0008308	3	GO:0008028	monocarboxylic acid transmembrane transporter activity
+GO:0051010	6	GO:0005549	odorant binding

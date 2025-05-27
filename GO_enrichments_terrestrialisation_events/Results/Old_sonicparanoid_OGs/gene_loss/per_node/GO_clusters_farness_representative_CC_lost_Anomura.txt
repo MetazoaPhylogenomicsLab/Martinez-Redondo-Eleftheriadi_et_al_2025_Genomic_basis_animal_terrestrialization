@@ -1,0 +1,88 @@
+GO:0035301	1	GO:0071141	SMAD protein complex
+GO:0071953	3	GO:0110165	cellular anatomical entity
+GO:0044172	1	GO:0071141	SMAD protein complex
+GO:0060102	3	GO:0110165	cellular anatomical entity
+GO:0010494	4	GO:0098687	chromosomal region
+GO:0032982	3	GO:0110165	cellular anatomical entity
+GO:0000805	4	GO:0098687	chromosomal region
+GO:1990423	4	GO:0098687	chromosomal region
+GO:0000138	5	GO:0043159	acrosomal matrix
+GO:0034705	2	GO:0008076	voltage-gated potassium channel complex
+GO:0034707	2	GO:0008076	voltage-gated potassium channel complex
+GO:0071013	6	GO:0005634	nucleus
+GO:0043159	5	GO:0043159	acrosomal matrix
+GO:0072487	6	GO:0005634	nucleus
+GO:0005680	6	GO:0005634	nucleus
+GO:0005795	5	GO:0043159	acrosomal matrix
+GO:0005798	5	GO:0043159	acrosomal matrix
+GO:0005677	6	GO:0005634	nucleus
+GO:0005622	4	GO:0098687	chromosomal region
+GO:0046536	6	GO:0005634	nucleus
+GO:0019029	1	GO:0071141	SMAD protein complex
+GO:0005614	3	GO:0110165	cellular anatomical entity
+GO:0005615	3	GO:0110165	cellular anatomical entity
+GO:0005903	3	GO:0110165	cellular anatomical entity
+GO:0044291	3	GO:0110165	cellular anatomical entity
+GO:0044295	3	GO:0110165	cellular anatomical entity
+GO:0030313	3	GO:0110165	cellular anatomical entity
+GO:0005758	5	GO:0043159	acrosomal matrix
+GO:1902773	1	GO:0071141	SMAD protein complex
+GO:0031970	5	GO:0043159	acrosomal matrix
+GO:0005634	6	GO:0005634	nucleus
+GO:0005789	5	GO:0043159	acrosomal matrix
+GO:0019031	1	GO:0071141	SMAD protein complex
+GO:0030666	5	GO:0043159	acrosomal matrix
+GO:0005776	5	GO:0043159	acrosomal matrix
+GO:1902712	2	GO:0008076	voltage-gated potassium channel complex
+GO:0098975	3	GO:0110165	cellular anatomical entity
+GO:0030027	3	GO:0110165	cellular anatomical entity
+GO:0001527	3	GO:0110165	cellular anatomical entity
+GO:0030017	4	GO:0098687	chromosomal region
+GO:1990877	1	GO:0071141	SMAD protein complex
+GO:0062023	3	GO:0110165	cellular anatomical entity
+GO:0005730	6	GO:0005634	nucleus
+GO:0098793	3	GO:0110165	cellular anatomical entity
+GO:0044228	3	GO:0110165	cellular anatomical entity
+GO:0098687	4	GO:0098687	chromosomal region
+GO:0002081	5	GO:0043159	acrosomal matrix
+GO:0016342	2	GO:0008076	voltage-gated potassium channel complex
+GO:0055036	3	GO:0110165	cellular anatomical entity
+GO:0005863	4	GO:0098687	chromosomal region
+GO:0030424	3	GO:0110165	cellular anatomical entity
+GO:0000943	6	GO:0005634	nucleus
+GO:0039624	1	GO:0071141	SMAD protein complex
+GO:0038039	2	GO:0008076	voltage-gated potassium channel complex
+GO:0042575	1	GO:0071141	SMAD protein complex
+GO:0005886	2	GO:0008076	voltage-gated potassium channel complex
+GO:0005876	4	GO:0098687	chromosomal region
+GO:0070187	6	GO:0005634	nucleus
+GO:0140445	4	GO:0098687	chromosomal region
+GO:0031436	6	GO:0005634	nucleus
+GO:0035580	5	GO:0043159	acrosomal matrix
+GO:0005814	4	GO:0098687	chromosomal region
+GO:0016456	6	GO:0005634	nucleus
+GO:0000782	4	GO:0098687	chromosomal region
+GO:0000785	4	GO:0098687	chromosomal region
+GO:0032154	2	GO:0008076	voltage-gated potassium channel complex
+GO:0005832	5	GO:0043159	acrosomal matrix
+GO:0043083	3	GO:0110165	cellular anatomical entity
+GO:1903561	5	GO:0043159	acrosomal matrix
+GO:0000775	4	GO:0098687	chromosomal region
+GO:0036379	4	GO:0098687	chromosomal region
+GO:0071141	1	GO:0071141	SMAD protein complex
+GO:0071144	6	GO:0005634	nucleus
+GO:0001772	2	GO:0008076	voltage-gated potassium channel complex
+GO:1903293	1	GO:0071141	SMAD protein complex
+GO:0051233	4	GO:0098687	chromosomal region
+GO:0001725	4	GO:0098687	chromosomal region
+GO:0008076	2	GO:0008076	voltage-gated potassium channel complex
+GO:0036056	3	GO:0110165	cellular anatomical entity
+GO:0036057	3	GO:0110165	cellular anatomical entity
+GO:0036338	1	GO:0071141	SMAD protein complex
+GO:0032133	4	GO:0098687	chromosomal region
+GO:0000421	5	GO:0043159	acrosomal matrix
+GO:1902562	6	GO:0005634	nucleus
+GO:0043005	3	GO:0110165	cellular anatomical entity
+GO:0110165	3	GO:0110165	cellular anatomical entity
+GO:0005577	3	GO:0110165	cellular anatomical entity
+GO:0001401	5	GO:0043159	acrosomal matrix

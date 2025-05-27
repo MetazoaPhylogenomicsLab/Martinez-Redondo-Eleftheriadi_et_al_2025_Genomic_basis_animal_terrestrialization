@@ -1,0 +1,116 @@
+GO:0004065	8	GO:0098599	palmitoyl hydrolase activity
+GO:0099589	4	GO:0004930	G protein-coupled receptor activity
+GO:0008528	4	GO:0004930	G protein-coupled receptor activity
+GO:0033038	4	GO:0004930	G protein-coupled receptor activity
+GO:0043167	6	GO:0043167	ion binding
+GO:0043035	6	GO:0043167	ion binding
+GO:0043169	6	GO:0043167	ion binding
+GO:0003756	9	GO:0016705	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen
+GO:0052794	8	GO:0098599	palmitoyl hydrolase activity
+GO:0052795	8	GO:0098599	palmitoyl hydrolase activity
+GO:0001530	6	GO:0043167	ion binding
+GO:0052796	8	GO:0098599	palmitoyl hydrolase activity
+GO:0015145	3	GO:0015144	carbohydrate transmembrane transporter activity
+GO:0033691	6	GO:0043167	ion binding
+GO:0015149	3	GO:0015144	carbohydrate transmembrane transporter activity
+GO:0004712	7	GO:0004714	transmembrane receptor protein tyrosine kinase activity
+GO:0004714	7	GO:0004714	transmembrane receptor protein tyrosine kinase activity
+GO:0004715	7	GO:0004714	transmembrane receptor protein tyrosine kinase activity
+GO:0033130	6	GO:0043167	ion binding
+GO:0008188	4	GO:0004930	G protein-coupled receptor activity
+GO:0005007	7	GO:0004714	transmembrane receptor protein tyrosine kinase activity
+GO:0016864	9	GO:0016705	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen
+GO:0004709	7	GO:0004714	transmembrane receptor protein tyrosine kinase activity
+GO:0043621	6	GO:0043167	ion binding
+GO:0015252	1	GO:0099094	ligand-gated cation channel activity
+GO:0046872	6	GO:0043167	ion binding
+GO:0004104	8	GO:0098599	palmitoyl hydrolase activity
+GO:0051119	3	GO:0015144	carbohydrate transmembrane transporter activity
+GO:0099106	5	GO:0016247	channel regulator activity
+GO:0004867	5	GO:0016247	channel regulator activity
+GO:0052689	8	GO:0098599	palmitoyl hydrolase activity
+GO:0016248	5	GO:0016247	channel regulator activity
+GO:0003993	8	GO:0098599	palmitoyl hydrolase activity
+GO:0015485	6	GO:0043167	ion binding
+GO:0004993	4	GO:0004930	G protein-coupled receptor activity
+GO:0005262	1	GO:0099094	ligand-gated cation channel activity
+GO:0001604	4	GO:0004930	G protein-coupled receptor activity
+GO:0004252	8	GO:0098599	palmitoyl hydrolase activity
+GO:0097604	1	GO:0099094	ligand-gated cation channel activity
+GO:0008289	6	GO:0043167	ion binding
+GO:0016936	6	GO:0043167	ion binding
+GO:0042923	6	GO:0043167	ion binding
+GO:0003964	9	GO:0016705	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen
+GO:0008270	6	GO:0043167	ion binding
+GO:0070330	9	GO:0016705	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen
+GO:0005222	1	GO:0099094	ligand-gated cation channel activity
+GO:0005223	1	GO:0099094	ligand-gated cation channel activity
+GO:0004222	8	GO:0098599	palmitoyl hydrolase activity
+GO:0008227	4	GO:0004930	G protein-coupled receptor activity
+GO:0032934	6	GO:0043167	ion binding
+GO:0004983	4	GO:0004930	G protein-coupled receptor activity
+GO:0008474	8	GO:0098599	palmitoyl hydrolase activity
+GO:0030550	5	GO:0016247	channel regulator activity
+GO:0030552	6	GO:0043167	ion binding
+GO:0030553	6	GO:0043167	ion binding
+GO:0017080	5	GO:0016247	channel regulator activity
+GO:0004930	4	GO:0004930	G protein-coupled receptor activity
+GO:0008200	5	GO:0016247	channel regulator activity
+GO:0098599	8	GO:0098599	palmitoyl hydrolase activity
+GO:0005092	5	GO:0016247	channel regulator activity
+GO:0099094	1	GO:0099094	ligand-gated cation channel activity
+GO:0016538	5	GO:0016247	channel regulator activity
+GO:0017046	6	GO:0043167	ion binding
+GO:0016714	9	GO:0016705	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen
+GO:0016715	9	GO:0016705	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen
+GO:0020037	6	GO:0043167	ion binding
+GO:0015185	2	GO:0015355	secondary active monocarboxylate transmembrane transporter activity
+GO:0030165	6	GO:0043167	ion binding
+GO:0004519	8	GO:0098599	palmitoyl hydrolase activity
+GO:0015125	2	GO:0015355	secondary active monocarboxylate transmembrane transporter activity
+GO:0008028	2	GO:0015355	secondary active monocarboxylate transmembrane transporter activity
+GO:0015114	3	GO:0015144	carbohydrate transmembrane transporter activity
+GO:0016705	9	GO:0016705	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen
+GO:0015355	2	GO:0015355	secondary active monocarboxylate transmembrane transporter activity
+GO:0016709	9	GO:0016705	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen
+GO:0015144	3	GO:0015144	carbohydrate transmembrane transporter activity
+GO:0015651	3	GO:0015144	carbohydrate transmembrane transporter activity
+GO:0005507	6	GO:0043167	ion binding
+GO:0004500	9	GO:0016705	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen
+GO:0090729	5	GO:0016247	channel regulator activity
+GO:0004177	8	GO:0098599	palmitoyl hydrolase activity
+GO:0015347	2	GO:0015355	secondary active monocarboxylate transmembrane transporter activity
+GO:0016624	9	GO:0016705	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen
+GO:0015291	2	GO:0015355	secondary active monocarboxylate transmembrane transporter activity
+GO:0015293	2	GO:0015355	secondary active monocarboxylate transmembrane transporter activity
+GO:0015294	2	GO:0015355	secondary active monocarboxylate transmembrane transporter activity
+GO:0008146	9	GO:0016705	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen
+GO:1904315	1	GO:0099094	ligand-gated cation channel activity
+GO:0004653	9	GO:0016705	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen
+GO:0030295	5	GO:0016247	channel regulator activity
+GO:0003677	6	GO:0043167	ion binding
+GO:0005332	2	GO:0015355	secondary active monocarboxylate transmembrane transporter activity
+GO:0022848	1	GO:0099094	ligand-gated cation channel activity
+GO:0050661	6	GO:0043167	ion binding
+GO:0140161	2	GO:0015355	secondary active monocarboxylate transmembrane transporter activity
+GO:0061665	9	GO:0016705	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen
+GO:0016247	5	GO:0016247	channel regulator activity
+GO:0019237	6	GO:0043167	ion binding
+GO:0004601	9	GO:0016705	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen
+GO:0016941	4	GO:0004930	G protein-coupled receptor activity
+GO:0005499	6	GO:0043167	ion binding
+GO:0005283	2	GO:0015355	secondary active monocarboxylate transmembrane transporter activity
+GO:0046920	9	GO:0016705	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen
+GO:0140142	5	GO:0016247	channel regulator activity
+GO:0019209	5	GO:0016247	channel regulator activity
+GO:0004984	4	GO:0004930	G protein-coupled receptor activity
+GO:0000977	6	GO:0043167	ion binding
+GO:0005230	1	GO:0099094	ligand-gated cation channel activity
+GO:0005231	1	GO:0099094	ligand-gated cation channel activity
+GO:0043565	6	GO:0043167	ion binding
+GO:0090482	3	GO:0015144	carbohydrate transmembrane transporter activity
+GO:0016765	9	GO:0016705	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen
+GO:0005416	2	GO:0015355	secondary active monocarboxylate transmembrane transporter activity
+GO:0031404	6	GO:0043167	ion binding
+GO:0090599	8	GO:0098599	palmitoyl hydrolase activity
+GO:0015199	3	GO:0015144	carbohydrate transmembrane transporter activity

@@ -1,0 +1,260 @@
+GO:0075732	13	GO:0040017	positive regulation of locomotion
+GO:0030473	13	GO:0040017	positive regulation of locomotion
+GO:0001963	1	GO:0051966	regulation of synaptic transmission, glutamatergic
+GO:0090326	13	GO:0040017	positive regulation of locomotion
+GO:0090327	13	GO:0040017	positive regulation of locomotion
+GO:0090329	5	GO:0045005	DNA-dependent DNA replication maintenance of fidelity
+GO:0015671	13	GO:0040017	positive regulation of locomotion
+GO:0030449	13	GO:0040017	positive regulation of locomotion
+GO:0090305	5	GO:0045005	DNA-dependent DNA replication maintenance of fidelity
+GO:0060395	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0030199	14	GO:0051674	localization of cell
+GO:0035641	13	GO:0040017	positive regulation of locomotion
+GO:0030162	4	GO:0060304	regulation of phosphatidylinositol dephosphorylation
+GO:0030168	12	GO:0003008	system process
+GO:0051966	1	GO:0051966	regulation of synaptic transmission, glutamatergic
+GO:0070328	13	GO:0040017	positive regulation of locomotion
+GO:0043063	14	GO:0051674	localization of cell
+GO:0060304	4	GO:0060304	regulation of phosphatidylinositol dephosphorylation
+GO:0071988	13	GO:0040017	positive regulation of locomotion
+GO:0019722	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0009263	5	GO:0045005	DNA-dependent DNA replication maintenance of fidelity
+GO:0000183	5	GO:0045005	DNA-dependent DNA replication maintenance of fidelity
+GO:0032094	11	GO:0071444	cellular response to pheromone
+GO:0090158	14	GO:0051674	localization of cell
+GO:0075509	13	GO:0040017	positive regulation of locomotion
+GO:0016925	3	GO:0018212	peptidyl-tyrosine modification
+GO:0003012	12	GO:0003008	system process
+GO:0032026	13	GO:0040017	positive regulation of locomotion
+GO:0003008	12	GO:0003008	system process
+GO:0000256	4	GO:0060304	regulation of phosphatidylinositol dephosphorylation
+GO:0031099	9	GO:0035272	exocrine system development
+GO:1905885	13	GO:0040017	positive regulation of locomotion
+GO:0030720	6	GO:0007281	germ cell development
+GO:0080182	3	GO:0018212	peptidyl-tyrosine modification
+GO:0006956	13	GO:0040017	positive regulation of locomotion
+GO:0045998	4	GO:0060304	regulation of phosphatidylinositol dephosphorylation
+GO:0030703	6	GO:0007281	germ cell development
+GO:0010862	4	GO:0060304	regulation of phosphatidylinositol dephosphorylation
+GO:0006919	4	GO:0060304	regulation of phosphatidylinositol dephosphorylation
+GO:0044331	14	GO:0051674	localization of cell
+GO:0010877	13	GO:0040017	positive regulation of locomotion
+GO:0045989	12	GO:0003008	system process
+GO:0039573	13	GO:0040017	positive regulation of locomotion
+GO:0045924	10	GO:0034608	vulval location
+GO:0045944	5	GO:0045005	DNA-dependent DNA replication maintenance of fidelity
+GO:0000712	5	GO:0045005	DNA-dependent DNA replication maintenance of fidelity
+GO:0043392	13	GO:0040017	positive regulation of locomotion
+GO:0001080	5	GO:0045005	DNA-dependent DNA replication maintenance of fidelity
+GO:1905515	14	GO:0051674	localization of cell
+GO:0038083	3	GO:0018212	peptidyl-tyrosine modification
+GO:0039693	13	GO:0040017	positive regulation of locomotion
+GO:1904066	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:1904068	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0003391	7	GO:0031175	neuron projection development
+GO:0060788	8	GO:0003417	growth plate cartilage development
+GO:0030574	13	GO:0040017	positive regulation of locomotion
+GO:0030512	11	GO:0071444	cellular response to pheromone
+GO:0042391	12	GO:0003008	system process
+GO:0008063	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:1905634	13	GO:0040017	positive regulation of locomotion
+GO:0070734	3	GO:0018212	peptidyl-tyrosine modification
+GO:0050893	12	GO:0003008	system process
+GO:0030509	11	GO:0071444	cellular response to pheromone
+GO:0008045	7	GO:0031175	neuron projection development
+GO:0009651	13	GO:0040017	positive regulation of locomotion
+GO:0042310	12	GO:0003008	system process
+GO:0034109	14	GO:0051674	localization of cell
+GO:0009620	13	GO:0040017	positive regulation of locomotion
+GO:0050877	12	GO:0003008	system process
+GO:0050817	12	GO:0003008	system process
+GO:1990138	7	GO:0031175	neuron projection development
+GO:0050832	13	GO:0040017	positive regulation of locomotion
+GO:0016059	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0002385	13	GO:0040017	positive regulation of locomotion
+GO:0003416	8	GO:0003417	growth plate cartilage development
+GO:0003417	8	GO:0003417	growth plate cartilage development
+GO:0042461	7	GO:0031175	neuron projection development
+GO:0042462	7	GO:0031175	neuron projection development
+GO:0036065	13	GO:0040017	positive regulation of locomotion
+GO:0034219	13	GO:0040017	positive regulation of locomotion
+GO:0090502	5	GO:0045005	DNA-dependent DNA replication maintenance of fidelity
+GO:0043111	5	GO:0045005	DNA-dependent DNA replication maintenance of fidelity
+GO:0003407	9	GO:0035272	exocrine system development
+GO:0070593	7	GO:0031175	neuron projection development
+GO:0097009	12	GO:0003008	system process
+GO:0002455	13	GO:0040017	positive regulation of locomotion
+GO:0046008	10	GO:0034608	vulval location
+GO:0034773	3	GO:0018212	peptidyl-tyrosine modification
+GO:0070527	12	GO:0003008	system process
+GO:0015074	5	GO:0045005	DNA-dependent DNA replication maintenance of fidelity
+GO:0043252	13	GO:0040017	positive regulation of locomotion
+GO:0035073	9	GO:0035272	exocrine system development
+GO:0035075	11	GO:0071444	cellular response to pheromone
+GO:0035025	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0035010	13	GO:0040017	positive regulation of locomotion
+GO:1904385	11	GO:0071444	cellular response to pheromone
+GO:1990776	11	GO:0071444	cellular response to pheromone
+GO:0042100	13	GO:0040017	positive regulation of locomotion
+GO:0035002	8	GO:0003417	growth plate cartilage development
+GO:0035006	4	GO:0060304	regulation of phosphatidylinositol dephosphorylation
+GO:0035007	4	GO:0060304	regulation of phosphatidylinositol dephosphorylation
+GO:0002168	9	GO:0035272	exocrine system development
+GO:1901048	11	GO:0071444	cellular response to pheromone
+GO:0060633	5	GO:0045005	DNA-dependent DNA replication maintenance of fidelity
+GO:0045005	5	GO:0045005	DNA-dependent DNA replication maintenance of fidelity
+GO:1905941	8	GO:0003417	growth plate cartilage development
+GO:0032222	1	GO:0051966	regulation of synaptic transmission, glutamatergic
+GO:0031175	7	GO:0031175	neuron projection development
+GO:0031110	14	GO:0051674	localization of cell
+GO:0010951	4	GO:0060304	regulation of phosphatidylinositol dephosphorylation
+GO:0009957	8	GO:0003417	growth plate cartilage development
+GO:1905909	8	GO:0003417	growth plate cartilage development
+GO:0031146	4	GO:0060304	regulation of phosphatidylinositol dephosphorylation
+GO:0071316	11	GO:0071444	cellular response to pheromone
+GO:0031102	7	GO:0031175	neuron projection development
+GO:0031103	7	GO:0031175	neuron projection development
+GO:0007391	8	GO:0003417	growth plate cartilage development
+GO:0055090	13	GO:0040017	positive regulation of locomotion
+GO:2000104	5	GO:0045005	DNA-dependent DNA replication maintenance of fidelity
+GO:0051482	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0007368	9	GO:0035272	exocrine system development
+GO:2000292	12	GO:0003008	system process
+GO:2000294	12	GO:0003008	system process
+GO:0038166	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0048168	1	GO:0051966	regulation of synaptic transmission, glutamatergic
+GO:0016339	14	GO:0051674	localization of cell
+GO:0072175	8	GO:0003417	growth plate cartilage development
+GO:0007311	6	GO:0007281	germ cell development
+GO:0018108	3	GO:0018212	peptidyl-tyrosine modification
+GO:0007343	10	GO:0034608	vulval location
+GO:0071419	11	GO:0071444	cellular response to pheromone
+GO:0071444	11	GO:0071444	cellular response to pheromone
+GO:0008406	9	GO:0035272	exocrine system development
+GO:0085029	14	GO:0051674	localization of cell
+GO:0048100	8	GO:0003417	growth plate cartilage development
+GO:0033563	7	GO:0031175	neuron projection development
+GO:0018212	3	GO:0018212	peptidyl-tyrosine modification
+GO:0043562	11	GO:0071444	cellular response to pheromone
+GO:0043553	4	GO:0060304	regulation of phosphatidylinositol dephosphorylation
+GO:0006357	5	GO:0045005	DNA-dependent DNA replication maintenance of fidelity
+GO:0032877	5	GO:0045005	DNA-dependent DNA replication maintenance of fidelity
+GO:0006370	5	GO:0045005	DNA-dependent DNA replication maintenance of fidelity
+GO:0007448	8	GO:0003417	growth plate cartilage development
+GO:0050962	12	GO:0003008	system process
+GO:0007435	8	GO:0003417	growth plate cartilage development
+GO:0034608	10	GO:0034608	vulval location
+GO:0034609	10	GO:0034608	vulval location
+GO:0035335	3	GO:0018212	peptidyl-tyrosine modification
+GO:0006305	5	GO:0045005	DNA-dependent DNA replication maintenance of fidelity
+GO:0006306	5	GO:0045005	DNA-dependent DNA replication maintenance of fidelity
+GO:0050911	12	GO:0003008	system process
+GO:0050914	12	GO:0003008	system process
+GO:0007191	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0007193	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0070983	7	GO:0031175	neuron projection development
+GO:0042595	13	GO:0040017	positive regulation of locomotion
+GO:1902437	10	GO:0034608	vulval location
+GO:0097194	14	GO:0051674	localization of cell
+GO:0008258	9	GO:0035272	exocrine system development
+GO:0007156	14	GO:0051674	localization of cell
+GO:0033674	4	GO:0060304	regulation of phosphatidylinositol dephosphorylation
+GO:0007186	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0007187	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0001748	9	GO:0035272	exocrine system development
+GO:0032530	14	GO:0051674	localization of cell
+GO:0007143	10	GO:0034608	vulval location
+GO:0032536	14	GO:0051674	localization of cell
+GO:0036124	3	GO:0018212	peptidyl-tyrosine modification
+GO:0033602	13	GO:0040017	positive regulation of locomotion
+GO:0001700	9	GO:0035272	exocrine system development
+GO:0045476	6	GO:0007281	germ cell development
+GO:1904778	13	GO:0040017	positive regulation of locomotion
+GO:1904731	13	GO:0040017	positive regulation of locomotion
+GO:0045434	10	GO:0034608	vulval location
+GO:0021556	9	GO:0035272	exocrine system development
+GO:0035199	11	GO:0071444	cellular response to pheromone
+GO:0022617	14	GO:0051674	localization of cell
+GO:0042661	8	GO:0003417	growth plate cartilage development
+GO:0007281	6	GO:0007281	germ cell development
+GO:0007271	1	GO:0051966	regulation of synaptic transmission, glutamatergic
+GO:0007279	6	GO:0007281	germ cell development
+GO:0045199	13	GO:0040017	positive regulation of locomotion
+GO:0007212	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0007213	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0071772	11	GO:0071444	cellular response to pheromone
+GO:0007218	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0071773	11	GO:0071444	cellular response to pheromone
+GO:0035172	14	GO:0051674	localization of cell
+GO:0045187	13	GO:0040017	positive regulation of locomotion
+GO:0045176	13	GO:0040017	positive regulation of locomotion
+GO:0007200	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0045143	14	GO:0051674	localization of cell
+GO:1903746	13	GO:0040017	positive regulation of locomotion
+GO:0045137	9	GO:0035272	exocrine system development
+GO:0045138	9	GO:0035272	exocrine system development
+GO:0006261	5	GO:0045005	DNA-dependent DNA replication maintenance of fidelity
+GO:0040024	9	GO:0035272	exocrine system development
+GO:0040027	8	GO:0003417	growth plate cartilage development
+GO:0098868	8	GO:0003417	growth plate cartilage development
+GO:0040016	9	GO:0035272	exocrine system development
+GO:0040017	13	GO:0040017	positive regulation of locomotion
+GO:0006278	5	GO:0045005	DNA-dependent DNA replication maintenance of fidelity
+GO:0071880	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0061817	14	GO:0051674	localization of cell
+GO:0040039	14	GO:0051674	localization of cell
+GO:0031648	13	GO:0040017	positive regulation of locomotion
+GO:0035272	9	GO:0035272	exocrine system development
+GO:0035277	9	GO:0035272	exocrine system development
+GO:0031638	4	GO:0060304	regulation of phosphatidylinositol dephosphorylation
+GO:0035210	9	GO:0035272	exocrine system development
+GO:0090092	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:2000616	4	GO:0060304	regulation of phosphatidylinositol dephosphorylation
+GO:0097746	12	GO:0003008	system process
+GO:0035249	1	GO:0051966	regulation of synaptic transmission, glutamatergic
+GO:2000648	14	GO:0051674	localization of cell
+GO:0035234	6	GO:0007281	germ cell development
+GO:0035235	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0035239	9	GO:0035272	exocrine system development
+GO:1903818	13	GO:0040017	positive regulation of locomotion
+GO:0043967	3	GO:0018212	peptidyl-tyrosine modification
+GO:0061512	13	GO:0040017	positive regulation of locomotion
+GO:0043922	13	GO:0040017	positive regulation of locomotion
+GO:0043923	13	GO:0040017	positive regulation of locomotion
+GO:0048678	13	GO:0040017	positive regulation of locomotion
+GO:0045752	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0043949	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0035725	13	GO:0040017	positive regulation of locomotion
+GO:1904659	13	GO:0040017	positive regulation of locomotion
+GO:1903580	4	GO:0060304	regulation of phosphatidylinositol dephosphorylation
+GO:0007596	12	GO:0003008	system process
+GO:0007599	12	GO:0003008	system process
+GO:1902847	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0060025	1	GO:0051966	regulation of synaptic transmission, glutamatergic
+GO:0051674	14	GO:0051674	localization of cell
+GO:0060042	8	GO:0003417	growth plate cartilage development
+GO:0098664	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0016540	4	GO:0060304	regulation of phosphatidylinositol dephosphorylation
+GO:0051643	14	GO:0051674	localization of cell
+GO:0098671	13	GO:0040017	positive regulation of locomotion
+GO:0007516	7	GO:0031175	neuron projection development
+GO:0008645	13	GO:0040017	positive regulation of locomotion
+GO:0110077	14	GO:0051674	localization of cell
+GO:0007548	6	GO:0007281	germ cell development
+GO:0015800	13	GO:0040017	positive regulation of locomotion
+GO:0097500	13	GO:0040017	positive regulation of locomotion
+GO:0009307	5	GO:0045005	DNA-dependent DNA replication maintenance of fidelity
+GO:0046693	10	GO:0034608	vulval location
+GO:0030307	14	GO:0051674	localization of cell
+GO:0007614	12	GO:0003008	system process
+GO:0010469	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0046662	10	GO:0034608	vulval location
+GO:0018991	10	GO:0034608	vulval location
+GO:0018996	12	GO:0003008	system process
+GO:0046672	8	GO:0003417	growth plate cartilage development
+GO:0014065	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0014066	2	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0046622	8	GO:0003417	growth plate cartilage development
+GO:0007601	12	GO:0003008	system process
+GO:0007605	12	GO:0003008	system process
+GO:2001269	4	GO:0060304	regulation of phosphatidylinositol dephosphorylation

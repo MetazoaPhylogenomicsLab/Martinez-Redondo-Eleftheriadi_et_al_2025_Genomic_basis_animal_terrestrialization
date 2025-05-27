@@ -1,0 +1,46 @@
+GO:0044423	2	GO:0044423	virion component
+GO:0033650	1	GO:0030430	host cell cytoplasm
+GO:0098975	5	GO:0005576	extracellular region
+GO:0033655	1	GO:0030430	host cell cytoplasm
+GO:0046696	4	GO:0005832	chaperonin-containing T-complex
+GO:0070187	3	GO:0030870	Mre11 complex
+GO:0009897	5	GO:0005576	extracellular region
+GO:0062023	5	GO:0005576	extracellular region
+GO:0030430	1	GO:0030430	host cell cytoplasm
+GO:0033644	1	GO:0030430	host cell cytoplasm
+GO:0033645	1	GO:0030430	host cell cytoplasm
+GO:0098857	5	GO:0005576	extracellular region
+GO:0031463	4	GO:0005832	chaperonin-containing T-complex
+GO:0043657	1	GO:0030430	host cell cytoplasm
+GO:0005615	5	GO:0005576	extracellular region
+GO:0044175	1	GO:0030430	host cell cytoplasm
+GO:0044177	1	GO:0030430	host cell cytoplasm
+GO:0044178	1	GO:0030430	host cell cytoplasm
+GO:0005892	4	GO:0005832	chaperonin-containing T-complex
+GO:0005604	5	GO:0005576	extracellular region
+GO:0043160	4	GO:0005832	chaperonin-containing T-complex
+GO:0043186	4	GO:0005832	chaperonin-containing T-complex
+GO:0001726	5	GO:0005576	extracellular region
+GO:0030870	3	GO:0030870	Mre11 complex
+GO:0001669	4	GO:0005832	chaperonin-containing T-complex
+GO:0000943	3	GO:0030870	Mre11 complex
+GO:0020002	1	GO:0030430	host cell cytoplasm
+GO:0001401	4	GO:0005832	chaperonin-containing T-complex
+GO:0045121	5	GO:0005576	extracellular region
+GO:0033255	3	GO:0030870	Mre11 complex
+GO:0005832	4	GO:0005832	chaperonin-containing T-complex
+GO:0016605	3	GO:0030870	Mre11 complex
+GO:0033557	3	GO:0030870	Mre11 complex
+GO:0001891	5	GO:0005576	extracellular region
+GO:0019028	2	GO:0044423	virion component
+GO:0055036	2	GO:0044423	virion component
+GO:0019031	2	GO:0044423	virion component
+GO:0019033	2	GO:0044423	virion component
+GO:0097546	5	GO:0005576	extracellular region
+GO:0044200	1	GO:0030430	host cell cytoplasm
+GO:0044201	1	GO:0030430	host cell cytoplasm
+GO:0031380	3	GO:0030870	Mre11 complex
+GO:0042025	1	GO:0030430	host cell cytoplasm
+GO:0005576	5	GO:0005576	extracellular region
+GO:0031265	4	GO:0005832	chaperonin-containing T-complex
+GO:0043235	4	GO:0005832	chaperonin-containing T-complex

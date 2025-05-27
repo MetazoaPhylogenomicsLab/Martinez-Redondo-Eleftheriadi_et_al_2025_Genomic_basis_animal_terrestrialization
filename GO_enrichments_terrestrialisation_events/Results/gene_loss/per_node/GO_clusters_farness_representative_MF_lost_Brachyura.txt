@@ -1,0 +1,130 @@
+GO:0008061	2	GO:0071889	14-3-3 protein binding
+GO:0019237	1	GO:0003677	DNA binding
+GO:0005483	8	GO:0140110	transcription regulator activity
+GO:0005509	8	GO:0140110	transcription regulator activity
+GO:0008083	2	GO:0071889	14-3-3 protein binding
+GO:0003755	6	GO:0017171	serine hydrolase activity
+GO:0070851	2	GO:0071889	14-3-3 protein binding
+GO:0001228	8	GO:0140110	transcription regulator activity
+GO:0001216	8	GO:0140110	transcription regulator activity
+GO:0003990	6	GO:0017171	serine hydrolase activity
+GO:0004896	5	GO:0004888	transmembrane signaling receptor activity
+GO:0035613	1	GO:0003677	DNA binding
+GO:0003680	1	GO:0003677	DNA binding
+GO:0003677	1	GO:0003677	DNA binding
+GO:0004861	3	GO:0004862	cAMP-dependent protein kinase inhibitor activity
+GO:0004862	3	GO:0004862	cAMP-dependent protein kinase inhibitor activity
+GO:1990837	1	GO:0003677	DNA binding
+GO:0008270	8	GO:0140110	transcription regulator activity
+GO:0016505	4	GO:0004857	enzyme inhibitor activity
+GO:0008236	6	GO:0017171	serine hydrolase activity
+GO:0071889	2	GO:0071889	14-3-3 protein binding
+GO:0000981	8	GO:0140110	transcription regulator activity
+GO:0008201	2	GO:0071889	14-3-3 protein binding
+GO:0019955	2	GO:0071889	14-3-3 protein binding
+GO:0005179	2	GO:0071889	14-3-3 protein binding
+GO:0000977	1	GO:0003677	DNA binding
+GO:0000978	1	GO:0003677	DNA binding
+GO:0048306	2	GO:0071889	14-3-3 protein binding
+GO:0005125	2	GO:0071889	14-3-3 protein binding
+GO:0005126	2	GO:0071889	14-3-3 protein binding
+GO:0017171	6	GO:0017171	serine hydrolase activity
+GO:0051428	2	GO:0071889	14-3-3 protein binding
+GO:0004252	6	GO:0017171	serine hydrolase activity
+GO:0019865	2	GO:0071889	14-3-3 protein binding
+GO:0030021	8	GO:0140110	transcription regulator activity
+GO:0070530	2	GO:0071889	14-3-3 protein binding
+GO:0030291	3	GO:0004862	cAMP-dependent protein kinase inhibitor activity
+GO:0019900	2	GO:0071889	14-3-3 protein binding
+GO:0019901	2	GO:0071889	14-3-3 protein binding
+GO:0017080	4	GO:0004857	enzyme inhibitor activity
+GO:0120160	2	GO:0071889	14-3-3 protein binding
+GO:0004523	6	GO:0017171	serine hydrolase activity
+GO:0055106	4	GO:0004857	enzyme inhibitor activity
+GO:0030594	5	GO:0004888	transmembrane signaling receptor activity
+GO:0004519	6	GO:0017171	serine hydrolase activity
+GO:0016859	6	GO:0017171	serine hydrolase activity
+GO:0038187	5	GO:0004888	transmembrane signaling receptor activity
+GO:0030246	2	GO:0071889	14-3-3 protein binding
+GO:0043565	1	GO:0003677	DNA binding
+GO:0008603	3	GO:0004862	cAMP-dependent protein kinase inhibitor activity
+GO:0001848	2	GO:0071889	14-3-3 protein binding
+GO:0031005	2	GO:0071889	14-3-3 protein binding
+GO:0043495	8	GO:0140110	transcription regulator activity
+GO:0098632	2	GO:0071889	14-3-3 protein binding
+GO:0003691	1	GO:0003677	DNA binding
+GO:0051015	2	GO:0071889	14-3-3 protein binding
+GO:0032422	1	GO:0003677	DNA binding
+GO:0004983	5	GO:0004888	transmembrane signaling receptor activity
+GO:0003779	2	GO:0071889	14-3-3 protein binding
+GO:0061133	4	GO:0004857	enzyme inhibitor activity
+GO:0004930	5	GO:0004888	transmembrane signaling receptor activity
+GO:1990846	4	GO:0004857	enzyme inhibitor activity
+GO:0004864	4	GO:0004857	enzyme inhibitor activity
+GO:0004865	4	GO:0004857	enzyme inhibitor activity
+GO:0048018	2	GO:0071889	14-3-3 protein binding
+GO:0003953	6	GO:0017171	serine hydrolase activity
+GO:0003700	8	GO:0140110	transcription regulator activity
+GO:0010313	2	GO:0071889	14-3-3 protein binding
+GO:0016798	6	GO:0017171	serine hydrolase activity
+GO:0016504	4	GO:0004857	enzyme inhibitor activity
+GO:0050699	2	GO:0071889	14-3-3 protein binding
+GO:0061809	6	GO:0017171	serine hydrolase activity
+GO:0008307	8	GO:0140110	transcription regulator activity
+GO:0008528	5	GO:0004888	transmembrane signaling receptor activity
+GO:0005178	2	GO:0071889	14-3-3 protein binding
+GO:0001653	5	GO:0004888	transmembrane signaling receptor activity
+GO:0004341	6	GO:0017171	serine hydrolase activity
+GO:0008422	6	GO:0017171	serine hydrolase activity
+GO:0070513	2	GO:0071889	14-3-3 protein binding
+GO:0000900	1	GO:0003677	DNA binding
+GO:0042162	1	GO:0003677	DNA binding
+GO:0004553	6	GO:0017171	serine hydrolase activity
+GO:0051400	2	GO:0071889	14-3-3 protein binding
+GO:0008656	4	GO:0004857	enzyme inhibitor activity
+GO:0005031	5	GO:0004888	transmembrane signaling receptor activity
+GO:0046332	2	GO:0071889	14-3-3 protein binding
+GO:0050135	6	GO:0017171	serine hydrolase activity
+GO:0039660	8	GO:0140110	transcription regulator activity
+GO:0017046	2	GO:0071889	14-3-3 protein binding
+GO:0061783	6	GO:0017171	serine hydrolase activity
+GO:0015926	6	GO:0017171	serine hydrolase activity
+GO:0140416	4	GO:0004857	enzyme inhibitor activity
+GO:0030546	4	GO:0004857	enzyme inhibitor activity
+GO:0005537	2	GO:0071889	14-3-3 protein binding
+GO:0035035	2	GO:0071889	14-3-3 protein binding
+GO:0070325	2	GO:0071889	14-3-3 protein binding
+GO:0005504	2	GO:0071889	14-3-3 protein binding
+GO:0019212	4	GO:0004857	enzyme inhibitor activity
+GO:0070492	2	GO:0071889	14-3-3 protein binding
+GO:0005044	8	GO:0140110	transcription regulator activity
+GO:0070008	6	GO:0017171	serine hydrolase activity
+GO:0042834	2	GO:0071889	14-3-3 protein binding
+GO:0030627	1	GO:0003677	DNA binding
+GO:0000995	8	GO:0140110	transcription regulator activity
+GO:0000213	6	GO:0017171	serine hydrolase activity
+GO:0000217	1	GO:0003677	DNA binding
+GO:0140034	2	GO:0071889	14-3-3 protein binding
+GO:0001227	8	GO:0140110	transcription regulator activity
+GO:0001217	8	GO:0140110	transcription regulator activity
+GO:0098631	2	GO:0071889	14-3-3 protein binding
+GO:0038023	5	GO:0004888	transmembrane signaling receptor activity
+GO:0038024	8	GO:0140110	transcription regulator activity
+GO:0004867	4	GO:0004857	enzyme inhibitor activity
+GO:0004857	4	GO:0004857	enzyme inhibitor activity
+GO:0004190	6	GO:0017171	serine hydrolase activity
+GO:0004888	5	GO:0004888	transmembrane signaling receptor activity
+GO:0019864	2	GO:0071889	14-3-3 protein binding
+GO:0015928	6	GO:0017171	serine hydrolase activity
+GO:0008097	1	GO:0003677	DNA binding
+GO:0050693	2	GO:0071889	14-3-3 protein binding
+GO:0016892	6	GO:0017171	serine hydrolase activity
+GO:0016894	6	GO:0017171	serine hydrolase activity
+GO:0042923	2	GO:0071889	14-3-3 protein binding
+GO:0004560	6	GO:0017171	serine hydrolase activity
+GO:0080030	6	GO:0017171	serine hydrolase activity
+GO:0046872	2	GO:0071889	14-3-3 protein binding
+GO:0035064	2	GO:0071889	14-3-3 protein binding
+GO:0042302	8	GO:0140110	transcription regulator activity
+GO:0050750	2	GO:0071889	14-3-3 protein binding
+GO:0140110	8	GO:0140110	transcription regulator activity

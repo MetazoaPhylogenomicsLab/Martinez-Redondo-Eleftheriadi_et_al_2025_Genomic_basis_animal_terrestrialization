@@ -1,0 +1,273 @@
+GO:0004993	5	GO:0008528	G protein-coupled peptide receptor activity
+GO:0017108	11	GO:0004519	endonuclease activity
+GO:0030291	9	GO:1990846	ribonucleoside-diphosphate reductase inhibitor activity
+GO:0004952	4	GO:0015464	acetylcholine receptor activity
+GO:0005249	8	GO:0005225	volume-sensitive anion channel activity
+GO:0005230	8	GO:0005225	volume-sensitive anion channel activity
+GO:0003990	11	GO:0004519	endonuclease activity
+GO:0004089	12	GO:0016885	ligase activity, forming carbon-carbon bonds
+GO:0004656	12	GO:0016885	ligase activity, forming carbon-carbon bonds
+GO:0099528	5	GO:0008528	G protein-coupled peptide receptor activity
+GO:0099529	4	GO:0015464	acetylcholine receptor activity
+GO:0048018	3	GO:0005102	signaling receptor binding
+GO:0030247	2	GO:0030246	carbohydrate binding
+GO:0003690	1	GO:0008327	methyl-CpG binding
+GO:0005042	6	GO:0038023	signaling receptor activity
+GO:0019798	12	GO:0016885	ligase activity, forming carbon-carbon bonds
+GO:0008188	5	GO:0008528	G protein-coupled peptide receptor activity
+GO:0098960	4	GO:0015464	acetylcholine receptor activity
+GO:0015101	8	GO:0005225	volume-sensitive anion channel activity
+GO:0008800	11	GO:0004519	endonuclease activity
+GO:0042162	1	GO:0008327	methyl-CpG binding
+GO:0004714	4	GO:0015464	acetylcholine receptor activity
+GO:0050839	3	GO:0005102	signaling receptor binding
+GO:0003677	1	GO:0008327	methyl-CpG binding
+GO:0043565	1	GO:0008327	methyl-CpG binding
+GO:0046920	12	GO:0016885	ligase activity, forming carbon-carbon bonds
+GO:1990846	9	GO:1990846	ribonucleoside-diphosphate reductase inhibitor activity
+GO:0000217	1	GO:0008327	methyl-CpG binding
+GO:0031780	3	GO:0005102	signaling receptor binding
+GO:0031781	3	GO:0005102	signaling receptor binding
+GO:0031782	3	GO:0005102	signaling receptor binding
+GO:0031783	3	GO:0005102	signaling receptor binding
+GO:0015277	8	GO:0005225	volume-sensitive anion channel activity
+GO:0061665	12	GO:0016885	ligase activity, forming carbon-carbon bonds
+GO:0031779	3	GO:0005102	signaling receptor binding
+GO:0000981	10	GO:0044183	protein folding chaperone
+GO:0039660	10	GO:0044183	protein folding chaperone
+GO:0008528	5	GO:0008528	G protein-coupled peptide receptor activity
+GO:0070851	3	GO:0005102	signaling receptor binding
+GO:0098631	3	GO:0005102	signaling receptor binding
+GO:0098632	3	GO:0005102	signaling receptor binding
+GO:0004862	9	GO:1990846	ribonucleoside-diphosphate reductase inhibitor activity
+GO:0003700	10	GO:0044183	protein folding chaperone
+GO:0004888	6	GO:0038023	signaling receptor activity
+GO:0016907	4	GO:0015464	acetylcholine receptor activity
+GO:0001653	6	GO:0038023	signaling receptor activity
+GO:0140416	10	GO:0044183	protein folding chaperone
+GO:0000900	1	GO:0008327	methyl-CpG binding
+GO:0031435	3	GO:0005102	signaling receptor binding
+GO:0008327	1	GO:0008327	methyl-CpG binding
+GO:0005121	3	GO:0005102	signaling receptor binding
+GO:0005125	3	GO:0005102	signaling receptor binding
+GO:0008083	3	GO:0005102	signaling receptor binding
+GO:0043027	9	GO:1990846	ribonucleoside-diphosphate reductase inhibitor activity
+GO:0016709	12	GO:0016885	ligase activity, forming carbon-carbon bonds
+GO:0005149	3	GO:0005102	signaling receptor binding
+GO:0015464	4	GO:0015464	acetylcholine receptor activity
+GO:0034235	2	GO:0030246	carbohydrate binding
+GO:1904315	8	GO:0005225	volume-sensitive anion channel activity
+GO:0070573	7	GO:0008233	peptidase activity
+GO:0004586	12	GO:0016885	ligase activity, forming carbon-carbon bonds
+GO:0035312	11	GO:0004519	endonuclease activity
+GO:0004526	11	GO:0004519	endonuclease activity
+GO:0008603	9	GO:1990846	ribonucleoside-diphosphate reductase inhibitor activity
+GO:0000405	1	GO:0008327	methyl-CpG binding
+GO:0004517	12	GO:0016885	ligase activity, forming carbon-carbon bonds
+GO:0004252	7	GO:0008233	peptidase activity
+GO:0030594	6	GO:0038023	signaling receptor activity
+GO:0070996	3	GO:0005102	signaling receptor binding
+GO:0005534	2	GO:0030246	carbohydrate binding
+GO:0008146	12	GO:0016885	ligase activity, forming carbon-carbon bonds
+GO:0038023	6	GO:0038023	signaling receptor activity
+GO:0019237	1	GO:0008327	methyl-CpG binding
+GO:0003691	1	GO:0008327	methyl-CpG binding
+GO:0051381	1	GO:0008327	methyl-CpG binding
+GO:0032422	1	GO:0008327	methyl-CpG binding
+GO:0004984	6	GO:0038023	signaling receptor activity
+GO:0001227	10	GO:0044183	protein folding chaperone
+GO:0001228	10	GO:0044183	protein folding chaperone
+GO:0031208	3	GO:0005102	signaling receptor binding
+GO:0004185	7	GO:0008233	peptidase activity
+GO:0004175	7	GO:0008233	peptidase activity
+GO:0003964	12	GO:0016885	ligase activity, forming carbon-carbon bonds
+GO:0004867	9	GO:1990846	ribonucleoside-diphosphate reductase inhibitor activity
+GO:0004869	9	GO:1990846	ribonucleoside-diphosphate reductase inhibitor activity
+GO:0070026	2	GO:0030246	carbohydrate binding
+GO:0000995	10	GO:0044183	protein folding chaperone
+GO:0043621	3	GO:0005102	signaling receptor binding
+GO:0008236	7	GO:0008233	peptidase activity
+GO:0008237	7	GO:0008233	peptidase activity
+GO:0008238	7	GO:0008233	peptidase activity
+GO:0070006	7	GO:0008233	peptidase activity
+GO:0070008	7	GO:0008233	peptidase activity
+GO:0000977	1	GO:0008327	methyl-CpG binding
+GO:0000978	1	GO:0008327	methyl-CpG binding
+GO:0046872	2	GO:0030246	carbohydrate binding
+GO:0003823	2	GO:0030246	carbohydrate binding
+GO:0005133	3	GO:0005102	signaling receptor binding
+GO:0008422	11	GO:0004519	endonuclease activity
+GO:0005102	3	GO:0005102	signaling receptor binding
+GO:0004222	7	GO:0008233	peptidase activity
+GO:0070530	3	GO:0005102	signaling receptor binding
+GO:0030371	10	GO:0044183	protein folding chaperone
+GO:0120160	2	GO:0030246	carbohydrate binding
+GO:0046332	3	GO:0005102	signaling receptor binding
+GO:0102483	11	GO:0004519	endonuclease activity
+GO:0030246	2	GO:0030246	carbohydrate binding
+GO:0030546	10	GO:0044183	protein folding chaperone
+GO:0005201	10	GO:0044183	protein folding chaperone
+GO:0008097	1	GO:0008327	methyl-CpG binding
+GO:0005539	2	GO:0030246	carbohydrate binding
+GO:0052890	12	GO:0016885	ligase activity, forming carbon-carbon bonds
+GO:0005504	2	GO:0030246	carbohydrate binding
+GO:0004693	12	GO:0016885	ligase activity, forming carbon-carbon bonds
+GO:0004983	5	GO:0008528	G protein-coupled peptide receptor activity
+GO:0070330	12	GO:0016885	ligase activity, forming carbon-carbon bonds
+GO:0050431	3	GO:0005102	signaling receptor binding
+GO:0003995	12	GO:0016885	ligase activity, forming carbon-carbon bonds
+GO:0004945	5	GO:0008528	G protein-coupled peptide receptor activity
+GO:0004930	5	GO:0008528	G protein-coupled peptide receptor activity
+GO:0048306	3	GO:0005102	signaling receptor binding
+GO:0004016	12	GO:0016885	ligase activity, forming carbon-carbon bonds
+GO:0070492	2	GO:0030246	carbohydrate binding
+GO:0005044	10	GO:0044183	protein folding chaperone
+GO:0098505	1	GO:0008327	methyl-CpG binding
+GO:0005031	6	GO:0038023	signaling receptor activity
+GO:0005035	6	GO:0038023	signaling receptor activity
+GO:0140375	6	GO:0038023	signaling receptor activity
+GO:0017060	12	GO:0016885	ligase activity, forming carbon-carbon bonds
+GO:0047685	12	GO:0016885	ligase activity, forming carbon-carbon bonds
+GO:0016500	6	GO:0038023	signaling receptor activity
+GO:0004896	6	GO:0038023	signaling receptor activity
+GO:0008527	6	GO:0038023	signaling receptor activity
+GO:0016936	2	GO:0030246	carbohydrate binding
+GO:0016671	12	GO:0016885	ligase activity, forming carbon-carbon bonds
+GO:0004190	7	GO:0008233	peptidase activity
+GO:0008227	5	GO:0008528	G protein-coupled peptide receptor activity
+GO:0045028	5	GO:0008528	G protein-coupled peptide receptor activity
+GO:0008235	7	GO:0008233	peptidase activity
+GO:0042277	2	GO:0030246	carbohydrate binding
+GO:0008970	11	GO:0004519	endonuclease activity
+GO:0003887	12	GO:0016885	ligase activity, forming carbon-carbon bonds
+GO:0030159	10	GO:0044183	protein folding chaperone
+GO:0042923	2	GO:0030246	carbohydrate binding
+GO:0050681	3	GO:0005102	signaling receptor binding
+GO:0034987	3	GO:0005102	signaling receptor binding
+GO:0046871	2	GO:0030246	carbohydrate binding
+GO:0035325	3	GO:0005102	signaling receptor binding
+GO:0052740	11	GO:0004519	endonuclease activity
+GO:0052739	11	GO:0004519	endonuclease activity
+GO:0004519	11	GO:0004519	endonuclease activity
+GO:0005518	2	GO:0030246	carbohydrate binding
+GO:0102965	12	GO:0016885	ligase activity, forming carbon-carbon bonds
+GO:0030248	2	GO:0030246	carbohydrate binding
+GO:0019864	2	GO:0030246	carbohydrate binding
+GO:0003968	12	GO:0016885	ligase activity, forming carbon-carbon bonds
+GO:0001786	2	GO:0030246	carbohydrate binding
+GO:0044547	3	GO:0005102	signaling receptor binding
+GO:0051087	3	GO:0005102	signaling receptor binding
+GO:0005549	2	GO:0030246	carbohydrate binding
+GO:0061629	3	GO:0005102	signaling receptor binding
+GO:0140297	3	GO:0005102	signaling receptor binding
+GO:0005080	3	GO:0005102	signaling receptor binding
+GO:0034584	1	GO:0008327	methyl-CpG binding
+GO:0005507	2	GO:0030246	carbohydrate binding
+GO:0042834	2	GO:0030246	carbohydrate binding
+GO:0015276	8	GO:0005225	volume-sensitive anion channel activity
+GO:0042802	3	GO:0005102	signaling receptor binding
+GO:0042803	3	GO:0005102	signaling receptor binding
+GO:0008545	12	GO:0016885	ligase activity, forming carbon-carbon bonds
+GO:0008066	6	GO:0038023	signaling receptor activity
+GO:0005139	3	GO:0005102	signaling receptor binding
+GO:0042410	12	GO:0016885	ligase activity, forming carbon-carbon bonds
+GO:0004708	12	GO:0016885	ligase activity, forming carbon-carbon bonds
+GO:0001875	6	GO:0038023	signaling receptor activity
+GO:0004364	12	GO:0016885	ligase activity, forming carbon-carbon bonds
+GO:0004866	9	GO:1990846	ribonucleoside-diphosphate reductase inhibitor activity
+GO:0016615	12	GO:0016885	ligase activity, forming carbon-carbon bonds
+GO:0004859	9	GO:1990846	ribonucleoside-diphosphate reductase inhibitor activity
+GO:0080019	12	GO:0016885	ligase activity, forming carbon-carbon bonds
+GO:0080030	11	GO:0004519	endonuclease activity
+GO:0005272	8	GO:0005225	volume-sensitive anion channel activity
+GO:0005225	8	GO:0005225	volume-sensitive anion channel activity
+GO:0042169	3	GO:0005102	signaling receptor binding
+GO:0048495	3	GO:0005102	signaling receptor binding
+GO:0003682	2	GO:0030246	carbohydrate binding
+GO:0004970	8	GO:0005225	volume-sensitive anion channel activity
+GO:0030492	3	GO:0005102	signaling receptor binding
+GO:0099094	8	GO:0005225	volume-sensitive anion channel activity
+GO:0050480	11	GO:0004519	endonuclease activity
+GO:0004948	5	GO:0008528	G protein-coupled peptide receptor activity
+GO:0008270	2	GO:0030246	carbohydrate binding
+GO:0001530	2	GO:0030246	carbohydrate binding
+GO:0042605	2	GO:0030246	carbohydrate binding
+GO:0004523	11	GO:0004519	endonuclease activity
+GO:0031718	3	GO:0005102	signaling receptor binding
+GO:0043559	3	GO:0005102	signaling receptor binding
+GO:0050693	3	GO:0005102	signaling receptor binding
+GO:0015459	10	GO:0044183	protein folding chaperone
+GO:0030165	3	GO:0005102	signaling receptor binding
+GO:0004181	7	GO:0008233	peptidase activity
+GO:0015574	8	GO:0005225	volume-sensitive anion channel activity
+GO:0043169	2	GO:0030246	carbohydrate binding
+GO:0005315	8	GO:0005225	volume-sensitive anion channel activity
+GO:0038187	6	GO:0038023	signaling receptor activity
+GO:0004687	12	GO:0016885	ligase activity, forming carbon-carbon bonds
+GO:0043035	1	GO:0008327	methyl-CpG binding
+GO:0051920	12	GO:0016885	ligase activity, forming carbon-carbon bonds
+GO:0003714	10	GO:0044183	protein folding chaperone
+GO:0072320	8	GO:0005225	volume-sensitive anion channel activity
+GO:0015026	6	GO:0038023	signaling receptor activity
+GO:0001216	10	GO:0044183	protein folding chaperone
+GO:0001217	10	GO:0044183	protein folding chaperone
+GO:0072341	2	GO:0030246	carbohydrate binding
+GO:0033041	6	GO:0038023	signaling receptor activity
+GO:0097642	5	GO:0008528	G protein-coupled peptide receptor activity
+GO:0097108	3	GO:0005102	signaling receptor binding
+GO:0016889	11	GO:0004519	endonuclease activity
+GO:0031423	3	GO:0005102	signaling receptor binding
+GO:0005550	2	GO:0030246	carbohydrate binding
+GO:0008948	12	GO:0016885	ligase activity, forming carbon-carbon bonds
+GO:0019862	2	GO:0030246	carbohydrate binding
+GO:0051082	3	GO:0005102	signaling receptor binding
+GO:0008483	12	GO:0016885	ligase activity, forming carbon-carbon bonds
+GO:0008474	7	GO:0008233	peptidase activity
+GO:0019842	2	GO:0030246	carbohydrate binding
+GO:0005509	2	GO:0030246	carbohydrate binding
+GO:0044183	10	GO:0044183	protein folding chaperone
+GO:0015232	8	GO:0005225	volume-sensitive anion channel activity
+GO:0008191	9	GO:1990846	ribonucleoside-diphosphate reductase inhibitor activity
+GO:0004738	12	GO:0016885	ligase activity, forming carbon-carbon bonds
+GO:0004739	12	GO:0016885	ligase activity, forming carbon-carbon bonds
+GO:0008012	10	GO:0044183	protein folding chaperone
+GO:0016018	2	GO:0030246	carbohydrate binding
+GO:0051287	1	GO:0008327	methyl-CpG binding
+GO:0008135	1	GO:0008327	methyl-CpG binding
+GO:0003697	1	GO:0008327	methyl-CpG binding
+GO:0070403	1	GO:0008327	methyl-CpG binding
+GO:0004348	11	GO:0004519	endonuclease activity
+GO:0003680	1	GO:0008327	methyl-CpG binding
+GO:0043878	12	GO:0016885	ligase activity, forming carbon-carbon bonds
+GO:0004471	12	GO:0016885	ligase activity, forming carbon-carbon bonds
+GO:0004473	12	GO:0016885	ligase activity, forming carbon-carbon bonds
+GO:0008233	7	GO:0008233	peptidase activity
+GO:0070628	2	GO:0030246	carbohydrate binding
+GO:0090729	10	GO:0044183	protein folding chaperone
+GO:0030550	10	GO:0044183	protein folding chaperone
+GO:0031788	3	GO:0005102	signaling receptor binding
+GO:0030547	10	GO:0044183	protein folding chaperone
+GO:0017171	7	GO:0008233	peptidase activity
+GO:0030060	12	GO:0016885	ligase activity, forming carbon-carbon bonds
+GO:0004197	7	GO:0008233	peptidase activity
+GO:0048019	3	GO:0005102	signaling receptor binding
+GO:0043531	1	GO:0008327	methyl-CpG binding
+GO:0070279	1	GO:0008327	methyl-CpG binding
+GO:0031369	3	GO:0005102	signaling receptor binding
+GO:0004029	12	GO:0016885	ligase activity, forming carbon-carbon bonds
+GO:0004013	11	GO:0004519	endonuclease activity
+GO:0008746	12	GO:0016885	ligase activity, forming carbon-carbon bonds
+GO:0030170	1	GO:0008327	methyl-CpG binding
+GO:0030145	2	GO:0030246	carbohydrate binding
+GO:0005332	8	GO:0005225	volume-sensitive anion channel activity
+GO:0030627	1	GO:0008327	methyl-CpG binding
+GO:0015199	8	GO:0005225	volume-sensitive anion channel activity
+GO:0003743	1	GO:0008327	methyl-CpG binding
+GO:0005496	2	GO:0030246	carbohydrate binding
+GO:0015185	8	GO:0005225	volume-sensitive anion channel activity
+GO:0016885	12	GO:0016885	ligase activity, forming carbon-carbon bonds
+GO:0072349	8	GO:0005225	volume-sensitive anion channel activity
+GO:0015651	8	GO:0005225	volume-sensitive anion channel activity
+GO:0098599	7	GO:0008233	peptidase activity
+GO:0036402	11	GO:0004519	endonuclease activity
+GO:0033130	3	GO:0005102	signaling receptor binding

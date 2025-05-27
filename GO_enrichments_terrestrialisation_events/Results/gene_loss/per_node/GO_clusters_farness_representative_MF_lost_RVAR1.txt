@@ -1,0 +1,63 @@
+GO:0016840	4	GO:0016840	carbon-nitrogen lyase activity
+GO:0004222	4	GO:0016840	carbon-nitrogen lyase activity
+GO:0038187	1	GO:0004930	G protein-coupled receptor activity
+GO:0004364	4	GO:0016840	carbon-nitrogen lyase activity
+GO:0035639	5	GO:0035639	purine ribonucleoside triphosphate binding
+GO:0005509	5	GO:0035639	purine ribonucleoside triphosphate binding
+GO:0044183	4	GO:0016840	carbon-nitrogen lyase activity
+GO:0061809	4	GO:0016840	carbon-nitrogen lyase activity
+GO:0070976	6	GO:0019955	cytokine binding
+GO:0004983	1	GO:0004930	G protein-coupled receptor activity
+GO:0004060	2	GO:1990189	peptide-serine-N-acetyltransferase activity
+GO:0050431	6	GO:0019955	cytokine binding
+GO:0019955	6	GO:0019955	cytokine binding
+GO:0004930	1	GO:0004930	G protein-coupled receptor activity
+GO:0003964	4	GO:0016840	carbon-nitrogen lyase activity
+GO:0004675	4	GO:0016840	carbon-nitrogen lyase activity
+GO:0030246	6	GO:0019955	cytokine binding
+GO:0031210	5	GO:0035639	purine ribonucleoside triphosphate binding
+GO:0008188	1	GO:0004930	G protein-coupled receptor activity
+GO:0140375	1	GO:0004930	G protein-coupled receptor activity
+GO:0045296	6	GO:0019955	cytokine binding
+GO:0004712	4	GO:0016840	carbon-nitrogen lyase activity
+GO:0004714	4	GO:0016840	carbon-nitrogen lyase activity
+GO:0004601	4	GO:0016840	carbon-nitrogen lyase activity
+GO:0004715	4	GO:0016840	carbon-nitrogen lyase activity
+GO:0004602	4	GO:0016840	carbon-nitrogen lyase activity
+GO:0005007	4	GO:0016840	carbon-nitrogen lyase activity
+GO:0036122	6	GO:0019955	cytokine binding
+GO:0017076	5	GO:0035639	purine ribonucleoside triphosphate binding
+GO:0016503	1	GO:0004930	G protein-coupled receptor activity
+GO:0042834	5	GO:0035639	purine ribonucleoside triphosphate binding
+GO:0031683	6	GO:0019955	cytokine binding
+GO:0097367	6	GO:0019955	cytokine binding
+GO:0001530	5	GO:0035639	purine ribonucleoside triphosphate binding
+GO:0050135	4	GO:0016840	carbon-nitrogen lyase activity
+GO:1990189	2	GO:1990189	peptide-serine-N-acetyltransferase activity
+GO:0046790	6	GO:0019955	cytokine binding
+GO:0002020	6	GO:0019955	cytokine binding
+GO:0004896	1	GO:0004930	G protein-coupled receptor activity
+GO:0008528	1	GO:0004930	G protein-coupled receptor activity
+GO:0003730	5	GO:0035639	purine ribonucleoside triphosphate binding
+GO:0098632	6	GO:0019955	cytokine binding
+GO:0008270	5	GO:0035639	purine ribonucleoside triphosphate binding
+GO:0008999	2	GO:1990189	peptide-serine-N-acetyltransferase activity
+GO:0008235	4	GO:0016840	carbon-nitrogen lyase activity
+GO:0031435	6	GO:0019955	cytokine binding
+GO:0033130	6	GO:0019955	cytokine binding
+GO:0015026	1	GO:0004930	G protein-coupled receptor activity
+GO:0005154	6	GO:0019955	cytokine binding
+GO:0008061	5	GO:0035639	purine ribonucleoside triphosphate binding
+GO:0047886	4	GO:0016840	carbon-nitrogen lyase activity
+GO:0019838	6	GO:0019955	cytokine binding
+GO:0016413	2	GO:1990189	peptide-serine-N-acetyltransferase activity
+GO:0001604	1	GO:0004930	G protein-coupled receptor activity
+GO:0004104	4	GO:0016840	carbon-nitrogen lyase activity
+GO:0017151	6	GO:0019955	cytokine binding
+GO:0051082	6	GO:0019955	cytokine binding
+GO:0032553	5	GO:0035639	purine ribonucleoside triphosphate binding
+GO:0032555	5	GO:0035639	purine ribonucleoside triphosphate binding
+GO:0004519	4	GO:0016840	carbon-nitrogen lyase activity
+GO:0005524	5	GO:0035639	purine ribonucleoside triphosphate binding
+GO:0004252	4	GO:0016840	carbon-nitrogen lyase activity
+GO:0051787	6	GO:0019955	cytokine binding

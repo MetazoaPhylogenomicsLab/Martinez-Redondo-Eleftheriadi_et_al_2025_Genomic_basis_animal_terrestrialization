@@ -1,0 +1,739 @@
+GO:0032834	9	GO:0045580	regulation of T cell differentiation
+GO:1903076	18	GO:0006909	phagocytosis
+GO:0000916	16	GO:0045229	external encapsulating structure organization
+GO:0050729	21	GO:0006955	immune response
+GO:0044089	15	GO:0045787	positive regulation of cell cycle
+GO:0090426	16	GO:0045229	external encapsulating structure organization
+GO:0090444	11	GO:0021551	central nervous system morphogenesis
+GO:0051962	11	GO:0021551	central nervous system morphogenesis
+GO:0009746	21	GO:0006955	immune response
+GO:0051969	15	GO:0045787	positive regulation of cell cycle
+GO:0009749	21	GO:0006955	immune response
+GO:1901074	18	GO:0006909	phagocytosis
+GO:1902004	7	GO:0051092	positive regulation of NF-kappaB transcription factor activity
+GO:1901076	18	GO:0006909	phagocytosis
+GO:0051971	15	GO:0045787	positive regulation of cell cycle
+GO:0021675	11	GO:0021551	central nervous system morphogenesis
+GO:0048749	11	GO:0021551	central nervous system morphogenesis
+GO:0048706	11	GO:0021551	central nervous system morphogenesis
+GO:0070262	4	GO:0070580	base J metabolic process
+GO:0007602	2	GO:0007165	signal transduction
+GO:0007603	2	GO:0007165	signal transduction
+GO:0031532	16	GO:0045229	external encapsulating structure organization
+GO:0034393	13	GO:2000106	regulation of leukocyte apoptotic process
+GO:0032675	3	GO:1903555	regulation of tumor necrosis factor superfamily cytokine production
+GO:1904600	16	GO:0045229	external encapsulating structure organization
+GO:0048880	11	GO:0021551	central nervous system morphogenesis
+GO:0045760	15	GO:0045787	positive regulation of cell cycle
+GO:0000753	10	GO:0030727	germarium-derived female germ-line cyst formation
+GO:0030168	19	GO:0001775	cell activation
+GO:0042531	6	GO:1902947	regulation of tau-protein kinase activity
+GO:0034315	14	GO:1902905	positive regulation of supramolecular fiber organization
+GO:0007342	10	GO:0030727	germarium-derived female germ-line cyst formation
+GO:0043652	18	GO:0006909	phagocytosis
+GO:0071467	21	GO:0006955	immune response
+GO:0071468	21	GO:0006955	immune response
+GO:0048592	11	GO:0021551	central nervous system morphogenesis
+GO:0071482	21	GO:0006955	immune response
+GO:1901678	18	GO:0006909	phagocytosis
+GO:0046068	4	GO:0070580	base J metabolic process
+GO:0007465	11	GO:0021551	central nervous system morphogenesis
+GO:0010835	6	GO:1902947	regulation of tau-protein kinase activity
+GO:0060550	6	GO:1902947	regulation of tau-protein kinase activity
+GO:0022400	2	GO:0007165	signal transduction
+GO:0060552	6	GO:1902947	regulation of tau-protein kinase activity
+GO:0060557	7	GO:0051092	positive regulation of NF-kappaB transcription factor activity
+GO:0007422	11	GO:0021551	central nervous system morphogenesis
+GO:0051712	15	GO:0045787	positive regulation of cell cycle
+GO:0016476	11	GO:0021551	central nervous system morphogenesis
+GO:0034446	11	GO:0021551	central nervous system morphogenesis
+GO:0031382	10	GO:0030727	germarium-derived female germ-line cyst formation
+GO:0010037	21	GO:0006955	immune response
+GO:0030225	11	GO:0021551	central nervous system morphogenesis
+GO:1904457	15	GO:0045787	positive regulation of cell cycle
+GO:1902315	4	GO:0070580	base J metabolic process
+GO:0070050	19	GO:0001775	cell activation
+GO:0048662	15	GO:0045787	positive regulation of cell cycle
+GO:0031334	14	GO:1902905	positive regulation of supramolecular fiber organization
+GO:0002250	21	GO:0006955	immune response
+GO:0002281	19	GO:0001775	cell activation
+GO:0071902	6	GO:1902947	regulation of tau-protein kinase activity
+GO:0009637	21	GO:0006955	immune response
+GO:0016198	11	GO:0021551	central nervous system morphogenesis
+GO:0016199	11	GO:0021551	central nervous system morphogenesis
+GO:0051092	7	GO:0051092	positive regulation of NF-kappaB transcription factor activity
+GO:1903475	16	GO:0045229	external encapsulating structure organization
+GO:1903478	16	GO:0045229	external encapsulating structure organization
+GO:1903479	16	GO:0045229	external encapsulating structure organization
+GO:0007186	2	GO:0007165	signal transduction
+GO:0007188	2	GO:0007165	signal transduction
+GO:0150063	11	GO:0021551	central nervous system morphogenesis
+GO:0006957	1	GO:0098542	defense response to other organism
+GO:0046697	11	GO:0021551	central nervous system morphogenesis
+GO:0010508	6	GO:1902947	regulation of tau-protein kinase activity
+GO:0042331	21	GO:0006955	immune response
+GO:0051017	16	GO:0045229	external encapsulating structure organization
+GO:0006182	4	GO:0070580	base J metabolic process
+GO:2000689	16	GO:0045229	external encapsulating structure organization
+GO:0034109	19	GO:0001775	cell activation
+GO:0051044	7	GO:0051092	positive regulation of NF-kappaB transcription factor activity
+GO:0045500	11	GO:0021551	central nervous system morphogenesis
+GO:0070527	19	GO:0001775	cell activation
+GO:0042307	18	GO:0006909	phagocytosis
+GO:0033141	6	GO:1902947	regulation of tau-protein kinase activity
+GO:0071216	19	GO:0001775	cell activation
+GO:0071244	21	GO:0006955	immune response
+GO:0097191	2	GO:0007165	signal transduction
+GO:0042461	11	GO:0021551	central nervous system morphogenesis
+GO:0034284	21	GO:0006955	immune response
+GO:0045672	9	GO:0045580	regulation of T cell differentiation
+GO:0010634	12	GO:0002685	regulation of leukocyte migration
+GO:0030866	16	GO:0045229	external encapsulating structure organization
+GO:0098908	15	GO:0045787	positive regulation of cell cycle
+GO:1902975	4	GO:0070580	base J metabolic process
+GO:0007212	2	GO:0007165	signal transduction
+GO:0001774	19	GO:0001775	cell activation
+GO:0007216	2	GO:0007165	signal transduction
+GO:0070650	16	GO:0045229	external encapsulating structure organization
+GO:1902948	6	GO:1902947	regulation of tau-protein kinase activity
+GO:0001745	11	GO:0021551	central nervous system morphogenesis
+GO:0039652	7	GO:0051092	positive regulation of NF-kappaB transcription factor activity
+GO:0052652	4	GO:0070580	base J metabolic process
+GO:0009453	21	GO:0006955	immune response
+GO:0060333	2	GO:0007165	signal transduction
+GO:0003031	21	GO:0006955	immune response
+GO:0001893	11	GO:0021551	central nervous system morphogenesis
+GO:0030590	11	GO:0021551	central nervous system morphogenesis
+GO:1902292	4	GO:0070580	base J metabolic process
+GO:2000309	3	GO:1903555	regulation of tumor necrosis factor superfamily cytokine production
+GO:0009190	4	GO:0070580	base J metabolic process
+GO:0030511	2	GO:0007165	signal transduction
+GO:0001845	16	GO:0045229	external encapsulating structure organization
+GO:0019932	2	GO:0007165	signal transduction
+GO:0019935	2	GO:0007165	signal transduction
+GO:0050907	21	GO:0006955	immune response
+GO:0009187	4	GO:0070580	base J metabolic process
+GO:0030500	11	GO:0021551	central nervous system morphogenesis
+GO:0032755	3	GO:1903555	regulation of tumor necrosis factor superfamily cytokine production
+GO:2000425	15	GO:0045787	positive regulation of cell cycle
+GO:2000427	15	GO:0045787	positive regulation of cell cycle
+GO:0098787	4	GO:0070580	base J metabolic process
+GO:0098789	4	GO:0070580	base J metabolic process
+GO:1901216	15	GO:0045787	positive regulation of cell cycle
+GO:0032722	3	GO:1903555	regulation of tumor necrosis factor superfamily cytokine production
+GO:0040038	10	GO:0030727	germarium-derived female germ-line cyst formation
+GO:0032747	3	GO:1903555	regulation of tumor necrosis factor superfamily cytokine production
+GO:0001582	21	GO:0006955	immune response
+GO:0032735	3	GO:1903555	regulation of tumor necrosis factor superfamily cytokine production
+GO:0048143	11	GO:0021551	central nervous system morphogenesis
+GO:0051385	21	GO:0006955	immune response
+GO:0016056	2	GO:0007165	signal transduction
+GO:0032700	3	GO:1903555	regulation of tumor necrosis factor superfamily cytokine production
+GO:0016059	2	GO:0007165	signal transduction
+GO:0045429	7	GO:0051092	positive regulation of NF-kappaB transcription factor activity
+GO:1905155	14	GO:1902905	positive regulation of supramolecular fiber organization
+GO:0000413	4	GO:0070580	base J metabolic process
+GO:0071520	16	GO:0045229	external encapsulating structure organization
+GO:0015886	18	GO:0006909	phagocytosis
+GO:0090312	6	GO:1902947	regulation of tau-protein kinase activity
+GO:0060135	10	GO:0030727	germarium-derived female germ-line cyst formation
+GO:0032095	21	GO:0006955	immune response
+GO:0050796	18	GO:0006909	phagocytosis
+GO:0060100	14	GO:1902905	positive regulation of supramolecular fiber organization
+GO:0050764	15	GO:0045787	positive regulation of cell cycle
+GO:0050766	15	GO:0045787	positive regulation of cell cycle
+GO:0050767	11	GO:0021551	central nervous system morphogenesis
+GO:0050769	9	GO:0045580	regulation of T cell differentiation
+GO:0001654	11	GO:0021551	central nervous system morphogenesis
+GO:1903846	15	GO:0045787	positive regulation of cell cycle
+GO:0050911	21	GO:0006955	immune response
+GO:0050912	21	GO:0006955	immune response
+GO:1902991	7	GO:0051092	positive regulation of NF-kappaB transcription factor activity
+GO:1902993	7	GO:0051092	positive regulation of NF-kappaB transcription factor activity
+GO:0002285	19	GO:0001775	cell activation
+GO:0002286	19	GO:0001775	cell activation
+GO:0002287	19	GO:0001775	cell activation
+GO:0042362	5	GO:0015979	photosynthesis
+GO:0042368	4	GO:0070580	base J metabolic process
+GO:0048708	11	GO:0021551	central nervous system morphogenesis
+GO:0002274	19	GO:0001775	cell activation
+GO:0002275	19	GO:0001775	cell activation
+GO:0046136	7	GO:0051092	positive regulation of NF-kappaB transcription factor activity
+GO:0042359	4	GO:0070580	base J metabolic process
+GO:0007218	2	GO:0007165	signal transduction
+GO:0006809	5	GO:0015979	photosynthesis
+GO:0120031	16	GO:0045229	external encapsulating structure organization
+GO:0006596	4	GO:0070580	base J metabolic process
+GO:0016064	21	GO:0006955	immune response
+GO:0061900	19	GO:0001775	cell activation
+GO:0000915	16	GO:0045229	external encapsulating structure organization
+GO:0002204	4	GO:0070580	base J metabolic process
+GO:0002208	11	GO:0021551	central nervous system morphogenesis
+GO:1902947	6	GO:1902947	regulation of tau-protein kinase activity
+GO:0032273	14	GO:1902905	positive regulation of supramolecular fiber organization
+GO:0061059	2	GO:0007165	signal transduction
+GO:2000106	13	GO:2000106	regulation of leukocyte apoptotic process
+GO:2000107	13	GO:2000106	regulation of leukocyte apoptotic process
+GO:0042306	18	GO:0006909	phagocytosis
+GO:0002790	18	GO:0006909	phagocytosis
+GO:0045830	7	GO:0051092	positive regulation of NF-kappaB transcription factor activity
+GO:0140546	1	GO:0098542	defense response to other organism
+GO:1902905	14	GO:1902905	positive regulation of supramolecular fiber organization
+GO:0002761	9	GO:0045580	regulation of T cell differentiation
+GO:0002763	9	GO:0045580	regulation of T cell differentiation
+GO:0046957	21	GO:0006955	immune response
+GO:0023061	18	GO:0006909	phagocytosis
+GO:0050731	6	GO:1902947	regulation of tau-protein kinase activity
+GO:0023058	2	GO:0007165	signal transduction
+GO:0000750	2	GO:0007165	signal transduction
+GO:0002777	4	GO:0070580	base J metabolic process
+GO:0006508	4	GO:0070580	base J metabolic process
+GO:0045591	9	GO:0045580	regulation of T cell differentiation
+GO:0006509	4	GO:0070580	base J metabolic process
+GO:0014002	11	GO:0021551	central nervous system morphogenesis
+GO:0002714	21	GO:0006955	immune response
+GO:0042475	11	GO:0021551	central nervous system morphogenesis
+GO:0072535	3	GO:1903555	regulation of tumor necrosis factor superfamily cytokine production
+GO:0046209	5	GO:0015979	photosynthesis
+GO:0061709	16	GO:0045229	external encapsulating structure organization
+GO:0000749	21	GO:0006955	immune response
+GO:0045580	9	GO:0045580	regulation of T cell differentiation
+GO:0045582	9	GO:0045580	regulation of T cell differentiation
+GO:0002700	3	GO:1903555	regulation of tumor necrosis factor superfamily cytokine production
+GO:0002702	3	GO:1903555	regulation of tumor necrosis factor superfamily cytokine production
+GO:1902003	7	GO:0051092	positive regulation of NF-kappaB transcription factor activity
+GO:0045589	9	GO:0045580	regulation of T cell differentiation
+GO:0043550	6	GO:1902947	regulation of tau-protein kinase activity
+GO:0043551	6	GO:1902947	regulation of tau-protein kinase activity
+GO:0030072	18	GO:0006909	phagocytosis
+GO:0035162	11	GO:0021551	central nervous system morphogenesis
+GO:0072698	18	GO:0006909	phagocytosis
+GO:0150076	21	GO:0006955	immune response
+GO:0002891	21	GO:0006955	immune response
+GO:0051607	1	GO:0098542	defense response to other organism
+GO:0051495	14	GO:1902905	positive regulation of supramolecular fiber organization
+GO:0034390	13	GO:2000106	regulation of leukocyte apoptotic process
+GO:0030031	16	GO:0045229	external encapsulating structure organization
+GO:0034391	13	GO:2000106	regulation of leukocyte apoptotic process
+GO:0032005	2	GO:0007165	signal transduction
+GO:0002821	21	GO:0006955	immune response
+GO:0002824	21	GO:0006955	immune response
+GO:2000780	8	GO:2000779	regulation of double-strand break repair
+GO:2000781	8	GO:2000779	regulation of double-strand break repair
+GO:0006606	18	GO:0006909	phagocytosis
+GO:0033138	6	GO:1902947	regulation of tau-protein kinase activity
+GO:0033139	6	GO:1902947	regulation of tau-protein kinase activity
+GO:0019236	21	GO:0006955	immune response
+GO:2000779	8	GO:2000779	regulation of double-strand break repair
+GO:2000042	8	GO:2000779	regulation of double-strand break repair
+GO:0031343	15	GO:0045787	positive regulation of cell cycle
+GO:0031349	21	GO:0006955	immune response
+GO:0043367	9	GO:0045580	regulation of T cell differentiation
+GO:0042116	19	GO:0001775	cell activation
+GO:0034341	1	GO:0098542	defense response to other organism
+GO:0048660	15	GO:0045787	positive regulation of cell cycle
+GO:0010921	6	GO:1902947	regulation of tau-protein kinase activity
+GO:0010922	6	GO:1902947	regulation of tau-protein kinase activity
+GO:0048659	19	GO:0001775	cell activation
+GO:0043370	9	GO:0045580	regulation of T cell differentiation
+GO:0002805	7	GO:0051092	positive regulation of NF-kappaB transcription factor activity
+GO:0043372	9	GO:0045580	regulation of T cell differentiation
+GO:0002807	7	GO:0051092	positive regulation of NF-kappaB transcription factor activity
+GO:0045670	9	GO:0045580	regulation of T cell differentiation
+GO:0031638	4	GO:0070580	base J metabolic process
+GO:0043654	18	GO:0006909	phagocytosis
+GO:0045621	9	GO:0045580	regulation of T cell differentiation
+GO:0032829	9	GO:0045580	regulation of T cell differentiation
+GO:0045637	9	GO:0045580	regulation of T cell differentiation
+GO:0045639	9	GO:0045580	regulation of T cell differentiation
+GO:0032831	9	GO:0045580	regulation of T cell differentiation
+GO:0032832	9	GO:0045580	regulation of T cell differentiation
+GO:0002562	4	GO:0070580	base J metabolic process
+GO:0017085	21	GO:0006955	immune response
+GO:0046824	15	GO:0045787	positive regulation of cell cycle
+GO:0016540	4	GO:0070580	base J metabolic process
+GO:0019724	21	GO:0006955	immune response
+GO:0019731	1	GO:0098542	defense response to other organism
+GO:1904407	6	GO:1902947	regulation of tau-protein kinase activity
+GO:0042982	4	GO:0070580	base J metabolic process
+GO:0042987	4	GO:0070580	base J metabolic process
+GO:0099024	16	GO:0045229	external encapsulating structure organization
+GO:0045428	7	GO:0051092	positive regulation of NF-kappaB transcription factor activity
+GO:0010001	11	GO:0021551	central nervous system morphogenesis
+GO:0002696	15	GO:0045787	positive regulation of cell cycle
+GO:0002699	15	GO:0045787	positive regulation of cell cycle
+GO:0002361	9	GO:0045580	regulation of T cell differentiation
+GO:0002381	21	GO:0006955	immune response
+GO:0035036	10	GO:0030727	germarium-derived female germ-line cyst formation
+GO:0035710	19	GO:0001775	cell activation
+GO:1990758	17	GO:0051988	regulation of attachment of spindle microtubules to kinetochore
+GO:0010893	7	GO:0051092	positive regulation of NF-kappaB transcription factor activity
+GO:0007310	10	GO:0030727	germarium-derived female germ-line cyst formation
+GO:0051251	15	GO:0045787	positive regulation of cell cycle
+GO:0007313	10	GO:0030727	germarium-derived female germ-line cyst formation
+GO:1903708	9	GO:0045580	regulation of T cell differentiation
+GO:0009615	1	GO:0098542	defense response to other organism
+GO:0045190	4	GO:0070580	base J metabolic process
+GO:0045191	7	GO:0051092	positive regulation of NF-kappaB transcription factor activity
+GO:0007340	10	GO:0030727	germarium-derived female germ-line cyst formation
+GO:0033002	19	GO:0001775	cell activation
+GO:0051984	15	GO:0045787	positive regulation of cell cycle
+GO:0051987	17	GO:0051988	regulation of attachment of spindle microtubules to kinetochore
+GO:0051988	17	GO:0051988	regulation of attachment of spindle microtubules to kinetochore
+GO:0031112	14	GO:1902905	positive regulation of supramolecular fiber organization
+GO:0039654	16	GO:0045229	external encapsulating structure organization
+GO:0031116	14	GO:1902905	positive regulation of supramolecular fiber organization
+GO:0042048	21	GO:0006955	immune response
+GO:0007306	10	GO:0030727	germarium-derived female germ-line cyst formation
+GO:0051249	15	GO:0045787	positive regulation of cell cycle
+GO:0002637	3	GO:1903555	regulation of tumor necrosis factor superfamily cytokine production
+GO:2000514	9	GO:0045580	regulation of T cell differentiation
+GO:0002639	3	GO:1903555	regulation of tumor necrosis factor superfamily cytokine production
+GO:2000516	9	GO:0045580	regulation of T cell differentiation
+GO:0010824	14	GO:1902905	positive regulation of supramolecular fiber organization
+GO:0031134	17	GO:0051988	regulation of attachment of spindle microtubules to kinetochore
+GO:0032660	3	GO:1903555	regulation of tumor necrosis factor superfamily cytokine production
+GO:0032667	3	GO:1903555	regulation of tumor necrosis factor superfamily cytokine production
+GO:0032655	3	GO:1903555	regulation of tumor necrosis factor superfamily cytokine production
+GO:0071887	13	GO:2000106	regulation of leukocyte apoptotic process
+GO:0030388	5	GO:0015979	photosynthesis
+GO:0006959	21	GO:0006955	immune response
+GO:0030656	7	GO:0051092	positive regulation of NF-kappaB transcription factor activity
+GO:0015917	18	GO:0006909	phagocytosis
+GO:0032620	3	GO:1903555	regulation of tumor necrosis factor superfamily cytokine production
+GO:0032627	3	GO:1903555	regulation of tumor necrosis factor superfamily cytokine production
+GO:0030316	11	GO:0021551	central nervous system morphogenesis
+GO:0032615	3	GO:1903555	regulation of tumor necrosis factor superfamily cytokine production
+GO:0002460	21	GO:0006955	immune response
+GO:0015939	4	GO:0070580	base J metabolic process
+GO:0070997	19	GO:0001775	cell activation
+GO:0031297	4	GO:0070580	base J metabolic process
+GO:0032642	3	GO:1903555	regulation of tumor necrosis factor superfamily cytokine production
+GO:0050435	4	GO:0070580	base J metabolic process
+GO:0006911	18	GO:0006909	phagocytosis
+GO:0016444	4	GO:0070580	base J metabolic process
+GO:0016447	4	GO:0070580	base J metabolic process
+GO:0000463	4	GO:0070580	base J metabolic process
+GO:1901214	15	GO:0045787	positive regulation of cell cycle
+GO:1904980	14	GO:1902905	positive regulation of supramolecular fiber organization
+GO:0008592	2	GO:0007165	signal transduction
+GO:0031268	16	GO:0045229	external encapsulating structure organization
+GO:0000480	4	GO:0070580	base J metabolic process
+GO:0032602	3	GO:1903555	regulation of tumor necrosis factor superfamily cytokine production
+GO:0000470	4	GO:0070580	base J metabolic process
+GO:0070227	13	GO:2000106	regulation of leukocyte apoptotic process
+GO:0000472	4	GO:0070580	base J metabolic process
+GO:0070228	13	GO:2000106	regulation of leukocyte apoptotic process
+GO:0070229	13	GO:2000106	regulation of leukocyte apoptotic process
+GO:0034250	6	GO:1902947	regulation of tau-protein kinase activity
+GO:0046631	19	GO:0001775	cell activation
+GO:0002440	3	GO:1903555	regulation of tumor necrosis factor superfamily cytokine production
+GO:0046632	9	GO:0045580	regulation of T cell differentiation
+GO:0046634	9	GO:0045580	regulation of T cell differentiation
+GO:0002443	19	GO:0001775	cell activation
+GO:0046635	9	GO:0045580	regulation of T cell differentiation
+GO:0046637	9	GO:0045580	regulation of T cell differentiation
+GO:0046638	9	GO:0045580	regulation of T cell differentiation
+GO:0010569	8	GO:2000779	regulation of double-strand break repair
+GO:0051043	7	GO:0051092	positive regulation of NF-kappaB transcription factor activity
+GO:0060551	6	GO:1902947	regulation of tau-protein kinase activity
+GO:0070231	13	GO:2000106	regulation of leukocyte apoptotic process
+GO:0070232	13	GO:2000106	regulation of leukocyte apoptotic process
+GO:0060556	7	GO:0051092	positive regulation of NF-kappaB transcription factor activity
+GO:0070233	13	GO:2000106	regulation of leukocyte apoptotic process
+GO:0031214	11	GO:0021551	central nervous system morphogenesis
+GO:1900426	1	GO:0098542	defense response to other organism
+GO:0046605	14	GO:1902905	positive regulation of supramolecular fiber organization
+GO:0032481	3	GO:1903555	regulation of tumor necrosis factor superfamily cytokine production
+GO:0052129	21	GO:0006955	immune response
+GO:2000307	3	GO:1903555	regulation of tumor necrosis factor superfamily cytokine production
+GO:1902407	16	GO:0045229	external encapsulating structure organization
+GO:0060549	6	GO:1902947	regulation of tau-protein kinase activity
+GO:0043277	18	GO:0006909	phagocytosis
+GO:0034205	4	GO:0070580	base J metabolic process
+GO:0045911	8	GO:2000779	regulation of double-strand break repair
+GO:0045940	7	GO:0051092	positive regulation of NF-kappaB transcription factor activity
+GO:0043247	8	GO:2000779	regulation of double-strand break repair
+GO:0046425	2	GO:0007165	signal transduction
+GO:0009110	5	GO:0015979	photosynthesis
+GO:1905508	18	GO:0006909	phagocytosis
+GO:0071507	2	GO:0007165	signal transduction
+GO:0098722	19	GO:0001775	cell activation
+GO:0098728	10	GO:0030727	germarium-derived female germ-line cyst formation
+GO:0045066	9	GO:0045580	regulation of T cell differentiation
+GO:0010660	13	GO:2000106	regulation of leukocyte apoptotic process
+GO:0010661	13	GO:2000106	regulation of leukocyte apoptotic process
+GO:0010657	13	GO:2000106	regulation of leukocyte apoptotic process
+GO:0045087	1	GO:0098542	defense response to other organism
+GO:0010324	16	GO:0045229	external encapsulating structure organization
+GO:0045752	2	GO:0007165	signal transduction
+GO:0097696	2	GO:0007165	signal transduction
+GO:0045787	15	GO:0045787	positive regulation of cell cycle
+GO:2001057	4	GO:0070580	base J metabolic process
+GO:0080164	6	GO:1902947	regulation of tau-protein kinase activity
+GO:1904892	2	GO:0007165	signal transduction
+GO:1902107	9	GO:0045580	regulation of T cell differentiation
+GO:2001022	15	GO:0045787	positive regulation of cell cycle
+GO:0010632	12	GO:0002685	regulation of leukocyte migration
+GO:0002292	9	GO:0045580	regulation of T cell differentiation
+GO:0002293	9	GO:0045580	regulation of T cell differentiation
+GO:0002294	9	GO:0045580	regulation of T cell differentiation
+GO:0032113	6	GO:1902947	regulation of tau-protein kinase activity
+GO:0002298	9	GO:0045580	regulation of T cell differentiation
+GO:0071346	1	GO:0098542	defense response to other organism
+GO:0045747	2	GO:0007165	signal transduction
+GO:0042501	6	GO:1902947	regulation of tau-protein kinase activity
+GO:0007260	6	GO:1902947	regulation of tau-protein kinase activity
+GO:0045738	8	GO:2000779	regulation of double-strand break repair
+GO:0045739	8	GO:2000779	regulation of double-strand break repair
+GO:0042509	6	GO:1902947	regulation of tau-protein kinase activity
+GO:2001034	8	GO:2000779	regulation of double-strand break repair
+GO:0007259	2	GO:0007165	signal transduction
+GO:0002269	19	GO:0001775	cell activation
+GO:1904894	2	GO:0007165	signal transduction
+GO:0039648	4	GO:0070580	base J metabolic process
+GO:0007320	10	GO:0030727	germarium-derived female germ-line cyst formation
+GO:0071654	3	GO:1903555	regulation of tumor necrosis factor superfamily cytokine production
+GO:0071657	3	GO:1903555	regulation of tumor necrosis factor superfamily cytokine production
+GO:0060261	7	GO:0051092	positive regulation of NF-kappaB transcription factor activity
+GO:0075071	5	GO:0015979	photosynthesis
+GO:0031581	16	GO:0045229	external encapsulating structure organization
+GO:0007620	10	GO:0030727	germarium-derived female germ-line cyst formation
+GO:0001961	2	GO:0007165	signal transduction
+GO:0033005	15	GO:0045787	positive regulation of cell cycle
+GO:0051123	4	GO:0070580	base J metabolic process
+GO:0048663	11	GO:0021551	central nervous system morphogenesis
+GO:0050918	21	GO:0006955	immune response
+GO:0032754	3	GO:1903555	regulation of tumor necrosis factor superfamily cytokine production
+GO:0032968	7	GO:0051092	positive regulation of NF-kappaB transcription factor activity
+GO:0032733	3	GO:1903555	regulation of tumor necrosis factor superfamily cytokine production
+GO:0032736	3	GO:1903555	regulation of tumor necrosis factor superfamily cytokine production
+GO:0090316	18	GO:0006909	phagocytosis
+GO:0045892	7	GO:0051092	positive regulation of NF-kappaB transcription factor activity
+GO:0035303	6	GO:1902947	regulation of tau-protein kinase activity
+GO:0019430	21	GO:0006955	immune response
+GO:0035305	6	GO:1902947	regulation of tau-protein kinase activity
+GO:0000226	16	GO:0045229	external encapsulating structure organization
+GO:0045860	6	GO:1902947	regulation of tau-protein kinase activity
+GO:0071450	21	GO:0006955	immune response
+GO:0071451	21	GO:0006955	immune response
+GO:2000146	12	GO:0002685	regulation of leukocyte migration
+GO:0071459	18	GO:0006909	phagocytosis
+GO:0042335	11	GO:0021551	central nervous system morphogenesis
+GO:0052040	19	GO:0001775	cell activation
+GO:0060439	11	GO:0021551	central nervous system morphogenesis
+GO:0032954	17	GO:0051988	regulation of attachment of spindle microtubules to kinetochore
+GO:0050727	21	GO:0006955	immune response
+GO:0050728	21	GO:0006955	immune response
+GO:1903436	17	GO:0051988	regulation of attachment of spindle microtubules to kinetochore
+GO:0097400	2	GO:0007165	signal transduction
+GO:0051653	17	GO:0051988	regulation of attachment of spindle microtubules to kinetochore
+GO:0001501	11	GO:0021551	central nervous system morphogenesis
+GO:0001502	11	GO:0021551	central nervous system morphogenesis
+GO:0001504	18	GO:0006909	phagocytosis
+GO:1900076	2	GO:0007165	signal transduction
+GO:1900078	15	GO:0045787	positive regulation of cell cycle
+GO:0042476	11	GO:0021551	central nervous system morphogenesis
+GO:0098542	1	GO:0098542	defense response to other organism
+GO:1900015	3	GO:1903555	regulation of tumor necrosis factor superfamily cytokine production
+GO:1900016	3	GO:1903555	regulation of tumor necrosis factor superfamily cytokine production
+GO:0048557	11	GO:0021551	central nervous system morphogenesis
+GO:0035152	11	GO:0021551	central nervous system morphogenesis
+GO:0044068	19	GO:0001775	cell activation
+GO:0033157	18	GO:0006909	phagocytosis
+GO:0035148	11	GO:0021551	central nervous system morphogenesis
+GO:0035149	11	GO:0021551	central nervous system morphogenesis
+GO:0030704	10	GO:0030727	germarium-derived female germ-line cyst formation
+GO:0008284	15	GO:0045787	positive regulation of cell cycle
+GO:0031341	15	GO:0045787	positive regulation of cell cycle
+GO:0060271	16	GO:0045229	external encapsulating structure organization
+GO:1900818	4	GO:0070580	base J metabolic process
+GO:0010923	6	GO:1902947	regulation of tau-protein kinase activity
+GO:0010927	10	GO:0030727	germarium-derived female germ-line cyst formation
+GO:0031637	15	GO:0045787	positive regulation of cell cycle
+GO:0019054	19	GO:0001775	cell activation
+GO:1905941	11	GO:0021551	central nervous system morphogenesis
+GO:0008063	2	GO:0007165	signal transduction
+GO:0010760	12	GO:0002685	regulation of leukocyte migration
+GO:0010761	12	GO:0002685	regulation of leukocyte migration
+GO:0010762	12	GO:0002685	regulation of leukocyte migration
+GO:0010764	12	GO:0002685	regulation of leukocyte migration
+GO:0007519	11	GO:0021551	central nervous system morphogenesis
+GO:0010758	12	GO:0002685	regulation of leukocyte migration
+GO:0002532	21	GO:0006955	immune response
+GO:0002534	3	GO:1903555	regulation of tumor necrosis factor superfamily cytokine production
+GO:0046599	14	GO:1902905	positive regulation of supramolecular fiber organization
+GO:0051293	16	GO:0045229	external encapsulating structure organization
+GO:0030522	2	GO:0007165	signal transduction
+GO:0018108	4	GO:0070580	base J metabolic process
+GO:0002376	19	GO:0001775	cell activation
+GO:0009617	1	GO:0098542	defense response to other organism
+GO:0070121	11	GO:0021551	central nervous system morphogenesis
+GO:0002686	12	GO:0002685	regulation of leukocyte migration
+GO:0002688	12	GO:0002685	regulation of leukocyte migration
+GO:0002689	12	GO:0002685	regulation of leukocyte migration
+GO:0051222	18	GO:0006909	phagocytosis
+GO:0045167	19	GO:0001775	cell activation
+GO:0039656	4	GO:0070580	base J metabolic process
+GO:0039657	7	GO:0051092	positive regulation of NF-kappaB transcription factor activity
+GO:0007305	10	GO:0030727	germarium-derived female germ-line cyst formation
+GO:0009607	1	GO:0098542	defense response to other organism
+GO:0040017	15	GO:0045787	positive regulation of cell cycle
+GO:0010825	14	GO:1902905	positive regulation of supramolecular fiber organization
+GO:0032388	15	GO:0045787	positive regulation of cell cycle
+GO:0018212	4	GO:0070580	base J metabolic process
+GO:0006952	1	GO:0098542	defense response to other organism
+GO:0040001	16	GO:0045229	external encapsulating structure organization
+GO:0040002	11	GO:0021551	central nervous system morphogenesis
+GO:0040003	11	GO:0021551	central nervous system morphogenesis
+GO:1903818	18	GO:0006909	phagocytosis
+GO:0048133	10	GO:0030727	germarium-derived female germ-line cyst formation
+GO:0030336	12	GO:0002685	regulation of leukocyte migration
+GO:0009411	21	GO:0006955	immune response
+GO:1904951	15	GO:0045787	positive regulation of cell cycle
+GO:1902475	18	GO:0006909	phagocytosis
+GO:1902412	17	GO:0051988	regulation of attachment of spindle microtubules to kinetochore
+GO:0035803	10	GO:0030727	germarium-derived female germ-line cyst formation
+GO:0032467	15	GO:0045787	positive regulation of cell cycle
+GO:0046601	14	GO:1902905	positive regulation of supramolecular fiber organization
+GO:0021551	11	GO:0021551	central nervous system morphogenesis
+GO:0021556	11	GO:0021551	central nervous system morphogenesis
+GO:1904901	14	GO:1902905	positive regulation of supramolecular fiber organization
+GO:1905521	12	GO:0002685	regulation of leukocyte migration
+GO:1905522	12	GO:0002685	regulation of leukocyte migration
+GO:1905517	12	GO:0002685	regulation of leukocyte migration
+GO:0051707	1	GO:0098542	defense response to other organism
+GO:0051709	15	GO:0045787	positive regulation of cell cycle
+GO:0034090	17	GO:0051988	regulation of attachment of spindle microtubules to kinetochore
+GO:0048246	12	GO:0002685	regulation of leukocyte migration
+GO:0045931	15	GO:0045787	positive regulation of cell cycle
+GO:0030437	10	GO:0030727	germarium-derived female germ-line cyst formation
+GO:0044419	19	GO:0001775	cell activation
+GO:0043207	1	GO:0098542	defense response to other organism
+GO:0034087	17	GO:0051988	regulation of attachment of spindle microtubules to kinetochore
+GO:0034089	17	GO:0051988	regulation of attachment of spindle microtubules to kinetochore
+GO:0045792	16	GO:0045229	external encapsulating structure organization
+GO:0008356	19	GO:0001775	cell activation
+GO:0000122	7	GO:0051092	positive regulation of NF-kappaB transcription factor activity
+GO:1900182	15	GO:0045787	positive regulation of cell cycle
+GO:0043066	13	GO:2000106	regulation of leukocyte apoptotic process
+GO:0015870	18	GO:0006909	phagocytosis
+GO:0015871	18	GO:0006909	phagocytosis
+GO:0030154	19	GO:0001775	cell activation
+GO:0090382	16	GO:0045229	external encapsulating structure organization
+GO:0050922	21	GO:0006955	immune response
+GO:0001818	3	GO:1903555	regulation of tumor necrosis factor superfamily cytokine production
+GO:0008608	17	GO:0051988	regulation of attachment of spindle microtubules to kinetochore
+GO:0015807	18	GO:0006909	phagocytosis
+GO:1901879	14	GO:1902905	positive regulation of supramolecular fiber organization
+GO:0061041	21	GO:0006955	immune response
+GO:0034599	21	GO:0006955	immune response
+GO:0039502	21	GO:0006955	immune response
+GO:0039663	16	GO:0045229	external encapsulating structure organization
+GO:0006801	5	GO:0015979	photosynthesis
+GO:0048311	16	GO:0045229	external encapsulating structure organization
+GO:0019064	16	GO:0045229	external encapsulating structure organization
+GO:0009826	11	GO:0021551	central nervous system morphogenesis
+GO:0009593	21	GO:0006955	immune response
+GO:0046843	10	GO:0030727	germarium-derived female germ-line cyst formation
+GO:0046835	5	GO:0015979	photosynthesis
+GO:0045576	19	GO:0001775	cell activation
+GO:0034605	21	GO:0006955	immune response
+GO:0042338	11	GO:0021551	central nervous system morphogenesis
+GO:0006954	21	GO:0006955	immune response
+GO:0015979	5	GO:0015979	photosynthesis
+GO:0006979	21	GO:0006955	immune response
+GO:0007595	11	GO:0021551	central nervous system morphogenesis
+GO:0030476	10	GO:0030727	germarium-derived female germ-line cyst formation
+GO:0062197	21	GO:0006955	immune response
+GO:0030435	11	GO:0021551	central nervous system morphogenesis
+GO:0007589	18	GO:0006909	phagocytosis
+GO:0051321	19	GO:0001775	cell activation
+GO:0051307	17	GO:0051988	regulation of attachment of spindle microtubules to kinetochore
+GO:0070726	16	GO:0045229	external encapsulating structure organization
+GO:0043001	18	GO:0006909	phagocytosis
+GO:0060760	21	GO:0006955	immune response
+GO:0060761	21	GO:0006955	immune response
+GO:1905905	11	GO:0021551	central nervous system morphogenesis
+GO:0042060	21	GO:0006955	immune response
+GO:0001775	19	GO:0001775	cell activation
+GO:0001960	2	GO:0007165	signal transduction
+GO:0001959	2	GO:0007165	signal transduction
+GO:0045229	16	GO:0045229	external encapsulating structure organization
+GO:0009620	1	GO:0098542	defense response to other organism
+GO:0009611	21	GO:0006955	immune response
+GO:0042244	10	GO:0030727	germarium-derived female germ-line cyst formation
+GO:0070590	10	GO:0030727	germarium-derived female germ-line cyst formation
+GO:0070591	10	GO:0030727	germarium-derived female germ-line cyst formation
+GO:0050867	15	GO:0045787	positive regulation of cell cycle
+GO:0042742	1	GO:0098542	defense response to other organism
+GO:0050832	1	GO:0098542	defense response to other organism
+GO:0071940	16	GO:0045229	external encapsulating structure organization
+GO:0034340	1	GO:0098542	defense response to other organism
+GO:0060337	2	GO:0007165	signal transduction
+GO:0060338	2	GO:0007165	signal transduction
+GO:0060339	21	GO:0006955	immune response
+GO:0045861	7	GO:0051092	positive regulation of NF-kappaB transcription factor activity
+GO:0009272	16	GO:0045229	external encapsulating structure organization
+GO:0019730	1	GO:0098542	defense response to other organism
+GO:0016973	18	GO:0006909	phagocytosis
+GO:0000266	16	GO:0045229	external encapsulating structure organization
+GO:1903046	17	GO:0051988	regulation of attachment of spindle microtubules to kinetochore
+GO:0042398	4	GO:0070580	base J metabolic process
+GO:0071357	1	GO:0098542	defense response to other organism
+GO:0061919	19	GO:0001775	cell activation
+GO:0007094	17	GO:0051988	regulation of attachment of spindle microtubules to kinetochore
+GO:0045841	17	GO:0051988	regulation of attachment of spindle microtubules to kinetochore
+GO:0045839	17	GO:0051988	regulation of attachment of spindle microtubules to kinetochore
+GO:0050714	18	GO:0006909	phagocytosis
+GO:0000082	17	GO:0051988	regulation of attachment of spindle microtubules to kinetochore
+GO:0070589	5	GO:0015979	photosynthesis
+GO:0050708	18	GO:0006909	phagocytosis
+GO:0031577	15	GO:0045787	positive regulation of cell cycle
+GO:1902742	11	GO:0021551	central nervous system morphogenesis
+GO:0034514	21	GO:0006955	immune response
+GO:0071173	15	GO:0045787	positive regulation of cell cycle
+GO:0071174	17	GO:0051988	regulation of attachment of spindle microtubules to kinetochore
+GO:0031509	7	GO:0051092	positive regulation of NF-kappaB transcription factor activity
+GO:0034501	18	GO:0006909	phagocytosis
+GO:0035114	11	GO:0021551	central nervous system morphogenesis
+GO:0044772	17	GO:0051988	regulation of attachment of spindle microtubules to kinetochore
+GO:0044038	5	GO:0015979	photosynthesis
+GO:0090101	2	GO:0007165	signal transduction
+GO:0006468	4	GO:0070580	base J metabolic process
+GO:0034620	21	GO:0006955	immune response
+GO:0035967	21	GO:0006955	immune response
+GO:0035214	11	GO:0021551	central nervous system morphogenesis
+GO:0044843	17	GO:0051988	regulation of attachment of spindle microtubules to kinetochore
+GO:1903083	18	GO:0006909	phagocytosis
+GO:2000816	17	GO:0051988	regulation of attachment of spindle microtubules to kinetochore
+GO:0016310	5	GO:0015979	photosynthesis
+GO:0030512	2	GO:0007165	signal transduction
+GO:0030518	2	GO:0007165	signal transduction
+GO:0007379	11	GO:0021551	central nervous system morphogenesis
+GO:0033046	17	GO:0051988	regulation of attachment of spindle microtubules to kinetochore
+GO:0033047	17	GO:0051988	regulation of attachment of spindle microtubules to kinetochore
+GO:0033048	17	GO:0051988	regulation of attachment of spindle microtubules to kinetochore
+GO:0051255	16	GO:0045229	external encapsulating structure organization
+GO:0051985	15	GO:0045787	positive regulation of cell cycle
+GO:0051926	18	GO:0006909	phagocytosis
+GO:0110037	11	GO:0021551	central nervous system morphogenesis
+GO:0110039	11	GO:0021551	central nervous system morphogenesis
+GO:1905819	17	GO:0051988	regulation of attachment of spindle microtubules to kinetochore
+GO:0006955	21	GO:0006955	immune response
+GO:1903829	15	GO:0045787	positive regulation of cell cycle
+GO:0006986	21	GO:0006955	immune response
+GO:0006910	18	GO:0006909	phagocytosis
+GO:0006914	5	GO:0015979	photosynthesis
+GO:0032635	3	GO:1903555	regulation of tumor necrosis factor superfamily cytokine production
+GO:1901215	15	GO:0045787	positive regulation of cell cycle
+GO:0051784	14	GO:1902905	positive regulation of supramolecular fiber organization
+GO:0006909	18	GO:0006909	phagocytosis
+GO:2001251	14	GO:1902905	positive regulation of supramolecular fiber organization
+GO:0007165	2	GO:0007165	signal transduction
+GO:0043934	11	GO:0021551	central nervous system morphogenesis
+GO:1903394	16	GO:0045229	external encapsulating structure organization
+GO:0009103	4	GO:0070580	base J metabolic process
+GO:0008653	4	GO:0070580	base J metabolic process
+GO:1903354	12	GO:0002685	regulation of leukocyte migration
+GO:0045026	16	GO:0045229	external encapsulating structure organization
+GO:1905340	18	GO:0006909	phagocytosis
+GO:1905342	15	GO:0045787	positive regulation of cell cycle
+GO:1902100	17	GO:0051988	regulation of attachment of spindle microtubules to kinetochore
+GO:0033692	4	GO:0070580	base J metabolic process
+GO:0097628	12	GO:0002685	regulation of leukocyte migration
+GO:0048737	11	GO:0021551	central nervous system morphogenesis
+GO:0001819	3	GO:1903555	regulation of tumor necrosis factor superfamily cytokine production
+GO:0010493	4	GO:0070580	base J metabolic process
+GO:0010453	15	GO:0045787	positive regulation of cell cycle
+GO:0042659	15	GO:0045787	positive regulation of cell cycle
+GO:0045887	14	GO:1902905	positive regulation of supramolecular fiber organization
+GO:0032204	8	GO:2000779	regulation of double-strand break repair
+GO:0070580	4	GO:0070580	base J metabolic process
+GO:0048569	11	GO:0021551	central nervous system morphogenesis
+GO:1904398	14	GO:1902905	positive regulation of supramolecular fiber organization
+GO:0034427	7	GO:0051092	positive regulation of NF-kappaB transcription factor activity
+GO:0039525	16	GO:0045229	external encapsulating structure organization
+GO:0040025	11	GO:0021551	central nervous system morphogenesis
+GO:0048167	15	GO:0045787	positive regulation of cell cycle
+GO:0048168	15	GO:0045787	positive regulation of cell cycle
+GO:0070986	11	GO:0021551	central nervous system morphogenesis
+GO:0000291	7	GO:0051092	positive regulation of NF-kappaB transcription factor activity
+GO:0033619	4	GO:0070580	base J metabolic process
+GO:0035306	6	GO:1902947	regulation of tau-protein kinase activity
+GO:0002062	11	GO:0021551	central nervous system morphogenesis
+GO:0009743	21	GO:0006955	immune response
+GO:0048562	11	GO:0021551	central nervous system morphogenesis
+GO:0048566	11	GO:0021551	central nervous system morphogenesis
+GO:0048568	11	GO:0021551	central nervous system morphogenesis
+GO:0001667	12	GO:0002685	regulation of leukocyte migration
+GO:0032728	3	GO:1903555	regulation of tumor necrosis factor superfamily cytokine production
+GO:0050810	7	GO:0051092	positive regulation of NF-kappaB transcription factor activity
+GO:0050830	1	GO:0098542	defense response to other organism
+GO:0090130	11	GO:0021551	central nervous system morphogenesis
+GO:0019218	7	GO:0051092	positive regulation of NF-kappaB transcription factor activity
+GO:0050805	15	GO:0045787	positive regulation of cell cycle
+GO:0033135	6	GO:1902947	regulation of tau-protein kinase activity
+GO:0043328	18	GO:0006909	phagocytosis
+GO:0035987	11	GO:0021551	central nervous system morphogenesis
+GO:0035239	11	GO:0021551	central nervous system morphogenesis
+GO:0045466	11	GO:0021551	central nervous system morphogenesis
+GO:0021782	11	GO:0021551	central nervous system morphogenesis
+GO:0046552	11	GO:0021551	central nervous system morphogenesis
+GO:0016311	5	GO:0015979	photosynthesis
+GO:0071706	3	GO:1903555	regulation of tumor necrosis factor superfamily cytokine production
+GO:0051966	15	GO:0045787	positive regulation of cell cycle
+GO:0051216	11	GO:0021551	central nervous system morphogenesis
+GO:0040011	19	GO:0001775	cell activation
+GO:0040012	15	GO:0045787	positive regulation of cell cycle
+GO:0032653	3	GO:1903555	regulation of tumor necrosis factor superfamily cytokine production
+GO:0031109	16	GO:0045229	external encapsulating structure organization
+GO:0042706	11	GO:0021551	central nervous system morphogenesis
+GO:0032613	3	GO:1903555	regulation of tumor necrosis factor superfamily cytokine production
+GO:0060562	11	GO:0021551	central nervous system morphogenesis
+GO:0010525	15	GO:0045787	positive regulation of cell cycle
+GO:0010526	15	GO:0045787	positive regulation of cell cycle
+GO:0043254	14	GO:1902905	positive regulation of supramolecular fiber organization
+GO:1903555	3	GO:1903555	regulation of tumor necrosis factor superfamily cytokine production
+GO:0071555	16	GO:0045229	external encapsulating structure organization
+GO:1903557	3	GO:1903555	regulation of tumor necrosis factor superfamily cytokine production
+GO:0001752	11	GO:0021551	central nervous system morphogenesis
+GO:0034097	21	GO:0006955	immune response
+GO:0007169	2	GO:0007165	signal transduction
+GO:0001706	11	GO:0021551	central nervous system morphogenesis
+GO:0043065	13	GO:2000106	regulation of leukocyte apoptotic process
+GO:0043068	15	GO:0045787	positive regulation of cell cycle
+GO:0042546	16	GO:0045229	external encapsulating structure organization
+GO:0002685	12	GO:0002685	regulation of leukocyte migration
+GO:0007282	10	GO:0030727	germarium-derived female germ-line cyst formation
+GO:0007284	10	GO:0030727	germarium-derived female germ-line cyst formation
+GO:0051037	7	GO:0051092	positive regulation of NF-kappaB transcription factor activity
+GO:0051039	7	GO:0051092	positive regulation of NF-kappaB transcription factor activity
+GO:0060326	12	GO:0002685	regulation of leukocyte migration
+GO:0030727	10	GO:0030727	germarium-derived female germ-line cyst formation
+GO:0031128	11	GO:0021551	central nervous system morphogenesis
+GO:0031113	14	GO:1902905	positive regulation of supramolecular fiber organization
+GO:0030718	11	GO:0021551	central nervous system morphogenesis
+GO:0045880	2	GO:0007165	signal transduction
+GO:0006493	4	GO:0070580	base J metabolic process
+GO:1903006	7	GO:0051092	positive regulation of NF-kappaB transcription factor activity
+GO:0046785	16	GO:0045229	external encapsulating structure organization
+GO:0045478	16	GO:0045229	external encapsulating structure organization
+GO:0030968	2	GO:0007165	signal transduction
+GO:0050900	12	GO:0002685	regulation of leukocyte migration
+GO:0071852	19	GO:0001775	cell activation
+GO:0030595	12	GO:0002685	regulation of leukocyte migration
+GO:0030588	11	GO:0021551	central nervous system morphogenesis
+GO:0098730	10	GO:0030727	germarium-derived female germ-line cyst formation
+GO:0097529	12	GO:0002685	regulation of leukocyte migration
+GO:1902473	18	GO:0006909	phagocytosis
+GO:0007565	10	GO:0030727	germarium-derived female germ-line cyst formation
+GO:0090311	6	GO:1902947	regulation of tau-protein kinase activity
+GO:0048132	10	GO:0030727	germarium-derived female germ-line cyst formation
+GO:0090303	21	GO:0006955	immune response
+GO:2000738	15	GO:0045787	positive regulation of cell cycle
+GO:0007166	2	GO:0007165	signal transduction
+GO:0007167	2	GO:0007165	signal transduction
+GO:0061060	2	GO:0007165	signal transduction
+GO:0035212	11	GO:0021551	central nervous system morphogenesis
+GO:0007140	10	GO:0030727	germarium-derived female germ-line cyst formation

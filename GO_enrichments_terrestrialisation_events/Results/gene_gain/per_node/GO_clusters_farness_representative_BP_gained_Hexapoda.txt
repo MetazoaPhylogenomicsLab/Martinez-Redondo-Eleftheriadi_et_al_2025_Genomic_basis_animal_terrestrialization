@@ -1,0 +1,563 @@
+GO:0072666	24	GO:0006623	protein targeting to vacuole
+GO:0007605	17	GO:0050906	detection of stimulus involved in sensory perception
+GO:0001818	3	GO:0001817	regulation of cytokine production
+GO:0010760	13	GO:0002685	regulation of leukocyte migration
+GO:0006623	24	GO:0006623	protein targeting to vacuole
+GO:0010764	13	GO:0002685	regulation of leukocyte migration
+GO:0040001	23	GO:0022607	cellular component assembly
+GO:0006646	9	GO:0001676	long-chain fatty acid metabolic process
+GO:0120036	23	GO:0022607	cellular component assembly
+GO:1900015	3	GO:0001817	regulation of cytokine production
+GO:1900016	3	GO:0001817	regulation of cytokine production
+GO:0030030	23	GO:0022607	cellular component assembly
+GO:0006869	24	GO:0006623	protein targeting to vacuole
+GO:0016310	9	GO:0001676	long-chain fatty acid metabolic process
+GO:0010876	24	GO:0006623	protein targeting to vacuole
+GO:0016926	4	GO:0006508	proteolysis
+GO:0061041	19	GO:0032103	positive regulation of response to external stimulus
+GO:0051293	23	GO:0022607	cellular component assembly
+GO:0008277	15	GO:1901216	positive regulation of neuron death
+GO:0000022	14	GO:1902100	negative regulation of metaphase/anaphase transition of cell cycle
+GO:0070121	20	GO:0021551	central nervous system morphogenesis
+GO:0000003	22	GO:0019098	reproductive behavior
+GO:0007097	24	GO:0006623	protein targeting to vacuole
+GO:0050911	17	GO:0050906	detection of stimulus involved in sensory perception
+GO:0022414	22	GO:0019098	reproductive behavior
+GO:0008037	25	GO:0008219	cell death
+GO:0008645	24	GO:0006623	protein targeting to vacuole
+GO:0051653	25	GO:0008219	cell death
+GO:1904659	24	GO:0006623	protein targeting to vacuole
+GO:0031122	23	GO:0022607	cellular component assembly
+GO:0051647	25	GO:0008219	cell death
+GO:0043410	15	GO:1901216	positive regulation of neuron death
+GO:0050728	19	GO:0032103	positive regulation of response to external stimulus
+GO:0061844	18	GO:0009607	response to biotic stimulus
+GO:0010922	8	GO:0043467	regulation of generation of precursor metabolites and energy
+GO:1902993	6	GO:0052547	regulation of peptidase activity
+GO:2001057	9	GO:0001676	long-chain fatty acid metabolic process
+GO:0040010	15	GO:1901216	positive regulation of neuron death
+GO:0040015	22	GO:0019098	reproductive behavior
+GO:0035036	22	GO:0019098	reproductive behavior
+GO:0010941	16	GO:0008285	negative regulation of cell population proliferation
+GO:0048246	13	GO:0002685	regulation of leukocyte migration
+GO:0007009	23	GO:0022607	cellular component assembly
+GO:0019991	23	GO:0022607	cellular component assembly
+GO:0001816	2	GO:0001816	cytokine production
+GO:0001817	3	GO:0001817	regulation of cytokine production
+GO:0001819	3	GO:0001817	regulation of cytokine production
+GO:0010628	3	GO:0001817	regulation of cytokine production
+GO:0120010	24	GO:0006623	protein targeting to vacuole
+GO:0040003	20	GO:0021551	central nervous system morphogenesis
+GO:0010758	13	GO:0002685	regulation of leukocyte migration
+GO:0019236	18	GO:0009607	response to biotic stimulus
+GO:0071941	9	GO:0001676	long-chain fatty acid metabolic process
+GO:0090312	5	GO:0033135	regulation of peptidyl-serine phosphorylation
+GO:0071674	13	GO:0002685	regulation of leukocyte migration
+GO:0045138	20	GO:0021551	central nervous system morphogenesis
+GO:0050871	11	GO:0042110	T cell activation
+GO:0032675	3	GO:0001817	regulation of cytokine production
+GO:0002534	2	GO:0001816	cytokine production
+GO:0002225	19	GO:0032103	positive regulation of response to external stimulus
+GO:0032755	3	GO:0001817	regulation of cytokine production
+GO:0097529	13	GO:0002685	regulation of leukocyte migration
+GO:0032635	2	GO:0001816	cytokine production
+GO:0031347	19	GO:0032103	positive regulation of response to external stimulus
+GO:0006897	25	GO:0008219	cell death
+GO:0008592	15	GO:1901216	positive regulation of neuron death
+GO:0002699	19	GO:0032103	positive regulation of response to external stimulus
+GO:0021556	20	GO:0021551	central nervous system morphogenesis
+GO:0060326	13	GO:0002685	regulation of leukocyte migration
+GO:0046209	10	GO:1902292	cell cycle DNA replication initiation
+GO:0002920	19	GO:0032103	positive regulation of response to external stimulus
+GO:0002922	19	GO:0032103	positive regulation of response to external stimulus
+GO:0035152	20	GO:0021551	central nervous system morphogenesis
+GO:0043297	23	GO:0022607	cellular component assembly
+GO:0060333	19	GO:0032103	positive regulation of response to external stimulus
+GO:0120192	23	GO:0022607	cellular component assembly
+GO:0120193	23	GO:0022607	cellular component assembly
+GO:0031637	15	GO:1901216	positive regulation of neuron death
+GO:0002685	13	GO:0002685	regulation of leukocyte migration
+GO:0002688	13	GO:0002685	regulation of leukocyte migration
+GO:0002760	19	GO:0032103	positive regulation of response to external stimulus
+GO:0035148	20	GO:0021551	central nervous system morphogenesis
+GO:0035149	20	GO:0021551	central nervous system morphogenesis
+GO:0002759	19	GO:0032103	positive regulation of response to external stimulus
+GO:0046635	11	GO:0042110	T cell activation
+GO:0046638	12	GO:0046637	regulation of alpha-beta T cell differentiation
+GO:0002784	19	GO:0032103	positive regulation of response to external stimulus
+GO:0015980	9	GO:0001676	long-chain fatty acid metabolic process
+GO:0045087	18	GO:0009607	response to biotic stimulus
+GO:0002775	18	GO:0009607	response to biotic stimulus
+GO:0006809	10	GO:1902292	cell cycle DNA replication initiation
+GO:0008219	25	GO:0008219	cell death
+GO:0045026	23	GO:0022607	cellular component assembly
+GO:0043372	12	GO:0046637	regulation of alpha-beta T cell differentiation
+GO:1905521	13	GO:0002685	regulation of leukocyte migration
+GO:0034260	15	GO:1901216	positive regulation of neuron death
+GO:1905517	13	GO:0002685	regulation of leukocyte migration
+GO:0009988	25	GO:0008219	cell death
+GO:0002700	3	GO:0001817	regulation of cytokine production
+GO:0002702	3	GO:0001817	regulation of cytokine production
+GO:0002440	2	GO:0001816	cytokine production
+GO:0060438	20	GO:0021551	central nervous system morphogenesis
+GO:2000516	11	GO:0042110	T cell activation
+GO:0008045	20	GO:0021551	central nervous system morphogenesis
+GO:0032103	19	GO:0032103	positive regulation of response to external stimulus
+GO:0007342	22	GO:0019098	reproductive behavior
+GO:0050900	13	GO:0002685	regulation of leukocyte migration
+GO:0051043	6	GO:0052547	regulation of peptidase activity
+GO:0030595	13	GO:0002685	regulation of leukocyte migration
+GO:0006954	18	GO:0009607	response to biotic stimulus
+GO:0007043	23	GO:0022607	cellular component assembly
+GO:0006959	18	GO:0009607	response to biotic stimulus
+GO:0050727	19	GO:0032103	positive regulation of response to external stimulus
+GO:0090528	23	GO:0022607	cellular component assembly
+GO:0031581	23	GO:0022607	cellular component assembly
+GO:0007635	18	GO:0009607	response to biotic stimulus
+GO:0008594	20	GO:0021551	central nervous system morphogenesis
+GO:0002686	13	GO:0002685	regulation of leukocyte migration
+GO:0002689	13	GO:0002685	regulation of leukocyte migration
+GO:0016567	4	GO:0006508	proteolysis
+GO:0019953	22	GO:0019098	reproductive behavior
+GO:0045892	7	GO:0051091	positive regulation of DNA-binding transcription factor activity
+GO:0051145	20	GO:0021551	central nervous system morphogenesis
+GO:1905632	24	GO:0006623	protein targeting to vacuole
+GO:0045861	6	GO:0052547	regulation of peptidase activity
+GO:1903507	7	GO:0051091	positive regulation of DNA-binding transcription factor activity
+GO:0048385	15	GO:1901216	positive regulation of neuron death
+GO:1902750	14	GO:1902100	negative regulation of metaphase/anaphase transition of cell cycle
+GO:0051253	7	GO:0051091	positive regulation of DNA-binding transcription factor activity
+GO:0035886	20	GO:0021551	central nervous system morphogenesis
+GO:0010761	13	GO:0002685	regulation of leukocyte migration
+GO:0010762	13	GO:0002685	regulation of leukocyte migration
+GO:0030325	20	GO:0021551	central nervous system morphogenesis
+GO:0031269	23	GO:0022607	cellular component assembly
+GO:2000146	13	GO:0002685	regulation of leukocyte migration
+GO:0052547	6	GO:0052547	regulation of peptidase activity
+GO:0052548	6	GO:0052547	regulation of peptidase activity
+GO:1902749	14	GO:1902100	negative regulation of metaphase/anaphase transition of cell cycle
+GO:0030336	13	GO:0002685	regulation of leukocyte migration
+GO:0050922	19	GO:0032103	positive regulation of response to external stimulus
+GO:0006511	4	GO:0006508	proteolysis
+GO:0008608	25	GO:0008219	cell death
+GO:0042116	11	GO:0042110	T cell activation
+GO:0006508	4	GO:0006508	proteolysis
+GO:0050909	17	GO:0050906	detection of stimulus involved in sensory perception
+GO:0010389	14	GO:1902100	negative regulation of metaphase/anaphase transition of cell cycle
+GO:0048437	20	GO:0021551	central nervous system morphogenesis
+GO:0033339	20	GO:0021551	central nervous system morphogenesis
+GO:0045165	25	GO:0008219	cell death
+GO:0032147	5	GO:0033135	regulation of peptidyl-serine phosphorylation
+GO:0044774	14	GO:1902100	negative regulation of metaphase/anaphase transition of cell cycle
+GO:0040026	20	GO:0021551	central nervous system morphogenesis
+GO:0010951	6	GO:0052547	regulation of peptidase activity
+GO:0061318	20	GO:0021551	central nervous system morphogenesis
+GO:0045002	10	GO:1902292	cell cycle DNA replication initiation
+GO:0010972	14	GO:1902100	negative regulation of metaphase/anaphase transition of cell cycle
+GO:0001667	13	GO:0002685	regulation of leukocyte migration
+GO:0010466	6	GO:0052547	regulation of peptidase activity
+GO:0044818	14	GO:1902100	negative regulation of metaphase/anaphase transition of cell cycle
+GO:0034377	15	GO:1901216	positive regulation of neuron death
+GO:0034329	23	GO:0022607	cellular component assembly
+GO:1905522	13	GO:0002685	regulation of leukocyte migration
+GO:0046692	22	GO:0019098	reproductive behavior
+GO:0071684	22	GO:0019098	reproductive behavior
+GO:1902679	7	GO:0051091	positive regulation of DNA-binding transcription factor activity
+GO:0072525	10	GO:1902292	cell cycle DNA replication initiation
+GO:1902292	10	GO:1902292	cell cycle DNA replication initiation
+GO:0042364	9	GO:0001676	long-chain fatty acid metabolic process
+GO:0008365	20	GO:0021551	central nervous system morphogenesis
+GO:0009399	9	GO:0001676	long-chain fatty acid metabolic process
+GO:0045740	7	GO:0051091	positive regulation of DNA-binding transcription factor activity
+GO:0032273	23	GO:0022607	cellular component assembly
+GO:0007338	22	GO:0019098	reproductive behavior
+GO:0016241	8	GO:0043467	regulation of generation of precursor metabolites and energy
+GO:1990758	14	GO:1902100	negative regulation of metaphase/anaphase transition of cell cycle
+GO:0008340	20	GO:0021551	central nervous system morphogenesis
+GO:0016239	8	GO:0043467	regulation of generation of precursor metabolites and energy
+GO:0070613	6	GO:0052547	regulation of peptidase activity
+GO:0030838	23	GO:0022607	cellular component assembly
+GO:1902315	10	GO:1902292	cell cycle DNA replication initiation
+GO:0051054	6	GO:0052547	regulation of peptidase activity
+GO:0010508	8	GO:0043467	regulation of generation of precursor metabolites and energy
+GO:0019433	9	GO:0001676	long-chain fatty acid metabolic process
+GO:0051315	14	GO:1902100	negative regulation of metaphase/anaphase transition of cell cycle
+GO:1903317	6	GO:0052547	regulation of peptidase activity
+GO:0031112	15	GO:1901216	positive regulation of neuron death
+GO:0031113	23	GO:0022607	cellular component assembly
+GO:0031116	23	GO:0022607	cellular component assembly
+GO:0042759	9	GO:0001676	long-chain fatty acid metabolic process
+GO:0031134	14	GO:1902100	negative regulation of metaphase/anaphase transition of cell cycle
+GO:1902975	10	GO:1902292	cell cycle DNA replication initiation
+GO:0051987	14	GO:1902100	negative regulation of metaphase/anaphase transition of cell cycle
+GO:0051988	14	GO:1902100	negative regulation of metaphase/anaphase transition of cell cycle
+GO:0001764	20	GO:0021551	central nervous system morphogenesis
+GO:0001676	9	GO:0001676	long-chain fatty acid metabolic process
+GO:0006261	10	GO:1902292	cell cycle DNA replication initiation
+GO:0007608	17	GO:0050906	detection of stimulus involved in sensory perception
+GO:0051495	15	GO:1901216	positive regulation of neuron death
+GO:0039644	7	GO:0051091	positive regulation of DNA-binding transcription factor activity
+GO:0007266	15	GO:1901216	positive regulation of neuron death
+GO:1902905	15	GO:1901216	positive regulation of neuron death
+GO:0006260	10	GO:1902292	cell cycle DNA replication initiation
+GO:0022611	20	GO:0021551	central nervous system morphogenesis
+GO:0035001	20	GO:0021551	central nervous system morphogenesis
+GO:0035002	20	GO:0021551	central nervous system morphogenesis
+GO:0035194	1	GO:0035194	post-transcriptional gene silencing by RNA
+GO:0040028	20	GO:0021551	central nervous system morphogenesis
+GO:0060439	20	GO:0021551	central nervous system morphogenesis
+GO:0051402	25	GO:0008219	cell death
+GO:0043523	15	GO:1901216	positive regulation of neuron death
+GO:0007340	22	GO:0019098	reproductive behavior
+GO:0060576	20	GO:0021551	central nervous system morphogenesis
+GO:1905477	15	GO:1901216	positive regulation of neuron death
+GO:0007496	20	GO:0021551	central nervous system morphogenesis
+GO:0031146	4	GO:0006508	proteolysis
+GO:0030422	1	GO:0035194	post-transcriptional gene silencing by RNA
+GO:0001704	20	GO:0021551	central nervous system morphogenesis
+GO:0001707	20	GO:0021551	central nervous system morphogenesis
+GO:0001708	25	GO:0008219	cell death
+GO:0072089	25	GO:0008219	cell death
+GO:0008063	16	GO:0008285	negative regulation of cell population proliferation
+GO:0007416	20	GO:0021551	central nervous system morphogenesis
+GO:0010212	18	GO:0009607	response to biotic stimulus
+GO:0048332	20	GO:0021551	central nervous system morphogenesis
+GO:0008039	20	GO:0021551	central nervous system morphogenesis
+GO:0016441	1	GO:0035194	post-transcriptional gene silencing by RNA
+GO:0071168	24	GO:0006623	protein targeting to vacuole
+GO:0048814	20	GO:0021551	central nervous system morphogenesis
+GO:0010660	15	GO:1901216	positive regulation of neuron death
+GO:0010661	15	GO:1901216	positive regulation of neuron death
+GO:0042362	9	GO:0001676	long-chain fatty acid metabolic process
+GO:0032722	3	GO:0001817	regulation of cytokine production
+GO:0030225	20	GO:0021551	central nervous system morphogenesis
+GO:0042368	9	GO:0001676	long-chain fatty acid metabolic process
+GO:0051091	7	GO:0051091	positive regulation of DNA-binding transcription factor activity
+GO:0043254	23	GO:0022607	cellular component assembly
+GO:0010657	25	GO:0008219	cell death
+GO:0033619	4	GO:0006508	proteolysis
+GO:0042359	9	GO:0001676	long-chain fatty acid metabolic process
+GO:2000307	3	GO:0001817	regulation of cytokine production
+GO:0032747	3	GO:0001817	regulation of cytokine production
+GO:2000309	3	GO:0001817	regulation of cytokine production
+GO:0032735	3	GO:0001817	regulation of cytokine production
+GO:0046136	8	GO:0043467	regulation of generation of precursor metabolites and energy
+GO:0042326	8	GO:0043467	regulation of generation of precursor metabolites and energy
+GO:0002119	20	GO:0021551	central nervous system morphogenesis
+GO:0032700	3	GO:0001817	regulation of cytokine production
+GO:0002684	19	GO:0032103	positive regulation of response to external stimulus
+GO:0045730	9	GO:0001676	long-chain fatty acid metabolic process
+GO:0046631	11	GO:0042110	T cell activation
+GO:0046632	12	GO:0046637	regulation of alpha-beta T cell differentiation
+GO:0010634	13	GO:0002685	regulation of leukocyte migration
+GO:0001774	11	GO:0042110	T cell activation
+GO:0046634	11	GO:0042110	T cell activation
+GO:0046637	12	GO:0046637	regulation of alpha-beta T cell differentiation
+GO:0007260	5	GO:0033135	regulation of peptidyl-serine phosphorylation
+GO:0050769	20	GO:0021551	central nervous system morphogenesis
+GO:1903557	3	GO:0001817	regulation of cytokine production
+GO:1900182	15	GO:1901216	positive regulation of neuron death
+GO:0042982	4	GO:0006508	proteolysis
+GO:0051044	6	GO:0052547	regulation of peptidase activity
+GO:0042306	24	GO:0006623	protein targeting to vacuole
+GO:0042307	24	GO:0006623	protein targeting to vacuole
+GO:0042987	4	GO:0006508	proteolysis
+GO:0042832	18	GO:0009607	response to biotic stimulus
+GO:0050778	19	GO:0032103	positive regulation of response to external stimulus
+GO:0007279	20	GO:0021551	central nervous system morphogenesis
+GO:0050729	19	GO:0032103	positive regulation of response to external stimulus
+GO:0035710	11	GO:0042110	T cell activation
+GO:0002292	12	GO:0046637	regulation of alpha-beta T cell differentiation
+GO:0002293	12	GO:0046637	regulation of alpha-beta T cell differentiation
+GO:0002294	12	GO:0046637	regulation of alpha-beta T cell differentiation
+GO:0002298	12	GO:0046637	regulation of alpha-beta T cell differentiation
+GO:0031047	1	GO:0035194	post-transcriptional gene silencing by RNA
+GO:0120031	23	GO:0022607	cellular component assembly
+GO:0009733	18	GO:0009607	response to biotic stimulus
+GO:0072535	2	GO:0001816	cytokine production
+GO:0009735	18	GO:0009607	response to biotic stimulus
+GO:0098660	24	GO:0006623	protein targeting to vacuole
+GO:0098662	24	GO:0006623	protein targeting to vacuole
+GO:0032829	12	GO:0046637	regulation of alpha-beta T cell differentiation
+GO:0002269	11	GO:0042110	T cell activation
+GO:0002250	18	GO:0009607	response to biotic stimulus
+GO:1904892	15	GO:1901216	positive regulation of neuron death
+GO:2000514	11	GO:0042110	T cell activation
+GO:0098655	24	GO:0006623	protein targeting to vacuole
+GO:0001895	22	GO:0019098	reproductive behavior
+GO:0002281	11	GO:0042110	T cell activation
+GO:0002286	11	GO:0042110	T cell activation
+GO:0002287	11	GO:0042110	T cell activation
+GO:0048708	20	GO:0021551	central nervous system morphogenesis
+GO:0032831	12	GO:0046637	regulation of alpha-beta T cell differentiation
+GO:0032832	12	GO:0046637	regulation of alpha-beta T cell differentiation
+GO:0032834	12	GO:0046637	regulation of alpha-beta T cell differentiation
+GO:0002275	11	GO:0042110	T cell activation
+GO:0060966	1	GO:0035194	post-transcriptional gene silencing by RNA
+GO:0003094	22	GO:0019098	reproductive behavior
+GO:0031106	23	GO:0022607	cellular component assembly
+GO:0030388	9	GO:0001676	long-chain fatty acid metabolic process
+GO:0042531	5	GO:0033135	regulation of peptidyl-serine phosphorylation
+GO:0080164	8	GO:0043467	regulation of generation of precursor metabolites and energy
+GO:0043367	12	GO:0046637	regulation of alpha-beta T cell differentiation
+GO:0045591	12	GO:0046637	regulation of alpha-beta T cell differentiation
+GO:0032411	15	GO:1901216	positive regulation of neuron death
+GO:0050954	17	GO:0050906	detection of stimulus involved in sensory perception
+GO:0032414	15	GO:1901216	positive regulation of neuron death
+GO:0030316	20	GO:0021551	central nervous system morphogenesis
+GO:0006417	6	GO:0052547	regulation of peptidase activity
+GO:0042501	5	GO:0033135	regulation of peptidyl-serine phosphorylation
+GO:0042509	5	GO:0033135	regulation of peptidyl-serine phosphorylation
+GO:0043370	12	GO:0046637	regulation of alpha-beta T cell differentiation
+GO:0050830	18	GO:0009607	response to biotic stimulus
+GO:0001933	5	GO:0033135	regulation of peptidyl-serine phosphorylation
+GO:0002761	12	GO:0046637	regulation of alpha-beta T cell differentiation
+GO:0002763	12	GO:0046637	regulation of alpha-beta T cell differentiation
+GO:0045428	8	GO:0043467	regulation of generation of precursor metabolites and energy
+GO:0045429	8	GO:0043467	regulation of generation of precursor metabolites and energy
+GO:0060550	8	GO:0043467	regulation of generation of precursor metabolites and energy
+GO:0060551	8	GO:0043467	regulation of generation of precursor metabolites and energy
+GO:0060552	8	GO:0043467	regulation of generation of precursor metabolites and energy
+GO:0060556	9	GO:0001676	long-chain fatty acid metabolic process
+GO:0060557	9	GO:0001676	long-chain fatty acid metabolic process
+GO:0045589	12	GO:0046637	regulation of alpha-beta T cell differentiation
+GO:0071365	18	GO:0009607	response to biotic stimulus
+GO:0071368	18	GO:0009607	response to biotic stimulus
+GO:0034250	8	GO:0043467	regulation of generation of precursor metabolites and energy
+GO:0001556	22	GO:0019098	reproductive behavior
+GO:0006509	4	GO:0006508	proteolysis
+GO:0060549	8	GO:0043467	regulation of generation of precursor metabolites and energy
+GO:0034220	24	GO:0006623	protein targeting to vacuole
+GO:0045066	12	GO:0046637	regulation of alpha-beta T cell differentiation
+GO:1902991	6	GO:0052547	regulation of peptidase activity
+GO:0042102	11	GO:0042110	T cell activation
+GO:0014002	20	GO:0021551	central nervous system morphogenesis
+GO:0071346	18	GO:0009607	response to biotic stimulus
+GO:1904407	8	GO:0043467	regulation of generation of precursor metabolites and energy
+GO:0034248	8	GO:0043467	regulation of generation of precursor metabolites and energy
+GO:0051770	7	GO:0051091	positive regulation of DNA-binding transcription factor activity
+GO:0070673	18	GO:0009607	response to biotic stimulus
+GO:2000273	15	GO:1901216	positive regulation of neuron death
+GO:0050435	10	GO:1902292	cell cycle DNA replication initiation
+GO:0032660	3	GO:0001817	regulation of cytokine production
+GO:0002361	12	GO:0046637	regulation of alpha-beta T cell differentiation
+GO:0043467	8	GO:0043467	regulation of generation of precursor metabolites and energy
+GO:0032667	3	GO:0001817	regulation of cytokine production
+GO:0051712	15	GO:1901216	positive regulation of neuron death
+GO:0032113	8	GO:0043467	regulation of generation of precursor metabolites and energy
+GO:0032655	3	GO:0001817	regulation of cytokine production
+GO:0044782	23	GO:0022607	cellular component assembly
+GO:0034205	4	GO:0006508	proteolysis
+GO:0070647	4	GO:0006508	proteolysis
+GO:0043470	8	GO:0043467	regulation of generation of precursor metabolites and energy
+GO:0032620	2	GO:0001816	cytokine production
+GO:0046824	15	GO:1901216	positive regulation of neuron death
+GO:0040024	20	GO:0021551	central nervous system morphogenesis
+GO:0032627	2	GO:0001816	cytokine production
+GO:0040011	25	GO:0008219	cell death
+GO:0032615	2	GO:0001816	cytokine production
+GO:0032642	3	GO:0001817	regulation of cytokine production
+GO:0060147	1	GO:0035194	post-transcriptional gene silencing by RNA
+GO:1902947	5	GO:0033135	regulation of peptidyl-serine phosphorylation
+GO:1902948	5	GO:0033135	regulation of peptidyl-serine phosphorylation
+GO:0045670	12	GO:0046637	regulation of alpha-beta T cell differentiation
+GO:0045672	12	GO:0046637	regulation of alpha-beta T cell differentiation
+GO:0010835	5	GO:0033135	regulation of peptidyl-serine phosphorylation
+GO:0034765	15	GO:1901216	positive regulation of neuron death
+GO:1900368	1	GO:0035194	post-transcriptional gene silencing by RNA
+GO:0009690	10	GO:1902292	cell cycle DNA replication initiation
+GO:0009691	10	GO:1902292	cell cycle DNA replication initiation
+GO:0032602	2	GO:0001816	cytokine production
+GO:0021782	20	GO:0021551	central nervous system morphogenesis
+GO:0045637	12	GO:0046637	regulation of alpha-beta T cell differentiation
+GO:0045639	12	GO:0046637	regulation of alpha-beta T cell differentiation
+GO:0048660	16	GO:0008285	negative regulation of cell population proliferation
+GO:0051321	25	GO:0008219	cell death
+GO:0048662	16	GO:0008285	negative regulation of cell population proliferation
+GO:0009110	9	GO:0001676	long-chain fatty acid metabolic process
+GO:0090311	5	GO:0033135	regulation of peptidyl-serine phosphorylation
+GO:0048659	25	GO:0008219	cell death
+GO:0048143	20	GO:0021551	central nervous system morphogenesis
+GO:0007586	22	GO:0019098	reproductive behavior
+GO:0048133	22	GO:0019098	reproductive behavior
+GO:0032222	15	GO:1901216	positive regulation of neuron death
+GO:0046425	15	GO:1901216	positive regulation of neuron death
+GO:0034390	25	GO:0008219	cell death
+GO:0034391	15	GO:1901216	positive regulation of neuron death
+GO:0034393	15	GO:1901216	positive regulation of neuron death
+GO:0030656	8	GO:0043467	regulation of generation of precursor metabolites and energy
+GO:1901216	15	GO:1901216	positive regulation of neuron death
+GO:0061900	25	GO:0008219	cell death
+GO:0031343	16	GO:0008285	negative regulation of cell population proliferation
+GO:0022607	23	GO:0022607	cellular component assembly
+GO:0031349	19	GO:0032103	positive regulation of response to external stimulus
+GO:0060271	23	GO:0022607	cellular component assembly
+GO:0031333	23	GO:0022607	cellular component assembly
+GO:0010529	16	GO:0008285	negative regulation of cell population proliferation
+GO:0060213	7	GO:0051091	positive regulation of DNA-binding transcription factor activity
+GO:0061512	24	GO:0006623	protein targeting to vacuole
+GO:0032793	7	GO:0051091	positive regulation of DNA-binding transcription factor activity
+GO:0034341	18	GO:0009607	response to biotic stimulus
+GO:0019731	18	GO:0009607	response to biotic stimulus
+GO:0033141	5	GO:0033135	regulation of peptidyl-serine phosphorylation
+GO:1902003	6	GO:0052547	regulation of peptidase activity
+GO:1902004	6	GO:0052547	regulation of peptidase activity
+GO:0006775	9	GO:0001676	long-chain fatty acid metabolic process
+GO:0033135	5	GO:0033135	regulation of peptidyl-serine phosphorylation
+GO:0150076	18	GO:0009607	response to biotic stimulus
+GO:0033138	5	GO:0033135	regulation of peptidyl-serine phosphorylation
+GO:0033139	5	GO:0033135	regulation of peptidyl-serine phosphorylation
+GO:0050976	17	GO:0050906	detection of stimulus involved in sensory perception
+GO:0051249	11	GO:0042110	T cell activation
+GO:0051239	3	GO:0001817	regulation of cytokine production
+GO:0051931	17	GO:0050906	detection of stimulus involved in sensory perception
+GO:0040014	22	GO:0019098	reproductive behavior
+GO:1905787	17	GO:0050906	detection of stimulus involved in sensory perception
+GO:1905789	17	GO:0050906	detection of stimulus involved in sensory perception
+GO:0031396	5	GO:0033135	regulation of peptidyl-serine phosphorylation
+GO:0050906	17	GO:0050906	detection of stimulus involved in sensory perception
+GO:2000045	14	GO:1902100	negative regulation of metaphase/anaphase transition of cell cycle
+GO:0007166	16	GO:0008285	negative regulation of cell population proliferation
+GO:0070588	24	GO:0006623	protein targeting to vacuole
+GO:0046661	20	GO:0021551	central nervous system morphogenesis
+GO:0001172	10	GO:1902292	cell cycle DNA replication initiation
+GO:0003008	17	GO:0050906	detection of stimulus involved in sensory perception
+GO:0002694	16	GO:0008285	negative regulation of cell population proliferation
+GO:0042659	16	GO:0008285	negative regulation of cell population proliferation
+GO:0046323	24	GO:0006623	protein targeting to vacuole
+GO:1903320	5	GO:0033135	regulation of peptidyl-serine phosphorylation
+GO:0031646	17	GO:0050906	detection of stimulus involved in sensory perception
+GO:0035264	20	GO:0021551	central nervous system morphogenesis
+GO:0009612	18	GO:0009607	response to biotic stimulus
+GO:0010453	16	GO:0008285	negative regulation of cell population proliferation
+GO:0007600	17	GO:0050906	detection of stimulus involved in sensory perception
+GO:0050865	16	GO:0008285	negative regulation of cell population proliferation
+GO:0001841	20	GO:0021551	central nervous system morphogenesis
+GO:0001843	20	GO:0021551	central nervous system morphogenesis
+GO:0008285	16	GO:0008285	negative regulation of cell population proliferation
+GO:0019098	22	GO:0019098	reproductive behavior
+GO:0045930	14	GO:1902100	negative regulation of metaphase/anaphase transition of cell cycle
+GO:0051606	18	GO:0009607	response to biotic stimulus
+GO:0060606	20	GO:0021551	central nervous system morphogenesis
+GO:0050982	18	GO:0009607	response to biotic stimulus
+GO:0060278	22	GO:0019098	reproductive behavior
+GO:0060279	22	GO:0019098	reproductive behavior
+GO:0014020	20	GO:0021551	central nervous system morphogenesis
+GO:0051240	3	GO:0001817	regulation of cytokine production
+GO:0050974	17	GO:0050906	detection of stimulus involved in sensory perception
+GO:0050975	17	GO:0050906	detection of stimulus involved in sensory perception
+GO:1903575	23	GO:0022607	cellular component assembly
+GO:0016101	9	GO:0001676	long-chain fatty acid metabolic process
+GO:0061541	20	GO:0021551	central nervous system morphogenesis
+GO:1901678	24	GO:0006623	protein targeting to vacuole
+GO:0046693	22	GO:0019098	reproductive behavior
+GO:0039502	19	GO:0032103	positive regulation of response to external stimulus
+GO:0008205	9	GO:0001676	long-chain fatty acid metabolic process
+GO:0008364	20	GO:0021551	central nervous system morphogenesis
+GO:0043271	24	GO:0006623	protein targeting to vacuole
+GO:0093002	18	GO:0009607	response to biotic stimulus
+GO:0006826	24	GO:0006623	protein targeting to vacuole
+GO:0015886	24	GO:0006623	protein targeting to vacuole
+GO:0006006	9	GO:0001676	long-chain fatty acid metabolic process
+GO:0006970	18	GO:0009607	response to biotic stimulus
+GO:0001523	9	GO:0001676	long-chain fatty acid metabolic process
+GO:1990146	24	GO:0006623	protein targeting to vacuole
+GO:0017121	24	GO:0006623	protein targeting to vacuole
+GO:0032728	3	GO:0001817	regulation of cytokine production
+GO:0044419	25	GO:0008219	cell death
+GO:0043280	6	GO:0052547	regulation of peptidase activity
+GO:0043281	6	GO:0052547	regulation of peptidase activity
+GO:0098586	18	GO:0009607	response to biotic stimulus
+GO:0098542	18	GO:0009607	response to biotic stimulus
+GO:0021551	20	GO:0021551	central nervous system morphogenesis
+GO:0097202	6	GO:0052547	regulation of peptidase activity
+GO:0043207	18	GO:0009607	response to biotic stimulus
+GO:1904747	15	GO:1901216	positive regulation of neuron death
+GO:0031508	7	GO:0051091	positive regulation of DNA-binding transcription factor activity
+GO:0031509	7	GO:0051091	positive regulation of DNA-binding transcription factor activity
+GO:0016579	4	GO:0006508	proteolysis
+GO:1900118	15	GO:1901216	positive regulation of neuron death
+GO:0031048	7	GO:0051091	positive regulation of DNA-binding transcription factor activity
+GO:0006952	18	GO:0009607	response to biotic stimulus
+GO:0006955	18	GO:0009607	response to biotic stimulus
+GO:0034508	23	GO:0022607	cellular component assembly
+GO:0042475	20	GO:0021551	central nervous system morphogenesis
+GO:0042476	20	GO:0021551	central nervous system morphogenesis
+GO:0006919	6	GO:0052547	regulation of peptidase activity
+GO:0051607	18	GO:0009607	response to biotic stimulus
+GO:0050829	18	GO:0009607	response to biotic stimulus
+GO:1902742	20	GO:0021551	central nervous system morphogenesis
+GO:0031214	20	GO:0021551	central nervous system morphogenesis
+GO:0046716	25	GO:0008219	cell death
+GO:0030466	7	GO:0051091	positive regulation of DNA-binding transcription factor activity
+GO:0035545	20	GO:0021551	central nervous system morphogenesis
+GO:0030587	20	GO:0021551	central nervous system morphogenesis
+GO:0010954	6	GO:0052547	regulation of peptidase activity
+GO:0051707	18	GO:0009607	response to biotic stimulus
+GO:0040034	15	GO:1901216	positive regulation of neuron death
+GO:0030042	23	GO:0022607	cellular component assembly
+GO:1905808	15	GO:1901216	positive regulation of neuron death
+GO:0009607	18	GO:0009607	response to biotic stimulus
+GO:0043628	10	GO:1902292	cell cycle DNA replication initiation
+GO:0042742	18	GO:0009607	response to biotic stimulus
+GO:0070782	24	GO:0006623	protein targeting to vacuole
+GO:0046651	11	GO:0042110	T cell activation
+GO:2000816	14	GO:1902100	negative regulation of metaphase/anaphase transition of cell cycle
+GO:0002697	19	GO:0032103	positive regulation of response to external stimulus
+GO:1902100	14	GO:1902100	negative regulation of metaphase/anaphase transition of cell cycle
+GO:0031577	16	GO:0008285	negative regulation of cell population proliferation
+GO:0007638	18	GO:0009607	response to biotic stimulus
+GO:0042332	18	GO:0009607	response to biotic stimulus
+GO:0006898	24	GO:0006623	protein targeting to vacuole
+GO:0050731	5	GO:0033135	regulation of peptidyl-serine phosphorylation
+GO:0051298	23	GO:0022607	cellular component assembly
+GO:0045841	14	GO:1902100	negative regulation of metaphase/anaphase transition of cell cycle
+GO:0032943	25	GO:0008219	cell death
+GO:0032944	16	GO:0008285	negative regulation of cell population proliferation
+GO:0016048	18	GO:0009607	response to biotic stimulus
+GO:1903037	15	GO:1901216	positive regulation of neuron death
+GO:0045839	14	GO:1902100	negative regulation of metaphase/anaphase transition of cell cycle
+GO:0050863	11	GO:0042110	T cell activation
+GO:0072659	24	GO:0006623	protein targeting to vacuole
+GO:0045940	8	GO:0043467	regulation of generation of precursor metabolites and energy
+GO:0050960	17	GO:0050906	detection of stimulus involved in sensory perception
+GO:0050961	17	GO:0050906	detection of stimulus involved in sensory perception
+GO:0050965	17	GO:0050906	detection of stimulus involved in sensory perception
+GO:0050966	17	GO:0050906	detection of stimulus involved in sensory perception
+GO:0050951	17	GO:0050906	detection of stimulus involved in sensory perception
+GO:0050955	17	GO:0050906	detection of stimulus involved in sensory perception
+GO:0042045	24	GO:0006623	protein targeting to vacuole
+GO:0042048	18	GO:0009607	response to biotic stimulus
+GO:0062149	17	GO:0050906	detection of stimulus involved in sensory perception
+GO:0042110	11	GO:0042110	T cell activation
+GO:0070661	25	GO:0008219	cell death
+GO:0070663	16	GO:0008285	negative regulation of cell population proliferation
+GO:0048565	20	GO:0021551	central nervous system morphogenesis
+GO:0010893	9	GO:0001676	long-chain fatty acid metabolic process
+GO:0051784	14	GO:1902100	negative regulation of metaphase/anaphase transition of cell cycle
+GO:0048060	18	GO:0009607	response to biotic stimulus
+GO:0007494	20	GO:0021551	central nervous system morphogenesis
+GO:0055123	20	GO:0021551	central nervous system morphogenesis
+GO:1905342	15	GO:1901216	positive regulation of neuron death
+GO:0002832	19	GO:0032103	positive regulation of response to external stimulus
+GO:0035178	22	GO:0019098	reproductive behavior
+GO:0035179	22	GO:0019098	reproductive behavior
+GO:0007411	20	GO:0021551	central nervous system morphogenesis
+GO:0007413	20	GO:0021551	central nervous system morphogenesis
+GO:0033555	18	GO:0009607	response to biotic stimulus
+GO:1905819	14	GO:1902100	negative regulation of metaphase/anaphase transition of cell cycle
+GO:0050670	11	GO:0042110	T cell activation
+GO:0009629	18	GO:0009607	response to biotic stimulus
+GO:0007094	14	GO:1902100	negative regulation of metaphase/anaphase transition of cell cycle
+GO:1903394	23	GO:0022607	cellular component assembly
+GO:0051985	16	GO:0008285	negative regulation of cell population proliferation
+GO:0048265	18	GO:0009607	response to biotic stimulus
+GO:0048266	18	GO:0009607	response to biotic stimulus
+GO:0008345	22	GO:0019098	reproductive behavior
+GO:0033046	14	GO:1902100	negative regulation of metaphase/anaphase transition of cell cycle
+GO:0033048	14	GO:1902100	negative regulation of metaphase/anaphase transition of cell cycle
+GO:0071173	16	GO:0008285	negative regulation of cell population proliferation
+GO:0071174	14	GO:1902100	negative regulation of metaphase/anaphase transition of cell cycle
+GO:0002065	20	GO:0021551	central nervous system morphogenesis
+GO:2001251	14	GO:1902100	negative regulation of metaphase/anaphase transition of cell cycle
+GO:0010696	14	GO:1902100	negative regulation of metaphase/anaphase transition of cell cycle

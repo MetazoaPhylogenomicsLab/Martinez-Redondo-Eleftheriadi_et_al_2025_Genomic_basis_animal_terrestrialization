@@ -1,0 +1,29 @@
+GO:0051285	4	GO:0031097	medial cortex
+GO:0005576	5	GO:0005933	cellular bud
+GO:0000781	1	GO:0000776	kinetochore
+GO:0000782	1	GO:0000776	kinetochore
+GO:0005615	5	GO:0005933	cellular bud
+GO:0019031	2	GO:0036338	viral membrane
+GO:0032153	5	GO:0005933	cellular bud
+GO:0000775	1	GO:0000776	kinetochore
+GO:0000776	1	GO:0000776	kinetochore
+GO:0036338	2	GO:0036338	viral membrane
+GO:0031934	1	GO:0000776	kinetochore
+GO:0005816	1	GO:0000776	kinetochore
+GO:0042600	4	GO:0031097	medial cortex
+GO:0055036	2	GO:0036338	viral membrane
+GO:0035974	1	GO:0000776	kinetochore
+GO:0031160	4	GO:0031097	medial cortex
+GO:0033644	3	GO:0033644	host cell membrane
+GO:0033646	3	GO:0033644	host cell membrane
+GO:0097228	4	GO:0031097	medial cortex
+GO:0044423	2	GO:0036338	viral membrane
+GO:0031097	4	GO:0031097	medial cortex
+GO:0030870	4	GO:0031097	medial cortex
+GO:0043160	4	GO:0031097	medial cortex
+GO:0000940	1	GO:0000776	kinetochore
+GO:0020002	3	GO:0033644	host cell membrane
+GO:0000792	1	GO:0000776	kinetochore
+GO:0005933	5	GO:0005933	cellular bud
+GO:0005934	5	GO:0005933	cellular bud
+GO:0005935	5	GO:0005933	cellular bud

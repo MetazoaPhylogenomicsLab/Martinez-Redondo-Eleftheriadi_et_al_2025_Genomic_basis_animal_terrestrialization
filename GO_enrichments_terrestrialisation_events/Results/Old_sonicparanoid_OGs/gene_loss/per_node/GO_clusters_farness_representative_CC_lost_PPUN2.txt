@@ -1,0 +1,42 @@
+GO:0070985	4	GO:0000943	retrotransposon nucleocapsid
+GO:0098562	2	GO:0005886	plasma membrane
+GO:0098552	2	GO:0005886	plasma membrane
+GO:0042025	5	GO:0005576	extracellular region
+GO:0005576	5	GO:0005576	extracellular region
+GO:0038039	1	GO:0098878	neurotransmitter receptor complex
+GO:0019005	3	GO:0042575	DNA polymerase complex
+GO:0043186	4	GO:0000943	retrotransposon nucleocapsid
+GO:0036128	1	GO:0098878	neurotransmitter receptor complex
+GO:0019897	2	GO:0005886	plasma membrane
+GO:0016324	2	GO:0005886	plasma membrane
+GO:0097730	4	GO:0000943	retrotransposon nucleocapsid
+GO:0016342	1	GO:0098878	neurotransmitter receptor complex
+GO:0005652	4	GO:0000943	retrotransposon nucleocapsid
+GO:0009897	2	GO:0005886	plasma membrane
+GO:0009898	2	GO:0005886	plasma membrane
+GO:0008328	1	GO:0098878	neurotransmitter receptor complex
+GO:0060170	2	GO:0005886	plasma membrane
+GO:0044298	2	GO:0005886	plasma membrane
+GO:0016605	4	GO:0000943	retrotransposon nucleocapsid
+GO:0044304	5	GO:0005576	extracellular region
+GO:0000109	4	GO:0000943	retrotransposon nucleocapsid
+GO:0005614	5	GO:0005576	extracellular region
+GO:0005615	5	GO:0005576	extracellular region
+GO:0031253	2	GO:0005886	plasma membrane
+GO:0043256	5	GO:0005576	extracellular region
+GO:0005886	2	GO:0005886	plasma membrane
+GO:0072669	3	GO:0042575	DNA polymerase complex
+GO:0031463	3	GO:0042575	DNA polymerase complex
+GO:0098878	1	GO:0098878	neurotransmitter receptor complex
+GO:0032809	2	GO:0005886	plasma membrane
+GO:0043235	3	GO:0042575	DNA polymerase complex
+GO:0032590	2	GO:0005886	plasma membrane
+GO:0043204	5	GO:0005576	extracellular region
+GO:0098975	5	GO:0005576	extracellular region
+GO:0036064	4	GO:0000943	retrotransposon nucleocapsid
+GO:0150005	3	GO:0042575	DNA polymerase complex
+GO:0000943	4	GO:0000943	retrotransposon nucleocapsid
+GO:0098590	2	GO:0005886	plasma membrane
+GO:0042575	3	GO:0042575	DNA polymerase complex
+GO:0031528	2	GO:0005886	plasma membrane
+GO:0016027	1	GO:0098878	neurotransmitter receptor complex

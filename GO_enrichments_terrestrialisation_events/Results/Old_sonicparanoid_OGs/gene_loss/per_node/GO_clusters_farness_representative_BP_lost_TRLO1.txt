@@ -1,0 +1,429 @@
+GO:1902679	1	GO:0006355	regulation of transcription, DNA-templated
+GO:0075732	7	GO:0019058	viral life cycle
+GO:0075733	7	GO:0019058	viral life cycle
+GO:0001960	18	GO:0045746	negative regulation of Notch signaling pathway
+GO:0006697	5	GO:0009691	cytokinin biosynthetic process
+GO:0046601	17	GO:0044089	positive regulation of cellular component biogenesis
+GO:0034080	16	GO:0007099	centriole replication
+GO:0090305	6	GO:0016444	somatic cell DNA recombination
+GO:0090309	2	GO:2000573	positive regulation of DNA biosynthetic process
+GO:0045667	12	GO:0032330	regulation of chondrocyte differentiation
+GO:1904950	19	GO:0002683	negative regulation of immune system process
+GO:1900015	3	GO:0032675	regulation of interleukin-6 production
+GO:1900016	3	GO:0032675	regulation of interleukin-6 production
+GO:0030150	8	GO:0140353	lipid export from cell
+GO:0060317	14	GO:0061005	cell differentiation involved in kidney development
+GO:0051973	2	GO:2000573	positive regulation of DNA biosynthetic process
+GO:0045601	12	GO:0032330	regulation of chondrocyte differentiation
+GO:0060337	18	GO:0045746	negative regulation of Notch signaling pathway
+GO:0060338	18	GO:0045746	negative regulation of Notch signaling pathway
+GO:0060339	18	GO:0045746	negative regulation of Notch signaling pathway
+GO:0043045	6	GO:0016444	somatic cell DNA recombination
+GO:0030282	13	GO:0001568	blood vessel development
+GO:1905758	17	GO:0044089	positive regulation of cellular component biogenesis
+GO:0039700	7	GO:0019058	viral life cycle
+GO:0010760	19	GO:0002683	negative regulation of immune system process
+GO:0010764	19	GO:0002683	negative regulation of immune system process
+GO:0042078	11	GO:0042078	germ-line stem cell division
+GO:0003002	13	GO:0001568	blood vessel development
+GO:0000266	16	GO:0007099	centriole replication
+GO:0010718	12	GO:0032330	regulation of chondrocyte differentiation
+GO:0060153	20	GO:0008037	cell recognition
+GO:0030719	11	GO:0042078	germ-line stem cell division
+GO:0060140	20	GO:0008037	cell recognition
+GO:0060141	20	GO:0008037	cell recognition
+GO:0031060	4	GO:0090085	regulation of protein deubiquitination
+GO:0070121	13	GO:0001568	blood vessel development
+GO:0002076	14	GO:0061005	cell differentiation involved in kidney development
+GO:0031055	16	GO:0007099	centriole replication
+GO:2000055	18	GO:0045746	negative regulation of Notch signaling pathway
+GO:0039563	20	GO:0008037	cell recognition
+GO:0009880	13	GO:0001568	blood vessel development
+GO:0006948	20	GO:0008037	cell recognition
+GO:0031031	17	GO:0044089	positive regulation of cellular component biogenesis
+GO:0039554	19	GO:0002683	negative regulation of immune system process
+GO:2000027	12	GO:0032330	regulation of chondrocyte differentiation
+GO:0030857	12	GO:0032330	regulation of chondrocyte differentiation
+GO:0010837	20	GO:0008037	cell recognition
+GO:0045944	1	GO:0006355	regulation of transcription, DNA-templated
+GO:1905521	19	GO:0002683	negative regulation of immune system process
+GO:0000737	6	GO:0016444	somatic cell DNA recombination
+GO:0039502	18	GO:0045746	negative regulation of Notch signaling pathway
+GO:1905517	20	GO:0008037	cell recognition
+GO:0030838	17	GO:0044089	positive regulation of cellular component biogenesis
+GO:0052041	20	GO:0008037	cell recognition
+GO:0039693	7	GO:0019058	viral life cycle
+GO:0039694	7	GO:0019058	viral life cycle
+GO:0005978	5	GO:0009691	cytokinin biosynthetic process
+GO:0120254	5	GO:0009691	cytokinin biosynthetic process
+GO:0072010	13	GO:0001568	blood vessel development
+GO:0060795	14	GO:0061005	cell differentiation involved in kidney development
+GO:0010525	20	GO:0008037	cell recognition
+GO:0039686	7	GO:0019058	viral life cycle
+GO:0010526	20	GO:0008037	cell recognition
+GO:0010529	20	GO:0008037	cell recognition
+GO:0050777	19	GO:0002683	negative regulation of immune system process
+GO:0050728	19	GO:0002683	negative regulation of immune system process
+GO:0072009	13	GO:0001568	blood vessel development
+GO:0039645	20	GO:0008037	cell recognition
+GO:0039646	20	GO:0008037	cell recognition
+GO:0140278	16	GO:0007099	centriole replication
+GO:0030511	18	GO:0045746	negative regulation of Notch signaling pathway
+GO:0017015	18	GO:0045746	negative regulation of Notch signaling pathway
+GO:0009691	5	GO:0009691	cytokinin biosynthetic process
+GO:0032310	8	GO:0140353	lipid export from cell
+GO:0061041	19	GO:0002683	negative regulation of immune system process
+GO:0032330	12	GO:0032330	regulation of chondrocyte differentiation
+GO:0032331	12	GO:0032330	regulation of chondrocyte differentiation
+GO:0008037	20	GO:0008037	cell recognition
+GO:0061037	12	GO:0032330	regulation of chondrocyte differentiation
+GO:0061005	14	GO:0061005	cell differentiation involved in kidney development
+GO:0000578	13	GO:0001568	blood vessel development
+GO:0007099	16	GO:0007099	centriole replication
+GO:0060828	18	GO:0045746	negative regulation of Notch signaling pathway
+GO:0090529	16	GO:0007099	centriole replication
+GO:1903003	4	GO:0090085	regulation of protein deubiquitination
+GO:1903004	4	GO:0090085	regulation of protein deubiquitination
+GO:1903006	4	GO:0090085	regulation of protein deubiquitination
+GO:0034219	8	GO:0140353	lipid export from cell
+GO:0043122	18	GO:0045746	negative regulation of Notch signaling pathway
+GO:0043123	18	GO:0045746	negative regulation of Notch signaling pathway
+GO:0033138	4	GO:0090085	regulation of protein deubiquitination
+GO:0042423	5	GO:0009691	cytokinin biosynthetic process
+GO:0042415	5	GO:0009691	cytokinin biosynthetic process
+GO:0042446	5	GO:0009691	cytokinin biosynthetic process
+GO:0042402	5	GO:0009691	cytokinin biosynthetic process
+GO:0032197	20	GO:0008037	cell recognition
+GO:1902017	17	GO:0044089	positive regulation of cellular component biogenesis
+GO:0034765	20	GO:0008037	cell recognition
+GO:0002456	15	GO:0002889	regulation of immunoglobulin mediated immune response
+GO:0015074	6	GO:0016444	somatic cell DNA recombination
+GO:0019954	10	GO:0048771	tissue remodeling
+GO:0044782	16	GO:0007099	centriole replication
+GO:0050691	19	GO:0002683	negative regulation of immune system process
+GO:2000480	4	GO:0090085	regulation of protein deubiquitination
+GO:0072311	14	GO:0061005	cell differentiation involved in kidney development
+GO:1904355	2	GO:2000573	positive regulation of DNA biosynthetic process
+GO:0033209	18	GO:0045746	negative regulation of Notch signaling pathway
+GO:0032102	19	GO:0002683	negative regulation of immune system process
+GO:0035036	11	GO:0042078	germ-line stem cell division
+GO:0048333	14	GO:0061005	cell differentiation involved in kidney development
+GO:0045040	8	GO:0140353	lipid export from cell
+GO:0032273	17	GO:0044089	positive regulation of cellular component biogenesis
+GO:0032212	2	GO:2000573	positive regulation of DNA biosynthetic process
+GO:0009988	20	GO:0008037	cell recognition
+GO:0051495	17	GO:0044089	positive regulation of cellular component biogenesis
+GO:0007398	13	GO:0001568	blood vessel development
+GO:0034587	6	GO:0016444	somatic cell DNA recombination
+GO:0032755	3	GO:0032675	regulation of interleukin-6 production
+GO:0032757	3	GO:0032675	regulation of interleukin-6 production
+GO:0018119	4	GO:0090085	regulation of protein deubiquitination
+GO:0001172	1	GO:0006355	regulation of transcription, DNA-templated
+GO:0031274	17	GO:0044089	positive regulation of cellular component biogenesis
+GO:0002244	14	GO:0061005	cell differentiation involved in kidney development
+GO:0002230	19	GO:0002683	negative regulation of immune system process
+GO:0031214	13	GO:0001568	blood vessel development
+GO:0007317	11	GO:0042078	germ-line stem cell division
+GO:0007340	11	GO:0042078	germ-line stem cell division
+GO:0072112	14	GO:0061005	cell differentiation involved in kidney development
+GO:0046323	8	GO:0140353	lipid export from cell
+GO:0048132	11	GO:0042078	germ-line stem cell division
+GO:0046330	18	GO:0045746	negative regulation of Notch signaling pathway
+GO:0000911	16	GO:0007099	centriole replication
+GO:0000917	16	GO:0007099	centriole replication
+GO:0061180	13	GO:0001568	blood vessel development
+GO:0006351	1	GO:0006355	regulation of transcription, DNA-templated
+GO:0006355	1	GO:0006355	regulation of transcription, DNA-templated
+GO:0006357	1	GO:0006355	regulation of transcription, DNA-templated
+GO:0032814	19	GO:0002683	negative regulation of immune system process
+GO:0002709	15	GO:0002889	regulation of immunoglobulin mediated immune response
+GO:1902465	4	GO:0090085	regulation of protein deubiquitination
+GO:0006337	16	GO:0007099	centriole replication
+GO:1902459	12	GO:0032330	regulation of chondrocyte differentiation
+GO:0060962	1	GO:0006355	regulation of transcription, DNA-templated
+GO:0048232	11	GO:0042078	germ-line stem cell division
+GO:0006306	6	GO:0016444	somatic cell DNA recombination
+GO:1902410	16	GO:0007099	centriole replication
+GO:0033668	20	GO:0008037	cell recognition
+GO:0008258	13	GO:0001568	blood vessel development
+GO:0051224	8	GO:0140353	lipid export from cell
+GO:0007156	20	GO:0008037	cell recognition
+GO:0002822	15	GO:0002889	regulation of immunoglobulin mediated immune response
+GO:0019068	7	GO:0019058	viral life cycle
+GO:0019069	7	GO:0019058	viral life cycle
+GO:0019050	20	GO:0008037	cell recognition
+GO:1902407	16	GO:0007099	centriole replication
+GO:0007187	18	GO:0045746	negative regulation of Notch signaling pathway
+GO:0007189	18	GO:0045746	negative regulation of Notch signaling pathway
+GO:0019058	7	GO:0019058	viral life cycle
+GO:0019080	7	GO:0019058	viral life cycle
+GO:0001710	14	GO:0061005	cell differentiation involved in kidney development
+GO:0019083	7	GO:0019058	viral life cycle
+GO:0007179	18	GO:0045746	negative regulation of Notch signaling pathway
+GO:0019073	7	GO:0019058	viral life cycle
+GO:0019076	7	GO:0019058	viral life cycle
+GO:0002832	19	GO:0002683	negative regulation of immune system process
+GO:0019079	7	GO:0019058	viral life cycle
+GO:0043622	16	GO:0007099	centriole replication
+GO:0019042	7	GO:0019058	viral life cycle
+GO:0019045	7	GO:0019058	viral life cycle
+GO:0019046	7	GO:0019058	viral life cycle
+GO:0045456	5	GO:0009691	cytokinin biosynthetic process
+GO:0001702	13	GO:0001568	blood vessel development
+GO:0032506	16	GO:0007099	centriole replication
+GO:0051785	17	GO:0044089	positive regulation of cellular component biogenesis
+GO:0007266	18	GO:0045746	negative regulation of Notch signaling pathway
+GO:0022617	16	GO:0007099	centriole replication
+GO:0007283	11	GO:0042078	germ-line stem cell division
+GO:0007284	11	GO:0042078	germ-line stem cell division
+GO:0032675	3	GO:0032675	regulation of interleukin-6 production
+GO:0001822	13	GO:0001568	blood vessel development
+GO:0007289	11	GO:0042078	germ-line stem cell division
+GO:0002532	10	GO:0048771	tissue remodeling
+GO:0002534	3	GO:0032675	regulation of interleukin-6 production
+GO:0007210	18	GO:0045746	negative regulation of Notch signaling pathway
+GO:0007212	18	GO:0045746	negative regulation of Notch signaling pathway
+GO:0098722	20	GO:0008037	cell recognition
+GO:0098724	20	GO:0008037	cell recognition
+GO:0098725	20	GO:0008037	cell recognition
+GO:0098728	11	GO:0042078	germ-line stem cell division
+GO:0098729	11	GO:0042078	germ-line stem cell division
+GO:0051702	7	GO:0019058	viral life cycle
+GO:0098730	11	GO:0042078	germ-line stem cell division
+GO:1903722	17	GO:0044089	positive regulation of cellular component biogenesis
+GO:1903724	17	GO:0044089	positive regulation of cellular component biogenesis
+GO:0002683	19	GO:0002683	negative regulation of immune system process
+GO:2000694	17	GO:0044089	positive regulation of cellular component biogenesis
+GO:0001570	14	GO:0061005	cell differentiation involved in kidney development
+GO:0040025	13	GO:0001568	blood vessel development
+GO:0040028	12	GO:0032330	regulation of chondrocyte differentiation
+GO:0046794	7	GO:0019058	viral life cycle
+GO:0006278	1	GO:0006355	regulation of transcription, DNA-templated
+GO:0040032	13	GO:0001568	blood vessel development
+GO:0046755	7	GO:0019058	viral life cycle
+GO:0090090	18	GO:0045746	negative regulation of Notch signaling pathway
+GO:2000647	20	GO:0008037	cell recognition
+GO:0046718	7	GO:0019058	viral life cycle
+GO:0046740	7	GO:0019058	viral life cycle
+GO:0090068	17	GO:0044089	positive regulation of cellular component biogenesis
+GO:0071805	8	GO:0140353	lipid export from cell
+GO:0051568	4	GO:0090085	regulation of protein deubiquitination
+GO:1903844	18	GO:0045746	negative regulation of Notch signaling pathway
+GO:1903846	18	GO:0045746	negative regulation of Notch signaling pathway
+GO:0015766	8	GO:0140353	lipid export from cell
+GO:0090085	4	GO:0090085	regulation of protein deubiquitination
+GO:0015771	8	GO:0140353	lipid export from cell
+GO:0015772	8	GO:0140353	lipid export from cell
+GO:0015749	8	GO:0140353	lipid export from cell
+GO:0061511	16	GO:0007099	centriole replication
+GO:0043923	7	GO:0019058	viral life cycle
+GO:1904659	8	GO:0140353	lipid export from cell
+GO:0019336	5	GO:0009691	cytokinin biosynthetic process
+GO:0045787	17	GO:0044089	positive regulation of cellular component biogenesis
+GO:0098532	4	GO:0090085	regulation of protein deubiquitination
+GO:0070096	16	GO:0007099	centriole replication
+GO:0045724	17	GO:0044089	positive regulation of cellular component biogenesis
+GO:0046849	10	GO:0048771	tissue remodeling
+GO:0045740	2	GO:2000573	positive regulation of DNA biosynthetic process
+GO:0045746	18	GO:0045746	negative regulation of Notch signaling pathway
+GO:0032963	5	GO:0009691	cytokinin biosynthetic process
+GO:0032986	16	GO:0007099	centriole replication
+GO:1903506	1	GO:0006355	regulation of transcription, DNA-templated
+GO:0098664	18	GO:0045746	negative regulation of Notch signaling pathway
+GO:0009399	5	GO:0009691	cytokinin biosynthetic process
+GO:0046599	17	GO:0044089	positive regulation of cellular component biogenesis
+GO:0045892	1	GO:0006355	regulation of transcription, DNA-templated
+GO:0045898	1	GO:0006355	regulation of transcription, DNA-templated
+GO:0035850	14	GO:0061005	cell differentiation involved in kidney development
+GO:0008645	8	GO:0140353	lipid export from cell
+GO:0007530	11	GO:0042078	germ-line stem cell division
+GO:0007531	11	GO:0042078	germ-line stem cell division
+GO:0007533	11	GO:0042078	germ-line stem cell division
+GO:0035822	6	GO:0016444	somatic cell DNA recombination
+GO:0010375	13	GO:0001568	blood vessel development
+GO:0007501	14	GO:0061005	cell differentiation involved in kidney development
+GO:0009310	5	GO:0009691	cytokinin biosynthetic process
+GO:0006805	5	GO:0009691	cytokinin biosynthetic process
+GO:0006809	5	GO:0009691	cytokinin biosynthetic process
+GO:0045818	5	GO:0009691	cytokinin biosynthetic process
+GO:0045840	17	GO:0044089	positive regulation of cellular component biogenesis
+GO:0030381	11	GO:0042078	germ-line stem cell division
+GO:0045836	17	GO:0044089	positive regulation of cellular component biogenesis
+GO:0030322	19	GO:0002683	negative regulation of immune system process
+GO:2001141	1	GO:0006355	regulation of transcription, DNA-templated
+GO:0010497	20	GO:0008037	cell recognition
+GO:0006589	5	GO:0009691	cytokinin biosynthetic process
+GO:0097659	1	GO:0006355	regulation of transcription, DNA-templated
+GO:0030466	1	GO:0006355	regulation of transcription, DNA-templated
+GO:0014042	12	GO:0032330	regulation of chondrocyte differentiation
+GO:0030435	14	GO:0061005	cell differentiation involved in kidney development
+GO:0044089	17	GO:0044089	positive regulation of cellular component biogenesis
+GO:0001936	20	GO:0008037	cell recognition
+GO:0001937	20	GO:0008037	cell recognition
+GO:0090303	19	GO:0002683	negative regulation of immune system process
+GO:0045666	12	GO:0032330	regulation of chondrocyte differentiation
+GO:0030193	19	GO:0002683	negative regulation of immune system process
+GO:0035627	8	GO:0140353	lipid export from cell
+GO:0030195	19	GO:0002683	negative regulation of immune system process
+GO:0044038	5	GO:0009691	cytokinin biosynthetic process
+GO:1900047	19	GO:0002683	negative regulation of immune system process
+GO:0045616	12	GO:0032330	regulation of chondrocyte differentiation
+GO:0095500	18	GO:0045746	negative regulation of Notch signaling pathway
+GO:0051984	17	GO:0044089	positive regulation of cellular component biogenesis
+GO:0019724	15	GO:0002889	regulation of immunoglobulin mediated immune response
+GO:0140353	8	GO:0140353	lipid export from cell
+GO:0032095	19	GO:0002683	negative regulation of immune system process
+GO:0032098	19	GO:0002683	negative regulation of immune system process
+GO:0009787	18	GO:0045746	negative regulation of Notch signaling pathway
+GO:0003009	10	GO:0048771	tissue remodeling
+GO:0046942	8	GO:0140353	lipid export from cell
+GO:0090224	17	GO:0044089	positive regulation of cellular component biogenesis
+GO:0034377	17	GO:0044089	positive regulation of cellular component biogenesis
+GO:1902902	17	GO:0044089	positive regulation of cellular component biogenesis
+GO:1902905	17	GO:0044089	positive regulation of cellular component biogenesis
+GO:0006941	10	GO:0048771	tissue remodeling
+GO:0010876	8	GO:0140353	lipid export from cell
+GO:0010845	2	GO:2000573	positive regulation of DNA biosynthetic process
+GO:0010838	20	GO:0008037	cell recognition
+GO:0000723	6	GO:0016444	somatic cell DNA recombination
+GO:0060271	16	GO:0007099	centriole replication
+GO:0000741	16	GO:0007099	centriole replication
+GO:0060236	17	GO:0044089	positive regulation of cellular component biogenesis
+GO:0010596	19	GO:0002683	negative regulation of immune system process
+GO:0038084	18	GO:0045746	negative regulation of Notch signaling pathway
+GO:0039695	7	GO:0019058	viral life cycle
+GO:0072089	20	GO:0008037	cell recognition
+GO:0033344	8	GO:0140353	lipid export from cell
+GO:0039674	7	GO:0019058	viral life cycle
+GO:0034196	8	GO:0140353	lipid export from cell
+GO:0034197	8	GO:0140353	lipid export from cell
+GO:0061098	4	GO:0090085	regulation of protein deubiquitination
+GO:0050731	4	GO:0090085	regulation of protein deubiquitination
+GO:0061045	19	GO:0002683	negative regulation of immune system process
+GO:0043410	18	GO:0045746	negative regulation of Notch signaling pathway
+GO:0008038	14	GO:0061005	cell differentiation involved in kidney development
+GO:0008039	14	GO:0061005	cell differentiation involved in kidney development
+GO:0050867	17	GO:0044089	positive regulation of cellular component biogenesis
+GO:0034103	19	GO:0002683	negative regulation of immune system process
+GO:0050881	10	GO:0048771	tissue remodeling
+GO:0032309	8	GO:0140353	lipid export from cell
+GO:0010633	19	GO:0002683	negative regulation of immune system process
+GO:0043405	4	GO:0090085	regulation of protein deubiquitination
+GO:0050819	19	GO:0002683	negative regulation of immune system process
+GO:0016064	15	GO:0002889	regulation of immunoglobulin mediated immune response
+GO:1903035	19	GO:0002683	negative regulation of immune system process
+GO:1903037	20	GO:0008037	cell recognition
+GO:1903038	20	GO:0008037	cell recognition
+GO:0002381	15	GO:0002889	regulation of immunoglobulin mediated immune response
+GO:0002377	3	GO:0032675	regulation of interleukin-6 production
+GO:0003418	14	GO:0061005	cell differentiation involved in kidney development
+GO:0003431	14	GO:0061005	cell differentiation involved in kidney development
+GO:0034727	5	GO:0009691	cytokinin biosynthetic process
+GO:0002440	3	GO:0032675	regulation of interleukin-6 production
+GO:1901096	17	GO:0044089	positive regulation of cellular component biogenesis
+GO:0035017	13	GO:0001568	blood vessel development
+GO:0032101	19	GO:0002683	negative regulation of immune system process
+GO:1905952	19	GO:0002683	negative regulation of immune system process
+GO:0008365	13	GO:0001568	blood vessel development
+GO:0031112	17	GO:0044089	positive regulation of cellular component biogenesis
+GO:0031113	17	GO:0044089	positive regulation of cellular component biogenesis
+GO:0031116	17	GO:0044089	positive regulation of cellular component biogenesis
+GO:0032200	16	GO:0007099	centriole replication
+GO:2000146	19	GO:0002683	negative regulation of immune system process
+GO:0044805	5	GO:0009691	cytokinin biosynthetic process
+GO:0032793	1	GO:0006355	regulation of transcription, DNA-templated
+GO:0031272	17	GO:0044089	positive regulation of cellular component biogenesis
+GO:0055013	14	GO:0061005	cell differentiation involved in kidney development
+GO:2000273	18	GO:0045746	negative regulation of Notch signaling pathway
+GO:0002200	13	GO:0001568	blood vessel development
+GO:0002204	6	GO:0016444	somatic cell DNA recombination
+GO:0034508	16	GO:0007099	centriole replication
+GO:0002208	15	GO:0002889	regulation of immunoglobulin mediated immune response
+GO:0042730	19	GO:0002683	negative regulation of immune system process
+GO:0048144	20	GO:0008037	cell recognition
+GO:1902389	8	GO:0140353	lipid export from cell
+GO:1903431	12	GO:0032330	regulation of chondrocyte differentiation
+GO:0032872	18	GO:0045746	negative regulation of Notch signaling pathway
+GO:0002712	15	GO:0002889	regulation of immunoglobulin mediated immune response
+GO:0002714	15	GO:0002889	regulation of immunoglobulin mediated immune response
+GO:0016444	6	GO:0016444	somatic cell DNA recombination
+GO:0016445	13	GO:0001568	blood vessel development
+GO:0016447	6	GO:0016444	somatic cell DNA recombination
+GO:2000781	2	GO:2000573	positive regulation of DNA biosynthetic process
+GO:2000786	17	GO:0044089	positive regulation of cellular component biogenesis
+GO:0043542	10	GO:0048771	tissue remodeling
+GO:2000779	2	GO:2000573	positive regulation of DNA biosynthetic process
+GO:0002700	3	GO:0032675	regulation of interleukin-6 production
+GO:0002702	3	GO:0032675	regulation of interleukin-6 production
+GO:0002708	15	GO:0002889	regulation of immunoglobulin mediated immune response
+GO:0002891	15	GO:0002889	regulation of immunoglobulin mediated immune response
+GO:0051251	19	GO:0002683	negative regulation of immune system process
+GO:2001022	18	GO:0045746	negative regulation of Notch signaling pathway
+GO:0002889	15	GO:0002889	regulation of immunoglobulin mediated immune response
+GO:2001034	2	GO:2000573	positive regulation of DNA biosynthetic process
+GO:0002821	15	GO:0002889	regulation of immunoglobulin mediated immune response
+GO:0007159	20	GO:0008037	cell recognition
+GO:0002824	15	GO:0002889	regulation of immunoglobulin mediated immune response
+GO:0007188	18	GO:0045746	negative regulation of Notch signaling pathway
+GO:0002819	15	GO:0002889	regulation of immunoglobulin mediated immune response
+GO:0051249	19	GO:0002683	negative regulation of immune system process
+GO:0002831	19	GO:0002683	negative regulation of immune system process
+GO:0048771	10	GO:0048771	tissue remodeling
+GO:0045455	5	GO:0009691	cytokinin biosynthetic process
+GO:0001890	13	GO:0001568	blood vessel development
+GO:0001892	13	GO:0001568	blood vessel development
+GO:0002562	6	GO:0016444	somatic cell DNA recombination
+GO:0021515	14	GO:0061005	cell differentiation involved in kidney development
+GO:0045190	6	GO:0016444	somatic cell DNA recombination
+GO:0001819	3	GO:0032675	regulation of interleukin-6 production
+GO:0032635	3	GO:0032675	regulation of interleukin-6 production
+GO:2000573	2	GO:2000573	positive regulation of DNA biosynthetic process
+GO:0071715	8	GO:0140353	lipid export from cell
+GO:0098742	20	GO:0008037	cell recognition
+GO:0061709	16	GO:0007099	centriole replication
+GO:0021692	13	GO:0001568	blood vessel development
+GO:0002696	19	GO:0002683	negative regulation of immune system process
+GO:0002697	19	GO:0002683	negative regulation of immune system process
+GO:0001568	13	GO:0001568	blood vessel development
+GO:1904801	12	GO:0032330	regulation of chondrocyte differentiation
+GO:0052547	4	GO:0090085	regulation of protein deubiquitination
+GO:0052548	4	GO:0090085	regulation of protein deubiquitination
+GO:0040013	19	GO:0002683	negative regulation of immune system process
+GO:0040015	12	GO:0032330	regulation of chondrocyte differentiation
+GO:0040034	12	GO:0032330	regulation of chondrocyte differentiation
+GO:0002637	3	GO:0032675	regulation of interleukin-6 production
+GO:0002639	3	GO:0032675	regulation of interleukin-6 production
+GO:0031638	5	GO:0009691	cytokinin biosynthetic process
+GO:0048521	19	GO:0002683	negative regulation of immune system process
+GO:0035214	13	GO:0001568	blood vessel development
+GO:0048514	13	GO:0001568	blood vessel development
+GO:0015711	8	GO:0140353	lipid export from cell
+GO:0015718	8	GO:0140353	lipid export from cell
+GO:0048665	14	GO:0061005	cell differentiation involved in kidney development
+GO:0019373	5	GO:0009691	cytokinin biosynthetic process
+GO:0043934	13	GO:0001568	blood vessel development
+GO:0060070	18	GO:0045746	negative regulation of Notch signaling pathway
+GO:0045739	2	GO:2000573	positive regulation of DNA biosynthetic process
+GO:0006895	8	GO:0140353	lipid export from cell
+GO:0046802	7	GO:0019058	viral life cycle
+GO:0016525	12	GO:0032330	regulation of chondrocyte differentiation
+GO:0006869	8	GO:0140353	lipid export from cell
+GO:1902808	17	GO:0044089	positive regulation of cellular component biogenesis
+GO:0015812	8	GO:0140353	lipid export from cell
+GO:0042953	8	GO:0140353	lipid export from cell
+GO:1905330	12	GO:0032330	regulation of chondrocyte differentiation
+GO:0015849	8	GO:0140353	lipid export from cell
+GO:0015838	8	GO:0140353	lipid export from cell
+GO:0006813	8	GO:0140353	lipid export from cell
+GO:0120031	16	GO:0007099	centriole replication
+GO:0021953	14	GO:0061005	cell differentiation involved in kidney development
+GO:0120009	8	GO:0140353	lipid export from cell
+GO:0030336	19	GO:0002683	negative regulation of immune system process
+GO:0010496	20	GO:0008037	cell recognition
+GO:0002949	6	GO:0016444	somatic cell DNA recombination
+GO:0010466	4	GO:0090085	regulation of protein deubiquitination
+GO:0014066	18	GO:0045746	negative regulation of Notch signaling pathway
+GO:0014068	18	GO:0045746	negative regulation of Notch signaling pathway
+GO:0007600	10	GO:0048771	tissue remodeling
+GO:0007606	10	GO:0048771	tissue remodeling
+GO:0007608	10	GO:0048771	tissue remodeling

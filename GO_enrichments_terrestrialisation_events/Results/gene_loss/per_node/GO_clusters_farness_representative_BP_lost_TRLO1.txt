@@ -1,0 +1,363 @@
+GO:0075733	5	GO:0016032	viral process
+GO:0014019	4	GO:0099402	plant organ development
+GO:0046601	15	GO:1901891	regulation of cell septum assembly
+GO:0001954	9	GO:0007162	negative regulation of cell adhesion
+GO:0034080	14	GO:0034508	centromere complex assembly
+GO:0099402	4	GO:0099402	plant organ development
+GO:0090305	1	GO:0015074	DNA integration
+GO:0090308	3	GO:0032210	regulation of telomere maintenance via telomerase
+GO:0090309	3	GO:0032210	regulation of telomere maintenance via telomerase
+GO:1900077	13	GO:0009967	positive regulation of signal transduction
+GO:1900078	13	GO:0009967	positive regulation of signal transduction
+GO:1904950	9	GO:0007162	negative regulation of cell adhesion
+GO:1900015	10	GO:0001817	regulation of cytokine production
+GO:1900016	10	GO:0001817	regulation of cytokine production
+GO:0044000	5	GO:0016032	viral process
+GO:0044001	5	GO:0016032	viral process
+GO:0030150	6	GO:0140353	lipid export from cell
+GO:0030183	4	GO:0099402	plant organ development
+GO:0051973	3	GO:0032210	regulation of telomere maintenance via telomerase
+GO:0070304	13	GO:0009967	positive regulation of signal transduction
+GO:0140353	6	GO:0140353	lipid export from cell
+GO:1905758	15	GO:1901891	regulation of cell septum assembly
+GO:0009793	4	GO:0099402	plant organ development
+GO:0010764	9	GO:0007162	negative regulation of cell adhesion
+GO:0032042	1	GO:0015074	DNA integration
+GO:0042078	8	GO:0001649	osteoblast differentiation
+GO:0003002	4	GO:0099402	plant organ development
+GO:0009738	13	GO:0009967	positive regulation of signal transduction
+GO:0030719	8	GO:0001649	osteoblast differentiation
+GO:0031061	12	GO:0050730	regulation of peptidyl-tyrosine phosphorylation
+GO:0070121	4	GO:0099402	plant organ development
+GO:0002076	4	GO:0099402	plant organ development
+GO:0031055	14	GO:0034508	centromere complex assembly
+GO:0002011	4	GO:0099402	plant organ development
+GO:2000053	13	GO:0009967	positive regulation of signal transduction
+GO:2000055	13	GO:0009967	positive regulation of signal transduction
+GO:0039563	9	GO:0007162	negative regulation of cell adhesion
+GO:0009880	4	GO:0099402	plant organ development
+GO:0031031	15	GO:1901891	regulation of cell septum assembly
+GO:0044332	13	GO:0009967	positive regulation of signal transduction
+GO:2000027	4	GO:0099402	plant organ development
+GO:0010825	15	GO:1901891	regulation of cell septum assembly
+GO:1901989	15	GO:1901891	regulation of cell septum assembly
+GO:0045944	2	GO:0006355	regulation of transcription, DNA-templated
+GO:1905521	9	GO:0007162	negative regulation of cell adhesion
+GO:1905517	8	GO:0001649	osteoblast differentiation
+GO:0030838	15	GO:1901891	regulation of cell septum assembly
+GO:0052041	8	GO:0001649	osteoblast differentiation
+GO:0039693	5	GO:0016032	viral process
+GO:0005978	11	GO:0006112	energy reserve metabolic process
+GO:0120261	15	GO:1901891	regulation of cell septum assembly
+GO:0039686	5	GO:0016032	viral process
+GO:0048048	4	GO:0099402	plant organ development
+GO:0044409	5	GO:0016032	viral process
+GO:0039645	9	GO:0007162	negative regulation of cell adhesion
+GO:0039646	9	GO:0007162	negative regulation of cell adhesion
+GO:0030574	11	GO:0006112	energy reserve metabolic process
+GO:0140278	15	GO:1901891	regulation of cell septum assembly
+GO:0060711	4	GO:0099402	plant organ development
+GO:0030511	13	GO:0009967	positive regulation of signal transduction
+GO:0009691	11	GO:0006112	energy reserve metabolic process
+GO:0061086	12	GO:0050730	regulation of peptidyl-tyrosine phosphorylation
+GO:0032310	6	GO:0140353	lipid export from cell
+GO:0032309	6	GO:0140353	lipid export from cell
+GO:0090558	4	GO:0099402	plant organ development
+GO:0007099	15	GO:1901891	regulation of cell septum assembly
+GO:0060828	13	GO:0009967	positive regulation of signal transduction
+GO:1903039	9	GO:0007162	negative regulation of cell adhesion
+GO:0070828	14	GO:0034508	centromere complex assembly
+GO:0034243	2	GO:0006355	regulation of transcription, DNA-templated
+GO:0033138	12	GO:0050730	regulation of peptidyl-tyrosine phosphorylation
+GO:0007049	8	GO:0001649	osteoblast differentiation
+GO:0007008	14	GO:0034508	centromere complex assembly
+GO:0032197	8	GO:0001649	osteoblast differentiation
+GO:1902017	15	GO:1901891	regulation of cell septum assembly
+GO:0034765	9	GO:0007162	negative regulation of cell adhesion
+GO:0015074	1	GO:0015074	DNA integration
+GO:0044782	14	GO:0034508	centromere complex assembly
+GO:0048364	4	GO:0099402	plant organ development
+GO:2000480	12	GO:0050730	regulation of peptidyl-tyrosine phosphorylation
+GO:0031445	3	GO:0032210	regulation of telomere maintenance via telomerase
+GO:1904355	3	GO:0032210	regulation of telomere maintenance via telomerase
+GO:0045040	6	GO:0140353	lipid export from cell
+GO:0008360	8	GO:0001649	osteoblast differentiation
+GO:0002119	4	GO:0099402	plant organ development
+GO:0031122	14	GO:0034508	centromere complex assembly
+GO:0032212	3	GO:0032210	regulation of telomere maintenance via telomerase
+GO:0048478	3	GO:0032210	regulation of telomere maintenance via telomerase
+GO:0030953	14	GO:0034508	centromere complex assembly
+GO:0007398	4	GO:0099402	plant organ development
+GO:0034587	1	GO:0015074	DNA integration
+GO:0007365	4	GO:0099402	plant organ development
+GO:0032755	10	GO:0001817	regulation of cytokine production
+GO:0007367	4	GO:0099402	plant organ development
+GO:0032757	10	GO:0001817	regulation of cytokine production
+GO:0018119	12	GO:0050730	regulation of peptidyl-tyrosine phosphorylation
+GO:0007350	4	GO:0099402	plant organ development
+GO:0032784	2	GO:0006355	regulation of transcription, DNA-templated
+GO:0001172	2	GO:0006355	regulation of transcription, DNA-templated
+GO:0031274	15	GO:1901891	regulation of cell septum assembly
+GO:0002244	4	GO:0099402	plant organ development
+GO:0042789	2	GO:0006355	regulation of transcription, DNA-templated
+GO:0007317	8	GO:0001649	osteoblast differentiation
+GO:0007340	8	GO:0001649	osteoblast differentiation
+GO:0034504	6	GO:0140353	lipid export from cell
+GO:0034508	14	GO:0034508	centromere complex assembly
+GO:0048147	9	GO:0007162	negative regulation of cell adhesion
+GO:0046330	13	GO:0009967	positive regulation of signal transduction
+GO:0032897	5	GO:0016032	viral process
+GO:0000911	8	GO:0001649	osteoblast differentiation
+GO:0007450	4	GO:0099402	plant organ development
+GO:0006368	2	GO:0006355	regulation of transcription, DNA-templated
+GO:0006354	2	GO:0006355	regulation of transcription, DNA-templated
+GO:0006355	2	GO:0006355	regulation of transcription, DNA-templated
+GO:0032874	13	GO:0009967	positive regulation of signal transduction
+GO:0006357	2	GO:0006355	regulation of transcription, DNA-templated
+GO:0051131	14	GO:0034508	centromere complex assembly
+GO:0032814	9	GO:0007162	negative regulation of cell adhesion
+GO:0006346	3	GO:0032210	regulation of telomere maintenance via telomerase
+GO:1902465	12	GO:0050730	regulation of peptidyl-tyrosine phosphorylation
+GO:0006337	14	GO:0034508	centromere complex assembly
+GO:0006338	14	GO:0034508	centromere complex assembly
+GO:0060962	2	GO:0006355	regulation of transcription, DNA-templated
+GO:0006306	1	GO:0015074	DNA integration
+GO:2001057	11	GO:0006112	energy reserve metabolic process
+GO:0033668	9	GO:0007162	negative regulation of cell adhesion
+GO:0007160	8	GO:0001649	osteoblast differentiation
+GO:0051224	6	GO:0140353	lipid export from cell
+GO:0008286	13	GO:0009967	positive regulation of signal transduction
+GO:0001779	4	GO:0099402	plant organ development
+GO:0019050	9	GO:0007162	negative regulation of cell adhesion
+GO:0007187	13	GO:0009967	positive regulation of signal transduction
+GO:0007188	13	GO:0009967	positive regulation of signal transduction
+GO:0007189	13	GO:0009967	positive regulation of signal transduction
+GO:0019058	5	GO:0016032	viral process
+GO:0019081	5	GO:0016032	viral process
+GO:0019083	5	GO:0016032	viral process
+GO:0019073	5	GO:0016032	viral process
+GO:0019076	5	GO:0016032	viral process
+GO:0043620	2	GO:0006355	regulation of transcription, DNA-templated
+GO:0051204	6	GO:0140353	lipid export from cell
+GO:0045450	8	GO:0001649	osteoblast differentiation
+GO:0019045	5	GO:0016032	viral process
+GO:0019046	5	GO:0016032	viral process
+GO:1902116	15	GO:1901891	regulation of cell septum assembly
+GO:0022622	4	GO:0099402	plant organ development
+GO:0007266	13	GO:0009967	positive regulation of signal transduction
+GO:0022611	4	GO:0099402	plant organ development
+GO:0022617	14	GO:0034508	centromere complex assembly
+GO:0007289	8	GO:0001649	osteoblast differentiation
+GO:0002532	8	GO:0001649	osteoblast differentiation
+GO:0007229	13	GO:0009967	positive regulation of signal transduction
+GO:0002534	10	GO:0001817	regulation of cytokine production
+GO:0007212	13	GO:0009967	positive regulation of signal transduction
+GO:0009060	11	GO:0006112	energy reserve metabolic process
+GO:0006112	11	GO:0006112	energy reserve metabolic process
+GO:0098722	8	GO:0001649	osteoblast differentiation
+GO:0098728	8	GO:0001649	osteoblast differentiation
+GO:0071711	14	GO:0034508	centromere complex assembly
+GO:0071715	6	GO:0140353	lipid export from cell
+GO:0031507	3	GO:0032210	regulation of telomere maintenance via telomerase
+GO:1903722	15	GO:1901891	regulation of cell septum assembly
+GO:1902275	15	GO:1901891	regulation of cell septum assembly
+GO:1903724	15	GO:1901891	regulation of cell septum assembly
+GO:0046209	11	GO:0006112	energy reserve metabolic process
+GO:0035293	4	GO:0099402	plant organ development
+GO:2000694	15	GO:1901891	regulation of cell septum assembly
+GO:0040029	10	GO:0001817	regulation of cytokine production
+GO:0046794	5	GO:0016032	viral process
+GO:0006275	3	GO:0032210	regulation of telomere maintenance via telomerase
+GO:0006278	1	GO:0015074	DNA integration
+GO:0040032	4	GO:0099402	plant organ development
+GO:0035282	4	GO:0099402	plant organ development
+GO:0071824	14	GO:0034508	centromere complex assembly
+GO:0046755	5	GO:0016032	viral process
+GO:0046782	5	GO:0016032	viral process
+GO:0090090	13	GO:0009967	positive regulation of signal transduction
+GO:2000647	9	GO:0007162	negative regulation of cell adhesion
+GO:0046718	5	GO:0016032	viral process
+GO:0048538	4	GO:0099402	plant organ development
+GO:0046740	5	GO:0016032	viral process
+GO:0008593	13	GO:0009967	positive regulation of signal transduction
+GO:0090068	15	GO:1901891	regulation of cell septum assembly
+GO:0071805	6	GO:0140353	lipid export from cell
+GO:0046739	5	GO:0016032	viral process
+GO:0051567	12	GO:0050730	regulation of peptidyl-tyrosine phosphorylation
+GO:0051568	12	GO:0050730	regulation of peptidyl-tyrosine phosphorylation
+GO:0035209	4	GO:0099402	plant organ development
+GO:0061511	15	GO:1901891	regulation of cell septum assembly
+GO:0015732	6	GO:0140353	lipid export from cell
+GO:0043922	5	GO:0016032	viral process
+GO:0035721	6	GO:0140353	lipid export from cell
+GO:0045785	9	GO:0007162	negative regulation of cell adhesion
+GO:0051693	14	GO:0034508	centromere complex assembly
+GO:0070096	14	GO:0034508	centromere complex assembly
+GO:0043903	9	GO:0007162	negative regulation of cell adhesion
+GO:0045740	3	GO:0032210	regulation of telomere maintenance via telomerase
+GO:0045746	13	GO:0009967	positive regulation of signal transduction
+GO:0045747	13	GO:0009967	positive regulation of signal transduction
+GO:0060070	13	GO:0009967	positive regulation of signal transduction
+GO:0032968	2	GO:0006355	regulation of transcription, DNA-templated
+GO:0032986	14	GO:0034508	centromere complex assembly
+GO:0009399	11	GO:0006112	energy reserve metabolic process
+GO:0045892	2	GO:0006355	regulation of transcription, DNA-templated
+GO:0045898	3	GO:0032210	regulation of telomere maintenance via telomerase
+GO:0007531	8	GO:0001649	osteoblast differentiation
+GO:0007533	8	GO:0001649	osteoblast differentiation
+GO:0035825	1	GO:0015074	DNA integration
+GO:0010375	4	GO:0099402	plant organ development
+GO:0006809	11	GO:0006112	energy reserve metabolic process
+GO:0045814	10	GO:0001817	regulation of cytokine production
+GO:0045818	11	GO:0006112	energy reserve metabolic process
+GO:0120033	15	GO:1901891	regulation of cell septum assembly
+GO:0021987	4	GO:0099402	plant organ development
+GO:0010496	6	GO:0140353	lipid export from cell
+GO:0010497	6	GO:0140353	lipid export from cell
+GO:0046626	13	GO:0009967	positive regulation of signal transduction
+GO:0046627	13	GO:0009967	positive regulation of signal transduction
+GO:0046628	13	GO:0009967	positive regulation of signal transduction
+GO:0030466	3	GO:0032210	regulation of telomere maintenance via telomerase
+GO:0030435	8	GO:0001649	osteoblast differentiation
+GO:0044089	15	GO:1901891	regulation of cell septum assembly
+GO:0001934	12	GO:0050730	regulation of peptidyl-tyrosine phosphorylation
+GO:0001935	8	GO:0001649	osteoblast differentiation
+GO:0001936	9	GO:0007162	negative regulation of cell adhesion
+GO:0001937	9	GO:0007162	negative regulation of cell adhesion
+GO:0019217	12	GO:0050730	regulation of peptidyl-tyrosine phosphorylation
+GO:0045666	8	GO:0001649	osteoblast differentiation
+GO:0044036	1	GO:0015074	DNA integration
+GO:0044038	1	GO:0015074	DNA integration
+GO:1900047	9	GO:0007162	negative regulation of cell adhesion
+GO:0095500	13	GO:0009967	positive regulation of signal transduction
+GO:1905756	15	GO:1901891	regulation of cell septum assembly
+GO:0003009	8	GO:0001649	osteoblast differentiation
+GO:0034381	9	GO:0007162	negative regulation of cell adhesion
+GO:0034377	15	GO:1901891	regulation of cell septum assembly
+GO:0015914	6	GO:0140353	lipid export from cell
+GO:0010876	6	GO:0140353	lipid export from cell
+GO:2000028	8	GO:0001649	osteoblast differentiation
+GO:0010827	6	GO:0140353	lipid export from cell
+GO:0010845	3	GO:0032210	regulation of telomere maintenance via telomerase
+GO:0000723	1	GO:0015074	DNA integration
+GO:0060271	14	GO:0034508	centromere complex assembly
+GO:0045937	12	GO:0050730	regulation of peptidyl-tyrosine phosphorylation
+GO:0072091	9	GO:0007162	negative regulation of cell adhesion
+GO:0000731	1	GO:0015074	DNA integration
+GO:0000735	1	GO:0015074	DNA integration
+GO:0000736	1	GO:0015074	DNA integration
+GO:0060236	15	GO:1901891	regulation of cell septum assembly
+GO:0038084	13	GO:0009967	positive regulation of signal transduction
+GO:0039694	5	GO:0016032	viral process
+GO:0072089	8	GO:0001649	osteoblast differentiation
+GO:0010562	12	GO:0050730	regulation of peptidyl-tyrosine phosphorylation
+GO:0033344	6	GO:0140353	lipid export from cell
+GO:0050766	9	GO:0007162	negative regulation of cell adhesion
+GO:0039674	5	GO:0016032	viral process
+GO:0050730	12	GO:0050730	regulation of peptidyl-tyrosine phosphorylation
+GO:0050731	12	GO:0050730	regulation of peptidyl-tyrosine phosphorylation
+GO:0140279	15	GO:1901891	regulation of cell septum assembly
+GO:0032330	8	GO:0001649	osteoblast differentiation
+GO:0042327	12	GO:0050730	regulation of peptidyl-tyrosine phosphorylation
+GO:0008039	4	GO:0099402	plant organ development
+GO:0050868	9	GO:0007162	negative regulation of cell adhesion
+GO:0050881	8	GO:0001649	osteoblast differentiation
+GO:0050879	8	GO:0001649	osteoblast differentiation
+GO:0002367	10	GO:0001817	regulation of cytokine production
+GO:1903037	9	GO:0007162	negative regulation of cell adhesion
+GO:1903038	9	GO:0007162	negative regulation of cell adhesion
+GO:0070816	2	GO:0006355	regulation of transcription, DNA-templated
+GO:0016032	5	GO:0016032	viral process
+GO:0022408	9	GO:0007162	negative regulation of cell adhesion
+GO:0042438	11	GO:0006112	energy reserve metabolic process
+GO:0006099	11	GO:0006112	energy reserve metabolic process
+GO:0070589	1	GO:0015074	DNA integration
+GO:0034727	11	GO:0006112	energy reserve metabolic process
+GO:0043252	6	GO:0140353	lipid export from cell
+GO:0019985	1	GO:0015074	DNA integration
+GO:0070507	15	GO:1901891	regulation of cell septum assembly
+GO:0043242	15	GO:1901891	regulation of cell septum assembly
+GO:0072337	6	GO:0140353	lipid export from cell
+GO:0035036	8	GO:0001649	osteoblast differentiation
+GO:0008365	4	GO:0099402	plant organ development
+GO:0045002	1	GO:0015074	DNA integration
+GO:0044872	6	GO:0140353	lipid export from cell
+GO:0032210	3	GO:0032210	regulation of telomere maintenance via telomerase
+GO:0009967	13	GO:0009967	positive regulation of signal transduction
+GO:0031110	15	GO:1901891	regulation of cell septum assembly
+GO:0031113	15	GO:1901891	regulation of cell septum assembly
+GO:2000181	4	GO:0099402	plant organ development
+GO:0010973	15	GO:1901891	regulation of cell septum assembly
+GO:0032200	14	GO:0034508	centromere complex assembly
+GO:0032204	3	GO:0032210	regulation of telomere maintenance via telomerase
+GO:0031100	4	GO:0099402	plant organ development
+GO:0044805	11	GO:0006112	energy reserve metabolic process
+GO:0032793	2	GO:0006355	regulation of transcription, DNA-templated
+GO:0032760	10	GO:0001817	regulation of cytokine production
+GO:0044550	11	GO:0006112	energy reserve metabolic process
+GO:0007389	4	GO:0099402	plant organ development
+GO:0018108	12	GO:0050730	regulation of peptidyl-tyrosine phosphorylation
+GO:0007342	8	GO:0001649	osteoblast differentiation
+GO:1902389	6	GO:0140353	lipid export from cell
+GO:0055006	4	GO:0099402	plant organ development
+GO:0000917	15	GO:1901891	regulation of cell septum assembly
+GO:1903438	15	GO:1901891	regulation of cell septum assembly
+GO:0018212	12	GO:0050730	regulation of peptidyl-tyrosine phosphorylation
+GO:0002777	11	GO:0006112	energy reserve metabolic process
+GO:0006366	2	GO:0006355	regulation of transcription, DNA-templated
+GO:0002718	10	GO:0001817	regulation of cytokine production
+GO:0051130	15	GO:1901891	regulation of cell septum assembly
+GO:2000785	15	GO:1901891	regulation of cell septum assembly
+GO:2000779	1	GO:0015074	DNA integration
+GO:0002700	10	GO:0001817	regulation of cytokine production
+GO:0002702	10	GO:0001817	regulation of cytokine production
+GO:0035332	13	GO:0009967	positive regulation of signal transduction
+GO:0051250	9	GO:0007162	negative regulation of cell adhesion
+GO:0051251	9	GO:0007162	negative regulation of cell adhesion
+GO:2001022	13	GO:0009967	positive regulation of signal transduction
+GO:0007162	9	GO:0007162	negative regulation of cell adhesion
+GO:0006468	12	GO:0050730	regulation of peptidyl-tyrosine phosphorylation
+GO:0019079	5	GO:0016032	viral process
+GO:0019042	5	GO:0016032	viral process
+GO:0002805	3	GO:0032210	regulation of telomere maintenance via telomerase
+GO:0001890	4	GO:0099402	plant organ development
+GO:0043605	11	GO:0006112	energy reserve metabolic process
+GO:0001892	4	GO:0099402	plant organ development
+GO:1902115	15	GO:1901891	regulation of cell septum assembly
+GO:1902117	15	GO:1901891	regulation of cell septum assembly
+GO:0032680	10	GO:0001817	regulation of cytokine production
+GO:0021510	4	GO:0099402	plant organ development
+GO:0032675	10	GO:0001817	regulation of cytokine production
+GO:0001816	10	GO:0001817	regulation of cytokine production
+GO:0001817	10	GO:0001817	regulation of cytokine production
+GO:0001819	10	GO:0001817	regulation of cytokine production
+GO:0032640	10	GO:0001817	regulation of cytokine production
+GO:0032635	10	GO:0001817	regulation of cytokine production
+GO:0061709	14	GO:0034508	centromere complex assembly
+GO:0071706	10	GO:0001817	regulation of cytokine production
+GO:0031663	13	GO:0009967	positive regulation of signal transduction
+GO:0001570	4	GO:0099402	plant organ development
+GO:0031671	15	GO:1901891	regulation of cell septum assembly
+GO:0040034	9	GO:0007162	negative regulation of cell adhesion
+GO:0048584	13	GO:0009967	positive regulation of signal transduction
+GO:0000002	14	GO:0034508	centromere complex assembly
+GO:0001649	8	GO:0001649	osteoblast differentiation
+GO:0043934	4	GO:0099402	plant organ development
+GO:1903555	10	GO:0001817	regulation of cytokine production
+GO:1903557	10	GO:0001817	regulation of cytokine production
+GO:0046834	11	GO:0006112	energy reserve metabolic process
+GO:0032955	15	GO:1901891	regulation of cell septum assembly
+GO:0016525	4	GO:0099402	plant organ development
+GO:0006869	6	GO:0140353	lipid export from cell
+GO:1902808	9	GO:0007162	negative regulation of cell adhesion
+GO:0042953	6	GO:0140353	lipid export from cell
+GO:1901891	15	GO:1901891	regulation of cell septum assembly
+GO:1901893	15	GO:1901891	regulation of cell septum assembly
+GO:0007534	1	GO:0015074	DNA integration
+GO:0035822	1	GO:0015074	DNA integration
+GO:0046579	13	GO:0009967	positive regulation of signal transduction
+GO:0120009	6	GO:0140353	lipid export from cell
+GO:0006560	11	GO:0006112	energy reserve metabolic process
+GO:0002949	1	GO:0015074	DNA integration
+GO:0045580	8	GO:0001649	osteoblast differentiation
+GO:0007608	8	GO:0001649	osteoblast differentiation

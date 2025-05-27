@@ -1,0 +1,163 @@
+GO:0045920	8	GO:0042307	positive regulation of protein import into nucleus
+GO:0031860	4	GO:0042138	meiotic DNA double-strand break formation
+GO:0000972	10	GO:0007049	cell cycle
+GO:0048232	10	GO:0007049	cell cycle
+GO:0045940	3	GO:0010835	regulation of protein ADP-ribosylation
+GO:0050727	5	GO:0050729	positive regulation of inflammatory response
+GO:0007530	10	GO:0007049	cell cycle
+GO:0050729	5	GO:0050729	positive regulation of inflammatory response
+GO:0045934	2	GO:1902679	negative regulation of RNA biosynthetic process
+GO:0060285	10	GO:0007049	cell cycle
+GO:1903039	9	GO:0097191	extrinsic apoptotic signaling pathway
+GO:0030388	3	GO:0010835	regulation of protein ADP-ribosylation
+GO:0034504	8	GO:0042307	positive regulation of protein import into nucleus
+GO:0070168	6	GO:0045639	positive regulation of myeloid cell differentiation
+GO:0030317	10	GO:0007049	cell cycle
+GO:1903555	1	GO:1903557	positive regulation of tumor necrosis factor superfamily cytokine production
+GO:1903557	1	GO:1903557	positive regulation of tumor necrosis factor superfamily cytokine production
+GO:0043086	9	GO:0097191	extrinsic apoptotic signaling pathway
+GO:0044000	7	GO:0019076	viral release from host cell
+GO:1902004	3	GO:0010835	regulation of protein ADP-ribosylation
+GO:0050867	9	GO:0097191	extrinsic apoptotic signaling pathway
+GO:0051973	2	GO:1902679	negative regulation of RNA biosynthetic process
+GO:0050870	9	GO:0097191	extrinsic apoptotic signaling pathway
+GO:0051170	8	GO:0042307	positive regulation of protein import into nucleus
+GO:0050810	3	GO:0010835	regulation of protein ADP-ribosylation
+GO:1903507	2	GO:1902679	negative regulation of RNA biosynthetic process
+GO:0019062	7	GO:0019076	viral release from host cell
+GO:0019064	7	GO:0019076	viral release from host cell
+GO:1905777	3	GO:0010835	regulation of protein ADP-ribosylation
+GO:1905779	2	GO:1902679	negative regulation of RNA biosynthetic process
+GO:0019076	7	GO:0019076	viral release from host cell
+GO:0019835	10	GO:0007049	cell cycle
+GO:0010791	4	GO:0042138	meiotic DNA double-strand break formation
+GO:0046761	7	GO:0019076	viral release from host cell
+GO:0046765	7	GO:0019076	viral release from host cell
+GO:0032660	1	GO:1903557	positive regulation of tumor necrosis factor superfamily cytokine production
+GO:0035891	7	GO:0019076	viral release from host cell
+GO:0046753	7	GO:0019076	viral release from host cell
+GO:0034391	9	GO:0097191	extrinsic apoptotic signaling pathway
+GO:0006606	8	GO:0042307	positive regulation of protein import into nucleus
+GO:0006607	8	GO:0042307	positive regulation of protein import into nucleus
+GO:0010780	4	GO:0042138	meiotic DNA double-strand break formation
+GO:0046718	7	GO:0019076	viral release from host cell
+GO:0080111	4	GO:0042138	meiotic DNA double-strand break formation
+GO:0046740	7	GO:0019076	viral release from host cell
+GO:1901535	2	GO:1902679	negative regulation of RNA biosynthetic process
+GO:0044650	7	GO:0019076	viral release from host cell
+GO:0051253	2	GO:1902679	negative regulation of RNA biosynthetic process
+GO:0042531	3	GO:0010835	regulation of protein ADP-ribosylation
+GO:1902679	2	GO:1902679	negative regulation of RNA biosynthetic process
+GO:0042501	3	GO:0010835	regulation of protein ADP-ribosylation
+GO:0000741	10	GO:0007049	cell cycle
+GO:1904355	4	GO:0042138	meiotic DNA double-strand break formation
+GO:0090276	8	GO:0042307	positive regulation of protein import into nucleus
+GO:0006355	2	GO:1902679	negative regulation of RNA biosynthetic process
+GO:0010893	3	GO:0010835	regulation of protein ADP-ribosylation
+GO:0071470	9	GO:0097191	extrinsic apoptotic signaling pathway
+GO:0045892	2	GO:1902679	negative regulation of RNA biosynthetic process
+GO:0046824	8	GO:0042307	positive regulation of protein import into nucleus
+GO:0010829	8	GO:0042307	positive regulation of protein import into nucleus
+GO:0035510	4	GO:0042138	meiotic DNA double-strand break formation
+GO:0032310	8	GO:0042307	positive regulation of protein import into nucleus
+GO:0051783	9	GO:0097191	extrinsic apoptotic signaling pathway
+GO:0010845	4	GO:0042138	meiotic DNA double-strand break formation
+GO:0010835	3	GO:0010835	regulation of protein ADP-ribosylation
+GO:0110134	10	GO:0007049	cell cycle
+GO:0030282	6	GO:0045639	positive regulation of myeloid cell differentiation
+GO:0045818	3	GO:0010835	regulation of protein ADP-ribosylation
+GO:0030225	6	GO:0045639	positive regulation of myeloid cell differentiation
+GO:0002294	6	GO:0045639	positive regulation of myeloid cell differentiation
+GO:0018119	3	GO:0010835	regulation of protein ADP-ribosylation
+GO:0031343	9	GO:0097191	extrinsic apoptotic signaling pathway
+GO:0051709	9	GO:0097191	extrinsic apoptotic signaling pathway
+GO:0031349	5	GO:0050729	positive regulation of inflammatory response
+GO:0048662	9	GO:0097191	extrinsic apoptotic signaling pathway
+GO:0043388	9	GO:0097191	extrinsic apoptotic signaling pathway
+GO:0002281	9	GO:0097191	extrinsic apoptotic signaling pathway
+GO:0042362	9	GO:0097191	extrinsic apoptotic signaling pathway
+GO:0052029	7	GO:0019076	viral release from host cell
+GO:0017145	10	GO:0007049	cell cycle
+GO:0045582	6	GO:0045639	positive regulation of myeloid cell differentiation
+GO:0045589	6	GO:0045639	positive regulation of myeloid cell differentiation
+GO:0007131	4	GO:0042138	meiotic DNA double-strand break formation
+GO:0002791	8	GO:0042307	positive regulation of protein import into nucleus
+GO:0039562	9	GO:0097191	extrinsic apoptotic signaling pathway
+GO:0051043	3	GO:0010835	regulation of protein ADP-ribosylation
+GO:0039554	9	GO:0097191	extrinsic apoptotic signaling pathway
+GO:0006949	10	GO:0007049	cell cycle
+GO:2000677	9	GO:0097191	extrinsic apoptotic signaling pathway
+GO:0051037	2	GO:1902679	negative regulation of RNA biosynthetic process
+GO:0042307	8	GO:0042307	positive regulation of protein import into nucleus
+GO:0002763	6	GO:0045639	positive regulation of myeloid cell differentiation
+GO:0033119	2	GO:1902679	negative regulation of RNA biosynthetic process
+GO:0010661	9	GO:0097191	extrinsic apoptotic signaling pathway
+GO:0044406	7	GO:0019076	viral release from host cell
+GO:0039526	9	GO:0097191	extrinsic apoptotic signaling pathway
+GO:0031990	8	GO:0042307	positive regulation of protein import into nucleus
+GO:0033138	3	GO:0010835	regulation of protein ADP-ribosylation
+GO:0039514	7	GO:0019076	viral release from host cell
+GO:0005978	3	GO:0010835	regulation of protein ADP-ribosylation
+GO:0010688	2	GO:1902679	negative regulation of RNA biosynthetic process
+GO:0046637	6	GO:0045639	positive regulation of myeloid cell differentiation
+GO:0097191	9	GO:0097191	extrinsic apoptotic signaling pathway
+GO:0039502	9	GO:0097191	extrinsic apoptotic signaling pathway
+GO:0045672	6	GO:0045639	positive regulation of myeloid cell differentiation
+GO:0010634	9	GO:0097191	extrinsic apoptotic signaling pathway
+GO:0045621	6	GO:0045639	positive regulation of myeloid cell differentiation
+GO:0030851	6	GO:0045639	positive regulation of myeloid cell differentiation
+GO:0001774	9	GO:0097191	extrinsic apoptotic signaling pathway
+GO:0032103	5	GO:0050729	positive regulation of inflammatory response
+GO:0045639	6	GO:0045639	positive regulation of myeloid cell differentiation
+GO:0036462	9	GO:0097191	extrinsic apoptotic signaling pathway
+GO:0070673	9	GO:0097191	extrinsic apoptotic signaling pathway
+GO:0016233	4	GO:0042138	meiotic DNA double-strand break formation
+GO:0039656	7	GO:0019076	viral release from host cell
+GO:0007204	9	GO:0097191	extrinsic apoptotic signaling pathway
+GO:0060333	9	GO:0097191	extrinsic apoptotic signaling pathway
+GO:2000379	3	GO:0010835	regulation of protein ADP-ribosylation
+GO:0039645	9	GO:0097191	extrinsic apoptotic signaling pathway
+GO:0071706	1	GO:1903557	positive regulation of tumor necrosis factor superfamily cytokine production
+GO:0032212	2	GO:1902679	negative regulation of RNA biosynthetic process
+GO:1900015	1	GO:1903557	positive regulation of tumor necrosis factor superfamily cytokine production
+GO:0032239	8	GO:0042307	positive regulation of protein import into nucleus
+GO:0000380	4	GO:0042138	meiotic DNA double-strand break formation
+GO:0030521	9	GO:0097191	extrinsic apoptotic signaling pathway
+GO:0001818	1	GO:1903557	positive regulation of tumor necrosis factor superfamily cytokine production
+GO:0042138	4	GO:0042138	meiotic DNA double-strand break formation
+GO:0000379	4	GO:0042138	meiotic DNA double-strand break formation
+GO:0061515	6	GO:0045639	positive regulation of myeloid cell differentiation
+GO:0031214	6	GO:0045639	positive regulation of myeloid cell differentiation
+GO:0043254	9	GO:0097191	extrinsic apoptotic signaling pathway
+GO:2000480	3	GO:0010835	regulation of protein ADP-ribosylation
+GO:0030502	6	GO:0045639	positive regulation of myeloid cell differentiation
+GO:0040020	10	GO:0007049	cell cycle
+GO:0032755	1	GO:1903557	positive regulation of tumor necrosis factor superfamily cytokine production
+GO:0032757	1	GO:1903557	positive regulation of tumor necrosis factor superfamily cytokine production
+GO:0032770	9	GO:0097191	extrinsic apoptotic signaling pathway
+GO:0007099	10	GO:0007049	cell cycle
+GO:0032722	1	GO:1903557	positive regulation of tumor necrosis factor superfamily cytokine production
+GO:0007060	10	GO:0007049	cell cycle
+GO:0007062	10	GO:0007049	cell cycle
+GO:0007064	10	GO:0007049	cell cycle
+GO:0032735	1	GO:1903557	positive regulation of tumor necrosis factor superfamily cytokine production
+GO:0030656	3	GO:0010835	regulation of protein ADP-ribosylation
+GO:0034080	10	GO:0007049	cell cycle
+GO:0045450	10	GO:0007049	cell cycle
+GO:0048143	6	GO:0045639	positive regulation of myeloid cell differentiation
+GO:0051321	10	GO:0007049	cell cycle
+GO:0097722	10	GO:0007049	cell cycle
+GO:0045429	3	GO:0010835	regulation of protein ADP-ribosylation
+GO:0002696	9	GO:0097191	extrinsic apoptotic signaling pathway
+GO:0001539	10	GO:0007049	cell cycle
+GO:0000413	3	GO:0010835	regulation of protein ADP-ribosylation
+GO:0007049	10	GO:0007049	cell cycle
+GO:0090312	3	GO:0010835	regulation of protein ADP-ribosylation
+GO:0051308	10	GO:0007049	cell cycle
+GO:0050796	8	GO:0042307	positive regulation of protein import into nucleus
+GO:0010922	3	GO:0010835	regulation of protein ADP-ribosylation
+GO:0032069	3	GO:0010835	regulation of protein ADP-ribosylation
+GO:0006809	3	GO:0010835	regulation of protein ADP-ribosylation
+GO:0090309	2	GO:1902679	negative regulation of RNA biosynthetic process
+GO:0060294	10	GO:0007049	cell cycle
+GO:0032075	2	GO:1902679	negative regulation of RNA biosynthetic process

@@ -1,0 +1,118 @@
+GO:0031445	6	GO:0006304	DNA modification
+GO:0036158	7	GO:0006997	nucleus organization
+GO:0036159	7	GO:0006997	nucleus organization
+GO:0035510	6	GO:0006304	DNA modification
+GO:0035518	6	GO:0006304	DNA modification
+GO:0007060	3	GO:0048236	plant-type sporogenesis
+GO:0046661	1	GO:0048036	central complex development
+GO:0007059	7	GO:0006997	nucleus organization
+GO:0009910	1	GO:0048036	central complex development
+GO:0007043	7	GO:0006997	nucleus organization
+GO:0007049	7	GO:0006997	nucleus organization
+GO:0031122	7	GO:0006997	nucleus organization
+GO:0009908	1	GO:0048036	central complex development
+GO:0043935	3	GO:0048236	plant-type sporogenesis
+GO:0002063	1	GO:0048036	central complex development
+GO:0046601	9	GO:0010528	regulation of transposition
+GO:0002052	1	GO:0048036	central complex development
+GO:0035630	2	GO:0030500	regulation of bone mineralization
+GO:0010375	1	GO:0048036	central complex development
+GO:0090308	6	GO:0006304	DNA modification
+GO:2000242	9	GO:0010528	regulation of transposition
+GO:0051301	7	GO:0006997	nucleus organization
+GO:0051307	3	GO:0048236	plant-type sporogenesis
+GO:0051308	3	GO:0048236	plant-type sporogenesis
+GO:0031214	2	GO:0030500	regulation of bone mineralization
+GO:0010497	7	GO:0006997	nucleus organization
+GO:0034293	3	GO:0048236	plant-type sporogenesis
+GO:0045450	3	GO:0048236	plant-type sporogenesis
+GO:0010453	4	GO:0045165	cell fate commitment
+GO:1902464	6	GO:0006304	DNA modification
+GO:0071940	7	GO:0006997	nucleus organization
+GO:0060337	5	GO:0001960	negative regulation of cytokine-mediated signaling pathway
+GO:0060339	5	GO:0001960	negative regulation of cytokine-mediated signaling pathway
+GO:0009301	6	GO:0006304	DNA modification
+GO:1903046	3	GO:0048236	plant-type sporogenesis
+GO:0070873	6	GO:0006304	DNA modification
+GO:1903003	6	GO:0006304	DNA modification
+GO:0045165	4	GO:0045165	cell fate commitment
+GO:0070591	3	GO:0048236	plant-type sporogenesis
+GO:0007317	3	GO:0048236	plant-type sporogenesis
+GO:0007342	3	GO:0048236	plant-type sporogenesis
+GO:0090254	1	GO:0048036	central complex development
+GO:0048133	3	GO:0048236	plant-type sporogenesis
+GO:0030316	1	GO:0048036	central complex development
+GO:1902275	9	GO:0010528	regulation of transposition
+GO:0071347	5	GO:0001960	negative regulation of cytokine-mediated signaling pathway
+GO:0045216	7	GO:0006997	nucleus organization
+GO:0001708	4	GO:0045165	cell fate commitment
+GO:1900157	2	GO:0030500	regulation of bone mineralization
+GO:1900158	2	GO:0030500	regulation of bone mineralization
+GO:1900180	9	GO:0010528	regulation of transposition
+GO:1900182	9	GO:0010528	regulation of transposition
+GO:0008039	4	GO:0045165	cell fate commitment
+GO:0030466	6	GO:0006304	DNA modification
+GO:0030476	3	GO:0048236	plant-type sporogenesis
+GO:0048236	3	GO:0048236	plant-type sporogenesis
+GO:0001837	1	GO:0048036	central complex development
+GO:0042659	4	GO:0045165	cell fate commitment
+GO:0061097	6	GO:0006304	DNA modification
+GO:0010719	1	GO:0048036	central complex development
+GO:0030437	3	GO:0048236	plant-type sporogenesis
+GO:0007140	3	GO:0048236	plant-type sporogenesis
+GO:0007130	3	GO:0048236	plant-type sporogenesis
+GO:0030154	4	GO:0045165	cell fate commitment
+GO:0060761	5	GO:0001960	negative regulation of cytokine-mediated signaling pathway
+GO:0002119	1	GO:0048036	central complex development
+GO:0010825	9	GO:0010528	regulation of transposition
+GO:0048705	1	GO:0048036	central complex development
+GO:0019064	7	GO:0006997	nucleus organization
+GO:0048869	4	GO:0045165	cell fate commitment
+GO:0048854	1	GO:0048036	central complex development
+GO:0036089	7	GO:0006997	nucleus organization
+GO:0043704	4	GO:0045165	cell fate commitment
+GO:0030282	2	GO:0030500	regulation of bone mineralization
+GO:0080111	6	GO:0006304	DNA modification
+GO:0010528	9	GO:0010528	regulation of transposition
+GO:0010529	9	GO:0010528	regulation of transposition
+GO:0039502	5	GO:0001960	negative regulation of cytokine-mediated signaling pathway
+GO:0039663	7	GO:0006997	nucleus organization
+GO:0031031	9	GO:0010528	regulation of transposition
+GO:1902692	4	GO:0045165	cell fate commitment
+GO:1905758	9	GO:0010528	regulation of transposition
+GO:0039645	9	GO:0010528	regulation of transposition
+GO:0045672	1	GO:0048036	central complex development
+GO:0022413	3	GO:0048236	plant-type sporogenesis
+GO:0043584	1	GO:0048036	central complex development
+GO:0003334	1	GO:0048036	central complex development
+GO:0040026	1	GO:0048036	central complex development
+GO:0040028	1	GO:0048036	central complex development
+GO:0006997	7	GO:0006997	nucleus organization
+GO:0006977	9	GO:0010528	regulation of transposition
+GO:0006914	7	GO:0006997	nucleus organization
+GO:0000729	6	GO:0006304	DNA modification
+GO:0043622	7	GO:0006997	nucleus organization
+GO:0120192	7	GO:0006997	nucleus organization
+GO:0120193	7	GO:0006997	nucleus organization
+GO:0000736	6	GO:0006304	DNA modification
+GO:0090085	6	GO:0006304	DNA modification
+GO:0007534	3	GO:0048236	plant-type sporogenesis
+GO:0001960	5	GO:0001960	negative regulation of cytokine-mediated signaling pathway
+GO:0001959	5	GO:0001960	negative regulation of cytokine-mediated signaling pathway
+GO:0010022	1	GO:0048036	central complex development
+GO:0030539	1	GO:0048036	central complex development
+GO:0030500	2	GO:0030500	regulation of bone mineralization
+GO:0030502	2	GO:0030500	regulation of bone mineralization
+GO:0061181	1	GO:0048036	central complex development
+GO:0061182	1	GO:0048036	central complex development
+GO:0034391	9	GO:0010528	regulation of transposition
+GO:0120261	9	GO:0010528	regulation of transposition
+GO:0048012	9	GO:0010528	regulation of transposition
+GO:0048036	1	GO:0048036	central complex development
+GO:0006355	6	GO:0006304	DNA modification
+GO:0006357	6	GO:0006304	DNA modification
+GO:0046552	4	GO:0045165	cell fate commitment
+GO:0006346	6	GO:0006304	DNA modification
+GO:0070167	2	GO:0030500	regulation of bone mineralization
+GO:0070168	2	GO:0030500	regulation of bone mineralization
+GO:0006304	6	GO:0006304	DNA modification

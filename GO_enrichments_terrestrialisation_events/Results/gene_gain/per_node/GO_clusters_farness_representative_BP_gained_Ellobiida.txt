@@ -1,0 +1,117 @@
+GO:0046718	1	GO:0016032	viral process
+GO:0010497	5	GO:0015931	nucleobase-containing compound transport
+GO:0046740	1	GO:0016032	viral process
+GO:0043248	6	GO:0070096	mitochondrial outer membrane translocase complex assembly
+GO:0061337	8	GO:0051321	meiotic cell cycle
+GO:1990822	5	GO:0015931	nucleobase-containing compound transport
+GO:0000723	7	GO:0006260	DNA replication
+GO:0000724	7	GO:0006260	DNA replication
+GO:0000725	7	GO:0006260	DNA replication
+GO:0030150	5	GO:0015931	nucleobase-containing compound transport
+GO:0051321	8	GO:0051321	meiotic cell cycle
+GO:0042997	5	GO:0015931	nucleobase-containing compound transport
+GO:0016236	7	GO:0006260	DNA replication
+GO:0007338	8	GO:0051321	meiotic cell cycle
+GO:0044000	1	GO:0016032	viral process
+GO:0039592	2	GO:0052040	modulation by symbiont of host programmed cell death
+GO:0030101	8	GO:0051321	meiotic cell cycle
+GO:0050657	5	GO:0015931	nucleobase-containing compound transport
+GO:0050658	5	GO:0015931	nucleobase-containing compound transport
+GO:0031579	6	GO:0070096	mitochondrial outer membrane translocase complex assembly
+GO:0039554	2	GO:0052040	modulation by symbiont of host programmed cell death
+GO:0015918	5	GO:0015931	nucleobase-containing compound transport
+GO:0032310	5	GO:0015931	nucleobase-containing compound transport
+GO:0039526	2	GO:0052040	modulation by symbiont of host programmed cell death
+GO:0015931	5	GO:0015931	nucleobase-containing compound transport
+GO:0051485	7	GO:0006260	DNA replication
+GO:0014013	4	GO:0048713	regulation of oligodendrocyte differentiation
+GO:0030223	4	GO:0048713	regulation of oligodendrocyte differentiation
+GO:0014015	4	GO:0048713	regulation of oligodendrocyte differentiation
+GO:0039503	2	GO:0052040	modulation by symbiont of host programmed cell death
+GO:0039504	2	GO:0052040	modulation by symbiont of host programmed cell death
+GO:0018119	7	GO:0006260	DNA replication
+GO:0039694	1	GO:0016032	viral process
+GO:0031640	2	GO:0052040	modulation by symbiont of host programmed cell death
+GO:0031641	4	GO:0048713	regulation of oligodendrocyte differentiation
+GO:0031646	8	GO:0051321	meiotic cell cycle
+GO:2000035	8	GO:0051321	meiotic cell cycle
+GO:0032443	7	GO:0006260	DNA replication
+GO:0048713	4	GO:0048713	regulation of oligodendrocyte differentiation
+GO:0039648	2	GO:0052040	modulation by symbiont of host programmed cell death
+GO:1904182	8	GO:0051321	meiotic cell cycle
+GO:1900015	3	GO:0032656	regulation of interleukin-13 production
+GO:0002763	4	GO:0048713	regulation of oligodendrocyte differentiation
+GO:0019068	1	GO:0016032	viral process
+GO:0086100	8	GO:0051321	meiotic cell cycle
+GO:0019058	1	GO:0016032	viral process
+GO:0019082	1	GO:0016032	viral process
+GO:0042138	7	GO:0006260	DNA replication
+GO:0019072	1	GO:0016032	viral process
+GO:0019073	1	GO:0016032	viral process
+GO:0001907	2	GO:0052040	modulation by symbiont of host programmed cell death
+GO:0007218	8	GO:0051321	meiotic cell cycle
+GO:0030852	4	GO:0048713	regulation of oligodendrocyte differentiation
+GO:0030854	4	GO:0048713	regulation of oligodendrocyte differentiation
+GO:0042267	8	GO:0051321	meiotic cell cycle
+GO:0051236	5	GO:0015931	nucleobase-containing compound transport
+GO:0052040	2	GO:0052040	modulation by symbiont of host programmed cell death
+GO:0016032	1	GO:0016032	viral process
+GO:0032243	5	GO:0015931	nucleobase-containing compound transport
+GO:0010829	5	GO:0015931	nucleobase-containing compound transport
+GO:0051715	2	GO:0052040	modulation by symbiont of host programmed cell death
+GO:0044409	1	GO:0016032	viral process
+GO:0042783	2	GO:0052040	modulation by symbiont of host programmed cell death
+GO:0010833	7	GO:0006260	DNA replication
+GO:0033005	8	GO:0051321	meiotic cell cycle
+GO:0051709	2	GO:0052040	modulation by symbiont of host programmed cell death
+GO:0006487	7	GO:0006260	DNA replication
+GO:0032754	3	GO:0032656	regulation of interleukin-13 production
+GO:0032755	3	GO:0032656	regulation of interleukin-13 production
+GO:0032757	3	GO:0032656	regulation of interleukin-13 production
+GO:0035821	2	GO:0052040	modulation by symbiont of host programmed cell death
+GO:0002532	8	GO:0051321	meiotic cell cycle
+GO:0002534	3	GO:0032656	regulation of interleukin-13 production
+GO:0048026	7	GO:0006260	DNA replication
+GO:1904894	8	GO:0051321	meiotic cell cycle
+GO:0006403	5	GO:0015931	nucleobase-containing compound transport
+GO:0032736	3	GO:0032656	regulation of interleukin-13 production
+GO:0006406	5	GO:0015931	nucleobase-containing compound transport
+GO:0038084	8	GO:0051321	meiotic cell cycle
+GO:0017145	8	GO:0051321	meiotic cell cycle
+GO:0009267	8	GO:0051321	meiotic cell cycle
+GO:0002027	8	GO:0051321	meiotic cell cycle
+GO:1903401	5	GO:0015931	nucleobase-containing compound transport
+GO:0045660	4	GO:0048713	regulation of oligodendrocyte differentiation
+GO:0071655	3	GO:0032656	regulation of interleukin-13 production
+GO:0045658	4	GO:0048713	regulation of oligodendrocyte differentiation
+GO:0001782	8	GO:0051321	meiotic cell cycle
+GO:0001773	8	GO:0051321	meiotic cell cycle
+GO:0045040	5	GO:0015931	nucleobase-containing compound transport
+GO:0006260	7	GO:0006260	DNA replication
+GO:0051028	5	GO:0015931	nucleobase-containing compound transport
+GO:0007005	6	GO:0070096	mitochondrial outer membrane translocase complex assembly
+GO:0007008	6	GO:0070096	mitochondrial outer membrane translocase complex assembly
+GO:0009877	8	GO:0051321	meiotic cell cycle
+GO:0031214	4	GO:0048713	regulation of oligodendrocyte differentiation
+GO:0032656	3	GO:0032656	regulation of interleukin-13 production
+GO:0032674	3	GO:0032656	regulation of interleukin-13 production
+GO:0032616	3	GO:0032656	regulation of interleukin-13 production
+GO:0032634	3	GO:0032656	regulation of interleukin-13 production
+GO:0009566	8	GO:0051321	meiotic cell cycle
+GO:0002322	8	GO:0051321	meiotic cell cycle
+GO:0000282	8	GO:0051321	meiotic cell cycle
+GO:0021761	4	GO:0048713	regulation of oligodendrocyte differentiation
+GO:0021766	4	GO:0048713	regulation of oligodendrocyte differentiation
+GO:0050832	8	GO:0051321	meiotic cell cycle
+GO:0021782	4	GO:0048713	regulation of oligodendrocyte differentiation
+GO:0010375	8	GO:0051321	meiotic cell cycle
+GO:0046794	1	GO:0016032	viral process
+GO:0006809	7	GO:0006260	DNA replication
+GO:0010921	8	GO:0051321	meiotic cell cycle
+GO:0070096	6	GO:0070096	mitochondrial outer membrane translocase complex assembly
+GO:0030435	4	GO:0048713	regulation of oligodendrocyte differentiation
+GO:0030437	8	GO:0051321	meiotic cell cycle
+GO:0045920	8	GO:0051321	meiotic cell cycle
+GO:0045333	7	GO:0006260	DNA replication
+GO:0043281	7	GO:0006260	DNA replication
+GO:0045948	7	GO:0006260	DNA replication

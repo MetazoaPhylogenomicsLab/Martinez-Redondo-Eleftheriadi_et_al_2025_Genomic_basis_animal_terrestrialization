@@ -1,0 +1,86 @@
+GO:0043015	3	GO:0038024	cargo receptor activity
+GO:0016531	3	GO:0038024	cargo receptor activity
+GO:0046982	3	GO:0038024	cargo receptor activity
+GO:0000030	4	GO:1990756	ubiquitin ligase-substrate adaptor activity
+GO:0004952	2	GO:0099528	G protein-coupled neurotransmitter receptor activity
+GO:0016503	2	GO:0099528	G protein-coupled neurotransmitter receptor activity
+GO:0030246	3	GO:0038024	cargo receptor activity
+GO:0004983	2	GO:0099528	G protein-coupled neurotransmitter receptor activity
+GO:0016907	2	GO:0099528	G protein-coupled neurotransmitter receptor activity
+GO:0046911	3	GO:0038024	cargo receptor activity
+GO:0004989	2	GO:0099528	G protein-coupled neurotransmitter receptor activity
+GO:0004970	2	GO:0099528	G protein-coupled neurotransmitter receptor activity
+GO:0004523	5	GO:0004518	nuclease activity
+GO:0004527	5	GO:0004518	nuclease activity
+GO:0004518	5	GO:0004518	nuclease activity
+GO:0004519	5	GO:0004518	nuclease activity
+GO:0015280	4	GO:1990756	ubiquitin ligase-substrate adaptor activity
+GO:0008270	3	GO:0038024	cargo receptor activity
+GO:0004930	2	GO:0099528	G protein-coupled neurotransmitter receptor activity
+GO:0015279	4	GO:1990756	ubiquitin ligase-substrate adaptor activity
+GO:0038024	3	GO:0038024	cargo receptor activity
+GO:0061135	4	GO:1990756	ubiquitin ligase-substrate adaptor activity
+GO:0001228	3	GO:0038024	cargo receptor activity
+GO:0019789	4	GO:1990756	ubiquitin ligase-substrate adaptor activity
+GO:0000182	1	GO:0003677	DNA binding
+GO:0001217	3	GO:0038024	cargo receptor activity
+GO:0140097	5	GO:0004518	nuclease activity
+GO:0042923	3	GO:0038024	cargo receptor activity
+GO:0000981	3	GO:0038024	cargo receptor activity
+GO:0000987	1	GO:0003677	DNA binding
+GO:0000976	1	GO:0003677	DNA binding
+GO:0000977	1	GO:0003677	DNA binding
+GO:0000978	1	GO:0003677	DNA binding
+GO:0031435	3	GO:0038024	cargo receptor activity
+GO:0004252	5	GO:0004518	nuclease activity
+GO:0003677	1	GO:0003677	DNA binding
+GO:0043548	3	GO:0038024	cargo receptor activity
+GO:0099528	2	GO:0099528	G protein-coupled neurotransmitter receptor activity
+GO:0061665	4	GO:1990756	ubiquitin ligase-substrate adaptor activity
+GO:0004222	5	GO:0004518	nuclease activity
+GO:0008353	4	GO:1990756	ubiquitin ligase-substrate adaptor activity
+GO:0070679	3	GO:0038024	cargo receptor activity
+GO:0015385	4	GO:1990756	ubiquitin ligase-substrate adaptor activity
+GO:0009036	5	GO:0004518	nuclease activity
+GO:1990756	4	GO:1990756	ubiquitin ligase-substrate adaptor activity
+GO:0031956	4	GO:1990756	ubiquitin ligase-substrate adaptor activity
+GO:0043621	3	GO:0038024	cargo receptor activity
+GO:0050431	3	GO:0038024	cargo receptor activity
+GO:0003777	4	GO:1990756	ubiquitin ligase-substrate adaptor activity
+GO:0003724	4	GO:1990756	ubiquitin ligase-substrate adaptor activity
+GO:0004383	4	GO:1990756	ubiquitin ligase-substrate adaptor activity
+GO:0003725	1	GO:0003677	DNA binding
+GO:0005044	3	GO:0038024	cargo receptor activity
+GO:0004386	4	GO:1990756	ubiquitin ligase-substrate adaptor activity
+GO:0004376	4	GO:1990756	ubiquitin ligase-substrate adaptor activity
+GO:0035613	1	GO:0003677	DNA binding
+GO:0004725	5	GO:0004518	nuclease activity
+GO:0015464	2	GO:0099528	G protein-coupled neurotransmitter receptor activity
+GO:0004748	4	GO:1990756	ubiquitin ligase-substrate adaptor activity
+GO:0003700	3	GO:0038024	cargo receptor activity
+GO:0015026	2	GO:0099528	G protein-coupled neurotransmitter receptor activity
+GO:0001882	1	GO:0003677	DNA binding
+GO:0030594	2	GO:0099528	G protein-coupled neurotransmitter receptor activity
+GO:0016888	5	GO:0004518	nuclease activity
+GO:0004709	4	GO:1990756	ubiquitin ligase-substrate adaptor activity
+GO:0019955	3	GO:0038024	cargo receptor activity
+GO:0140299	3	GO:0038024	cargo receptor activity
+GO:0008408	5	GO:0004518	nuclease activity
+GO:0003887	4	GO:1990756	ubiquitin ligase-substrate adaptor activity
+GO:0004867	4	GO:1990756	ubiquitin ligase-substrate adaptor activity
+GO:0018024	4	GO:1990756	ubiquitin ligase-substrate adaptor activity
+GO:0046872	3	GO:0038024	cargo receptor activity
+GO:0008191	4	GO:1990756	ubiquitin ligase-substrate adaptor activity
+GO:0042302	3	GO:0038024	cargo receptor activity
+GO:0005539	3	GO:0038024	cargo receptor activity
+GO:0015166	4	GO:1990756	ubiquitin ligase-substrate adaptor activity
+GO:0005109	3	GO:0038024	cargo receptor activity
+GO:0008186	4	GO:1990756	ubiquitin ligase-substrate adaptor activity
+GO:0008188	2	GO:0099528	G protein-coupled neurotransmitter receptor activity
+GO:0034235	3	GO:0038024	cargo receptor activity
+GO:0008528	2	GO:0099528	G protein-coupled neurotransmitter receptor activity
+GO:0017151	3	GO:0038024	cargo receptor activity
+GO:0008138	5	GO:0004518	nuclease activity
+GO:0004190	5	GO:0004518	nuclease activity
+GO:0004993	2	GO:0099528	G protein-coupled neurotransmitter receptor activity
+GO:0003964	4	GO:1990756	ubiquitin ligase-substrate adaptor activity

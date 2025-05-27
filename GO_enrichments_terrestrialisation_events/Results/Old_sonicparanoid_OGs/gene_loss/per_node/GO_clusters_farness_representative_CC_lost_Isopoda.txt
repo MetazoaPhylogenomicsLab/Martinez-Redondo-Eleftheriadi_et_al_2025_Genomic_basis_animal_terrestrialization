@@ -1,0 +1,171 @@
+GO:0044423	2	GO:0019028	viral capsid
+GO:0016342	4	GO:0042611	MHC protein complex
+GO:0045495	6	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0098636	3	GO:0032994	protein-lipid complex
+GO:0060293	6	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0070176	8	GO:0033557	Slx1-Slx4 complex
+GO:0008076	4	GO:0042611	MHC protein complex
+GO:0031528	10	GO:0043005	neuron projection
+GO:0030430	1	GO:0033644	host cell membrane
+GO:0033644	1	GO:0033644	host cell membrane
+GO:0005680	8	GO:0033557	Slx1-Slx4 complex
+GO:0000782	7	GO:0005814	centriole
+GO:0030678	9	GO:0005739	mitochondrion
+GO:0044167	1	GO:0033644	host cell membrane
+GO:0005615	12	GO:0005615	extracellular space
+GO:0000408	3	GO:0032994	protein-lipid complex
+GO:0044177	1	GO:0033644	host cell membrane
+GO:0044178	1	GO:0033644	host cell membrane
+GO:0032983	4	GO:0042611	MHC protein complex
+GO:0035869	11	GO:0005929	cilium
+GO:0097060	4	GO:0042611	MHC protein complex
+GO:0043186	7	GO:0005814	centriole
+GO:0045169	6	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0042734	4	GO:0042611	MHC protein complex
+GO:0045170	7	GO:0005814	centriole
+GO:0045120	9	GO:0005739	mitochondrion
+GO:0042645	9	GO:0005739	mitochondrion
+GO:0030849	7	GO:0005814	centriole
+GO:0005845	3	GO:0032994	protein-lipid complex
+GO:0005846	3	GO:0032994	protein-lipid complex
+GO:0000812	8	GO:0033557	Slx1-Slx4 complex
+GO:0044219	1	GO:0033644	host cell membrane
+GO:0019028	2	GO:0019028	viral capsid
+GO:0019029	2	GO:0019028	viral capsid
+GO:0019013	2	GO:0019028	viral capsid
+GO:0055036	5	GO:0030313	cell envelope
+GO:0019030	2	GO:0019028	viral capsid
+GO:0019033	2	GO:0019028	viral capsid
+GO:0043005	10	GO:0043005	neuron projection
+GO:0044201	1	GO:0033644	host cell membrane
+GO:0042025	1	GO:0033644	host cell membrane
+GO:0032580	9	GO:0005739	mitochondrion
+GO:0034451	7	GO:0005814	centriole
+GO:0044163	1	GO:0033644	host cell membrane
+GO:0044156	1	GO:0033644	host cell membrane
+GO:0000120	8	GO:0033557	Slx1-Slx4 complex
+GO:0009535	9	GO:0005739	mitochondrion
+GO:0009897	4	GO:0042611	MHC protein complex
+GO:0070069	3	GO:0032994	protein-lipid complex
+GO:0062023	5	GO:0030313	cell envelope
+GO:0042579	9	GO:0005739	mitochondrion
+GO:0031143	11	GO:0005929	cilium
+GO:0032839	10	GO:0043005	neuron projection
+GO:0031514	11	GO:0005929	cilium
+GO:0005777	9	GO:0005739	mitochondrion
+GO:0005581	3	GO:0032994	protein-lipid complex
+GO:0005576	13	GO:0005576	extracellular region
+GO:0097447	10	GO:0043005	neuron projection
+GO:0030017	7	GO:0005814	centriole
+GO:0009526	9	GO:0005739	mitochondrion
+GO:0031160	5	GO:0030313	cell envelope
+GO:0001750	11	GO:0005929	cilium
+GO:0072562	12	GO:0005615	extracellular space
+GO:0000783	8	GO:0033557	Slx1-Slx4 complex
+GO:0036126	11	GO:0005929	cilium
+GO:0005741	9	GO:0005739	mitochondrion
+GO:0030141	9	GO:0005739	mitochondrion
+GO:0005739	9	GO:0005739	mitochondrion
+GO:0097730	11	GO:0005929	cilium
+GO:0045335	9	GO:0005739	mitochondrion
+GO:0060170	10	GO:0043005	neuron projection
+GO:0016282	6	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0005852	6	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0005886	4	GO:0042611	MHC protein complex
+GO:0000307	3	GO:0032994	protein-lipid complex
+GO:0032982	5	GO:0030313	cell envelope
+GO:0031463	3	GO:0032994	protein-lipid complex
+GO:0032590	10	GO:0043005	neuron projection
+GO:0030425	10	GO:0043005	neuron projection
+GO:0097225	11	GO:0005929	cilium
+GO:0098975	5	GO:0030313	cell envelope
+GO:0070993	6	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0009941	9	GO:0005739	mitochondrion
+GO:0032589	10	GO:0043005	neuron projection
+GO:1903561	9	GO:0005739	mitochondrion
+GO:0098595	12	GO:0005615	extracellular space
+GO:0000152	8	GO:0033557	Slx1-Slx4 complex
+GO:0033655	1	GO:0033644	host cell membrane
+GO:0120025	11	GO:0005929	cilium
+GO:0045177	13	GO:0005576	extracellular region
+GO:0005923	5	GO:0030313	cell envelope
+GO:0033645	1	GO:0033644	host cell membrane
+GO:0005927	5	GO:0030313	cell envelope
+GO:0005929	11	GO:0005929	cilium
+GO:0071683	10	GO:0043005	neuron projection
+GO:0043160	9	GO:0005739	mitochondrion
+GO:0005915	5	GO:0030313	cell envelope
+GO:0005930	7	GO:0005814	centriole
+GO:0005933	13	GO:0005576	extracellular region
+GO:0005934	5	GO:0030313	cell envelope
+GO:0005935	5	GO:0030313	cell envelope
+GO:0030313	5	GO:0030313	cell envelope
+GO:0019031	2	GO:0019028	viral capsid
+GO:0030915	8	GO:0033557	Slx1-Slx4 complex
+GO:0032783	8	GO:0033557	Slx1-Slx4 complex
+GO:0097546	11	GO:0005929	cilium
+GO:0046696	4	GO:0042611	MHC protein complex
+GO:0060205	9	GO:0005739	mitochondrion
+GO:0002080	9	GO:0005739	mitochondrion
+GO:0002081	9	GO:0005739	mitochondrion
+GO:0005700	7	GO:0005814	centriole
+GO:0032426	11	GO:0005929	cilium
+GO:0005704	7	GO:0005814	centriole
+GO:0005705	7	GO:0005814	centriole
+GO:0000242	7	GO:0005814	centriole
+GO:0044099	13	GO:0005576	extracellular region
+GO:0060077	5	GO:0030313	cell envelope
+GO:0042597	13	GO:0005576	extracellular region
+GO:0016028	11	GO:0005929	cilium
+GO:0000943	9	GO:0005739	mitochondrion
+GO:0000792	7	GO:0005814	centriole
+GO:0038037	4	GO:0042611	MHC protein complex
+GO:0001669	9	GO:0005739	mitochondrion
+GO:0035102	8	GO:0033557	Slx1-Slx4 complex
+GO:0005823	7	GO:0005814	centriole
+GO:0051286	5	GO:0030313	cell envelope
+GO:0005814	7	GO:0005814	centriole
+GO:0005816	7	GO:0005814	centriole
+GO:0000781	7	GO:0005814	centriole
+GO:0042995	13	GO:0005576	extracellular region
+GO:0043083	12	GO:0005615	extracellular space
+GO:0097728	11	GO:0005929	cilium
+GO:0097729	11	GO:0005929	cilium
+GO:0043332	10	GO:0043005	neuron projection
+GO:0009986	13	GO:0005576	extracellular region
+GO:0001725	7	GO:0005814	centriole
+GO:0033557	8	GO:0033557	Slx1-Slx4 complex
+GO:0044732	7	GO:0005814	centriole
+GO:0034364	12	GO:0005615	extracellular space
+GO:0020002	1	GO:0033644	host cell membrane
+GO:0002199	3	GO:0032994	protein-lipid complex
+GO:0036038	11	GO:0005929	cilium
+GO:0042611	4	GO:0042611	MHC protein complex
+GO:0035686	11	GO:0005929	cilium
+GO:0034705	4	GO:0042611	MHC protein complex
+GO:0098982	5	GO:0030313	cell envelope
+GO:0032994	3	GO:0032994	protein-lipid complex
+GO:0008250	9	GO:0005739	mitochondrion
+GO:0005614	5	GO:0030313	cell envelope
+GO:0034361	12	GO:0005615	extracellular space
+GO:0034358	12	GO:0005615	extracellular space
+GO:0034385	12	GO:0005615	extracellular space
+GO:0030175	10	GO:0043005	neuron projection
+GO:0008540	3	GO:0032994	protein-lipid complex
+GO:0030126	9	GO:0005739	mitochondrion
+GO:0042651	5	GO:0030313	cell envelope
+GO:0005850	6	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0033290	6	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0042627	12	GO:0005615	extracellular space
+GO:0031976	9	GO:0005739	mitochondrion
+GO:0009570	9	GO:0005739	mitochondrion
+GO:0005832	6	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0032010	9	GO:0005739	mitochondrion
+GO:0009532	9	GO:0005739	mitochondrion
+GO:0009534	9	GO:0005739	mitochondrion
+GO:1904813	9	GO:0005739	mitochondrion
+GO:0030312	13	GO:0005576	extracellular region
+GO:1990777	3	GO:0032994	protein-lipid complex
+GO:0055035	9	GO:0005739	mitochondrion
+GO:0071540	6	GO:0005852	eukaryotic translation initiation factor 3 complex
+GO:0031012	5	GO:0030313	cell envelope

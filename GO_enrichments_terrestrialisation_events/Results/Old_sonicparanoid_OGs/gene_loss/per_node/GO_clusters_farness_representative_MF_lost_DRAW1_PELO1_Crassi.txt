@@ -1,0 +1,17 @@
+GO:0003691	1	GO:0042162	telomeric DNA binding
+GO:0032422	1	GO:0042162	telomeric DNA binding
+GO:0008009	3	GO:0005515	protein binding
+GO:0000405	1	GO:0042162	telomeric DNA binding
+GO:0031435	3	GO:0005515	protein binding
+GO:0005179	3	GO:0005515	protein binding
+GO:0005125	3	GO:0005515	protein binding
+GO:0051428	3	GO:0005515	protein binding
+GO:0032399	3	GO:0005515	protein binding
+GO:0000900	1	GO:0042162	telomeric DNA binding
+GO:0042162	1	GO:0042162	telomeric DNA binding
+GO:0120160	3	GO:0005515	protein binding
+GO:0001851	3	GO:0005515	protein binding
+GO:0005515	3	GO:0005515	protein binding
+GO:0005516	3	GO:0005515	protein binding
+GO:0038085	3	GO:0005515	protein binding
+GO:0008097	1	GO:0042162	telomeric DNA binding

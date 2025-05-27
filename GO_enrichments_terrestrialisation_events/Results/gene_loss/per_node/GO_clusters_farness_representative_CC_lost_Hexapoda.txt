@@ -1,0 +1,80 @@
+GO:0033643	1	GO:0033643	host cell part
+GO:0033644	1	GO:0033643	host cell part
+GO:0033645	1	GO:0033643	host cell part
+GO:0033646	1	GO:0033643	host cell part
+GO:0005694	3	GO:0005657	replication fork
+GO:0005816	3	GO:0005657	replication fork
+GO:0055036	2	GO:0044423	virion component
+GO:0005657	3	GO:0005657	replication fork
+GO:0099086	3	GO:0005657	replication fork
+GO:0009897	5	GO:0120103	centriolar subdistal appendage
+GO:0020023	3	GO:0005657	replication fork
+GO:0000794	3	GO:0005657	replication fork
+GO:0000795	3	GO:0005657	replication fork
+GO:0044199	1	GO:0033643	host cell part
+GO:0034358	5	GO:0120103	centriolar subdistal appendage
+GO:0000800	3	GO:0005657	replication fork
+GO:0018995	1	GO:0033643	host cell part
+GO:0043656	1	GO:0033643	host cell part
+GO:0043657	1	GO:0033643	host cell part
+GO:0009986	5	GO:0120103	centriolar subdistal appendage
+GO:0035861	3	GO:0005657	replication fork
+GO:0019028	2	GO:0044423	virion component
+GO:0019013	2	GO:0044423	virion component
+GO:0030430	1	GO:0033643	host cell part
+GO:0043160	4	GO:0030667	secretory granule membrane
+GO:0005615	5	GO:0120103	centriolar subdistal appendage
+GO:0000792	3	GO:0005657	replication fork
+GO:0005576	5	GO:0120103	centriolar subdistal appendage
+GO:0031160	5	GO:0120103	centriolar subdistal appendage
+GO:0042025	1	GO:0033643	host cell part
+GO:0044177	1	GO:0033643	host cell part
+GO:0044178	1	GO:0033643	host cell part
+GO:0020002	1	GO:0033643	host cell part
+GO:0019030	2	GO:0044423	virion component
+GO:0019031	2	GO:0044423	virion component
+GO:0044423	2	GO:0044423	virion component
+GO:0033647	1	GO:0033643	host cell part
+GO:0033648	1	GO:0033643	host cell part
+GO:0045495	3	GO:0005657	replication fork
+GO:0031430	3	GO:0005657	replication fork
+GO:0030056	5	GO:0120103	centriolar subdistal appendage
+GO:0036338	2	GO:0044423	virion component
+GO:0001401	4	GO:0030667	secretory granule membrane
+GO:0005912	5	GO:0120103	centriolar subdistal appendage
+GO:0008076	5	GO:0120103	centriolar subdistal appendage
+GO:0030667	4	GO:0030667	secretory granule membrane
+GO:0034705	5	GO:0120103	centriolar subdistal appendage
+GO:0043202	4	GO:0030667	secretory granule membrane
+GO:0043186	3	GO:0005657	replication fork
+GO:0000940	3	GO:0005657	replication fork
+GO:0005604	5	GO:0120103	centriolar subdistal appendage
+GO:0031672	3	GO:0005657	replication fork
+GO:0060293	3	GO:0005657	replication fork
+GO:0045169	3	GO:0005657	replication fork
+GO:0072562	5	GO:0120103	centriolar subdistal appendage
+GO:0019029	2	GO:0044423	virion component
+GO:0045179	5	GO:0120103	centriolar subdistal appendage
+GO:0001725	3	GO:0005657	replication fork
+GO:0031463	5	GO:0120103	centriolar subdistal appendage
+GO:0033655	1	GO:0033643	host cell part
+GO:0044219	1	GO:0033643	host cell part
+GO:0035580	4	GO:0030667	secretory granule membrane
+GO:0005700	3	GO:0005657	replication fork
+GO:0002102	3	GO:0005657	replication fork
+GO:0005704	3	GO:0005657	replication fork
+GO:1904724	4	GO:0030667	secretory granule membrane
+GO:0060076	5	GO:0120103	centriolar subdistal appendage
+GO:0120103	5	GO:0120103	centriolar subdistal appendage
+GO:0005863	3	GO:0005657	replication fork
+GO:0044156	1	GO:0033643	host cell part
+GO:0072669	5	GO:0120103	centriolar subdistal appendage
+GO:0005634	3	GO:0005657	replication fork
+GO:0070062	5	GO:0120103	centriolar subdistal appendage
+GO:1903561	5	GO:0120103	centriolar subdistal appendage
+GO:0034361	5	GO:0120103	centriolar subdistal appendage
+GO:0042575	5	GO:0120103	centriolar subdistal appendage
+GO:0034385	5	GO:0120103	centriolar subdistal appendage
+GO:0031519	3	GO:0005657	replication fork
+GO:0098975	5	GO:0120103	centriolar subdistal appendage
+GO:0030017	3	GO:0005657	replication fork

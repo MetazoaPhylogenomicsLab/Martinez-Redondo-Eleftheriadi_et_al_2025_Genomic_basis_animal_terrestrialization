@@ -1,0 +1,146 @@
+GO:1903203	2	GO:1903203	regulation of oxidative stress-induced neuron death
+GO:2000343	1	GO:0032755	positive regulation of interleukin-6 production
+GO:1903204	2	GO:1903203	regulation of oxidative stress-induced neuron death
+GO:0071223	7	GO:0070542	response to fatty acid
+GO:0045887	6	GO:0030307	positive regulation of cell growth
+GO:0097164	4	GO:0046500	S-adenosylmethionine metabolic process
+GO:0036475	2	GO:1903203	regulation of oxidative stress-induced neuron death
+GO:0050731	6	GO:0030307	positive regulation of cell growth
+GO:0040018	6	GO:0030307	positive regulation of cell growth
+GO:0070373	3	GO:0043123	positive regulation of I-kappaB kinase/NF-kappaB signaling
+GO:0070374	3	GO:0043123	positive regulation of I-kappaB kinase/NF-kappaB signaling
+GO:1904466	6	GO:0030307	positive regulation of cell growth
+GO:0030588	5	GO:0099068	postsynapse assembly
+GO:0043406	3	GO:0043123	positive regulation of I-kappaB kinase/NF-kappaB signaling
+GO:0014823	9	GO:0001666	response to hypoxia
+GO:0018216	4	GO:0046500	S-adenosylmethionine metabolic process
+GO:0006936	8	GO:0006909	phagocytosis
+GO:0071694	8	GO:0006909	phagocytosis
+GO:0072756	7	GO:0070542	response to fatty acid
+GO:0030540	5	GO:0099068	postsynapse assembly
+GO:0071346	7	GO:0070542	response to fatty acid
+GO:0048661	6	GO:0030307	positive regulation of cell growth
+GO:0006909	8	GO:0006909	phagocytosis
+GO:1900227	6	GO:0030307	positive regulation of cell growth
+GO:0007413	5	GO:0099068	postsynapse assembly
+GO:0019695	4	GO:0046500	S-adenosylmethionine metabolic process
+GO:1901224	3	GO:0043123	positive regulation of I-kappaB kinase/NF-kappaB signaling
+GO:0019321	4	GO:0046500	S-adenosylmethionine metabolic process
+GO:0031532	5	GO:0099068	postsynapse assembly
+GO:0030225	5	GO:0099068	postsynapse assembly
+GO:0060298	6	GO:0030307	positive regulation of cell growth
+GO:0071300	7	GO:0070542	response to fatty acid
+GO:0097104	5	GO:0099068	postsynapse assembly
+GO:0097105	5	GO:0099068	postsynapse assembly
+GO:0030099	5	GO:0099068	postsynapse assembly
+GO:0032689	1	GO:0032755	positive regulation of interleukin-6 production
+GO:0006486	4	GO:0046500	S-adenosylmethionine metabolic process
+GO:0043123	3	GO:0043123	positive regulation of I-kappaB kinase/NF-kappaB signaling
+GO:1903428	6	GO:0030307	positive regulation of cell growth
+GO:0002537	9	GO:0001666	response to hypoxia
+GO:0032760	1	GO:0032755	positive regulation of interleukin-6 production
+GO:0050829	9	GO:0001666	response to hypoxia
+GO:0032755	1	GO:0032755	positive regulation of interleukin-6 production
+GO:0032757	1	GO:0032755	positive regulation of interleukin-6 production
+GO:0046365	4	GO:0046500	S-adenosylmethionine metabolic process
+GO:0046500	4	GO:0046500	S-adenosylmethionine metabolic process
+GO:1901336	4	GO:0046500	S-adenosylmethionine metabolic process
+GO:0032497	7	GO:0070542	response to fatty acid
+GO:0051168	8	GO:0006909	phagocytosis
+GO:0071604	1	GO:0032755	positive regulation of interleukin-6 production
+GO:0050832	9	GO:0001666	response to hypoxia
+GO:0140052	7	GO:0070542	response to fatty acid
+GO:0036120	7	GO:0070542	response to fatty acid
+GO:0031663	7	GO:0070542	response to fatty acid
+GO:1900017	1	GO:0032755	positive regulation of interleukin-6 production
+GO:0002246	9	GO:0001666	response to hypoxia
+GO:0032720	1	GO:0032755	positive regulation of interleukin-6 production
+GO:0032727	1	GO:0032755	positive regulation of interleukin-6 production
+GO:0032728	1	GO:0032755	positive regulation of interleukin-6 production
+GO:0032729	1	GO:0032755	positive regulation of interleukin-6 production
+GO:0043102	4	GO:0046500	S-adenosylmethionine metabolic process
+GO:1900619	4	GO:0046500	S-adenosylmethionine metabolic process
+GO:0032715	1	GO:0032755	positive regulation of interleukin-6 production
+GO:0001516	4	GO:0046500	S-adenosylmethionine metabolic process
+GO:0030307	6	GO:0030307	positive regulation of cell growth
+GO:0099068	5	GO:0099068	postsynapse assembly
+GO:0007158	8	GO:0006909	phagocytosis
+GO:0002322	8	GO:0006909	phagocytosis
+GO:0070430	3	GO:0043123	positive regulation of I-kappaB kinase/NF-kappaB signaling
+GO:0032731	1	GO:0032755	positive regulation of interleukin-6 production
+GO:0032733	1	GO:0032755	positive regulation of interleukin-6 production
+GO:0070434	3	GO:0043123	positive regulation of I-kappaB kinase/NF-kappaB signaling
+GO:0032735	1	GO:0032755	positive regulation of interleukin-6 production
+GO:0046330	3	GO:0043123	positive regulation of I-kappaB kinase/NF-kappaB signaling
+GO:0097090	5	GO:0099068	postsynapse assembly
+GO:0016064	8	GO:0006909	phagocytosis
+GO:0003009	8	GO:0006909	phagocytosis
+GO:0042135	4	GO:0046500	S-adenosylmethionine metabolic process
+GO:0008291	4	GO:0046500	S-adenosylmethionine metabolic process
+GO:0032700	1	GO:0032755	positive regulation of interleukin-6 production
+GO:0000097	4	GO:0046500	S-adenosylmethionine metabolic process
+GO:0032707	1	GO:0032755	positive regulation of interleukin-6 production
+GO:0097320	5	GO:0099068	postsynapse assembly
+GO:0034142	3	GO:0043123	positive regulation of I-kappaB kinase/NF-kappaB signaling
+GO:0120163	1	GO:0032755	positive regulation of interleukin-6 production
+GO:0045329	4	GO:0046500	S-adenosylmethionine metabolic process
+GO:0043278	7	GO:0070542	response to fatty acid
+GO:0002755	3	GO:0043123	positive regulation of I-kappaB kinase/NF-kappaB signaling
+GO:0060907	1	GO:0032755	positive regulation of interleukin-6 production
+GO:0045348	1	GO:0032755	positive regulation of interleukin-6 production
+GO:0015695	8	GO:0006909	phagocytosis
+GO:1902883	9	GO:0001666	response to hypoxia
+GO:0001666	9	GO:0001666	response to hypoxia
+GO:0032868	7	GO:0070542	response to fatty acid
+GO:0014911	6	GO:0030307	positive regulation of cell growth
+GO:0006801	4	GO:0046500	S-adenosylmethionine metabolic process
+GO:0043388	8	GO:0006909	phagocytosis
+GO:0060729	8	GO:0006909	phagocytosis
+GO:0046456	4	GO:0046500	S-adenosylmethionine metabolic process
+GO:0046457	4	GO:0046500	S-adenosylmethionine metabolic process
+GO:0030890	6	GO:0030307	positive regulation of cell growth
+GO:0007520	5	GO:0099068	postsynapse assembly
+GO:0010592	6	GO:0030307	positive regulation of cell growth
+GO:0002730	1	GO:0032755	positive regulation of interleukin-6 production
+GO:0043065	6	GO:0030307	positive regulation of cell growth
+GO:0043068	6	GO:0030307	positive regulation of cell growth
+GO:0007266	3	GO:0043123	positive regulation of I-kappaB kinase/NF-kappaB signaling
+GO:0007252	3	GO:0043123	positive regulation of I-kappaB kinase/NF-kappaB signaling
+GO:0072553	5	GO:0099068	postsynapse assembly
+GO:0045638	5	GO:0099068	postsynapse assembly
+GO:1990268	7	GO:0070542	response to fatty acid
+GO:0050965	8	GO:0006909	phagocytosis
+GO:0050966	8	GO:0006909	phagocytosis
+GO:0001774	8	GO:0006909	phagocytosis
+GO:0051092	4	GO:0046500	S-adenosylmethionine metabolic process
+GO:0006555	4	GO:0046500	S-adenosylmethionine metabolic process
+GO:0051384	7	GO:0070542	response to fatty acid
+GO:0014002	5	GO:0099068	postsynapse assembly
+GO:0006581	4	GO:0046500	S-adenosylmethionine metabolic process
+GO:0010572	6	GO:0030307	positive regulation of cell growth
+GO:0009086	4	GO:0046500	S-adenosylmethionine metabolic process
+GO:0007507	5	GO:0099068	postsynapse assembly
+GO:0043032	6	GO:0030307	positive regulation of cell growth
+GO:0045471	7	GO:0070542	response to fatty acid
+GO:0022416	5	GO:0099068	postsynapse assembly
+GO:0009620	9	GO:0001666	response to hypoxia
+GO:0045429	6	GO:0030307	positive regulation of cell growth
+GO:0001700	5	GO:0099068	postsynapse assembly
+GO:1903223	2	GO:1903203	regulation of oxidative stress-induced neuron death
+GO:0051930	8	GO:0006909	phagocytosis
+GO:0034314	6	GO:0030307	positive regulation of cell growth
+GO:0009636	7	GO:0070542	response to fatty acid
+GO:0070542	7	GO:0070542	response to fatty acid
+GO:0071260	9	GO:0001666	response to hypoxia
+GO:0071265	4	GO:0046500	S-adenosylmethionine metabolic process
+GO:0071267	4	GO:0046500	S-adenosylmethionine metabolic process
+GO:0035666	3	GO:0043123	positive regulation of I-kappaB kinase/NF-kappaB signaling
+GO:0032570	7	GO:0070542	response to fatty acid
+GO:0007015	5	GO:0099068	postsynapse assembly
+GO:0051491	6	GO:0030307	positive regulation of cell growth
+GO:0006691	4	GO:0046500	S-adenosylmethionine metabolic process
+GO:1903974	3	GO:0043123	positive regulation of I-kappaB kinase/NF-kappaB signaling
+GO:0051770	1	GO:0032755	positive regulation of interleukin-6 production
+GO:0006984	3	GO:0043123	positive regulation of I-kappaB kinase/NF-kappaB signaling
+GO:0050729	9	GO:0001666	response to hypoxia
+GO:1904646	7	GO:0070542	response to fatty acid

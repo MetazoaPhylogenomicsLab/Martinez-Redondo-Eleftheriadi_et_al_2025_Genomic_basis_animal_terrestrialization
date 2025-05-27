@@ -1,0 +1,668 @@
+GO:0060041	5	GO:0048880	sensory system development
+GO:0060042	5	GO:0048880	sensory system development
+GO:2001013	4	GO:0060562	epithelial tube morphogenesis
+GO:0033617	16	GO:0030036	actin cytoskeleton organization
+GO:0043062	16	GO:0030036	actin cytoskeleton organization
+GO:0051053	7	GO:2000279	negative regulation of DNA biosynthetic process
+GO:0051054	7	GO:2000279	negative regulation of DNA biosynthetic process
+GO:0051058	6	GO:0023041	neuronal signal transduction
+GO:0043052	11	GO:0006935	chemotaxis
+GO:0023041	6	GO:0023041	neuronal signal transduction
+GO:0043087	12	GO:0007610	behavior
+GO:1902017	16	GO:0030036	actin cytoskeleton organization
+GO:0033602	14	GO:0070782	phosphatidylserine exposure on apoptotic cell surface
+GO:0048749	5	GO:0048880	sensory system development
+GO:0032222	6	GO:0023041	neuronal signal transduction
+GO:0019722	6	GO:0023041	neuronal signal transduction
+GO:0032223	6	GO:0023041	neuronal signal transduction
+GO:0048737	5	GO:0048880	sensory system development
+GO:0035437	14	GO:0070782	phosphatidylserine exposure on apoptotic cell surface
+GO:0010968	16	GO:0030036	actin cytoskeleton organization
+GO:0120031	16	GO:0030036	actin cytoskeleton organization
+GO:0120032	16	GO:0030036	actin cytoskeleton organization
+GO:0048707	5	GO:0048880	sensory system development
+GO:0010977	1	GO:1903429	regulation of cell maturation
+GO:0010923	13	GO:0009649	entrainment of circadian clock
+GO:0035190	3	GO:1903132	regulation of tube lumen cavitation
+GO:0007391	4	GO:0060562	epithelial tube morphogenesis
+GO:1903132	3	GO:1903132	regulation of tube lumen cavitation
+GO:1903133	3	GO:1903132	regulation of tube lumen cavitation
+GO:0010948	17	GO:0051130	positive regulation of cellular component organization
+GO:0072175	4	GO:0060562	epithelial tube morphogenesis
+GO:0007369	5	GO:0048880	sensory system development
+GO:0035150	12	GO:0007610	behavior
+GO:0048859	5	GO:0048880	sensory system development
+GO:0035151	3	GO:1903132	regulation of tube lumen cavitation
+GO:0007351	5	GO:0048880	sensory system development
+GO:0035153	2	GO:0014016	neuroblast differentiation
+GO:0007354	3	GO:1903132	regulation of tube lumen cavitation
+GO:0048880	5	GO:0048880	sensory system development
+GO:0035158	3	GO:1903132	regulation of tube lumen cavitation
+GO:0035159	3	GO:1903132	regulation of tube lumen cavitation
+GO:0032760	13	GO:0009649	entrainment of circadian clock
+GO:0035186	3	GO:1903132	regulation of tube lumen cavitation
+GO:0048870	15	GO:0007163	establishment or maintenance of cell polarity
+GO:0007378	5	GO:0048880	sensory system development
+GO:0007379	5	GO:0048880	sensory system development
+GO:0035120	5	GO:0048880	sensory system development
+GO:0032781	12	GO:0007610	behavior
+GO:0007310	1	GO:1903429	regulation of cell maturation
+GO:0035113	5	GO:0048880	sensory system development
+GO:0007313	1	GO:1903429	regulation of cell maturation
+GO:0035114	5	GO:0048880	sensory system development
+GO:0021987	5	GO:0048880	sensory system development
+GO:0007343	15	GO:0007163	establishment or maintenance of cell polarity
+GO:0019827	3	GO:1903132	regulation of tube lumen cavitation
+GO:0032727	13	GO:0009649	entrainment of circadian clock
+GO:0032728	13	GO:0009649	entrainment of circadian clock
+GO:0030902	5	GO:0048880	sensory system development
+GO:0007338	12	GO:0007610	behavior
+GO:0021915	5	GO:0048880	sensory system development
+GO:0007305	1	GO:1903429	regulation of cell maturation
+GO:0035107	5	GO:0048880	sensory system development
+GO:0035108	5	GO:0048880	sensory system development
+GO:0007308	1	GO:1903429	regulation of cell maturation
+GO:0007309	1	GO:1903429	regulation of cell maturation
+GO:0048596	5	GO:0048880	sensory system development
+GO:0048598	5	GO:0048880	sensory system development
+GO:0035290	3	GO:1903132	regulation of tube lumen cavitation
+GO:0048599	1	GO:1903429	regulation of cell maturation
+GO:0007496	5	GO:0048880	sensory system development
+GO:0046068	9	GO:0071897	DNA biosynthetic process
+GO:0046069	9	GO:0071897	DNA biosynthetic process
+GO:0048562	5	GO:0048880	sensory system development
+GO:0048563	5	GO:0048880	sensory system development
+GO:0048567	4	GO:0060562	epithelial tube morphogenesis
+GO:0048568	5	GO:0048880	sensory system development
+GO:0001963	14	GO:0070782	phosphatidylserine exposure on apoptotic cell surface
+GO:0007455	4	GO:0060562	epithelial tube morphogenesis
+GO:0001956	14	GO:0070782	phosphatidylserine exposure on apoptotic cell surface
+GO:0001958	5	GO:0048880	sensory system development
+GO:0050960	10	GO:0007606	sensory perception of chemical stimulus
+GO:0007474	4	GO:0060562	epithelial tube morphogenesis
+GO:0050965	10	GO:0007606	sensory perception of chemical stimulus
+GO:0050966	10	GO:0007606	sensory perception of chemical stimulus
+GO:0035277	5	GO:0048880	sensory system development
+GO:0050968	10	GO:0007606	sensory perception of chemical stimulus
+GO:0007420	5	GO:0048880	sensory system development
+GO:0007427	3	GO:1903132	regulation of tube lumen cavitation
+GO:0048511	12	GO:0007610	behavior
+GO:0048514	5	GO:0048880	sensory system development
+GO:0035210	5	GO:0048880	sensory system development
+GO:0007411	2	GO:0014016	neuroblast differentiation
+GO:0007412	2	GO:0014016	neuroblast differentiation
+GO:0007413	2	GO:0014016	neuroblast differentiation
+GO:0035215	5	GO:0048880	sensory system development
+GO:0007416	2	GO:0014016	neuroblast differentiation
+GO:0032876	7	GO:2000279	negative regulation of DNA biosynthetic process
+GO:0007417	5	GO:0048880	sensory system development
+GO:0007419	5	GO:0048880	sensory system development
+GO:0008593	6	GO:0023041	neuronal signal transduction
+GO:0008595	3	GO:1903132	regulation of tube lumen cavitation
+GO:0048546	5	GO:0048880	sensory system development
+GO:0007443	4	GO:0060562	epithelial tube morphogenesis
+GO:0035249	14	GO:0070782	phosphatidylserine exposure on apoptotic cell surface
+GO:0050921	13	GO:0009649	entrainment of circadian clock
+GO:0001942	5	GO:0048880	sensory system development
+GO:0035235	6	GO:0023041	neuronal signal transduction
+GO:0001947	4	GO:0060562	epithelial tube morphogenesis
+GO:0007439	4	GO:0060562	epithelial tube morphogenesis
+GO:0050911	10	GO:0007606	sensory perception of chemical stimulus
+GO:0050912	10	GO:0007606	sensory perception of chemical stimulus
+GO:0050916	10	GO:0007606	sensory perception of chemical stimulus
+GO:0050919	11	GO:0006935	chemotaxis
+GO:0007400	2	GO:0014016	neuroblast differentiation
+GO:0050931	1	GO:1903429	regulation of cell maturation
+GO:0007406	1	GO:1903429	regulation of cell maturation
+GO:0007409	2	GO:0014016	neuroblast differentiation
+GO:0008585	5	GO:0048880	sensory system development
+GO:0008586	4	GO:0060562	epithelial tube morphogenesis
+GO:0008587	4	GO:0060562	epithelial tube morphogenesis
+GO:0039529	6	GO:0023041	neuronal signal transduction
+GO:0060322	5	GO:0048880	sensory system development
+GO:0007193	6	GO:0023041	neuronal signal transduction
+GO:0050907	10	GO:0007606	sensory perception of chemical stimulus
+GO:0050909	10	GO:0007606	sensory perception of chemical stimulus
+GO:0048664	2	GO:0014016	neuroblast differentiation
+GO:0008535	16	GO:0030036	actin cytoskeleton organization
+GO:0048665	2	GO:0014016	neuroblast differentiation
+GO:0007163	15	GO:0007163	establishment or maintenance of cell polarity
+GO:0007168	6	GO:0023041	neuronal signal transduction
+GO:0007169	6	GO:0023041	neuronal signal transduction
+GO:0007156	15	GO:0007163	establishment or maintenance of cell polarity
+GO:1902373	7	GO:2000279	negative regulation of DNA biosynthetic process
+GO:0007187	6	GO:0023041	neuronal signal transduction
+GO:0007188	6	GO:0023041	neuronal signal transduction
+GO:0007189	6	GO:0023041	neuronal signal transduction
+GO:0048675	2	GO:0014016	neuroblast differentiation
+GO:0039695	12	GO:0007610	behavior
+GO:0035720	14	GO:0070782	phosphatidylserine exposure on apoptotic cell surface
+GO:0035721	14	GO:0070782	phosphatidylserine exposure on apoptotic cell surface
+GO:0071360	11	GO:0006935	chemotaxis
+GO:0048611	4	GO:0060562	epithelial tube morphogenesis
+GO:0048613	4	GO:0060562	epithelial tube morphogenesis
+GO:0071364	11	GO:0006935	chemotaxis
+GO:0048644	5	GO:0048880	sensory system development
+GO:0071356	11	GO:0006935	chemotaxis
+GO:0060491	17	GO:0051130	positive regulation of cellular component organization
+GO:0048639	3	GO:1903132	regulation of tube lumen cavitation
+GO:0071320	11	GO:0006935	chemotaxis
+GO:0099515	14	GO:0070782	phosphatidylserine exposure on apoptotic cell surface
+GO:0071313	11	GO:0006935	chemotaxis
+GO:0140374	11	GO:0006935	chemotaxis
+GO:0071316	11	GO:0006935	chemotaxis
+GO:0003351	14	GO:0070782	phosphatidylserine exposure on apoptotic cell surface
+GO:0031156	3	GO:1903132	regulation of tube lumen cavitation
+GO:0060485	5	GO:0048880	sensory system development
+GO:0038007	6	GO:0023041	neuronal signal transduction
+GO:1903828	17	GO:0051130	positive regulation of cellular component organization
+GO:0000165	6	GO:0023041	neuronal signal transduction
+GO:1903818	14	GO:0070782	phosphatidylserine exposure on apoptotic cell surface
+GO:0032508	16	GO:0030036	actin cytoskeleton organization
+GO:0039645	13	GO:0009649	entrainment of circadian clock
+GO:0051495	17	GO:0051130	positive regulation of cellular component organization
+GO:0051497	16	GO:0030036	actin cytoskeleton organization
+GO:0007298	1	GO:1903429	regulation of cell maturation
+GO:0043491	6	GO:0023041	neuronal signal transduction
+GO:0060415	5	GO:0048880	sensory system development
+GO:0060419	5	GO:0048880	sensory system development
+GO:0000122	7	GO:2000279	negative regulation of DNA biosynthetic process
+GO:0060438	5	GO:0048880	sensory system development
+GO:0051480	14	GO:0070782	phosphatidylserine exposure on apoptotic cell surface
+GO:0007272	2	GO:0014016	neuroblast differentiation
+GO:0060402	14	GO:0070782	phosphatidylserine exposure on apoptotic cell surface
+GO:1902414	14	GO:0070782	phosphatidylserine exposure on apoptotic cell surface
+GO:0007224	6	GO:0023041	neuronal signal transduction
+GO:0035810	12	GO:0007610	behavior
+GO:0007210	6	GO:0023041	neuronal signal transduction
+GO:0007212	6	GO:0023041	neuronal signal transduction
+GO:0007214	6	GO:0023041	neuronal signal transduction
+GO:0007219	6	GO:0023041	neuronal signal transduction
+GO:0035845	2	GO:0014016	neuroblast differentiation
+GO:0051447	17	GO:0051130	positive regulation of cellular component organization
+GO:0031295	13	GO:0009649	entrainment of circadian clock
+GO:0042051	2	GO:0014016	neuroblast differentiation
+GO:0042052	2	GO:0014016	neuroblast differentiation
+GO:0042058	6	GO:0023041	neuronal signal transduction
+GO:0042059	6	GO:0023041	neuronal signal transduction
+GO:0072595	14	GO:0070782	phosphatidylserine exposure on apoptotic cell surface
+GO:0035809	12	GO:0007610	behavior
+GO:0071444	11	GO:0006935	chemotaxis
+GO:0042073	14	GO:0070782	phosphatidylserine exposure on apoptotic cell surface
+GO:1901019	14	GO:0070782	phosphatidylserine exposure on apoptotic cell surface
+GO:0031288	3	GO:1903132	regulation of tube lumen cavitation
+GO:0060173	5	GO:0048880	sensory system development
+GO:1901048	6	GO:0023041	neuronal signal transduction
+GO:0002090	17	GO:0051130	positive regulation of cellular component organization
+GO:0002092	17	GO:0051130	positive regulation of cellular component organization
+GO:0002093	2	GO:0014016	neuroblast differentiation
+GO:1903537	1	GO:1903429	regulation of cell maturation
+GO:0060117	2	GO:0014016	neuroblast differentiation
+GO:1903538	1	GO:1903429	regulation of cell maturation
+GO:0003418	3	GO:1903132	regulation of tube lumen cavitation
+GO:0120192	16	GO:0030036	actin cytoskeleton organization
+GO:0060142	17	GO:0051130	positive regulation of cellular component organization
+GO:0002064	2	GO:0014016	neuroblast differentiation
+GO:0072525	9	GO:0071897	DNA biosynthetic process
+GO:1903508	7	GO:2000279	negative regulation of DNA biosynthetic process
+GO:1905349	16	GO:0030036	actin cytoskeleton organization
+GO:1905330	4	GO:0060562	epithelial tube morphogenesis
+GO:1905332	4	GO:0060562	epithelial tube morphogenesis
+GO:0043173	9	GO:0071897	DNA biosynthetic process
+GO:0003407	5	GO:0048880	sensory system development
+GO:0060290	1	GO:1903429	regulation of cell maturation
+GO:0002011	4	GO:0060562	epithelial tube morphogenesis
+GO:0051148	1	GO:1903429	regulation of cell maturation
+GO:0051130	17	GO:0051130	positive regulation of cellular component organization
+GO:0002040	5	GO:0048880	sensory system development
+GO:0006367	9	GO:0071897	DNA biosynthetic process
+GO:0006357	7	GO:2000279	negative regulation of DNA biosynthetic process
+GO:0014074	11	GO:0006935	chemotaxis
+GO:0014075	11	GO:0006935	chemotaxis
+GO:0060282	1	GO:1903429	regulation of cell maturation
+GO:0014016	2	GO:0014016	neuroblast differentiation
+GO:0060271	16	GO:0030036	actin cytoskeleton organization
+GO:0014041	1	GO:1903429	regulation of cell maturation
+GO:0015669	14	GO:0070782	phosphatidylserine exposure on apoptotic cell surface
+GO:0014043	1	GO:1903429	regulation of cell maturation
+GO:0006313	9	GO:0071897	DNA biosynthetic process
+GO:0051293	14	GO:0070782	phosphatidylserine exposure on apoptotic cell surface
+GO:0043297	16	GO:0030036	actin cytoskeleton organization
+GO:1902260	14	GO:0070782	phosphatidylserine exposure on apoptotic cell surface
+GO:0015671	14	GO:0070782	phosphatidylserine exposure on apoptotic cell surface
+GO:0019991	16	GO:0030036	actin cytoskeleton organization
+GO:0000723	9	GO:0071897	DNA biosynthetic process
+GO:1905476	14	GO:0070782	phosphatidylserine exposure on apoptotic cell surface
+GO:0051260	16	GO:0030036	actin cytoskeleton organization
+GO:2001240	6	GO:0023041	neuronal signal transduction
+GO:2001242	6	GO:0023041	neuronal signal transduction
+GO:2001244	6	GO:0023041	neuronal signal transduction
+GO:0000738	9	GO:0071897	DNA biosynthetic process
+GO:0035641	12	GO:0007610	behavior
+GO:0048935	2	GO:0014016	neuroblast differentiation
+GO:0035633	12	GO:0007610	behavior
+GO:0019934	6	GO:0023041	neuronal signal transduction
+GO:0140278	16	GO:0030036	actin cytoskeleton organization
+GO:0045022	14	GO:0070782	phosphatidylserine exposure on apoptotic cell surface
+GO:0051209	14	GO:0070782	phosphatidylserine exposure on apoptotic cell surface
+GO:0003254	17	GO:0051130	positive regulation of cellular component organization
+GO:1905168	7	GO:2000279	negative regulation of DNA biosynthetic process
+GO:0045035	5	GO:0048880	sensory system development
+GO:1905153	17	GO:0051130	positive regulation of cellular component organization
+GO:0007560	4	GO:0060562	epithelial tube morphogenesis
+GO:0051764	16	GO:0030036	actin cytoskeleton organization
+GO:0007552	5	GO:0048880	sensory system development
+GO:0032956	17	GO:0051130	positive regulation of cellular component organization
+GO:0007520	1	GO:1903429	regulation of cell maturation
+GO:0032989	2	GO:0014016	neuroblast differentiation
+GO:0042395	12	GO:0007610	behavior
+GO:0007517	5	GO:0048880	sensory system development
+GO:0075509	14	GO:0070782	phosphatidylserine exposure on apoptotic cell surface
+GO:0032922	13	GO:0009649	entrainment of circadian clock
+GO:0006167	9	GO:0071897	DNA biosynthetic process
+GO:0006182	9	GO:0071897	DNA biosynthetic process
+GO:0007501	2	GO:0014016	neuroblast differentiation
+GO:0007507	5	GO:0048880	sensory system development
+GO:0060857	2	GO:0014016	neuroblast differentiation
+GO:0031582	7	GO:2000279	negative regulation of DNA biosynthetic process
+GO:1901346	3	GO:1903132	regulation of tube lumen cavitation
+GO:0051896	6	GO:0023041	neuronal signal transduction
+GO:0017004	16	GO:0030036	actin cytoskeleton organization
+GO:0000578	5	GO:0048880	sensory system development
+GO:0042338	5	GO:0048880	sensory system development
+GO:1905276	4	GO:0060562	epithelial tube morphogenesis
+GO:1905278	4	GO:0060562	epithelial tube morphogenesis
+GO:0031532	16	GO:0030036	actin cytoskeleton organization
+GO:0071897	9	GO:0071897	DNA biosynthetic process
+GO:0051881	12	GO:0007610	behavior
+GO:0002385	11	GO:0006935	chemotaxis
+GO:0002371	13	GO:0009649	entrainment of circadian clock
+GO:0007626	12	GO:0007610	behavior
+GO:0007610	12	GO:0007610	behavior
+GO:0030050	14	GO:0070782	phosphatidylserine exposure on apoptotic cell surface
+GO:0007614	12	GO:0007610	behavior
+GO:0071880	6	GO:0023041	neuronal signal transduction
+GO:0065001	5	GO:0048880	sensory system development
+GO:0007638	11	GO:0006935	chemotaxis
+GO:0042462	2	GO:0014016	neuroblast differentiation
+GO:0022410	12	GO:0007610	behavior
+GO:1902808	17	GO:0051130	positive regulation of cellular component organization
+GO:0060562	4	GO:0060562	epithelial tube morphogenesis
+GO:0007601	10	GO:0007606	sensory perception of chemical stimulus
+GO:0007602	6	GO:0023041	neuronal signal transduction
+GO:0007605	10	GO:0007606	sensory perception of chemical stimulus
+GO:0007606	10	GO:0007606	sensory perception of chemical stimulus
+GO:1903977	1	GO:1903429	regulation of cell maturation
+GO:0007608	10	GO:0007606	sensory perception of chemical stimulus
+GO:0006275	7	GO:2000279	negative regulation of DNA biosynthetic process
+GO:0006278	9	GO:0071897	DNA biosynthetic process
+GO:0030031	16	GO:0030036	actin cytoskeleton organization
+GO:0060581	2	GO:0014016	neuroblast differentiation
+GO:0042471	5	GO:0048880	sensory system development
+GO:0030032	16	GO:0030036	actin cytoskeleton organization
+GO:0060582	2	GO:0014016	neuroblast differentiation
+GO:0042472	5	GO:0048880	sensory system development
+GO:0030036	16	GO:0030036	actin cytoskeleton organization
+GO:0060576	2	GO:0014016	neuroblast differentiation
+GO:0009435	9	GO:0071897	DNA biosynthetic process
+GO:0051590	14	GO:0070782	phosphatidylserine exposure on apoptotic cell surface
+GO:0051591	11	GO:0006935	chemotaxis
+GO:0006241	9	GO:0071897	DNA biosynthetic process
+GO:0022404	3	GO:1903132	regulation of tube lumen cavitation
+GO:0022405	12	GO:0007610	behavior
+GO:0090090	6	GO:0023041	neuronal signal transduction
+GO:0034329	16	GO:0030036	actin cytoskeleton organization
+GO:0034315	16	GO:0030036	actin cytoskeleton organization
+GO:0097009	12	GO:0007610	behavior
+GO:0034332	16	GO:0030036	actin cytoskeleton organization
+GO:0034334	16	GO:0030036	actin cytoskeleton organization
+GO:0009190	9	GO:0071897	DNA biosynthetic process
+GO:2000050	6	GO:0023041	neuronal signal transduction
+GO:2000027	5	GO:0048880	sensory system development
+GO:0038203	6	GO:0023041	neuronal signal transduction
+GO:0045316	1	GO:1903429	regulation of cell maturation
+GO:0009147	9	GO:0071897	DNA biosynthetic process
+GO:0034486	15	GO:0007163	establishment or maintenance of cell polarity
+GO:1905868	7	GO:2000279	negative regulation of DNA biosynthetic process
+GO:0043696	3	GO:1903132	regulation of tube lumen cavitation
+GO:0043697	1	GO:1903429	regulation of cell maturation
+GO:0060612	5	GO:0048880	sensory system development
+GO:1905885	14	GO:0070782	phosphatidylserine exposure on apoptotic cell surface
+GO:0070050	15	GO:0007163	establishment or maintenance of cell polarity
+GO:0051660	14	GO:0070782	phosphatidylserine exposure on apoptotic cell surface
+GO:0051661	14	GO:0070782	phosphatidylserine exposure on apoptotic cell surface
+GO:0060631	17	GO:0051130	positive regulation of cellular component organization
+GO:0051666	15	GO:0007163	establishment or maintenance of cell polarity
+GO:1902680	7	GO:2000279	negative regulation of DNA biosynthetic process
+GO:0070059	6	GO:0023041	neuronal signal transduction
+GO:0051653	15	GO:0007163	establishment or maintenance of cell polarity
+GO:0002165	5	GO:0048880	sensory system development
+GO:0002168	5	GO:0048880	sensory system development
+GO:0051659	14	GO:0070782	phosphatidylserine exposure on apoptotic cell surface
+GO:0043652	14	GO:0070782	phosphatidylserine exposure on apoptotic cell surface
+GO:0071694	14	GO:0070782	phosphatidylserine exposure on apoptotic cell surface
+GO:0045494	12	GO:0007610	behavior
+GO:0009262	9	GO:0071897	DNA biosynthetic process
+GO:0046833	14	GO:0070782	phosphatidylserine exposure on apoptotic cell surface
+GO:0009263	9	GO:0071897	DNA biosynthetic process
+GO:0061061	5	GO:0048880	sensory system development
+GO:0051642	15	GO:0007163	establishment or maintenance of cell polarity
+GO:0045466	2	GO:0014016	neuroblast differentiation
+GO:0061067	3	GO:1903132	regulation of tube lumen cavitation
+GO:0002119	5	GO:0048880	sensory system development
+GO:0110077	15	GO:0007163	establishment or maintenance of cell polarity
+GO:0034196	14	GO:0070782	phosphatidylserine exposure on apoptotic cell surface
+GO:0034197	14	GO:0070782	phosphatidylserine exposure on apoptotic cell surface
+GO:0071679	2	GO:0014016	neuroblast differentiation
+GO:0006858	14	GO:0070782	phosphatidylserine exposure on apoptotic cell surface
+GO:0009214	9	GO:0071897	DNA biosynthetic process
+GO:0042220	11	GO:0006935	chemotaxis
+GO:0045445	2	GO:0014016	neuroblast differentiation
+GO:0061045	13	GO:0009649	entrainment of circadian clock
+GO:0006833	14	GO:0070782	phosphatidylserine exposure on apoptotic cell surface
+GO:0046552	2	GO:0014016	neuroblast differentiation
+GO:0046580	6	GO:0023041	neuronal signal transduction
+GO:0034142	6	GO:0023041	neuronal signal transduction
+GO:1905515	16	GO:0030036	actin cytoskeleton organization
+GO:0002251	11	GO:0006935	chemotaxis
+GO:0062125	13	GO:0009649	entrainment of circadian clock
+GO:0098727	3	GO:1903132	regulation of tube lumen cavitation
+GO:0010378	13	GO:0009649	entrainment of circadian clock
+GO:0045196	2	GO:0014016	neuroblast differentiation
+GO:0045197	15	GO:0007163	establishment or maintenance of cell polarity
+GO:0045199	15	GO:0007163	establishment or maintenance of cell polarity
+GO:0002220	13	GO:0009649	entrainment of circadian clock
+GO:0034109	15	GO:0007163	establishment or maintenance of cell polarity
+GO:0062149	10	GO:0007606	sensory perception of chemical stimulus
+GO:0009753	11	GO:0006935	chemotaxis
+GO:0009786	17	GO:0051130	positive regulation of cellular component organization
+GO:0030322	12	GO:0007610	behavior
+GO:0030326	5	GO:0048880	sensory system development
+GO:0045187	12	GO:0007610	behavior
+GO:1904059	12	GO:0007610	behavior
+GO:0042753	13	GO:0009649	entrainment of circadian clock
+GO:0045176	14	GO:0070782	phosphatidylserine exposure on apoptotic cell surface
+GO:0030334	17	GO:0051130	positive regulation of cellular component organization
+GO:0009733	11	GO:0006935	chemotaxis
+GO:0042746	12	GO:0007610	behavior
+GO:0030308	17	GO:0051130	positive regulation of cellular component organization
+GO:0042749	12	GO:0007610	behavior
+GO:0046662	12	GO:0007610	behavior
+GO:0150063	5	GO:0048880	sensory system development
+GO:0042730	13	GO:0009649	entrainment of circadian clock
+GO:0042733	5	GO:0048880	sensory system development
+GO:0036065	12	GO:0007610	behavior
+GO:0046683	11	GO:0006935	chemotaxis
+GO:0010458	16	GO:0030036	actin cytoskeleton organization
+GO:0002752	6	GO:0023041	neuronal signal transduction
+GO:0046620	3	GO:1903132	regulation of tube lumen cavitation
+GO:0046621	3	GO:1903132	regulation of tube lumen cavitation
+GO:0046622	3	GO:1903132	regulation of tube lumen cavitation
+GO:0017158	14	GO:0070782	phosphatidylserine exposure on apoptotic cell surface
+GO:2000369	17	GO:0051130	positive regulation of cellular component organization
+GO:0010446	11	GO:0006935	chemotaxis
+GO:0090317	14	GO:0070782	phosphatidylserine exposure on apoptotic cell surface
+GO:0002730	13	GO:0009649	entrainment of circadian clock
+GO:2000370	17	GO:0051130	positive regulation of cellular component organization
+GO:0030421	12	GO:0007610	behavior
+GO:0002732	13	GO:0009649	entrainment of circadian clock
+GO:0002735	13	GO:0009649	entrainment of circadian clock
+GO:1901888	17	GO:0051130	positive regulation of cellular component organization
+GO:0097475	2	GO:0014016	neuroblast differentiation
+GO:0045214	16	GO:0030036	actin cytoskeleton organization
+GO:0045217	16	GO:0030036	actin cytoskeleton organization
+GO:0006621	14	GO:0070782	phosphatidylserine exposure on apoptotic cell surface
+GO:0090305	9	GO:0071897	DNA biosynthetic process
+GO:2000300	14	GO:0070782	phosphatidylserine exposure on apoptotic cell surface
+GO:0010160	5	GO:0048880	sensory system development
+GO:0097402	15	GO:0007163	establishment or maintenance of cell polarity
+GO:0051966	6	GO:0023041	neuronal signal transduction
+GO:0051968	6	GO:0023041	neuronal signal transduction
+GO:0070374	6	GO:0023041	neuronal signal transduction
+GO:0010171	5	GO:0048880	sensory system development
+GO:0010172	5	GO:0048880	sensory system development
+GO:0009597	11	GO:0006935	chemotaxis
+GO:0060900	5	GO:0048880	sensory system development
+GO:0060903	17	GO:0051130	positive regulation of cellular component organization
+GO:0097193	6	GO:0023041	neuronal signal transduction
+GO:0070328	12	GO:0007610	behavior
+GO:0030168	15	GO:0007163	establishment or maintenance of cell polarity
+GO:0043922	12	GO:0007610	behavior
+GO:0042595	11	GO:0006935	chemotaxis
+GO:0009566	12	GO:0007610	behavior
+GO:0045752	6	GO:0023041	neuronal signal transduction
+GO:0048066	12	GO:0007610	behavior
+GO:0030178	6	GO:0023041	neuronal signal transduction
+GO:0061382	2	GO:0014016	neuroblast differentiation
+GO:0042551	2	GO:0014016	neuroblast differentiation
+GO:0097178	16	GO:0030036	actin cytoskeleton organization
+GO:0014820	12	GO:0007610	behavior
+GO:0051900	17	GO:0051130	positive regulation of cellular component organization
+GO:0061326	5	GO:0048880	sensory system development
+GO:0014812	15	GO:0007163	establishment or maintenance of cell polarity
+GO:0061318	2	GO:0014016	neuroblast differentiation
+GO:0061319	2	GO:0014016	neuroblast differentiation
+GO:0045740	7	GO:2000279	negative regulation of DNA biosynthetic process
+GO:0045747	6	GO:0023041	neuronal signal transduction
+GO:0061331	4	GO:0060562	epithelial tube morphogenesis
+GO:0061333	4	GO:0060562	epithelial tube morphogenesis
+GO:0045739	7	GO:2000279	negative regulation of DNA biosynthetic process
+GO:0030100	17	GO:0051130	positive regulation of cellular component organization
+GO:0098664	6	GO:0023041	neuronal signal transduction
+GO:0008052	5	GO:0048880	sensory system development
+GO:0045892	7	GO:2000279	negative regulation of DNA biosynthetic process
+GO:0045893	7	GO:2000279	negative regulation of DNA biosynthetic process
+GO:0008078	15	GO:0007163	establishment or maintenance of cell polarity
+GO:1904396	17	GO:0051130	positive regulation of cellular component organization
+GO:0090175	4	GO:0060562	epithelial tube morphogenesis
+GO:0042692	2	GO:0014016	neuroblast differentiation
+GO:0008045	2	GO:0014016	neuroblast differentiation
+GO:0045869	13	GO:0009649	entrainment of circadian clock
+GO:0008039	2	GO:0014016	neuroblast differentiation
+GO:0042661	3	GO:1903132	regulation of tube lumen cavitation
+GO:2000177	17	GO:0051130	positive regulation of cellular component organization
+GO:1904357	7	GO:2000279	negative regulation of DNA biosynthetic process
+GO:0009629	11	GO:0006935	chemotaxis
+GO:0016360	2	GO:0014016	neuroblast differentiation
+GO:0030239	16	GO:0030036	actin cytoskeleton organization
+GO:0009649	13	GO:0009649	entrainment of circadian clock
+GO:0034587	9	GO:0071897	DNA biosynthetic process
+GO:0045835	17	GO:0051130	positive regulation of cellular component organization
+GO:0022603	3	GO:1903132	regulation of tube lumen cavitation
+GO:0032026	11	GO:0006935	chemotaxis
+GO:0002690	13	GO:0009649	entrainment of circadian clock
+GO:0042633	12	GO:0007610	behavior
+GO:0033198	11	GO:0006935	chemotaxis
+GO:0016322	2	GO:0014016	neuroblast differentiation
+GO:0032042	9	GO:0071897	DNA biosynthetic process
+GO:0009606	11	GO:0006935	chemotaxis
+GO:0045807	17	GO:0051130	positive regulation of cellular component organization
+GO:0010752	6	GO:0023041	neuronal signal transduction
+GO:0010753	6	GO:0023041	neuronal signal transduction
+GO:0010754	6	GO:0023041	neuronal signal transduction
+GO:0016318	5	GO:0048880	sensory system development
+GO:0016319	5	GO:0048880	sensory system development
+GO:0016331	4	GO:0060562	epithelial tube morphogenesis
+GO:0090251	4	GO:0060562	epithelial tube morphogenesis
+GO:0016334	4	GO:0060562	epithelial tube morphogenesis
+GO:0046928	14	GO:0070782	phosphatidylserine exposure on apoptotic cell surface
+GO:0045597	1	GO:1903429	regulation of cell maturation
+GO:0070129	7	GO:2000279	negative regulation of DNA biosynthetic process
+GO:1904491	14	GO:0070782	phosphatidylserine exposure on apoptotic cell surface
+GO:0036314	11	GO:0006935	chemotaxis
+GO:0046931	16	GO:0030036	actin cytoskeleton organization
+GO:2000251	17	GO:0051130	positive regulation of cellular component organization
+GO:0070131	7	GO:2000279	negative regulation of DNA biosynthetic process
+GO:0021795	3	GO:1903132	regulation of tube lumen cavitation
+GO:2000279	7	GO:2000279	negative regulation of DNA biosynthetic process
+GO:0045570	3	GO:1903132	regulation of tube lumen cavitation
+GO:0030716	1	GO:1903429	regulation of cell maturation
+GO:0018991	12	GO:0007610	behavior
+GO:0006984	6	GO:0023041	neuronal signal transduction
+GO:0018996	12	GO:0007610	behavior
+GO:0006971	11	GO:0006935	chemotaxis
+GO:2000249	17	GO:0051130	positive regulation of cellular component organization
+GO:0006911	14	GO:0070782	phosphatidylserine exposure on apoptotic cell surface
+GO:0061138	4	GO:0060562	epithelial tube morphogenesis
+GO:0036498	6	GO:0023041	neuronal signal transduction
+GO:0030703	1	GO:1903429	regulation of cell maturation
+GO:0006935	11	GO:0006935	chemotaxis
+GO:0016477	15	GO:0007163	establishment or maintenance of cell polarity
+GO:0033298	16	GO:0030036	actin cytoskeleton organization
+GO:0070286	16	GO:0030036	actin cytoskeleton organization
+GO:0010888	14	GO:0070782	phosphatidylserine exposure on apoptotic cell surface
+GO:0010823	17	GO:0051130	positive regulation of cellular component organization
+GO:0010829	14	GO:0070782	phosphatidylserine exposure on apoptotic cell surface
+GO:0030866	16	GO:0030036	actin cytoskeleton organization
+GO:0035090	15	GO:0007163	establishment or maintenance of cell polarity
+GO:0035094	11	GO:0006935	chemotaxis
+GO:0035095	11	GO:0006935	chemotaxis
+GO:0034608	12	GO:0007610	behavior
+GO:0010840	12	GO:0007610	behavior
+GO:0010841	12	GO:0007610	behavior
+GO:0010842	5	GO:0048880	sensory system development
+GO:0015074	9	GO:0071897	DNA biosynthetic process
+GO:0045664	2	GO:0014016	neuroblast differentiation
+GO:0045666	1	GO:1903429	regulation of cell maturation
+GO:0072088	4	GO:0060562	epithelial tube morphogenesis
+GO:2000781	7	GO:2000279	negative regulation of DNA biosynthetic process
+GO:0072078	4	GO:0060562	epithelial tube morphogenesis
+GO:2000779	7	GO:2000279	negative regulation of DNA biosynthetic process
+GO:0072028	5	GO:0048880	sensory system development
+GO:0001751	2	GO:0014016	neuroblast differentiation
+GO:0019363	9	GO:0071897	DNA biosynthetic process
+GO:0001755	2	GO:0014016	neuroblast differentiation
+GO:0001756	4	GO:0060562	epithelial tube morphogenesis
+GO:0035071	2	GO:0014016	neuroblast differentiation
+GO:0035075	11	GO:0006935	chemotaxis
+GO:0050767	2	GO:0014016	neuroblast differentiation
+GO:0019359	9	GO:0071897	DNA biosynthetic process
+GO:0035017	5	GO:0048880	sensory system development
+GO:0050770	1	GO:1903429	regulation of cell maturation
+GO:0050771	1	GO:1903429	regulation of cell maturation
+GO:0048333	2	GO:0014016	neuroblast differentiation
+GO:0001745	5	GO:0048880	sensory system development
+GO:0001746	5	GO:0048880	sensory system development
+GO:0035036	15	GO:0007163	establishment or maintenance of cell polarity
+GO:0001736	4	GO:0060562	epithelial tube morphogenesis
+GO:0001738	4	GO:0060562	epithelial tube morphogenesis
+GO:0008360	3	GO:1903132	regulation of tube lumen cavitation
+GO:0010569	7	GO:2000279	negative regulation of DNA biosynthetic process
+GO:0008366	2	GO:0014016	neuroblast differentiation
+GO:0070782	14	GO:0070782	phosphatidylserine exposure on apoptotic cell surface
+GO:0008356	15	GO:0007163	establishment or maintenance of cell polarity
+GO:0035007	13	GO:0009649	entrainment of circadian clock
+GO:0035008	13	GO:0009649	entrainment of circadian clock
+GO:0001701	5	GO:0048880	sensory system development
+GO:0098927	15	GO:0007163	establishment or maintenance of cell polarity
+GO:0001709	2	GO:0014016	neuroblast differentiation
+GO:0070723	11	GO:0006935	chemotaxis
+GO:0042994	7	GO:2000279	negative regulation of DNA biosynthetic process
+GO:0009950	5	GO:0048880	sensory system development
+GO:0009953	5	GO:0048880	sensory system development
+GO:0009957	2	GO:0014016	neuroblast differentiation
+GO:0097553	14	GO:0070782	phosphatidylserine exposure on apoptotic cell surface
+GO:1904263	6	GO:0023041	neuronal signal transduction
+GO:0050891	12	GO:0007610	behavior
+GO:0050893	10	GO:0007606	sensory perception of chemical stimulus
+GO:0009988	15	GO:0007163	establishment or maintenance of cell polarity
+GO:1901989	17	GO:0051130	positive regulation of cellular component organization
+GO:0030511	6	GO:0023041	neuronal signal transduction
+GO:0030512	6	GO:0023041	neuronal signal transduction
+GO:0030516	1	GO:1903429	regulation of cell maturation
+GO:0030517	1	GO:1903429	regulation of cell maturation
+GO:0048477	1	GO:1903429	regulation of cell maturation
+GO:0055093	11	GO:0006935	chemotaxis
+GO:0050850	6	GO:0023041	neuronal signal transduction
+GO:0009946	5	GO:0048880	sensory system development
+GO:0009948	5	GO:0048880	sensory system development
+GO:0009949	5	GO:0048880	sensory system development
+GO:0021556	5	GO:0048880	sensory system development
+GO:0070897	9	GO:0071897	DNA biosynthetic process
+GO:0036296	11	GO:0006935	chemotaxis
+GO:0001841	4	GO:0060562	epithelial tube morphogenesis
+GO:0001843	4	GO:0060562	epithelial tube morphogenesis
+GO:0001836	6	GO:0023041	neuronal signal transduction
+GO:0097500	14	GO:0070782	phosphatidylserine exposure on apoptotic cell surface
+GO:0021515	2	GO:0014016	neuroblast differentiation
+GO:0061709	16	GO:0030036	actin cytoskeleton organization
+GO:0055074	12	GO:0007610	behavior
+GO:0021532	5	GO:0048880	sensory system development
+GO:0021536	5	GO:0048880	sensory system development
+GO:0010677	7	GO:2000279	negative regulation of DNA biosynthetic process
+GO:0048190	4	GO:0060562	epithelial tube morphogenesis
+GO:1904799	1	GO:1903429	regulation of cell maturation
+GO:0050802	12	GO:0007610	behavior
+GO:0070830	16	GO:0030036	actin cytoskeleton organization
+GO:0032497	11	GO:0006935	chemotaxis
+GO:0010638	17	GO:0051130	positive regulation of cellular component organization
+GO:0048168	6	GO:0023041	neuronal signal transduction
+GO:0055002	1	GO:1903429	regulation of cell maturation
+GO:0001568	5	GO:0048880	sensory system development
+GO:0048172	6	GO:0023041	neuronal signal transduction
+GO:0008407	5	GO:0048880	sensory system development
+GO:1904778	14	GO:0070782	phosphatidylserine exposure on apoptotic cell surface
+GO:0090501	9	GO:0071897	DNA biosynthetic process
+GO:0090502	9	GO:0071897	DNA biosynthetic process
+GO:0090503	9	GO:0071897	DNA biosynthetic process
+GO:0007026	16	GO:0030036	actin cytoskeleton organization
+GO:0061842	15	GO:0007163	establishment or maintenance of cell polarity
+GO:0070593	2	GO:0014016	neuroblast differentiation
+GO:0021682	5	GO:0048880	sensory system development
+GO:0048148	11	GO:0006935	chemotaxis
+GO:0007044	16	GO:0030036	actin cytoskeleton organization
+GO:0040020	17	GO:0051130	positive regulation of cellular component organization
+GO:0040024	5	GO:0048880	sensory system development
+GO:0021675	5	GO:0048880	sensory system development
+GO:0040027	3	GO:1903132	regulation of tube lumen cavitation
+GO:0032410	14	GO:0070782	phosphatidylserine exposure on apoptotic cell surface
+GO:0040029	13	GO:0009649	entrainment of circadian clock
+GO:0032413	14	GO:0070782	phosphatidylserine exposure on apoptotic cell surface
+GO:0040017	13	GO:0009649	entrainment of circadian clock
+GO:0040018	3	GO:1903132	regulation of tube lumen cavitation
+GO:0048100	4	GO:0060562	epithelial tube morphogenesis
+GO:0070580	9	GO:0071897	DNA biosynthetic process
+GO:0040032	5	GO:0048880	sensory system development
+GO:0070588	14	GO:0070782	phosphatidylserine exposure on apoptotic cell surface
+GO:1900181	14	GO:0070782	phosphatidylserine exposure on apoptotic cell surface
+GO:0001502	5	GO:0048880	sensory system development
+GO:0040001	14	GO:0070782	phosphatidylserine exposure on apoptotic cell surface
+GO:0040002	5	GO:0048880	sensory system development
+GO:0044344	11	GO:0006935	chemotaxis
+GO:0032196	15	GO:0007163	establishment or maintenance of cell polarity
+GO:0032197	15	GO:0007163	establishment or maintenance of cell polarity
+GO:0048260	17	GO:0051130	positive regulation of cellular component organization
+GO:0044331	15	GO:0007163	establishment or maintenance of cell polarity
+GO:0031032	16	GO:0030036	actin cytoskeleton organization
+GO:0090630	12	GO:0007610	behavior
+GO:0072325	2	GO:0014016	neuroblast differentiation
+GO:0072327	2	GO:0014016	neuroblast differentiation
+GO:0001654	5	GO:0048880	sensory system development
+GO:0045927	13	GO:0009649	entrainment of circadian clock
+GO:1904878	14	GO:0070782	phosphatidylserine exposure on apoptotic cell surface
+GO:2000641	14	GO:0070782	phosphatidylserine exposure on apoptotic cell surface
+GO:0061512	14	GO:0070782	phosphatidylserine exposure on apoptotic cell surface
+GO:0045912	13	GO:0009649	entrainment of circadian clock
+GO:0045944	7	GO:2000279	negative regulation of DNA biosynthetic process
+GO:0045931	17	GO:0051130	positive regulation of cellular component organization
+GO:0045938	12	GO:0007610	behavior
+GO:0060099	17	GO:0051130	positive regulation of cellular component organization
+GO:0035332	6	GO:0023041	neuronal signal transduction
+GO:1904800	1	GO:1903429	regulation of cell maturation
+GO:0070682	16	GO:0030036	actin cytoskeleton organization
+GO:0035305	13	GO:0009649	entrainment of circadian clock
+GO:0072499	2	GO:0014016	neuroblast differentiation
+GO:1903426	13	GO:0009649	entrainment of circadian clock
+GO:1903429	1	GO:1903429	regulation of cell maturation
+GO:0008277	6	GO:0023041	neuronal signal transduction
+GO:0048790	16	GO:0030036	actin cytoskeleton organization
+GO:0048791	14	GO:0070782	phosphatidylserine exposure on apoptotic cell surface
+GO:0048793	5	GO:0048880	sensory system development
+GO:0033687	15	GO:0007163	establishment or maintenance of cell polarity
+GO:0060021	5	GO:0048880	sensory system development
+GO:1903441	14	GO:0070782	phosphatidylserine exposure on apoptotic cell surface
+GO:0060026	4	GO:0060562	epithelial tube morphogenesis
+GO:0060027	4	GO:0060562	epithelial tube morphogenesis
+GO:1903431	1	GO:1903429	regulation of cell maturation
+GO:1903432	6	GO:0023041	neuronal signal transduction
+GO:2001021	6	GO:0023041	neuronal signal transduction

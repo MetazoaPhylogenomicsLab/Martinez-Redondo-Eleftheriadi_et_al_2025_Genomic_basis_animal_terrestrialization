@@ -1,0 +1,63 @@
+GO:0060293	3	GO:0043292	contractile fiber
+GO:0099086	3	GO:0043292	contractile fiber
+GO:0000800	3	GO:0043292	contractile fiber
+GO:0055036	2	GO:0044423	virion component
+GO:0000794	3	GO:0043292	contractile fiber
+GO:0000795	3	GO:0043292	contractile fiber
+GO:0034451	3	GO:0043292	contractile fiber
+GO:0005882	3	GO:0043292	contractile fiber
+GO:0035861	3	GO:0043292	contractile fiber
+GO:0036338	2	GO:0044423	virion component
+GO:0005816	3	GO:0043292	contractile fiber
+GO:0019028	2	GO:0044423	virion component
+GO:0019031	2	GO:0044423	virion component
+GO:0031511	3	GO:0043292	contractile fiber
+GO:0045495	3	GO:0043292	contractile fiber
+GO:0072562	5	GO:0005576	extracellular region
+GO:0005576	5	GO:0005576	extracellular region
+GO:0043186	3	GO:0043292	contractile fiber
+GO:0033646	1	GO:0033646	host intracellular part
+GO:0033647	1	GO:0033646	host intracellular part
+GO:0033648	1	GO:0033646	host intracellular part
+GO:0044423	2	GO:0044423	virion component
+GO:0042025	1	GO:0033646	host intracellular part
+GO:0031160	5	GO:0005576	extracellular region
+GO:0005615	5	GO:0005576	extracellular region
+GO:0043160	4	GO:0120103	centriolar subdistal appendage
+GO:0044156	1	GO:0033646	host intracellular part
+GO:0001669	4	GO:0120103	centriolar subdistal appendage
+GO:0044177	1	GO:0033646	host intracellular part
+GO:0044178	1	GO:0033646	host intracellular part
+GO:0030430	1	GO:0033646	host intracellular part
+GO:0019030	2	GO:0044423	virion component
+GO:0030056	4	GO:0120103	centriolar subdistal appendage
+GO:0030312	5	GO:0005576	extracellular region
+GO:0001401	4	GO:0120103	centriolar subdistal appendage
+GO:0005912	4	GO:0120103	centriolar subdistal appendage
+GO:0008076	4	GO:0120103	centriolar subdistal appendage
+GO:0034703	4	GO:0120103	centriolar subdistal appendage
+GO:0034705	4	GO:0120103	centriolar subdistal appendage
+GO:0031012	5	GO:0005576	extracellular region
+GO:0043202	3	GO:0043292	contractile fiber
+GO:0062023	5	GO:0005576	extracellular region
+GO:0005604	5	GO:0005576	extracellular region
+GO:0020002	1	GO:0033646	host intracellular part
+GO:0097447	4	GO:0120103	centriolar subdistal appendage
+GO:0005704	3	GO:0043292	contractile fiber
+GO:0032839	4	GO:0120103	centriolar subdistal appendage
+GO:0030425	4	GO:0120103	centriolar subdistal appendage
+GO:0019029	2	GO:0044423	virion component
+GO:0001725	3	GO:0043292	contractile fiber
+GO:0033655	1	GO:0033646	host intracellular part
+GO:0044219	1	GO:0033646	host intracellular part
+GO:0120103	4	GO:0120103	centriolar subdistal appendage
+GO:0005863	3	GO:0043292	contractile fiber
+GO:0043292	3	GO:0043292	contractile fiber
+GO:0000781	3	GO:0043292	contractile fiber
+GO:0005814	3	GO:0043292	contractile fiber
+GO:0005634	3	GO:0043292	contractile fiber
+GO:0070062	5	GO:0005576	extracellular region
+GO:1903561	5	GO:0005576	extracellular region
+GO:0098975	4	GO:0120103	centriolar subdistal appendage
+GO:0030016	3	GO:0043292	contractile fiber
+GO:0030017	3	GO:0043292	contractile fiber

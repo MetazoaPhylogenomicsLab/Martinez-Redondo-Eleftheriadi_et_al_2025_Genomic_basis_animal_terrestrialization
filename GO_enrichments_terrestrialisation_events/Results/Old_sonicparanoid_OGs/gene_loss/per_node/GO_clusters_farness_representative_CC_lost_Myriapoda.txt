@@ -1,0 +1,804 @@
+GO:0062129	9	GO:0042600	egg chorion
+GO:0044295	10	GO:0032589	neuron projection membrane
+GO:0098595	14	GO:0110165	cellular anatomical entity
+GO:0055036	7	GO:0005886	plasma membrane
+GO:0030430	1	GO:0033648	host intracellular membrane-bounded organelle
+GO:0005700	17	GO:0005856	cytoskeleton
+GO:0005705	17	GO:0005856	cytoskeleton
+GO:0005615	14	GO:0110165	cellular anatomical entity
+GO:0042175	7	GO:0005886	plasma membrane
+GO:0016461	16	GO:0099513	polymeric cytoskeletal fiber
+GO:0042600	9	GO:0042600	egg chorion
+GO:0005576	14	GO:0110165	cellular anatomical entity
+GO:0044156	2	GO:0033643	host cell part
+GO:0042025	1	GO:0033648	host intracellular membrane-bounded organelle
+GO:0032590	10	GO:0032589	neuron projection membrane
+GO:0000786	16	GO:0099513	polymeric cytoskeletal fiber
+GO:0098827	18	GO:0005773	vacuole
+GO:0005811	17	GO:0005856	cytoskeleton
+GO:0005816	17	GO:0005856	cytoskeleton
+GO:0009898	7	GO:0005886	plasma membrane
+GO:0016324	7	GO:0005886	plasma membrane
+GO:0020002	2	GO:0033643	host cell part
+GO:0030056	8	GO:0098984	neuron to neuron synapse
+GO:0005789	12	GO:0000139	Golgi membrane
+GO:0060170	10	GO:0032589	neuron projection membrane
+GO:0033644	2	GO:0033643	host cell part
+GO:0005777	18	GO:0005773	vacuole
+GO:0033647	1	GO:0033648	host intracellular membrane-bounded organelle
+GO:0033648	1	GO:0033648	host intracellular membrane-bounded organelle
+GO:0018995	14	GO:0110165	cellular anatomical entity
+GO:0072494	1	GO:0033648	host intracellular membrane-bounded organelle
+GO:0033643	2	GO:0033643	host cell part
+GO:0005863	16	GO:0099513	polymeric cytoskeletal fiber
+GO:0044184	1	GO:0033648	host intracellular membrane-bounded organelle
+GO:0044185	1	GO:0033648	host intracellular membrane-bounded organelle
+GO:0005657	17	GO:0005856	cytoskeleton
+GO:0005879	16	GO:0099513	polymeric cytoskeletal fiber
+GO:0072669	4	GO:0034518	RNA cap binding complex
+GO:0044175	1	GO:0033648	host intracellular membrane-bounded organelle
+GO:0044178	1	GO:0033648	host intracellular membrane-bounded organelle
+GO:0005640	12	GO:0000139	Golgi membrane
+GO:0043657	2	GO:0033643	host cell part
+GO:1903561	13	GO:0031410	cytoplasmic vesicle
+GO:0042575	4	GO:0034518	RNA cap binding complex
+GO:0098975	8	GO:0098984	neuron to neuron synapse
+GO:0042597	14	GO:0110165	cellular anatomical entity
+GO:0009986	14	GO:0110165	cellular anatomical entity
+GO:0030479	16	GO:0099513	polymeric cytoskeletal fiber
+GO:0033655	1	GO:0033648	host intracellular membrane-bounded organelle
+GO:0044196	1	GO:0033648	host intracellular membrane-bounded organelle
+GO:0005736	19	GO:0140513	nuclear protein-containing complex
+GO:0044163	1	GO:0033648	host intracellular membrane-bounded organelle
+GO:0044167	1	GO:0033648	host intracellular membrane-bounded organelle
+GO:0044174	1	GO:0033648	host intracellular membrane-bounded organelle
+GO:0044177	1	GO:0033648	host intracellular membrane-bounded organelle
+GO:0005921	8	GO:0098984	neuron to neuron synapse
+GO:0005933	14	GO:0110165	cellular anatomical entity
+GO:0005934	9	GO:0042600	egg chorion
+GO:0005935	9	GO:0042600	egg chorion
+GO:0031676	16	GO:0099513	polymeric cytoskeletal fiber
+GO:0000923	16	GO:0099513	polymeric cytoskeletal fiber
+GO:0005881	17	GO:0005856	cytoskeleton
+GO:0005882	16	GO:0099513	polymeric cytoskeletal fiber
+GO:0000943	18	GO:0005773	vacuole
+GO:0099070	17	GO:0005856	cytoskeleton
+GO:0001401	12	GO:0000139	Golgi membrane
+GO:0005823	17	GO:0005856	cytoskeleton
+GO:0030849	17	GO:0005856	cytoskeleton
+GO:0033557	19	GO:0140513	nuclear protein-containing complex
+GO:0044220	1	GO:0033648	host intracellular membrane-bounded organelle
+GO:0034506	17	GO:0005856	cytoskeleton
+GO:0030313	14	GO:0110165	cellular anatomical entity
+GO:0044219	2	GO:0033643	host cell part
+GO:0031021	17	GO:0005856	cytoskeleton
+GO:0098654	4	GO:0034518	RNA cap binding complex
+GO:0000214	19	GO:0140513	nuclear protein-containing complex
+GO:0031315	12	GO:0000139	Golgi membrane
+GO:0061645	15	GO:0005829	cytosol
+GO:0008076	6	GO:0098797	plasma membrane protein complex
+GO:0016580	19	GO:0140513	nuclear protein-containing complex
+GO:0044732	16	GO:0099513	polymeric cytoskeletal fiber
+GO:0005886	7	GO:0005886	plasma membrane
+GO:0034774	13	GO:0031410	cytoplasmic vesicle
+GO:0072487	19	GO:0140513	nuclear protein-containing complex
+GO:0005871	16	GO:0099513	polymeric cytoskeletal fiber
+GO:0031983	13	GO:0031410	cytoplasmic vesicle
+GO:0070822	19	GO:0140513	nuclear protein-containing complex
+GO:0036379	17	GO:0005856	cytoskeleton
+GO:0032982	9	GO:0042600	egg chorion
+GO:0033645	2	GO:0033643	host cell part
+GO:0033646	2	GO:0033643	host cell part
+GO:0000242	17	GO:0005856	cytoskeleton
+GO:0060205	13	GO:0031410	cytoplasmic vesicle
+GO:0005930	17	GO:0005856	cytoskeleton
+GO:0044201	1	GO:0033648	host intracellular membrane-bounded organelle
+GO:0046536	19	GO:0140513	nuclear protein-containing complex
+GO:0000792	17	GO:0005856	cytoskeleton
+GO:0098687	17	GO:0005856	cytoskeleton
+GO:0034045	15	GO:0005829	cytosol
+GO:0000783	19	GO:0140513	nuclear protein-containing complex
+GO:0000785	17	GO:0005856	cytoskeleton
+GO:0000775	17	GO:0005856	cytoskeleton
+GO:0005814	17	GO:0005856	cytoskeleton
+GO:0005634	20	GO:0031981	nuclear lumen
+GO:0000940	16	GO:0099513	polymeric cytoskeletal fiber
+GO:0016456	19	GO:0140513	nuclear protein-containing complex
+GO:0097014	11	GO:0120025	plasma membrane bounded cell projection
+GO:0031091	13	GO:0031410	cytoplasmic vesicle
+GO:0005721	16	GO:0099513	polymeric cytoskeletal fiber
+GO:0005741	12	GO:0000139	Golgi membrane
+GO:0031430	17	GO:0005856	cytoskeleton
+GO:0019005	4	GO:0034518	RNA cap binding complex
+GO:0030312	14	GO:0110165	cellular anatomical entity
+GO:0009897	7	GO:0005886	plasma membrane
+GO:0043160	13	GO:0031410	cytoplasmic vesicle
+GO:0034364	5	GO:0005577	fibrinogen complex
+GO:0031143	11	GO:0120025	plasma membrane bounded cell projection
+GO:0043625	19	GO:0140513	nuclear protein-containing complex
+GO:0031511	16	GO:0099513	polymeric cytoskeletal fiber
+GO:0032589	10	GO:0032589	neuron projection membrane
+GO:0034719	15	GO:0005829	cytosol
+GO:0036126	11	GO:0120025	plasma membrane bounded cell projection
+GO:0005929	11	GO:0120025	plasma membrane bounded cell projection
+GO:0019908	19	GO:0140513	nuclear protein-containing complex
+GO:0035102	19	GO:0140513	nuclear protein-containing complex
+GO:0008024	19	GO:0140513	nuclear protein-containing complex
+GO:0034705	6	GO:0098797	plasma membrane protein complex
+GO:0000939	16	GO:0099513	polymeric cytoskeletal fiber
+GO:0098636	4	GO:0034518	RNA cap binding complex
+GO:0001669	13	GO:0031410	cytoplasmic vesicle
+GO:0032797	15	GO:0005829	cytosol
+GO:0097546	11	GO:0120025	plasma membrane bounded cell projection
+GO:0035869	11	GO:0120025	plasma membrane bounded cell projection
+GO:1905370	4	GO:0034518	RNA cap binding complex
+GO:0035770	17	GO:0005856	cytoskeleton
+GO:0045495	15	GO:0005829	cytosol
+GO:0005761	20	GO:0031981	nuclear lumen
+GO:0060293	15	GO:0005829	cytosol
+GO:0031528	10	GO:0032589	neuron projection membrane
+GO:0030663	13	GO:0031410	cytoplasmic vesicle
+GO:0030667	13	GO:0031410	cytoplasmic vesicle
+GO:0035974	16	GO:0099513	polymeric cytoskeletal fiber
+GO:0036396	5	GO:0005577	fibrinogen complex
+GO:0005628	7	GO:0005886	plasma membrane
+GO:1902554	4	GO:0034518	RNA cap binding complex
+GO:0042763	14	GO:0110165	cellular anatomical entity
+GO:0042764	14	GO:0110165	cellular anatomical entity
+GO:0008303	4	GO:0034518	RNA cap binding complex
+GO:0046930	6	GO:0098797	plasma membrane protein complex
+GO:0031968	12	GO:0000139	Golgi membrane
+GO:0043186	16	GO:0099513	polymeric cytoskeletal fiber
+GO:0030137	13	GO:0031410	cytoplasmic vesicle
+GO:0072562	14	GO:0110165	cellular anatomical entity
+GO:0045170	17	GO:0005856	cytoskeleton
+GO:0019867	7	GO:0005886	plasma membrane
+GO:0000138	12	GO:0000139	Golgi membrane
+GO:0036464	17	GO:0005856	cytoskeleton
+GO:0098799	12	GO:0000139	Golgi membrane
+GO:0045293	4	GO:0034518	RNA cap binding complex
+GO:0000329	12	GO:0000139	Golgi membrane
+GO:0000313	17	GO:0005856	cytoskeleton
+GO:0032580	12	GO:0000139	Golgi membrane
+GO:0044199	1	GO:0033648	host intracellular membrane-bounded organelle
+GO:0044165	1	GO:0033648	host intracellular membrane-bounded organelle
+GO:0044200	1	GO:0033648	host intracellular membrane-bounded organelle
+GO:0000782	16	GO:0099513	polymeric cytoskeletal fiber
+GO:0005581	4	GO:0034518	RNA cap binding complex
+GO:0030875	20	GO:0031981	nuclear lumen
+GO:0043292	17	GO:0005856	cytoskeleton
+GO:0000781	17	GO:0005856	cytoskeleton
+GO:0000346	19	GO:0140513	nuclear protein-containing complex
+GO:0000347	19	GO:0140513	nuclear protein-containing complex
+GO:0000333	19	GO:0140513	nuclear protein-containing complex
+GO:0036128	6	GO:0098797	plasma membrane protein complex
+GO:0099617	12	GO:0000139	Golgi membrane
+GO:0097539	11	GO:0120025	plasma membrane bounded cell projection
+GO:0043656	2	GO:0033643	host cell part
+GO:0042588	13	GO:0031410	cytoplasmic vesicle
+GO:0098576	12	GO:0000139	Golgi membrane
+GO:0035805	9	GO:0042600	egg chorion
+GO:0030016	17	GO:0005856	cytoskeleton
+GO:0030017	17	GO:0005856	cytoskeleton
+GO:0031082	15	GO:0005829	cytosol
+GO:0071598	16	GO:0099513	polymeric cytoskeletal fiber
+GO:0046696	6	GO:0098797	plasma membrane protein complex
+GO:0030141	13	GO:0031410	cytoplasmic vesicle
+GO:0016342	6	GO:0098797	plasma membrane protein complex
+GO:0031012	9	GO:0042600	egg chorion
+GO:0034451	17	GO:0005856	cytoskeleton
+GO:0005704	17	GO:0005856	cytoskeleton
+GO:0032839	10	GO:0032589	neuron projection membrane
+GO:0030428	14	GO:0110165	cellular anatomical entity
+GO:0036064	16	GO:0099513	polymeric cytoskeletal fiber
+GO:0005865	16	GO:0099513	polymeric cytoskeletal fiber
+GO:0032992	4	GO:0034518	RNA cap binding complex
+GO:0035579	13	GO:0031410	cytoplasmic vesicle
+GO:0032587	10	GO:0032589	neuron projection membrane
+GO:0033150	17	GO:0005856	cytoskeleton
+GO:0005668	19	GO:0140513	nuclear protein-containing complex
+GO:0000120	19	GO:0140513	nuclear protein-containing complex
+GO:0001772	7	GO:0005886	plasma membrane
+GO:0140445	16	GO:0099513	polymeric cytoskeletal fiber
+GO:0071944	14	GO:0110165	cellular anatomical entity
+GO:0033011	17	GO:0005856	cytoskeleton
+GO:0005677	19	GO:0140513	nuclear protein-containing complex
+GO:0034703	6	GO:0098797	plasma membrane protein complex
+GO:0002080	13	GO:0031410	cytoplasmic vesicle
+GO:0016028	11	GO:0120025	plasma membrane bounded cell projection
+GO:0031514	11	GO:0120025	plasma membrane bounded cell projection
+GO:0005912	8	GO:0098984	neuron to neuron synapse
+GO:0000791	17	GO:0005856	cytoskeleton
+GO:0032783	19	GO:0140513	nuclear protein-containing complex
+GO:0000408	4	GO:0034518	RNA cap binding complex
+GO:0032432	17	GO:0005856	cytoskeleton
+GO:0005911	8	GO:0098984	neuron to neuron synapse
+GO:0005675	19	GO:0140513	nuclear protein-containing complex
+GO:0043083	14	GO:0110165	cellular anatomical entity
+GO:0097060	7	GO:0005886	plasma membrane
+GO:0070775	19	GO:0140513	nuclear protein-containing complex
+GO:0002081	13	GO:0031410	cytoplasmic vesicle
+GO:0140268	14	GO:0110165	cellular anatomical entity
+GO:0045120	20	GO:0031981	nuclear lumen
+GO:0038037	6	GO:0098797	plasma membrane protein complex
+GO:0038039	6	GO:0098797	plasma membrane protein complex
+GO:0099086	20	GO:0031981	nuclear lumen
+GO:0045169	15	GO:0005829	cytosol
+GO:0055037	13	GO:0031410	cytoplasmic vesicle
+GO:0099115	16	GO:0099513	polymeric cytoskeletal fiber
+GO:0097648	6	GO:0098797	plasma membrane protein complex
+GO:0031672	17	GO:0005856	cytoskeleton
+GO:0045111	17	GO:0005856	cytoskeleton
+GO:0099503	13	GO:0031410	cytoplasmic vesicle
+GO:0005767	18	GO:0005773	vacuole
+GO:0000794	20	GO:0031981	nuclear lumen
+GO:0036019	13	GO:0031410	cytoplasmic vesicle
+GO:0097517	17	GO:0005856	cytoskeleton
+GO:0001725	16	GO:0099513	polymeric cytoskeletal fiber
+GO:0001891	7	GO:0005886	plasma membrane
+GO:0042641	17	GO:0005856	cytoskeleton
+GO:0030870	19	GO:0140513	nuclear protein-containing complex
+GO:0060388	9	GO:0042600	egg chorion
+GO:0031464	4	GO:0034518	RNA cap binding complex
+GO:0030915	16	GO:0099513	polymeric cytoskeletal fiber
+GO:0005915	8	GO:0098984	neuron to neuron synapse
+GO:0009526	18	GO:0005773	vacuole
+GO:0043073	20	GO:0031981	nuclear lumen
+GO:0070062	5	GO:0005577	fibrinogen complex
+GO:0005923	8	GO:0098984	neuron to neuron synapse
+GO:0097730	11	GO:0120025	plasma membrane bounded cell projection
+GO:0098592	7	GO:0005886	plasma membrane
+GO:0043204	14	GO:0110165	cellular anatomical entity
+GO:0045211	7	GO:0005886	plasma membrane
+GO:0005892	6	GO:0098797	plasma membrane protein complex
+GO:0043025	9	GO:0042600	egg chorion
+GO:0098797	6	GO:0098797	plasma membrane protein complex
+GO:0001940	20	GO:0031981	nuclear lumen
+GO:0005669	19	GO:0140513	nuclear protein-containing complex
+GO:0005680	19	GO:0140513	nuclear protein-containing complex
+GO:0070176	19	GO:0140513	nuclear protein-containing complex
+GO:0000812	19	GO:0140513	nuclear protein-containing complex
+GO:0005845	4	GO:0034518	RNA cap binding complex
+GO:0005846	4	GO:0034518	RNA cap binding complex
+GO:0097228	11	GO:0120025	plasma membrane bounded cell projection
+GO:0000803	17	GO:0005856	cytoskeleton
+GO:0017053	4	GO:0034518	RNA cap binding complex
+GO:0031594	8	GO:0098984	neuron to neuron synapse
+GO:0033063	19	GO:0140513	nuclear protein-containing complex
+GO:0072686	16	GO:0099513	polymeric cytoskeletal fiber
+GO:0061803	9	GO:0042600	egg chorion
+GO:0042734	7	GO:0005886	plasma membrane
+GO:0031298	19	GO:0140513	nuclear protein-containing complex
+GO:0098562	7	GO:0005886	plasma membrane
+GO:0098552	14	GO:0110165	cellular anatomical entity
+GO:0098533	6	GO:0098797	plasma membrane protein complex
+GO:0031093	13	GO:0031410	cytoplasmic vesicle
+GO:0044291	8	GO:0098984	neuron to neuron synapse
+GO:0005756	12	GO:0000139	Golgi membrane
+GO:0070603	19	GO:0140513	nuclear protein-containing complex
+GO:0099501	13	GO:0031410	cytoplasmic vesicle
+GO:0005604	9	GO:0042600	egg chorion
+GO:0030672	13	GO:0031410	cytoplasmic vesicle
+GO:0005742	12	GO:0000139	Golgi membrane
+GO:0062023	9	GO:0042600	egg chorion
+GO:0016235	14	GO:0110165	cellular anatomical entity
+GO:0031045	13	GO:0031410	cytoplasmic vesicle
+GO:0016323	7	GO:0005886	plasma membrane
+GO:0060077	8	GO:0098984	neuron to neuron synapse
+GO:0000922	17	GO:0005856	cytoskeleton
+GO:0043240	19	GO:0140513	nuclear protein-containing complex
+GO:0000930	17	GO:0005856	cytoskeleton
+GO:0005880	16	GO:0099513	polymeric cytoskeletal fiber
+GO:0005875	17	GO:0005856	cytoskeleton
+GO:0005876	16	GO:0099513	polymeric cytoskeletal fiber
+GO:0005813	17	GO:0005856	cytoskeleton
+GO:0005815	17	GO:0005856	cytoskeleton
+GO:0043202	20	GO:0031981	nuclear lumen
+GO:0016607	20	GO:0031981	nuclear lumen
+GO:0000776	17	GO:0005856	cytoskeleton
+GO:0000779	16	GO:0099513	polymeric cytoskeletal fiber
+GO:1990512	19	GO:0140513	nuclear protein-containing complex
+GO:0015030	20	GO:0031981	nuclear lumen
+GO:0009925	7	GO:0005886	plasma membrane
+GO:0097431	16	GO:0099513	polymeric cytoskeletal fiber
+GO:0035371	16	GO:0099513	polymeric cytoskeletal fiber
+GO:0072357	4	GO:0034518	RNA cap binding complex
+GO:1990023	16	GO:0099513	polymeric cytoskeletal fiber
+GO:0051286	14	GO:0110165	cellular anatomical entity
+GO:0044298	7	GO:0005886	plasma membrane
+GO:0032809	7	GO:0005886	plasma membrane
+GO:1904724	13	GO:0031410	cytoplasmic vesicle
+GO:0060187	14	GO:0110165	cellular anatomical entity
+GO:0005818	17	GO:0005856	cytoskeleton
+GO:0016604	20	GO:0031981	nuclear lumen
+GO:0016605	20	GO:0031981	nuclear lumen
+GO:0034358	5	GO:0005577	fibrinogen complex
+GO:0000805	16	GO:0099513	polymeric cytoskeletal fiber
+GO:0055120	17	GO:0005856	cytoskeleton
+GO:0000235	16	GO:0099513	polymeric cytoskeletal fiber
+GO:0070187	19	GO:0140513	nuclear protein-containing complex
+GO:0000793	17	GO:0005856	cytoskeleton
+GO:0005694	17	GO:0005856	cytoskeleton
+GO:0030998	20	GO:0031981	nuclear lumen
+GO:0071986	12	GO:0000139	Golgi membrane
+GO:0000445	19	GO:0140513	nuclear protein-containing complex
+GO:1902562	19	GO:0140513	nuclear protein-containing complex
+GO:0034361	5	GO:0005577	fibrinogen complex
+GO:0034385	5	GO:0005577	fibrinogen complex
+GO:0005918	8	GO:0098984	neuron to neuron synapse
+GO:0042651	7	GO:0005886	plasma membrane
+GO:0000164	15	GO:0005829	cytosol
+GO:0034270	15	GO:0005829	cytosol
+GO:0000153	15	GO:0005829	cytosol
+GO:0043189	19	GO:0140513	nuclear protein-containing complex
+GO:0009277	9	GO:0042600	egg chorion
+GO:0071010	19	GO:0140513	nuclear protein-containing complex
+GO:0031976	18	GO:0005773	vacuole
+GO:0090734	17	GO:0005856	cytoskeleton
+GO:0071004	19	GO:0140513	nuclear protein-containing complex
+GO:0042170	12	GO:0000139	Golgi membrane
+GO:0009534	18	GO:0005773	vacuole
+GO:0009535	12	GO:0000139	Golgi membrane
+GO:0000835	12	GO:0000139	Golgi membrane
+GO:0000836	12	GO:0000139	Golgi membrane
+GO:0043291	15	GO:0005829	cytosol
+GO:0031083	15	GO:0005829	cytosol
+GO:1990777	4	GO:0034518	RNA cap binding complex
+GO:0055035	12	GO:0000139	Golgi membrane
+GO:0000331	18	GO:0005773	vacuole
+GO:0000228	20	GO:0031981	nuclear lumen
+GO:0010369	17	GO:0005856	cytoskeleton
+GO:0090571	19	GO:0140513	nuclear protein-containing complex
+GO:0016592	19	GO:0140513	nuclear protein-containing complex
+GO:0033179	6	GO:0098797	plasma membrane protein complex
+GO:0031160	9	GO:0042600	egg chorion
+GO:0098591	7	GO:0005886	plasma membrane
+GO:0106068	4	GO:0034518	RNA cap binding complex
+GO:0051285	9	GO:0042600	egg chorion
+GO:0000220	12	GO:0000139	Golgi membrane
+GO:0031080	19	GO:0140513	nuclear protein-containing complex
+GO:0000795	20	GO:0031981	nuclear lumen
+GO:0016327	7	GO:0005886	plasma membrane
+GO:0070160	8	GO:0098984	neuron to neuron synapse
+GO:0043296	8	GO:0098984	neuron to neuron synapse
+GO:0000118	19	GO:0140513	nuclear protein-containing complex
+GO:0000137	12	GO:0000139	Golgi membrane
+GO:0044094	1	GO:0033648	host intracellular membrane-bounded organelle
+GO:0031985	18	GO:0005773	vacuole
+GO:0070772	12	GO:0000139	Golgi membrane
+GO:0005819	17	GO:0005856	cytoskeleton
+GO:0090665	4	GO:0034518	RNA cap binding complex
+GO:0043235	4	GO:0034518	RNA cap binding complex
+GO:0031332	4	GO:0034518	RNA cap binding complex
+GO:0031463	4	GO:0034518	RNA cap binding complex
+GO:0045177	14	GO:0110165	cellular anatomical entity
+GO:0099738	9	GO:0042600	egg chorion
+GO:0031526	10	GO:0032589	neuron projection membrane
+GO:0000500	19	GO:0140513	nuclear protein-containing complex
+GO:0005637	12	GO:0000139	Golgi membrane
+GO:0097225	11	GO:0120025	plasma membrane bounded cell projection
+GO:0042581	13	GO:0031410	cytoplasmic vesicle
+GO:0016328	7	GO:0005886	plasma membrane
+GO:1905286	4	GO:0034518	RNA cap binding complex
+GO:0031519	19	GO:0140513	nuclear protein-containing complex
+GO:0005770	13	GO:0031410	cytoplasmic vesicle
+GO:0005861	16	GO:0099513	polymeric cytoskeletal fiber
+GO:0020009	18	GO:0005773	vacuole
+GO:0005824	17	GO:0005856	cytoskeleton
+GO:0061499	16	GO:0099513	polymeric cytoskeletal fiber
+GO:0071254	15	GO:0005829	cytosol
+GO:0071546	16	GO:0099513	polymeric cytoskeletal fiber
+GO:0005579	6	GO:0098797	plasma membrane protein complex
+GO:0000152	19	GO:0140513	nuclear protein-containing complex
+GO:0034518	4	GO:0034518	RNA cap binding complex
+GO:0034362	5	GO:0005577	fibrinogen complex
+GO:0035686	11	GO:0120025	plasma membrane bounded cell projection
+GO:0005618	9	GO:0042600	egg chorion
+GO:0005828	16	GO:0099513	polymeric cytoskeletal fiber
+GO:0032806	19	GO:0140513	nuclear protein-containing complex
+GO:0035230	11	GO:0120025	plasma membrane bounded cell projection
+GO:0005952	4	GO:0034518	RNA cap binding complex
+GO:0005920	8	GO:0098984	neuron to neuron synapse
+GO:0043209	14	GO:0110165	cellular anatomical entity
+GO:0045095	16	GO:0099513	polymeric cytoskeletal fiber
+GO:0005654	20	GO:0031981	nuclear lumen
+GO:0036063	18	GO:0005773	vacuole
+GO:1990423	17	GO:0005856	cytoskeleton
+GO:0031981	20	GO:0031981	nuclear lumen
+GO:0097731	11	GO:0120025	plasma membrane bounded cell projection
+GO:0098982	8	GO:0098984	neuron to neuron synapse
+GO:0097729	11	GO:0120025	plasma membrane bounded cell projection
+GO:0005874	16	GO:0099513	polymeric cytoskeletal fiber
+GO:0099512	9	GO:0042600	egg chorion
+GO:0002177	17	GO:0005856	cytoskeleton
+GO:0042599	13	GO:0031410	cytoplasmic vesicle
+GO:0000428	4	GO:0034518	RNA cap binding complex
+GO:0001939	20	GO:0031981	nuclear lumen
+GO:0039720	1	GO:0033648	host intracellular membrane-bounded organelle
+GO:0005764	18	GO:0005773	vacuole
+GO:0005641	20	GO:0031981	nuclear lumen
+GO:0008305	6	GO:0098797	plasma membrane protein complex
+GO:0031674	17	GO:0005856	cytoskeleton
+GO:0033018	12	GO:0000139	Golgi membrane
+GO:0042627	5	GO:0005577	fibrinogen complex
+GO:0032010	13	GO:0031410	cytoplasmic vesicle
+GO:0005577	5	GO:0005577	fibrinogen complex
+GO:0045335	13	GO:0031410	cytoplasmic vesicle
+GO:0032420	11	GO:0120025	plasma membrane bounded cell projection
+GO:0005796	20	GO:0031981	nuclear lumen
+GO:0031253	10	GO:0032589	neuron projection membrane
+GO:0009274	9	GO:0042600	egg chorion
+GO:0009279	7	GO:0005886	plasma membrane
+GO:0016363	20	GO:0031981	nuclear lumen
+GO:0015627	4	GO:0034518	RNA cap binding complex
+GO:0048046	14	GO:0110165	cellular anatomical entity
+GO:0005775	20	GO:0031981	nuclear lumen
+GO:0005778	12	GO:0000139	Golgi membrane
+GO:0072687	16	GO:0099513	polymeric cytoskeletal fiber
+GO:1990604	12	GO:0000139	Golgi membrane
+GO:0008287	4	GO:0034518	RNA cap binding complex
+GO:0032994	4	GO:0034518	RNA cap binding complex
+GO:0030175	10	GO:0032589	neuron projection membrane
+GO:0031462	4	GO:0034518	RNA cap binding complex
+GO:0035032	6	GO:0098797	plasma membrane protein complex
+GO:0070725	15	GO:0005829	cytosol
+GO:0071683	10	GO:0032589	neuron projection membrane
+GO:0016007	18	GO:0005773	vacuole
+GO:0033553	16	GO:0099513	polymeric cytoskeletal fiber
+GO:0000796	17	GO:0005856	cytoskeleton
+GO:0035580	13	GO:0031410	cytoplasmic vesicle
+GO:0071682	13	GO:0031410	cytoplasmic vesicle
+GO:0031838	4	GO:0034518	RNA cap binding complex
+GO:0031265	6	GO:0098797	plasma membrane protein complex
+GO:1902710	4	GO:0034518	RNA cap binding complex
+GO:0043230	14	GO:0110165	cellular anatomical entity
+GO:0065010	12	GO:0000139	Golgi membrane
+GO:0016020	14	GO:0110165	cellular anatomical entity
+GO:0009707	12	GO:0000139	Golgi membrane
+GO:0034707	6	GO:0098797	plasma membrane protein complex
+GO:0009579	15	GO:0005829	cytosol
+GO:0034357	14	GO:0110165	cellular anatomical entity
+GO:0033111	12	GO:0000139	Golgi membrane
+GO:0030670	13	GO:0031410	cytoplasmic vesicle
+GO:0035301	4	GO:0034518	RNA cap binding complex
+GO:0005840	17	GO:0005856	cytoskeleton
+GO:0042579	18	GO:0005773	vacuole
+GO:0000322	18	GO:0005773	vacuole
+GO:0000324	18	GO:0005773	vacuole
+GO:0090576	4	GO:0034518	RNA cap binding complex
+GO:0070847	19	GO:0140513	nuclear protein-containing complex
+GO:0009574	17	GO:0005856	cytoskeleton
+GO:0001650	20	GO:0031981	nuclear lumen
+GO:0030891	15	GO:0005829	cytosol
+GO:0090543	14	GO:0110165	cellular anatomical entity
+GO:0060102	9	GO:0042600	egg chorion
+GO:0000801	20	GO:0031981	nuclear lumen
+GO:0071751	5	GO:0005577	fibrinogen complex
+GO:0005902	10	GO:0032589	neuron projection membrane
+GO:0071745	4	GO:0034518	RNA cap binding complex
+GO:0071746	5	GO:0005577	fibrinogen complex
+GO:0042151	17	GO:0005856	cytoskeleton
+GO:0071749	5	GO:0005577	fibrinogen complex
+GO:0031941	16	GO:0099513	polymeric cytoskeletal fiber
+GO:0110085	16	GO:0099513	polymeric cytoskeletal fiber
+GO:0005890	6	GO:0098797	plasma membrane protein complex
+GO:0031470	17	GO:0005856	cytoskeleton
+GO:0042571	5	GO:0005577	fibrinogen complex
+GO:0031436	19	GO:0140513	nuclear protein-containing complex
+GO:0016602	19	GO:0140513	nuclear protein-containing complex
+GO:0016459	17	GO:0005856	cytoskeleton
+GO:0039713	2	GO:0033643	host cell part
+GO:0019814	4	GO:0034518	RNA cap binding complex
+GO:0035323	9	GO:0042600	egg chorion
+GO:0043034	17	GO:0005856	cytoskeleton
+GO:0009368	4	GO:0034518	RNA cap binding complex
+GO:0097361	15	GO:0005829	cytosol
+GO:0000307	4	GO:0034518	RNA cap binding complex
+GO:0030055	8	GO:0098984	neuron to neuron synapse
+GO:1990316	15	GO:0005829	cytosol
+GO:0099081	14	GO:0110165	cellular anatomical entity
+GO:0097346	19	GO:0140513	nuclear protein-containing complex
+GO:0042383	7	GO:0005886	plasma membrane
+GO:0000151	4	GO:0034518	RNA cap binding complex
+GO:0039715	1	GO:0033648	host intracellular membrane-bounded organelle
+GO:1990124	4	GO:0034518	RNA cap binding complex
+GO:0016029	12	GO:0000139	Golgi membrane
+GO:0019773	5	GO:0005577	fibrinogen complex
+GO:0034702	6	GO:0098797	plasma membrane protein complex
+GO:0030687	4	GO:0034518	RNA cap binding complex
+GO:0016586	19	GO:0140513	nuclear protein-containing complex
+GO:0033650	1	GO:0033648	host intracellular membrane-bounded organelle
+GO:0015630	17	GO:0005856	cytoskeleton
+GO:0071013	19	GO:0140513	nuclear protein-containing complex
+GO:0009524	15	GO:0005829	cytosol
+GO:0020023	18	GO:0005773	vacuole
+GO:0000800	20	GO:0031981	nuclear lumen
+GO:1990907	19	GO:0140513	nuclear protein-containing complex
+GO:0044304	11	GO:0120025	plasma membrane bounded cell projection
+GO:0044613	19	GO:0140513	nuclear protein-containing complex
+GO:0033255	19	GO:0140513	nuclear protein-containing complex
+GO:0070876	19	GO:0140513	nuclear protein-containing complex
+GO:0097447	11	GO:0120025	plasma membrane bounded cell projection
+GO:0030425	10	GO:0032589	neuron projection membrane
+GO:0031097	9	GO:0042600	egg chorion
+GO:0031010	19	GO:0140513	nuclear protein-containing complex
+GO:0031256	7	GO:0005886	plasma membrane
+GO:1990779	6	GO:0098797	plasma membrane protein complex
+GO:0005852	15	GO:0005829	cytosol
+GO:0070993	15	GO:0005829	cytosol
+GO:0098839	8	GO:0098984	neuron to neuron synapse
+GO:0033583	10	GO:0032589	neuron projection membrane
+GO:0034399	20	GO:0031981	nuclear lumen
+GO:0036056	8	GO:0098984	neuron to neuron synapse
+GO:0036057	8	GO:0098984	neuron to neuron synapse
+GO:0016282	15	GO:0005829	cytosol
+GO:0033290	15	GO:0005829	cytosol
+GO:0031931	4	GO:0034518	RNA cap binding complex
+GO:0031932	4	GO:0034518	RNA cap binding complex
+GO:0038201	4	GO:0034518	RNA cap binding complex
+GO:0035997	10	GO:0032589	neuron projection membrane
+GO:0005794	18	GO:0005773	vacuole
+GO:0005795	18	GO:0005773	vacuole
+GO:0005838	5	GO:0005577	fibrinogen complex
+GO:0005771	13	GO:0031410	cytoplasmic vesicle
+GO:0033061	4	GO:0034518	RNA cap binding complex
+GO:0000131	4	GO:0034518	RNA cap binding complex
+GO:0035267	19	GO:0140513	nuclear protein-containing complex
+GO:0031934	16	GO:0099513	polymeric cytoskeletal fiber
+GO:0005847	19	GO:0140513	nuclear protein-containing complex
+GO:0030118	15	GO:0005829	cytosol
+GO:0071953	9	GO:0042600	egg chorion
+GO:0042729	19	GO:0140513	nuclear protein-containing complex
+GO:0005791	18	GO:0005773	vacuole
+GO:0014069	8	GO:0098984	neuron to neuron synapse
+GO:0030424	10	GO:0032589	neuron projection membrane
+GO:0031410	13	GO:0031410	cytoplasmic vesicle
+GO:0120025	11	GO:0120025	plasma membrane bounded cell projection
+GO:0098794	14	GO:0110165	cellular anatomical entity
+GO:0099634	7	GO:0005886	plasma membrane
+GO:0045178	14	GO:0110165	cellular anatomical entity
+GO:0032279	8	GO:0098984	neuron to neuron synapse
+GO:0043005	11	GO:0120025	plasma membrane bounded cell projection
+GO:0098984	8	GO:0098984	neuron to neuron synapse
+GO:0099572	14	GO:0110165	cellular anatomical entity
+GO:0035861	17	GO:0005856	cytoskeleton
+GO:0009570	18	GO:0005773	vacuole
+GO:0042788	16	GO:0099513	polymeric cytoskeletal fiber
+GO:0009532	18	GO:0005773	vacuole
+GO:0034706	6	GO:0098797	plasma membrane protein complex
+GO:0032983	6	GO:0098797	plasma membrane protein complex
+GO:0030288	9	GO:0042600	egg chorion
+GO:0001533	7	GO:0005886	plasma membrane
+GO:0008290	17	GO:0005856	cytoskeleton
+GO:0031469	17	GO:0005856	cytoskeleton
+GO:0005751	12	GO:0000139	Golgi membrane
+GO:0045277	6	GO:0098797	plasma membrane protein complex
+GO:0000112	19	GO:0140513	nuclear protein-containing complex
+GO:0070685	11	GO:0120025	plasma membrane bounded cell projection
+GO:0032161	17	GO:0005856	cytoskeleton
+GO:0005853	15	GO:0005829	cytosol
+GO:0005854	15	GO:0005829	cytosol
+GO:0031105	17	GO:0005856	cytoskeleton
+GO:1904090	4	GO:0034518	RNA cap binding complex
+GO:0018444	15	GO:0005829	cytosol
+GO:0005940	16	GO:0099513	polymeric cytoskeletal fiber
+GO:0030139	13	GO:0031410	cytoplasmic vesicle
+GO:0140220	2	GO:0033643	host cell part
+GO:0098635	4	GO:0034518	RNA cap binding complex
+GO:0020007	14	GO:0110165	cellular anatomical entity
+GO:1902555	4	GO:0034518	RNA cap binding complex
+GO:0005652	20	GO:0031981	nuclear lumen
+GO:0000127	4	GO:0034518	RNA cap binding complex
+GO:0001726	11	GO:0120025	plasma membrane bounded cell projection
+GO:0005739	18	GO:0005773	vacuole
+GO:0070820	13	GO:0031410	cytoplasmic vesicle
+GO:0098590	7	GO:0005886	plasma membrane
+GO:0031314	12	GO:0000139	Golgi membrane
+GO:0008021	13	GO:0031410	cytoplasmic vesicle
+GO:0072557	15	GO:0005829	cytosol
+GO:0110143	14	GO:0110165	cellular anatomical entity
+GO:0045179	9	GO:0042600	egg chorion
+GO:0043190	6	GO:0098797	plasma membrane protein complex
+GO:0048786	14	GO:0110165	cellular anatomical entity
+GO:0032116	19	GO:0140513	nuclear protein-containing complex
+GO:0110165	14	GO:0110165	cellular anatomical entity
+GO:0044099	14	GO:0110165	cellular anatomical entity
+GO:0042611	6	GO:0098797	plasma membrane protein complex
+GO:0070449	19	GO:0140513	nuclear protein-containing complex
+GO:0005730	20	GO:0031981	nuclear lumen
+GO:0031466	4	GO:0034518	RNA cap binding complex
+GO:0098574	12	GO:0000139	Golgi membrane
+GO:0030867	12	GO:0000139	Golgi membrane
+GO:0032195	18	GO:0005773	vacuole
+GO:0061822	11	GO:0120025	plasma membrane bounded cell projection
+GO:0032045	4	GO:0034518	RNA cap binding complex
+GO:1990429	4	GO:0034518	RNA cap binding complex
+GO:0070648	16	GO:0099513	polymeric cytoskeletal fiber
+GO:0030958	19	GO:0140513	nuclear protein-containing complex
+GO:0048787	7	GO:0005886	plasma membrane
+GO:0090619	16	GO:0099513	polymeric cytoskeletal fiber
+GO:0031207	12	GO:0000139	Golgi membrane
+GO:0097518	17	GO:0005856	cytoskeleton
+GO:0030673	10	GO:0032589	neuron projection membrane
+GO:0030018	17	GO:0005856	cytoskeleton
+GO:0140453	17	GO:0005856	cytoskeleton
+GO:0070821	13	GO:0031410	cytoplasmic vesicle
+GO:0098802	6	GO:0098797	plasma membrane protein complex
+GO:0032838	11	GO:0120025	plasma membrane bounded cell projection
+GO:0034708	15	GO:0005829	cytosol
+GO:0035097	19	GO:0140513	nuclear protein-containing complex
+GO:0044666	19	GO:0140513	nuclear protein-containing complex
+GO:0005832	15	GO:0005829	cytosol
+GO:0031312	18	GO:0005773	vacuole
+GO:0019898	14	GO:0110165	cellular anatomical entity
+GO:0044194	18	GO:0005773	vacuole
+GO:0097550	4	GO:0034518	RNA cap binding complex
+GO:0005927	8	GO:0098984	neuron to neuron synapse
+GO:0031252	14	GO:0110165	cellular anatomical entity
+GO:0002102	17	GO:0005856	cytoskeleton
+GO:0060076	8	GO:0098984	neuron to neuron synapse
+GO:0005884	16	GO:0099513	polymeric cytoskeletal fiber
+GO:0030027	11	GO:0120025	plasma membrane bounded cell projection
+GO:0005937	11	GO:0120025	plasma membrane bounded cell projection
+GO:0030532	19	GO:0140513	nuclear protein-containing complex
+GO:0000243	19	GO:0140513	nuclear protein-containing complex
+GO:0001673	20	GO:0031981	nuclear lumen
+GO:0000407	15	GO:0005829	cytosol
+GO:0005891	6	GO:0098797	plasma membrane protein complex
+GO:0098857	7	GO:0005886	plasma membrane
+GO:0031969	12	GO:0000139	Golgi membrane
+GO:0045171	14	GO:0110165	cellular anatomical entity
+GO:0045121	7	GO:0005886	plasma membrane
+GO:1990462	18	GO:0005773	vacuole
+GO:0097342	15	GO:0005829	cytosol
+GO:0043293	15	GO:0005829	cytosol
+GO:0031264	6	GO:0098797	plasma membrane protein complex
+GO:0044172	1	GO:0033648	host intracellular membrane-bounded organelle
+GO:0071203	15	GO:0005829	cytosol
+GO:0000126	4	GO:0034518	RNA cap binding complex
+GO:0010494	17	GO:0005856	cytoskeleton
+GO:0097134	4	GO:0034518	RNA cap binding complex
+GO:0071012	19	GO:0140513	nuclear protein-containing complex
+GO:0043159	18	GO:0005773	vacuole
+GO:0005798	13	GO:0031410	cytoplasmic vesicle
+GO:0016589	19	GO:0140513	nuclear protein-containing complex
+GO:0016514	19	GO:0140513	nuclear protein-containing complex
+GO:0031982	13	GO:0031410	cytoplasmic vesicle
+GO:0071006	19	GO:0140513	nuclear protein-containing complex
+GO:0030666	13	GO:0031410	cytoplasmic vesicle
+GO:0005776	18	GO:0005773	vacuole
+GO:0044228	2	GO:0033643	host cell part
+GO:0005701	16	GO:0099513	polymeric cytoskeletal fiber
+GO:0008541	5	GO:0005577	fibrinogen complex
+GO:0032154	7	GO:0005886	plasma membrane
+GO:0071144	19	GO:0140513	nuclear protein-containing complex
+GO:0051233	17	GO:0005856	cytoskeleton
+GO:1905369	4	GO:0034518	RNA cap binding complex
+GO:0032133	16	GO:0099513	polymeric cytoskeletal fiber
+GO:0097708	18	GO:0005773	vacuole
+GO:0070531	19	GO:0140513	nuclear protein-containing complex
+GO:0033093	13	GO:0031410	cytoplasmic vesicle
+GO:0000323	18	GO:0005773	vacuole
+GO:0042718	15	GO:0005829	cytosol
+GO:0048188	19	GO:0140513	nuclear protein-containing complex
+GO:0001740	20	GO:0031981	nuclear lumen
+GO:0031523	19	GO:0140513	nuclear protein-containing complex
+GO:0031011	19	GO:0140513	nuclear protein-containing complex
+GO:0097386	11	GO:0120025	plasma membrane bounded cell projection
+GO:0016234	15	GO:0005829	cytosol
+GO:0032281	6	GO:0098797	plasma membrane protein complex
+GO:0036477	14	GO:0110165	cellular anatomical entity
+GO:0009705	12	GO:0000139	Golgi membrane
+GO:0140513	19	GO:0140513	nuclear protein-containing complex
+GO:1990733	15	GO:0005829	cytosol
+GO:0031258	10	GO:0032589	neuron projection membrane
+GO:1902911	4	GO:0034518	RNA cap binding complex
+GO:0005925	8	GO:0098984	neuron to neuron synapse
+GO:0010008	13	GO:0031410	cytoplasmic vesicle
+GO:0005667	4	GO:0034518	RNA cap binding complex
+GO:0034704	6	GO:0098797	plasma membrane protein complex
+GO:0000139	12	GO:0000139	Golgi membrane
+GO:0005793	18	GO:0005773	vacuole
+GO:0005684	19	GO:0140513	nuclear protein-containing complex
+GO:0005938	15	GO:0005829	cytosol
+GO:0005765	12	GO:0000139	Golgi membrane
+GO:0005614	9	GO:0042600	egg chorion
+GO:0005768	13	GO:0031410	cytoplasmic vesicle
+GO:0005769	13	GO:0031410	cytoplasmic vesicle
+GO:0005905	7	GO:0005886	plasma membrane
+GO:0044297	14	GO:0110165	cellular anatomical entity
+GO:0150034	11	GO:0120025	plasma membrane bounded cell projection
+GO:0005788	20	GO:0031981	nuclear lumen
+GO:0016533	4	GO:0034518	RNA cap binding complex
+GO:0031201	15	GO:0005829	cytosol
+GO:0030669	13	GO:0031410	cytoplasmic vesicle
+GO:0005774	18	GO:0005773	vacuole
+GO:0030659	13	GO:0031410	cytoplasmic vesicle
+GO:0035859	4	GO:0034518	RNA cap binding complex
+GO:0098978	8	GO:0098984	neuron to neuron synapse
+GO:0001527	9	GO:0042600	egg chorion
+GO:0098793	14	GO:0110165	cellular anatomical entity
+GO:0106333	4	GO:0034518	RNA cap binding complex
+GO:0031901	13	GO:0031410	cytoplasmic vesicle
+GO:0030496	14	GO:0110165	cellular anatomical entity
+GO:1904115	10	GO:0032589	neuron projection membrane
+GO:0000325	18	GO:0005773	vacuole
+GO:0031461	4	GO:0034518	RNA cap binding complex
+GO:0055038	13	GO:0031410	cytoplasmic vesicle
+GO:0035145	19	GO:0140513	nuclear protein-containing complex
+GO:0005856	17	GO:0005856	cytoskeleton
+GO:0044306	11	GO:0120025	plasma membrane bounded cell projection
+GO:0044309	10	GO:0032589	neuron projection membrane
+GO:0120111	11	GO:0120025	plasma membrane bounded cell projection
+GO:0005829	15	GO:0005829	cytosol
+GO:0009506	8	GO:0098984	neuron to neuron synapse
+GO:0008328	6	GO:0098797	plasma membrane protein complex
+GO:0042995	14	GO:0110165	cellular anatomical entity
+GO:0015629	17	GO:0005856	cytoskeleton
+GO:0008023	19	GO:0140513	nuclear protein-containing complex
+GO:0009941	12	GO:0000139	Golgi membrane
+GO:0012506	12	GO:0000139	Golgi membrane
+GO:0098852	12	GO:0000139	Golgi membrane
+GO:0098858	11	GO:0120025	plasma membrane bounded cell projection
+GO:0071561	14	GO:0110165	cellular anatomical entity
+GO:0098878	6	GO:0098797	plasma membrane protein complex
+GO:0030122	6	GO:0098797	plasma membrane protein complex
+GO:0030125	12	GO:0000139	Golgi membrane
+GO:0030128	12	GO:0000139	Golgi membrane
+GO:0000439	19	GO:0140513	nuclear protein-containing complex
+GO:0080008	4	GO:0034518	RNA cap binding complex
+GO:0030131	5	GO:0005577	fibrinogen complex
+GO:0030132	6	GO:0098797	plasma membrane protein complex
+GO:0030133	13	GO:0031410	cytoplasmic vesicle
+GO:0030134	13	GO:0031410	cytoplasmic vesicle
+GO:0090575	19	GO:0140513	nuclear protein-containing complex
+GO:0032588	12	GO:0000139	Golgi membrane
+GO:0005826	16	GO:0099513	polymeric cytoskeletal fiber
+GO:0001520	16	GO:0099513	polymeric cytoskeletal fiber
+GO:0061836	9	GO:0042600	egg chorion
+GO:0032009	13	GO:0031410	cytoplasmic vesicle
+GO:0005773	18	GO:0005773	vacuole
+GO:0030864	16	GO:0099513	polymeric cytoskeletal fiber
+GO:0043198	11	GO:0120025	plasma membrane bounded cell projection
+GO:0032777	19	GO:0140513	nuclear protein-containing complex
+GO:0035578	13	GO:0031410	cytoplasmic vesicle
+GO:0035996	10	GO:0032589	neuron projection membrane
+GO:0098644	9	GO:0042600	egg chorion
+GO:0032153	14	GO:0110165	cellular anatomical entity
+GO:0043195	10	GO:0032589	neuron projection membrane
+GO:0048770	13	GO:0031410	cytoplasmic vesicle
+GO:0099523	8	GO:0098984	neuron to neuron synapse
+GO:0099524	8	GO:0098984	neuron to neuron synapse
+GO:0099513	16	GO:0099513	polymeric cytoskeletal fiber
+GO:0045265	5	GO:0005577	fibrinogen complex
+GO:0016460	16	GO:0099513	polymeric cytoskeletal fiber
+GO:0042470	13	GO:0031410	cytoplasmic vesicle
+GO:0000274	12	GO:0000139	Golgi membrane
+GO:0031904	13	GO:0031410	cytoplasmic vesicle
+GO:0035060	19	GO:0140513	nuclear protein-containing complex
+GO:1904813	13	GO:0031410	cytoplasmic vesicle
+GO:0098686	8	GO:0098984	neuron to neuron synapse
+GO:0031597	15	GO:0005829	cytosol
+GO:0016010	6	GO:0098797	plasma membrane protein complex
+GO:0032585	13	GO:0031410	cytoplasmic vesicle
+GO:0005849	19	GO:0140513	nuclear protein-containing complex
+GO:0098685	8	GO:0098984	neuron to neuron synapse
+GO:0005834	6	GO:0098797	plasma membrane protein complex
+GO:1990972	9	GO:0042600	egg chorion
+GO:0042589	13	GO:0031410	cytoplasmic vesicle
+GO:0033099	18	GO:0005773	vacuole
+GO:0031395	5	GO:0005577	fibrinogen complex
+GO:0005901	7	GO:0005886	plasma membrane
+GO:0009507	18	GO:0005773	vacuole
+GO:0008074	15	GO:0005829	cytosol
+GO:0071958	16	GO:0099513	polymeric cytoskeletal fiber
+GO:0005688	19	GO:0140513	nuclear protein-containing complex
+GO:0005784	12	GO:0000139	Golgi membrane
+GO:0099080	14	GO:0110165	cellular anatomical entity
+GO:0044352	13	GO:0031410	cytoplasmic vesicle
+GO:0044354	13	GO:0031410	cytoplasmic vesicle
+GO:0061702	15	GO:0005829	cytosol
+GO:0014704	8	GO:0098984	neuron to neuron synapse
+GO:0071256	12	GO:0000139	Golgi membrane
+GO:0042583	13	GO:0031410	cytoplasmic vesicle
+GO:0032389	19	GO:0140513	nuclear protein-containing complex

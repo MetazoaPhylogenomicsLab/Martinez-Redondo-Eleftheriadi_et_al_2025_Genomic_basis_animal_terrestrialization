@@ -1,0 +1,134 @@
+GO:1902679	2	GO:0006355	regulation of transcription, DNA-templated
+GO:0030433	3	GO:0031397	negative regulation of protein ubiquitination
+GO:0044071	8	GO:0051983	regulation of chromosome segregation
+GO:0090305	1	GO:0006259	DNA metabolic process
+GO:1900015	4	GO:0001819	positive regulation of cytokine production
+GO:1900016	4	GO:0001819	positive regulation of cytokine production
+GO:0060326	9	GO:0002688	regulation of leukocyte chemotaxis
+GO:0051983	8	GO:0051983	regulation of chromosome segregation
+GO:0051985	8	GO:0051983	regulation of chromosome segregation
+GO:0051987	8	GO:0051983	regulation of chromosome segregation
+GO:0051988	8	GO:0051983	regulation of chromosome segregation
+GO:0060340	10	GO:0031664	regulation of lipopolysaccharide-mediated signaling pathway
+GO:0060348	7	GO:0060348	bone development
+GO:0060337	10	GO:0031664	regulation of lipopolysaccharide-mediated signaling pathway
+GO:0023019	4	GO:0001819	positive regulation of cytokine production
+GO:0060338	10	GO:0031664	regulation of lipopolysaccharide-mediated signaling pathway
+GO:0060339	10	GO:0031664	regulation of lipopolysaccharide-mediated signaling pathway
+GO:0009299	2	GO:0006355	regulation of transcription, DNA-templated
+GO:0033044	8	GO:0051983	regulation of chromosome segregation
+GO:0033047	8	GO:0051983	regulation of chromosome segregation
+GO:0071901	3	GO:0031397	negative regulation of protein ubiquitination
+GO:0032088	2	GO:0006355	regulation of transcription, DNA-templated
+GO:0010764	9	GO:0002688	regulation of leukocyte chemotaxis
+GO:0010758	9	GO:0002688	regulation of leukocyte chemotaxis
+GO:0060153	8	GO:0051983	regulation of chromosome segregation
+GO:0090219	3	GO:0031397	negative regulation of protein ubiquitination
+GO:0045998	3	GO:0031397	negative regulation of protein ubiquitination
+GO:0031028	10	GO:0031664	regulation of lipopolysaccharide-mediated signaling pathway
+GO:0039573	10	GO:0031664	regulation of lipopolysaccharide-mediated signaling pathway
+GO:2000045	8	GO:0051983	regulation of chromosome segregation
+GO:0000723	1	GO:0006259	DNA metabolic process
+GO:0045934	2	GO:0006355	regulation of transcription, DNA-templated
+GO:0000731	1	GO:0006259	DNA metabolic process
+GO:1905521	9	GO:0002688	regulation of leukocyte chemotaxis
+GO:0039502	10	GO:0031664	regulation of lipopolysaccharide-mediated signaling pathway
+GO:0010558	3	GO:0031397	negative regulation of protein ubiquitination
+GO:0030595	9	GO:0002688	regulation of leukocyte chemotaxis
+GO:0010525	8	GO:0051983	regulation of chromosome segregation
+GO:0010526	8	GO:0051983	regulation of chromosome segregation
+GO:0010528	8	GO:0051983	regulation of chromosome segregation
+GO:0010529	8	GO:0051983	regulation of chromosome segregation
+GO:0048012	10	GO:0031664	regulation of lipopolysaccharide-mediated signaling pathway
+GO:0051092	2	GO:0006355	regulation of transcription, DNA-templated
+GO:0044403	5	GO:0016032	viral process
+GO:0039645	8	GO:0051983	regulation of chromosome segregation
+GO:1904030	3	GO:0031397	negative regulation of protein ubiquitination
+GO:0051052	2	GO:0006355	regulation of transcription, DNA-templated
+GO:0010508	3	GO:0031397	negative regulation of protein ubiquitination
+GO:0061062	7	GO:0060348	bone development
+GO:0050860	10	GO:0031664	regulation of lipopolysaccharide-mediated signaling pathway
+GO:0010688	2	GO:0006355	regulation of transcription, DNA-templated
+GO:0050858	10	GO:0031664	regulation of lipopolysaccharide-mediated signaling pathway
+GO:0042337	7	GO:0060348	bone development
+GO:0031397	3	GO:0031397	negative regulation of protein ubiquitination
+GO:0016032	5	GO:0016032	viral process
+GO:0043123	10	GO:0031664	regulation of lipopolysaccharide-mediated signaling pathway
+GO:0032446	3	GO:0031397	negative regulation of protein ubiquitination
+GO:0032196	8	GO:0051983	regulation of chromosome segregation
+GO:0032197	8	GO:0051983	regulation of chromosome segregation
+GO:0044790	5	GO:0016032	viral process
+GO:0015074	1	GO:0006259	DNA metabolic process
+GO:0019985	1	GO:0006259	DNA metabolic process
+GO:0070534	3	GO:0031397	negative regulation of protein ubiquitination
+GO:0033209	10	GO:0031664	regulation of lipopolysaccharide-mediated signaling pathway
+GO:0045087	10	GO:0031664	regulation of lipopolysaccharide-mediated signaling pathway
+GO:0042138	1	GO:0006259	DNA metabolic process
+GO:0060688	7	GO:0060348	bone development
+GO:0060675	7	GO:0060348	bone development
+GO:0002168	7	GO:0060348	bone development
+GO:0051321	8	GO:0051983	regulation of chromosome segregation
+GO:0071357	10	GO:0031664	regulation of lipopolysaccharide-mediated signaling pathway
+GO:0051301	8	GO:0051983	regulation of chromosome segregation
+GO:2000176	7	GO:0060348	bone development
+GO:0031294	9	GO:0002688	regulation of leukocyte chemotaxis
+GO:0031295	9	GO:0002688	regulation of leukocyte chemotaxis
+GO:0032755	4	GO:0001819	positive regulation of cytokine production
+GO:0032757	4	GO:0001819	positive regulation of cytokine production
+GO:0018119	3	GO:0031397	negative regulation of protein ubiquitination
+GO:0001172	2	GO:0006355	regulation of transcription, DNA-templated
+GO:0042789	2	GO:0006355	regulation of transcription, DNA-templated
+GO:0072171	7	GO:0060348	bone development
+GO:0032733	4	GO:0001819	positive regulation of cytokine production
+GO:0046330	10	GO:0031664	regulation of lipopolysaccharide-mediated signaling pathway
+GO:0006355	2	GO:0006355	regulation of transcription, DNA-templated
+GO:0006357	2	GO:0006355	regulation of transcription, DNA-templated
+GO:0002711	9	GO:0002688	regulation of leukocyte chemotaxis
+GO:0006383	2	GO:0006355	regulation of transcription, DNA-templated
+GO:0032825	7	GO:0060348	bone development
+GO:0048262	7	GO:0060348	bone development
+GO:0048255	3	GO:0031397	negative regulation of protein ubiquitination
+GO:0006310	1	GO:0006259	DNA metabolic process
+GO:0002708	9	GO:0002688	regulation of leukocyte chemotaxis
+GO:0002709	9	GO:0002688	regulation of leukocyte chemotaxis
+GO:0048246	9	GO:0002688	regulation of leukocyte chemotaxis
+GO:0006301	1	GO:0006259	DNA metabolic process
+GO:0097400	10	GO:0031664	regulation of lipopolysaccharide-mediated signaling pathway
+GO:0051253	2	GO:0006355	regulation of transcription, DNA-templated
+GO:0019064	5	GO:0016032	viral process
+GO:0002821	9	GO:0002688	regulation of leukocyte chemotaxis
+GO:0002824	9	GO:0002688	regulation of leukocyte chemotaxis
+GO:0019055	8	GO:0051983	regulation of chromosome segregation
+GO:0019083	5	GO:0016032	viral process
+GO:0048709	7	GO:0060348	bone development
+GO:0051781	8	GO:0051983	regulation of chromosome segregation
+GO:0051782	8	GO:0051983	regulation of chromosome segregation
+GO:0032653	4	GO:0001819	positive regulation of cytokine production
+GO:0001819	4	GO:0001819	positive regulation of cytokine production
+GO:0016233	1	GO:0006259	DNA metabolic process
+GO:0016239	3	GO:0031397	negative regulation of protein ubiquitination
+GO:0051701	5	GO:0016032	viral process
+GO:0002699	9	GO:0002688	regulation of leukocyte chemotaxis
+GO:0002688	9	GO:0002688	regulation of leukocyte chemotaxis
+GO:0031664	10	GO:0031664	regulation of lipopolysaccharide-mediated signaling pathway
+GO:0001570	7	GO:0060348	bone development
+GO:0006259	1	GO:0006259	DNA metabolic process
+GO:0098868	7	GO:0060348	bone development
+GO:0006278	1	GO:0006259	DNA metabolic process
+GO:0046718	5	GO:0016032	viral process
+GO:0048538	7	GO:0060348	bone development
+GO:0051569	3	GO:0031397	negative regulation of protein ubiquitination
+GO:0035209	7	GO:0060348	bone development
+GO:0001658	7	GO:0060348	bone development
+GO:0045786	8	GO:0051983	regulation of chromosome segregation
+GO:0045744	10	GO:0031664	regulation of lipopolysaccharide-mediated signaling pathway
+GO:0016567	3	GO:0031397	negative regulation of protein ubiquitination
+GO:0045736	3	GO:0031397	negative regulation of protein ubiquitination
+GO:1903507	2	GO:0006355	regulation of transcription, DNA-templated
+GO:1902806	8	GO:0051983	regulation of chromosome segregation
+GO:0046597	5	GO:0016032	viral process
+GO:1905330	7	GO:0060348	bone development
+GO:0045892	2	GO:0006355	regulation of transcription, DNA-templated
+GO:0098671	5	GO:0016032	viral process
+GO:0006809	3	GO:0031397	negative regulation of protein ubiquitination
+GO:0010496	8	GO:0051983	regulation of chromosome segregation

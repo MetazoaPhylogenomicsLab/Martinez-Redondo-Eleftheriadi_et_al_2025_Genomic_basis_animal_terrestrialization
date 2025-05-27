@@ -1,0 +1,130 @@
+GO:0003968	3	GO:0003887	DNA-directed DNA polymerase activity
+GO:0003953	3	GO:0003887	DNA-directed DNA polymerase activity
+GO:0005277	2	GO:0005261	cation channel activity
+GO:0042834	6	GO:0005549	odorant binding
+GO:0016936	6	GO:0005549	odorant binding
+GO:0004950	1	GO:0004888	transmembrane signaling receptor activity
+GO:0004953	1	GO:0004888	transmembrane signaling receptor activity
+GO:0004954	1	GO:0004888	transmembrane signaling receptor activity
+GO:0004955	1	GO:0004888	transmembrane signaling receptor activity
+GO:0004957	1	GO:0004888	transmembrane signaling receptor activity
+GO:0016504	4	GO:0061134	peptidase regulator activity
+GO:0016505	4	GO:0061134	peptidase regulator activity
+GO:0005249	2	GO:0005261	cation channel activity
+GO:0004983	1	GO:0004888	transmembrane signaling receptor activity
+GO:0004984	1	GO:0004888	transmembrane signaling receptor activity
+GO:0005230	2	GO:0005261	cation channel activity
+GO:0140375	1	GO:0004888	transmembrane signaling receptor activity
+GO:0009374	5	GO:0043565	sequence-specific DNA binding
+GO:0004970	2	GO:0005261	cation channel activity
+GO:0004523	3	GO:0003887	DNA-directed DNA polymerase activity
+GO:0004519	3	GO:0003887	DNA-directed DNA polymerase activity
+GO:0008656	4	GO:0061134	peptidase regulator activity
+GO:0015280	2	GO:0005261	cation channel activity
+GO:0008270	6	GO:0005549	odorant binding
+GO:0004930	1	GO:0004888	transmembrane signaling receptor activity
+GO:0001664	7	GO:0097110	scaffold protein binding
+GO:0015277	2	GO:0005261	cation channel activity
+GO:0008227	1	GO:0004888	transmembrane signaling receptor activity
+GO:0038023	1	GO:0004888	transmembrane signaling receptor activity
+GO:0061134	4	GO:0061134	peptidase regulator activity
+GO:0038024	6	GO:0005549	odorant binding
+GO:0061135	4	GO:0061134	peptidase regulator activity
+GO:0070530	7	GO:0097110	scaffold protein binding
+GO:0004104	3	GO:0003887	DNA-directed DNA polymerase activity
+GO:0003691	5	GO:0043565	sequence-specific DNA binding
+GO:0004908	1	GO:0004888	transmembrane signaling receptor activity
+GO:0044594	3	GO:0003887	DNA-directed DNA polymerase activity
+GO:0001227	3	GO:0003887	DNA-directed DNA polymerase activity
+GO:0043565	5	GO:0043565	sequence-specific DNA binding
+GO:0001228	3	GO:0003887	DNA-directed DNA polymerase activity
+GO:0015232	2	GO:0005261	cation channel activity
+GO:0051434	7	GO:0097110	scaffold protein binding
+GO:0042923	6	GO:0005549	odorant binding
+GO:0000981	3	GO:0003887	DNA-directed DNA polymerase activity
+GO:0000987	5	GO:0043565	sequence-specific DNA binding
+GO:0008201	6	GO:0005549	odorant binding
+GO:0000977	5	GO:0043565	sequence-specific DNA binding
+GO:0001637	1	GO:0004888	transmembrane signaling receptor activity
+GO:0000978	5	GO:0043565	sequence-specific DNA binding
+GO:0005326	2	GO:0005261	cation channel activity
+GO:0070696	7	GO:0097110	scaffold protein binding
+GO:0099589	1	GO:0004888	transmembrane signaling receptor activity
+GO:0004252	3	GO:0003887	DNA-directed DNA polymerase activity
+GO:0001604	1	GO:0004888	transmembrane signaling receptor activity
+GO:0039660	6	GO:0005549	odorant binding
+GO:0004222	3	GO:0003887	DNA-directed DNA polymerase activity
+GO:0036122	7	GO:0097110	scaffold protein binding
+GO:0061629	7	GO:0097110	scaffold protein binding
+GO:0001786	6	GO:0005549	odorant binding
+GO:0019862	6	GO:0005549	odorant binding
+GO:0019864	6	GO:0005549	odorant binding
+GO:0019865	6	GO:0005549	odorant binding
+GO:0097199	3	GO:0003887	DNA-directed DNA polymerase activity
+GO:0090729	6	GO:0005549	odorant binding
+GO:0005080	7	GO:0097110	scaffold protein binding
+GO:0035259	7	GO:0097110	scaffold protein binding
+GO:0050431	7	GO:0097110	scaffold protein binding
+GO:0071855	7	GO:0097110	scaffold protein binding
+GO:0030414	4	GO:0061134	peptidase regulator activity
+GO:0098960	1	GO:0004888	transmembrane signaling receptor activity
+GO:0005031	1	GO:0004888	transmembrane signaling receptor activity
+GO:0097110	7	GO:0097110	scaffold protein binding
+GO:0102756	3	GO:0003887	DNA-directed DNA polymerase activity
+GO:0046332	7	GO:0097110	scaffold protein binding
+GO:0035613	5	GO:0043565	sequence-specific DNA binding
+GO:0008066	1	GO:0004888	transmembrane signaling receptor activity
+GO:0022824	2	GO:0005261	cation channel activity
+GO:0004725	3	GO:0003887	DNA-directed DNA polymerase activity
+GO:0016493	1	GO:0004888	transmembrane signaling receptor activity
+GO:0034987	7	GO:0097110	scaffold protein binding
+GO:0004714	1	GO:0004888	transmembrane signaling receptor activity
+GO:0005001	1	GO:0004888	transmembrane signaling receptor activity
+GO:0033130	7	GO:0097110	scaffold protein binding
+GO:0008083	7	GO:0097110	scaffold protein binding
+GO:0022835	2	GO:0005261	cation channel activity
+GO:0019198	1	GO:0004888	transmembrane signaling receptor activity
+GO:0019199	1	GO:0004888	transmembrane signaling receptor activity
+GO:0003700	6	GO:0005549	odorant binding
+GO:0008810	3	GO:0003887	DNA-directed DNA polymerase activity
+GO:0030594	1	GO:0004888	transmembrane signaling receptor activity
+GO:0004709	3	GO:0003887	DNA-directed DNA polymerase activity
+GO:0019966	7	GO:0097110	scaffold protein binding
+GO:0048306	7	GO:0097110	scaffold protein binding
+GO:0060230	4	GO:0061134	peptidase regulator activity
+GO:0005154	7	GO:0097110	scaffold protein binding
+GO:0045028	1	GO:0004888	transmembrane signaling receptor activity
+GO:0140297	7	GO:0097110	scaffold protein binding
+GO:0005184	7	GO:0097110	scaffold protein binding
+GO:0003887	3	GO:0003887	DNA-directed DNA polymerase activity
+GO:0004866	4	GO:0061134	peptidase regulator activity
+GO:0050135	3	GO:0003887	DNA-directed DNA polymerase activity
+GO:0004867	4	GO:0061134	peptidase regulator activity
+GO:0030971	7	GO:0097110	scaffold protein binding
+GO:0005112	7	GO:0097110	scaffold protein binding
+GO:0044325	7	GO:0097110	scaffold protein binding
+GO:0042302	6	GO:0005549	odorant binding
+GO:0004888	1	GO:0004888	transmembrane signaling receptor activity
+GO:0005544	6	GO:0005549	odorant binding
+GO:0005549	6	GO:0005549	odorant binding
+GO:0030547	4	GO:0061134	peptidase regulator activity
+GO:0030548	4	GO:0061134	peptidase regulator activity
+GO:0070851	7	GO:0097110	scaffold protein binding
+GO:0019902	7	GO:0097110	scaffold protein binding
+GO:0008188	1	GO:0004888	transmembrane signaling receptor activity
+GO:0050693	7	GO:0097110	scaffold protein binding
+GO:0048019	7	GO:0097110	scaffold protein binding
+GO:0005509	6	GO:0005549	odorant binding
+GO:0043495	3	GO:0003887	DNA-directed DNA polymerase activity
+GO:0070840	6	GO:0005549	odorant binding
+GO:0008528	1	GO:0004888	transmembrane signaling receptor activity
+GO:0003990	3	GO:0003887	DNA-directed DNA polymerase activity
+GO:0005261	2	GO:0005261	cation channel activity
+GO:0005262	2	GO:0005261	cation channel activity
+GO:0004190	3	GO:0003887	DNA-directed DNA polymerase activity
+GO:0005267	2	GO:0005261	cation channel activity
+GO:0016922	7	GO:0097110	scaffold protein binding
+GO:0061809	3	GO:0003887	DNA-directed DNA polymerase activity
+GO:0004993	1	GO:0004888	transmembrane signaling receptor activity
+GO:0003964	3	GO:0003887	DNA-directed DNA polymerase activity
+GO:0043028	4	GO:0061134	peptidase regulator activity

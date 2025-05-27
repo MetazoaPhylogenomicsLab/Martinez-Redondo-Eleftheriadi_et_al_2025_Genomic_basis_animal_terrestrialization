@@ -1,0 +1,92 @@
+GO:0044423	3	GO:0044423	virion component
+GO:0009897	7	GO:0005886	plasma membrane
+GO:0008076	7	GO:0005886	plasma membrane
+GO:0016580	2	GO:0005634	nucleus
+GO:0030430	4	GO:0030430	host cell cytoplasm
+GO:1990907	2	GO:0005634	nucleus
+GO:0032432	1	GO:0005856	cytoskeleton
+GO:0070876	2	GO:0005634	nucleus
+GO:0005667	5	GO:0005667	transcription regulator complex
+GO:0005668	2	GO:0005634	nucleus
+GO:0044196	4	GO:0030430	host cell cytoplasm
+GO:0090571	2	GO:0005634	nucleus
+GO:1902562	2	GO:0005634	nucleus
+GO:0005634	2	GO:0005634	nucleus
+GO:0035869	8	GO:0035869	ciliary transition zone
+GO:0043189	2	GO:0005634	nucleus
+GO:0000120	2	GO:0005634	nucleus
+GO:0140288	2	GO:0005634	nucleus
+GO:0045120	2	GO:0005634	nucleus
+GO:0019908	2	GO:0005634	nucleus
+GO:0001891	7	GO:0005886	plasma membrane
+GO:0110085	1	GO:0005856	cytoskeleton
+GO:0001940	2	GO:0005634	nucleus
+GO:0032039	2	GO:0005634	nucleus
+GO:0019028	3	GO:0044423	virion component
+GO:0055036	3	GO:0044423	virion component
+GO:0019033	3	GO:0044423	virion component
+GO:0031011	2	GO:0005634	nucleus
+GO:0042025	4	GO:0030430	host cell cytoplasm
+GO:0005576	8	GO:0035869	ciliary transition zone
+GO:0030425	8	GO:0035869	ciliary transition zone
+GO:0005923	6	GO:0070160	tight junction
+GO:0032116	2	GO:0005634	nucleus
+GO:0045211	7	GO:0005886	plasma membrane
+GO:0016324	7	GO:0005886	plasma membrane
+GO:0070160	6	GO:0070160	tight junction
+GO:0005902	8	GO:0035869	ciliary transition zone
+GO:0000781	1	GO:0005856	cytoskeleton
+GO:0000782	1	GO:0005856	cytoskeleton
+GO:0009986	8	GO:0035869	ciliary transition zone
+GO:0005886	7	GO:0005886	plasma membrane
+GO:0097731	8	GO:0035869	ciliary transition zone
+GO:0036338	3	GO:0044423	virion component
+GO:0009505	7	GO:0005886	plasma membrane
+GO:0009506	6	GO:0070160	tight junction
+GO:0005615	8	GO:0035869	ciliary transition zone
+GO:0019031	3	GO:0044423	virion component
+GO:0044295	8	GO:0035869	ciliary transition zone
+GO:0031526	7	GO:0005886	plasma membrane
+GO:0031528	7	GO:0005886	plasma membrane
+GO:0043160	8	GO:0035869	ciliary transition zone
+GO:0016592	2	GO:0005634	nucleus
+GO:0005791	2	GO:0005634	nucleus
+GO:0005796	2	GO:0005634	nucleus
+GO:0098636	5	GO:0005667	transcription regulator complex
+GO:0031523	2	GO:0005634	nucleus
+GO:0071953	7	GO:0005886	plasma membrane
+GO:0036126	8	GO:0035869	ciliary transition zone
+GO:0098857	7	GO:0005886	plasma membrane
+GO:0016514	2	GO:0005634	nucleus
+GO:0016533	5	GO:0005667	transcription regulator complex
+GO:0034361	5	GO:0005667	transcription regulator complex
+GO:0034362	5	GO:0005667	transcription regulator complex
+GO:0005640	2	GO:0005634	nucleus
+GO:0044177	4	GO:0030430	host cell cytoplasm
+GO:0044178	4	GO:0030430	host cell cytoplasm
+GO:0005604	7	GO:0005886	plasma membrane
+GO:0035102	2	GO:0005634	nucleus
+GO:0005856	1	GO:0005856	cytoskeleton
+GO:0005882	1	GO:0005856	cytoskeleton
+GO:0042627	5	GO:0005667	transcription regulator complex
+GO:0020002	4	GO:0030430	host cell cytoplasm
+GO:0019897	7	GO:0005886	plasma membrane
+GO:0005874	1	GO:0005856	cytoskeleton
+GO:0042611	7	GO:0005886	plasma membrane
+GO:0072558	5	GO:0005667	transcription regulator complex
+GO:0045121	7	GO:0005886	plasma membrane
+GO:0005814	1	GO:0005856	cytoskeleton
+GO:0005816	1	GO:0005856	cytoskeleton
+GO:0035371	1	GO:0005856	cytoskeleton
+GO:0017053	5	GO:0005667	transcription regulator complex
+GO:0031093	8	GO:0035869	ciliary transition zone
+GO:0016605	2	GO:0005634	nucleus
+GO:0097226	8	GO:0035869	ciliary transition zone
+GO:0019814	5	GO:0005667	transcription regulator complex
+GO:0043034	1	GO:0005856	cytoskeleton
+GO:0099572	8	GO:0035869	ciliary transition zone
+GO:0042101	7	GO:0005886	plasma membrane
+GO:0031012	7	GO:0005886	plasma membrane
+GO:0005581	5	GO:0005667	transcription regulator complex
+GO:0034993	2	GO:0005634	nucleus
+GO:0043235	5	GO:0005667	transcription regulator complex

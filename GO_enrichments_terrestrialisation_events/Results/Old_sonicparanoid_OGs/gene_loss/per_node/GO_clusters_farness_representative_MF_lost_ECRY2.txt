@@ -1,0 +1,57 @@
+GO:0046966	1	GO:0019955	cytokine binding
+GO:0042834	5	GO:0003677	DNA binding
+GO:0004983	2	GO:0038023	signaling receptor activity
+GO:0004984	2	GO:0038023	signaling receptor activity
+GO:0000405	5	GO:0003677	DNA binding
+GO:0035438	5	GO:0003677	DNA binding
+GO:0008270	5	GO:0003677	DNA binding
+GO:0045296	1	GO:0019955	cytokine binding
+GO:0004930	2	GO:0038023	signaling receptor activity
+GO:0038023	2	GO:0038023	signaling receptor activity
+GO:0004908	2	GO:0038023	signaling receptor activity
+GO:0061501	3	GO:0097472	cyclin-dependent protein kinase activity
+GO:0061507	5	GO:0003677	DNA binding
+GO:0004693	3	GO:0097472	cyclin-dependent protein kinase activity
+GO:0042923	5	GO:0003677	DNA binding
+GO:0031419	5	GO:0003677	DNA binding
+GO:0008201	5	GO:0003677	DNA binding
+GO:0000977	5	GO:0003677	DNA binding
+GO:0000978	5	GO:0003677	DNA binding
+GO:0097472	3	GO:0097472	cyclin-dependent protein kinase activity
+GO:0003677	5	GO:0003677	DNA binding
+GO:0043548	1	GO:0019955	cytokine binding
+GO:0004683	3	GO:0097472	cyclin-dependent protein kinase activity
+GO:0004687	3	GO:0097472	cyclin-dependent protein kinase activity
+GO:0050700	1	GO:0019955	cytokine binding
+GO:0038187	2	GO:0038023	signaling receptor activity
+GO:0019864	5	GO:0003677	DNA binding
+GO:0005080	1	GO:0019955	cytokine binding
+GO:0050431	1	GO:0019955	cytokine binding
+GO:0005031	2	GO:0038023	signaling receptor activity
+GO:0005035	2	GO:0038023	signaling receptor activity
+GO:0097110	1	GO:0019955	cytokine binding
+GO:0004712	3	GO:0097472	cyclin-dependent protein kinase activity
+GO:0004714	3	GO:0097472	cyclin-dependent protein kinase activity
+GO:0008083	1	GO:0019955	cytokine binding
+GO:0050998	1	GO:0019955	cytokine binding
+GO:0004709	3	GO:0097472	cyclin-dependent protein kinase activity
+GO:0019966	1	GO:0019955	cytokine binding
+GO:0005160	1	GO:0019955	cytokine binding
+GO:0019955	1	GO:0019955	cytokine binding
+GO:0030165	1	GO:0019955	cytokine binding
+GO:0004896	2	GO:0038023	signaling receptor activity
+GO:0017022	1	GO:0019955	cytokine binding
+GO:0005178	1	GO:0019955	cytokine binding
+GO:0003887	3	GO:0097472	cyclin-dependent protein kinase activity
+GO:0005123	1	GO:0019955	cytokine binding
+GO:0005126	1	GO:0019955	cytokine binding
+GO:0046872	5	GO:0003677	DNA binding
+GO:0005521	1	GO:0019955	cytokine binding
+GO:0070851	1	GO:0019955	cytokine binding
+GO:0019900	1	GO:0019955	cytokine binding
+GO:0019901	1	GO:0019955	cytokine binding
+GO:0098632	1	GO:0019955	cytokine binding
+GO:0008528	2	GO:0038023	signaling receptor activity
+GO:0002162	1	GO:0019955	cytokine binding
+GO:0017166	1	GO:0019955	cytokine binding
+GO:0003964	3	GO:0097472	cyclin-dependent protein kinase activity

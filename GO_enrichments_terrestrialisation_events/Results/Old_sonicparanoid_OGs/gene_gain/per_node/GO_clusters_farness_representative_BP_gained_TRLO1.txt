@@ -1,0 +1,37 @@
+GO:0006278	4	GO:0006081	cellular aldehyde metabolic process
+GO:0042572	4	GO:0006081	cellular aldehyde metabolic process
+GO:0032526	3	GO:0033555	multicellular organismal response to stress
+GO:0043474	2	GO:0042441	eye pigment metabolic process
+GO:0034308	4	GO:0006081	cellular aldehyde metabolic process
+GO:0043324	2	GO:0042441	eye pigment metabolic process
+GO:0035126	1	GO:0048805	imaginal disc-derived genitalia morphogenesis
+GO:0048802	1	GO:0048805	imaginal disc-derived genitalia morphogenesis
+GO:0048803	1	GO:0048805	imaginal disc-derived genitalia morphogenesis
+GO:0048805	1	GO:0048805	imaginal disc-derived genitalia morphogenesis
+GO:0016042	4	GO:0006081	cellular aldehyde metabolic process
+GO:0006310	4	GO:0006081	cellular aldehyde metabolic process
+GO:0048069	2	GO:0042441	eye pigment metabolic process
+GO:0006081	4	GO:0006081	cellular aldehyde metabolic process
+GO:0015074	4	GO:0006081	cellular aldehyde metabolic process
+GO:0033555	3	GO:0033555	multicellular organismal response to stress
+GO:0007390	3	GO:0033555	multicellular organismal response to stress
+GO:0007392	3	GO:0033555	multicellular organismal response to stress
+GO:0007394	3	GO:0033555	multicellular organismal response to stress
+GO:0042441	2	GO:0042441	eye pigment metabolic process
+GO:0046512	4	GO:0006081	cellular aldehyde metabolic process
+GO:0006672	4	GO:0006081	cellular aldehyde metabolic process
+GO:0007603	3	GO:0033555	multicellular organismal response to stress
+GO:0044242	4	GO:0006081	cellular aldehyde metabolic process
+GO:0120252	4	GO:0006081	cellular aldehyde metabolic process
+GO:0007483	1	GO:0048805	imaginal disc-derived genitalia morphogenesis
+GO:0120254	4	GO:0006081	cellular aldehyde metabolic process
+GO:0007484	1	GO:0048805	imaginal disc-derived genitalia morphogenesis
+GO:0046154	2	GO:0042441	eye pigment metabolic process
+GO:0007485	1	GO:0048805	imaginal disc-derived genitalia morphogenesis
+GO:0016476	3	GO:0033555	multicellular organismal response to stress
+GO:0007477	1	GO:0048805	imaginal disc-derived genitalia morphogenesis
+GO:0001816	4	GO:0006081	cellular aldehyde metabolic process
+GO:0001817	4	GO:0006081	cellular aldehyde metabolic process
+GO:0016063	2	GO:0042441	eye pigment metabolic process
+GO:0006726	2	GO:0042441	eye pigment metabolic process
+GO:0090305	4	GO:0006081	cellular aldehyde metabolic process

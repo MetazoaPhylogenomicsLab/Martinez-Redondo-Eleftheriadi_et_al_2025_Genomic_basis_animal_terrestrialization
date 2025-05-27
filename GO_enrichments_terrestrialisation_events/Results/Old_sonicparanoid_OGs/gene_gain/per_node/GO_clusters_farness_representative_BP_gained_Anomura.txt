@@ -1,0 +1,157 @@
+GO:0009201	5	GO:0009206	purine ribonucleoside triphosphate biosynthetic process
+GO:0009206	5	GO:0009206	purine ribonucleoside triphosphate biosynthetic process
+GO:0048240	11	GO:0007286	spermatid development
+GO:0001678	13	GO:0048519	negative regulation of biological process
+GO:0021517	11	GO:0007286	spermatid development
+GO:0000910	9	GO:0022402	cell cycle process
+GO:0000914	9	GO:0022402	cell cycle process
+GO:0044068	10	GO:0051701	biological process involved in interaction with host
+GO:0033554	6	GO:0033554	cellular response to stress
+GO:0031060	1	GO:0061085	regulation of histone H3-K27 methylation
+GO:0042730	13	GO:0048519	negative regulation of biological process
+GO:0031061	1	GO:0061085	regulation of histone H3-K27 methylation
+GO:0003352	13	GO:0048519	negative regulation of biological process
+GO:0031056	1	GO:0061085	regulation of histone H3-K27 methylation
+GO:0031057	1	GO:0061085	regulation of histone H3-K27 methylation
+GO:1902019	13	GO:0048519	negative regulation of biological process
+GO:0045103	9	GO:0022402	cell cycle process
+GO:0002366	8	GO:0002274	myeloid leukocyte activation
+GO:0043086	13	GO:0048519	negative regulation of biological process
+GO:0044003	10	GO:0051701	biological process involved in interaction with host
+GO:1903573	7	GO:0036499	PERK-mediated unfolded protein response
+GO:0097009	13	GO:0048519	negative regulation of biological process
+GO:0032516	3	GO:0052547	regulation of peptidase activity
+GO:0043045	4	GO:0071514	genetic imprinting
+GO:0098532	1	GO:0061085	regulation of histone H3-K27 methylation
+GO:0010229	11	GO:0007286	spermatid development
+GO:0034614	6	GO:0033554	cellular response to stress
+GO:0000281	9	GO:0022402	cell cycle process
+GO:0000282	9	GO:0022402	cell cycle process
+GO:0051173	3	GO:0052547	regulation of peptidase activity
+GO:0072376	3	GO:0052547	regulation of peptidase activity
+GO:0072378	3	GO:0052547	regulation of peptidase activity
+GO:1903507	2	GO:0043558	regulation of translational initiation in response to stress
+GO:0019054	10	GO:0051701	biological process involved in interaction with host
+GO:0019058	10	GO:0051701	biological process involved in interaction with host
+GO:0030420	6	GO:0033554	cellular response to stress
+GO:0043550	13	GO:0048519	negative regulation of biological process
+GO:0043551	13	GO:0048519	negative regulation of biological process
+GO:0043558	2	GO:0043558	regulation of translational initiation in response to stress
+GO:0050801	13	GO:0048519	negative regulation of biological process
+GO:0009877	11	GO:0007286	spermatid development
+GO:0030437	11	GO:0007286	spermatid development
+GO:0019048	10	GO:0051701	biological process involved in interaction with host
+GO:0035855	11	GO:0007286	spermatid development
+GO:0046740	10	GO:0051701	biological process involved in interaction with host
+GO:0035821	10	GO:0051701	biological process involved in interaction with host
+GO:0048026	4	GO:0071514	genetic imprinting
+GO:0007320	11	GO:0007286	spermatid development
+GO:1902679	2	GO:0043558	regulation of translational initiation in response to stress
+GO:0000724	4	GO:0071514	genetic imprinting
+GO:0071453	6	GO:0033554	cellular response to stress
+GO:0071456	6	GO:0033554	cellular response to stress
+GO:0006357	2	GO:0043558	regulation of translational initiation in response to stress
+GO:0071478	6	GO:0033554	cellular response to stress
+GO:0071479	6	GO:0033554	cellular response to stress
+GO:0045892	2	GO:0043558	regulation of translational initiation in response to stress
+GO:0070734	1	GO:0061085	regulation of histone H3-K27 methylation
+GO:0048519	13	GO:0048519	negative regulation of biological process
+GO:0006301	4	GO:0071514	genetic imprinting
+GO:0042628	11	GO:0007286	spermatid development
+GO:0022402	9	GO:0022402	cell cycle process
+GO:0051726	9	GO:0022402	cell cycle process
+GO:1900101	7	GO:0036499	PERK-mediated unfolded protein response
+GO:1900102	7	GO:0036499	PERK-mediated unfolded protein response
+GO:0030219	11	GO:0007286	spermatid development
+GO:0060548	13	GO:0048519	negative regulation of biological process
+GO:1902310	3	GO:0052547	regulation of peptidase activity
+GO:0000018	4	GO:0071514	genetic imprinting
+GO:0051701	10	GO:0051701	biological process involved in interaction with host
+GO:0006473	3	GO:0052547	regulation of peptidase activity
+GO:0002263	8	GO:0002274	myeloid leukocyte activation
+GO:0034968	1	GO:0061085	regulation of histone H3-K27 methylation
+GO:0010564	9	GO:0022402	cell cycle process
+GO:0032465	9	GO:0022402	cell cycle process
+GO:0045005	4	GO:0071514	genetic imprinting
+GO:0002274	8	GO:0002274	myeloid leukocyte activation
+GO:0002275	8	GO:0002274	myeloid leukocyte activation
+GO:1902308	3	GO:0052547	regulation of peptidase activity
+GO:0010572	13	GO:0048519	negative regulation of biological process
+GO:0051865	3	GO:0052547	regulation of peptidase activity
+GO:0010543	13	GO:0048519	negative regulation of biological process
+GO:2000694	13	GO:0048519	negative regulation of biological process
+GO:1902464	1	GO:0061085	regulation of histone H3-K27 methylation
+GO:1902465	1	GO:0061085	regulation of histone H3-K27 methylation
+GO:0006984	7	GO:0036499	PERK-mediated unfolded protein response
+GO:0046692	11	GO:0007286	spermatid development
+GO:0015986	5	GO:0009206	purine ribonucleoside triphosphate biosynthetic process
+GO:0060632	13	GO:0048519	negative regulation of biological process
+GO:0070527	13	GO:0048519	negative regulation of biological process
+GO:0039526	10	GO:0051701	biological process involved in interaction with host
+GO:0043414	4	GO:0071514	genetic imprinting
+GO:0048367	11	GO:0007286	spermatid development
+GO:1903916	2	GO:0043558	regulation of translational initiation in response to stress
+GO:1903917	2	GO:0043558	regulation of translational initiation in response to stress
+GO:0052547	3	GO:0052547	regulation of peptidase activity
+GO:0045667	13	GO:0048519	negative regulation of biological process
+GO:0007283	11	GO:0007286	spermatid development
+GO:0007286	11	GO:0007286	spermatid development
+GO:0036490	2	GO:0043558	regulation of translational initiation in response to stress
+GO:0036491	2	GO:0043558	regulation of translational initiation in response to stress
+GO:0036496	2	GO:0043558	regulation of translational initiation in response to stress
+GO:0036497	2	GO:0043558	regulation of translational initiation in response to stress
+GO:0036499	7	GO:0036499	PERK-mediated unfolded protein response
+GO:0007249	7	GO:0036499	PERK-mediated unfolded protein response
+GO:0140467	6	GO:0033554	cellular response to stress
+GO:0016233	4	GO:0071514	genetic imprinting
+GO:0061085	1	GO:0061085	regulation of histone H3-K27 methylation
+GO:0061086	1	GO:0061085	regulation of histone H3-K27 methylation
+GO:2001056	3	GO:0052547	regulation of peptidase activity
+GO:0001895	13	GO:0048519	negative regulation of biological process
+GO:0000398	4	GO:0071514	genetic imprinting
+GO:0055070	13	GO:0048519	negative regulation of biological process
+GO:0019953	11	GO:0007286	spermatid development
+GO:0042119	8	GO:0002274	myeloid leukocyte activation
+GO:0030521	7	GO:0036499	PERK-mediated unfolded protein response
+GO:0032204	4	GO:0071514	genetic imprinting
+GO:0032206	4	GO:0071514	genetic imprinting
+GO:0000375	4	GO:0071514	genetic imprinting
+GO:0000377	4	GO:0071514	genetic imprinting
+GO:0006754	5	GO:0009206	purine ribonucleoside triphosphate biosynthetic process
+GO:0061515	11	GO:0007286	spermatid development
+GO:0031215	11	GO:0007286	spermatid development
+GO:0043280	3	GO:0052547	regulation of peptidase activity
+GO:0098751	11	GO:0007286	spermatid development
+GO:0098771	13	GO:0048519	negative regulation of biological process
+GO:0009142	5	GO:0009206	purine ribonucleoside triphosphate biosynthetic process
+GO:0009145	5	GO:0009206	purine ribonucleoside triphosphate biosynthetic process
+GO:0036294	6	GO:0033554	cellular response to stress
+GO:0036297	4	GO:0071514	genetic imprinting
+GO:0051321	9	GO:0022402	cell cycle process
+GO:0061614	4	GO:0071514	genetic imprinting
+GO:0019222	13	GO:0048519	negative regulation of biological process
+GO:0061640	9	GO:0022402	cell cycle process
+GO:0045444	11	GO:0007286	spermatid development
+GO:0061647	1	GO:0061085	regulation of histone H3-K27 methylation
+GO:0007049	9	GO:0022402	cell cycle process
+GO:1903897	7	GO:0036499	PERK-mediated unfolded protein response
+GO:1903898	7	GO:0036499	PERK-mediated unfolded protein response
+GO:0071514	4	GO:0071514	genetic imprinting
+GO:0016032	10	GO:0051701	biological process involved in interaction with host
+GO:0010950	3	GO:0052547	regulation of peptidase activity
+GO:0010952	3	GO:0052547	regulation of peptidase activity
+GO:0007597	3	GO:0052547	regulation of peptidase activity
+GO:0065009	13	GO:0048519	negative regulation of biological process
+GO:0051302	9	GO:0022402	cell cycle process
+GO:2000179	13	GO:0048519	negative regulation of biological process
+GO:0070417	6	GO:0033554	cellular response to stress
+GO:0050790	13	GO:0048519	negative regulation of biological process
+GO:0050792	10	GO:0051701	biological process involved in interaction with host
+GO:0036230	8	GO:0002274	myeloid leukocyte activation
+GO:0010152	11	GO:0007286	spermatid development
+GO:1902895	2	GO:0043558	regulation of translational initiation in response to stress
+GO:0032058	2	GO:0043558	regulation of translational initiation in response to stress
+GO:0042783	10	GO:0051701	biological process involved in interaction with host
+GO:0060295	13	GO:0048519	negative regulation of biological process
+GO:0001659	13	GO:0048519	negative regulation of biological process
+GO:0042776	5	GO:0009206	purine ribonucleoside triphosphate biosynthetic process

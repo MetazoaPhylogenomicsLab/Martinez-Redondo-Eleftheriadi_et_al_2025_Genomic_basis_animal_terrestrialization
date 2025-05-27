@@ -1,0 +1,77 @@
+GO:0001530	6	GO:0045735	nutrient reservoir activity
+GO:0000014	2	GO:0004519	endonuclease activity
+GO:0042834	6	GO:0045735	nutrient reservoir activity
+GO:0005229	4	GO:0035381	ATP-gated ion channel activity
+GO:0005230	4	GO:0035381	ATP-gated ion channel activity
+GO:0005231	4	GO:0035381	ATP-gated ion channel activity
+GO:0009374	6	GO:0045735	nutrient reservoir activity
+GO:0004520	2	GO:0004519	endonuclease activity
+GO:0004523	2	GO:0004519	endonuclease activity
+GO:0000405	6	GO:0045735	nutrient reservoir activity
+GO:0061980	6	GO:0045735	nutrient reservoir activity
+GO:0004519	2	GO:0004519	endonuclease activity
+GO:0015250	4	GO:0035381	ATP-gated ion channel activity
+GO:0070976	1	GO:0005102	signaling receptor binding
+GO:0004930	3	GO:0004888	transmembrane signaling receptor activity
+GO:0051428	1	GO:0005102	signaling receptor binding
+GO:0004908	3	GO:0004888	transmembrane signaling receptor activity
+GO:0001227	6	GO:0045735	nutrient reservoir activity
+GO:0001217	6	GO:0045735	nutrient reservoir activity
+GO:0061507	6	GO:0045735	nutrient reservoir activity
+GO:0000981	6	GO:0045735	nutrient reservoir activity
+GO:0030371	6	GO:0045735	nutrient reservoir activity
+GO:0015205	4	GO:0035381	ATP-gated ion channel activity
+GO:0000977	6	GO:0045735	nutrient reservoir activity
+GO:0043548	1	GO:0005102	signaling receptor binding
+GO:0005345	4	GO:0035381	ATP-gated ion channel activity
+GO:0099529	3	GO:0004888	transmembrane signaling receptor activity
+GO:0039660	6	GO:0045735	nutrient reservoir activity
+GO:0050700	1	GO:0005102	signaling receptor binding
+GO:0000900	6	GO:0045735	nutrient reservoir activity
+GO:0019864	6	GO:0045735	nutrient reservoir activity
+GO:0050431	1	GO:0005102	signaling receptor binding
+GO:0000213	2	GO:0004519	endonuclease activity
+GO:0005044	6	GO:0045735	nutrient reservoir activity
+GO:0045735	6	GO:0045735	nutrient reservoir activity
+GO:0043237	1	GO:0005102	signaling receptor binding
+GO:1904315	4	GO:0035381	ATP-gated ion channel activity
+GO:0022824	4	GO:0035381	ATP-gated ion channel activity
+GO:0034584	6	GO:0045735	nutrient reservoir activity
+GO:0016892	2	GO:0004519	endonuclease activity
+GO:0016894	2	GO:0004519	endonuclease activity
+GO:0008083	1	GO:0005102	signaling receptor binding
+GO:0022848	4	GO:0035381	ATP-gated ion channel activity
+GO:0022835	4	GO:0035381	ATP-gated ion channel activity
+GO:0043394	1	GO:0005102	signaling receptor binding
+GO:0098531	6	GO:0045735	nutrient reservoir activity
+GO:0089720	1	GO:0005102	signaling receptor binding
+GO:0030594	3	GO:0004888	transmembrane signaling receptor activity
+GO:0016888	2	GO:0004519	endonuclease activity
+GO:0001875	3	GO:0004888	transmembrane signaling receptor activity
+GO:0019966	1	GO:0005102	signaling receptor binding
+GO:0019955	1	GO:0005102	signaling receptor binding
+GO:0004890	3	GO:0004888	transmembrane signaling receptor activity
+GO:0002020	1	GO:0005102	signaling receptor binding
+GO:0005154	1	GO:0005102	signaling receptor binding
+GO:0039706	1	GO:0005102	signaling receptor binding
+GO:0004896	3	GO:0004888	transmembrane signaling receptor activity
+GO:0030159	6	GO:0045735	nutrient reservoir activity
+GO:0045028	3	GO:0004888	transmembrane signaling receptor activity
+GO:0035381	4	GO:0035381	ATP-gated ion channel activity
+GO:0005123	1	GO:0005102	signaling receptor binding
+GO:0004866	6	GO:0045735	nutrient reservoir activity
+GO:0004867	6	GO:0045735	nutrient reservoir activity
+GO:0008191	6	GO:0045735	nutrient reservoir activity
+GO:0003823	1	GO:0005102	signaling receptor binding
+GO:0004888	3	GO:0004888	transmembrane signaling receptor activity
+GO:0005133	1	GO:0005102	signaling receptor binding
+GO:0030548	6	GO:0045735	nutrient reservoir activity
+GO:0004879	6	GO:0045735	nutrient reservoir activity
+GO:0005139	1	GO:0005102	signaling receptor binding
+GO:0005534	6	GO:0045735	nutrient reservoir activity
+GO:0036313	1	GO:0005102	signaling receptor binding
+GO:0005102	1	GO:0005102	signaling receptor binding
+GO:0008188	3	GO:0004888	transmembrane signaling receptor activity
+GO:0048019	1	GO:0005102	signaling receptor binding
+GO:0005506	6	GO:0045735	nutrient reservoir activity
+GO:0008528	3	GO:0004888	transmembrane signaling receptor activity

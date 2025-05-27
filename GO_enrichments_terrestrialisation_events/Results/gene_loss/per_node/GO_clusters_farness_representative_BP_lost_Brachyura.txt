@@ -1,0 +1,512 @@
+GO:0045667	27	GO:0032330	regulation of chondrocyte differentiation
+GO:0045668	27	GO:0032330	regulation of chondrocyte differentiation
+GO:0002028	12	GO:0140353	lipid export from cell
+GO:0030195	13	GO:1900424	regulation of defense response to bacterium
+GO:0018119	5	GO:0090085	regulation of protein deubiquitination
+GO:0030198	22	GO:0043062	extracellular structure organization
+GO:0090305	2	GO:0051052	regulation of DNA metabolic process
+GO:0023056	29	GO:0008284	positive regulation of cell population proliferation
+GO:0007283	9	GO:0009566	fertilization
+GO:0000413	5	GO:0090085	regulation of protein deubiquitination
+GO:0043062	22	GO:0043062	extracellular structure organization
+GO:0060322	10	GO:0035270	endocrine system development
+GO:0048135	11	GO:0098751	bone cell development
+GO:1903319	5	GO:0090085	regulation of protein deubiquitination
+GO:0030101	25	GO:0046651	lymphocyte proliferation
+GO:0052027	18	GO:0039514	suppression by virus of host JAK-STAT cascade
+GO:0097202	5	GO:0090085	regulation of protein deubiquitination
+GO:0006801	4	GO:0006581	acetylcholine catabolic process
+GO:0006809	4	GO:0006581	acetylcholine catabolic process
+GO:0014902	11	GO:0098751	bone cell development
+GO:0030282	10	GO:0035270	endocrine system development
+GO:0018208	5	GO:0090085	regulation of protein deubiquitination
+GO:1901739	27	GO:0032330	regulation of chondrocyte differentiation
+GO:0030278	28	GO:0048521	negative regulation of behavior
+GO:0030279	28	GO:0048521	negative regulation of behavior
+GO:0006581	4	GO:0006581	acetylcholine catabolic process
+GO:0048240	11	GO:0098751	bone cell development
+GO:0097722	26	GO:0050900	leukocyte migration
+GO:0046651	25	GO:0046651	lymphocyte proliferation
+GO:0010760	26	GO:0050900	leukocyte migration
+GO:0010764	26	GO:0050900	leukocyte migration
+GO:0032310	16	GO:2000831	regulation of steroid hormone secretion
+GO:0000290	2	GO:0051052	regulation of DNA metabolic process
+GO:0034091	21	GO:0000819	sister chromatid segregation
+GO:0032330	27	GO:0032330	regulation of chondrocyte differentiation
+GO:0000255	2	GO:0051052	regulation of DNA metabolic process
+GO:1904355	2	GO:0051052	regulation of DNA metabolic process
+GO:0000280	22	GO:0043062	extracellular structure organization
+GO:0034088	21	GO:0000819	sister chromatid segregation
+GO:0010705	2	GO:0051052	regulation of DNA metabolic process
+GO:0070192	21	GO:0000819	sister chromatid segregation
+GO:0030727	11	GO:0098751	bone cell development
+GO:2001056	5	GO:0090085	regulation of protein deubiquitination
+GO:0051301	24	GO:0007155	cell adhesion
+GO:0006657	4	GO:0006581	acetylcholine catabolic process
+GO:0090224	23	GO:0051495	positive regulation of cytoskeleton organization
+GO:0060142	27	GO:0032330	regulation of chondrocyte differentiation
+GO:0070121	10	GO:0035270	endocrine system development
+GO:0006646	4	GO:0006581	acetylcholine catabolic process
+GO:0044000	8	GO:0044000	movement in host
+GO:0042475	10	GO:0035270	endocrine system development
+GO:0031274	23	GO:0051495	positive regulation of cytoskeleton organization
+GO:0001172	1	GO:0006355	regulation of transcription, DNA-templated
+GO:0110156	2	GO:0051052	regulation of DNA metabolic process
+GO:0045920	28	GO:0048521	negative regulation of behavior
+GO:0010845	2	GO:0051052	regulation of DNA metabolic process
+GO:0051445	20	GO:0010948	negative regulation of cell cycle process
+GO:0045930	20	GO:0010948	negative regulation of cell cycle process
+GO:0000722	2	GO:0051052	regulation of DNA metabolic process
+GO:0000729	2	GO:0051052	regulation of DNA metabolic process
+GO:0060252	27	GO:0032330	regulation of chondrocyte differentiation
+GO:1904415	13	GO:1900424	regulation of defense response to bacterium
+GO:1904417	13	GO:1900424	regulation of defense response to bacterium
+GO:0071412	15	GO:0051606	detection of stimulus
+GO:0030838	23	GO:0051495	positive regulation of cytoskeleton organization
+GO:0015074	2	GO:0051052	regulation of DNA metabolic process
+GO:0010564	20	GO:0010948	negative regulation of cell cycle process
+GO:0000706	2	GO:0051052	regulation of DNA metabolic process
+GO:0060236	23	GO:0051495	positive regulation of cytoskeleton organization
+GO:0043330	15	GO:0051606	detection of stimulus
+GO:0042138	2	GO:0051052	regulation of DNA metabolic process
+GO:0035036	9	GO:0009566	fertilization
+GO:0048570	10	GO:0035270	endocrine system development
+GO:0050728	13	GO:1900424	regulation of defense response to bacterium
+GO:0000819	21	GO:0000819	sister chromatid segregation
+GO:1903724	23	GO:0051495	positive regulation of cytoskeleton organization
+GO:0008593	19	GO:0002221	pattern recognition receptor signaling pathway
+GO:0070741	15	GO:0051606	detection of stimulus
+GO:0003309	10	GO:0035270	endocrine system development
+GO:0010647	29	GO:0008284	positive regulation of cell population proliferation
+GO:0050867	29	GO:0008284	positive regulation of cell population proliferation
+GO:0046902	22	GO:0043062	extracellular structure organization
+GO:0032760	3	GO:0001819	positive regulation of cytokine production
+GO:0032755	3	GO:0001819	positive regulation of cytokine production
+GO:0032757	3	GO:0001819	positive regulation of cytokine production
+GO:0039554	17	GO:0039537	suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway
+GO:0043123	19	GO:0002221	pattern recognition receptor signaling pathway
+GO:0002221	19	GO:0002221	pattern recognition receptor signaling pathway
+GO:0039573	17	GO:0039537	suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway
+GO:0051783	23	GO:0051495	positive regulation of cytoskeleton organization
+GO:0055057	11	GO:0098751	bone cell development
+GO:0042770	19	GO:0002221	pattern recognition receptor signaling pathway
+GO:0031570	20	GO:0010948	negative regulation of cell cycle process
+GO:0032731	3	GO:0001819	positive regulation of cytokine production
+GO:0032732	3	GO:0001819	positive regulation of cytokine production
+GO:0051726	20	GO:0010948	negative regulation of cell cycle process
+GO:0019695	4	GO:0006581	acetylcholine catabolic process
+GO:0039537	17	GO:0039537	suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway
+GO:0001819	3	GO:0001819	positive regulation of cytokine production
+GO:0098671	7	GO:0019058	viral life cycle
+GO:1903555	3	GO:0001819	positive regulation of cytokine production
+GO:1903557	3	GO:0001819	positive regulation of cytokine production
+GO:0039693	7	GO:0019058	viral life cycle
+GO:0039695	7	GO:0019058	viral life cycle
+GO:1901991	20	GO:0010948	negative regulation of cell cycle process
+GO:1900015	3	GO:0001819	positive regulation of cytokine production
+GO:1900016	3	GO:0001819	positive regulation of cytokine production
+GO:1900017	3	GO:0001819	positive regulation of cytokine production
+GO:0002756	19	GO:0002221	pattern recognition receptor signaling pathway
+GO:0043280	5	GO:0090085	regulation of protein deubiquitination
+GO:1900047	28	GO:0048521	negative regulation of behavior
+GO:0031663	19	GO:0002221	pattern recognition receptor signaling pathway
+GO:1903531	28	GO:0048521	negative regulation of behavior
+GO:0001562	13	GO:1900424	regulation of defense response to bacterium
+GO:0071706	3	GO:0001819	positive regulation of cytokine production
+GO:0039674	6	GO:0075733	intracellular transport of virus
+GO:0032814	25	GO:0046651	lymphocyte proliferation
+GO:0032816	25	GO:0046651	lymphocyte proliferation
+GO:1901988	20	GO:0010948	negative regulation of cell cycle process
+GO:0070536	5	GO:0090085	regulation of protein deubiquitination
+GO:0002735	3	GO:0001819	positive regulation of cytokine production
+GO:0039644	1	GO:0006355	regulation of transcription, DNA-templated
+GO:0039645	18	GO:0039514	suppression by virus of host JAK-STAT cascade
+GO:0039646	18	GO:0039514	suppression by virus of host JAK-STAT cascade
+GO:0042832	13	GO:1900424	regulation of defense response to bacterium
+GO:0001539	26	GO:0050900	leukocyte migration
+GO:0034182	21	GO:0000819	sister chromatid segregation
+GO:0034184	21	GO:0000819	sister chromatid segregation
+GO:0010951	5	GO:0090085	regulation of protein deubiquitination
+GO:0010954	5	GO:0090085	regulation of protein deubiquitination
+GO:0140527	2	GO:0051052	regulation of DNA metabolic process
+GO:0009612	15	GO:0051606	detection of stimulus
+GO:0009617	13	GO:1900424	regulation of defense response to bacterium
+GO:0010948	20	GO:0010948	negative regulation of cell cycle process
+GO:2000738	27	GO:0032330	regulation of chondrocyte differentiation
+GO:0007096	21	GO:0000819	sister chromatid segregation
+GO:0007099	22	GO:0043062	extracellular structure organization
+GO:0061512	12	GO:0140353	lipid export from cell
+GO:0016321	21	GO:0000819	sister chromatid segregation
+GO:0016319	10	GO:0035270	endocrine system development
+GO:0071539	12	GO:0140353	lipid export from cell
+GO:0032680	3	GO:0001819	positive regulation of cytokine production
+GO:0007017	24	GO:0007155	cell adhesion
+GO:0002577	28	GO:0048521	negative regulation of behavior
+GO:0032640	3	GO:0001819	positive regulation of cytokine production
+GO:0002696	29	GO:0008284	positive regulation of cell population proliferation
+GO:0045143	21	GO:0000819	sister chromatid segregation
+GO:0044782	22	GO:0043062	extracellular structure organization
+GO:0006366	1	GO:0006355	regulation of transcription, DNA-templated
+GO:0006355	1	GO:0006355	regulation of transcription, DNA-templated
+GO:0002684	29	GO:0008284	positive regulation of cell population proliferation
+GO:0006357	1	GO:0006355	regulation of transcription, DNA-templated
+GO:0006312	2	GO:0051052	regulation of DNA metabolic process
+GO:0035270	10	GO:0035270	endocrine system development
+GO:0035212	27	GO:0032330	regulation of chondrocyte differentiation
+GO:0045229	22	GO:0043062	extracellular structure organization
+GO:0050918	15	GO:0051606	detection of stimulus
+GO:0000070	21	GO:0000819	sister chromatid segregation
+GO:0019068	7	GO:0019058	viral life cycle
+GO:0000075	20	GO:0010948	negative regulation of cell cycle process
+GO:0000077	20	GO:0010948	negative regulation of cell cycle process
+GO:1900424	13	GO:1900424	regulation of defense response to bacterium
+GO:1900425	13	GO:1900424	regulation of defense response to bacterium
+GO:0019058	7	GO:0019058	viral life cycle
+GO:0019082	7	GO:0019058	viral life cycle
+GO:0044826	7	GO:0019058	viral life cycle
+GO:0090085	5	GO:0090085	regulation of protein deubiquitination
+GO:0008037	24	GO:0007155	cell adhesion
+GO:0008038	11	GO:0098751	bone cell development
+GO:0019076	7	GO:0019058	viral life cycle
+GO:0009967	19	GO:0002221	pattern recognition receptor signaling pathway
+GO:0050900	26	GO:0050900	leukocyte migration
+GO:0050907	15	GO:0051606	detection of stimulus
+GO:0019042	7	GO:0019058	viral life cycle
+GO:0019043	7	GO:0019058	viral life cycle
+GO:0045786	20	GO:0010948	negative regulation of cell cycle process
+GO:0045724	23	GO:0051495	positive regulation of cytoskeleton organization
+GO:0031018	10	GO:0035270	endocrine system development
+GO:0045746	19	GO:0002221	pattern recognition receptor signaling pathway
+GO:0015886	12	GO:0140353	lipid export from cell
+GO:0075111	18	GO:0039514	suppression by virus of host JAK-STAT cascade
+GO:0016233	2	GO:0051052	regulation of DNA metabolic process
+GO:0016239	4	GO:0006581	acetylcholine catabolic process
+GO:0007340	9	GO:0009566	fertilization
+GO:0007342	9	GO:0009566	fertilization
+GO:0007338	9	GO:0009566	fertilization
+GO:0006123	4	GO:0006581	acetylcholine catabolic process
+GO:0075109	18	GO:0039514	suppression by virus of host JAK-STAT cascade
+GO:0032945	28	GO:0048521	negative regulation of behavior
+GO:1903046	21	GO:0000819	sister chromatid segregation
+GO:0044501	8	GO:0044000	movement in host
+GO:1903037	29	GO:0008284	positive regulation of cell population proliferation
+GO:0035825	2	GO:0051052	regulation of DNA metabolic process
+GO:1903003	5	GO:0090085	regulation of protein deubiquitination
+GO:0030317	26	GO:0050900	leukocyte migration
+GO:0051092	1	GO:0006355	regulation of transcription, DNA-templated
+GO:0071901	5	GO:0090085	regulation of protein deubiquitination
+GO:0006278	1	GO:0006355	regulation of transcription, DNA-templated
+GO:0032056	5	GO:0090085	regulation of protein deubiquitination
+GO:0046755	7	GO:0019058	viral life cycle
+GO:0042060	15	GO:0051606	detection of stimulus
+GO:0140013	21	GO:0000819	sister chromatid segregation
+GO:0046718	7	GO:0019058	viral life cycle
+GO:0042073	12	GO:0140353	lipid export from cell
+GO:0061060	13	GO:1900424	regulation of defense response to bacterium
+GO:0045576	25	GO:0046651	lymphocyte proliferation
+GO:0008355	15	GO:0051606	detection of stimulus
+GO:0008356	24	GO:0007155	cell adhesion
+GO:0061058	19	GO:0002221	pattern recognition receptor signaling pathway
+GO:0051048	28	GO:0048521	negative regulation of behavior
+GO:0007155	24	GO:0007155	cell adhesion
+GO:0007159	24	GO:0007155	cell adhesion
+GO:0007189	19	GO:0002221	pattern recognition receptor signaling pathway
+GO:0075713	7	GO:0019058	viral life cycle
+GO:0035694	4	GO:0006581	acetylcholine catabolic process
+GO:0007129	21	GO:0000819	sister chromatid segregation
+GO:0075733	6	GO:0075733	intracellular transport of virus
+GO:0030435	11	GO:0098751	bone cell development
+GO:0035666	19	GO:0002221	pattern recognition receptor signaling pathway
+GO:0007131	2	GO:0051052	regulation of DNA metabolic process
+GO:0002076	11	GO:0098751	bone cell development
+GO:0046813	7	GO:0019058	viral life cycle
+GO:1905941	10	GO:0035270	endocrine system development
+GO:0010114	15	GO:0051606	detection of stimulus
+GO:0007266	19	GO:0002221	pattern recognition receptor signaling pathway
+GO:0007286	11	GO:0098751	bone cell development
+GO:0007218	19	GO:0002221	pattern recognition receptor signaling pathway
+GO:0052029	18	GO:0039514	suppression by virus of host JAK-STAT cascade
+GO:0008156	1	GO:0006355	regulation of transcription, DNA-templated
+GO:1902108	22	GO:0043062	extracellular structure organization
+GO:0030237	10	GO:0035270	endocrine system development
+GO:0048232	9	GO:0009566	fertilization
+GO:0042364	4	GO:0006581	acetylcholine catabolic process
+GO:0034097	15	GO:0051606	detection of stimulus
+GO:0031112	23	GO:0051495	positive regulation of cytoskeleton organization
+GO:0031116	23	GO:0051495	positive regulation of cytoskeleton organization
+GO:1904353	2	GO:0051052	regulation of DNA metabolic process
+GO:0071365	15	GO:0051606	detection of stimulus
+GO:0071368	15	GO:0051606	detection of stimulus
+GO:0060153	18	GO:0039514	suppression by virus of host JAK-STAT cascade
+GO:2001057	4	GO:0006581	acetylcholine catabolic process
+GO:0031103	11	GO:0098751	bone cell development
+GO:0051495	23	GO:0051495	positive regulation of cytoskeleton organization
+GO:0044030	2	GO:0051052	regulation of DNA metabolic process
+GO:0035924	15	GO:0051606	detection of stimulus
+GO:0002312	25	GO:0046651	lymphocyte proliferation
+GO:0060294	26	GO:0050900	leukocyte migration
+GO:0045934	2	GO:0051052	regulation of DNA metabolic process
+GO:0060285	26	GO:0050900	leukocyte migration
+GO:0050798	25	GO:0046651	lymphocyte proliferation
+GO:0033301	24	GO:0007155	cell adhesion
+GO:0042135	4	GO:0006581	acetylcholine catabolic process
+GO:0019852	4	GO:0006581	acetylcholine catabolic process
+GO:0019853	4	GO:0006581	acetylcholine catabolic process
+GO:0050727	13	GO:1900424	regulation of defense response to bacterium
+GO:0042102	25	GO:0046651	lymphocyte proliferation
+GO:0048521	28	GO:0048521	negative regulation of behavior
+GO:0097659	1	GO:0006355	regulation of transcription, DNA-templated
+GO:0070782	12	GO:0140353	lipid export from cell
+GO:0032273	23	GO:0051495	positive regulation of cytoskeleton organization
+GO:0072499	11	GO:0098751	bone cell development
+GO:0051251	25	GO:0046651	lymphocyte proliferation
+GO:0032212	1	GO:0006355	regulation of transcription, DNA-templated
+GO:0019800	5	GO:0090085	regulation of protein deubiquitination
+GO:0009735	15	GO:0051606	detection of stimulus
+GO:0050870	25	GO:0046651	lymphocyte proliferation
+GO:0039592	18	GO:0039514	suppression by virus of host JAK-STAT cascade
+GO:0090529	22	GO:0043062	extracellular structure organization
+GO:0039562	18	GO:0039514	suppression by virus of host JAK-STAT cascade
+GO:0039563	18	GO:0039514	suppression by virus of host JAK-STAT cascade
+GO:0039564	18	GO:0039514	suppression by virus of host JAK-STAT cascade
+GO:0002285	25	GO:0046651	lymphocyte proliferation
+GO:1902679	1	GO:0006355	regulation of transcription, DNA-templated
+GO:0039514	18	GO:0039514	suppression by virus of host JAK-STAT cascade
+GO:2000146	26	GO:0050900	leukocyte migration
+GO:0039548	17	GO:0039537	suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway
+GO:0039502	17	GO:0039537	suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway
+GO:0070593	11	GO:0098751	bone cell development
+GO:0046006	25	GO:0046651	lymphocyte proliferation
+GO:0008608	21	GO:0000819	sister chromatid segregation
+GO:0033233	5	GO:0090085	regulation of protein deubiquitination
+GO:0033234	5	GO:0090085	regulation of protein deubiquitination
+GO:1903507	1	GO:0006355	regulation of transcription, DNA-templated
+GO:0071897	1	GO:0006355	regulation of transcription, DNA-templated
+GO:0050671	25	GO:0046651	lymphocyte proliferation
+GO:0017014	5	GO:0090085	regulation of protein deubiquitination
+GO:0009691	4	GO:0006581	acetylcholine catabolic process
+GO:0070661	24	GO:0007155	cell adhesion
+GO:0070665	29	GO:0008284	positive regulation of cell population proliferation
+GO:0071805	12	GO:0140353	lipid export from cell
+GO:0010921	28	GO:0048521	negative regulation of behavior
+GO:0009611	15	GO:0051606	detection of stimulus
+GO:0009639	15	GO:0051606	detection of stimulus
+GO:0045448	11	GO:0098751	bone cell development
+GO:0035186	11	GO:0098751	bone cell development
+GO:0034765	28	GO:0048521	negative regulation of behavior
+GO:0098961	12	GO:0140353	lipid export from cell
+GO:1902905	23	GO:0051495	positive regulation of cytoskeleton organization
+GO:0098963	12	GO:0140353	lipid export from cell
+GO:0010043	15	GO:0051606	detection of stimulus
+GO:0000917	22	GO:0043062	extracellular structure organization
+GO:0051606	15	GO:0051606	detection of stimulus
+GO:0045132	21	GO:0000819	sister chromatid segregation
+GO:0035290	10	GO:0035270	endocrine system development
+GO:0002688	26	GO:0050900	leukocyte migration
+GO:0006310	2	GO:0051052	regulation of DNA metabolic process
+GO:0040034	27	GO:0032330	regulation of chondrocyte differentiation
+GO:0035282	10	GO:0035270	endocrine system development
+GO:0019050	18	GO:0039514	suppression by virus of host JAK-STAT cascade
+GO:0008049	9	GO:0009566	fertilization
+GO:0008039	11	GO:0098751	bone cell development
+GO:0019079	7	GO:0019058	viral life cycle
+GO:0019046	7	GO:0019058	viral life cycle
+GO:0009948	10	GO:0035270	endocrine system development
+GO:0070096	22	GO:0043062	extracellular structure organization
+GO:1900117	29	GO:0008284	positive regulation of cell population proliferation
+GO:0032954	20	GO:0010948	negative regulation of cell cycle process
+GO:0007343	9	GO:0009566	fertilization
+GO:0045892	1	GO:0006355	regulation of transcription, DNA-templated
+GO:0032943	24	GO:0007155	cell adhesion
+GO:0032946	29	GO:0008284	positive regulation of cell population proliferation
+GO:0051973	1	GO:0006355	regulation of transcription, DNA-templated
+GO:1903039	29	GO:0008284	positive regulation of cell population proliferation
+GO:0007494	10	GO:0035270	endocrine system development
+GO:0009047	3	GO:0001819	positive regulation of cytokine production
+GO:0046209	4	GO:0006581	acetylcholine catabolic process
+GO:0046760	7	GO:0019058	viral life cycle
+GO:0046765	6	GO:0075733	intracellular transport of virus
+GO:0006275	1	GO:0006355	regulation of transcription, DNA-templated
+GO:0042065	11	GO:0098751	bone cell development
+GO:0051052	2	GO:0051052	regulation of DNA metabolic process
+GO:0046740	6	GO:0075733	intracellular transport of virus
+GO:0007156	24	GO:0007155	cell adhesion
+GO:0007157	24	GO:0007155	cell adhesion
+GO:0000379	2	GO:0051052	regulation of DNA metabolic process
+GO:0014015	27	GO:0032330	regulation of chondrocyte differentiation
+GO:0030474	22	GO:0043062	extracellular structure organization
+GO:0034080	22	GO:0043062	extracellular structure organization
+GO:0044060	28	GO:0048521	negative regulation of behavior
+GO:1904996	29	GO:0008284	positive regulation of cell population proliferation
+GO:0001937	28	GO:0048521	negative regulation of behavior
+GO:0090303	13	GO:1900424	regulation of defense response to bacterium
+GO:1904950	28	GO:0048521	negative regulation of behavior
+GO:0045672	27	GO:0032330	regulation of chondrocyte differentiation
+GO:1901652	15	GO:0051606	detection of stimulus
+GO:0045617	27	GO:0032330	regulation of chondrocyte differentiation
+GO:0051987	20	GO:0010948	negative regulation of cell cycle process
+GO:0071988	12	GO:0140353	lipid export from cell
+GO:0010216	2	GO:0051052	regulation of DNA metabolic process
+GO:1903975	27	GO:0032330	regulation of chondrocyte differentiation
+GO:1903977	27	GO:0032330	regulation of chondrocyte differentiation
+GO:0140353	12	GO:0140353	lipid export from cell
+GO:0000122	1	GO:0006355	regulation of transcription, DNA-templated
+GO:0039700	6	GO:0075733	intracellular transport of virus
+GO:0010758	26	GO:0050900	leukocyte migration
+GO:0032005	19	GO:0002221	pattern recognition receptor signaling pathway
+GO:0031099	10	GO:0035270	endocrine system development
+GO:0060141	18	GO:0039514	suppression by virus of host JAK-STAT cascade
+GO:1902902	23	GO:0051495	positive regulation of cytoskeleton organization
+GO:0031055	22	GO:0043062	extracellular structure organization
+GO:0006953	15	GO:0051606	detection of stimulus
+GO:0031076	10	GO:0035270	endocrine system development
+GO:0034341	15	GO:0051606	detection of stimulus
+GO:0035929	16	GO:2000831	regulation of steroid hormone secretion
+GO:0015908	12	GO:0140353	lipid export from cell
+GO:0015909	12	GO:0140353	lipid export from cell
+GO:0000750	19	GO:0002221	pattern recognition receptor signaling pathway
+GO:0035930	16	GO:2000831	regulation of steroid hormone secretion
+GO:0035933	16	GO:2000831	regulation of steroid hormone secretion
+GO:0010838	29	GO:0008284	positive regulation of cell population proliferation
+GO:0000747	9	GO:0009566	fertilization
+GO:1905521	26	GO:0050900	leukocyte migration
+GO:0018027	5	GO:0090085	regulation of protein deubiquitination
+GO:0070228	28	GO:0048521	negative regulation of behavior
+GO:1905517	26	GO:0050900	leukocyte migration
+GO:0070229	28	GO:0048521	negative regulation of behavior
+GO:0009566	9	GO:0009566	fertilization
+GO:1905508	12	GO:0140353	lipid export from cell
+GO:0039663	8	GO:0044000	movement in host
+GO:0010572	29	GO:0008284	positive regulation of cell population proliferation
+GO:0099565	19	GO:0002221	pattern recognition receptor signaling pathway
+GO:0039671	8	GO:0044000	movement in host
+GO:1904029	5	GO:0090085	regulation of protein deubiquitination
+GO:1904030	5	GO:0090085	regulation of protein deubiquitination
+GO:0051053	2	GO:0051052	regulation of DNA metabolic process
+GO:0060711	10	GO:0035270	endocrine system development
+GO:0009690	2	GO:0051052	regulation of DNA metabolic process
+GO:0034113	24	GO:0007155	cell adhesion
+GO:0043434	15	GO:0051606	detection of stimulus
+GO:0042330	15	GO:0051606	detection of stimulus
+GO:0032309	12	GO:0140353	lipid export from cell
+GO:0061005	11	GO:0098751	bone cell development
+GO:0043400	16	GO:2000831	regulation of steroid hormone secretion
+GO:0044278	8	GO:0044000	movement in host
+GO:0090502	2	GO:0051052	regulation of DNA metabolic process
+GO:0031334	23	GO:0051495	positive regulation of cytoskeleton organization
+GO:0042402	4	GO:0006581	acetylcholine catabolic process
+GO:0032197	24	GO:0007155	cell adhesion
+GO:0034727	4	GO:0006581	acetylcholine catabolic process
+GO:0044725	2	GO:0051052	regulation of DNA metabolic process
+GO:0072378	4	GO:0006581	acetylcholine catabolic process
+GO:2000480	5	GO:0090085	regulation of protein deubiquitination
+GO:2000479	5	GO:0090085	regulation of protein deubiquitination
+GO:1904358	2	GO:0051052	regulation of DNA metabolic process
+GO:0032100	13	GO:1900424	regulation of defense response to bacterium
+GO:0006004	4	GO:0006581	acetylcholine catabolic process
+GO:0060675	10	GO:0035270	endocrine system development
+GO:0070670	15	GO:0051606	detection of stimulus
+GO:0042273	22	GO:0043062	extracellular structure organization
+GO:0070601	21	GO:0000819	sister chromatid segregation
+GO:0051303	12	GO:0140353	lipid export from cell
+GO:0031134	21	GO:0000819	sister chromatid segregation
+GO:0071346	15	GO:0051606	detection of stimulus
+GO:0031102	11	GO:0098751	bone cell development
+GO:0044805	4	GO:0006581	acetylcholine catabolic process
+GO:0002293	11	GO:0098751	bone cell development
+GO:0002294	11	GO:0098751	bone cell development
+GO:0051461	16	GO:2000831	regulation of steroid hormone secretion
+GO:0051462	16	GO:2000831	regulation of steroid hormone secretion
+GO:0051464	16	GO:2000831	regulation of steroid hormone secretion
+GO:2000106	28	GO:0048521	negative regulation of behavior
+GO:0051458	16	GO:2000831	regulation of steroid hormone secretion
+GO:2000107	28	GO:0048521	negative regulation of behavior
+GO:0051459	16	GO:2000831	regulation of steroid hormone secretion
+GO:0002287	25	GO:0046651	lymphocyte proliferation
+GO:0031268	22	GO:0043062	extracellular structure organization
+GO:0031269	22	GO:0043062	extracellular structure organization
+GO:0018130	4	GO:0006581	acetylcholine catabolic process
+GO:0032774	1	GO:0006355	regulation of transcription, DNA-templated
+GO:0031272	23	GO:0051495	positive regulation of cytoskeleton organization
+GO:0002244	11	GO:0098751	bone cell development
+GO:0071459	12	GO:0140353	lipid export from cell
+GO:0016339	24	GO:0007155	cell adhesion
+GO:0002230	13	GO:1900424	regulation of defense response to bacterium
+GO:0072171	10	GO:0035270	endocrine system development
+GO:0061418	1	GO:0006355	regulation of transcription, DNA-templated
+GO:0042730	13	GO:1900424	regulation of defense response to bacterium
+GO:0034654	1	GO:0006355	regulation of transcription, DNA-templated
+GO:0017121	12	GO:0140353	lipid export from cell
+GO:0006351	1	GO:0006355	regulation of transcription, DNA-templated
+GO:0006383	1	GO:0006355	regulation of transcription, DNA-templated
+GO:0050982	15	GO:0051606	detection of stimulus
+GO:0048246	26	GO:0050900	leukocyte migration
+GO:0035335	5	GO:0090085	regulation of protein deubiquitination
+GO:0006306	2	GO:0051052	regulation of DNA metabolic process
+GO:0072202	11	GO:0098751	bone cell development
+GO:0060986	16	GO:2000831	regulation of steroid hormone secretion
+GO:0071107	15	GO:0051606	detection of stimulus
+GO:1902412	20	GO:0010948	negative regulation of cell cycle process
+GO:0050901	26	GO:0050900	leukocyte migration
+GO:0051224	12	GO:0140353	lipid export from cell
+GO:0006465	5	GO:0090085	regulation of protein deubiquitination
+GO:0019062	7	GO:0019058	viral life cycle
+GO:0019064	8	GO:0044000	movement in host
+GO:0008284	29	GO:0008284	positive regulation of cell population proliferation
+GO:0007186	19	GO:0002221	pattern recognition receptor signaling pathway
+GO:0016137	4	GO:0006581	acetylcholine catabolic process
+GO:0019073	7	GO:0019058	viral life cycle
+GO:2000851	16	GO:2000831	regulation of steroid hormone secretion
+GO:0001702	10	GO:0035270	endocrine system development
+GO:0042531	5	GO:0090085	regulation of protein deubiquitination
+GO:2000846	16	GO:2000831	regulation of steroid hormone secretion
+GO:2000848	16	GO:2000831	regulation of steroid hormone secretion
+GO:2000849	16	GO:2000831	regulation of steroid hormone secretion
+GO:2000831	16	GO:2000831	regulation of steroid hormone secretion
+GO:2000833	16	GO:2000831	regulation of steroid hormone secretion
+GO:0001890	10	GO:0035270	endocrine system development
+GO:0001892	10	GO:0035270	endocrine system development
+GO:0001893	10	GO:0035270	endocrine system development
+GO:0051781	29	GO:0008284	positive regulation of cell population proliferation
+GO:0022611	10	GO:0035270	endocrine system development
+GO:0098751	11	GO:0098751	bone cell development
+GO:0001818	3	GO:0001819	positive regulation of cytokine production
+GO:0048821	11	GO:0098751	bone cell development
+GO:0098742	24	GO:0007155	cell adhesion
+GO:0061709	22	GO:0043062	extracellular structure organization
+GO:0002691	26	GO:0050900	leukocyte migration
+GO:1901186	19	GO:0002221	pattern recognition receptor signaling pathway
+GO:0097201	1	GO:0006355	regulation of transcription, DNA-templated
+GO:0048596	10	GO:0035270	endocrine system development
+GO:2000696	27	GO:0032330	regulation of chondrocyte differentiation
+GO:0046794	6	GO:0075733	intracellular transport of virus
+GO:0040013	28	GO:0048521	negative regulation of behavior
+GO:0051838	13	GO:1900424	regulation of defense response to bacterium
+GO:0040032	10	GO:0035270	endocrine system development
+GO:2000653	2	GO:0051052	regulation of DNA metabolic process
+GO:0071875	19	GO:0002221	pattern recognition receptor signaling pathway
+GO:0061844	13	GO:1900424	regulation of defense response to bacterium
+GO:0000079	5	GO:0090085	regulation of protein deubiquitination
+GO:0061564	11	GO:0098751	bone cell development
+GO:0001658	10	GO:0035270	endocrine system development
+GO:0071554	24	GO:0007155	cell adhesion
+GO:0071555	22	GO:0043062	extracellular structure organization
+GO:0015732	12	GO:0140353	lipid export from cell
+GO:0061515	11	GO:0098751	bone cell development
+GO:0071514	2	GO:0051052	regulation of DNA metabolic process
+GO:0045742	19	GO:0002221	pattern recognition receptor signaling pathway
+GO:0045736	5	GO:0090085	regulation of protein deubiquitination
+GO:0015858	12	GO:0140353	lipid export from cell
+GO:1903506	1	GO:0006355	regulation of transcription, DNA-templated
+GO:0007520	11	GO:0098751	bone cell development
+GO:0035850	11	GO:0098751	bone cell development
+GO:0098670	7	GO:0019058	viral life cycle
+GO:0019438	4	GO:0006581	acetylcholine catabolic process
+GO:0045818	4	GO:0006581	acetylcholine catabolic process
+GO:2001141	1	GO:0006355	regulation of transcription, DNA-templated
+GO:0010496	24	GO:0007155	cell adhesion
+GO:0010497	24	GO:0007155	cell adhesion
+GO:0046697	10	GO:0035270	endocrine system development
+GO:0030307	29	GO:0008284	positive regulation of cell population proliferation
+GO:0009414	15	GO:0051606	detection of stimulus
+GO:0015695	12	GO:0140353	lipid export from cell

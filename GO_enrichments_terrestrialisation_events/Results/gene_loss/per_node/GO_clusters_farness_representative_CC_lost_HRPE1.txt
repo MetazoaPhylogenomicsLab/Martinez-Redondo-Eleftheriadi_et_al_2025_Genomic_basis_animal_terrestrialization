@@ -1,0 +1,55 @@
+GO:0044423	3	GO:1990391	DNA repair complex
+GO:0031332	3	GO:1990391	DNA repair complex
+GO:0046696	3	GO:1990391	DNA repair complex
+GO:0070187	1	GO:0033557	Slx1-Slx4 complex
+GO:0009897	4	GO:0033150	cytoskeletal calyx
+GO:0005769	4	GO:0033150	cytoskeletal calyx
+GO:0000794	1	GO:0033557	Slx1-Slx4 complex
+GO:0016581	1	GO:0033557	Slx1-Slx4 complex
+GO:0018995	2	GO:0033644	host cell membrane
+GO:0030430	2	GO:0033644	host cell membrane
+GO:0005782	1	GO:0033557	Slx1-Slx4 complex
+GO:0033644	2	GO:0033644	host cell membrane
+GO:0005664	1	GO:0033557	Slx1-Slx4 complex
+GO:0031463	3	GO:1990391	DNA repair complex
+GO:0030998	1	GO:0033557	Slx1-Slx4 complex
+GO:1990391	3	GO:1990391	DNA repair complex
+GO:0033150	4	GO:0033150	cytoskeletal calyx
+GO:0000783	1	GO:0033557	Slx1-Slx4 complex
+GO:0090545	1	GO:0033557	Slx1-Slx4 complex
+GO:0043657	2	GO:0033644	host cell membrane
+GO:0031428	3	GO:1990391	DNA repair complex
+GO:0044175	2	GO:0033644	host cell membrane
+GO:0044177	2	GO:0033644	host cell membrane
+GO:0044178	2	GO:0033644	host cell membrane
+GO:0016442	3	GO:1990391	DNA repair complex
+GO:0005863	4	GO:0033150	cytoskeletal calyx
+GO:0030141	4	GO:0033150	cytoskeletal calyx
+GO:0001726	4	GO:0033150	cytoskeletal calyx
+GO:0030870	1	GO:0033557	Slx1-Slx4 complex
+GO:0033011	4	GO:0033150	cytoskeletal calyx
+GO:0001669	4	GO:0033150	cytoskeletal calyx
+GO:0030874	1	GO:0033557	Slx1-Slx4 complex
+GO:0030875	1	GO:0033557	Slx1-Slx4 complex
+GO:0000943	1	GO:0033557	Slx1-Slx4 complex
+GO:0020002	2	GO:0033644	host cell membrane
+GO:0000138	4	GO:0033150	cytoskeletal calyx
+GO:0080008	3	GO:1990391	DNA repair complex
+GO:0016605	1	GO:0033557	Slx1-Slx4 complex
+GO:0031143	4	GO:0033150	cytoskeletal calyx
+GO:0033557	1	GO:0033557	Slx1-Slx4 complex
+GO:0001891	4	GO:0033150	cytoskeletal calyx
+GO:0019028	3	GO:1990391	DNA repair complex
+GO:0055036	3	GO:1990391	DNA repair complex
+GO:0019031	3	GO:1990391	DNA repair complex
+GO:0019033	3	GO:1990391	DNA repair complex
+GO:0097546	4	GO:0033150	cytoskeletal calyx
+GO:0044200	2	GO:0033644	host cell membrane
+GO:0044201	2	GO:0033644	host cell membrane
+GO:0000346	1	GO:0033557	Slx1-Slx4 complex
+GO:0000347	1	GO:0033557	Slx1-Slx4 complex
+GO:0042025	2	GO:0033644	host cell membrane
+GO:0032580	4	GO:0033150	cytoskeletal calyx
+GO:0005576	4	GO:0033150	cytoskeletal calyx
+GO:0031261	1	GO:0033557	Slx1-Slx4 complex
+GO:0031265	3	GO:1990391	DNA repair complex

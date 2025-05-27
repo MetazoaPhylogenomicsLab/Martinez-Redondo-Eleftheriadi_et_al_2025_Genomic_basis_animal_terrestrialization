@@ -1,0 +1,44 @@
+GO:0061135	2	GO:0004866	endopeptidase inhibitor activity
+GO:0003730	5	GO:0030246	carbohydrate binding
+GO:0015232	4	GO:0090729	toxin activity
+GO:0030414	2	GO:0004866	endopeptidase inhibitor activity
+GO:0140034	6	GO:0005102	signaling receptor binding
+GO:0035064	6	GO:0005102	signaling receptor binding
+GO:0090729	4	GO:0090729	toxin activity
+GO:0030291	1	GO:0019212	phosphatase inhibitor activity
+GO:0005213	4	GO:0090729	toxin activity
+GO:0003968	4	GO:0090729	toxin activity
+GO:0048018	3	GO:0048018	receptor ligand activity
+GO:0019212	1	GO:0019212	phosphatase inhibitor activity
+GO:0030345	4	GO:0090729	toxin activity
+GO:0043236	6	GO:0005102	signaling receptor binding
+GO:0043237	6	GO:0005102	signaling receptor binding
+GO:0000900	5	GO:0030246	carbohydrate binding
+GO:0016936	5	GO:0030246	carbohydrate binding
+GO:0019208	1	GO:0019212	phosphatase inhibitor activity
+GO:0004864	1	GO:0019212	phosphatase inhibitor activity
+GO:0004865	1	GO:0019212	phosphatase inhibitor activity
+GO:0004866	2	GO:0004866	endopeptidase inhibitor activity
+GO:0043130	6	GO:0005102	signaling receptor binding
+GO:0004869	2	GO:0004866	endopeptidase inhibitor activity
+GO:0019864	5	GO:0030246	carbohydrate binding
+GO:0019865	5	GO:0030246	carbohydrate binding
+GO:0005539	5	GO:0030246	carbohydrate binding
+GO:0030246	5	GO:0030246	carbohydrate binding
+GO:0004857	1	GO:0019212	phosphatase inhibitor activity
+GO:0001653	4	GO:0090729	toxin activity
+GO:0005102	6	GO:0005102	signaling receptor binding
+GO:0004930	4	GO:0090729	toxin activity
+GO:0019888	1	GO:0019212	phosphatase inhibitor activity
+GO:0042834	5	GO:0030246	carbohydrate binding
+GO:0008093	4	GO:0090729	toxin activity
+GO:0051381	5	GO:0030246	carbohydrate binding
+GO:0019826	5	GO:0030246	carbohydrate binding
+GO:0042802	6	GO:0005102	signaling receptor binding
+GO:0004383	4	GO:0090729	toxin activity
+GO:0030545	3	GO:0048018	receptor ligand activity
+GO:0030546	3	GO:0048018	receptor ligand activity
+GO:0008528	4	GO:0090729	toxin activity
+GO:0001968	6	GO:0005102	signaling receptor binding
+GO:0008083	3	GO:0048018	receptor ligand activity
+GO:0061134	2	GO:0004866	endopeptidase inhibitor activity

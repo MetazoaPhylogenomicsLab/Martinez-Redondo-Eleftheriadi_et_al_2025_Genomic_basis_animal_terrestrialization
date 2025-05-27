@@ -1,0 +1,182 @@
+GO:0048185	2	GO:0019865	immunoglobulin binding
+GO:0009374	5	GO:0003677	DNA binding
+GO:0005024	6	GO:0004888	transmembrane signaling receptor activity
+GO:0035804	10	GO:0003700	DNA-binding transcription factor activity
+GO:0038024	11	GO:0038024	cargo receptor activity
+GO:0017002	6	GO:0004888	transmembrane signaling receptor activity
+GO:0033764	8	GO:0061659	ubiquitin-like protein ligase activity
+GO:0019198	6	GO:0004888	transmembrane signaling receptor activity
+GO:0032190	4	GO:0005515	protein binding
+GO:0005044	11	GO:0038024	cargo receptor activity
+GO:0008179	4	GO:0005515	protein binding
+GO:0004861	9	GO:0060589	nucleoside-triphosphatase regulator activity
+GO:0030291	9	GO:0060589	nucleoside-triphosphatase regulator activity
+GO:0039660	10	GO:0003700	DNA-binding transcription factor activity
+GO:0030021	10	GO:0003700	DNA-binding transcription factor activity
+GO:0005001	6	GO:0004888	transmembrane signaling receptor activity
+GO:0050661	5	GO:0003677	DNA binding
+GO:0045569	4	GO:0005515	protein binding
+GO:0000981	10	GO:0003700	DNA-binding transcription factor activity
+GO:0034191	3	GO:0005126	cytokine receptor binding
+GO:0048306	4	GO:0005515	protein binding
+GO:0070034	5	GO:0003677	DNA binding
+GO:0000977	5	GO:0003677	DNA binding
+GO:0000978	5	GO:0003677	DNA binding
+GO:0140359	7	GO:0034040	ATPase-coupled lipid transmembrane transporter activity
+GO:0001227	10	GO:0003700	DNA-binding transcription factor activity
+GO:0001217	10	GO:0003700	DNA-binding transcription factor activity
+GO:0003785	1	GO:0050431	transforming growth factor beta binding
+GO:0140326	7	GO:0034040	ATPase-coupled lipid transmembrane transporter activity
+GO:0042169	4	GO:0005515	protein binding
+GO:0015144	7	GO:0034040	ATPase-coupled lipid transmembrane transporter activity
+GO:0015145	7	GO:0034040	ATPase-coupled lipid transmembrane transporter activity
+GO:0015149	7	GO:0034040	ATPase-coupled lipid transmembrane transporter activity
+GO:0097677	1	GO:0050431	transforming growth factor beta binding
+GO:0017046	1	GO:0050431	transforming growth factor beta binding
+GO:0048018	3	GO:0005126	cytokine receptor binding
+GO:0140030	4	GO:0005515	protein binding
+GO:0019865	2	GO:0019865	immunoglobulin binding
+GO:0051119	7	GO:0034040	ATPase-coupled lipid transmembrane transporter activity
+GO:0001228	10	GO:0003700	DNA-binding transcription factor activity
+GO:0005125	3	GO:0005126	cytokine receptor binding
+GO:0051787	4	GO:0005515	protein binding
+GO:0019911	10	GO:0003700	DNA-binding transcription factor activity
+GO:0017075	1	GO:0050431	transforming growth factor beta binding
+GO:0003700	10	GO:0003700	DNA-binding transcription factor activity
+GO:0017025	1	GO:0050431	transforming growth factor beta binding
+GO:0045503	4	GO:0005515	protein binding
+GO:0045504	4	GO:0005515	protein binding
+GO:0003677	5	GO:0003677	DNA binding
+GO:0005488	4	GO:0005515	protein binding
+GO:0043236	4	GO:0005515	protein binding
+GO:0035198	5	GO:0003677	DNA binding
+GO:0031369	4	GO:0005515	protein binding
+GO:0050431	1	GO:0050431	transforming growth factor beta binding
+GO:0004709	8	GO:0061659	ubiquitin-like protein ligase activity
+GO:0008092	4	GO:0005515	protein binding
+GO:0000995	11	GO:0038024	cargo receptor activity
+GO:0000774	9	GO:0060589	nucleoside-triphosphatase regulator activity
+GO:0010385	5	GO:0003677	DNA binding
+GO:0090729	11	GO:0038024	cargo receptor activity
+GO:0008083	3	GO:0005126	cytokine receptor binding
+GO:0045735	11	GO:0038024	cargo receptor activity
+GO:0042030	9	GO:0060589	nucleoside-triphosphatase regulator activity
+GO:0042802	4	GO:0005515	protein binding
+GO:0034987	3	GO:0005126	cytokine receptor binding
+GO:0035375	4	GO:0005515	protein binding
+GO:0005515	4	GO:0005515	protein binding
+GO:0031849	3	GO:0005126	cytokine receptor binding
+GO:0070696	3	GO:0005126	cytokine receptor binding
+GO:0097108	4	GO:0005515	protein binding
+GO:0005102	4	GO:0005515	protein binding
+GO:0030020	10	GO:0003700	DNA-binding transcription factor activity
+GO:0015125	7	GO:0034040	ATPase-coupled lipid transmembrane transporter activity
+GO:0008097	5	GO:0003677	DNA binding
+GO:0051373	4	GO:0005515	protein binding
+GO:0060590	9	GO:0060589	nucleoside-triphosphatase regulator activity
+GO:0005126	3	GO:0005126	cytokine receptor binding
+GO:0004860	9	GO:0060589	nucleoside-triphosphatase regulator activity
+GO:0019904	4	GO:0005515	protein binding
+GO:0042826	4	GO:0005515	protein binding
+GO:0044183	11	GO:0038024	cargo receptor activity
+GO:0050815	1	GO:0050431	transforming growth factor beta binding
+GO:1990446	2	GO:0019865	immunoglobulin binding
+GO:0030280	10	GO:0003700	DNA-binding transcription factor activity
+GO:0016614	8	GO:0061659	ubiquitin-like protein ligase activity
+GO:0004457	8	GO:0061659	ubiquitin-like protein ligase activity
+GO:0016616	8	GO:0061659	ubiquitin-like protein ligase activity
+GO:0045296	4	GO:0005515	protein binding
+GO:0044325	4	GO:0005515	protein binding
+GO:0051087	4	GO:0005515	protein binding
+GO:0005178	3	GO:0005126	cytokine receptor binding
+GO:0003730	5	GO:0003677	DNA binding
+GO:0000900	5	GO:0003677	DNA binding
+GO:0005201	10	GO:0003700	DNA-binding transcription factor activity
+GO:0002020	4	GO:0005515	protein binding
+GO:0005518	2	GO:0019865	immunoglobulin binding
+GO:0005109	3	GO:0005126	cytokine receptor binding
+GO:0043130	4	GO:0005515	protein binding
+GO:0032813	3	GO:0005126	cytokine receptor binding
+GO:0004675	6	GO:0004888	transmembrane signaling receptor activity
+GO:0051428	3	GO:0005126	cytokine receptor binding
+GO:0030881	4	GO:0005515	protein binding
+GO:0008289	4	GO:0005515	protein binding
+GO:0019864	2	GO:0019865	immunoglobulin binding
+GO:0005179	3	GO:0005126	cytokine receptor binding
+GO:0016500	6	GO:0004888	transmembrane signaling receptor activity
+GO:0070990	2	GO:0019865	immunoglobulin binding
+GO:0042626	7	GO:0034040	ATPase-coupled lipid transmembrane transporter activity
+GO:0034040	7	GO:0034040	ATPase-coupled lipid transmembrane transporter activity
+GO:0034190	3	GO:0005126	cytokine receptor binding
+GO:0061630	8	GO:0061659	ubiquitin-like protein ligase activity
+GO:0005139	3	GO:0005126	cytokine receptor binding
+GO:1990837	5	GO:0003677	DNA binding
+GO:0060589	9	GO:0060589	nucleoside-triphosphatase regulator activity
+GO:0000987	5	GO:0003677	DNA binding
+GO:0043565	5	GO:0003677	DNA binding
+GO:0001530	1	GO:0050431	transforming growth factor beta binding
+GO:0001067	5	GO:0003677	DNA binding
+GO:0000976	5	GO:0003677	DNA binding
+GO:0008093	10	GO:0003700	DNA-binding transcription factor activity
+GO:0061659	8	GO:0061659	ubiquitin-like protein ligase activity
+GO:0048156	4	GO:0005515	protein binding
+GO:0030695	9	GO:0060589	nucleoside-triphosphatase regulator activity
+GO:0022848	7	GO:0034040	ATPase-coupled lipid transmembrane transporter activity
+GO:0008574	7	GO:0034040	ATPase-coupled lipid transmembrane transporter activity
+GO:0043515	4	GO:0005515	protein binding
+GO:0046875	3	GO:0005126	cytokine receptor binding
+GO:0034237	4	GO:0005515	protein binding
+GO:0071837	4	GO:0005515	protein binding
+GO:0042800	8	GO:0061659	ubiquitin-like protein ligase activity
+GO:0023023	2	GO:0019865	immunoglobulin binding
+GO:0004992	6	GO:0004888	transmembrane signaling receptor activity
+GO:0071933	2	GO:0019865	immunoglobulin binding
+GO:0046975	8	GO:0061659	ubiquitin-like protein ligase activity
+GO:0120160	2	GO:0019865	immunoglobulin binding
+GO:0005164	3	GO:0005126	cytokine receptor binding
+GO:0008301	5	GO:0003677	DNA binding
+GO:0015232	7	GO:0034040	ATPase-coupled lipid transmembrane transporter activity
+GO:0097110	4	GO:0005515	protein binding
+GO:0051018	4	GO:0005515	protein binding
+GO:0017080	9	GO:0060589	nucleoside-triphosphatase regulator activity
+GO:0004252	8	GO:0061659	ubiquitin-like protein ligase activity
+GO:0004715	8	GO:0061659	ubiquitin-like protein ligase activity
+GO:0004867	9	GO:0060589	nucleoside-triphosphatase regulator activity
+GO:0030297	9	GO:0060589	nucleoside-triphosphatase regulator activity
+GO:0042803	1	GO:0050431	transforming growth factor beta binding
+GO:0050811	3	GO:0005126	cytokine receptor binding
+GO:0097027	9	GO:0060589	nucleoside-triphosphatase regulator activity
+GO:0030545	9	GO:0060589	nucleoside-triphosphatase regulator activity
+GO:0030546	9	GO:0060589	nucleoside-triphosphatase regulator activity
+GO:0035014	9	GO:0060589	nucleoside-triphosphatase regulator activity
+GO:0016502	6	GO:0004888	transmembrane signaling receptor activity
+GO:0060089	11	GO:0038024	cargo receptor activity
+GO:0038023	6	GO:0004888	transmembrane signaling receptor activity
+GO:0097200	8	GO:0061659	ubiquitin-like protein ligase activity
+GO:0046935	9	GO:0060589	nucleoside-triphosphatase regulator activity
+GO:0031768	3	GO:0005126	cytokine receptor binding
+GO:0005199	10	GO:0003700	DNA-binding transcription factor activity
+GO:0043621	4	GO:0005515	protein binding
+GO:0003682	4	GO:0005515	protein binding
+GO:0016608	3	GO:0005126	cytokine receptor binding
+GO:0097153	8	GO:0061659	ubiquitin-like protein ligase activity
+GO:0015026	6	GO:0004888	transmembrane signaling receptor activity
+GO:0004888	6	GO:0004888	transmembrane signaling receptor activity
+GO:0043199	1	GO:0050431	transforming growth factor beta binding
+GO:0001614	6	GO:0004888	transmembrane signaling receptor activity
+GO:0045028	6	GO:0004888	transmembrane signaling receptor activity
+GO:0003823	4	GO:0005515	protein binding
+GO:0003968	8	GO:0061659	ubiquitin-like protein ligase activity
+GO:0005319	11	GO:0038024	cargo receptor activity
+GO:0005068	1	GO:0050431	transforming growth factor beta binding
+GO:0042605	1	GO:0050431	transforming growth factor beta binding
+GO:0050291	8	GO:0061659	ubiquitin-like protein ligase activity
+GO:0004713	8	GO:0061659	ubiquitin-like protein ligase activity
+GO:0140272	4	GO:0005515	protein binding
+GO:0001618	1	GO:0050431	transforming growth factor beta binding
+GO:0042166	1	GO:0050431	transforming growth factor beta binding
+GO:0050997	4	GO:0005515	protein binding
+GO:0015464	6	GO:0004888	transmembrane signaling receptor activity
+GO:0003697	5	GO:0003677	DNA binding
+GO:0001216	10	GO:0003700	DNA-binding transcription factor activity
+GO:0005165	3	GO:0005126	cytokine receptor binding

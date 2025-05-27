@@ -1,0 +1,543 @@
+GO:0030466	8	GO:2001141	regulation of RNA biosynthetic process
+GO:1902679	8	GO:2001141	regulation of RNA biosynthetic process
+GO:0014016	4	GO:0022008	neurogenesis
+GO:0001961	6	GO:0007166	cell surface receptor signaling pathway
+GO:0046601	10	GO:0032955	regulation of division septum assembly
+GO:0046605	10	GO:0032955	regulation of division septum assembly
+GO:0034080	9	GO:0007099	centriole replication
+GO:0034086	9	GO:0007099	centriole replication
+GO:0035694	7	GO:0050730	regulation of peptidyl-tyrosine phosphorylation
+GO:0015671	15	GO:0034220	ion transmembrane transport
+GO:2001236	6	GO:0007166	cell surface receptor signaling pathway
+GO:2001237	6	GO:0007166	cell surface receptor signaling pathway
+GO:2001238	6	GO:0007166	cell surface receptor signaling pathway
+GO:0030431	17	GO:0030431	sleep
+GO:0044057	18	GO:0051239	regulation of multicellular organismal process
+GO:0044089	10	GO:0032955	regulation of division septum assembly
+GO:0044070	15	GO:0034220	ion transmembrane transport
+GO:0019221	6	GO:0007166	cell surface receptor signaling pathway
+GO:0001934	7	GO:0050730	regulation of peptidyl-tyrosine phosphorylation
+GO:0019226	17	GO:0030431	sleep
+GO:0090305	8	GO:2001141	regulation of RNA biosynthetic process
+GO:0090308	8	GO:2001141	regulation of RNA biosynthetic process
+GO:0090309	8	GO:2001141	regulation of RNA biosynthetic process
+GO:0045664	5	GO:0045664	regulation of neuron differentiation
+GO:0045666	5	GO:0045664	regulation of neuron differentiation
+GO:0045667	5	GO:0045664	regulation of neuron differentiation
+GO:0045669	5	GO:0045664	regulation of neuron differentiation
+GO:1904951	11	GO:0051302	regulation of cell division
+GO:0010172	2	GO:0007389	pattern specification process
+GO:1900016	16	GO:0001819	positive regulation of cytokine production
+GO:0045670	5	GO:0045664	regulation of neuron differentiation
+GO:0045672	5	GO:0045664	regulation of neuron differentiation
+GO:0099177	6	GO:0007166	cell surface receptor signaling pathway
+GO:0030154	4	GO:0022008	neurogenesis
+GO:0030182	4	GO:0022008	neurogenesis
+GO:1905269	10	GO:0032955	regulation of division septum assembly
+GO:0023056	11	GO:0051302	regulation of cell division
+GO:0051973	8	GO:2001141	regulation of RNA biosynthetic process
+GO:0061966	2	GO:0007389	pattern specification process
+GO:0061988	3	GO:0007281	germ cell development
+GO:0051931	18	GO:0051239	regulation of multicellular organismal process
+GO:0019724	13	GO:0006959	humoral immune response
+GO:0000165	6	GO:0007166	cell surface receptor signaling pathway
+GO:0033005	11	GO:0051302	regulation of cell division
+GO:0070493	6	GO:0007166	cell surface receptor signaling pathway
+GO:0030282	1	GO:0031214	biomineral tissue development
+GO:0032094	13	GO:0006959	humoral immune response
+GO:1905758	10	GO:0032955	regulation of division septum assembly
+GO:0090175	1	GO:0031214	biomineral tissue development
+GO:0060411	1	GO:0031214	biomineral tissue development
+GO:0060412	1	GO:0031214	biomineral tissue development
+GO:0039702	12	GO:0051702	biological process involved in interaction with symbiont
+GO:0016925	7	GO:0050730	regulation of peptidyl-tyrosine phosphorylation
+GO:0039707	12	GO:0051702	biological process involved in interaction with symbiont
+GO:0003012	17	GO:0030431	sleep
+GO:0003014	17	GO:0030431	sleep
+GO:0009798	2	GO:0007389	pattern specification process
+GO:0009799	2	GO:0007389	pattern specification process
+GO:0010760	13	GO:0006959	humoral immune response
+GO:0010764	11	GO:0051302	regulation of cell division
+GO:0022008	4	GO:0022008	neurogenesis
+GO:0003002	2	GO:0007389	pattern specification process
+GO:0003009	17	GO:0030431	sleep
+GO:0000266	9	GO:0007099	centriole replication
+GO:0070192	9	GO:0007099	centriole replication
+GO:0034391	11	GO:0051302	regulation of cell division
+GO:0009746	13	GO:0006959	humoral immune response
+GO:0009749	13	GO:0006959	humoral immune response
+GO:0090257	18	GO:0051239	regulation of multicellular organismal process
+GO:0030720	3	GO:0007281	germ cell development
+GO:0030717	3	GO:0007281	germ cell development
+GO:0060142	5	GO:0045664	regulation of neuron differentiation
+GO:0002088	1	GO:0031214	biomineral tissue development
+GO:0006963	13	GO:0006959	humoral immune response
+GO:0070121	2	GO:0007389	pattern specification process
+GO:0002076	4	GO:0022008	neurogenesis
+GO:0006953	13	GO:0006959	humoral immune response
+GO:0006954	13	GO:0006959	humoral immune response
+GO:0006956	13	GO:0006959	humoral immune response
+GO:0006958	13	GO:0006959	humoral immune response
+GO:0006959	13	GO:0006959	humoral immune response
+GO:0002028	15	GO:0034220	ion transmembrane transport
+GO:0120197	15	GO:0034220	ion transmembrane transport
+GO:0030703	3	GO:0007281	germ cell development
+GO:0031029	6	GO:0007166	cell surface receptor signaling pathway
+GO:0006919	7	GO:0050730	regulation of peptidyl-tyrosine phosphorylation
+GO:0009855	2	GO:0007389	pattern specification process
+GO:0039563	11	GO:0051302	regulation of cell division
+GO:0039564	11	GO:0051302	regulation of cell division
+GO:0060294	15	GO:0034220	ion transmembrane transport
+GO:0031030	10	GO:0032955	regulation of division septum assembly
+GO:0044331	15	GO:0034220	ion transmembrane transport
+GO:0039554	13	GO:0006959	humoral immune response
+GO:0006935	13	GO:0006959	humoral immune response
+GO:0006937	18	GO:0051239	regulation of multicellular organismal process
+GO:2000027	1	GO:0031214	biomineral tissue development
+GO:0010824	10	GO:0032955	regulation of division septum assembly
+GO:0039573	13	GO:0006959	humoral immune response
+GO:0010842	1	GO:0031214	biomineral tissue development
+GO:0045910	8	GO:2001141	regulation of RNA biosynthetic process
+GO:0030856	5	GO:0045664	regulation of neuron differentiation
+GO:0030859	4	GO:0022008	neurogenesis
+GO:0045944	8	GO:2001141	regulation of RNA biosynthetic process
+GO:0060285	15	GO:0034220	ion transmembrane transport
+GO:0060287	17	GO:0030431	sleep
+GO:0060271	9	GO:0007099	centriole replication
+GO:0039537	13	GO:0006959	humoral immune response
+GO:0070286	9	GO:0007099	centriole replication
+GO:0039502	13	GO:0006959	humoral immune response
+GO:1905515	9	GO:0007099	centriole replication
+GO:0044458	9	GO:0007099	centriole replication
+GO:0038083	7	GO:0050730	regulation of peptidyl-tyrosine phosphorylation
+GO:0039692	12	GO:0051702	biological process involved in interaction with symbiont
+GO:0039695	12	GO:0051702	biological process involved in interaction with symbiont
+GO:0120261	10	GO:0032955	regulation of division septum assembly
+GO:0072078	1	GO:0031214	biomineral tissue development
+GO:0120263	10	GO:0032955	regulation of division septum assembly
+GO:0043327	13	GO:0006959	humoral immune response
+GO:1900424	13	GO:0006959	humoral immune response
+GO:1900425	13	GO:0006959	humoral immune response
+GO:0010520	8	GO:2001141	regulation of RNA biosynthetic process
+GO:0039686	12	GO:0051702	biological process involved in interaction with symbiont
+GO:0010526	11	GO:0051302	regulation of cell division
+GO:0039689	12	GO:0051702	biological process involved in interaction with symbiont
+GO:0039671	12	GO:0051702	biological process involved in interaction with symbiont
+GO:0051094	5	GO:0045664	regulation of neuron differentiation
+GO:0044406	12	GO:0051702	biological process involved in interaction with symbiont
+GO:0050727	13	GO:0006959	humoral immune response
+GO:0050728	13	GO:0006959	humoral immune response
+GO:0050729	13	GO:0006959	humoral immune response
+GO:0050714	15	GO:0034220	ion transmembrane transport
+GO:0060788	1	GO:0031214	biomineral tissue development
+GO:0039644	8	GO:2001141	regulation of RNA biosynthetic process
+GO:0039645	11	GO:0051302	regulation of cell division
+GO:0050730	7	GO:0050730	regulation of peptidyl-tyrosine phosphorylation
+GO:0050731	7	GO:0050730	regulation of peptidyl-tyrosine phosphorylation
+GO:0003352	11	GO:0051302	regulation of cell division
+GO:0003356	11	GO:0051302	regulation of cell division
+GO:0030510	6	GO:0007166	cell surface receptor signaling pathway
+GO:0030511	6	GO:0007166	cell surface receptor signaling pathway
+GO:0008063	6	GO:0007166	cell surface receptor signaling pathway
+GO:0061060	6	GO:0007166	cell surface receptor signaling pathway
+GO:0061057	6	GO:0007166	cell surface receptor signaling pathway
+GO:0061058	6	GO:0007166	cell surface receptor signaling pathway
+GO:0050708	15	GO:0034220	ion transmembrane transport
+GO:0003341	15	GO:0034220	ion transmembrane transport
+GO:1900150	13	GO:0006959	humoral immune response
+GO:0050893	17	GO:0030431	sleep
+GO:0003334	4	GO:0022008	neurogenesis
+GO:0030509	6	GO:0007166	cell surface receptor signaling pathway
+GO:0008015	17	GO:0030431	sleep
+GO:0008045	4	GO:0022008	neurogenesis
+GO:0061041	13	GO:0006959	humoral immune response
+GO:0032330	5	GO:0045664	regulation of neuron differentiation
+GO:0017009	7	GO:0050730	regulation of peptidyl-tyrosine phosphorylation
+GO:0008039	4	GO:0022008	neurogenesis
+GO:0050867	11	GO:0051302	regulation of cell division
+GO:0042311	17	GO:0030431	sleep
+GO:0034109	15	GO:0034220	ion transmembrane transport
+GO:0042339	7	GO:0050730	regulation of peptidyl-tyrosine phosphorylation
+GO:0061005	4	GO:0022008	neurogenesis
+GO:0010647	6	GO:0007166	cell surface receptor signaling pathway
+GO:0010632	11	GO:0051302	regulation of cell division
+GO:0043408	6	GO:0007166	cell surface receptor signaling pathway
+GO:0000578	2	GO:0007389	pattern specification process
+GO:0042307	15	GO:0034220	ion transmembrane transport
+GO:0016064	13	GO:0006959	humoral immune response
+GO:0007098	9	GO:0007099	centriole replication
+GO:0007099	9	GO:0007099	centriole replication
+GO:1903034	13	GO:0006959	humoral immune response
+GO:0070884	6	GO:0007166	cell surface receptor signaling pathway
+GO:0032466	10	GO:0032955	regulation of division septum assembly
+GO:0032467	10	GO:0032955	regulation of division septum assembly
+GO:0034284	13	GO:0006959	humoral immune response
+GO:0070828	9	GO:0007099	centriole replication
+GO:0050804	6	GO:0007166	cell surface receptor signaling pathway
+GO:0034220	15	GO:0034220	ion transmembrane transport
+GO:1903006	7	GO:0050730	regulation of peptidyl-tyrosine phosphorylation
+GO:0042462	4	GO:0022008	neurogenesis
+GO:0031382	3	GO:0007281	germ cell development
+GO:0002312	13	GO:0006959	humoral immune response
+GO:0034219	15	GO:0034220	ion transmembrane transport
+GO:0043122	6	GO:0007166	cell surface receptor signaling pathway
+GO:0043123	6	GO:0007166	cell surface receptor signaling pathway
+GO:0042475	1	GO:0031214	biomineral tissue development
+GO:0007043	9	GO:0007099	centriole replication
+GO:0031346	10	GO:0032955	regulation of division septum assembly
+GO:0003407	1	GO:0031214	biomineral tissue development
+GO:0031334	10	GO:0032955	regulation of division septum assembly
+GO:2000378	11	GO:0051302	regulation of cell division
+GO:0007004	8	GO:2001141	regulation of RNA biosynthetic process
+GO:0097037	15	GO:0034220	ion transmembrane transport
+GO:0090660	17	GO:0030431	sleep
+GO:0044793	12	GO:0051702	biological process involved in interaction with symbiont
+GO:0034765	11	GO:0051302	regulation of cell division
+GO:1902042	6	GO:0007166	cell surface receptor signaling pathway
+GO:0002455	13	GO:0006959	humoral immune response
+GO:0070570	5	GO:0045664	regulation of neuron differentiation
+GO:0070572	5	GO:0045664	regulation of neuron differentiation
+GO:0031453	8	GO:2001141	regulation of RNA biosynthetic process
+GO:0043269	15	GO:0034220	ion transmembrane transport
+GO:0044782	9	GO:0007099	centriole replication
+GO:0044788	12	GO:0051702	biological process involved in interaction with symbiont
+GO:0043280	7	GO:0050730	regulation of peptidyl-tyrosine phosphorylation
+GO:0045091	12	GO:0051702	biological process involved in interaction with symbiont
+GO:0002449	13	GO:0006959	humoral immune response
+GO:0035050	1	GO:0031214	biomineral tissue development
+GO:0035082	9	GO:0007099	centriole replication
+GO:2000480	7	GO:0050730	regulation of peptidyl-tyrosine phosphorylation
+GO:0031445	8	GO:2001141	regulation of RNA biosynthetic process
+GO:0035075	13	GO:0006959	humoral immune response
+GO:0042113	15	GO:0034220	ion transmembrane transport
+GO:0042116	15	GO:0034220	ion transmembrane transport
+GO:1904355	8	GO:2001141	regulation of RNA biosynthetic process
+GO:1904358	8	GO:2001141	regulation of RNA biosynthetic process
+GO:0014866	9	GO:0007099	centriole replication
+GO:0033209	6	GO:0007166	cell surface receptor signaling pathway
+GO:0045087	13	GO:0006959	humoral immune response
+GO:0032103	13	GO:0006959	humoral immune response
+GO:0045071	12	GO:0051702	biological process involved in interaction with symbiont
+GO:0042138	8	GO:2001141	regulation of RNA biosynthetic process
+GO:0035036	3	GO:0007281	germ cell development
+GO:0070661	15	GO:0034220	ion transmembrane transport
+GO:0060675	1	GO:0031214	biomineral tissue development
+GO:0002164	2	GO:0007389	pattern specification process
+GO:0035006	13	GO:0006959	humoral immune response
+GO:0048308	9	GO:0007099	centriole replication
+GO:1901016	15	GO:0034220	ion transmembrane transport
+GO:0140527	8	GO:2001141	regulation of RNA biosynthetic process
+GO:1901048	11	GO:0051302	regulation of cell division
+GO:0031152	13	GO:0006959	humoral immune response
+GO:1905941	5	GO:0045664	regulation of neuron differentiation
+GO:0032273	10	GO:0032955	regulation of division septum assembly
+GO:0002115	15	GO:0034220	ion transmembrane transport
+GO:0002119	2	GO:0007389	pattern specification process
+GO:1905939	5	GO:0045664	regulation of neuron differentiation
+GO:0032210	8	GO:2001141	regulation of RNA biosynthetic process
+GO:0031122	9	GO:0007099	centriole replication
+GO:0032212	8	GO:2001141	regulation of RNA biosynthetic process
+GO:0009967	6	GO:0007166	cell surface receptor signaling pathway
+GO:0010951	7	GO:0050730	regulation of peptidyl-tyrosine phosphorylation
+GO:0031113	10	GO:0032955	regulation of division septum assembly
+GO:0008344	17	GO:0030431	sleep
+GO:0008345	17	GO:0030431	sleep
+GO:0009952	2	GO:0007389	pattern specification process
+GO:0071326	13	GO:0006959	humoral immune response
+GO:0051302	11	GO:0051302	regulation of cell division
+GO:0048477	3	GO:0007281	germ cell development
+GO:0010974	10	GO:0032955	regulation of division septum assembly
+GO:0010975	5	GO:0045664	regulation of neuron differentiation
+GO:0010976	5	GO:0045664	regulation of neuron differentiation
+GO:0010921	7	GO:0050730	regulation of peptidyl-tyrosine phosphorylation
+GO:0010923	7	GO:0050730	regulation of peptidyl-tyrosine phosphorylation
+GO:0071331	13	GO:0006959	humoral immune response
+GO:0051495	10	GO:0032955	regulation of division septum assembly
+GO:0031103	4	GO:0022008	neurogenesis
+GO:0002292	4	GO:0022008	neurogenesis
+GO:0002293	4	GO:0022008	neurogenesis
+GO:0002294	4	GO:0022008	neurogenesis
+GO:0009948	2	GO:0007389	pattern specification process
+GO:0031297	8	GO:2001141	regulation of RNA biosynthetic process
+GO:0007398	1	GO:0031214	biomineral tissue development
+GO:0002269	13	GO:0006959	humoral immune response
+GO:0032760	16	GO:0001819	positive regulation of cytokine production
+GO:0034587	8	GO:2001141	regulation of RNA biosynthetic process
+GO:0002285	13	GO:0006959	humoral immune response
+GO:0002287	13	GO:0006959	humoral immune response
+GO:0032755	16	GO:0001819	positive regulation of cytokine production
+GO:0007367	2	GO:0007389	pattern specification process
+GO:0031269	9	GO:0007099	centriole replication
+GO:0007368	2	GO:0007389	pattern specification process
+GO:0007369	2	GO:0007389	pattern specification process
+GO:0007350	2	GO:0007389	pattern specification process
+GO:0007351	2	GO:0007389	pattern specification process
+GO:0072163	1	GO:0031214	biomineral tissue development
+GO:0002225	13	GO:0006959	humoral immune response
+GO:0072164	1	GO:0031214	biomineral tissue development
+GO:0007389	2	GO:0007389	pattern specification process
+GO:0031272	10	GO:0032955	regulation of division septum assembly
+GO:0032722	16	GO:0001819	positive regulation of cytokine production
+GO:0031274	10	GO:0032955	regulation of division septum assembly
+GO:1903490	10	GO:0032955	regulation of division septum assembly
+GO:0016339	15	GO:0034220	ion transmembrane transport
+GO:0002230	13	GO:0006959	humoral immune response
+GO:0072171	1	GO:0031214	biomineral tissue development
+GO:0031214	1	GO:0031214	biomineral tissue development
+GO:0062149	17	GO:0030431	sleep
+GO:0007317	3	GO:0007281	germ cell development
+GO:0018108	7	GO:0050730	regulation of peptidyl-tyrosine phosphorylation
+GO:0007340	3	GO:0007281	germ cell development
+GO:0007343	3	GO:0007281	germ cell development
+GO:0042749	18	GO:0051239	regulation of multicellular organismal process
+GO:0042730	13	GO:0006959	humoral immune response
+GO:2000243	11	GO:0051302	regulation of cell division
+GO:0007304	3	GO:0007281	germ cell development
+GO:1903475	9	GO:0007099	centriole replication
+GO:0055008	1	GO:0031214	biomineral tissue development
+GO:0048132	3	GO:0007281	germ cell development
+GO:0065001	2	GO:0007389	pattern specification process
+GO:0002761	5	GO:0045664	regulation of neuron differentiation
+GO:0033563	4	GO:0022008	neurogenesis
+GO:0033564	4	GO:0022008	neurogenesis
+GO:1903436	10	GO:0032955	regulation of division septum assembly
+GO:1903438	10	GO:0032955	regulation of division septum assembly
+GO:0007455	1	GO:0031214	biomineral tissue development
+GO:0044658	12	GO:0051702	biological process involved in interaction with symbiont
+GO:0006355	8	GO:2001141	regulation of RNA biosynthetic process
+GO:0006357	8	GO:2001141	regulation of RNA biosynthetic process
+GO:0036462	6	GO:0007166	cell surface receptor signaling pathway
+GO:0007472	1	GO:0031214	biomineral tissue development
+GO:0007476	1	GO:0031214	biomineral tissue development
+GO:0007411	4	GO:0022008	neurogenesis
+GO:0007417	2	GO:0007389	pattern specification process
+GO:0036473	13	GO:0006959	humoral immune response
+GO:0048285	9	GO:0007099	centriole replication
+GO:0006313	8	GO:2001141	regulation of RNA biosynthetic process
+GO:0007444	1	GO:0031214	biomineral tissue development
+GO:0007447	1	GO:0031214	biomineral tissue development
+GO:0007431	1	GO:0031214	biomineral tissue development
+GO:0007435	1	GO:0031214	biomineral tissue development
+GO:0050951	17	GO:0030431	sleep
+GO:0050955	17	GO:0030431	sleep
+GO:0002708	13	GO:0006959	humoral immune response
+GO:0050982	13	GO:0006959	humoral immune response
+GO:1902459	18	GO:0051239	regulation of multicellular organismal process
+GO:0050976	17	GO:0030431	sleep
+GO:0051298	9	GO:0007099	centriole replication
+GO:0097435	9	GO:0007099	centriole replication
+GO:0033696	8	GO:2001141	regulation of RNA biosynthetic process
+GO:1902410	10	GO:0032955	regulation of division septum assembly
+GO:1902412	10	GO:0032955	regulation of division septum assembly
+GO:0007193	6	GO:0007166	cell surface receptor signaling pathway
+GO:0035303	7	GO:0050730	regulation of peptidyl-tyrosine phosphorylation
+GO:0070986	2	GO:0007389	pattern specification process
+GO:0097191	6	GO:0007166	cell surface receptor signaling pathway
+GO:0007166	6	GO:0007166	cell surface receptor signaling pathway
+GO:0007169	6	GO:0007166	cell surface receptor signaling pathway
+GO:0033688	11	GO:0051302	regulation of cell division
+GO:0008258	2	GO:0007389	pattern specification process
+GO:0051222	15	GO:0034220	ion transmembrane transport
+GO:0050907	17	GO:0030431	sleep
+GO:0050909	17	GO:0030431	sleep
+GO:0007156	15	GO:0034220	ion transmembrane transport
+GO:0033674	7	GO:0050730	regulation of peptidyl-tyrosine phosphorylation
+GO:0002822	13	GO:0006959	humoral immune response
+GO:0019068	12	GO:0051702	biological process involved in interaction with symbiont
+GO:0051216	1	GO:0031214	biomineral tissue development
+GO:0043652	15	GO:0034220	ion transmembrane transport
+GO:1902407	9	GO:0007099	centriole replication
+GO:0007186	6	GO:0007166	cell surface receptor signaling pathway
+GO:0007187	6	GO:0007166	cell surface receptor signaling pathway
+GO:0007189	6	GO:0007166	cell surface receptor signaling pathway
+GO:0051240	18	GO:0051239	regulation of multicellular organismal process
+GO:0019083	12	GO:0051702	biological process involved in interaction with symbiont
+GO:0036158	9	GO:0007099	centriole replication
+GO:0036159	9	GO:0007099	centriole replication
+GO:0051239	18	GO:0051239	regulation of multicellular organismal process
+GO:0019072	12	GO:0051702	biological process involved in interaction with symbiont
+GO:0019073	12	GO:0051702	biological process involved in interaction with symbiont
+GO:0007127	9	GO:0007099	centriole replication
+GO:0019076	12	GO:0051702	biological process involved in interaction with symbiont
+GO:0007129	9	GO:0007099	centriole replication
+GO:0008217	17	GO:0030431	sleep
+GO:0019079	12	GO:0051702	biological process involved in interaction with symbiont
+GO:0043622	9	GO:0007099	centriole replication
+GO:0045466	4	GO:0022008	neurogenesis
+GO:0007131	9	GO:0007099	centriole replication
+GO:0019046	12	GO:0051702	biological process involved in interaction with symbiont
+GO:0042531	7	GO:0050730	regulation of peptidyl-tyrosine phosphorylation
+GO:0045478	9	GO:0007099	centriole replication
+GO:0042509	7	GO:0050730	regulation of peptidyl-tyrosine phosphorylation
+GO:1904747	5	GO:0045664	regulation of neuron differentiation
+GO:1904748	5	GO:0045664	regulation of neuron differentiation
+GO:0007291	3	GO:0007281	germ cell development
+GO:0007292	3	GO:0007281	germ cell development
+GO:0048707	2	GO:0007389	pattern specification process
+GO:0051781	11	GO:0051302	regulation of cell division
+GO:0051782	11	GO:0051302	regulation of cell division
+GO:0032667	16	GO:0001819	positive regulation of cytokine production
+GO:0007260	7	GO:0050730	regulation of peptidyl-tyrosine phosphorylation
+GO:0032653	16	GO:0001819	positive regulation of cytokine production
+GO:0032656	16	GO:0001819	positive regulation of cytokine production
+GO:0002573	4	GO:0022008	neurogenesis
+GO:1903201	11	GO:0051302	regulation of cell division
+GO:0022612	1	GO:0031214	biomineral tissue development
+GO:0007259	6	GO:0007166	cell surface receptor signaling pathway
+GO:0002526	13	GO:0006959	humoral immune response
+GO:0042661	5	GO:0045664	regulation of neuron differentiation
+GO:0007281	3	GO:0007281	germ cell development
+GO:0007283	3	GO:0007281	germ cell development
+GO:0032674	16	GO:0001819	positive regulation of cytokine production
+GO:0007284	3	GO:0007281	germ cell development
+GO:0032675	16	GO:0001819	positive regulation of cytokine production
+GO:0007286	3	GO:0007281	germ cell development
+GO:0001823	1	GO:0031214	biomineral tissue development
+GO:0007288	3	GO:0007281	germ cell development
+GO:0007271	15	GO:0034220	ion transmembrane transport
+GO:1904892	6	GO:0007166	cell surface receptor signaling pathway
+GO:0021545	2	GO:0007389	pattern specification process
+GO:1904894	6	GO:0007166	cell surface receptor signaling pathway
+GO:0032627	16	GO:0001819	positive regulation of cytokine production
+GO:0001819	16	GO:0001819	positive regulation of cytokine production
+GO:0048869	4	GO:0022008	neurogenesis
+GO:0032613	16	GO:0001819	positive regulation of cytokine production
+GO:0007213	6	GO:0007166	cell surface receptor signaling pathway
+GO:0007215	6	GO:0007166	cell surface receptor signaling pathway
+GO:0071772	13	GO:0006959	humoral immune response
+GO:0007218	6	GO:0007166	cell surface receptor signaling pathway
+GO:0071773	13	GO:0006959	humoral immune response
+GO:0032635	16	GO:0001819	positive regulation of cytokine production
+GO:0098728	3	GO:0007281	germ cell development
+GO:0051702	12	GO:0051702	biological process involved in interaction with symbiont
+GO:0035120	2	GO:0007389	pattern specification process
+GO:0035114	2	GO:0007389	pattern specification process
+GO:0098730	3	GO:0007281	germ cell development
+GO:0099054	4	GO:0022008	neurogenesis
+GO:0048844	1	GO:0031214	biomineral tissue development
+GO:0007200	6	GO:0007166	cell surface receptor signaling pathway
+GO:0031507	8	GO:2001141	regulation of RNA biosynthetic process
+GO:0002696	11	GO:0051302	regulation of cell division
+GO:0002698	13	GO:0006959	humoral immune response
+GO:0009048	16	GO:0001819	positive regulation of cytokine production
+GO:0045143	9	GO:0007099	centriole replication
+GO:0045137	2	GO:0007389	pattern specification process
+GO:0051851	12	GO:0051702	biological process involved in interaction with symbiont
+GO:0045138	2	GO:0007389	pattern specification process
+GO:0002683	11	GO:0051302	regulation of cell division
+GO:0021675	2	GO:0007389	pattern specification process
+GO:0048593	1	GO:0031214	biomineral tissue development
+GO:0048598	2	GO:0007389	pattern specification process
+GO:0040024	2	GO:0007389	pattern specification process
+GO:0040025	1	GO:0031214	biomineral tissue development
+GO:0040029	16	GO:0001819	positive regulation of cytokine production
+GO:0040011	17	GO:0030431	sleep
+GO:0040013	11	GO:0051302	regulation of cell division
+GO:0040014	18	GO:0051239	regulation of multicellular organismal process
+GO:0040015	18	GO:0051239	regulation of multicellular organismal process
+GO:0040018	18	GO:0051239	regulation of multicellular organismal process
+GO:0035262	1	GO:0031214	biomineral tissue development
+GO:0035264	2	GO:0007389	pattern specification process
+GO:0048563	1	GO:0031214	biomineral tissue development
+GO:0048566	1	GO:0031214	biomineral tissue development
+GO:0048569	1	GO:0031214	biomineral tissue development
+GO:0006278	8	GO:2001141	regulation of RNA biosynthetic process
+GO:0040034	5	GO:0045664	regulation of neuron differentiation
+GO:0002639	16	GO:0001819	positive regulation of cytokine production
+GO:0061844	13	GO:0006959	humoral immune response
+GO:0031646	18	GO:0051239	regulation of multicellular organismal process
+GO:0040002	2	GO:0007389	pattern specification process
+GO:0048520	11	GO:0051302	regulation of cell division
+GO:0001501	2	GO:0007389	pattern specification process
+GO:0035212	5	GO:0045664	regulation of neuron differentiation
+GO:0035214	1	GO:0031214	biomineral tissue development
+GO:0106300	8	GO:2001141	regulation of RNA biosynthetic process
+GO:0090090	6	GO:0007166	cell surface receptor signaling pathway
+GO:0090092	6	GO:0007166	cell surface receptor signaling pathway
+GO:0035249	15	GO:0034220	ion transmembrane transport
+GO:0048546	1	GO:0031214	biomineral tissue development
+GO:0035235	6	GO:0007166	cell surface receptor signaling pathway
+GO:0046718	12	GO:0051702	biological process involved in interaction with symbiont
+GO:0048536	1	GO:0031214	biomineral tissue development
+GO:0090068	10	GO:0032955	regulation of division septum assembly
+GO:0008595	2	GO:0007389	pattern specification process
+GO:0071805	15	GO:0034220	ion transmembrane transport
+GO:1901224	6	GO:0007166	cell surface receptor signaling pathway
+GO:1902742	4	GO:0022008	neurogenesis
+GO:1901214	11	GO:0051302	regulation of cell division
+GO:0001657	1	GO:0031214	biomineral tissue development
+GO:0001658	1	GO:0031214	biomineral tissue development
+GO:0071599	1	GO:0031214	biomineral tissue development
+GO:0061572	9	GO:0007099	centriole replication
+GO:0015718	15	GO:0034220	ion transmembrane transport
+GO:0048662	11	GO:0051302	regulation of cell division
+GO:0015749	15	GO:0034220	ion transmembrane transport
+GO:0061512	15	GO:0034220	ion transmembrane transport
+GO:0001649	4	GO:0022008	neurogenesis
+GO:0048680	5	GO:0045664	regulation of neuron differentiation
+GO:0035774	15	GO:0034220	ion transmembrane transport
+GO:0048679	5	GO:0045664	regulation of neuron differentiation
+GO:1903566	11	GO:0051302	regulation of cell division
+GO:1903567	15	GO:0034220	ion transmembrane transport
+GO:1903557	16	GO:0001819	positive regulation of cytokine production
+GO:0098534	9	GO:0007099	centriole replication
+GO:0071539	15	GO:0034220	ion transmembrane transport
+GO:1902882	13	GO:0006959	humoral immune response
+GO:1902884	13	GO:0006959	humoral immune response
+GO:0070098	6	GO:0007166	cell surface receptor signaling pathway
+GO:0045746	6	GO:0007166	cell surface receptor signaling pathway
+GO:0060026	1	GO:0031214	biomineral tissue development
+GO:0060027	1	GO:0031214	biomineral tissue development
+GO:0071696	2	GO:0007389	pattern specification process
+GO:0071697	2	GO:0007389	pattern specification process
+GO:0051674	15	GO:0034220	ion transmembrane transport
+GO:0007560	1	GO:0031214	biomineral tissue development
+GO:0032955	10	GO:0032955	regulation of division septum assembly
+GO:1901739	5	GO:0045664	regulation of neuron differentiation
+GO:0007552	2	GO:0007389	pattern specification process
+GO:1903506	8	GO:2001141	regulation of RNA biosynthetic process
+GO:0060033	2	GO:0007389	pattern specification process
+GO:0098664	6	GO:0007166	cell surface receptor signaling pathway
+GO:1902807	10	GO:0032955	regulation of division septum assembly
+GO:0007586	17	GO:0030431	sleep
+GO:0045892	8	GO:2001141	regulation of RNA biosynthetic process
+GO:0007525	2	GO:0007389	pattern specification process
+GO:0098670	12	GO:0051702	biological process involved in interaction with symbiont
+GO:0032941	17	GO:0030431	sleep
+GO:0098671	12	GO:0051702	biological process involved in interaction with symbiont
+GO:0008645	15	GO:0034220	ion transmembrane transport
+GO:1901892	10	GO:0032955	regulation of division septum assembly
+GO:0045860	7	GO:0050730	regulation of peptidyl-tyrosine phosphorylation
+GO:0007549	16	GO:0001819	positive regulation of cytokine production
+GO:0045869	12	GO:0051702	biological process involved in interaction with symbiont
+GO:0007531	3	GO:0007281	germ cell development
+GO:0007533	3	GO:0007281	germ cell development
+GO:0035825	8	GO:2001141	regulation of RNA biosynthetic process
+GO:0010375	2	GO:0007389	pattern specification process
+GO:0045880	6	GO:0007166	cell surface receptor signaling pathway
+GO:0035844	1	GO:0031214	biomineral tissue development
+GO:0008608	9	GO:0007099	centriole replication
+GO:0035845	4	GO:0022008	neurogenesis
+GO:0045818	7	GO:0050730	regulation of peptidyl-tyrosine phosphorylation
+GO:0098609	15	GO:0034220	ion transmembrane transport
+GO:0120034	10	GO:0032955	regulation of division septum assembly
+GO:0120035	10	GO:0032955	regulation of division septum assembly
+GO:2001141	8	GO:2001141	regulation of RNA biosynthetic process
+GO:0030316	4	GO:0022008	neurogenesis
+GO:0030317	15	GO:0034220	ion transmembrane transport
+GO:0097696	6	GO:0007166	cell surface receptor signaling pathway
+GO:0140013	9	GO:0007099	centriole replication
+GO:0140014	9	GO:0007099	centriole replication
+GO:0030334	11	GO:0051302	regulation of cell division
+GO:0030335	11	GO:0051302	regulation of cell division
+GO:0010497	15	GO:0034220	ion transmembrane transport
+GO:0002949	8	GO:2001141	regulation of RNA biosynthetic process
+GO:0007629	17	GO:0030431	sleep
+GO:0010469	6	GO:0007166	cell surface receptor signaling pathway
+GO:0046667	4	GO:0022008	neurogenesis
+GO:0007631	17	GO:0030431	sleep
+GO:0018991	17	GO:0030431	sleep
+GO:0018996	17	GO:0030431	sleep
+GO:1901562	13	GO:0006959	humoral immune response
+GO:0007606	17	GO:0030431	sleep
+GO:0007608	17	GO:0030431	sleep

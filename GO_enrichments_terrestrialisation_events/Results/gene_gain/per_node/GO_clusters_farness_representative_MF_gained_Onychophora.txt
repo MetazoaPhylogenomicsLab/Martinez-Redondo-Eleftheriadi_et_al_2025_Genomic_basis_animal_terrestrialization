@@ -1,0 +1,213 @@
+GO:0005515	4	GO:0005515	protein binding
+GO:0005516	4	GO:0005515	protein binding
+GO:0005096	6	GO:0004857	enzyme inhibitor activity
+GO:0005549	2	GO:0030246	carbohydrate binding
+GO:0004896	11	GO:0098772	molecular function regulator
+GO:0005507	2	GO:0030246	carbohydrate binding
+GO:0004869	6	GO:0004857	enzyme inhibitor activity
+GO:0004857	6	GO:0004857	enzyme inhibitor activity
+GO:0048018	1	GO:0048018	receptor ligand activity
+GO:0019955	4	GO:0005515	protein binding
+GO:0015666	8	GO:0004520	endodeoxyribonuclease activity
+GO:0008083	1	GO:0048018	receptor ligand activity
+GO:0005213	12	GO:0005198	structural molecule activity
+GO:0005214	12	GO:0005198	structural molecule activity
+GO:0005249	7	GO:0015390	purine-specific nucleoside:sodium symporter activity
+GO:0008017	2	GO:0030246	carbohydrate binding
+GO:0030345	12	GO:0005198	structural molecule activity
+GO:0019894	4	GO:0005515	protein binding
+GO:0005200	12	GO:0005198	structural molecule activity
+GO:0016936	2	GO:0030246	carbohydrate binding
+GO:0140483	10	GO:0030674	protein-macromolecule adaptor activity
+GO:0005198	12	GO:0005198	structural molecule activity
+GO:0019864	2	GO:0030246	carbohydrate binding
+GO:0009036	8	GO:0004520	endodeoxyribonuclease activity
+GO:0030546	11	GO:0098772	molecular function regulator
+GO:0000014	8	GO:0004520	endodeoxyribonuclease activity
+GO:0005184	1	GO:0048018	receptor ligand activity
+GO:0042974	3	GO:0005102	signaling receptor binding
+GO:0030291	6	GO:0004857	enzyme inhibitor activity
+GO:0043199	2	GO:0030246	carbohydrate binding
+GO:0005179	1	GO:0048018	receptor ligand activity
+GO:0005121	3	GO:0005102	signaling receptor binding
+GO:0005125	1	GO:0048018	receptor ligand activity
+GO:0005149	3	GO:0005102	signaling receptor binding
+GO:0015149	7	GO:0015390	purine-specific nucleoside:sodium symporter activity
+GO:0120160	2	GO:0030246	carbohydrate binding
+GO:0005133	3	GO:0005102	signaling receptor binding
+GO:0048306	4	GO:0005515	protein binding
+GO:0005139	3	GO:0005102	signaling receptor binding
+GO:0106006	10	GO:0030674	protein-macromolecule adaptor activity
+GO:0071855	3	GO:0005102	signaling receptor binding
+GO:0017080	11	GO:0098772	molecular function regulator
+GO:0070840	2	GO:0030246	carbohydrate binding
+GO:0090729	11	GO:0098772	molecular function regulator
+GO:0005544	2	GO:0030246	carbohydrate binding
+GO:0005537	2	GO:0030246	carbohydrate binding
+GO:0005496	2	GO:0030246	carbohydrate binding
+GO:0030674	10	GO:0030674	protein-macromolecule adaptor activity
+GO:0030246	2	GO:0030246	carbohydrate binding
+GO:0030248	2	GO:0030246	carbohydrate binding
+GO:0017046	2	GO:0030246	carbohydrate binding
+GO:0005509	2	GO:0030246	carbohydrate binding
+GO:0001618	2	GO:0030246	carbohydrate binding
+GO:0004864	6	GO:0004857	enzyme inhibitor activity
+GO:0004866	6	GO:0004857	enzyme inhibitor activity
+GO:0004867	6	GO:0004857	enzyme inhibitor activity
+GO:0015459	11	GO:0098772	molecular function regulator
+GO:0031404	2	GO:0030246	carbohydrate binding
+GO:0098631	4	GO:0005515	protein binding
+GO:0003712	11	GO:0098772	molecular function regulator
+GO:0003714	11	GO:0098772	molecular function regulator
+GO:0015232	7	GO:0015390	purine-specific nucleoside:sodium symporter activity
+GO:0008011	12	GO:0005198	structural molecule activity
+GO:0001786	2	GO:0030246	carbohydrate binding
+GO:0042169	4	GO:0005515	protein binding
+GO:0000981	11	GO:0098772	molecular function regulator
+GO:0000987	5	GO:0043565	sequence-specific DNA binding
+GO:0000977	5	GO:0043565	sequence-specific DNA binding
+GO:0000978	5	GO:0043565	sequence-specific DNA binding
+GO:0070530	2	GO:0030246	carbohydrate binding
+GO:0019900	4	GO:0005515	protein binding
+GO:0019901	4	GO:0005515	protein binding
+GO:0005199	12	GO:0005198	structural molecule activity
+GO:0043621	4	GO:0005515	protein binding
+GO:0019865	2	GO:0030246	carbohydrate binding
+GO:0009881	11	GO:0098772	molecular function regulator
+GO:0045735	11	GO:0098772	molecular function regulator
+GO:0019888	6	GO:0004857	enzyme inhibitor activity
+GO:0051010	2	GO:0030246	carbohydrate binding
+GO:0005154	3	GO:0005102	signaling receptor binding
+GO:0019212	6	GO:0004857	enzyme inhibitor activity
+GO:0030296	6	GO:0004857	enzyme inhibitor activity
+GO:0051427	3	GO:0005102	signaling receptor binding
+GO:0051428	3	GO:0005102	signaling receptor binding
+GO:0019237	5	GO:0043565	sequence-specific DNA binding
+GO:0039660	12	GO:0005198	structural molecule activity
+GO:0005126	3	GO:0005102	signaling receptor binding
+GO:0050840	2	GO:0030246	carbohydrate binding
+GO:0050431	4	GO:0005515	protein binding
+GO:0030247	2	GO:0030246	carbohydrate binding
+GO:0008093	10	GO:0030674	protein-macromolecule adaptor activity
+GO:0004930	11	GO:0098772	molecular function regulator
+GO:0000995	11	GO:0098772	molecular function regulator
+GO:0001227	11	GO:0098772	molecular function regulator
+GO:0001228	11	GO:0098772	molecular function regulator
+GO:0035615	2	GO:0030246	carbohydrate binding
+GO:0001217	11	GO:0098772	molecular function regulator
+GO:0042162	5	GO:0043565	sequence-specific DNA binding
+GO:0001067	5	GO:0043565	sequence-specific DNA binding
+GO:0042302	12	GO:0005198	structural molecule activity
+GO:0098772	11	GO:0098772	molecular function regulator
+GO:0034237	4	GO:0005515	protein binding
+GO:0004862	6	GO:0004857	enzyme inhibitor activity
+GO:0070325	3	GO:0005102	signaling receptor binding
+GO:0070851	3	GO:0005102	signaling receptor binding
+GO:0030276	4	GO:0005515	protein binding
+GO:0030545	11	GO:0098772	molecular function regulator
+GO:0043565	5	GO:0043565	sequence-specific DNA binding
+GO:0005267	7	GO:0015390	purine-specific nucleoside:sodium symporter activity
+GO:0043495	10	GO:0030674	protein-macromolecule adaptor activity
+GO:0000976	5	GO:0043565	sequence-specific DNA binding
+GO:0003700	11	GO:0098772	molecular function regulator
+GO:0003690	5	GO:0043565	sequence-specific DNA binding
+GO:0005164	3	GO:0005102	signaling receptor binding
+GO:0050750	3	GO:0005102	signaling receptor binding
+GO:0017151	4	GO:0005515	protein binding
+GO:0050699	4	GO:0005515	protein binding
+GO:0035612	2	GO:0030246	carbohydrate binding
+GO:0017056	12	GO:0005198	structural molecule activity
+GO:0140375	11	GO:0098772	molecular function regulator
+GO:0140272	2	GO:0030246	carbohydrate binding
+GO:0051018	4	GO:0005515	protein binding
+GO:0004520	8	GO:0004520	endodeoxyribonuclease activity
+GO:1990846	6	GO:0004857	enzyme inhibitor activity
+GO:0000213	8	GO:0004520	endodeoxyribonuclease activity
+GO:1990837	5	GO:0043565	sequence-specific DNA binding
+GO:0005102	3	GO:0005102	signaling receptor binding
+GO:0004861	6	GO:0004857	enzyme inhibitor activity
+GO:0140312	10	GO:0030674	protein-macromolecule adaptor activity
+GO:0002039	4	GO:0005515	protein binding
+GO:0003823	2	GO:0030246	carbohydrate binding
+GO:0008603	6	GO:0004857	enzyme inhibitor activity
+GO:0043515	2	GO:0030246	carbohydrate binding
+GO:0008061	2	GO:0030246	carbohydrate binding
+GO:0017166	4	GO:0005515	protein binding
+GO:0048019	1	GO:0048018	receptor ligand activity
+GO:0043047	5	GO:0043565	sequence-specific DNA binding
+GO:0034713	3	GO:0005102	signaling receptor binding
+GO:0106254	11	GO:0098772	molecular function regulator
+GO:0098505	5	GO:0043565	sequence-specific DNA binding
+GO:0003730	5	GO:0043565	sequence-specific DNA binding
+GO:0035375	4	GO:0005515	protein binding
+GO:0015101	7	GO:0015390	purine-specific nucleoside:sodium symporter activity
+GO:0140550	11	GO:0098772	molecular function regulator
+GO:0052720	8	GO:0004520	endodeoxyribonuclease activity
+GO:0005114	3	GO:0005102	signaling receptor binding
+GO:0042329	12	GO:0005198	structural molecule activity
+GO:0030332	4	GO:0005515	protein binding
+GO:0070182	4	GO:0005515	protein binding
+GO:0008311	8	GO:0004520	endodeoxyribonuclease activity
+GO:0046812	2	GO:0030246	carbohydrate binding
+GO:0031491	2	GO:0030246	carbohydrate binding
+GO:0046848	2	GO:0030246	carbohydrate binding
+GO:0019215	2	GO:0030246	carbohydrate binding
+GO:0008307	12	GO:0005198	structural molecule activity
+GO:0003993	8	GO:0004520	endodeoxyribonuclease activity
+GO:0008494	5	GO:0043565	sequence-specific DNA binding
+GO:0098847	5	GO:0043565	sequence-specific DNA binding
+GO:0031402	2	GO:0030246	carbohydrate binding
+GO:0070513	4	GO:0005515	protein binding
+GO:0019862	2	GO:0030246	carbohydrate binding
+GO:0004623	8	GO:0004520	endodeoxyribonuclease activity
+GO:0015271	7	GO:0015390	purine-specific nucleoside:sodium symporter activity
+GO:0042834	2	GO:0030246	carbohydrate binding
+GO:0034987	3	GO:0005102	signaling receptor binding
+GO:0031210	2	GO:0030246	carbohydrate binding
+GO:0031423	4	GO:0005515	protein binding
+GO:0005539	2	GO:0030246	carbohydrate binding
+GO:0051393	2	GO:0030246	carbohydrate binding
+GO:0015390	7	GO:0015390	purine-specific nucleoside:sodium symporter activity
+GO:0015368	7	GO:0015390	purine-specific nucleoside:sodium symporter activity
+GO:0004955	11	GO:0098772	molecular function regulator
+GO:0019531	7	GO:0015390	purine-specific nucleoside:sodium symporter activity
+GO:0015389	7	GO:0015390	purine-specific nucleoside:sodium symporter activity
+GO:0106330	8	GO:0004520	endodeoxyribonuclease activity
+GO:0106331	8	GO:0004520	endodeoxyribonuclease activity
+GO:0015562	7	GO:0015390	purine-specific nucleoside:sodium symporter activity
+GO:0015213	7	GO:0015390	purine-specific nucleoside:sodium symporter activity
+GO:0001530	2	GO:0030246	carbohydrate binding
+GO:0031698	3	GO:0005102	signaling receptor binding
+GO:0008559	7	GO:0015390	purine-specific nucleoside:sodium symporter activity
+GO:0022841	7	GO:0015390	purine-specific nucleoside:sodium symporter activity
+GO:0140359	7	GO:0015390	purine-specific nucleoside:sodium symporter activity
+GO:0005178	3	GO:0005102	signaling receptor binding
+GO:1990226	4	GO:0005515	protein binding
+GO:0000182	5	GO:0043565	sequence-specific DNA binding
+GO:0001653	11	GO:0098772	molecular function regulator
+GO:0015420	7	GO:0015390	purine-specific nucleoside:sodium symporter activity
+GO:0001681	8	GO:0004520	endodeoxyribonuclease activity
+GO:0015440	7	GO:0015390	purine-specific nucleoside:sodium symporter activity
+GO:0043886	12	GO:0005198	structural molecule activity
+GO:0001968	4	GO:0005515	protein binding
+GO:0015431	7	GO:0015390	purine-specific nucleoside:sodium symporter activity
+GO:0015439	7	GO:0015390	purine-specific nucleoside:sodium symporter activity
+GO:0035254	3	GO:0005102	signaling receptor binding
+GO:0005384	7	GO:0015390	purine-specific nucleoside:sodium symporter activity
+GO:0005031	11	GO:0098772	molecular function regulator
+GO:0005035	11	GO:0098772	molecular function regulator
+GO:0005310	7	GO:0015390	purine-specific nucleoside:sodium symporter activity
+GO:0042907	7	GO:0015390	purine-specific nucleoside:sodium symporter activity
+GO:0030346	2	GO:0030246	carbohydrate binding
+GO:0050811	3	GO:0005102	signaling receptor binding
+GO:0005345	7	GO:0015390	purine-specific nucleoside:sodium symporter activity
+GO:0005275	7	GO:0015390	purine-specific nucleoside:sodium symporter activity
+GO:1990430	4	GO:0005515	protein binding
+GO:0004453	8	GO:0004520	endodeoxyribonuclease activity
+GO:0050839	4	GO:0005515	protein binding
+GO:0001875	11	GO:0098772	molecular function regulator
+GO:0015127	7	GO:0015390	purine-specific nucleoside:sodium symporter activity
+GO:0030492	4	GO:0005515	protein binding
+GO:0005522	4	GO:0005515	protein binding
+GO:0008179	4	GO:0005515	protein binding
+GO:0051139	7	GO:0015390	purine-specific nucleoside:sodium symporter activity

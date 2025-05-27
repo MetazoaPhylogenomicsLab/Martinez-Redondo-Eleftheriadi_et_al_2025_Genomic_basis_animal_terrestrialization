@@ -1,0 +1,14 @@
+GO:0016405	2	GO:0004497	monooxygenase activity
+GO:0004222	2	GO:0004497	monooxygenase activity
+GO:0005048	1	GO:0038024	cargo receptor activity
+GO:0016878	2	GO:0004497	monooxygenase activity
+GO:0016716	2	GO:0004497	monooxygenase activity
+GO:0034235	1	GO:0038024	cargo receptor activity
+GO:0005096	1	GO:0038024	cargo receptor activity
+GO:0004197	2	GO:0004497	monooxygenase activity
+GO:0008320	1	GO:0038024	cargo receptor activity
+GO:0017151	1	GO:0038024	cargo receptor activity
+GO:0016647	2	GO:0004497	monooxygenase activity
+GO:0038024	1	GO:0038024	cargo receptor activity
+GO:0016936	1	GO:0038024	cargo receptor activity
+GO:0004497	2	GO:0004497	monooxygenase activity

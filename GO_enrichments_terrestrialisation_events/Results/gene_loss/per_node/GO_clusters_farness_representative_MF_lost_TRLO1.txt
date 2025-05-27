@@ -1,0 +1,98 @@
+GO:0008422	5	GO:0004725	protein tyrosine phosphatase activity
+GO:0004993	3	GO:0140110	transcription regulator activity
+GO:0035613	6	GO:0003677	DNA binding
+GO:0030291	2	GO:0004857	enzyme inhibitor activity
+GO:0005096	2	GO:0004857	enzyme inhibitor activity
+GO:0051428	7	GO:0043169	cation binding
+GO:0019212	2	GO:0004857	enzyme inhibitor activity
+GO:0099589	3	GO:0140110	transcription regulator activity
+GO:0004930	3	GO:0140110	transcription regulator activity
+GO:0043169	7	GO:0043169	cation binding
+GO:0003964	5	GO:0004725	protein tyrosine phosphatase activity
+GO:0048306	8	GO:0008092	cytoskeletal protein binding
+GO:0003968	5	GO:0004725	protein tyrosine phosphatase activity
+GO:0140326	1	GO:0120013	lipid transfer activity
+GO:0019900	8	GO:0008092	cytoskeletal protein binding
+GO:0004725	5	GO:0004725	protein tyrosine phosphatase activity
+GO:0019902	8	GO:0008092	cytoskeletal protein binding
+GO:0030332	8	GO:0008092	cytoskeletal protein binding
+GO:0003680	6	GO:0003677	DNA binding
+GO:0003682	8	GO:0008092	cytoskeletal protein binding
+GO:0042169	8	GO:0008092	cytoskeletal protein binding
+GO:0003677	6	GO:0003677	DNA binding
+GO:0030627	6	GO:0003677	DNA binding
+GO:0030619	6	GO:0003677	DNA binding
+GO:0140303	1	GO:0120013	lipid transfer activity
+GO:0003785	8	GO:0008092	cytoskeletal protein binding
+GO:1990846	2	GO:0004857	enzyme inhibitor activity
+GO:0031768	7	GO:0043169	cation binding
+GO:0000217	6	GO:0003677	DNA binding
+GO:0003779	8	GO:0008092	cytoskeletal protein binding
+GO:1990837	6	GO:0003677	DNA binding
+GO:0003729	6	GO:0003677	DNA binding
+GO:0003712	3	GO:0140110	transcription regulator activity
+GO:0003714	3	GO:0140110	transcription regulator activity
+GO:0000981	3	GO:0140110	transcription regulator activity
+GO:0039660	3	GO:0140110	transcription regulator activity
+GO:0070851	8	GO:0008092	cytoskeletal protein binding
+GO:0000976	6	GO:0003677	DNA binding
+GO:0000977	6	GO:0003677	DNA binding
+GO:0000978	6	GO:0003677	DNA binding
+GO:0004862	2	GO:0004857	enzyme inhibitor activity
+GO:0004864	2	GO:0004857	enzyme inhibitor activity
+GO:0016620	5	GO:0004725	protein tyrosine phosphatase activity
+GO:0001067	6	GO:0003677	DNA binding
+GO:0004857	2	GO:0004857	enzyme inhibitor activity
+GO:0003700	3	GO:0140110	transcription regulator activity
+GO:0008227	3	GO:0140110	transcription regulator activity
+GO:0070840	7	GO:0043169	cation binding
+GO:0008353	5	GO:0004725	protein tyrosine phosphatase activity
+GO:0008092	8	GO:0008092	cytoskeletal protein binding
+GO:0019888	2	GO:0004857	enzyme inhibitor activity
+GO:0016608	7	GO:0043169	cation binding
+GO:0005179	7	GO:0043169	cation binding
+GO:0005112	8	GO:0008092	cytoskeletal protein binding
+GO:0043621	8	GO:0008092	cytoskeletal protein binding
+GO:0005149	7	GO:0043169	cation binding
+GO:0008013	8	GO:0008092	cytoskeletal protein binding
+GO:0046872	7	GO:0043169	cation binding
+GO:0051015	8	GO:0008092	cytoskeletal protein binding
+GO:0004523	5	GO:0004725	protein tyrosine phosphatase activity
+GO:0070530	7	GO:0043169	cation binding
+GO:0004517	5	GO:0004725	protein tyrosine phosphatase activity
+GO:0004519	5	GO:0004725	protein tyrosine phosphatase activity
+GO:0005516	8	GO:0008092	cytoskeletal protein binding
+GO:1905762	7	GO:0043169	cation binding
+GO:0032266	7	GO:0043169	cation binding
+GO:0005549	8	GO:0008092	cytoskeletal protein binding
+GO:0032549	6	GO:0003677	DNA binding
+GO:0001882	6	GO:0003677	DNA binding
+GO:0035035	8	GO:0008092	cytoskeletal protein binding
+GO:1902388	1	GO:0120013	lipid transfer activity
+GO:0120020	1	GO:0120013	lipid transfer activity
+GO:0120013	1	GO:0120013	lipid transfer activity
+GO:0120015	1	GO:0120013	lipid transfer activity
+GO:0120016	1	GO:0120013	lipid transfer activity
+GO:0120017	1	GO:0120013	lipid transfer activity
+GO:0003951	5	GO:0004725	protein tyrosine phosphatase activity
+GO:0050840	8	GO:0008092	cytoskeletal protein binding
+GO:0008139	7	GO:0043169	cation binding
+GO:1990825	6	GO:0003677	DNA binding
+GO:0062037	6	GO:0003677	DNA binding
+GO:0001227	3	GO:0140110	transcription regulator activity
+GO:0016922	7	GO:0043169	cation binding
+GO:0001217	3	GO:0140110	transcription regulator activity
+GO:0046624	1	GO:0120013	lipid transfer activity
+GO:0043531	7	GO:0043169	cation binding
+GO:0015248	1	GO:0120013	lipid transfer activity
+GO:0061629	7	GO:0043169	cation binding
+GO:0043236	8	GO:0008092	cytoskeletal protein binding
+GO:0102991	5	GO:0004725	protein tyrosine phosphatase activity
+GO:0008201	7	GO:0043169	cation binding
+GO:0050693	8	GO:0008092	cytoskeletal protein binding
+GO:0008301	6	GO:0003677	DNA binding
+GO:0051010	7	GO:0043169	cation binding
+GO:0035064	7	GO:0043169	cation binding
+GO:0140110	3	GO:0140110	transcription regulator activity
+GO:0004252	5	GO:0004725	protein tyrosine phosphatase activity
+GO:0051787	8	GO:0008092	cytoskeletal protein binding

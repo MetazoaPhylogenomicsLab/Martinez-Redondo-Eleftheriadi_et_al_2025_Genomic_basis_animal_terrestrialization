@@ -1,0 +1,125 @@
+GO:0003990	6	GO:0061783	peptidoglycan muralytic activity
+GO:0019899	2	GO:0019899	enzyme binding
+GO:0015101	3	GO:0015101	organic cation transmembrane transporter activity
+GO:0003874	6	GO:0061783	peptidoglycan muralytic activity
+GO:0001761	3	GO:0015101	organic cation transmembrane transporter activity
+GO:0003823	2	GO:0019899	enzyme binding
+GO:0005523	2	GO:0019899	enzyme binding
+GO:0003964	6	GO:0061783	peptidoglycan muralytic activity
+GO:0003968	6	GO:0061783	peptidoglycan muralytic activity
+GO:0052894	6	GO:0061783	peptidoglycan muralytic activity
+GO:0003955	6	GO:0061783	peptidoglycan muralytic activity
+GO:0031404	2	GO:0019899	enzyme binding
+GO:0016907	4	GO:0004888	transmembrane signaling receptor activity
+GO:0005536	2	GO:0019899	enzyme binding
+GO:0005537	2	GO:0019899	enzyme binding
+GO:0051010	2	GO:0019899	enzyme binding
+GO:0051019	2	GO:0019899	enzyme binding
+GO:0097200	6	GO:0061783	peptidoglycan muralytic activity
+GO:0015280	3	GO:0015101	organic cation transmembrane transporter activity
+GO:0042301	2	GO:0019899	enzyme binding
+GO:0061630	6	GO:0061783	peptidoglycan muralytic activity
+GO:1905131	3	GO:0015101	organic cation transmembrane transporter activity
+GO:0005161	2	GO:0019899	enzyme binding
+GO:0008097	1	GO:0003676	nucleic acid binding
+GO:0072518	6	GO:0061783	peptidoglycan muralytic activity
+GO:0051119	3	GO:0015101	organic cation transmembrane transporter activity
+GO:0042800	6	GO:0061783	peptidoglycan muralytic activity
+GO:0005042	4	GO:0004888	transmembrane signaling receptor activity
+GO:0042805	2	GO:0019899	enzyme binding
+GO:0042806	2	GO:0019899	enzyme binding
+GO:0005031	4	GO:0004888	transmembrane signaling receptor activity
+GO:0008061	2	GO:0019899	enzyme binding
+GO:0034061	6	GO:0061783	peptidoglycan muralytic activity
+GO:0004725	6	GO:0061783	peptidoglycan muralytic activity
+GO:0004712	6	GO:0061783	peptidoglycan muralytic activity
+GO:0000182	1	GO:0003676	nucleic acid binding
+GO:0008502	4	GO:0004888	transmembrane signaling receptor activity
+GO:0008504	3	GO:0015101	organic cation transmembrane transporter activity
+GO:0004745	6	GO:0061783	peptidoglycan muralytic activity
+GO:0004748	6	GO:0061783	peptidoglycan muralytic activity
+GO:0005133	2	GO:0019899	enzyme binding
+GO:0031624	2	GO:0019899	enzyme binding
+GO:0008013	2	GO:0019899	enzyme binding
+GO:0022858	3	GO:0015101	organic cation transmembrane transporter activity
+GO:0052901	6	GO:0061783	peptidoglycan muralytic activity
+GO:0052902	6	GO:0061783	peptidoglycan muralytic activity
+GO:0052903	6	GO:0061783	peptidoglycan muralytic activity
+GO:0052904	6	GO:0061783	peptidoglycan muralytic activity
+GO:0098632	2	GO:0019899	enzyme binding
+GO:0089720	2	GO:0019899	enzyme binding
+GO:0004364	6	GO:0061783	peptidoglycan muralytic activity
+GO:0046790	2	GO:0019899	enzyme binding
+GO:0070411	2	GO:0019899	enzyme binding
+GO:0004896	4	GO:0004888	transmembrane signaling receptor activity
+GO:0005298	3	GO:0015101	organic cation transmembrane transporter activity
+GO:0008146	6	GO:0061783	peptidoglycan muralytic activity
+GO:0051287	1	GO:0003676	nucleic acid binding
+GO:0001849	2	GO:0019899	enzyme binding
+GO:0019534	3	GO:0015101	organic cation transmembrane transporter activity
+GO:0047035	6	GO:0061783	peptidoglycan muralytic activity
+GO:0004993	4	GO:0004888	transmembrane signaling receptor activity
+GO:0005253	3	GO:0015101	organic cation transmembrane transporter activity
+GO:0070097	2	GO:0019899	enzyme binding
+GO:0005283	3	GO:0015101	organic cation transmembrane transporter activity
+GO:0047685	6	GO:0061783	peptidoglycan muralytic activity
+GO:0034647	6	GO:0061783	peptidoglycan muralytic activity
+GO:0004888	4	GO:0004888	transmembrane signaling receptor activity
+GO:0080030	6	GO:0061783	peptidoglycan muralytic activity
+GO:0005275	3	GO:0015101	organic cation transmembrane transporter activity
+GO:0009922	6	GO:0061783	peptidoglycan muralytic activity
+GO:0042162	1	GO:0003676	nucleic acid binding
+GO:0045569	2	GO:0019899	enzyme binding
+GO:0061783	6	GO:0061783	peptidoglycan muralytic activity
+GO:0004983	4	GO:0004888	transmembrane signaling receptor activity
+GO:0030971	2	GO:0019899	enzyme binding
+GO:0003676	1	GO:0003676	nucleic acid binding
+GO:0003677	1	GO:0003676	nucleic acid binding
+GO:0099528	4	GO:0004888	transmembrane signaling receptor activity
+GO:0106310	6	GO:0061783	peptidoglycan muralytic activity
+GO:0015355	3	GO:0015101	organic cation transmembrane transporter activity
+GO:0031208	2	GO:0019899	enzyme binding
+GO:0030594	4	GO:0004888	transmembrane signaling receptor activity
+GO:0032184	2	GO:0019899	enzyme binding
+GO:0004568	6	GO:0061783	peptidoglycan muralytic activity
+GO:0046332	2	GO:0019899	enzyme binding
+GO:0004435	6	GO:0061783	peptidoglycan muralytic activity
+GO:0035064	2	GO:0019899	enzyme binding
+GO:0043565	1	GO:0003676	nucleic acid binding
+GO:0046812	2	GO:0019899	enzyme binding
+GO:0004519	6	GO:0061783	peptidoglycan muralytic activity
+GO:0046920	6	GO:0061783	peptidoglycan muralytic activity
+GO:0015453	3	GO:0015101	organic cation transmembrane transporter activity
+GO:0004197	6	GO:0061783	peptidoglycan muralytic activity
+GO:0030507	2	GO:0019899	enzyme binding
+GO:0004089	6	GO:0061783	peptidoglycan muralytic activity
+GO:0035174	6	GO:0061783	peptidoglycan muralytic activity
+GO:0019237	1	GO:0003676	nucleic acid binding
+GO:0016722	6	GO:0061783	peptidoglycan muralytic activity
+GO:0004027	6	GO:0061783	peptidoglycan muralytic activity
+GO:0045295	2	GO:0019899	enzyme binding
+GO:0102756	6	GO:0061783	peptidoglycan muralytic activity
+GO:0045296	2	GO:0019899	enzyme binding
+GO:0097199	6	GO:0061783	peptidoglycan muralytic activity
+GO:0004040	6	GO:0061783	peptidoglycan muralytic activity
+GO:0004181	6	GO:0061783	peptidoglycan muralytic activity
+GO:0015574	3	GO:0015101	organic cation transmembrane transporter activity
+GO:0005326	3	GO:0015101	organic cation transmembrane transporter activity
+GO:0043183	2	GO:0019899	enzyme binding
+GO:0043184	2	GO:0019899	enzyme binding
+GO:0038187	4	GO:0004888	transmembrane signaling receptor activity
+GO:0004687	6	GO:0061783	peptidoglycan muralytic activity
+GO:0005332	3	GO:0015101	organic cation transmembrane transporter activity
+GO:0004674	6	GO:0061783	peptidoglycan muralytic activity
+GO:0043035	1	GO:0003676	nucleic acid binding
+GO:0003727	1	GO:0003676	nucleic acid binding
+GO:0004629	6	GO:0061783	peptidoglycan muralytic activity
+GO:0015193	3	GO:0015101	organic cation transmembrane transporter activity
+GO:0015199	3	GO:0015101	organic cation transmembrane transporter activity
+GO:0043621	2	GO:0019899	enzyme binding
+GO:0000978	1	GO:0003676	nucleic acid binding
+GO:0008810	6	GO:0061783	peptidoglycan muralytic activity
+GO:0004252	6	GO:0061783	peptidoglycan muralytic activity
+GO:0140030	2	GO:0019899	enzyme binding
+GO:0140034	2	GO:0019899	enzyme binding
+GO:0016838	6	GO:0061783	peptidoglycan muralytic activity

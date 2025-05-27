@@ -1,0 +1,33 @@
+GO:0000099	2	GO:0015175	neutral amino acid transmembrane transporter activity
+GO:0001875	3	GO:0001875	lipopolysaccharide immune receptor activity
+GO:0016814	5	GO:0052689	carboxylic ester hydrolase activity
+GO:0003887	5	GO:0052689	carboxylic ester hydrolase activity
+GO:0070006	5	GO:0052689	carboxylic ester hydrolase activity
+GO:0043548	4	GO:0030246	carbohydrate binding
+GO:0030246	4	GO:0030246	carbohydrate binding
+GO:0038187	3	GO:0001875	lipopolysaccharide immune receptor activity
+GO:0003823	4	GO:0030246	carbohydrate binding
+GO:0003824	1	GO:0016491	oxidoreductase activity
+GO:0004653	5	GO:0052689	carboxylic ester hydrolase activity
+GO:0004568	5	GO:0052689	carboxylic ester hydrolase activity
+GO:0015101	2	GO:0015175	neutral amino acid transmembrane transporter activity
+GO:0016491	1	GO:0016491	oxidoreductase activity
+GO:0042277	4	GO:0030246	carbohydrate binding
+GO:0015175	2	GO:0015175	neutral amino acid transmembrane transporter activity
+GO:0016763	5	GO:0052689	carboxylic ester hydrolase activity
+GO:0015179	2	GO:0015175	neutral amino acid transmembrane transporter activity
+GO:0008106	1	GO:0016491	oxidoreductase activity
+GO:0008270	4	GO:0030246	carbohydrate binding
+GO:0052689	5	GO:0052689	carboxylic ester hydrolase activity
+GO:0016706	1	GO:0016491	oxidoreductase activity
+GO:0008061	4	GO:0030246	carbohydrate binding
+GO:0051213	1	GO:0016491	oxidoreductase activity
+GO:0004104	5	GO:0052689	carboxylic ester hydrolase activity
+GO:0004453	5	GO:0052689	carboxylic ester hydrolase activity
+GO:0016208	4	GO:0030246	carbohydrate binding
+GO:0016614	1	GO:0016491	oxidoreductase activity
+GO:0016616	1	GO:0016491	oxidoreductase activity
+GO:0005109	4	GO:0030246	carbohydrate binding
+GO:0004033	1	GO:0016491	oxidoreductase activity
+GO:0072349	2	GO:0015175	neutral amino acid transmembrane transporter activity
+GO:0003990	5	GO:0052689	carboxylic ester hydrolase activity

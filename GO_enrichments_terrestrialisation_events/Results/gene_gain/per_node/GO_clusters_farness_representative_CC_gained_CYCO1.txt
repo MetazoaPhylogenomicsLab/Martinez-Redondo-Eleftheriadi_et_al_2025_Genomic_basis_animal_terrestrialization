@@ -1,0 +1,18 @@
+GO:0048046	1	GO:0070938	contractile ring
+GO:0031143	1	GO:0070938	contractile ring
+GO:0005740	2	GO:0005739	mitochondrion
+GO:0035182	1	GO:0070938	contractile ring
+GO:0035183	1	GO:0070938	contractile ring
+GO:0031941	2	GO:0005739	mitochondrion
+GO:0005884	2	GO:0005739	mitochondrion
+GO:0070938	1	GO:0070938	contractile ring
+GO:0016607	2	GO:0005739	mitochondrion
+GO:0009506	1	GO:0070938	contractile ring
+GO:0005739	2	GO:0005739	mitochondrion
+GO:0044354	2	GO:0005739	mitochondrion
+GO:0001891	1	GO:0070938	contractile ring
+GO:0048471	2	GO:0005739	mitochondrion
+GO:0030018	2	GO:0005739	mitochondrion
+GO:0030658	2	GO:0005739	mitochondrion
+GO:0045179	2	GO:0005739	mitochondrion
+GO:0016323	1	GO:0070938	contractile ring

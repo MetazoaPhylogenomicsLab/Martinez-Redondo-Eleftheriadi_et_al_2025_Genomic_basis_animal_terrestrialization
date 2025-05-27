@@ -1,0 +1,29 @@
+GO:0008541	2	GO:0110165	cellular anatomical entity
+GO:0071682	3	GO:0099086	synaptonemal structure
+GO:0001520	2	GO:0110165	cellular anatomical entity
+GO:0005739	3	GO:0099086	synaptonemal structure
+GO:0009507	3	GO:0099086	synaptonemal structure
+GO:0110165	2	GO:0110165	cellular anatomical entity
+GO:0001917	2	GO:0110165	cellular anatomical entity
+GO:0000794	3	GO:0099086	synaptonemal structure
+GO:0000795	3	GO:0099086	synaptonemal structure
+GO:0016605	3	GO:0099086	synaptonemal structure
+GO:0099086	3	GO:0099086	synaptonemal structure
+GO:0043189	3	GO:0099086	synaptonemal structure
+GO:0044165	1	GO:0044167	host cell endoplasmic reticulum membrane
+GO:0044167	1	GO:0044167	host cell endoplasmic reticulum membrane
+GO:0000781	3	GO:0099086	synaptonemal structure
+GO:0008287	2	GO:0110165	cellular anatomical entity
+GO:0005942	2	GO:0110165	cellular anatomical entity
+GO:0044177	1	GO:0044167	host cell endoplasmic reticulum membrane
+GO:0035267	3	GO:0099086	synaptonemal structure
+GO:0044204	1	GO:0044167	host cell endoplasmic reticulum membrane
+GO:0000803	3	GO:0099086	synaptonemal structure
+GO:0009574	3	GO:0099086	synaptonemal structure
+GO:0030112	2	GO:0110165	cellular anatomical entity
+GO:0009524	2	GO:0110165	cellular anatomical entity
+GO:0042405	3	GO:0099086	synaptonemal structure
+GO:0019033	2	GO:0110165	cellular anatomical entity
+GO:0033645	1	GO:0044167	host cell endoplasmic reticulum membrane
+GO:0000164	2	GO:0110165	cellular anatomical entity
+GO:0097228	2	GO:0110165	cellular anatomical entity

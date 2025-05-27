@@ -1,0 +1,82 @@
+GO:0019899	5	GO:0019899	enzyme binding
+GO:0015101	1	GO:1901618	organic hydroxy compound transmembrane transporter activity
+GO:0001761	1	GO:1901618	organic hydroxy compound transmembrane transporter activity
+GO:0044547	5	GO:0019899	enzyme binding
+GO:0005536	4	GO:0097367	carbohydrate derivative binding
+GO:0005537	4	GO:0097367	carbohydrate derivative binding
+GO:0005539	4	GO:0097367	carbohydrate derivative binding
+GO:0019966	5	GO:0019899	enzyme binding
+GO:0051010	5	GO:0019899	enzyme binding
+GO:0140296	5	GO:0019899	enzyme binding
+GO:0015280	1	GO:1901618	organic hydroxy compound transmembrane transporter activity
+GO:1905131	1	GO:1901618	organic hydroxy compound transmembrane transporter activity
+GO:0005161	5	GO:0019899	enzyme binding
+GO:0042923	4	GO:0097367	carbohydrate derivative binding
+GO:0008097	4	GO:0097367	carbohydrate derivative binding
+GO:0051119	1	GO:1901618	organic hydroxy compound transmembrane transporter activity
+GO:0042943	1	GO:1901618	organic hydroxy compound transmembrane transporter activity
+GO:0042806	4	GO:0097367	carbohydrate derivative binding
+GO:0005171	5	GO:0019899	enzyme binding
+GO:0005031	2	GO:0099589	serotonin receptor activity
+GO:0000166	4	GO:0097367	carbohydrate derivative binding
+GO:0008502	2	GO:0099589	serotonin receptor activity
+GO:0008504	1	GO:1901618	organic hydroxy compound transmembrane transporter activity
+GO:0031625	5	GO:0019899	enzyme binding
+GO:0008017	5	GO:0019899	enzyme binding
+GO:0022858	1	GO:1901618	organic hydroxy compound transmembrane transporter activity
+GO:0089720	5	GO:0019899	enzyme binding
+GO:0001968	5	GO:0019899	enzyme binding
+GO:0046790	4	GO:0097367	carbohydrate derivative binding
+GO:0004896	2	GO:0099589	serotonin receptor activity
+GO:0005298	1	GO:1901618	organic hydroxy compound transmembrane transporter activity
+GO:0051287	4	GO:0097367	carbohydrate derivative binding
+GO:0019534	1	GO:1901618	organic hydroxy compound transmembrane transporter activity
+GO:0097367	4	GO:0097367	carbohydrate derivative binding
+GO:0004993	2	GO:0099589	serotonin receptor activity
+GO:0032553	4	GO:0097367	carbohydrate derivative binding
+GO:0032555	4	GO:0097367	carbohydrate derivative binding
+GO:0070097	5	GO:0019899	enzyme binding
+GO:0005283	1	GO:1901618	organic hydroxy compound transmembrane transporter activity
+GO:1904931	4	GO:0097367	carbohydrate derivative binding
+GO:0005275	1	GO:1901618	organic hydroxy compound transmembrane transporter activity
+GO:0042162	4	GO:0097367	carbohydrate derivative binding
+GO:0004983	2	GO:0099589	serotonin receptor activity
+GO:0099589	2	GO:0099589	serotonin receptor activity
+GO:0003676	4	GO:0097367	carbohydrate derivative binding
+GO:0031208	5	GO:0019899	enzyme binding
+GO:0008270	4	GO:0097367	carbohydrate derivative binding
+GO:0008227	2	GO:0099589	serotonin receptor activity
+GO:0001091	5	GO:0019899	enzyme binding
+GO:0015347	1	GO:1901618	organic hydroxy compound transmembrane transporter activity
+GO:0004908	2	GO:0099589	serotonin receptor activity
+GO:0001530	4	GO:0097367	carbohydrate derivative binding
+GO:0050431	5	GO:0019899	enzyme binding
+GO:0045028	2	GO:0099589	serotonin receptor activity
+GO:0010313	5	GO:0019899	enzyme binding
+GO:0030554	4	GO:0097367	carbohydrate derivative binding
+GO:0008201	4	GO:0097367	carbohydrate derivative binding
+GO:0046872	4	GO:0097367	carbohydrate derivative binding
+GO:0017076	4	GO:0097367	carbohydrate derivative binding
+GO:0046812	4	GO:0097367	carbohydrate derivative binding
+GO:1901618	1	GO:1901618	organic hydroxy compound transmembrane transporter activity
+GO:0046923	4	GO:0097367	carbohydrate derivative binding
+GO:0044390	5	GO:0019899	enzyme binding
+GO:0030169	4	GO:0097367	carbohydrate derivative binding
+GO:0005355	1	GO:1901618	organic hydroxy compound transmembrane transporter activity
+GO:0044389	5	GO:0019899	enzyme binding
+GO:0015574	1	GO:1901618	organic hydroxy compound transmembrane transporter activity
+GO:0005326	1	GO:1901618	organic hydroxy compound transmembrane transporter activity
+GO:0043167	4	GO:0097367	carbohydrate derivative binding
+GO:0043168	4	GO:0097367	carbohydrate derivative binding
+GO:0038187	2	GO:0099589	serotonin receptor activity
+GO:0005332	1	GO:1901618	organic hydroxy compound transmembrane transporter activity
+GO:0035639	4	GO:0097367	carbohydrate derivative binding
+GO:0003727	4	GO:0097367	carbohydrate derivative binding
+GO:0015193	1	GO:1901618	organic hydroxy compound transmembrane transporter activity
+GO:0015199	1	GO:1901618	organic hydroxy compound transmembrane transporter activity
+GO:0015165	1	GO:1901618	organic hydroxy compound transmembrane transporter activity
+GO:0015154	1	GO:1901618	organic hydroxy compound transmembrane transporter activity
+GO:0015157	1	GO:1901618	organic hydroxy compound transmembrane transporter activity
+GO:0015175	1	GO:1901618	organic hydroxy compound transmembrane transporter activity
+GO:0015144	1	GO:1901618	organic hydroxy compound transmembrane transporter activity
+GO:0015149	1	GO:1901618	organic hydroxy compound transmembrane transporter activity

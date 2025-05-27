@@ -1,0 +1,185 @@
+GO:0015074	4	GO:0006357	regulation of transcription by RNA polymerase II
+GO:0050877	5	GO:0050877	nervous system process
+GO:0044826	7	GO:0008037	cell recognition
+GO:0015014	4	GO:0006357	regulation of transcription by RNA polymerase II
+GO:0015015	4	GO:0006357	regulation of transcription by RNA polymerase II
+GO:0050819	5	GO:0050877	nervous system process
+GO:0050848	3	GO:0007210	serotonin receptor signaling pathway
+GO:0046693	8	GO:0036093	germ cell proliferation
+GO:0009950	13	GO:0043588	skin development
+GO:0034446	11	GO:0048468	cell development
+GO:2000177	7	GO:0008037	cell recognition
+GO:0007043	1	GO:0030030	cell projection organization
+GO:0070286	1	GO:0030030	cell projection organization
+GO:0044552	5	GO:0050877	nervous system process
+GO:0030097	13	GO:0043588	skin development
+GO:0033563	10	GO:0007411	axon guidance
+GO:0033564	10	GO:0007411	axon guidance
+GO:0018996	5	GO:0050877	nervous system process
+GO:0030030	1	GO:0030030	cell projection organization
+GO:0090305	4	GO:0006357	regulation of transcription by RNA polymerase II
+GO:0097105	1	GO:0030030	cell projection organization
+GO:0002009	12	GO:0016318	ommatidial rotation
+GO:0051307	7	GO:0008037	cell recognition
+GO:0030950	1	GO:0030030	cell projection organization
+GO:0006278	4	GO:0006357	regulation of transcription by RNA polymerase II
+GO:0072553	1	GO:0030030	cell projection organization
+GO:0034220	7	GO:0008037	cell recognition
+GO:2000757	4	GO:0006357	regulation of transcription by RNA polymerase II
+GO:0045434	8	GO:0036093	germ cell proliferation
+GO:1903078	7	GO:0008037	cell recognition
+GO:0035066	4	GO:0006357	regulation of transcription by RNA polymerase II
+GO:0035067	4	GO:0006357	regulation of transcription by RNA polymerase II
+GO:1905936	8	GO:0036093	germ cell proliferation
+GO:0035082	1	GO:0030030	cell projection organization
+GO:0048468	11	GO:0048468	cell development
+GO:0045165	11	GO:0048468	cell development
+GO:0007390	13	GO:0043588	skin development
+GO:0007391	12	GO:0016318	ommatidial rotation
+GO:0007368	13	GO:0043588	skin development
+GO:0007369	13	GO:0043588	skin development
+GO:0070593	11	GO:0048468	cell development
+GO:0075713	7	GO:0008037	cell recognition
+GO:0007370	13	GO:0043588	skin development
+GO:0045138	13	GO:0043588	skin development
+GO:0075732	7	GO:0008037	cell recognition
+GO:0007310	9	GO:0007286	spermatid development
+GO:0007338	8	GO:0036093	germ cell proliferation
+GO:0070527	7	GO:0008037	cell recognition
+GO:0007305	9	GO:0007286	spermatid development
+GO:0000902	12	GO:0016318	ommatidial rotation
+GO:0048132	9	GO:0007286	spermatid development
+GO:0001745	12	GO:0016318	ommatidial rotation
+GO:0030317	2	GO:0060294	cilium movement involved in cell motility
+GO:0007463	12	GO:0016318	ommatidial rotation
+GO:0006874	7	GO:0008037	cell recognition
+GO:0001704	13	GO:0043588	skin development
+GO:0001709	11	GO:0048468	cell development
+GO:0007484	13	GO:0043588	skin development
+GO:1905330	12	GO:0016318	ommatidial rotation
+GO:0042545	1	GO:0030030	cell projection organization
+GO:0007411	10	GO:0007411	axon guidance
+GO:0007419	13	GO:0043588	skin development
+GO:0008078	2	GO:0060294	cilium movement involved in cell motility
+GO:0006805	7	GO:0008037	cell recognition
+GO:0060294	2	GO:0060294	cilium movement involved in cell motility
+GO:0008037	7	GO:0008037	cell recognition
+GO:0007400	11	GO:0048468	cell development
+GO:0008038	11	GO:0048468	cell development
+GO:0007402	11	GO:0048468	cell development
+GO:0048240	9	GO:0007286	spermatid development
+GO:0045752	3	GO:0007210	serotonin receptor signaling pathway
+GO:1905486	10	GO:0007411	axon guidance
+GO:1905488	10	GO:0007411	axon guidance
+GO:0060285	2	GO:0060294	cilium movement involved in cell motility
+GO:0060271	1	GO:0030030	cell projection organization
+GO:0045773	10	GO:0007411	axon guidance
+GO:0072089	7	GO:0008037	cell recognition
+GO:0045724	1	GO:0030030	cell projection organization
+GO:0055074	7	GO:0008037	cell recognition
+GO:1903351	3	GO:0007210	serotonin receptor signaling pathway
+GO:0007155	7	GO:0008037	cell recognition
+GO:0007156	7	GO:0008037	cell recognition
+GO:0014013	11	GO:0048468	cell development
+GO:0055013	11	GO:0048468	cell development
+GO:0007186	3	GO:0007210	serotonin receptor signaling pathway
+GO:0007187	3	GO:0007210	serotonin receptor signaling pathway
+GO:0055006	11	GO:0048468	cell development
+GO:0055007	11	GO:0048468	cell development
+GO:0006501	4	GO:0006357	regulation of transcription by RNA polymerase II
+GO:0006508	4	GO:0006357	regulation of transcription by RNA polymerase II
+GO:0031638	4	GO:0006357	regulation of transcription by RNA polymerase II
+GO:0048729	12	GO:0016318	ommatidial rotation
+GO:0030182	11	GO:0048468	cell development
+GO:0097628	2	GO:0060294	cilium movement involved in cell motility
+GO:0030178	3	GO:0007210	serotonin receptor signaling pathway
+GO:1901046	8	GO:0036093	germ cell proliferation
+GO:1901048	3	GO:0007210	serotonin receptor signaling pathway
+GO:0007283	9	GO:0007286	spermatid development
+GO:0007286	9	GO:0007286	spermatid development
+GO:0007271	7	GO:0008037	cell recognition
+GO:0036093	8	GO:0036093	germ cell proliferation
+GO:0030100	7	GO:0008037	cell recognition
+GO:0090598	13	GO:0043588	skin development
+GO:0007210	3	GO:0007210	serotonin receptor signaling pathway
+GO:0007212	3	GO:0007210	serotonin receptor signaling pathway
+GO:0048863	11	GO:0048468	cell development
+GO:0048870	2	GO:0060294	cilium movement involved in cell motility
+GO:0045596	11	GO:0048468	cell development
+GO:0042067	12	GO:0016318	ommatidial rotation
+GO:1901984	4	GO:0006357	regulation of transcription by RNA polymerase II
+GO:0060857	11	GO:0048468	cell development
+GO:0016318	12	GO:0016318	ommatidial rotation
+GO:0009880	13	GO:0043588	skin development
+GO:0098773	13	GO:0043588	skin development
+GO:0016331	12	GO:0016318	ommatidial rotation
+GO:0016339	7	GO:0008037	cell recognition
+GO:0009826	12	GO:0016318	ommatidial rotation
+GO:0048802	12	GO:0016318	ommatidial rotation
+GO:0031063	4	GO:0006357	regulation of transcription by RNA polymerase II
+GO:0030237	13	GO:0043588	skin development
+GO:0031057	4	GO:0006357	regulation of transcription by RNA polymerase II
+GO:0000122	4	GO:0006357	regulation of transcription by RNA polymerase II
+GO:0008366	13	GO:0043588	skin development
+GO:0048592	12	GO:0016318	ommatidial rotation
+GO:0048598	13	GO:0043588	skin development
+GO:0044458	1	GO:0030030	cell projection organization
+GO:0035151	13	GO:0043588	skin development
+GO:0019991	1	GO:0030030	cell projection organization
+GO:0016485	4	GO:0006357	regulation of transcription by RNA polymerase II
+GO:0033484	7	GO:0008037	cell recognition
+GO:0016477	2	GO:0060294	cilium movement involved in cell motility
+GO:0048515	9	GO:0007286	spermatid development
+GO:0009566	8	GO:0036093	germ cell proliferation
+GO:0044409	7	GO:0008037	cell recognition
+GO:1902667	10	GO:0007411	axon guidance
+GO:1902669	10	GO:0007411	axon guidance
+GO:0003351	2	GO:0060294	cilium movement involved in cell motility
+GO:0003352	2	GO:0060294	cilium movement involved in cell motility
+GO:0003386	13	GO:0043588	skin development
+GO:0017015	3	GO:0007210	serotonin receptor signaling pathway
+GO:0003341	2	GO:0060294	cilium movement involved in cell motility
+GO:0043588	13	GO:0043588	skin development
+GO:0060537	12	GO:0016318	ommatidial rotation
+GO:0048699	11	GO:0048468	cell development
+GO:0072331	3	GO:0007210	serotonin receptor signaling pathway
+GO:0035287	13	GO:0043588	skin development
+GO:0048666	11	GO:0048468	cell development
+GO:0035271	13	GO:0043588	skin development
+GO:0051604	4	GO:0006357	regulation of transcription by RNA polymerase II
+GO:0022404	5	GO:0050877	nervous system process
+GO:0022405	5	GO:0050877	nervous system process
+GO:0061343	13	GO:0043588	skin development
+GO:0035212	13	GO:0043588	skin development
+GO:0040002	13	GO:0043588	skin development
+GO:0021556	13	GO:0043588	skin development
+GO:0008407	13	GO:0043588	skin development
+GO:0006965	4	GO:0006357	regulation of transcription by RNA polymerase II
+GO:0006967	4	GO:0006357	regulation of transcription by RNA polymerase II
+GO:0090090	3	GO:0007210	serotonin receptor signaling pathway
+GO:0046718	7	GO:0008037	cell recognition
+GO:1903725	4	GO:0006357	regulation of transcription by RNA polymerase II
+GO:0007526	13	GO:0043588	skin development
+GO:0120192	1	GO:0030030	cell projection organization
+GO:0120193	1	GO:0030030	cell projection organization
+GO:0051093	7	GO:0008037	cell recognition
+GO:0001963	7	GO:0008037	cell recognition
+GO:0042395	5	GO:0050877	nervous system process
+GO:0007507	13	GO:0043588	skin development
+GO:0051055	4	GO:0006357	regulation of transcription by RNA polymerase II
+GO:0098664	3	GO:0007210	serotonin receptor signaling pathway
+GO:0001942	13	GO:0043588	skin development
+GO:0021675	13	GO:0043588	skin development
+GO:0042311	5	GO:0050877	nervous system process
+GO:0044782	1	GO:0030030	cell projection organization
+GO:0007614	5	GO:0050877	nervous system process
+GO:1903844	3	GO:0007210	serotonin receptor signaling pathway
+GO:0007600	5	GO:0050877	nervous system process
+GO:0007606	5	GO:0050877	nervous system process
+GO:0006357	4	GO:0006357	regulation of transcription by RNA polymerase II
+GO:0010951	4	GO:0006357	regulation of transcription by RNA polymerase II
+GO:0060079	3	GO:0007210	serotonin receptor signaling pathway
+GO:0043062	1	GO:0030030	cell projection organization
+GO:0043063	1	GO:0030030	cell projection organization
+GO:0006310	4	GO:0006357	regulation of transcription by RNA polymerase II
+GO:0051923	7	GO:0008037	cell recognition

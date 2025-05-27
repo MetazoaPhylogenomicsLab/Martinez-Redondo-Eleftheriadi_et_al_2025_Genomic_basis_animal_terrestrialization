@@ -1,0 +1,816 @@
+GO:0090312	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0002281	17	GO:0050864	regulation of B cell activation
+GO:0016237	14	GO:0009987	cellular process
+GO:0002274	14	GO:0009987	cellular process
+GO:2000146	7	GO:0002683	negative regulation of immune system process
+GO:0016064	16	GO:0002819	regulation of adaptive immune response
+GO:0042628	12	GO:0044703	multi-organism reproductive process
+GO:0007094	13	GO:0000819	sister chromatid segregation
+GO:0002200	10	GO:0061008	hepaticobiliary system development
+GO:0002204	3	GO:0000018	regulation of DNA recombination
+GO:0050769	9	GO:0031641	regulation of myelination
+GO:0002208	16	GO:0002819	regulation of adaptive immune response
+GO:1902948	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0032224	8	GO:0010941	regulation of cell death
+GO:0032210	3	GO:0000018	regulation of DNA recombination
+GO:0007051	13	GO:0000819	sister chromatid segregation
+GO:0070590	11	GO:0006949	syncytium formation
+GO:0070591	12	GO:0044703	multi-organism reproductive process
+GO:0050729	7	GO:0002683	negative regulation of immune system process
+GO:0045830	3	GO:0000018	regulation of DNA recombination
+GO:0030225	11	GO:0006949	syncytium formation
+GO:0032204	3	GO:0000018	regulation of DNA recombination
+GO:0006508	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0002712	16	GO:0002819	regulation of adaptive immune response
+GO:0061008	10	GO:0061008	hepaticobiliary system development
+GO:0002714	16	GO:0002819	regulation of adaptive immune response
+GO:2000278	3	GO:0000018	regulation of DNA recombination
+GO:0097191	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0098542	18	GO:0051606	detection of stimulus
+GO:0007004	3	GO:0000018	regulation of DNA recombination
+GO:0032760	1	GO:0001817	regulation of cytokine production
+GO:0032754	1	GO:0001817	regulation of cytokine production
+GO:0032755	1	GO:0001817	regulation of cytokine production
+GO:0000002	13	GO:0000819	sister chromatid segregation
+GO:0006384	3	GO:0000018	regulation of DNA recombination
+GO:0050864	17	GO:0050864	regulation of B cell activation
+GO:0002703	16	GO:0002819	regulation of adaptive immune response
+GO:1902004	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0002705	16	GO:0002819	regulation of adaptive immune response
+GO:0050867	8	GO:0010941	regulation of cell death
+GO:0002706	16	GO:0002819	regulation of adaptive immune response
+GO:0002708	16	GO:0002819	regulation of adaptive immune response
+GO:0045576	17	GO:0050864	regulation of B cell activation
+GO:0050851	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0050852	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0032722	1	GO:0001817	regulation of cytokine production
+GO:0050871	17	GO:0050864	regulation of B cell activation
+GO:0002891	16	GO:0002819	regulation of adaptive immune response
+GO:0051607	18	GO:0051606	detection of stimulus
+GO:0050878	19	GO:1900221	regulation of amyloid-beta clearance
+GO:1904356	3	GO:0000018	regulation of DNA recombination
+GO:0032747	1	GO:0001817	regulation of cytokine production
+GO:0034393	8	GO:0010941	regulation of cell death
+GO:0050817	19	GO:1900221	regulation of amyloid-beta clearance
+GO:0032733	1	GO:0001817	regulation of cytokine production
+GO:0039707	15	GO:0016032	viral process
+GO:0032735	1	GO:0001817	regulation of cytokine production
+GO:0032736	1	GO:0001817	regulation of cytokine production
+GO:0046718	15	GO:0016032	viral process
+GO:0032700	1	GO:0001817	regulation of cytokine production
+GO:0019226	19	GO:1900221	regulation of amyloid-beta clearance
+GO:0002889	16	GO:0002819	regulation of adaptive immune response
+GO:0019228	19	GO:1900221	regulation of amyloid-beta clearance
+GO:0033141	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0098670	15	GO:0016032	viral process
+GO:0140499	13	GO:0000819	sister chromatid segregation
+GO:0070673	18	GO:0051606	detection of stimulus
+GO:0002821	16	GO:0002819	regulation of adaptive immune response
+GO:0002822	16	GO:0002819	regulation of adaptive immune response
+GO:0002824	16	GO:0002819	regulation of adaptive immune response
+GO:0030703	12	GO:0044703	multi-organism reproductive process
+GO:0060251	9	GO:0031641	regulation of myelination
+GO:0002819	16	GO:0002819	regulation of adaptive immune response
+GO:0010950	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0002831	7	GO:0002683	negative regulation of immune system process
+GO:0002832	7	GO:0002683	negative regulation of immune system process
+GO:0042113	17	GO:0050864	regulation of B cell activation
+GO:0031334	8	GO:0010941	regulation of cell death
+GO:0035296	19	GO:1900221	regulation of amyloid-beta clearance
+GO:0048662	8	GO:0010941	regulation of cell death
+GO:0006458	14	GO:0009987	cellular process
+GO:0031640	14	GO:0009987	cellular process
+GO:0031645	19	GO:1900221	regulation of amyloid-beta clearance
+GO:0036301	1	GO:0001817	regulation of cytokine production
+GO:0045672	9	GO:0031641	regulation of myelination
+GO:0031638	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0071222	18	GO:0051606	detection of stimulus
+GO:0030856	9	GO:0031641	regulation of myelination
+GO:0007596	19	GO:1900221	regulation of amyloid-beta clearance
+GO:0042102	17	GO:0050864	regulation of B cell activation
+GO:0007599	19	GO:1900221	regulation of amyloid-beta clearance
+GO:0090266	13	GO:0000819	sister chromatid segregation
+GO:0052547	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0052548	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0048646	10	GO:0061008	hepaticobiliary system development
+GO:1990266	7	GO:0002683	negative regulation of immune system process
+GO:0019076	15	GO:0016032	viral process
+GO:0032834	17	GO:0050864	regulation of B cell activation
+GO:0071940	13	GO:0000819	sister chromatid segregation
+GO:0002562	3	GO:0000018	regulation of DNA recombination
+GO:0007586	19	GO:1900221	regulation of amyloid-beta clearance
+GO:0008063	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0046813	15	GO:0016032	viral process
+GO:0019724	16	GO:0002819	regulation of adaptive immune response
+GO:0046843	12	GO:0044703	multi-organism reproductive process
+GO:0090231	8	GO:0010941	regulation of cell death
+GO:0090233	8	GO:0010941	regulation of cell death
+GO:0071902	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0060760	7	GO:0002683	negative regulation of immune system process
+GO:0008016	19	GO:1900221	regulation of amyloid-beta clearance
+GO:0062033	13	GO:0000819	sister chromatid segregation
+GO:0050691	16	GO:0002819	regulation of adaptive immune response
+GO:0030595	7	GO:0002683	negative regulation of immune system process
+GO:0003018	19	GO:1900221	regulation of amyloid-beta clearance
+GO:0042244	11	GO:0006949	syncytium formation
+GO:0043457	8	GO:0010941	regulation of cell death
+GO:0044804	14	GO:0009987	cellular process
+GO:0045429	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0043470	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:1900542	3	GO:0000018	regulation of DNA recombination
+GO:0035073	10	GO:0061008	hepaticobiliary system development
+GO:0035075	18	GO:0051606	detection of stimulus
+GO:0045434	12	GO:0044703	multi-organism reproductive process
+GO:0050688	16	GO:0002819	regulation of adaptive immune response
+GO:0002696	8	GO:0010941	regulation of cell death
+GO:0006140	3	GO:0000018	regulation of DNA recombination
+GO:0097746	19	GO:1900221	regulation of amyloid-beta clearance
+GO:0002381	16	GO:0002819	regulation of adaptive immune response
+GO:0035036	12	GO:0044703	multi-organism reproductive process
+GO:0019882	19	GO:1900221	regulation of amyloid-beta clearance
+GO:0002377	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:1903707	9	GO:0031641	regulation of myelination
+GO:0051259	13	GO:0000819	sister chromatid segregation
+GO:0045190	3	GO:0000018	regulation of DNA recombination
+GO:0002683	7	GO:0002683	negative regulation of immune system process
+GO:0045191	3	GO:0000018	regulation of DNA recombination
+GO:0009617	18	GO:0051606	detection of stimulus
+GO:0007340	12	GO:0044703	multi-organism reproductive process
+GO:0007342	12	GO:0044703	multi-organism reproductive process
+GO:0002312	17	GO:0050864	regulation of B cell activation
+GO:0051969	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0033003	8	GO:0010941	regulation of cell death
+GO:0033005	17	GO:0050864	regulation of B cell activation
+GO:0007304	12	GO:0044703	multi-organism reproductive process
+GO:0007305	12	GO:0044703	multi-organism reproductive process
+GO:0007306	12	GO:0044703	multi-organism reproductive process
+GO:0031146	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0051926	5	GO:0034762	regulation of transmembrane transport
+GO:0002637	1	GO:0001817	regulation of cytokine production
+GO:0002639	1	GO:0001817	regulation of cytokine production
+GO:0035891	15	GO:0016032	viral process
+GO:0032653	1	GO:0001817	regulation of cytokine production
+GO:0032656	1	GO:0001817	regulation of cytokine production
+GO:0046693	12	GO:0044703	multi-organism reproductive process
+GO:0071887	14	GO:0009987	cellular process
+GO:0010835	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0001961	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0032674	1	GO:0001817	regulation of cytokine production
+GO:0006959	18	GO:0051606	detection of stimulus
+GO:0048143	11	GO:0006949	syncytium formation
+GO:1901256	1	GO:0001817	regulation of cytokine production
+GO:1901258	1	GO:0001817	regulation of cytokine production
+GO:0001959	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0032613	1	GO:0001817	regulation of cytokine production
+GO:0032616	1	GO:0001817	regulation of cytokine production
+GO:0035821	15	GO:0016032	viral process
+GO:0016444	3	GO:0000018	regulation of DNA recombination
+GO:0051054	3	GO:0000018	regulation of DNA recombination
+GO:0016445	10	GO:0061008	hepaticobiliary system development
+GO:0032634	1	GO:0001817	regulation of cytokine production
+GO:0016447	3	GO:0000018	regulation of DNA recombination
+GO:0044658	15	GO:0016032	viral process
+GO:0051084	14	GO:0009987	cellular process
+GO:0051085	14	GO:0009987	cellular process
+GO:1901216	8	GO:0010941	regulation of cell death
+GO:1901976	8	GO:0010941	regulation of cell death
+GO:0008592	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:1901977	8	GO:0010941	regulation of cell death
+GO:0061448	10	GO:0061008	hepaticobiliary system development
+GO:0034260	8	GO:0010941	regulation of cell death
+GO:0002429	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0002443	16	GO:0002819	regulation of adaptive immune response
+GO:0002449	16	GO:0002819	regulation of adaptive immune response
+GO:1902426	13	GO:0000819	sister chromatid segregation
+GO:0051044	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0060550	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0060552	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0001906	14	GO:0009987	cellular process
+GO:0051037	3	GO:0000018	regulation of DNA recombination
+GO:0060557	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0051712	8	GO:0010941	regulation of cell death
+GO:0060559	19	GO:1900221	regulation of amyloid-beta clearance
+GO:0010528	8	GO:0010941	regulation of cell death
+GO:0010529	8	GO:0010941	regulation of cell death
+GO:1904798	19	GO:1900221	regulation of amyloid-beta clearance
+GO:2001252	8	GO:0010941	regulation of cell death
+GO:2000309	1	GO:0001817	regulation of cytokine production
+GO:0098900	8	GO:0010941	regulation of cell death
+GO:0052111	15	GO:0016032	viral process
+GO:0098908	8	GO:0010941	regulation of cell death
+GO:0030476	12	GO:0044703	multi-organism reproductive process
+GO:0001774	17	GO:0050864	regulation of B cell activation
+GO:0030421	19	GO:1900221	regulation of amyloid-beta clearance
+GO:0001775	14	GO:0009987	cellular process
+GO:0001776	19	GO:1900221	regulation of amyloid-beta clearance
+GO:0048240	12	GO:0044703	multi-organism reproductive process
+GO:0045913	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0097529	7	GO:0002683	negative regulation of immune system process
+GO:0010508	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0097530	7	GO:0002683	negative regulation of immune system process
+GO:1903504	8	GO:0010941	regulation of cell death
+GO:0051851	15	GO:0016032	viral process
+GO:0070726	13	GO:0000819	sister chromatid segregation
+GO:0042552	11	GO:0006949	syncytium formation
+GO:0072006	10	GO:0061008	hepaticobiliary system development
+GO:0045087	18	GO:0051606	detection of stimulus
+GO:0034727	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0071652	1	GO:0001817	regulation of cytokine production
+GO:0071654	1	GO:0001817	regulation of cytokine production
+GO:0071655	1	GO:0001817	regulation of cytokine production
+GO:0071657	1	GO:0001817	regulation of cytokine production
+GO:0060333	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:1904892	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:1904894	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0042531	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:1902106	9	GO:0031641	regulation of myelination
+GO:0010634	7	GO:0002683	negative regulation of immune system process
+GO:0001889	10	GO:0061008	hepaticobiliary system development
+GO:0060632	8	GO:0010941	regulation of cell death
+GO:0071610	1	GO:0001817	regulation of cytokine production
+GO:0071611	1	GO:0001817	regulation of cytokine production
+GO:0002262	19	GO:1900221	regulation of amyloid-beta clearance
+GO:0044000	15	GO:0016032	viral process
+GO:0090136	14	GO:0009987	cellular process
+GO:0071684	19	GO:1900221	regulation of amyloid-beta clearance
+GO:0071218	18	GO:0051606	detection of stimulus
+GO:0046512	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0046514	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0044409	15	GO:0016032	viral process
+GO:0070192	13	GO:0000819	sister chromatid segregation
+GO:0048690	9	GO:0031641	regulation of myelination
+GO:0006325	13	GO:0000819	sister chromatid segregation
+GO:0098813	13	GO:0000819	sister chromatid segregation
+GO:0051177	13	GO:0000819	sister chromatid segregation
+GO:0048681	9	GO:0031641	regulation of myelination
+GO:0048686	9	GO:0031641	regulation of myelination
+GO:1990748	14	GO:0009987	cellular process
+GO:0048677	11	GO:0006949	syncytium formation
+GO:0070571	9	GO:0031641	regulation of myelination
+GO:0048840	10	GO:0061008	hepaticobiliary system development
+GO:0001756	10	GO:0061008	hepaticobiliary system development
+GO:0032474	10	GO:0061008	hepaticobiliary system development
+GO:0019058	15	GO:0016032	viral process
+GO:0001558	8	GO:0010941	regulation of cell death
+GO:0019083	15	GO:0016032	viral process
+GO:0035210	10	GO:0061008	hepaticobiliary system development
+GO:0046688	18	GO:0051606	detection of stimulus
+GO:0032887	8	GO:0010941	regulation of cell death
+GO:0032888	13	GO:0000819	sister chromatid segregation
+GO:0042759	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0140029	14	GO:0009987	cellular process
+GO:0051299	13	GO:0000819	sister chromatid segregation
+GO:0045132	13	GO:0000819	sister chromatid segregation
+GO:0030307	8	GO:0010941	regulation of cell death
+GO:0006906	13	GO:0000819	sister chromatid segregation
+GO:0007127	13	GO:0000819	sister chromatid segregation
+GO:0016032	15	GO:0016032	viral process
+GO:0007141	12	GO:0044703	multi-organism reproductive process
+GO:1903715	8	GO:0010941	regulation of cell death
+GO:0048753	13	GO:0000819	sister chromatid segregation
+GO:0032200	13	GO:0000819	sister chromatid segregation
+GO:0032205	3	GO:0000018	regulation of DNA recombination
+GO:0010256	13	GO:0000819	sister chromatid segregation
+GO:0045494	19	GO:1900221	regulation of amyloid-beta clearance
+GO:0051276	13	GO:0000819	sister chromatid segregation
+GO:0007100	13	GO:0000819	sister chromatid segregation
+GO:0033044	8	GO:0010941	regulation of cell death
+GO:0007060	12	GO:0044703	multi-organism reproductive process
+GO:0045026	13	GO:0000819	sister chromatid segregation
+GO:0031509	3	GO:0000018	regulation of DNA recombination
+GO:0006260	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0006261	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0000018	3	GO:0000018	regulation of DNA recombination
+GO:0002922	16	GO:0002819	regulation of adaptive immune response
+GO:0051307	13	GO:0000819	sister chromatid segregation
+GO:0045143	13	GO:0000819	sister chromatid segregation
+GO:0000819	13	GO:0000819	sister chromatid segregation
+GO:0040027	9	GO:0031641	regulation of myelination
+GO:0002225	16	GO:0002819	regulation of adaptive immune response
+GO:0008608	13	GO:0000819	sister chromatid segregation
+GO:0039693	15	GO:0016032	viral process
+GO:0039695	15	GO:0016032	viral process
+GO:0019730	18	GO:0051606	detection of stimulus
+GO:0010154	10	GO:0061008	hepaticobiliary system development
+GO:0010923	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0006309	3	GO:0000018	regulation of DNA recombination
+GO:0002760	16	GO:0002819	regulation of adaptive immune response
+GO:0002759	16	GO:0002819	regulation of adaptive immune response
+GO:0019079	15	GO:0016032	viral process
+GO:0002784	16	GO:0002819	regulation of adaptive immune response
+GO:0002775	16	GO:0002819	regulation of adaptive immune response
+GO:0009566	12	GO:0044703	multi-organism reproductive process
+GO:0002702	1	GO:0001817	regulation of cytokine production
+GO:0009987	14	GO:0009987	cellular process
+GO:0048316	10	GO:0061008	hepaticobiliary system development
+GO:0006401	3	GO:0000018	regulation of DNA recombination
+GO:0042753	8	GO:0010941	regulation of cell death
+GO:0007009	13	GO:0000819	sister chromatid segregation
+GO:0021551	10	GO:0061008	hepaticobiliary system development
+GO:0021556	10	GO:0061008	hepaticobiliary system development
+GO:0000722	3	GO:0000018	regulation of DNA recombination
+GO:0050911	18	GO:0051606	detection of stimulus
+GO:0050912	18	GO:0051606	detection of stimulus
+GO:0065004	13	GO:0000819	sister chromatid segregation
+GO:0031637	8	GO:0010941	regulation of cell death
+GO:0000738	3	GO:0000018	regulation of DNA recombination
+GO:0007186	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0050907	18	GO:0051606	detection of stimulus
+GO:0061844	18	GO:0051606	detection of stimulus
+GO:0007533	12	GO:0044703	multi-organism reproductive process
+GO:0051310	13	GO:0000819	sister chromatid segregation
+GO:0000467	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:2001251	8	GO:0010941	regulation of cell death
+GO:0061025	13	GO:0000819	sister chromatid segregation
+GO:0043266	5	GO:0034762	regulation of transmembrane transport
+GO:0044552	19	GO:1900221	regulation of amyloid-beta clearance
+GO:0007617	12	GO:0044703	multi-organism reproductive process
+GO:0007618	12	GO:0044703	multi-organism reproductive process
+GO:0007619	12	GO:0044703	multi-organism reproductive process
+GO:0007606	19	GO:1900221	regulation of amyloid-beta clearance
+GO:1900015	1	GO:0001817	regulation of cytokine production
+GO:1901379	5	GO:0034762	regulation of transmembrane transport
+GO:0071229	18	GO:0051606	detection of stimulus
+GO:0034090	13	GO:0000819	sister chromatid segregation
+GO:0140253	14	GO:0009987	cellular process
+GO:0000022	13	GO:0000819	sister chromatid segregation
+GO:0030728	12	GO:0044703	multi-organism reproductive process
+GO:0039663	15	GO:0016032	viral process
+GO:0000003	14	GO:0009987	cellular process
+GO:0006949	11	GO:0006949	syncytium formation
+GO:0006809	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0046209	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0050821	19	GO:1900221	regulation of amyloid-beta clearance
+GO:0019064	15	GO:0016032	viral process
+GO:0070527	19	GO:1900221	regulation of amyloid-beta clearance
+GO:0046755	15	GO:0016032	viral process
+GO:0050819	19	GO:1900221	regulation of amyloid-beta clearance
+GO:0051231	13	GO:0000819	sister chromatid segregation
+GO:0000280	13	GO:0000819	sister chromatid segregation
+GO:0022414	12	GO:0044703	multi-organism reproductive process
+GO:0001582	18	GO:0051606	detection of stimulus
+GO:1901016	5	GO:0034762	regulation of transmembrane transport
+GO:0048581	9	GO:0031641	regulation of myelination
+GO:2000241	8	GO:0010941	regulation of cell death
+GO:0000768	11	GO:0006949	syncytium formation
+GO:2001057	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0046802	15	GO:0016032	viral process
+GO:0033484	19	GO:1900221	regulation of amyloid-beta clearance
+GO:0034776	18	GO:0051606	detection of stimulus
+GO:0051321	14	GO:0009987	cellular process
+GO:0039702	15	GO:0016032	viral process
+GO:0051983	8	GO:0010941	regulation of cell death
+GO:0007052	13	GO:0000819	sister chromatid segregation
+GO:0007059	14	GO:0009987	cellular process
+GO:0048285	13	GO:0000819	sister chromatid segregation
+GO:0033045	13	GO:0000819	sister chromatid segregation
+GO:0007049	14	GO:0009987	cellular process
+GO:0061064	9	GO:0031641	regulation of myelination
+GO:0032757	1	GO:0001817	regulation of cytokine production
+GO:0018198	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0051445	8	GO:0010941	regulation of cell death
+GO:0032790	13	GO:0000819	sister chromatid segregation
+GO:1903008	13	GO:0000819	sister chromatid segregation
+GO:0007140	12	GO:0044703	multi-organism reproductive process
+GO:0046685	18	GO:0051606	detection of stimulus
+GO:0044703	12	GO:0044703	multi-organism reproductive process
+GO:0061058	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0090529	13	GO:0000819	sister chromatid segregation
+GO:0051302	8	GO:0010941	regulation of cell death
+GO:0033120	3	GO:0000018	regulation of DNA recombination
+GO:0032954	8	GO:0010941	regulation of cell death
+GO:0001755	11	GO:0006949	syncytium formation
+GO:0043161	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0010498	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0045924	12	GO:0044703	multi-organism reproductive process
+GO:0000917	13	GO:0000819	sister chromatid segregation
+GO:1900424	7	GO:0002683	negative regulation of immune system process
+GO:0051781	8	GO:0010941	regulation of cell death
+GO:0060439	10	GO:0061008	hepaticobiliary system development
+GO:0046008	12	GO:0044703	multi-organism reproductive process
+GO:0060180	12	GO:0044703	multi-organism reproductive process
+GO:0048705	10	GO:0061008	hepaticobiliary system development
+GO:0007621	12	GO:0044703	multi-organism reproductive process
+GO:0093002	18	GO:0051606	detection of stimulus
+GO:0046794	15	GO:0016032	viral process
+GO:0072499	11	GO:0006949	syncytium formation
+GO:0000422	13	GO:0000819	sister chromatid segregation
+GO:0042338	10	GO:0061008	hepaticobiliary system development
+GO:0001710	11	GO:0006949	syncytium formation
+GO:0034446	11	GO:0006949	syncytium formation
+GO:0050775	9	GO:0031641	regulation of myelination
+GO:0007218	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0001707	10	GO:0061008	hepaticobiliary system development
+GO:0051606	18	GO:0051606	detection of stimulus
+GO:0048332	10	GO:0061008	hepaticobiliary system development
+GO:0048333	11	GO:0006949	syncytium formation
+GO:0032413	5	GO:0034762	regulation of transmembrane transport
+GO:0010789	13	GO:0000819	sister chromatid segregation
+GO:0034109	14	GO:0009987	cellular process
+GO:0050914	19	GO:1900221	regulation of amyloid-beta clearance
+GO:0061726	13	GO:0000819	sister chromatid segregation
+GO:0009593	18	GO:0051606	detection of stimulus
+GO:0050906	19	GO:1900221	regulation of amyloid-beta clearance
+GO:0050909	19	GO:1900221	regulation of amyloid-beta clearance
+GO:0042138	3	GO:0000018	regulation of DNA recombination
+GO:0048565	10	GO:0061008	hepaticobiliary system development
+GO:1904063	5	GO:0034762	regulation of transmembrane transport
+GO:0045167	11	GO:0006949	syncytium formation
+GO:0048546	10	GO:0061008	hepaticobiliary system development
+GO:0007498	10	GO:0061008	hepaticobiliary system development
+GO:0010959	5	GO:0034762	regulation of transmembrane transport
+GO:0035199	18	GO:0051606	detection of stimulus
+GO:1902807	8	GO:0010941	regulation of cell death
+GO:0055123	10	GO:0061008	hepaticobiliary system development
+GO:0071482	18	GO:0051606	detection of stimulus
+GO:0071478	18	GO:0051606	detection of stimulus
+GO:0030168	19	GO:1900221	regulation of amyloid-beta clearance
+GO:0051316	13	GO:0000819	sister chromatid segregation
+GO:0035002	10	GO:0061008	hepaticobiliary system development
+GO:0061484	19	GO:1900221	regulation of amyloid-beta clearance
+GO:0051455	13	GO:0000819	sister chromatid segregation
+GO:0060795	11	GO:0006949	syncytium formation
+GO:0007614	19	GO:1900221	regulation of amyloid-beta clearance
+GO:0007631	19	GO:1900221	regulation of amyloid-beta clearance
+GO:0043248	13	GO:0000819	sister chromatid segregation
+GO:0070314	14	GO:0009987	cellular process
+GO:0070316	8	GO:0010941	regulation of cell death
+GO:0031508	3	GO:0000018	regulation of DNA recombination
+GO:0006312	3	GO:0000018	regulation of DNA recombination
+GO:1903531	8	GO:0010941	regulation of cell death
+GO:1901562	18	GO:0051606	detection of stimulus
+GO:0001941	13	GO:0000819	sister chromatid segregation
+GO:0019042	15	GO:0016032	viral process
+GO:0019043	15	GO:0016032	viral process
+GO:0022416	10	GO:0061008	hepaticobiliary system development
+GO:0099068	11	GO:0006949	syncytium formation
+GO:1902883	7	GO:0002683	negative regulation of immune system process
+GO:1903204	7	GO:0002683	negative regulation of immune system process
+GO:0046958	19	GO:1900221	regulation of amyloid-beta clearance
+GO:0032642	1	GO:0001817	regulation of cytokine production
+GO:0001172	3	GO:0000018	regulation of DNA recombination
+GO:0032602	1	GO:0001817	regulation of cytokine production
+GO:0044826	15	GO:0016032	viral process
+GO:1902075	18	GO:0051606	detection of stimulus
+GO:0007160	14	GO:0009987	cellular process
+GO:0075713	15	GO:0016032	viral process
+GO:0007158	14	GO:0009987	cellular process
+GO:0097105	11	GO:0006949	syncytium formation
+GO:0061041	7	GO:0002683	negative regulation of immune system process
+GO:0002687	7	GO:0002683	negative regulation of immune system process
+GO:0007608	19	GO:1900221	regulation of amyloid-beta clearance
+GO:0002689	7	GO:0002683	negative regulation of immune system process
+GO:1900016	1	GO:0001817	regulation of cytokine production
+GO:0050727	7	GO:0002683	negative regulation of immune system process
+GO:0050728	7	GO:0002683	negative regulation of immune system process
+GO:0034097	18	GO:0051606	detection of stimulus
+GO:0031668	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0034087	13	GO:0000819	sister chromatid segregation
+GO:0034089	13	GO:0000819	sister chromatid segregation
+GO:0085029	13	GO:0000819	sister chromatid segregation
+GO:0110134	12	GO:0044703	multi-organism reproductive process
+GO:0010760	7	GO:0002683	negative regulation of immune system process
+GO:0010762	7	GO:0002683	negative regulation of immune system process
+GO:0010764	7	GO:0002683	negative regulation of immune system process
+GO:0032410	5	GO:0034762	regulation of transmembrane transport
+GO:0010758	7	GO:0002683	negative regulation of immune system process
+GO:0001942	10	GO:0061008	hepaticobiliary system development
+GO:0014066	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0050916	19	GO:1900221	regulation of amyloid-beta clearance
+GO:0071357	18	GO:0051606	detection of stimulus
+GO:0070121	10	GO:0061008	hepaticobiliary system development
+GO:0022405	19	GO:1900221	regulation of amyloid-beta clearance
+GO:0071345	18	GO:0051606	detection of stimulus
+GO:0042633	19	GO:1900221	regulation of amyloid-beta clearance
+GO:1902305	5	GO:0034762	regulation of transmembrane transport
+GO:0098773	10	GO:0061008	hepaticobiliary system development
+GO:0071496	18	GO:0051606	detection of stimulus
+GO:0032102	7	GO:0002683	negative regulation of immune system process
+GO:0019221	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:1990834	18	GO:0051606	detection of stimulus
+GO:0071560	18	GO:0051606	detection of stimulus
+GO:0071559	18	GO:0051606	detection of stimulus
+GO:0031347	7	GO:0002683	negative regulation of immune system process
+GO:0031348	7	GO:0002683	negative regulation of immune system process
+GO:0009267	18	GO:0051606	detection of stimulus
+GO:0034340	18	GO:0051606	detection of stimulus
+GO:1905522	7	GO:0002683	negative regulation of immune system process
+GO:0071674	7	GO:0002683	negative regulation of immune system process
+GO:0071675	7	GO:0002683	negative regulation of immune system process
+GO:0032831	17	GO:0050864	regulation of B cell activation
+GO:0032832	17	GO:0050864	regulation of B cell activation
+GO:0035235	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0031055	13	GO:0000819	sister chromatid segregation
+GO:0030388	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0034508	13	GO:0000819	sister chromatid segregation
+GO:0045144	13	GO:0000819	sister chromatid segregation
+GO:0002361	17	GO:0050864	regulation of B cell activation
+GO:1903557	1	GO:0001817	regulation of cytokine production
+GO:0006509	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0051972	3	GO:0000018	regulation of DNA recombination
+GO:0051973	3	GO:0000018	regulation of DNA recombination
+GO:0019062	15	GO:0016032	viral process
+GO:0019068	15	GO:0016032	viral process
+GO:0034605	18	GO:0051606	detection of stimulus
+GO:0071365	18	GO:0051606	detection of stimulus
+GO:0033617	13	GO:0000819	sister chromatid segregation
+GO:0033619	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0019835	14	GO:0009987	cellular process
+GO:0008365	10	GO:0061008	hepaticobiliary system development
+GO:0032660	1	GO:0001817	regulation of cytokine production
+GO:0032667	1	GO:0001817	regulation of cytokine production
+GO:0030435	11	GO:0006949	syncytium formation
+GO:0034390	14	GO:0009987	cellular process
+GO:0034391	8	GO:0010941	regulation of cell death
+GO:0032620	1	GO:0001817	regulation of cytokine production
+GO:0032627	1	GO:0001817	regulation of cytokine production
+GO:0031664	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0031666	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0048831	9	GO:0031641	regulation of myelination
+GO:0042501	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0071450	18	GO:0051606	detection of stimulus
+GO:0071451	18	GO:0051606	detection of stimulus
+GO:1901654	18	GO:0051606	detection of stimulus
+GO:1900180	8	GO:0010941	regulation of cell death
+GO:1900182	8	GO:0010941	regulation of cell death
+GO:0009690	3	GO:0000018	regulation of DNA recombination
+GO:0060551	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0009691	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0060556	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0060558	19	GO:1900221	regulation of amyloid-beta clearance
+GO:0051715	14	GO:0009987	cellular process
+GO:0002298	17	GO:0050864	regulation of B cell activation
+GO:0060549	8	GO:0010941	regulation of cell death
+GO:2000573	3	GO:0000018	regulation of DNA recombination
+GO:2000516	17	GO:0050864	regulation of B cell activation
+GO:0043372	17	GO:0050864	regulation of B cell activation
+GO:0045591	17	GO:0050864	regulation of B cell activation
+GO:0042368	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0042359	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0009399	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0015979	14	GO:0009987	cellular process
+GO:0051043	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:2000679	19	GO:1900221	regulation of amyloid-beta clearance
+GO:0010661	8	GO:0010941	regulation of cell death
+GO:0033139	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:1902993	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0039548	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0032113	8	GO:0010941	regulation of cell death
+GO:0007215	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0044179	14	GO:0009987	cellular process
+GO:1902947	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0031134	13	GO:0000819	sister chromatid segregation
+GO:0019430	18	GO:0051606	detection of stimulus
+GO:0001708	11	GO:0006949	syncytium formation
+GO:0043934	11	GO:0006949	syncytium formation
+GO:0050961	18	GO:0051606	detection of stimulus
+GO:0034762	5	GO:0034762	regulation of transmembrane transport
+GO:1990758	13	GO:0000819	sister chromatid segregation
+GO:0019954	12	GO:0044703	multi-organism reproductive process
+GO:1904796	19	GO:1900221	regulation of amyloid-beta clearance
+GO:2000307	1	GO:0001817	regulation of cytokine production
+GO:0007096	13	GO:0000819	sister chromatid segregation
+GO:0009909	9	GO:0031641	regulation of myelination
+GO:0034080	13	GO:0000819	sister chromatid segregation
+GO:0007080	13	GO:0000819	sister chromatid segregation
+GO:0072535	1	GO:0001817	regulation of cytokine production
+GO:1990806	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0075733	15	GO:0016032	viral process
+GO:0016037	14	GO:0009987	cellular process
+GO:0010921	8	GO:0010941	regulation of cell death
+GO:0032829	17	GO:0050864	regulation of B cell activation
+GO:0046136	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0042742	18	GO:0051606	detection of stimulus
+GO:0050730	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0045137	10	GO:0061008	hepaticobiliary system development
+GO:1901857	8	GO:0010941	regulation of cell death
+GO:2000273	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0043055	10	GO:0061008	hepaticobiliary system development
+GO:1903580	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0050893	19	GO:1900221	regulation of amyloid-beta clearance
+GO:0009734	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:1903522	19	GO:1900221	regulation of amyloid-beta clearance
+GO:0002376	14	GO:0009987	cellular process
+GO:0022600	19	GO:1900221	regulation of amyloid-beta clearance
+GO:0050850	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0051924	5	GO:0034762	regulation of transmembrane transport
+GO:0051928	5	GO:0034762	regulation of transmembrane transport
+GO:0000266	13	GO:0000819	sister chromatid segregation
+GO:0034644	18	GO:0051606	detection of stimulus
+GO:0042832	18	GO:0051606	detection of stimulus
+GO:0002302	17	GO:0050864	regulation of B cell activation
+GO:0006681	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0006683	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0033674	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0009867	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0071351	18	GO:0051606	detection of stimulus
+GO:0046761	15	GO:0016032	viral process
+GO:0061440	10	GO:0061008	hepaticobiliary system development
+GO:0062197	18	GO:0051606	detection of stimulus
+GO:0030431	19	GO:1900221	regulation of amyloid-beta clearance
+GO:0061437	10	GO:0061008	hepaticobiliary system development
+GO:0048869	14	GO:0009987	cellular process
+GO:0098671	15	GO:0016032	viral process
+GO:0048872	19	GO:1900221	regulation of amyloid-beta clearance
+GO:0036037	17	GO:0050864	regulation of B cell activation
+GO:0051283	8	GO:0010941	regulation of cell death
+GO:0051279	5	GO:0034762	regulation of transmembrane transport
+GO:0048016	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0030154	11	GO:0006949	syncytium formation
+GO:1902622	7	GO:0002683	negative regulation of immune system process
+GO:0031641	9	GO:0031641	regulation of myelination
+GO:0031642	9	GO:0031641	regulation of myelination
+GO:0106056	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0046850	19	GO:1900221	regulation of amyloid-beta clearance
+GO:0051209	5	GO:0034762	regulation of transmembrane transport
+GO:2000053	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:2000055	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0060047	19	GO:1900221	regulation of amyloid-beta clearance
+GO:0030100	8	GO:0010941	regulation of cell death
+GO:0042661	9	GO:0031641	regulation of myelination
+GO:0018996	19	GO:1900221	regulation of amyloid-beta clearance
+GO:0022412	12	GO:0044703	multi-organism reproductive process
+GO:0032370	5	GO:0034762	regulation of transmembrane transport
+GO:0048511	14	GO:0009987	cellular process
+GO:0032371	5	GO:0034762	regulation of transmembrane transport
+GO:0051767	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0051769	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0050670	17	GO:0050864	regulation of B cell activation
+GO:0050671	17	GO:0050864	regulation of B cell activation
+GO:0050678	8	GO:0010941	regulation of cell death
+GO:0051770	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0008406	10	GO:0061008	hepaticobiliary system development
+GO:0045821	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0045823	19	GO:1900221	regulation of amyloid-beta clearance
+GO:0072124	9	GO:0031641	regulation of myelination
+GO:0072125	9	GO:0031641	regulation of myelination
+GO:0072110	10	GO:0061008	hepaticobiliary system development
+GO:0072111	10	GO:0061008	hepaticobiliary system development
+GO:0048507	10	GO:0061008	hepaticobiliary system development
+GO:0018158	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0070884	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0001907	15	GO:0016032	viral process
+GO:0044332	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0072109	10	GO:0061008	hepaticobiliary system development
+GO:1904427	5	GO:0034762	regulation of transmembrane transport
+GO:1904440	5	GO:0034762	regulation of transmembrane transport
+GO:0043374	17	GO:0050864	regulation of B cell activation
+GO:1904438	5	GO:0034762	regulation of transmembrane transport
+GO:0018108	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:1900221	19	GO:1900221	regulation of amyloid-beta clearance
+GO:1900222	19	GO:1900221	regulation of amyloid-beta clearance
+GO:0007155	14	GO:0009987	cellular process
+GO:0006952	18	GO:0051606	detection of stimulus
+GO:0006953	18	GO:0051606	detection of stimulus
+GO:0006955	18	GO:0051606	detection of stimulus
+GO:0006925	14	GO:0009987	cellular process
+GO:0019374	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0019376	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0033173	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0008284	8	GO:0010941	regulation of cell death
+GO:0002768	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0039573	7	GO:0002683	negative regulation of immune system process
+GO:0090022	7	GO:0002683	negative regulation of immune system process
+GO:0010669	19	GO:1900221	regulation of amyloid-beta clearance
+GO:2000647	8	GO:0010941	regulation of cell death
+GO:2000648	8	GO:0010941	regulation of cell death
+GO:0008219	14	GO:0009987	cellular process
+GO:0032941	19	GO:1900221	regulation of amyloid-beta clearance
+GO:0032944	8	GO:0010941	regulation of cell death
+GO:0032946	8	GO:0010941	regulation of cell death
+GO:0045664	9	GO:0031641	regulation of myelination
+GO:0045671	9	GO:0031641	regulation of myelination
+GO:0010632	7	GO:0002683	negative regulation of immune system process
+GO:0042475	10	GO:0061008	hepaticobiliary system development
+GO:0042476	10	GO:0061008	hepaticobiliary system development
+GO:0001780	19	GO:1900221	regulation of amyloid-beta clearance
+GO:0001781	19	GO:1900221	regulation of amyloid-beta clearance
+GO:0099601	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0007219	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0070663	8	GO:0010941	regulation of cell death
+GO:0070665	8	GO:0010941	regulation of cell death
+GO:0048302	3	GO:0000018	regulation of DNA recombination
+GO:0048304	3	GO:0000018	regulation of DNA recombination
+GO:0033273	18	GO:0051606	detection of stimulus
+GO:0034761	5	GO:0034762	regulation of transmembrane transport
+GO:0001897	15	GO:0016032	viral process
+GO:2000310	5	GO:0034762	regulation of transmembrane transport
+GO:0030593	7	GO:0002683	negative regulation of immune system process
+GO:0034756	5	GO:0034762	regulation of transmembrane transport
+GO:0034758	5	GO:0034762	regulation of transmembrane transport
+GO:0034759	5	GO:0034762	regulation of transmembrane transport
+GO:2000345	9	GO:0031641	regulation of myelination
+GO:0002026	19	GO:1900221	regulation of amyloid-beta clearance
+GO:0002027	19	GO:1900221	regulation of amyloid-beta clearance
+GO:0002028	5	GO:0034762	regulation of transmembrane transport
+GO:0110011	8	GO:0010941	regulation of cell death
+GO:0072012	10	GO:0061008	hepaticobiliary system development
+GO:1904783	5	GO:0034762	regulation of transmembrane transport
+GO:0009988	14	GO:0009987	cellular process
+GO:0031214	10	GO:0061008	hepaticobiliary system development
+GO:0097242	19	GO:1900221	regulation of amyloid-beta clearance
+GO:0045342	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0045346	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0045348	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0042100	17	GO:0050864	regulation of B cell activation
+GO:0043271	5	GO:0034762	regulation of transmembrane transport
+GO:0060438	10	GO:0061008	hepaticobiliary system development
+GO:0040028	9	GO:0031641	regulation of myelination
+GO:0000303	18	GO:0051606	detection of stimulus
+GO:0000305	18	GO:0051606	detection of stimulus
+GO:0044794	15	GO:0016032	viral process
+GO:1900544	3	GO:0000018	regulation of DNA recombination
+GO:0046426	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0072574	10	GO:0061008	hepaticobiliary system development
+GO:0072575	10	GO:0061008	hepaticobiliary system development
+GO:0072576	10	GO:0061008	hepaticobiliary system development
+GO:1904893	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0032731	1	GO:0001817	regulation of cytokine production
+GO:0032732	1	GO:0001817	regulation of cytokine production
+GO:0045453	19	GO:1900221	regulation of amyloid-beta clearance
+GO:0048144	14	GO:0009987	cellular process
+GO:0048145	8	GO:0010941	regulation of cell death
+GO:0048147	8	GO:0010941	regulation of cell death
+GO:0044788	15	GO:0016032	viral process
+GO:0097720	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0006099	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:1904064	5	GO:0034762	regulation of transmembrane transport
+GO:1905936	8	GO:0010941	regulation of cell death
+GO:0048291	3	GO:0000018	regulation of DNA recombination
+GO:0034599	18	GO:0051606	detection of stimulus
+GO:1904070	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0098869	14	GO:0009987	cellular process
+GO:0007595	10	GO:0061008	hepaticobiliary system development
+GO:0033028	14	GO:0009987	cellular process
+GO:1901722	9	GO:0031641	regulation of myelination
+GO:1901723	9	GO:0031641	regulation of myelination
+GO:0010941	8	GO:0010941	regulation of cell death
+GO:0045981	3	GO:0000018	regulation of DNA recombination
+GO:0007584	18	GO:0051606	detection of stimulus
+GO:1900037	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:1900038	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0031113	13	GO:0000819	sister chromatid segregation
+GO:0001816	1	GO:0001817	regulation of cytokine production
+GO:0001817	1	GO:0001817	regulation of cytokine production
+GO:0001819	1	GO:0001817	regulation of cytokine production
+GO:0001525	10	GO:0061008	hepaticobiliary system development
+GO:0048514	10	GO:0061008	hepaticobiliary system development
+GO:0001503	19	GO:1900221	regulation of amyloid-beta clearance
+GO:0030099	11	GO:0006949	syncytium formation
+GO:0010833	3	GO:0000018	regulation of DNA recombination
+GO:0045637	9	GO:0031641	regulation of myelination
+GO:0006278	3	GO:0000018	regulation of DNA recombination
+GO:0007549	1	GO:0001817	regulation of cytokine production
+GO:2001258	5	GO:0034762	regulation of transmembrane transport
+GO:0022898	5	GO:0034762	regulation of transmembrane transport
+GO:0019367	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0019368	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0033628	8	GO:0010941	regulation of cell death
+GO:0032465	8	GO:0010941	regulation of cell death
+GO:0048814	9	GO:0031641	regulation of myelination
+GO:0032412	5	GO:0034762	regulation of transmembrane transport
+GO:1901048	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0032409	19	GO:1900221	regulation of amyloid-beta clearance
+GO:0034766	5	GO:0034762	regulation of transmembrane transport
+GO:0006305	3	GO:0000018	regulation of DNA recombination
+GO:0006306	3	GO:0000018	regulation of DNA recombination
+GO:0007605	19	GO:1900221	regulation of amyloid-beta clearance
+GO:0007129	13	GO:0000819	sister chromatid segregation
+GO:0042761	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0006298	3	GO:0000018	regulation of DNA recombination
+GO:0070682	13	GO:0000819	sister chromatid segregation
+GO:0042810	14	GO:0009987	cellular process
+GO:0034625	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0034626	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0001818	1	GO:0001817	regulation of cytokine production
+GO:0035001	10	GO:0061008	hepaticobiliary system development
+GO:1905477	8	GO:0010941	regulation of cell death
+GO:0060271	13	GO:0000819	sister chromatid segregation
+GO:0010446	18	GO:0051606	detection of stimulus
+GO:0097696	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0035149	10	GO:0061008	hepaticobiliary system development
+GO:0060759	7	GO:0002683	negative regulation of immune system process
+GO:0007259	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0007229	6	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0009651	18	GO:0051606	detection of stimulus
+GO:0008045	11	GO:0006949	syncytium formation
+GO:0008037	14	GO:0009987	cellular process
+GO:0008039	11	GO:0006949	syncytium formation
+GO:1903317	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0050731	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0070613	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0032675	1	GO:0001817	regulation of cytokine production
+GO:0032635	1	GO:0001817	regulation of cytokine production
+GO:1902742	11	GO:0006949	syncytium formation
+GO:0019731	18	GO:0051606	detection of stimulus
+GO:1903188	8	GO:0010941	regulation of cell death
+GO:0060785	8	GO:0010941	regulation of cell death
+GO:0097035	14	GO:0009987	cellular process
+GO:0007260	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0007286	12	GO:0044703	multi-organism reproductive process
+GO:0042509	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:1905691	13	GO:0000819	sister chromatid segregation
+GO:2000242	8	GO:0010941	regulation of cell death
+GO:0048515	12	GO:0044703	multi-organism reproductive process
+GO:0010952	2	GO:0045913	positive regulation of carbohydrate metabolic process
+GO:0097194	14	GO:0009987	cellular process

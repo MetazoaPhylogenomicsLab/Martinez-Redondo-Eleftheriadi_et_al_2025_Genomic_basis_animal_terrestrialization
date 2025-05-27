@@ -1,0 +1,21 @@
+GO:0001875	1	GO:0016614	oxidoreductase activity, acting on CH-OH group of donors
+GO:0046982	2	GO:0030246	carbohydrate binding
+GO:0004653	1	GO:0016614	oxidoreductase activity, acting on CH-OH group of donors
+GO:0050135	1	GO:0016614	oxidoreductase activity, acting on CH-OH group of donors
+GO:0030246	2	GO:0030246	carbohydrate binding
+GO:0016706	1	GO:0016614	oxidoreductase activity, acting on CH-OH group of donors
+GO:0004453	1	GO:0016614	oxidoreductase activity, acting on CH-OH group of donors
+GO:0008106	1	GO:0016614	oxidoreductase activity, acting on CH-OH group of donors
+GO:0042043	2	GO:0030246	carbohydrate binding
+GO:0016614	1	GO:0016614	oxidoreductase activity, acting on CH-OH group of donors
+GO:0031683	2	GO:0030246	carbohydrate binding
+GO:0061809	1	GO:0016614	oxidoreductase activity, acting on CH-OH group of donors
+GO:0015101	1	GO:0016614	oxidoreductase activity, acting on CH-OH group of donors
+GO:0005506	2	GO:0030246	carbohydrate binding
+GO:0005200	1	GO:0016614	oxidoreductase activity, acting on CH-OH group of donors
+GO:0016274	1	GO:0016614	oxidoreductase activity, acting on CH-OH group of donors
+GO:0001530	2	GO:0030246	carbohydrate binding
+GO:0050780	2	GO:0030246	carbohydrate binding
+GO:0071949	2	GO:0030246	carbohydrate binding
+GO:0043548	2	GO:0030246	carbohydrate binding
+GO:0051015	2	GO:0030246	carbohydrate binding

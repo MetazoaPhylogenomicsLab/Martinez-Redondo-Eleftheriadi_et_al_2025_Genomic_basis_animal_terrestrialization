@@ -1,0 +1,18 @@
+GO:0032452	2	GO:0140457	protein demethylase activity
+GO:0042802	2	GO:0140457	protein demethylase activity
+GO:0042803	2	GO:0140457	protein demethylase activity
+GO:0140457	2	GO:0140457	protein demethylase activity
+GO:0015267	1	GO:0022803	passive transmembrane transporter activity
+GO:1901702	1	GO:0022803	passive transmembrane transporter activity
+GO:0050145	2	GO:0140457	protein demethylase activity
+GO:0022803	1	GO:0022803	passive transmembrane transporter activity
+GO:0017018	2	GO:0140457	protein demethylase activity
+GO:0004017	2	GO:0140457	protein demethylase activity
+GO:0051015	2	GO:0140457	protein demethylase activity
+GO:0005385	1	GO:0022803	passive transmembrane transporter activity
+GO:0019706	2	GO:0140457	protein demethylase activity
+GO:0016616	2	GO:0140457	protein demethylase activity
+GO:0004683	2	GO:0140457	protein demethylase activity
+GO:0031625	2	GO:0140457	protein demethylase activity
+GO:0030165	2	GO:0140457	protein demethylase activity
+GO:0051864	2	GO:0140457	protein demethylase activity

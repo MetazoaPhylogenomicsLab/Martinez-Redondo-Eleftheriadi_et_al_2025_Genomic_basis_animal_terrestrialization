@@ -1,0 +1,321 @@
+---
+title: "Genomic basis of terrestrialization GO enrichment"
+author: "Gemma Martínez"
+date: "2025-07-Jan"
+output: html_document
+---
+
+```{r, setup, include=FALSE}
+knitr::opts_knit$set(root.dir = '/home/metazomics/Metazoa_analyses/')
+```
+
+```{r load libraries, include=FALSE}
+options(java.parameters = "-Xmx5g")
+library(topGO)
+library(dplyr)
+library(data.table)
+library(stringr)
+library(httr)
+library(ggplot2)
+library(scico)
+library(treemap)
+library(GOfuncR)
+library(metapro)
+library(rSymPy)
+sympyStart()
+library(igraph)
+library("simplifyEnrichment")
+library(ggtree)
+```
+
+```{r functions}
+#GO enrichment with topGO
+run_enrichment_topgo<-function(geneID2GO, geneList, ont, alpha=0.05) {
+  GOdata <- new("topGOdata", description ="Simple session", ontology = ont, allGenes = geneList, nodeSize = 10, annot = annFUN.gene2GO, gene2GO = geneID2GO)
+  resultFisher <- runTest(GOdata, algorithm = "elim", statistic = "fisher")
+  pvalues<-score(resultFisher)
+  signif_data<-pvalues[pvalues<alpha]
+  signif_datatable<-as.data.table(signif_data)
+  rownames(signif_datatable)<-names(signif_data)
+  return(signif_datatable)
+}
+
+#Function to do treemap as an alternative to REVIGO
+get_treemap<-function(userData,goClusters,fileNameOutput="treemap_output.pdf",ont,plot_title=paste0(ont," TreeMap")){
+  #userData must be a dataframe with 2 columns, first GO term, second pvalue
+  colnames(userData)<-c("GO","pvalue")
+  userData$description<-get_names(userData$GO)[2] %>% unlist()
+  #ontSemSim is the semantic similarity matrix created using ConstellatoR for each of the 3 GO categories
+  #goClusters is a dataframe containing the as columns GO, cluster name, representative GO, and representative GO description. This is previously calculated using the Semantic similarity matrix in Constellator and clusters of GO terms (see code for obtaining representative with networks)
+  #If no preliminary clusters or semsim or anything were given, code should be modified to do 1) Calculate semantic similarity of GO terms; 2) Cluster GO terms; 3) For each cluster, obtain the representative by choosing the node with the minimum closeness in the subset of GO semantic similarity for each cluster; 4) Then run this code
+  #Join userData and goClusters
+  df<-inner_join(userData,goClusters,by="GO")
+  df<-df %>% mutate(value=case_when(pvalue<1e-300 ~ 300, pvalue>=1e-300 ~ abs(log10(pvalue)))) %>% dplyr::select(c(description,representative,value))
+  df$value<-as.numeric(as.character(df$value))
+  df<-df[,c("description","value","representative")]
+  df$representative<-as.factor(df$representative)
+  
+  #Color palette
+  color_palette <- scico(length(unique(df$representative)), palette = 'managua') #Too many representatives for colors. Max of 250
+  
+  # by default, outputs to a PDF file
+  pdf( file=fileNameOutput, width=16, height=9 ) # width and height are in inches
+  
+  # check the tmPlot command documentation for all possible parameters - there are a lot more
+  treemap(
+    df,
+    index = c("representative","description"),
+    vSize = "value",
+    type = "categorical",
+    vColor = "representative",
+    title = plot_title,
+    inflate.labels = FALSE,      # set this to TRUE for space-filling group labels - good for posters
+    lowerbound.cex.labels = 0,   # try to draw as many labels as possible (still, some small squares may not get a label)
+    bg.labels = "#F0EAF9",   # define background color of group labels
+  								 # "#CCCCCC00" is fully transparent, "#CCCCCCAA" is semi-transparent grey, NA is opaque
+    position.legend = "none",
+    palette = color_palette,
+    border.col = "white",
+    border.lwds = c(4,2)
+  )
+  
+  dev.off()
+}
+
+#Functions to fuse p-values into one. Functions from the ordmeta library
+fuse_pvalues <- function(pvalues_list){
+  if (length(pvalues_list)==1){
+      fused_pvalues_list<-pvalues_list
+  }
+  else{
+    fused_pvalues_list<-ordmeta(p=pvalues_list)$p #Not working with ONE pvalue
+  }
+  return(fused_pvalues_list)
+}
+
+F_i = function(p, i, n){
+  a = i
+  b = n-i+1
+  res = pbeta(q = p, shape1 = a, shape2 = b, lower.tail = T)
+  return(res)
+}
+
+ordmeta = function(p, is.onetail = TRUE, eff.sign=NULL){
+   direc = eff.sign
+   if(is.null(p)){stop("Input p-values are required.")}
+   if(!is.onetail & is.null(eff.sign)){stop("Input the direction of effects.")}
+   idx_na = which(is.na(p))
+   if(length(idx_na)>0){p = p[-idx_na]; eff.sign = eff.sign[-idx_na]}
+   ordmeta = function(p2)
+   {
+     ord = order(p2, decreasing = F)
+     pord = sort(p2, decreasing = F)
+
+     # get alpha = MIN(F_(i)(x)) {i={1..n}}
+     N = length(p2)
+     alpha = 1.01 # an arbitrary number larger than 1
+     for(i in 1:N)
+     {
+       alpha_temp = F_i(pord[i], i, N)
+       if(alpha_temp < alpha){idx_minimum = i; alpha = alpha_temp}
+     }
+     # symbolic integral
+     for(i in 1:N)
+     {
+       x = Var("x")
+       y = Var("y")
+       if(i==1)
+       {
+         templete = paste(i,"*integrate(1, (x, lob, y))")
+         lob = qbeta(p = alpha,shape1 = i, shape2 = N-i+1, lower.tail = T)
+         templete = gsub("lob", lob, templete)
+       }else if(i>1 & i<N){
+         integ = gsub(pattern = "y", replacement = "x", x = integ)
+         templete = paste(i, "*integrate(",integ,", (x, lob, y))")
+         lob = qbeta(p = alpha,shape1 = i, shape2 = N-i+1, lower.tail = T)
+         templete = gsub("lob", lob, templete)
+       }else if(i==N)
+       {
+         integ = gsub(pattern = "y", replacement = "x", x=integ)
+         templete = paste(i, "*integrate(",integ,", (x, lob, 1))")
+         lob = qbeta(p = alpha,shape1 = i, shape2 = N-i+1, lower.tail = T)
+         templete = gsub("lob", lob, templete)
+       }
+       #print(templete)
+       integ = sympy(templete)
+     }
+     res = 1-as.numeric(integ)
+     return(list(p=res, optimal_rank = idx_minimum, eff.p.idx = ord[1:idx_minimum], MMP = alpha))
+   }
+   if(is.onetail)
+   {
+     RES = ordmeta(p2 = p)
+     return(RES)
+   }else{
+     p1 = p2 = p
+     idx_pos = which(eff.sign >= 0)
+     idx_neg = which(eff.sign < 0)
+     p1[idx_pos] = p[idx_pos]/2
+     p1[idx_neg] = 1-p[idx_neg]/2
+     p2[idx_pos] = 1-p[idx_pos]/2
+     p2[idx_neg] = p[idx_neg]/2
+
+     RES1 = ordmeta(p2 = p1)
+     RES2 = ordmeta(p2 = p2)
+     if(RES1$p<=RES2$p){
+       RES = RES1; RES$overall.eff.direction = "+"
+     }else{
+         RES = RES2; RES$overall.eff.direction = "-"
+     }
+     RES$p = RES$p * 2
+     if(RES$p > 1.0){RES$p = 1.0}
+     return(RES)
+   }
+ }
+```
+
+```{r enrichment analysis}
+#Set working directory, paths and input files
+setwd('/home/metazomics/Metazoa_analyses/Phylogenetic_trees_and_analyses/GO_enrichment/')
+input_path="topGO_input"
+analysis="gene_loss" #gene_gain
+info_file="lost" #gained
+output_path=paste0("Results/",analysis,"/per_species")
+topgo_gos_filename="topGO_input"
+topgo_genelist_filename="genelist"
+topgo_genesubset_filename="subset_genes"
+terr_nodes=c("Hexapoda","Anomura","Brachyura","Isopoda","TRLO1","Myriapoda","Arachnida","Onychophora","ETES1","RVAR1","Tardigrada","PPUN2","ANGR1","Rhabditida","Stylomatophora","Ellobiida","OVER1","PELE1","DRAW1_PELO1_Crassi","PELO1_Crass","Crassiclitellata","CYCO1","ECRY2","HRPE1","PHEI1","Acteonemertidae","Geoplanidae","Tetrapoda")
+
+#Read species data
+#List of GO categories
+ontologies <-c("MF","CC","BP")
+#Execute enrichment for each species
+for (terr_node in terr_nodes){
+  print(terr_node)
+  #Obtain species in the terrestrialization node from file names (first 5 characters)
+  terr_node_sps<-str_remove(substr(list.files(paste0(input_path,"/",analysis), pattern=paste0("*_genelist_",terr_node,"_",info_file,".txt")), 1, 5),"_")
+  for (sp in terr_node_sps){
+    #Obtain list of all genes annotated by FANTASIA
+    all_genes<-read.table(paste0(input_path,"/",analysis,"/",sp,"_",topgo_genelist_filename,"_",terr_node,"_",info_file,".txt"),header=FALSE)
+    #Obtain genes from that species that were gained/lost at the terrestrialization node of interest
+    geneSubset<-read.table(paste0(input_path,"/",analysis,"/",sp,"_",topgo_genesubset_filename,"_",terr_node,"_",info_file,".txt"),header=FALSE)
+    #Identify which genes to enrich (gained/lost at terrestrialization node). Subset to enrich will be the ones with value of 1
+    geneList <- factor(if_else(all_genes$V1 %in% geneSubset$V1,1,0))
+    names(geneList)<-all_genes$V1
+    #Obtain gene-GOs
+    geneID2GO<-readMappings(file=paste0(input_path,"/",analysis,"/",sp,"_",topgo_gos_filename,"_",terr_node,"_",info_file,".txt"))
+    #Execute for each GO category
+    for (ont in ontologies){
+    print(ont)
+    #Run topGO enrichment and write results
+    enrich_result<-run_enrichment_topgo(geneID2GO, geneList, ont)
+    write.table(enrich_result,paste0(output_path,"/",ont,"_",info_file,"_",sp,"_",terr_node,"_topgo_enrichment.txt"),col.names=FALSE,row.names=TRUE,quote=FALSE)
+}
+}
+}
+```
+
+```{r combine p-values GO enrichment diff species and Treemap plots}
+alpha=0.05
+per_node_results_path<-paste0("Results/",analysis,"/per_node") #Output path
+
+#For each GO category
+for (ont in ontologies){
+  print(ont)
+  #For each node
+  for (terr_node in terr_nodes){ 
+    print(terr_node)
+    if (file.exists(paste0(per_node_results_path,"/signif_",info_file,"_",ont,"_",terr_node,"_topgo_enrichment.txt"))){
+      next
+    }
+    else{
+      #Obtain list of species in that node
+      sp_node<-str_remove(substr(list.files(paste0(input_path,"/",analysis), pattern=paste0("*_genelist_",terr_node,"_",info_file,".txt")), 1, 5),"_")
+      #Create empty list for node results
+      node_sp_results<-data.frame()
+      #For each species in the list
+      for (sp in sp_node){ #1:197 #198:300 #301:395
+        #Read results per species and add to node results
+        node_sp_results<-rbind(node_sp_results,read.table(paste0(output_path,"/",ont,"_",info_file,"_",sp,"_",terr_node,"_topgo_enrichment.txt"),header=FALSE))
+      }
+      colnames(node_sp_results)<-c("GO","pvalue")
+      #Obtain list of unique GO terms
+      golist<-as.list(unique(node_sp_results$GO))
+      #Obtain the list of p-values associated to each GO term in all species
+      pvalues_list<-lapply(golist, function(x) subset(node_sp_results,GO==x,select="pvalue")$pvalue)
+      #Fuse p-values for each GO term
+      possibleError <- tryCatch(
+        fused_pvalues_list<-lapply(pvalues_list, fuse_pvalues),
+        error=function(e){
+        cat("ERROR in fuse_pvalues for ",info_file,",",terr_node,",",ont,"\n")
+        e}
+        )
+      sympyStart()
+      if(inherits(possibleError, "error")) next
+      #Write new p-values into file
+      fused_pvalues_df<-as.data.frame(do.call(rbind, fused_pvalues_list))
+      rownames(fused_pvalues_df)<-golist
+      colnames(fused_pvalues_df)<-"pvalue"
+      write.table(fused_pvalues_df,paste0(per_node_results_path,"/",ont,"_",info_file,"_",terr_node,"_topgo_enrichment.txt"),col.names=FALSE,row.names=TRUE,quote=FALSE)
+      #Filter p-values by alpha
+      #fused_pvalues_df<-read.table(paste0(per_node_results_path,"/",ont,"_",terr_node,"_topgo_enrichment.txt"),header=FALSE)
+      #golist<-fused_pvalues_df$V1
+      #rownames(fused_pvalues_df)<-golist
+      #colnames(fused_pvalues_df)<-c("GO","pvalue")
+      #fused_pvalues_df$GO<-NULL
+      signif_fused_pvalues<-fused_pvalues_df[fused_pvalues_df$pvalue<alpha,] %>% as.data.frame()
+      rownames(signif_fused_pvalues)<-rownames(fused_pvalues_df)
+      write.table(signif_fused_pvalues,paste0(per_node_results_path,"/signif_",info_file,"_",ont,"_",terr_node,"_topgo_enrichment.txt"),col.names=FALSE,row.names=TRUE,quote=FALSE)
+    }
+    if (!file.exists(paste0(per_node_results_path,"/",ont,"_",info_file,"_",terr_node,"_treemap.pdf"))){
+      #Rfile name
+      fileNameOutput <- paste0(per_node_results_path,"/",ont,"_",info_file,"_",terr_node,"_treemap.pdf")
+      #TreeMap plot title
+      plot_title<-paste0("Genes ",info_file," in ",terr_node," ",ont," TreeMap")
+      # Read results
+      fileName <- paste0(per_node_results_path,"/signif_",info_file,"_",ont,"_",terr_node,"_topgo_enrichment.txt")
+      userData <- read.table(fileName,header=FALSE)
+      #Obtain clusters
+      go_ids<-userData$V1
+      set.seed(1234)
+      mat <- GO_similarity(go_ids,ont=ont,measure="Wang") #Compute semantic similarity from scratch
+      df<-cluster_terms(mat, method = "kmeans", catch_error=TRUE)
+      if(inherits(df, "try-error")){
+        cat("ERROR in K-means clustering (`max_k` should be larger than 2) for ",info_file,",",terr_node,",",ont,"\n")
+        next
+      }
+      goClusters<-data.frame(colnames(mat),df) #Format GO Cluster
+      colnames(goClusters)<-c("GO","Cluster")
+      clusters_representatives<-data.frame()
+      for (cluster in unique(goClusters$Cluster)){
+        cluster_gos<-goClusters[goClusters$Cluster==cluster,1] #Get GO terms belonging to each cluster
+        if (length(cluster_gos)==1){
+          clusters_representatives<-rbind(clusters_representatives,c(cluster,cluster_gos,get_names(cluster_gos)$go_name))
+          next
+        }
+        submat<-mat[cluster_gos,cluster_gos]
+        closeness_values<-graph_from_adjacency_matrix(as.matrix(submat),weighted=TRUE) %>% closeness()
+        if(sum(is.na(closeness_values))!=0){
+          i<-1
+          for (go in names(closeness_values)){
+            clusters_representatives<-rbind(clusters_representatives,c(paste0(cluster,"_",i),go,get_names(go)$go_name))
+            i<-i+1
+          }
+        }
+        else{
+          representative<-closeness_values[which.min(closeness_values)] %>% names() #Obtain "furthest" node, which means that it's the more general one
+          clusters_representatives<-rbind(clusters_representatives,c(cluster,representative,get_names(representative)$go_name))
+        }
+      }
+      colnames(clusters_representatives)<-c("Cluster","GO","Description")
+      clusters_representatives$Cluster<-as.integer(clusters_representatives$Cluster)
+      goClusters<-inner_join(goClusters,clusters_representatives,by="Cluster")
+      colnames(goClusters)<-c("GO","Cluster","GO_representative","representative")
+      #Save information on clusters per node
+      write.table(goClusters,paste0(per_node_results_path,"/GO_clusters_farness_representative_",ont,"_",info_file,"_",terr_node,".txt"),row.names=FALSE,quote=FALSE,col.names=FALSE,sep = "\t")
+      #Obtain Treemap
+      get_treemap(userData,goClusters,fileNameOutput,ont,plot_title)
+    }
+  }
+}
+```

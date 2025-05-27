@@ -1,0 +1,110 @@
+GO:0007533	3	GO:0030437	ascospore formation
+GO:0007507	2	GO:0007507	heart development
+GO:0032006	9	GO:0032006	regulation of TOR signaling
+GO:0045137	2	GO:0007507	heart development
+GO:1901857	7	GO:0046209	nitric oxide metabolic process
+GO:0060236	5	GO:0090224	regulation of spindle organization
+GO:0071637	8	GO:0060700	regulation of ribonuclease activity
+GO:0031031	9	GO:0032006	regulation of TOR signaling
+GO:0031032	5	GO:0090224	regulation of spindle organization
+GO:0048769	1	GO:0055002	striated muscle cell development
+GO:0044000	4	GO:0044000	movement in host
+GO:0044001	4	GO:0044000	movement in host
+GO:0051985	6	GO:0010965	regulation of mitotic sister chromatid separation
+GO:0051973	8	GO:0060700	regulation of ribonuclease activity
+GO:0000266	5	GO:0090224	regulation of spindle organization
+GO:0048738	2	GO:0007507	heart development
+GO:0046209	7	GO:0046209	nitric oxide metabolic process
+GO:0032505	3	GO:0030437	ascospore formation
+GO:1905758	5	GO:0090224	regulation of spindle organization
+GO:0072318	11	GO:0140353	lipid export from cell
+GO:0072319	11	GO:0140353	lipid export from cell
+GO:0051146	1	GO:0055002	striated muscle cell development
+GO:0019076	4	GO:0044000	movement in host
+GO:0035891	4	GO:0044000	movement in host
+GO:0009060	7	GO:0046209	nitric oxide metabolic process
+GO:0030435	1	GO:0055002	striated muscle cell development
+GO:0030437	3	GO:0030437	ascospore formation
+GO:0060700	8	GO:0060700	regulation of ribonuclease activity
+GO:0032675	8	GO:0060700	regulation of ribonuclease activity
+GO:0046740	4	GO:0044000	movement in host
+GO:0009048	8	GO:0060700	regulation of ribonuclease activity
+GO:0046739	4	GO:0044000	movement in host
+GO:0032635	8	GO:0060700	regulation of ribonuclease activity
+GO:0007389	2	GO:0007507	heart development
+GO:0051224	11	GO:0140353	lipid export from cell
+GO:0007317	3	GO:0030437	ascospore formation
+GO:0045746	9	GO:0032006	regulation of TOR signaling
+GO:1904355	8	GO:0060700	regulation of ribonuclease activity
+GO:0000735	8	GO:0060700	regulation of ribonuclease activity
+GO:0000736	8	GO:0060700	regulation of ribonuclease activity
+GO:0090224	5	GO:0090224	regulation of spindle organization
+GO:1905819	6	GO:0010965	regulation of mitotic sister chromatid separation
+GO:0042692	1	GO:0055002	striated muscle cell development
+GO:2000053	9	GO:0032006	regulation of TOR signaling
+GO:2000055	9	GO:0032006	regulation of TOR signaling
+GO:2000816	6	GO:0010965	regulation of mitotic sister chromatid separation
+GO:0070734	7	GO:0046209	nitric oxide metabolic process
+GO:0022413	3	GO:0030437	ascospore formation
+GO:0010825	5	GO:0090224	regulation of spindle organization
+GO:0032310	11	GO:0140353	lipid export from cell
+GO:0051781	9	GO:0032006	regulation of TOR signaling
+GO:0008406	2	GO:0007507	heart development
+GO:0046599	5	GO:0090224	regulation of spindle organization
+GO:0000070	6	GO:0010965	regulation of mitotic sister chromatid separation
+GO:0032309	11	GO:0140353	lipid export from cell
+GO:0018119	7	GO:0046209	nitric oxide metabolic process
+GO:0044332	9	GO:0032006	regulation of TOR signaling
+GO:0030239	1	GO:0055002	striated muscle cell development
+GO:0045002	8	GO:0060700	regulation of ribonuclease activity
+GO:0016191	11	GO:0140353	lipid export from cell
+GO:0014706	2	GO:0007507	heart development
+GO:1904950	11	GO:0140353	lipid export from cell
+GO:0034138	9	GO:0032006	regulation of TOR signaling
+GO:0140353	11	GO:0140353	lipid export from cell
+GO:0034293	3	GO:0030437	ascospore formation
+GO:0010688	8	GO:0060700	regulation of ribonuclease activity
+GO:0046601	5	GO:0090224	regulation of spindle organization
+GO:0007218	9	GO:0032006	regulation of TOR signaling
+GO:0031122	5	GO:0090224	regulation of spindle organization
+GO:0043984	7	GO:0046209	nitric oxide metabolic process
+GO:0071715	11	GO:0140353	lipid export from cell
+GO:2001057	7	GO:0046209	nitric oxide metabolic process
+GO:0043934	3	GO:0030437	ascospore formation
+GO:0043935	3	GO:0030437	ascospore formation
+GO:0043122	9	GO:0032006	regulation of TOR signaling
+GO:0043123	9	GO:0032006	regulation of TOR signaling
+GO:0034765	11	GO:0140353	lipid export from cell
+GO:0051657	11	GO:0140353	lipid export from cell
+GO:0003002	2	GO:0007507	heart development
+GO:0032212	8	GO:0060700	regulation of ribonuclease activity
+GO:1900015	8	GO:0060700	regulation of ribonuclease activity
+GO:0055013	1	GO:0055002	striated muscle cell development
+GO:0001819	8	GO:0060700	regulation of ribonuclease activity
+GO:0055001	1	GO:0055002	striated muscle cell development
+GO:0055002	1	GO:0055002	striated muscle cell development
+GO:0055003	1	GO:0055002	striated muscle cell development
+GO:0055006	1	GO:0055002	striated muscle cell development
+GO:0055007	1	GO:0055002	striated muscle cell development
+GO:0055008	2	GO:0007507	heart development
+GO:0045333	7	GO:0046209	nitric oxide metabolic process
+GO:2000480	7	GO:0046209	nitric oxide metabolic process
+GO:0010497	11	GO:0140353	lipid export from cell
+GO:0015732	11	GO:0140353	lipid export from cell
+GO:0071805	11	GO:0140353	lipid export from cell
+GO:0002534	8	GO:0060700	regulation of ribonuclease activity
+GO:0017014	7	GO:0046209	nitric oxide metabolic process
+GO:0048133	3	GO:0030437	ascospore formation
+GO:0001541	2	GO:0007507	heart development
+GO:0007010	5	GO:0090224	regulation of spindle organization
+GO:0019219	8	GO:0060700	regulation of ribonuclease activity
+GO:0010965	6	GO:0010965	regulation of mitotic sister chromatid separation
+GO:0051301	7	GO:0046209	nitric oxide metabolic process
+GO:0051304	6	GO:0010965	regulation of mitotic sister chromatid separation
+GO:0033046	6	GO:0010965	regulation of mitotic sister chromatid separation
+GO:0033047	6	GO:0010965	regulation of mitotic sister chromatid separation
+GO:0033048	6	GO:0010965	regulation of mitotic sister chromatid separation
+GO:0032069	8	GO:0060700	regulation of ribonuclease activity
+GO:0006809	7	GO:0046209	nitric oxide metabolic process
+GO:0035282	2	GO:0007507	heart development
+GO:0090309	8	GO:0060700	regulation of ribonuclease activity

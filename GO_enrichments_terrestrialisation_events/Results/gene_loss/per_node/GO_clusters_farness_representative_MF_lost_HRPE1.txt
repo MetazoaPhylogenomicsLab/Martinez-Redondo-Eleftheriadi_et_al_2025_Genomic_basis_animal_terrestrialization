@@ -1,0 +1,66 @@
+GO:0047963	2	GO:0061783	peptidoglycan muralytic activity
+GO:0003887	2	GO:0061783	peptidoglycan muralytic activity
+GO:0003823	6	GO:0043548	phosphatidylinositol 3-kinase binding
+GO:0003964	2	GO:0061783	peptidoglycan muralytic activity
+GO:0003968	2	GO:0061783	peptidoglycan muralytic activity
+GO:0043237	6	GO:0043548	phosphatidylinositol 3-kinase binding
+GO:0019966	6	GO:0043548	phosphatidylinositol 3-kinase binding
+GO:0016410	2	GO:0061783	peptidoglycan muralytic activity
+GO:0019955	6	GO:0043548	phosphatidylinositol 3-kinase binding
+GO:0000405	4	GO:0003677	DNA binding
+GO:0052815	2	GO:0061783	peptidoglycan muralytic activity
+GO:0052817	2	GO:0061783	peptidoglycan muralytic activity
+GO:0005031	1	GO:0004896	cytokine receptor activity
+GO:0070976	6	GO:0043548	phosphatidylinositol 3-kinase binding
+GO:0005123	6	GO:0043548	phosphatidylinositol 3-kinase binding
+GO:0004725	2	GO:0061783	peptidoglycan muralytic activity
+GO:0050700	6	GO:0043548	phosphatidylinositol 3-kinase binding
+GO:0005001	1	GO:0004896	cytokine receptor activity
+GO:0005139	6	GO:0043548	phosphatidylinositol 3-kinase binding
+GO:0008188	1	GO:0004896	cytokine receptor activity
+GO:0001875	1	GO:0004896	cytokine receptor activity
+GO:0089720	6	GO:0043548	phosphatidylinositol 3-kinase binding
+GO:0046790	6	GO:0043548	phosphatidylinositol 3-kinase binding
+GO:0043394	6	GO:0043548	phosphatidylinositol 3-kinase binding
+GO:0004896	1	GO:0004896	cytokine receptor activity
+GO:0003697	4	GO:0003677	DNA binding
+GO:0019198	1	GO:0004896	cytokine receptor activity
+GO:0004336	2	GO:0061783	peptidoglycan muralytic activity
+GO:0016290	2	GO:0061783	peptidoglycan muralytic activity
+GO:0030957	6	GO:0043548	phosphatidylinositol 3-kinase binding
+GO:0061783	2	GO:0061783	peptidoglycan muralytic activity
+GO:0004983	1	GO:0004896	cytokine receptor activity
+GO:0003688	4	GO:0003677	DNA binding
+GO:0003677	4	GO:0003677	DNA binding
+GO:0003678	2	GO:0061783	peptidoglycan muralytic activity
+GO:0000217	4	GO:0003677	DNA binding
+GO:0004945	1	GO:0004896	cytokine receptor activity
+GO:0033882	2	GO:0061783	peptidoglycan muralytic activity
+GO:0004908	1	GO:0004896	cytokine receptor activity
+GO:0140375	1	GO:0004896	cytokine receptor activity
+GO:0001067	4	GO:0003677	DNA binding
+GO:0045028	1	GO:0004896	cytokine receptor activity
+GO:0004523	3	GO:0004519	endonuclease activity
+GO:0035197	4	GO:0003677	DNA binding
+GO:0004519	3	GO:0004519	endonuclease activity
+GO:1990825	4	GO:0003677	DNA binding
+GO:0004190	2	GO:0061783	peptidoglycan muralytic activity
+GO:0036313	6	GO:0043548	phosphatidylinositol 3-kinase binding
+GO:0048019	6	GO:0043548	phosphatidylinositol 3-kinase binding
+GO:0043548	6	GO:0043548	phosphatidylinositol 3-kinase binding
+GO:1990837	4	GO:0003677	DNA binding
+GO:0031369	6	GO:0043548	phosphatidylinositol 3-kinase binding
+GO:0001614	1	GO:0004896	cytokine receptor activity
+GO:0003796	2	GO:0061783	peptidoglycan muralytic activity
+GO:0039706	6	GO:0043548	phosphatidylinositol 3-kinase binding
+GO:0061809	2	GO:0061783	peptidoglycan muralytic activity
+GO:0050135	2	GO:0061783	peptidoglycan muralytic activity
+GO:0016894	3	GO:0004519	endonuclease activity
+GO:0019784	2	GO:0061783	peptidoglycan muralytic activity
+GO:0035254	6	GO:0043548	phosphatidylinositol 3-kinase binding
+GO:0016888	3	GO:0004519	endonuclease activity
+GO:0016889	3	GO:0004519	endonuclease activity
+GO:0000976	4	GO:0003677	DNA binding
+GO:0000977	4	GO:0003677	DNA binding
+GO:0051428	6	GO:0043548	phosphatidylinositol 3-kinase binding
+GO:0102991	2	GO:0061783	peptidoglycan muralytic activity

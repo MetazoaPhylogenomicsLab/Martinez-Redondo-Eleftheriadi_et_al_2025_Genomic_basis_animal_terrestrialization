@@ -1,0 +1,147 @@
+GO:0061982	2	GO:1903046	meiotic cell cycle process
+GO:0032102	8	GO:0031348	negative regulation of defense response
+GO:0002285	7	GO:0002275	myeloid cell activation involved in immune response
+GO:0002286	7	GO:0002275	myeloid cell activation involved in immune response
+GO:0033674	3	GO:0045860	positive regulation of protein kinase activity
+GO:0002274	7	GO:0002275	myeloid cell activation involved in immune response
+GO:0002275	7	GO:0002275	myeloid cell activation involved in immune response
+GO:1903490	1	GO:1905758	positive regulation of primary cell septum biogenesis
+GO:0007218	9	GO:0050794	regulation of cellular process
+GO:0006809	10	GO:0031640	killing of cells of other organism
+GO:0042327	3	GO:0045860	positive regulation of protein kinase activity
+GO:0090309	10	GO:0031640	killing of cells of other organism
+GO:0050794	9	GO:0050794	regulation of cellular process
+GO:0045860	3	GO:0045860	positive regulation of protein kinase activity
+GO:0045869	6	GO:0019058	viral life cycle
+GO:0045859	3	GO:0045860	positive regulation of protein kinase activity
+GO:0007204	10	GO:0031640	killing of cells of other organism
+GO:0009909	11	GO:0044060	regulation of endocrine process
+GO:0032274	10	GO:0031640	killing of cells of other organism
+GO:0045824	8	GO:0031348	negative regulation of defense response
+GO:0032954	1	GO:1905758	positive regulation of primary cell septum biogenesis
+GO:0032955	1	GO:1905758	positive regulation of primary cell septum biogenesis
+GO:0061058	9	GO:0050794	regulation of cellular process
+GO:0050728	8	GO:0031348	negative regulation of defense response
+GO:1903436	1	GO:1905758	positive regulation of primary cell septum biogenesis
+GO:1903438	1	GO:1905758	positive regulation of primary cell septum biogenesis
+GO:0048831	11	GO:0044060	regulation of endocrine process
+GO:0016032	6	GO:0019058	viral life cycle
+GO:0061041	8	GO:0031348	negative regulation of defense response
+GO:0050731	3	GO:0045860	positive regulation of protein kinase activity
+GO:0050000	10	GO:0031640	killing of cells of other organism
+GO:0002027	11	GO:0044060	regulation of endocrine process
+GO:0007049	2	GO:1903046	meiotic cell cycle process
+GO:0051321	2	GO:1903046	meiotic cell cycle process
+GO:1900073	9	GO:0050794	regulation of cellular process
+GO:0051347	10	GO:0031640	killing of cells of other organism
+GO:1900015	4	GO:0032675	regulation of interleukin-6 production
+GO:1900016	4	GO:0032675	regulation of interleukin-6 production
+GO:0032755	4	GO:0032675	regulation of interleukin-6 production
+GO:0032757	4	GO:0032675	regulation of interleukin-6 production
+GO:0009892	4	GO:0032675	regulation of interleukin-6 production
+GO:0051303	10	GO:0031640	killing of cells of other organism
+GO:0045576	7	GO:0002275	myeloid cell activation involved in immune response
+GO:0070507	9	GO:0050794	regulation of cellular process
+GO:0060135	10	GO:0031640	killing of cells of other organism
+GO:0048570	10	GO:0031640	killing of cells of other organism
+GO:0044060	11	GO:0044060	regulation of endocrine process
+GO:0032720	4	GO:0032675	regulation of interleukin-6 production
+GO:0032729	4	GO:0032675	regulation of interleukin-6 production
+GO:0032715	4	GO:0032675	regulation of interleukin-6 production
+GO:0048511	10	GO:0031640	killing of cells of other organism
+GO:0006306	10	GO:0031640	killing of cells of other organism
+GO:0046740	5	GO:0044000	movement in host
+GO:0098670	6	GO:0019058	viral life cycle
+GO:0046739	5	GO:0044000	movement in host
+GO:0060255	4	GO:0032675	regulation of interleukin-6 production
+GO:0044000	5	GO:0044000	movement in host
+GO:0044001	5	GO:0044000	movement in host
+GO:0031671	1	GO:1905758	positive regulation of primary cell septum biogenesis
+GO:0002832	8	GO:0031348	negative regulation of defense response
+GO:0031348	8	GO:0031348	negative regulation of defense response
+GO:0042116	7	GO:0002275	myeloid cell activation involved in immune response
+GO:0010973	1	GO:1905758	positive regulation of primary cell septum biogenesis
+GO:0031640	10	GO:0031640	killing of cells of other organism
+GO:0042130	10	GO:0031640	killing of cells of other organism
+GO:0071222	10	GO:0031640	killing of cells of other organism
+GO:0019068	6	GO:0019058	viral life cycle
+GO:0062208	9	GO:0050794	regulation of cellular process
+GO:0071216	10	GO:0031640	killing of cells of other organism
+GO:0071219	10	GO:0031640	killing of cells of other organism
+GO:0019058	6	GO:0019058	viral life cycle
+GO:0019072	6	GO:0019058	viral life cycle
+GO:0046888	9	GO:0050794	regulation of cellular process
+GO:0019073	6	GO:0019058	viral life cycle
+GO:0019076	6	GO:0019058	viral life cycle
+GO:0010760	10	GO:0031640	killing of cells of other organism
+GO:0010764	10	GO:0031640	killing of cells of other organism
+GO:0007549	4	GO:0032675	regulation of interleukin-6 production
+GO:0022402	2	GO:1903046	meiotic cell cycle process
+GO:1905756	1	GO:1905758	positive regulation of primary cell septum biogenesis
+GO:1905758	1	GO:1905758	positive regulation of primary cell septum biogenesis
+GO:0008016	11	GO:0044060	regulation of endocrine process
+GO:0018119	10	GO:0031640	killing of cells of other organism
+GO:1903046	2	GO:1903046	meiotic cell cycle process
+GO:0070192	2	GO:1903046	meiotic cell cycle process
+GO:0070193	10	GO:0031640	killing of cells of other organism
+GO:0050680	9	GO:0050794	regulation of cellular process
+GO:1903034	8	GO:0031348	negative regulation of defense response
+GO:0009651	10	GO:0031640	killing of cells of other organism
+GO:0002366	7	GO:0002275	myeloid cell activation involved in immune response
+GO:1903008	10	GO:0031640	killing of cells of other organism
+GO:0070121	10	GO:0031640	killing of cells of other organism
+GO:0042088	10	GO:0031640	killing of cells of other organism
+GO:0007340	10	GO:0031640	killing of cells of other organism
+GO:0007342	10	GO:0031640	killing of cells of other organism
+GO:0007623	10	GO:0031640	killing of cells of other organism
+GO:0031128	10	GO:0031640	killing of cells of other organism
+GO:0035891	5	GO:0044000	movement in host
+GO:0032663	4	GO:0032675	regulation of interleukin-6 production
+GO:0032652	4	GO:0032675	regulation of interleukin-6 production
+GO:0140278	1	GO:1905758	positive regulation of primary cell septum biogenesis
+GO:0140279	1	GO:1905758	positive regulation of primary cell septum biogenesis
+GO:0051930	11	GO:0044060	regulation of endocrine process
+GO:0051931	11	GO:0044060	regulation of endocrine process
+GO:0032310	10	GO:0031640	killing of cells of other organism
+GO:0045143	2	GO:1903046	meiotic cell cycle process
+GO:0032675	4	GO:0032675	regulation of interleukin-6 production
+GO:0032612	4	GO:0032675	regulation of interleukin-6 production
+GO:0032635	4	GO:0032675	regulation of interleukin-6 production
+GO:0006940	11	GO:0044060	regulation of endocrine process
+GO:0001934	3	GO:0045860	positive regulation of protein kinase activity
+GO:0001937	9	GO:0050794	regulation of cellular process
+GO:0032606	4	GO:0032675	regulation of interleukin-6 production
+GO:0010569	10	GO:0031640	killing of cells of other organism
+GO:1902410	1	GO:1905758	positive regulation of primary cell septum biogenesis
+GO:1902412	1	GO:1905758	positive regulation of primary cell septum biogenesis
+GO:1900425	8	GO:0031348	negative regulation of defense response
+GO:0046601	1	GO:1905758	positive regulation of primary cell septum biogenesis
+GO:0010528	9	GO:0050794	regulation of cellular process
+GO:0010529	9	GO:0050794	regulation of cellular process
+GO:1903556	4	GO:0032675	regulation of interleukin-6 production
+GO:0032479	4	GO:0032675	regulation of interleukin-6 production
+GO:0033555	11	GO:0044060	regulation of endocrine process
+GO:0007127	2	GO:1903046	meiotic cell cycle process
+GO:0007140	2	GO:1903046	meiotic cell cycle process
+GO:0031028	9	GO:0050794	regulation of cellular process
+GO:0031029	9	GO:0050794	regulation of cellular process
+GO:0007130	2	GO:1903046	meiotic cell cycle process
+GO:0031031	1	GO:1905758	positive regulation of primary cell septum biogenesis
+GO:0045071	6	GO:0019058	viral life cycle
+GO:0010688	10	GO:0031640	killing of cells of other organism
+GO:0045026	10	GO:0031640	killing of cells of other organism
+GO:0060317	10	GO:0031640	killing of cells of other organism
+GO:0008343	11	GO:0044060	regulation of endocrine process
+GO:0008344	11	GO:0044060	regulation of endocrine process
+GO:0008345	11	GO:0044060	regulation of endocrine process
+GO:2001057	10	GO:0031640	killing of cells of other organism
+GO:0010629	4	GO:0032675	regulation of interleukin-6 production
+GO:1901891	1	GO:1905758	positive regulation of primary cell septum biogenesis
+GO:1901893	1	GO:1905758	positive regulation of primary cell septum biogenesis
+GO:0045724	10	GO:0031640	killing of cells of other organism
+GO:0090363	9	GO:0050794	regulation of cellular process
+GO:0090364	9	GO:0050794	regulation of cellular process
+GO:0043030	7	GO:0002275	myeloid cell activation involved in immune response
+GO:0080129	10	GO:0031640	killing of cells of other organism
+GO:0002263	7	GO:0002275	myeloid cell activation involved in immune response
+GO:0010605	4	GO:0032675	regulation of interleukin-6 production

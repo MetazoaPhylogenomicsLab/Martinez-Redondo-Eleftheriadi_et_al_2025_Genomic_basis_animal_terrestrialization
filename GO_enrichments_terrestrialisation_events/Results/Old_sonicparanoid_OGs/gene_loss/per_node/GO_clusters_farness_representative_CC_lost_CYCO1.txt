@@ -1,0 +1,130 @@
+GO:0034703	1	GO:0005891	voltage-gated calcium channel complex
+GO:0034704	1	GO:0005891	voltage-gated calcium channel complex
+GO:0009986	8	GO:0005576	extracellular region
+GO:0098984	8	GO:0005576	extracellular region
+GO:0016342	1	GO:0005891	voltage-gated calcium channel complex
+GO:0098975	8	GO:0005576	extracellular region
+GO:0098636	6	GO:0032993	protein-DNA complex
+GO:0033655	4	GO:0033646	host intracellular part
+GO:0045202	8	GO:0005576	extracellular region
+GO:0030424	5	GO:0120025	plasma membrane bounded cell projection
+GO:0030425	5	GO:0120025	plasma membrane bounded cell projection
+GO:0038039	1	GO:0005891	voltage-gated calcium channel complex
+GO:0009897	2	GO:0005886	plasma membrane
+GO:0009898	2	GO:0005886	plasma membrane
+GO:0062023	8	GO:0005576	extracellular region
+GO:1903561	7	GO:0000943	retrotransposon nucleocapsid
+GO:0030430	4	GO:0033646	host intracellular part
+GO:0033646	4	GO:0033646	host intracellular part
+GO:0099738	7	GO:0000943	retrotransposon nucleocapsid
+GO:0098858	5	GO:0120025	plasma membrane bounded cell projection
+GO:0030658	7	GO:0000943	retrotransposon nucleocapsid
+GO:0070062	7	GO:0000943	retrotransposon nucleocapsid
+GO:0035631	1	GO:0005891	voltage-gated calcium channel complex
+GO:0033150	7	GO:0000943	retrotransposon nucleocapsid
+GO:0030672	7	GO:0000943	retrotransposon nucleocapsid
+GO:0030673	2	GO:0005886	plasma membrane
+GO:0001518	1	GO:0005891	voltage-gated calcium channel complex
+GO:0043656	4	GO:0033646	host intracellular part
+GO:0016459	6	GO:0032993	protein-DNA complex
+GO:0005615	8	GO:0005576	extracellular region
+GO:0044174	4	GO:0033646	host intracellular part
+GO:0044175	4	GO:0033646	host intracellular part
+GO:0044177	4	GO:0033646	host intracellular part
+GO:0032982	7	GO:0000943	retrotransposon nucleocapsid
+GO:0005923	7	GO:0000943	retrotransposon nucleocapsid
+GO:0005891	1	GO:0005891	voltage-gated calcium channel complex
+GO:0008540	6	GO:0032993	protein-DNA complex
+GO:0042995	5	GO:0120025	plasma membrane bounded cell projection
+GO:0042718	8	GO:0005576	extracellular region
+GO:0005863	7	GO:0000943	retrotransposon nucleocapsid
+GO:0005901	2	GO:0005886	plasma membrane
+GO:0005902	5	GO:0120025	plasma membrane bounded cell projection
+GO:0005886	2	GO:0005886	plasma membrane
+GO:0072562	8	GO:0005576	extracellular region
+GO:0020002	4	GO:0033646	host intracellular part
+GO:0098562	8	GO:0005576	extracellular region
+GO:0019897	2	GO:0005886	plasma membrane
+GO:0020009	7	GO:0000943	retrotransposon nucleocapsid
+GO:0098552	8	GO:0005576	extracellular region
+GO:0045179	7	GO:0000943	retrotransposon nucleocapsid
+GO:0060417	8	GO:0005576	extracellular region
+GO:0044295	5	GO:0120025	plasma membrane bounded cell projection
+GO:0005832	6	GO:0032993	protein-DNA complex
+GO:0032839	5	GO:0120025	plasma membrane bounded cell projection
+GO:0101003	7	GO:0000943	retrotransposon nucleocapsid
+GO:0043083	8	GO:0005576	extracellular region
+GO:0032010	7	GO:0000943	retrotransposon nucleocapsid
+GO:0001917	8	GO:0005576	extracellular region
+GO:0043025	8	GO:0005576	extracellular region
+GO:0032809	2	GO:0005886	plasma membrane
+GO:0098794	8	GO:0005576	extracellular region
+GO:0098797	1	GO:0005891	voltage-gated calcium channel complex
+GO:0035301	6	GO:0032993	protein-DNA complex
+GO:0019028	3	GO:0019028	viral capsid
+GO:0014069	7	GO:0000943	retrotransposon nucleocapsid
+GO:0019013	3	GO:0019028	viral capsid
+GO:0099572	8	GO:0005576	extracellular region
+GO:0032279	8	GO:0005576	extracellular region
+GO:0055036	8	GO:0005576	extracellular region
+GO:0019031	3	GO:0019028	viral capsid
+GO:0045261	6	GO:0032993	protein-DNA complex
+GO:0043005	5	GO:0120025	plasma membrane bounded cell projection
+GO:0031012	8	GO:0005576	extracellular region
+GO:0005581	6	GO:0032993	protein-DNA complex
+GO:0032589	2	GO:0005886	plasma membrane
+GO:0005576	8	GO:0005576	extracellular region
+GO:0016027	1	GO:0005891	voltage-gated calcium channel complex
+GO:0016028	5	GO:0120025	plasma membrane bounded cell projection
+GO:0000221	7	GO:0000943	retrotransposon nucleocapsid
+GO:0045211	2	GO:0005886	plasma membrane
+GO:0043235	6	GO:0032993	protein-DNA complex
+GO:0120025	5	GO:0120025	plasma membrane bounded cell projection
+GO:0099501	7	GO:0000943	retrotransposon nucleocapsid
+GO:0016327	2	GO:0005886	plasma membrane
+GO:0070160	7	GO:0000943	retrotransposon nucleocapsid
+GO:0043204	8	GO:0005576	extracellular region
+GO:0097730	5	GO:0120025	plasma membrane bounded cell projection
+GO:0033644	4	GO:0033646	host intracellular part
+GO:0008328	1	GO:0005891	voltage-gated calcium channel complex
+GO:0098839	2	GO:0005886	plasma membrane
+GO:0005892	1	GO:0005891	voltage-gated calcium channel complex
+GO:0005918	7	GO:0000943	retrotransposon nucleocapsid
+GO:0071818	6	GO:0032993	protein-DNA complex
+GO:0000943	7	GO:0000943	retrotransposon nucleocapsid
+GO:1990454	1	GO:0005891	voltage-gated calcium channel complex
+GO:0016605	7	GO:0000943	retrotransposon nucleocapsid
+GO:0048786	8	GO:0005576	extracellular region
+GO:0043296	7	GO:0000943	retrotransposon nucleocapsid
+GO:0044304	5	GO:0120025	plasma membrane bounded cell projection
+GO:0032590	2	GO:0005886	plasma membrane
+GO:0035230	5	GO:0120025	plasma membrane bounded cell projection
+GO:0019029	3	GO:0019028	viral capsid
+GO:0042025	4	GO:0033646	host intracellular part
+GO:0039615	3	GO:0019028	viral capsid
+GO:0005577	8	GO:0005576	extracellular region
+GO:0043493	6	GO:0032993	protein-DNA complex
+GO:0042597	8	GO:0005576	extracellular region
+GO:1905347	6	GO:0032993	protein-DNA complex
+GO:0032993	6	GO:0032993	protein-DNA complex
+GO:0098878	1	GO:0005891	voltage-gated calcium channel complex
+GO:1990077	6	GO:0032993	protein-DNA complex
+GO:0043684	6	GO:0032993	protein-DNA complex
+GO:0098025	3	GO:0019028	viral capsid
+GO:0098026	3	GO:0019028	viral capsid
+GO:0043190	1	GO:0005891	voltage-gated calcium channel complex
+GO:0046930	1	GO:0005891	voltage-gated calcium channel complex
+GO:0044853	2	GO:0005886	plasma membrane
+GO:0009380	6	GO:0032993	protein-DNA complex
+GO:0098802	1	GO:0005891	voltage-gated calcium channel complex
+GO:0009288	5	GO:0120025	plasma membrane bounded cell projection
+GO:0009274	8	GO:0005576	extracellular region
+GO:0009279	2	GO:0005886	plasma membrane
+GO:0020007	8	GO:0005576	extracellular region
+GO:0055052	1	GO:0005891	voltage-gated calcium channel complex
+GO:0017071	1	GO:0005891	voltage-gated calcium channel complex
+GO:0019812	6	GO:0032993	protein-DNA complex
+GO:0030288	8	GO:0005576	extracellular region
+GO:0009425	5	GO:0120025	plasma membrane bounded cell projection
+GO:0043590	7	GO:0000943	retrotransposon nucleocapsid
+GO:0110001	6	GO:0032993	protein-DNA complex

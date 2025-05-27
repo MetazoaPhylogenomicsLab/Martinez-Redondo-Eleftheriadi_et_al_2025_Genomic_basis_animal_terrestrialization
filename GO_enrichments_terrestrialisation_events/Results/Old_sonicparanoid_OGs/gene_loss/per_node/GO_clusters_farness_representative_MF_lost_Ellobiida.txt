@@ -1,0 +1,202 @@
+GO:0005540	1	GO:0120160	intraciliary transport particle A binding
+GO:0005534	1	GO:0120160	intraciliary transport particle A binding
+GO:0008417	8	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0140103	8	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0005249	8	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0051428	2	GO:0051428	peptide hormone receptor binding
+GO:0055106	7	GO:0004857	enzyme inhibitor activity
+GO:0005068	2	GO:0051428	peptide hormone receptor binding
+GO:0019208	7	GO:0004857	enzyme inhibitor activity
+GO:0048018	2	GO:0051428	peptide hormone receptor binding
+GO:0003964	8	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0048306	3	GO:0005102	signaling receptor binding
+GO:0003968	8	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0070492	1	GO:0120160	intraciliary transport particle A binding
+GO:0003690	5	GO:0001067	transcription regulatory region nucleic acid binding
+GO:0008146	8	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0046965	2	GO:0051428	peptide hormone receptor binding
+GO:0004745	8	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0042834	1	GO:0120160	intraciliary transport particle A binding
+GO:0043565	5	GO:0001067	transcription regulatory region nucleic acid binding
+GO:0046920	8	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0000995	9	GO:0005198	structural molecule activity
+GO:1990846	7	GO:0004857	enzyme inhibitor activity
+GO:0008568	8	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0062037	5	GO:0001067	transcription regulatory region nucleic acid binding
+GO:0001222	2	GO:0051428	peptide hormone receptor binding
+GO:1990837	4	GO:0000976	transcription cis-regulatory region binding
+GO:0031490	5	GO:0001067	transcription regulatory region nucleic acid binding
+GO:0003712	7	GO:0004857	enzyme inhibitor activity
+GO:0003713	7	GO:0004857	enzyme inhibitor activity
+GO:0000981	9	GO:0005198	structural molecule activity
+GO:0000987	4	GO:0000976	transcription cis-regulatory region binding
+GO:0039660	9	GO:0005198	structural molecule activity
+GO:0098631	3	GO:0005102	signaling receptor binding
+GO:0098632	2	GO:0051428	peptide hormone receptor binding
+GO:0000976	4	GO:0000976	transcription cis-regulatory region binding
+GO:0038023	6	GO:0004888	transmembrane signaling receptor activity
+GO:0000977	4	GO:0000976	transcription cis-regulatory region binding
+GO:0038024	9	GO:0005198	structural molecule activity
+GO:0120160	1	GO:0120160	intraciliary transport particle A binding
+GO:0000978	4	GO:0000976	transcription cis-regulatory region binding
+GO:0004862	7	GO:0004857	enzyme inhibitor activity
+GO:0001067	5	GO:0001067	transcription regulatory region nucleic acid binding
+GO:0004857	7	GO:0004857	enzyme inhibitor activity
+GO:0003700	9	GO:0005198	structural molecule activity
+GO:0019864	1	GO:0120160	intraciliary transport particle A binding
+GO:0071813	1	GO:0120160	intraciliary transport particle A binding
+GO:0071814	1	GO:0120160	intraciliary transport particle A binding
+GO:0008097	5	GO:0001067	transcription regulatory region nucleic acid binding
+GO:0019888	7	GO:0004857	enzyme inhibitor activity
+GO:0031404	1	GO:0120160	intraciliary transport particle A binding
+GO:0005179	2	GO:0051428	peptide hormone receptor binding
+GO:0005126	3	GO:0005102	signaling receptor binding
+GO:0008083	2	GO:0051428	peptide hormone receptor binding
+GO:0035259	2	GO:0051428	peptide hormone receptor binding
+GO:0005149	2	GO:0051428	peptide hormone receptor binding
+GO:0008028	8	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0008013	3	GO:0005102	signaling receptor binding
+GO:0030169	1	GO:0120160	intraciliary transport particle A binding
+GO:0042974	2	GO:0051428	peptide hormone receptor binding
+GO:0005104	2	GO:0051428	peptide hormone receptor binding
+GO:0080030	8	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0051010	2	GO:0051428	peptide hormone receptor binding
+GO:0140110	9	GO:0005198	structural molecule activity
+GO:0004517	8	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0005516	3	GO:0005102	signaling receptor binding
+GO:0005539	1	GO:0120160	intraciliary transport particle A binding
+GO:0004993	6	GO:0004888	transmembrane signaling receptor activity
+GO:0008061	1	GO:0120160	intraciliary transport particle A binding
+GO:0015101	8	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0008066	6	GO:0004888	transmembrane signaling receptor activity
+GO:0060089	9	GO:0005198	structural molecule activity
+GO:0008395	8	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0005506	1	GO:0120160	intraciliary transport particle A binding
+GO:0015026	6	GO:0004888	transmembrane signaling receptor activity
+GO:0004957	6	GO:0004888	transmembrane signaling receptor activity
+GO:0015291	8	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0004970	6	GO:0004888	transmembrane signaling receptor activity
+GO:0004896	6	GO:0004888	transmembrane signaling receptor activity
+GO:0035615	2	GO:0051428	peptide hormone receptor binding
+GO:0004861	7	GO:0004857	enzyme inhibitor activity
+GO:0004867	7	GO:0004857	enzyme inhibitor activity
+GO:0031768	2	GO:0051428	peptide hormone receptor binding
+GO:0004888	6	GO:0004888	transmembrane signaling receptor activity
+GO:0005198	9	GO:0005198	structural molecule activity
+GO:0050780	2	GO:0051428	peptide hormone receptor binding
+GO:0008528	6	GO:0004888	transmembrane signaling receptor activity
+GO:0032182	3	GO:0005102	signaling receptor binding
+GO:0008201	1	GO:0120160	intraciliary transport particle A binding
+GO:0020037	5	GO:0001067	transcription regulatory region nucleic acid binding
+GO:0016712	8	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0004806	8	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0072349	8	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0005112	3	GO:0005102	signaling receptor binding
+GO:0140375	6	GO:0004888	transmembrane signaling receptor activity
+GO:0016404	8	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0031956	8	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0140312	8	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0070513	3	GO:0005102	signaling receptor binding
+GO:0030291	7	GO:0004857	enzyme inhibitor activity
+GO:0019900	3	GO:0005102	signaling receptor binding
+GO:0019901	2	GO:0051428	peptide hormone receptor binding
+GO:0030296	7	GO:0004857	enzyme inhibitor activity
+GO:0030371	9	GO:0005198	structural molecule activity
+GO:0016608	2	GO:0051428	peptide hormone receptor binding
+GO:0004497	8	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0004519	8	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0030345	9	GO:0005198	structural molecule activity
+GO:0019838	3	GO:0005102	signaling receptor binding
+GO:0016907	6	GO:0004888	transmembrane signaling receptor activity
+GO:0017046	1	GO:0120160	intraciliary transport particle A binding
+GO:0030276	3	GO:0005102	signaling receptor binding
+GO:0042826	3	GO:0005102	signaling receptor binding
+GO:1904315	8	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0070403	5	GO:0001067	transcription regulatory region nucleic acid binding
+GO:0008188	6	GO:0004888	transmembrane signaling receptor activity
+GO:0001848	3	GO:0005102	signaling receptor binding
+GO:0005200	9	GO:0005198	structural molecule activity
+GO:0005201	9	GO:0005198	structural molecule activity
+GO:0046966	2	GO:0051428	peptide hormone receptor binding
+GO:0043422	2	GO:0051428	peptide hormone receptor binding
+GO:0019211	7	GO:0004857	enzyme inhibitor activity
+GO:0043035	5	GO:0001067	transcription regulatory region nucleic acid binding
+GO:0030627	5	GO:0001067	transcription regulatory region nucleic acid binding
+GO:0005243	8	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0042802	3	GO:0005102	signaling receptor binding
+GO:0030247	1	GO:0120160	intraciliary transport particle A binding
+GO:0042809	2	GO:0051428	peptide hormone receptor binding
+GO:0035033	7	GO:0004857	enzyme inhibitor activity
+GO:0035034	7	GO:0004857	enzyme inhibitor activity
+GO:0061980	5	GO:0001067	transcription regulatory region nucleic acid binding
+GO:0034713	2	GO:0051428	peptide hormone receptor binding
+GO:0004930	6	GO:0004888	transmembrane signaling receptor activity
+GO:0042169	3	GO:0005102	signaling receptor binding
+GO:0008227	6	GO:0004888	transmembrane signaling receptor activity
+GO:0070530	2	GO:0051428	peptide hormone receptor binding
+GO:0051018	3	GO:0005102	signaling receptor binding
+GO:0051019	2	GO:0051428	peptide hormone receptor binding
+GO:0001227	8	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0001228	8	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0042975	3	GO:0005102	signaling receptor binding
+GO:0050321	8	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0004693	8	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0043125	3	GO:0005102	signaling receptor binding
+GO:0030374	7	GO:0004857	enzyme inhibitor activity
+GO:0003682	3	GO:0005102	signaling receptor binding
+GO:0004252	8	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0031005	3	GO:0005102	signaling receptor binding
+GO:0030346	2	GO:0051428	peptide hormone receptor binding
+GO:0030331	2	GO:0051428	peptide hormone receptor binding
+GO:0061665	8	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0140444	8	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0008373	8	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0008327	5	GO:0001067	transcription regulatory region nucleic acid binding
+GO:1990782	2	GO:0051428	peptide hormone receptor binding
+GO:0001786	1	GO:0120160	intraciliary transport particle A binding
+GO:0046790	3	GO:0005102	signaling receptor binding
+GO:0019865	1	GO:0120160	intraciliary transport particle A binding
+GO:0042277	1	GO:0120160	intraciliary transport particle A binding
+GO:0032183	3	GO:0005102	signaling receptor binding
+GO:0030882	1	GO:0120160	intraciliary transport particle A binding
+GO:0097153	8	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0030023	9	GO:0005198	structural molecule activity
+GO:0050431	2	GO:0051428	peptide hormone receptor binding
+GO:0005044	9	GO:0005198	structural molecule activity
+GO:0071889	3	GO:0005102	signaling receptor binding
+GO:0003714	7	GO:0004857	enzyme inhibitor activity
+GO:0005035	6	GO:0004888	transmembrane signaling receptor activity
+GO:0042608	3	GO:0005102	signaling receptor binding
+GO:0046332	3	GO:0005102	signaling receptor binding
+GO:0034987	3	GO:0005102	signaling receptor binding
+GO:0004713	8	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0004715	8	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0023026	1	GO:0120160	intraciliary transport particle A binding
+GO:0099635	8	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0045499	2	GO:0051428	peptide hormone receptor binding
+GO:0004708	8	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0005160	2	GO:0051428	peptide hormone receptor binding
+GO:0019955	3	GO:0005102	signaling receptor binding
+GO:0017075	2	GO:0051428	peptide hormone receptor binding
+GO:0008009	2	GO:0051428	peptide hormone receptor binding
+GO:0005176	3	GO:0005102	signaling receptor binding
+GO:0005178	3	GO:0005102	signaling receptor binding
+GO:0005125	2	GO:0051428	peptide hormone receptor binding
+GO:0005127	2	GO:0051428	peptide hormone receptor binding
+GO:0004869	7	GO:0004857	enzyme inhibitor activity
+GO:0005521	3	GO:0005102	signaling receptor binding
+GO:0008191	7	GO:0004857	enzyme inhibitor activity
+GO:0003823	3	GO:0005102	signaling receptor binding
+GO:0005546	1	GO:0120160	intraciliary transport particle A binding
+GO:0030549	7	GO:0004857	enzyme inhibitor activity
+GO:0005138	2	GO:0051428	peptide hormone receptor binding
+GO:0005537	1	GO:0120160	intraciliary transport particle A binding
+GO:0010385	5	GO:0001067	transcription regulatory region nucleic acid binding
+GO:0019904	3	GO:0005102	signaling receptor binding
+GO:0048020	2	GO:0051428	peptide hormone receptor binding
+GO:0005102	3	GO:0005102	signaling receptor binding
+GO:0070410	3	GO:0005102	signaling receptor binding
+GO:0050693	3	GO:0005102	signaling receptor binding
+GO:0097200	8	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0008140	2	GO:0051428	peptide hormone receptor binding
+GO:0043028	7	GO:0004857	enzyme inhibitor activity

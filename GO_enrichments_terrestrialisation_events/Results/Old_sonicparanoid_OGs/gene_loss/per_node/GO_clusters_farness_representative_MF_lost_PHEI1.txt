@@ -1,0 +1,221 @@
+GO:0004222	4	GO:0004540	ribonuclease activity
+GO:0030215	6	GO:0005102	signaling receptor binding
+GO:0000900	7	GO:0003677	DNA binding
+GO:0030246	9	GO:0030246	carbohydrate binding
+GO:0030247	9	GO:0030246	carbohydrate binding
+GO:0019862	9	GO:0030246	carbohydrate binding
+GO:0003964	3	GO:0016775	phosphotransferase activity, nitrogenous group as acceptor
+GO:0019864	9	GO:0030246	carbohydrate binding
+GO:0061665	3	GO:0016775	phosphotransferase activity, nitrogenous group as acceptor
+GO:0005518	9	GO:0030246	carbohydrate binding
+GO:0031404	8	GO:0031210	phosphatidylcholine binding
+GO:0016907	1	GO:0004888	transmembrane signaling receptor activity
+GO:0005534	9	GO:0030246	carbohydrate binding
+GO:0005539	9	GO:0030246	carbohydrate binding
+GO:0019966	6	GO:0005102	signaling receptor binding
+GO:0019955	6	GO:0005102	signaling receptor binding
+GO:0051019	6	GO:0005102	signaling receptor binding
+GO:0005080	6	GO:0005102	signaling receptor binding
+GO:0015280	2	GO:0005216	ion channel activity
+GO:0000405	7	GO:0003677	DNA binding
+GO:0005509	8	GO:0031210	phosphatidylcholine binding
+GO:0042834	9	GO:0030246	carbohydrate binding
+GO:0015276	2	GO:0005216	ion channel activity
+GO:0015277	2	GO:0005216	ion channel activity
+GO:0042923	9	GO:0030246	carbohydrate binding
+GO:0005165	6	GO:0005102	signaling receptor binding
+GO:0005167	6	GO:0005102	signaling receptor binding
+GO:0008528	1	GO:0004888	transmembrane signaling receptor activity
+GO:0005168	6	GO:0005102	signaling receptor binding
+GO:0070840	9	GO:0030246	carbohydrate binding
+GO:0005031	1	GO:0004888	transmembrane signaling receptor activity
+GO:0005035	1	GO:0004888	transmembrane signaling receptor activity
+GO:0005123	6	GO:0005102	signaling receptor binding
+GO:0004725	4	GO:0004540	ribonuclease activity
+GO:0008066	1	GO:0004888	transmembrane signaling receptor activity
+GO:0004712	3	GO:0016775	phosphotransferase activity, nitrogenous group as acceptor
+GO:0004713	3	GO:0016775	phosphotransferase activity, nitrogenous group as acceptor
+GO:0004714	3	GO:0016775	phosphotransferase activity, nitrogenous group as acceptor
+GO:0008195	4	GO:0004540	ribonuclease activity
+GO:0004715	3	GO:0016775	phosphotransferase activity, nitrogenous group as acceptor
+GO:0005119	6	GO:0005102	signaling receptor binding
+GO:0050700	6	GO:0005102	signaling receptor binding
+GO:0019901	6	GO:0005102	signaling receptor binding
+GO:0005007	3	GO:0016775	phosphotransferase activity, nitrogenous group as acceptor
+GO:0005133	6	GO:0005102	signaling receptor binding
+GO:0008028	2	GO:0005216	ion channel activity
+GO:0008013	6	GO:0005102	signaling receptor binding
+GO:1904315	2	GO:0005216	ion channel activity
+GO:0008158	1	GO:0004888	transmembrane signaling receptor activity
+GO:0008188	1	GO:0004888	transmembrane signaling receptor activity
+GO:0098632	6	GO:0005102	signaling receptor binding
+GO:0089720	6	GO:0005102	signaling receptor binding
+GO:0046790	9	GO:0030246	carbohydrate binding
+GO:0043394	6	GO:0005102	signaling receptor binding
+GO:0004896	1	GO:0004888	transmembrane signaling receptor activity
+GO:0050997	9	GO:0030246	carbohydrate binding
+GO:0001849	6	GO:0005102	signaling receptor binding
+GO:0005262	2	GO:0005216	ion channel activity
+GO:0004993	1	GO:0004888	transmembrane signaling receptor activity
+GO:0004888	1	GO:0004888	transmembrane signaling receptor activity
+GO:0080030	4	GO:0004540	ribonuclease activity
+GO:0005272	2	GO:0005216	ion channel activity
+GO:0045569	6	GO:0005102	signaling receptor binding
+GO:0005229	2	GO:0005216	ion channel activity
+GO:0031210	8	GO:0031210	phosphatidylcholine binding
+GO:0004983	1	GO:0004888	transmembrane signaling receptor activity
+GO:0004984	1	GO:0004888	transmembrane signaling receptor activity
+GO:0005245	2	GO:0005216	ion channel activity
+GO:0004970	2	GO:0005216	ion channel activity
+GO:0003677	7	GO:0003677	DNA binding
+GO:0000213	4	GO:0004540	ribonuclease activity
+GO:0004930	1	GO:0004888	transmembrane signaling receptor activity
+GO:0008227	1	GO:0004888	transmembrane signaling receptor activity
+GO:0004594	3	GO:0016775	phosphotransferase activity, nitrogenous group as acceptor
+GO:0030594	1	GO:0004888	transmembrane signaling receptor activity
+GO:0004908	1	GO:0004888	transmembrane signaling receptor activity
+GO:0008201	9	GO:0030246	carbohydrate binding
+GO:0046872	8	GO:0031210	phosphatidylcholine binding
+GO:0004576	3	GO:0016775	phosphotransferase activity, nitrogenous group as acceptor
+GO:0004439	4	GO:0004540	ribonuclease activity
+GO:0004579	3	GO:0016775	phosphotransferase activity, nitrogenous group as acceptor
+GO:0004519	4	GO:0004540	ribonuclease activity
+GO:0004540	4	GO:0004540	ribonuclease activity
+GO:0017046	9	GO:0030246	carbohydrate binding
+GO:0070260	4	GO:0004540	ribonuclease activity
+GO:0004190	4	GO:0004540	ribonuclease activity
+GO:0043515	9	GO:0030246	carbohydrate binding
+GO:0016775	3	GO:0016775	phosphotransferase activity, nitrogenous group as acceptor
+GO:0030165	6	GO:0005102	signaling receptor binding
+GO:0030169	8	GO:0031210	phosphatidylcholine binding
+GO:0045295	6	GO:0005102	signaling receptor binding
+GO:0045296	6	GO:0005102	signaling receptor binding
+GO:0017108	4	GO:0004540	ribonuclease activity
+GO:0038023	1	GO:0004888	transmembrane signaling receptor activity
+GO:0043169	9	GO:0030246	carbohydrate binding
+GO:0004672	3	GO:0016775	phosphotransferase activity, nitrogenous group as acceptor
+GO:0003774	4	GO:0004540	ribonuclease activity
+GO:0098960	1	GO:0004888	transmembrane signaling receptor activity
+GO:0016892	4	GO:0004540	ribonuclease activity
+GO:0106019	4	GO:0004540	ribonuclease activity
+GO:0015026	1	GO:0004888	transmembrane signaling receptor activity
+GO:0000977	7	GO:0003677	DNA binding
+GO:0000978	7	GO:0003677	DNA binding
+GO:0008821	4	GO:0004540	ribonuclease activity
+GO:0140161	2	GO:0005216	ion channel activity
+GO:0051424	8	GO:0031210	phosphatidylcholine binding
+GO:0004252	4	GO:0004540	ribonuclease activity
+GO:0034987	6	GO:0005102	signaling receptor binding
+GO:0033130	6	GO:0005102	signaling receptor binding
+GO:0003953	4	GO:0004540	ribonuclease activity
+GO:0043035	7	GO:0003677	DNA binding
+GO:0005216	2	GO:0005216	ion channel activity
+GO:0005230	2	GO:0005216	ion channel activity
+GO:0015267	2	GO:0005216	ion channel activity
+GO:0004945	1	GO:0004888	transmembrane signaling receptor activity
+GO:0001653	1	GO:0004888	transmembrane signaling receptor activity
+GO:0050750	6	GO:0005102	signaling receptor binding
+GO:0019789	3	GO:0016775	phosphotransferase activity, nitrogenous group as acceptor
+GO:0015631	6	GO:0005102	signaling receptor binding
+GO:1990247	7	GO:0003677	DNA binding
+GO:0031435	6	GO:0005102	signaling receptor binding
+GO:0009881	1	GO:0004888	transmembrane signaling receptor activity
+GO:0004674	3	GO:0016775	phosphotransferase activity, nitrogenous group as acceptor
+GO:0036122	6	GO:0005102	signaling receptor binding
+GO:0008381	2	GO:0005216	ion channel activity
+GO:0140034	6	GO:0005102	signaling receptor binding
+GO:0106310	3	GO:0016775	phosphotransferase activity, nitrogenous group as acceptor
+GO:0097199	4	GO:0004540	ribonuclease activity
+GO:0090729	9	GO:0030246	carbohydrate binding
+GO:0050840	9	GO:0030246	carbohydrate binding
+GO:0050431	6	GO:0005102	signaling receptor binding
+GO:0033550	4	GO:0004540	ribonuclease activity
+GO:0050839	6	GO:0005102	signaling receptor binding
+GO:0043236	6	GO:0005102	signaling receptor binding
+GO:0043237	6	GO:0005102	signaling receptor binding
+GO:0097110	6	GO:0005102	signaling receptor binding
+GO:0008083	6	GO:0005102	signaling receptor binding
+GO:0022848	2	GO:0005216	ion channel activity
+GO:0022836	2	GO:0005216	ion channel activity
+GO:0022839	2	GO:0005216	ion channel activity
+GO:0045499	6	GO:0005102	signaling receptor binding
+GO:0008020	1	GO:0004888	transmembrane signaling receptor activity
+GO:0008017	6	GO:0005102	signaling receptor binding
+GO:0022803	2	GO:0005216	ion channel activity
+GO:0045028	1	GO:0004888	transmembrane signaling receptor activity
+GO:0001848	6	GO:0005102	signaling receptor binding
+GO:0070492	9	GO:0030246	carbohydrate binding
+GO:0005178	6	GO:0005102	signaling receptor binding
+GO:0050135	4	GO:0004540	ribonuclease activity
+GO:0097677	6	GO:0005102	signaling receptor binding
+GO:0005537	9	GO:0030246	carbohydrate binding
+GO:0019902	6	GO:0005102	signaling receptor binding
+GO:0005102	6	GO:0005102	signaling receptor binding
+GO:0005104	6	GO:0005102	signaling receptor binding
+GO:0001968	6	GO:0005102	signaling receptor binding
+GO:0017166	6	GO:0005102	signaling receptor binding
+GO:0017151	6	GO:0005102	signaling receptor binding
+GO:0035064	6	GO:0005102	signaling receptor binding
+GO:0061809	4	GO:0004540	ribonuclease activity
+GO:0004992	1	GO:0004888	transmembrane signaling receptor activity
+GO:0003990	4	GO:0004540	ribonuclease activity
+GO:0005416	2	GO:0005216	ion channel activity
+GO:0070700	6	GO:0005102	signaling receptor binding
+GO:0015101	2	GO:0005216	ion channel activity
+GO:0034452	6	GO:0005102	signaling receptor binding
+GO:0005545	8	GO:0031210	phosphatidylcholine binding
+GO:0070325	6	GO:0005102	signaling receptor binding
+GO:0051010	6	GO:0005102	signaling receptor binding
+GO:0051015	6	GO:0005102	signaling receptor binding
+GO:0005506	8	GO:0031210	phosphatidylcholine binding
+GO:0015278	2	GO:0005216	ion channel activity
+GO:0004767	4	GO:0004540	ribonuclease activity
+GO:0008097	7	GO:0003677	DNA binding
+GO:0070300	8	GO:0031210	phosphatidylcholine binding
+GO:0042802	6	GO:0005102	signaling receptor binding
+GO:0042805	6	GO:0005102	signaling receptor binding
+GO:0005171	6	GO:0005102	signaling receptor binding
+GO:0015232	2	GO:0005216	ion channel activity
+GO:0005112	6	GO:0005102	signaling receptor binding
+GO:0005113	6	GO:0005102	signaling receptor binding
+GO:0008194	3	GO:0016775	phosphotransferase activity, nitrogenous group as acceptor
+GO:0008146	3	GO:0016775	phosphotransferase activity, nitrogenous group as acceptor
+GO:0032422	7	GO:0003677	DNA binding
+GO:0080025	8	GO:0031210	phosphatidylcholine binding
+GO:0003691	7	GO:0003677	DNA binding
+GO:0043325	8	GO:0031210	phosphatidylcholine binding
+GO:0061750	4	GO:0004540	ribonuclease activity
+GO:0099094	2	GO:0005216	ion channel activity
+GO:0015355	2	GO:0005216	ion channel activity
+GO:0070001	4	GO:0004540	ribonuclease activity
+GO:0001530	9	GO:0030246	carbohydrate binding
+GO:0010314	8	GO:0031210	phosphatidylcholine binding
+GO:0004523	4	GO:0004540	ribonuclease activity
+GO:0051393	6	GO:0005102	signaling receptor binding
+GO:0070273	8	GO:0031210	phosphatidylcholine binding
+GO:0019237	7	GO:0003677	DNA binding
+GO:0032266	8	GO:0031210	phosphatidylcholine binding
+GO:0099604	2	GO:0005216	ion channel activity
+GO:0046906	7	GO:0003677	DNA binding
+GO:0005326	2	GO:0005216	ion channel activity
+GO:0004127	3	GO:0016775	phosphotransferase activity, nitrogenous group as acceptor
+GO:0004111	3	GO:0016775	phosphotransferase activity, nitrogenous group as acceptor
+GO:0004652	3	GO:0016775	phosphotransferase activity, nitrogenous group as acceptor
+GO:0004653	3	GO:0016775	phosphotransferase activity, nitrogenous group as acceptor
+GO:0043014	6	GO:0005102	signaling receptor binding
+GO:0004115	4	GO:0004540	ribonuclease activity
+GO:0051959	6	GO:0005102	signaling receptor binding
+GO:0003786	6	GO:0005102	signaling receptor binding
+GO:0004687	3	GO:0016775	phosphotransferase activity, nitrogenous group as acceptor
+GO:0003777	4	GO:0004540	ribonuclease activity
+GO:0003779	6	GO:0005102	signaling receptor binding
+GO:0050290	4	GO:0004540	ribonuclease activity
+GO:0004104	4	GO:0004540	ribonuclease activity
+GO:0008376	3	GO:0016775	phosphotransferase activity, nitrogenous group as acceptor
+GO:0020037	7	GO:0003677	DNA binding
+GO:0015020	3	GO:0016775	phosphotransferase activity, nitrogenous group as acceptor
+GO:0072341	9	GO:0030246	carbohydrate binding
+GO:0015185	2	GO:0005216	ion channel activity
+GO:0097108	6	GO:0005102	signaling receptor binding
+GO:0015171	2	GO:0005216	ion channel activity
+GO:0015651	2	GO:0005216	ion channel activity

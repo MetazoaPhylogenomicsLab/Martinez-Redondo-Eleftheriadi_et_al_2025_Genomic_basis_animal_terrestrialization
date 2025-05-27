@@ -1,0 +1,465 @@
+GO:0019367	6	GO:0034637	cellular carbohydrate biosynthetic process
+GO:0051094	16	GO:0045597	positive regulation of cell differentiation
+GO:0007619	13	GO:0030728	ovulation
+GO:0060788	11	GO:0060415	muscle tissue morphogenesis
+GO:0007631	8	GO:0007631	feeding behavior
+GO:0030239	15	GO:0030239	myofibril assembly
+GO:0046622	9	GO:0051241	negative regulation of multicellular organismal process
+GO:0001763	12	GO:0048736	appendage development
+GO:0010611	9	GO:0051241	negative regulation of multicellular organismal process
+GO:0044092	8	GO:0007631	feeding behavior
+GO:0010614	9	GO:0051241	negative regulation of multicellular organismal process
+GO:0039554	7	GO:0061060	negative regulation of peptidoglycan recognition protein signaling pathway
+GO:0002686	2	GO:0002685	regulation of leukocyte migration
+GO:0002689	2	GO:0002685	regulation of leukocyte migration
+GO:0044060	9	GO:0051241	negative regulation of multicellular organismal process
+GO:1900026	16	GO:0045597	positive regulation of cell differentiation
+GO:0014866	15	GO:0030239	myofibril assembly
+GO:0090169	5	GO:0010638	positive regulation of organelle organization
+GO:0042810	6	GO:0034637	cellular carbohydrate biosynthetic process
+GO:0060390	7	GO:0061060	negative regulation of peptidoglycan recognition protein signaling pathway
+GO:0021551	12	GO:0048736	appendage development
+GO:0048755	12	GO:0048736	appendage development
+GO:1900016	9	GO:0051241	negative regulation of multicellular organismal process
+GO:0021556	12	GO:0048736	appendage development
+GO:0072574	11	GO:0060415	muscle tissue morphogenesis
+GO:0072575	11	GO:0060415	muscle tissue morphogenesis
+GO:0072576	11	GO:0060415	muscle tissue morphogenesis
+GO:0051039	6	GO:0034637	cellular carbohydrate biosynthetic process
+GO:0007218	7	GO:0061060	negative regulation of peptidoglycan recognition protein signaling pathway
+GO:0070306	10	GO:0060856	establishment of blood-brain barrier
+GO:0070849	8	GO:0007631	feeding behavior
+GO:0021533	10	GO:0060856	establishment of blood-brain barrier
+GO:0031128	11	GO:0060415	muscle tissue morphogenesis
+GO:0039695	1	GO:0044403	biological process involved in symbiotic interaction
+GO:0007204	8	GO:0007631	feeding behavior
+GO:1901978	5	GO:0010638	positive regulation of organelle organization
+GO:0000122	6	GO:0034637	cellular carbohydrate biosynthetic process
+GO:0021697	11	GO:0060415	muscle tissue morphogenesis
+GO:0006940	9	GO:0051241	negative regulation of multicellular organismal process
+GO:0060986	9	GO:0051241	negative regulation of multicellular organismal process
+GO:0039686	1	GO:0044403	biological process involved in symbiotic interaction
+GO:1903651	5	GO:0010638	positive regulation of organelle organization
+GO:0039646	1	GO:0044403	biological process involved in symbiotic interaction
+GO:0045939	6	GO:0034637	cellular carbohydrate biosynthetic process
+GO:0016139	8	GO:0007631	feeding behavior
+GO:0010760	2	GO:0002685	regulation of leukocyte migration
+GO:0010761	2	GO:0002685	regulation of leukocyte migration
+GO:0010762	2	GO:0002685	regulation of leukocyte migration
+GO:0010764	2	GO:0002685	regulation of leukocyte migration
+GO:0034625	6	GO:0034637	cellular carbohydrate biosynthetic process
+GO:0034626	6	GO:0034637	cellular carbohydrate biosynthetic process
+GO:0080154	13	GO:0030728	ovulation
+GO:0045597	16	GO:0045597	positive regulation of cell differentiation
+GO:0019058	1	GO:0044403	biological process involved in symbiotic interaction
+GO:0010758	2	GO:0002685	regulation of leukocyte migration
+GO:2000145	2	GO:0002685	regulation of leukocyte migration
+GO:0001945	12	GO:0048736	appendage development
+GO:0030334	2	GO:0002685	regulation of leukocyte migration
+GO:0019079	1	GO:0044403	biological process involved in symbiotic interaction
+GO:0031214	12	GO:0048736	appendage development
+GO:0060415	11	GO:0060415	muscle tissue morphogenesis
+GO:0046718	1	GO:0044403	biological process involved in symbiotic interaction
+GO:2000641	5	GO:0010638	positive regulation of organelle organization
+GO:0019042	1	GO:0044403	biological process involved in symbiotic interaction
+GO:0019043	1	GO:0044403	biological process involved in symbiotic interaction
+GO:0080144	8	GO:0007631	feeding behavior
+GO:0071364	8	GO:0007631	feeding behavior
+GO:0042659	16	GO:0045597	positive regulation of cell differentiation
+GO:0035904	12	GO:0048736	appendage development
+GO:0070121	11	GO:0060415	muscle tissue morphogenesis
+GO:0010894	6	GO:0034637	cellular carbohydrate biosynthetic process
+GO:0060071	11	GO:0060415	muscle tissue morphogenesis
+GO:0006665	6	GO:0034637	cellular carbohydrate biosynthetic process
+GO:0060153	1	GO:0044403	biological process involved in symbiotic interaction
+GO:0060042	11	GO:0060415	muscle tissue morphogenesis
+GO:0001502	11	GO:0060415	muscle tissue morphogenesis
+GO:0046883	7	GO:0061060	negative regulation of peptidoglycan recognition protein signaling pathway
+GO:0035545	12	GO:0048736	appendage development
+GO:0008207	6	GO:0034637	cellular carbohydrate biosynthetic process
+GO:0030521	7	GO:0061060	negative regulation of peptidoglycan recognition protein signaling pathway
+GO:0006643	6	GO:0034637	cellular carbohydrate biosynthetic process
+GO:1902932	6	GO:0034637	cellular carbohydrate biosynthetic process
+GO:0045132	4	GO:0051298	centrosome duplication
+GO:0043433	6	GO:0034637	cellular carbohydrate biosynthetic process
+GO:0030534	9	GO:0051241	negative regulation of multicellular organismal process
+GO:0048168	7	GO:0061060	negative regulation of peptidoglycan recognition protein signaling pathway
+GO:0055002	10	GO:0060856	establishment of blood-brain barrier
+GO:1902905	5	GO:0010638	positive regulation of organelle organization
+GO:0055008	11	GO:0060415	muscle tissue morphogenesis
+GO:0048172	7	GO:0061060	negative regulation of peptidoglycan recognition protein signaling pathway
+GO:0051315	4	GO:0051298	centrosome duplication
+GO:0033555	9	GO:0051241	negative regulation of multicellular organismal process
+GO:0060297	15	GO:0030239	myofibril assembly
+GO:0060298	15	GO:0030239	myofibril assembly
+GO:0050673	4	GO:0051298	centrosome duplication
+GO:0046477	6	GO:0034637	cellular carbohydrate biosynthetic process
+GO:0030177	7	GO:0061060	negative regulation of peptidoglycan recognition protein signaling pathway
+GO:0048644	12	GO:0048736	appendage development
+GO:0071539	8	GO:0007631	feeding behavior
+GO:0042761	6	GO:0034637	cellular carbohydrate biosynthetic process
+GO:0044826	1	GO:0044403	biological process involved in symbiotic interaction
+GO:0051495	5	GO:0010638	positive regulation of organelle organization
+GO:0075713	1	GO:0044403	biological process involved in symbiotic interaction
+GO:0071696	11	GO:0060415	muscle tissue morphogenesis
+GO:0071697	11	GO:0060415	muscle tissue morphogenesis
+GO:0008344	9	GO:0051241	negative regulation of multicellular organismal process
+GO:0008345	9	GO:0051241	negative regulation of multicellular organismal process
+GO:2000370	5	GO:0010638	positive regulation of organelle organization
+GO:0021872	10	GO:0060856	establishment of blood-brain barrier
+GO:0075732	1	GO:0044403	biological process involved in symbiotic interaction
+GO:0021879	10	GO:0060856	establishment of blood-brain barrier
+GO:1905521	2	GO:0002685	regulation of leukocyte migration
+GO:1905522	2	GO:0002685	regulation of leukocyte migration
+GO:0140013	4	GO:0051298	centrosome duplication
+GO:1905516	13	GO:0030728	ovulation
+GO:1905517	2	GO:0002685	regulation of leukocyte migration
+GO:0014741	9	GO:0051241	negative regulation of multicellular organismal process
+GO:0014743	9	GO:0051241	negative regulation of multicellular organismal process
+GO:0033144	7	GO:0061060	negative regulation of peptidoglycan recognition protein signaling pathway
+GO:0048246	2	GO:0002685	regulation of leukocyte migration
+GO:0034309	6	GO:0034637	cellular carbohydrate biosynthetic process
+GO:0050912	8	GO:0007631	feeding behavior
+GO:0050913	9	GO:0051241	negative regulation of multicellular organismal process
+GO:0042698	13	GO:0030728	ovulation
+GO:0007277	14	GO:0007277	pole cell development
+GO:0007279	14	GO:0007277	pole cell development
+GO:0050909	9	GO:0051241	negative regulation of multicellular organismal process
+GO:0033301	4	GO:0051298	centrosome duplication
+GO:0048859	11	GO:0060415	muscle tissue morphogenesis
+GO:2000107	3	GO:0070228	regulation of lymphocyte apoptotic process
+GO:0050771	16	GO:0045597	positive regulation of cell differentiation
+GO:0001580	8	GO:0007631	feeding behavior
+GO:1901562	8	GO:0007631	feeding behavior
+GO:0008406	12	GO:0048736	appendage development
+GO:0050727	7	GO:0061060	negative regulation of peptidoglycan recognition protein signaling pathway
+GO:0050728	7	GO:0061060	negative regulation of peptidoglycan recognition protein signaling pathway
+GO:0001578	4	GO:0051298	centrosome duplication
+GO:0033484	8	GO:0007631	feeding behavior
+GO:0061771	8	GO:0007631	feeding behavior
+GO:0032091	8	GO:0007631	feeding behavior
+GO:0010160	12	GO:0048736	appendage development
+GO:0009735	8	GO:0007631	feeding behavior
+GO:0070527	8	GO:0007631	feeding behavior
+GO:1900015	9	GO:0051241	negative regulation of multicellular organismal process
+GO:0000741	4	GO:0051298	centrosome duplication
+GO:0060143	16	GO:0045597	positive regulation of cell differentiation
+GO:0048520	7	GO:0061060	negative regulation of peptidoglycan recognition protein signaling pathway
+GO:0035186	11	GO:0060415	muscle tissue morphogenesis
+GO:0043525	3	GO:0070228	regulation of lymphocyte apoptotic process
+GO:0030728	13	GO:0030728	ovulation
+GO:0050819	9	GO:0051241	negative regulation of multicellular organismal process
+GO:1901610	5	GO:0010638	positive regulation of organelle organization
+GO:0008258	11	GO:0060415	muscle tissue morphogenesis
+GO:0044000	1	GO:0044403	biological process involved in symbiotic interaction
+GO:2000035	5	GO:0010638	positive regulation of organelle organization
+GO:0035292	11	GO:0060415	muscle tissue morphogenesis
+GO:0022602	13	GO:0030728	ovulation
+GO:0019098	13	GO:0030728	ovulation
+GO:0055057	10	GO:0060856	establishment of blood-brain barrier
+GO:0055059	10	GO:0060856	establishment of blood-brain barrier
+GO:0021954	10	GO:0060856	establishment of blood-brain barrier
+GO:0019064	1	GO:0044403	biological process involved in symbiotic interaction
+GO:0019068	1	GO:0044403	biological process involved in symbiotic interaction
+GO:1902803	5	GO:0010638	positive regulation of organelle organization
+GO:0035272	12	GO:0048736	appendage development
+GO:0035214	12	GO:0048736	appendage development
+GO:0035218	12	GO:0048736	appendage development
+GO:0048490	8	GO:0007631	feeding behavior
+GO:0002532	9	GO:0051241	negative regulation of multicellular organismal process
+GO:0002534	9	GO:0051241	negative regulation of multicellular organismal process
+GO:0030595	2	GO:0002685	regulation of leukocyte migration
+GO:0009690	6	GO:0034637	cellular carbohydrate biosynthetic process
+GO:0009691	6	GO:0034637	cellular carbohydrate biosynthetic process
+GO:0051100	8	GO:0007631	feeding behavior
+GO:0045448	12	GO:0048736	appendage development
+GO:0007385	11	GO:0060415	muscle tissue morphogenesis
+GO:0044552	9	GO:0051241	negative regulation of multicellular organismal process
+GO:0030517	16	GO:0045597	positive regulation of cell differentiation
+GO:0035036	13	GO:0030728	ovulation
+GO:0002685	2	GO:0002685	regulation of leukocyte migration
+GO:0032504	13	GO:0030728	ovulation
+GO:0002688	2	GO:0002685	regulation of leukocyte migration
+GO:0007340	13	GO:0030728	ovulation
+GO:0007342	13	GO:0030728	ovulation
+GO:0007623	8	GO:0007631	feeding behavior
+GO:0007338	13	GO:0030728	ovulation
+GO:0039663	1	GO:0044403	biological process involved in symbiotic interaction
+GO:0045165	10	GO:0060856	establishment of blood-brain barrier
+GO:0031115	5	GO:0010638	positive regulation of organelle organization
+GO:0007638	8	GO:0007631	feeding behavior
+GO:0040026	11	GO:0060415	muscle tissue morphogenesis
+GO:0051241	9	GO:0051241	negative regulation of multicellular organismal process
+GO:0040016	12	GO:0048736	appendage development
+GO:0046692	13	GO:0030728	ovulation
+GO:0007494	12	GO:0048736	appendage development
+GO:0015979	6	GO:0034637	cellular carbohydrate biosynthetic process
+GO:0046660	12	GO:0048736	appendage development
+GO:0045137	12	GO:0048736	appendage development
+GO:0007450	11	GO:0060415	muscle tissue morphogenesis
+GO:1901950	8	GO:0007631	feeding behavior
+GO:0008594	10	GO:0060856	establishment of blood-brain barrier
+GO:0031268	4	GO:0051298	centrosome duplication
+GO:0031269	4	GO:0051298	centrosome duplication
+GO:0007419	12	GO:0048736	appendage development
+GO:0070228	3	GO:0070228	regulation of lymphocyte apoptotic process
+GO:0070229	3	GO:0070228	regulation of lymphocyte apoptotic process
+GO:0007431	12	GO:0048736	appendage development
+GO:0031272	5	GO:0010638	positive regulation of organelle organization
+GO:0031274	5	GO:0010638	positive regulation of organelle organization
+GO:0070231	3	GO:0070228	regulation of lymphocyte apoptotic process
+GO:0070232	3	GO:0070228	regulation of lymphocyte apoptotic process
+GO:0070233	3	GO:0070228	regulation of lymphocyte apoptotic process
+GO:2001228	7	GO:0061060	negative regulation of peptidoglycan recognition protein signaling pathway
+GO:2001229	7	GO:0061060	negative regulation of peptidoglycan recognition protein signaling pathway
+GO:0097529	2	GO:0002685	regulation of leukocyte migration
+GO:1901046	13	GO:0030728	ovulation
+GO:0044419	1	GO:0044403	biological process involved in symbiotic interaction
+GO:0071392	8	GO:0007631	feeding behavior
+GO:1904747	16	GO:0045597	positive regulation of cell differentiation
+GO:1901739	16	GO:0045597	positive regulation of cell differentiation
+GO:0072002	12	GO:0048736	appendage development
+GO:0034776	8	GO:0007631	feeding behavior
+GO:0071368	8	GO:0007631	feeding behavior
+GO:0006813	8	GO:0007631	feeding behavior
+GO:0009954	12	GO:0048736	appendage development
+GO:0001845	4	GO:0051298	centrosome duplication
+GO:0052200	1	GO:0044403	biological process involved in symbiotic interaction
+GO:0033627	4	GO:0051298	centrosome duplication
+GO:0033628	5	GO:0010638	positive regulation of organelle organization
+GO:0007219	7	GO:0061060	negative regulation of peptidoglycan recognition protein signaling pathway
+GO:0033619	6	GO:0034637	cellular carbohydrate biosynthetic process
+GO:0042311	9	GO:0051241	negative regulation of multicellular organismal process
+GO:2000113	6	GO:0034637	cellular carbohydrate biosynthetic process
+GO:0045880	7	GO:0061060	negative regulation of peptidoglycan recognition protein signaling pathway
+GO:0061060	7	GO:0061060	negative regulation of peptidoglycan recognition protein signaling pathway
+GO:1903426	6	GO:0034637	cellular carbohydrate biosynthetic process
+GO:0052031	1	GO:0044403	biological process involved in symbiotic interaction
+GO:0032924	7	GO:0061060	negative regulation of peptidoglycan recognition protein signaling pathway
+GO:0007035	8	GO:0007631	feeding behavior
+GO:0070572	16	GO:0045597	positive regulation of cell differentiation
+GO:0051653	4	GO:0051298	centrosome duplication
+GO:0051656	4	GO:0051298	centrosome duplication
+GO:0006509	6	GO:0034637	cellular carbohydrate biosynthetic process
+GO:1905153	5	GO:0010638	positive regulation of organelle organization
+GO:1905155	5	GO:0010638	positive regulation of organelle organization
+GO:0051640	4	GO:0051298	centrosome duplication
+GO:0051646	4	GO:0051298	centrosome duplication
+GO:0060142	16	GO:0045597	positive regulation of cell differentiation
+GO:0060135	13	GO:0030728	ovulation
+GO:0018345	6	GO:0034637	cellular carbohydrate biosynthetic process
+GO:0035150	9	GO:0051241	negative regulation of multicellular organismal process
+GO:0030010	4	GO:0051298	centrosome duplication
+GO:0060100	5	GO:0010638	positive regulation of organelle organization
+GO:0030727	14	GO:0007277	pole cell development
+GO:0030718	11	GO:0060415	muscle tissue morphogenesis
+GO:0030730	8	GO:0007631	feeding behavior
+GO:0051452	8	GO:0007631	feeding behavior
+GO:0002886	8	GO:0007631	feeding behavior
+GO:1902850	4	GO:0051298	centrosome duplication
+GO:0098670	1	GO:0044403	biological process involved in symbiotic interaction
+GO:0098671	1	GO:0044403	biological process involved in symbiotic interaction
+GO:0019236	8	GO:0007631	feeding behavior
+GO:0044003	1	GO:0044403	biological process involved in symbiotic interaction
+GO:0031348	7	GO:0061060	negative regulation of peptidoglycan recognition protein signaling pathway
+GO:0035296	9	GO:0051241	negative regulation of multicellular organismal process
+GO:0042144	4	GO:0051298	centrosome duplication
+GO:2000738	16	GO:0045597	positive regulation of cell differentiation
+GO:0048680	16	GO:0045597	positive regulation of cell differentiation
+GO:0043654	8	GO:0007631	feeding behavior
+GO:0019062	1	GO:0044403	biological process involved in symbiotic interaction
+GO:0060099	5	GO:0010638	positive regulation of organelle organization
+GO:0007566	12	GO:0048736	appendage development
+GO:0035988	4	GO:0051298	centrosome duplication
+GO:0035212	10	GO:0060856	establishment of blood-brain barrier
+GO:0046813	1	GO:0044403	biological process involved in symbiotic interaction
+GO:0003013	9	GO:0051241	negative regulation of multicellular organismal process
+GO:0033209	7	GO:0061060	negative regulation of peptidoglycan recognition protein signaling pathway
+GO:0003018	9	GO:0051241	negative regulation of multicellular organismal process
+GO:0039573	7	GO:0061060	negative regulation of peptidoglycan recognition protein signaling pathway
+GO:0042244	15	GO:0030239	myofibril assembly
+GO:0045478	13	GO:0030728	ovulation
+GO:0046599	5	GO:0010638	positive regulation of organelle organization
+GO:0035751	8	GO:0007631	feeding behavior
+GO:1903034	7	GO:0061060	negative regulation of peptidoglycan recognition protein signaling pathway
+GO:0051293	4	GO:0051298	centrosome duplication
+GO:0051294	4	GO:0051298	centrosome duplication
+GO:1903006	6	GO:0034637	cellular carbohydrate biosynthetic process
+GO:0097746	9	GO:0051241	negative regulation of multicellular organismal process
+GO:0030537	9	GO:0051241	negative regulation of multicellular organismal process
+GO:0060856	10	GO:0060856	establishment of blood-brain barrier
+GO:0040001	4	GO:0051298	centrosome duplication
+GO:0018230	6	GO:0034637	cellular carbohydrate biosynthetic process
+GO:0018231	6	GO:0034637	cellular carbohydrate biosynthetic process
+GO:0030682	1	GO:0044403	biological process involved in symbiotic interaction
+GO:0048132	14	GO:0007277	pole cell development
+GO:0001974	9	GO:0051241	negative regulation of multicellular organismal process
+GO:0035821	1	GO:0044403	biological process involved in symbiotic interaction
+GO:0070986	11	GO:0060415	muscle tissue morphogenesis
+GO:2000378	6	GO:0034637	cellular carbohydrate biosynthetic process
+GO:0052167	1	GO:0044403	biological process involved in symbiotic interaction
+GO:0030466	6	GO:0034637	cellular carbohydrate biosynthetic process
+GO:0052170	7	GO:0061060	negative regulation of peptidoglycan recognition protein signaling pathway
+GO:0048286	12	GO:0048736	appendage development
+GO:0052173	1	GO:0044403	biological process involved in symbiotic interaction
+GO:0051701	1	GO:0044403	biological process involved in symbiotic interaction
+GO:1901074	5	GO:0010638	positive regulation of organelle organization
+GO:1901076	5	GO:0010638	positive regulation of organelle organization
+GO:0007163	4	GO:0051298	centrosome duplication
+GO:0007186	7	GO:0061060	negative regulation of peptidoglycan recognition protein signaling pathway
+GO:0042594	8	GO:0007631	feeding behavior
+GO:0044414	7	GO:0061060	negative regulation of peptidoglycan recognition protein signaling pathway
+GO:0001708	10	GO:0060856	establishment of blood-brain barrier
+GO:2000425	5	GO:0010638	positive regulation of organelle organization
+GO:2000427	5	GO:0010638	positive regulation of organelle organization
+GO:0098730	14	GO:0007277	pole cell development
+GO:0001893	14	GO:0007277	pole cell development
+GO:0060326	2	GO:0002685	regulation of leukocyte migration
+GO:1903356	2	GO:0002685	regulation of leukocyte migration
+GO:0044403	1	GO:0044403	biological process involved in symbiotic interaction
+GO:0075136	1	GO:0044403	biological process involved in symbiotic interaction
+GO:0000132	4	GO:0051298	centrosome duplication
+GO:0008340	12	GO:0048736	appendage development
+GO:0090382	4	GO:0051298	centrosome duplication
+GO:0050920	7	GO:0061060	negative regulation of peptidoglycan recognition protein signaling pathway
+GO:0050922	7	GO:0061060	negative regulation of peptidoglycan recognition protein signaling pathway
+GO:0007282	14	GO:0007277	pole cell development
+GO:0007284	14	GO:0007277	pole cell development
+GO:0007099	4	GO:0051298	centrosome duplication
+GO:0035510	6	GO:0034637	cellular carbohydrate biosynthetic process
+GO:0044409	1	GO:0044403	biological process involved in symbiotic interaction
+GO:0048521	7	GO:0061060	negative regulation of peptidoglycan recognition protein signaling pathway
+GO:0043045	6	GO:0034637	cellular carbohydrate biosynthetic process
+GO:0044725	6	GO:0034637	cellular carbohydrate biosynthetic process
+GO:0044726	6	GO:0034637	cellular carbohydrate biosynthetic process
+GO:1901535	6	GO:0034637	cellular carbohydrate biosynthetic process
+GO:1901536	6	GO:0034637	cellular carbohydrate biosynthetic process
+GO:0046740	1	GO:0044403	biological process involved in symbiotic interaction
+GO:0071902	6	GO:0034637	cellular carbohydrate biosynthetic process
+GO:0098534	4	GO:0051298	centrosome duplication
+GO:0033692	6	GO:0034637	cellular carbohydrate biosynthetic process
+GO:0071555	4	GO:0051298	centrosome duplication
+GO:0006716	6	GO:0034637	cellular carbohydrate biosynthetic process
+GO:0006718	6	GO:0034637	cellular carbohydrate biosynthetic process
+GO:0033143	7	GO:0061060	negative regulation of peptidoglycan recognition protein signaling pathway
+GO:0048133	14	GO:0007277	pole cell development
+GO:0071514	6	GO:0034637	cellular carbohydrate biosynthetic process
+GO:0016106	6	GO:0034637	cellular carbohydrate biosynthetic process
+GO:0010876	8	GO:0007631	feeding behavior
+GO:2000653	6	GO:0034637	cellular carbohydrate biosynthetic process
+GO:0045859	6	GO:0034637	cellular carbohydrate biosynthetic process
+GO:0010825	5	GO:0010638	positive regulation of organelle organization
+GO:0034637	6	GO:0034637	cellular carbohydrate biosynthetic process
+GO:0006869	8	GO:0007631	feeding behavior
+GO:0044264	6	GO:0034637	cellular carbohydrate biosynthetic process
+GO:0046601	5	GO:0010638	positive regulation of organelle organization
+GO:0080111	6	GO:0034637	cellular carbohydrate biosynthetic process
+GO:0045838	8	GO:0007631	feeding behavior
+GO:0010918	8	GO:0007631	feeding behavior
+GO:0007608	9	GO:0051241	negative regulation of multicellular organismal process
+GO:1990834	8	GO:0007631	feeding behavior
+GO:0051298	4	GO:0051298	centrosome duplication
+GO:0006278	6	GO:0034637	cellular carbohydrate biosynthetic process
+GO:0000271	6	GO:0034637	cellular carbohydrate biosynthetic process
+GO:0005975	6	GO:0034637	cellular carbohydrate biosynthetic process
+GO:0006486	6	GO:0034637	cellular carbohydrate biosynthetic process
+GO:0036065	8	GO:0007631	feeding behavior
+GO:0060279	13	GO:0030728	ovulation
+GO:0045766	11	GO:0060415	muscle tissue morphogenesis
+GO:0002028	8	GO:0007631	feeding behavior
+GO:0061041	7	GO:0061060	negative regulation of peptidoglycan recognition protein signaling pathway
+GO:0014706	11	GO:0060415	muscle tissue morphogenesis
+GO:0061036	11	GO:0060415	muscle tissue morphogenesis
+GO:0090066	9	GO:0051241	negative regulation of multicellular organismal process
+GO:0010638	5	GO:0010638	positive regulation of organelle organization
+GO:0061626	11	GO:0060415	muscle tissue morphogenesis
+GO:0060391	7	GO:0061060	negative regulation of peptidoglycan recognition protein signaling pathway
+GO:0032355	8	GO:0007631	feeding behavior
+GO:0072577	8	GO:0007631	feeding behavior
+GO:0060350	11	GO:0060415	muscle tissue morphogenesis
+GO:0034090	4	GO:0051298	centrosome duplication
+GO:0061298	12	GO:0048736	appendage development
+GO:0001704	12	GO:0048736	appendage development
+GO:0001707	11	GO:0060415	muscle tissue morphogenesis
+GO:0051148	16	GO:0045597	positive regulation of cell differentiation
+GO:0120032	5	GO:0010638	positive regulation of organelle organization
+GO:0070972	8	GO:0007631	feeding behavior
+GO:0120035	5	GO:0010638	positive regulation of organelle organization
+GO:0048736	12	GO:0048736	appendage development
+GO:0048738	12	GO:0048736	appendage development
+GO:0045995	11	GO:0060415	muscle tissue morphogenesis
+GO:0014916	9	GO:0051241	negative regulation of multicellular organismal process
+GO:0034087	4	GO:0051298	centrosome duplication
+GO:0034089	4	GO:0051298	centrosome duplication
+GO:0035891	1	GO:0044403	biological process involved in symbiotic interaction
+GO:0060841	12	GO:0048736	appendage development
+GO:0031103	10	GO:0060856	establishment of blood-brain barrier
+GO:1903036	7	GO:0061060	negative regulation of peptidoglycan recognition protein signaling pathway
+GO:0060836	10	GO:0060856	establishment of blood-brain barrier
+GO:0001824	12	GO:0048736	appendage development
+GO:0085029	4	GO:0051298	centrosome duplication
+GO:0060491	5	GO:0010638	positive regulation of organelle organization
+GO:0003197	12	GO:0048736	appendage development
+GO:0003085	9	GO:0051241	negative regulation of multicellular organismal process
+GO:1903688	13	GO:0030728	ovulation
+GO:0070570	16	GO:0045597	positive regulation of cell differentiation
+GO:0048332	11	GO:0060415	muscle tissue morphogenesis
+GO:0048842	16	GO:0045597	positive regulation of cell differentiation
+GO:0003183	11	GO:0060415	muscle tissue morphogenesis
+GO:0045906	9	GO:0051241	negative regulation of multicellular organismal process
+GO:2000146	2	GO:0002685	regulation of leukocyte migration
+GO:0003186	11	GO:0060415	muscle tissue morphogenesis
+GO:0001946	12	GO:0048736	appendage development
+GO:1902731	5	GO:0010638	positive regulation of organelle organization
+GO:0019072	1	GO:0044403	biological process involved in symbiotic interaction
+GO:0019073	1	GO:0044403	biological process involved in symbiotic interaction
+GO:0019076	1	GO:0044403	biological process involved in symbiotic interaction
+GO:0030336	2	GO:0002685	regulation of leukocyte migration
+GO:0003176	12	GO:0048736	appendage development
+GO:0003177	12	GO:0048736	appendage development
+GO:0001938	5	GO:0010638	positive regulation of organelle organization
+GO:0060412	11	GO:0060415	muscle tissue morphogenesis
+GO:0060413	11	GO:0060415	muscle tissue morphogenesis
+GO:0030308	5	GO:0010638	positive regulation of organelle organization
+GO:0008608	4	GO:0051298	centrosome duplication
+GO:0003148	11	GO:0060415	muscle tissue morphogenesis
+GO:0007369	12	GO:0048736	appendage development
+GO:0060537	11	GO:0060415	muscle tissue morphogenesis
+GO:0009566	13	GO:0030728	ovulation
+GO:0007343	13	GO:0030728	ovulation
+GO:0043934	11	GO:0060415	muscle tissue morphogenesis
+GO:2000279	6	GO:0034637	cellular carbohydrate biosynthetic process
+GO:0010862	7	GO:0061060	negative regulation of peptidoglycan recognition protein signaling pathway
+GO:0003252	11	GO:0060415	muscle tissue morphogenesis
+GO:0007304	14	GO:0007277	pole cell development
+GO:0007306	14	GO:0007277	pole cell development
+GO:0060173	12	GO:0048736	appendage development
+GO:0030435	10	GO:0060856	establishment of blood-brain barrier
+GO:0045665	16	GO:0045597	positive regulation of cell differentiation
+GO:0045669	16	GO:0045597	positive regulation of cell differentiation
+GO:0030513	7	GO:0061060	negative regulation of peptidoglycan recognition protein signaling pathway
+GO:1904018	11	GO:0060415	muscle tissue morphogenesis
+GO:0046843	14	GO:0007277	pole cell development
+GO:0010976	16	GO:0045597	positive regulation of cell differentiation
+GO:0035023	7	GO:0061060	negative regulation of peptidoglycan recognition protein signaling pathway
+GO:0001667	2	GO:0002685	regulation of leukocyte migration
+GO:0010927	15	GO:0030239	myofibril assembly
+GO:0035152	11	GO:0060415	muscle tissue morphogenesis
+GO:0071459	8	GO:0007631	feeding behavior
+GO:0071900	6	GO:0034637	cellular carbohydrate biosynthetic process
+GO:0030501	11	GO:0060415	muscle tissue morphogenesis
+GO:0007422	12	GO:0048736	appendage development
+GO:0048662	5	GO:0010638	positive regulation of organelle organization
+GO:0030166	6	GO:0034637	cellular carbohydrate biosynthetic process
+GO:0010595	2	GO:0002685	regulation of leukocyte migration
+GO:0097502	8	GO:0007631	feeding behavior
+GO:0050679	5	GO:0010638	positive regulation of organelle organization
+GO:0048679	16	GO:0045597	positive regulation of cell differentiation
+GO:0031346	5	GO:0010638	positive regulation of organelle organization
+GO:0035107	12	GO:0048736	appendage development
+GO:0007064	4	GO:0051298	centrosome duplication
+GO:0038127	7	GO:0061060	negative regulation of peptidoglycan recognition protein signaling pathway
+GO:0106030	10	GO:0060856	establishment of blood-brain barrier
+GO:1902017	5	GO:0010638	positive regulation of organelle organization
+GO:0002063	10	GO:0060856	establishment of blood-brain barrier
+GO:1900426	7	GO:0061060	negative regulation of peptidoglycan recognition protein signaling pathway

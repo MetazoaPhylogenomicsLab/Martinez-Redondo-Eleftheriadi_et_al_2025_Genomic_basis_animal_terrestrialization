@@ -1,0 +1,350 @@
+GO:0043065	13	GO:0010528	regulation of transposition
+GO:0043068	13	GO:0010528	regulation of transposition
+GO:1903409	1	GO:0071620	phosphorylation of RNA polymerase II C-terminal domain serine 5 residues
+GO:0051028	5	GO:0072531	pyrimidine-containing compound transmembrane transport
+GO:0051043	2	GO:0010950	positive regulation of endopeptidase activity
+GO:0051044	2	GO:0010950	positive regulation of endopeptidase activity
+GO:0140052	8	GO:0014823	response to activity
+GO:0043032	13	GO:0010528	regulation of transposition
+GO:0016525	7	GO:1905941	positive regulation of gonad development
+GO:1902004	2	GO:0010950	positive regulation of endopeptidase activity
+GO:0010950	2	GO:0010950	positive regulation of endopeptidase activity
+GO:0010951	2	GO:0010950	positive regulation of endopeptidase activity
+GO:0010923	1	GO:0071620	phosphorylation of RNA polymerase II C-terminal domain serine 5 residues
+GO:0035195	3	GO:1900015	regulation of cytokine production involved in inflammatory response
+GO:0007362	6	GO:0060856	establishment of blood-brain barrier
+GO:0007354	6	GO:0060856	establishment of blood-brain barrier
+GO:0032760	4	GO:0032722	positive regulation of chemokine production
+GO:0032755	4	GO:0032722	positive regulation of chemokine production
+GO:0032757	4	GO:0032722	positive regulation of chemokine production
+GO:0007318	6	GO:0060856	establishment of blood-brain barrier
+GO:1904646	8	GO:0014823	response to activity
+GO:0032720	3	GO:1900015	regulation of cytokine production involved in inflammatory response
+GO:0007342	10	GO:0008637	apoptotic mitochondrial changes
+GO:0032722	4	GO:0032722	positive regulation of chemokine production
+GO:0032727	4	GO:0032722	positive regulation of chemokine production
+GO:0032728	4	GO:0032722	positive regulation of chemokine production
+GO:0032729	4	GO:0032722	positive regulation of chemokine production
+GO:0032715	3	GO:1900015	regulation of cytokine production involved in inflammatory response
+GO:0032747	4	GO:0032722	positive regulation of chemokine production
+GO:0032731	4	GO:0032722	positive regulation of chemokine production
+GO:0032733	4	GO:0032722	positive regulation of chemokine production
+GO:0032735	4	GO:0032722	positive regulation of chemokine production
+GO:0032736	4	GO:0032722	positive regulation of chemokine production
+GO:1903223	13	GO:0010528	regulation of transposition
+GO:0032700	3	GO:1900015	regulation of cytokine production involved in inflammatory response
+GO:0032707	3	GO:1900015	regulation of cytokine production involved in inflammatory response
+GO:0031343	13	GO:0010528	regulation of transposition
+GO:0001952	13	GO:0010528	regulation of transposition
+GO:0001953	13	GO:0010528	regulation of transposition
+GO:0000338	1	GO:0071620	phosphorylation of RNA polymerase II C-terminal domain serine 5 residues
+GO:0048539	6	GO:0060856	establishment of blood-brain barrier
+GO:0039557	1	GO:0071620	phosphorylation of RNA polymerase II C-terminal domain serine 5 residues
+GO:0001935	10	GO:0008637	apoptotic mitochondrial changes
+GO:0001936	13	GO:0010528	regulation of transposition
+GO:0050918	8	GO:0014823	response to activity
+GO:0032834	7	GO:1905941	positive regulation of gonad development
+GO:0032836	6	GO:0060856	establishment of blood-brain barrier
+GO:0060368	12	GO:0002253	activation of immune response
+GO:0039526	13	GO:0010528	regulation of transposition
+GO:0039540	13	GO:0010528	regulation of transposition
+GO:0039548	1	GO:0071620	phosphorylation of RNA polymerase II C-terminal domain serine 5 residues
+GO:0035794	10	GO:0008637	apoptotic mitochondrial changes
+GO:0060326	11	GO:0002685	regulation of leukocyte migration
+GO:0048661	13	GO:0010528	regulation of transposition
+GO:0007160	10	GO:0008637	apoptotic mitochondrial changes
+GO:0015718	5	GO:0072531	pyrimidine-containing compound transmembrane transport
+GO:0051384	8	GO:0014823	response to activity
+GO:0007186	14	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0048678	8	GO:0014823	response to activity
+GO:0007176	14	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0032570	8	GO:0014823	response to activity
+GO:0071368	8	GO:0014823	response to activity
+GO:0071351	8	GO:0014823	response to activity
+GO:0051300	10	GO:0008637	apoptotic mitochondrial changes
+GO:0071346	8	GO:0014823	response to activity
+GO:0015855	5	GO:0072531	pyrimidine-containing compound transmembrane transport
+GO:0071300	8	GO:0014823	response to activity
+GO:0032691	3	GO:1900015	regulation of cytokine production involved in inflammatory response
+GO:0008637	10	GO:0008637	apoptotic mitochondrial changes
+GO:0007252	1	GO:0071620	phosphorylation of RNA polymerase II C-terminal domain serine 5 residues
+GO:0015840	5	GO:0072531	pyrimidine-containing compound transmembrane transport
+GO:1902476	5	GO:0072531	pyrimidine-containing compound transmembrane transport
+GO:0015849	5	GO:0072531	pyrimidine-containing compound transmembrane transport
+GO:0031102	6	GO:0060856	establishment of blood-brain barrier
+GO:0032689	3	GO:1900015	regulation of cytokine production involved in inflammatory response
+GO:0007211	14	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0043410	14	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0051402	10	GO:0008637	apoptotic mitochondrial changes
+GO:0060153	13	GO:0010528	regulation of transposition
+GO:0071444	8	GO:0014823	response to activity
+GO:0043406	1	GO:0071620	phosphorylation of RNA polymerase II C-terminal domain serine 5 residues
+GO:0031214	6	GO:0060856	establishment of blood-brain barrier
+GO:0052548	2	GO:0010950	positive regulation of endopeptidase activity
+GO:0002062	6	GO:0060856	establishment of blood-brain barrier
+GO:0120163	3	GO:1900015	regulation of cytokine production involved in inflammatory response
+GO:0035589	14	GO:0007186	G protein-coupled receptor signaling pathway
+GO:1902110	10	GO:0008637	apoptotic mitochondrial changes
+GO:0043171	1	GO:0071620	phosphorylation of RNA polymerase II C-terminal domain serine 5 residues
+GO:0072531	5	GO:0072531	pyrimidine-containing compound transmembrane transport
+GO:0002076	6	GO:0060856	establishment of blood-brain barrier
+GO:0043123	14	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0046330	14	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0014066	14	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0014068	14	GO:0007186	G protein-coupled receptor signaling pathway
+GO:1903654	1	GO:0071620	phosphorylation of RNA polymerase II C-terminal domain serine 5 residues
+GO:1902108	10	GO:0008637	apoptotic mitochondrial changes
+GO:2001267	2	GO:0010950	positive regulation of endopeptidase activity
+GO:2001269	2	GO:0010950	positive regulation of endopeptidase activity
+GO:0062099	13	GO:0010528	regulation of transposition
+GO:0060279	7	GO:1905941	positive regulation of gonad development
+GO:0014002	6	GO:0060856	establishment of blood-brain barrier
+GO:0035666	14	GO:0007186	G protein-coupled receptor signaling pathway
+GO:2001237	14	GO:0007186	G protein-coupled receptor signaling pathway
+GO:2001238	14	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0043280	2	GO:0010950	positive regulation of endopeptidase activity
+GO:0000737	1	GO:0071620	phosphorylation of RNA polymerase II C-terminal domain serine 5 residues
+GO:0043278	8	GO:0014823	response to activity
+GO:0071260	8	GO:0014823	response to activity
+GO:0051216	6	GO:0060856	establishment of blood-brain barrier
+GO:0043248	10	GO:0008637	apoptotic mitochondrial changes
+GO:0071222	8	GO:0014823	response to activity
+GO:0071223	8	GO:0014823	response to activity
+GO:0045040	5	GO:0072531	pyrimidine-containing compound transmembrane transport
+GO:0051770	1	GO:0071620	phosphorylation of RNA polymerase II C-terminal domain serine 5 residues
+GO:0051712	13	GO:0010528	regulation of transposition
+GO:0007531	6	GO:0060856	establishment of blood-brain barrier
+GO:0007533	6	GO:0060856	establishment of blood-brain barrier
+GO:0007539	6	GO:0060856	establishment of blood-brain barrier
+GO:0060856	6	GO:0060856	establishment of blood-brain barrier
+GO:0060857	6	GO:0060856	establishment of blood-brain barrier
+GO:0051709	13	GO:0010528	regulation of transposition
+GO:0051898	14	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0097090	10	GO:0008637	apoptotic mitochondrial changes
+GO:0034393	13	GO:0010528	regulation of transposition
+GO:0031663	14	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0031666	14	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0060550	1	GO:0071620	phosphorylation of RNA polymerase II C-terminal domain serine 5 residues
+GO:0060552	1	GO:0071620	phosphorylation of RNA polymerase II C-terminal domain serine 5 residues
+GO:1903974	14	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0060557	1	GO:0071620	phosphorylation of RNA polymerase II C-terminal domain serine 5 residues
+GO:0006278	1	GO:0071620	phosphorylation of RNA polymerase II C-terminal domain serine 5 residues
+GO:0090090	14	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0060546	13	GO:0010528	regulation of transposition
+GO:0060547	13	GO:0010528	regulation of transposition
+GO:1905777	2	GO:0010950	positive regulation of endopeptidase activity
+GO:1905779	2	GO:0010950	positive regulation of endopeptidase activity
+GO:0043553	1	GO:0071620	phosphorylation of RNA polymerase II C-terminal domain serine 5 residues
+GO:0002455	8	GO:0014823	response to activity
+GO:2000095	14	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0043525	13	GO:0010528	regulation of transposition
+GO:0002429	12	GO:0002253	activation of immune response
+GO:0002440	3	GO:1900015	regulation of cytokine production involved in inflammatory response
+GO:0043535	11	GO:0002685	regulation of leukocyte migration
+GO:0002431	12	GO:0002253	activation of immune response
+GO:0009125	1	GO:0071620	phosphorylation of RNA polymerase II C-terminal domain serine 5 residues
+GO:2000035	13	GO:0010528	regulation of transposition
+GO:0070096	10	GO:0008637	apoptotic mitochondrial changes
+GO:0045348	1	GO:0071620	phosphorylation of RNA polymerase II C-terminal domain serine 5 residues
+GO:1905864	10	GO:0008637	apoptotic mitochondrial changes
+GO:1905866	10	GO:0008637	apoptotic mitochondrial changes
+GO:1990268	8	GO:0014823	response to activity
+GO:1902686	10	GO:0008637	apoptotic mitochondrial changes
+GO:0071655	3	GO:1900015	regulation of cytokine production involved in inflammatory response
+GO:0110077	10	GO:0008637	apoptotic mitochondrial changes
+GO:0006863	5	GO:0072531	pyrimidine-containing compound transmembrane transport
+GO:0034197	5	GO:0072531	pyrimidine-containing compound transmembrane transport
+GO:0071620	1	GO:0071620	phosphorylation of RNA polymerase II C-terminal domain serine 5 residues
+GO:0045471	8	GO:0014823	response to activity
+GO:1901224	14	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0045429	1	GO:0071620	phosphorylation of RNA polymerase II C-terminal domain serine 5 residues
+GO:1901216	13	GO:0010528	regulation of transposition
+GO:0042220	8	GO:0014823	response to activity
+GO:0033003	13	GO:0010528	regulation of transposition
+GO:0033005	13	GO:0010528	regulation of transposition
+GO:0006833	5	GO:0072531	pyrimidine-containing compound transmembrane transport
+GO:1905521	11	GO:0002685	regulation of leukocyte migration
+GO:0034142	14	GO:0007186	G protein-coupled receptor signaling pathway
+GO:1905522	11	GO:0002685	regulation of leukocyte migration
+GO:0034145	14	GO:0007186	G protein-coupled receptor signaling pathway
+GO:1905517	11	GO:0002685	regulation of leukocyte migration
+GO:0002253	12	GO:0002253	activation of immune response
+GO:0002281	8	GO:0014823	response to activity
+GO:0002275	8	GO:0014823	response to activity
+GO:0098742	10	GO:0008637	apoptotic mitochondrial changes
+GO:0002246	8	GO:0014823	response to activity
+GO:0030316	6	GO:0060856	establishment of blood-brain barrier
+GO:0030336	11	GO:0002685	regulation of leukocyte migration
+GO:0016064	8	GO:0014823	response to activity
+GO:0097345	14	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0009735	8	GO:0014823	response to activity
+GO:1905666	13	GO:0010528	regulation of transposition
+GO:1905668	13	GO:0010528	regulation of transposition
+GO:0098868	6	GO:0060856	establishment of blood-brain barrier
+GO:0097300	10	GO:0008637	apoptotic mitochondrial changes
+GO:0002761	7	GO:1905941	positive regulation of gonad development
+GO:0002768	12	GO:0002253	activation of immune response
+GO:0002755	14	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0036031	10	GO:0008637	apoptotic mitochondrial changes
+GO:0030474	10	GO:0008637	apoptotic mitochondrial changes
+GO:0002730	3	GO:1900015	regulation of cytokine production involved in inflammatory response
+GO:2000377	1	GO:0071620	phosphorylation of RNA polymerase II C-terminal domain serine 5 residues
+GO:2000378	1	GO:0071620	phosphorylation of RNA polymerase II C-terminal domain serine 5 residues
+GO:2000379	1	GO:0071620	phosphorylation of RNA polymerase II C-terminal domain serine 5 residues
+GO:0002700	3	GO:1900015	regulation of cytokine production involved in inflammatory response
+GO:2000343	4	GO:0032722	positive regulation of chemokine production
+GO:0030437	6	GO:0060856	establishment of blood-brain barrier
+GO:1902993	2	GO:0010950	positive regulation of endopeptidase activity
+GO:0090305	1	GO:0071620	phosphorylation of RNA polymerase II C-terminal domain serine 5 residues
+GO:1902965	13	GO:0010528	regulation of transposition
+GO:1902966	13	GO:0010528	regulation of transposition
+GO:2000309	4	GO:0032722	positive regulation of chemokine production
+GO:0070373	14	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0070374	14	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0097191	14	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0060907	4	GO:0032722	positive regulation of chemokine production
+GO:1902948	1	GO:0071620	phosphorylation of RNA polymerase II C-terminal domain serine 5 residues
+GO:0030150	5	GO:0072531	pyrimidine-containing compound transmembrane transport
+GO:0042595	8	GO:0014823	response to activity
+GO:0097150	6	GO:0060856	establishment of blood-brain barrier
+GO:0030178	14	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0070306	6	GO:0060856	establishment of blood-brain barrier
+GO:0071918	5	GO:0072531	pyrimidine-containing compound transmembrane transport
+GO:0014823	8	GO:0014823	response to activity
+GO:0019055	13	GO:0010528	regulation of transposition
+GO:0061343	6	GO:0060856	establishment of blood-brain barrier
+GO:0045745	14	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0097105	6	GO:0060856	establishment of blood-brain barrier
+GO:0048008	14	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0009691	1	GO:0071620	phosphorylation of RNA polymerase II C-terminal domain serine 5 residues
+GO:1900015	3	GO:1900015	regulation of cytokine production involved in inflammatory response
+GO:1900016	3	GO:1900015	regulation of cytokine production involved in inflammatory response
+GO:1900017	4	GO:0032722	positive regulation of chemokine production
+GO:0070430	14	GO:0007186	G protein-coupled receptor signaling pathway
+GO:1900018	1	GO:0071620	phosphorylation of RNA polymerase II C-terminal domain serine 5 residues
+GO:0030282	6	GO:0060856	establishment of blood-brain barrier
+GO:0097264	1	GO:0071620	phosphorylation of RNA polymerase II C-terminal domain serine 5 residues
+GO:0070434	14	GO:0007186	G protein-coupled receptor signaling pathway
+GO:2000181	7	GO:1905941	positive regulation of gonad development
+GO:0030279	7	GO:1905941	positive regulation of gonad development
+GO:0002534	3	GO:1900015	regulation of cytokine production involved in inflammatory response
+GO:0030225	6	GO:0060856	establishment of blood-brain barrier
+GO:0002537	8	GO:0014823	response to activity
+GO:0009611	8	GO:0014823	response to activity
+GO:2000146	11	GO:0002685	regulation of leukocyte migration
+GO:0010791	1	GO:0071620	phosphorylation of RNA polymerase II C-terminal domain serine 5 residues
+GO:0032075	2	GO:0010950	positive regulation of endopeptidase activity
+GO:0002697	12	GO:0002253	activation of immune response
+GO:0002699	12	GO:0002253	activation of immune response
+GO:0010760	11	GO:0002685	regulation of leukocyte migration
+GO:0010764	11	GO:0002685	regulation of leukocyte migration
+GO:0016325	6	GO:0060856	establishment of blood-brain barrier
+GO:0016311	1	GO:0071620	phosphorylation of RNA polymerase II C-terminal domain serine 5 residues
+GO:2000294	7	GO:1905941	positive regulation of gonad development
+GO:1905941	7	GO:1905941	positive regulation of gonad development
+GO:0016339	10	GO:0008637	apoptotic mitochondrial changes
+GO:0002684	12	GO:0002253	activation of immune response
+GO:0002685	11	GO:0002685	regulation of leukocyte migration
+GO:0002686	11	GO:0002685	regulation of leukocyte migration
+GO:0002688	11	GO:0002685	regulation of leukocyte migration
+GO:0002689	11	GO:0002685	regulation of leukocyte migration
+GO:0046942	5	GO:0072531	pyrimidine-containing compound transmembrane transport
+GO:1904466	5	GO:0072531	pyrimidine-containing compound transmembrane transport
+GO:0033141	1	GO:0071620	phosphorylation of RNA polymerase II C-terminal domain serine 5 residues
+GO:2000272	14	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0006954	8	GO:0014823	response to activity
+GO:0006956	12	GO:0002253	activation of immune response
+GO:1904480	7	GO:1905941	positive regulation of gonad development
+GO:0006958	12	GO:0002253	activation of immune response
+GO:0033137	1	GO:0071620	phosphorylation of RNA polymerase II C-terminal domain serine 5 residues
+GO:0030719	6	GO:0060856	establishment of blood-brain barrier
+GO:1904478	5	GO:0072531	pyrimidine-containing compound transmembrane transport
+GO:0006919	2	GO:0010950	positive regulation of endopeptidase activity
+GO:0021782	6	GO:0060856	establishment of blood-brain barrier
+GO:0070265	10	GO:0008637	apoptotic mitochondrial changes
+GO:0070266	10	GO:0008637	apoptotic mitochondrial changes
+GO:0036462	14	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0016441	3	GO:1900015	regulation of cytokine production involved in inflammatory response
+GO:0006909	10	GO:0008637	apoptotic mitochondrial changes
+GO:0044071	13	GO:0010528	regulation of transposition
+GO:0070213	1	GO:0071620	phosphorylation of RNA polymerase II C-terminal domain serine 5 residues
+GO:0010811	13	GO:0010528	regulation of transposition
+GO:0030850	6	GO:0060856	establishment of blood-brain barrier
+GO:0070231	10	GO:0008637	apoptotic mitochondrial changes
+GO:0070233	10	GO:0008637	apoptotic mitochondrial changes
+GO:0045664	7	GO:1905941	positive regulation of gonad development
+GO:0045666	7	GO:1905941	positive regulation of gonad development
+GO:0045671	7	GO:1905941	positive regulation of gonad development
+GO:0045672	7	GO:1905941	positive regulation of gonad development
+GO:0035070	6	GO:0060856	establishment of blood-brain barrier
+GO:0035073	6	GO:0060856	establishment of blood-brain barrier
+GO:0035075	8	GO:0014823	response to activity
+GO:0045616	7	GO:1905941	positive regulation of gonad development
+GO:0010595	11	GO:0002685	regulation of leukocyte migration
+GO:0050778	12	GO:0002253	activation of immune response
+GO:0050728	8	GO:0014823	response to activity
+GO:0050729	8	GO:0014823	response to activity
+GO:0045604	7	GO:1905941	positive regulation of gonad development
+GO:0030595	11	GO:0002685	regulation of leukocyte migration
+GO:0050731	1	GO:0071620	phosphorylation of RNA polymerase II C-terminal domain serine 5 residues
+GO:0010572	13	GO:0010528	regulation of transposition
+GO:0010528	13	GO:0010528	regulation of transposition
+GO:0036120	8	GO:0014823	response to activity
+GO:0010529	13	GO:0010528	regulation of transposition
+GO:0030521	14	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0030512	14	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0032368	5	GO:0072531	pyrimidine-containing compound transmembrane transport
+GO:0010508	1	GO:0071620	phosphorylation of RNA polymerase II C-terminal domain serine 5 residues
+GO:1901921	1	GO:0071620	phosphorylation of RNA polymerase II C-terminal domain serine 5 residues
+GO:0050860	12	GO:0002253	activation of immune response
+GO:0097529	11	GO:0002685	regulation of leukocyte migration
+GO:0050854	12	GO:0002253	activation of immune response
+GO:0050856	12	GO:0002253	activation of immune response
+GO:0050858	12	GO:0002253	activation of immune response
+GO:0032370	5	GO:0072531	pyrimidine-containing compound transmembrane transport
+GO:0036293	8	GO:0014823	response to activity
+GO:0050829	8	GO:0014823	response to activity
+GO:0070874	1	GO:0071620	phosphorylation of RNA polymerase II C-terminal domain serine 5 residues
+GO:0016239	1	GO:0071620	phosphorylation of RNA polymerase II C-terminal domain serine 5 residues
+GO:0002920	12	GO:0002253	activation of immune response
+GO:0002922	12	GO:0002253	activation of immune response
+GO:0016201	6	GO:0060856	establishment of blood-brain barrier
+GO:0010649	14	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0032497	8	GO:0014823	response to activity
+GO:0048168	13	GO:0010528	regulation of transposition
+GO:0021697	6	GO:0060856	establishment of blood-brain barrier
+GO:0014911	11	GO:0002685	regulation of leukocyte migration
+GO:1904729	5	GO:0072531	pyrimidine-containing compound transmembrane transport
+GO:0061844	8	GO:0014823	response to activity
+GO:0048143	6	GO:0060856	establishment of blood-brain barrier
+GO:1904745	10	GO:0008637	apoptotic mitochondrial changes
+GO:1904731	5	GO:0072531	pyrimidine-containing compound transmembrane transport
+GO:0031099	6	GO:0060856	establishment of blood-brain barrier
+GO:0040040	8	GO:0014823	response to activity
+GO:0001503	6	GO:0060856	establishment of blood-brain barrier
+GO:1904894	14	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0070542	8	GO:0014823	response to activity
+GO:0032197	10	GO:0008637	apoptotic mitochondrial changes
+GO:0031048	1	GO:0071620	phosphorylation of RNA polymerase II C-terminal domain serine 5 residues
+GO:0001666	8	GO:0014823	response to activity
+GO:0008103	6	GO:0060856	establishment of blood-brain barrier
+GO:1904823	5	GO:0072531	pyrimidine-containing compound transmembrane transport
+GO:2000644	2	GO:0010950	positive regulation of endopeptidase activity
+GO:2000646	2	GO:0010950	positive regulation of endopeptidase activity
+GO:0045916	12	GO:0002253	activation of immune response
+GO:0008293	14	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0048246	11	GO:0002685	regulation of leukocyte migration
+GO:0019221	14	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0050673	10	GO:0008637	apoptotic mitochondrial changes
+GO:0001649	6	GO:0060856	establishment of blood-brain barrier
+GO:0035305	1	GO:0071620	phosphorylation of RNA polymerase II C-terminal domain serine 5 residues
+GO:0035306	1	GO:0071620	phosphorylation of RNA polymerase II C-terminal domain serine 5 residues
+GO:0070673	8	GO:0014823	response to activity
+GO:1903426	1	GO:0071620	phosphorylation of RNA polymerase II C-terminal domain serine 5 residues
+GO:1903427	1	GO:0071620	phosphorylation of RNA polymerase II C-terminal domain serine 5 residues
+GO:1903428	1	GO:0071620	phosphorylation of RNA polymerase II C-terminal domain serine 5 residues
+GO:2001056	2	GO:0010950	positive regulation of endopeptidase activity
+GO:0060071	7	GO:1905941	positive regulation of gonad development
+GO:0060079	14	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0051092	1	GO:0071620	phosphorylation of RNA polymerase II C-terminal domain serine 5 residues
+GO:1900227	10	GO:0008637	apoptotic mitochondrial changes

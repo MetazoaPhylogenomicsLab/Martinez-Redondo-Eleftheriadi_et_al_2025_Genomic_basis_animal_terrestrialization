@@ -1,0 +1,134 @@
+GO:0004993	1	GO:0004888	transmembrane signaling receptor activity
+GO:0043548	6	GO:0043548	phosphatidylinositol 3-kinase binding
+GO:0098631	6	GO:0043548	phosphatidylinositol 3-kinase binding
+GO:0098632	6	GO:0043548	phosphatidylinositol 3-kinase binding
+GO:0005509	5	GO:0046872	metal ion binding
+GO:1990188	6	GO:0043548	phosphatidylinositol 3-kinase binding
+GO:0003691	4	GO:0003677	DNA binding
+GO:0004190	3	GO:0038024	cargo receptor activity
+GO:0003697	4	GO:0003677	DNA binding
+GO:0005427	2	GO:0005216	ion channel activity
+GO:0032422	4	GO:0003677	DNA binding
+GO:0001227	3	GO:0038024	cargo receptor activity
+GO:0070851	6	GO:0043548	phosphatidylinositol 3-kinase binding
+GO:0001228	3	GO:0038024	cargo receptor activity
+GO:0015322	2	GO:0005216	ion channel activity
+GO:0015267	2	GO:0005216	ion channel activity
+GO:0035613	4	GO:0003677	DNA binding
+GO:0004930	1	GO:0004888	transmembrane signaling receptor activity
+GO:0003677	4	GO:0003677	DNA binding
+GO:0003964	3	GO:0038024	cargo receptor activity
+GO:0015276	2	GO:0005216	ion channel activity
+GO:0003968	3	GO:0038024	cargo receptor activity
+GO:0004857	3	GO:0038024	cargo receptor activity
+GO:0003700	3	GO:0038024	cargo receptor activity
+GO:0004888	1	GO:0004888	transmembrane signaling receptor activity
+GO:0098847	4	GO:0003677	DNA binding
+GO:0031718	6	GO:0043548	phosphatidylinositol 3-kinase binding
+GO:0022834	2	GO:0005216	ion channel activity
+GO:0000981	3	GO:0038024	cargo receptor activity
+GO:0022836	2	GO:0005216	ion channel activity
+GO:0022839	2	GO:0005216	ion channel activity
+GO:0000977	4	GO:0003677	DNA binding
+GO:0000978	4	GO:0003677	DNA binding
+GO:0005125	6	GO:0043548	phosphatidylinositol 3-kinase binding
+GO:0005126	6	GO:0043548	phosphatidylinositol 3-kinase binding
+GO:0022803	2	GO:0005216	ion channel activity
+GO:0005112	6	GO:0043548	phosphatidylinositol 3-kinase binding
+GO:0005149	6	GO:0043548	phosphatidylinositol 3-kinase binding
+GO:0005139	6	GO:0043548	phosphatidylinositol 3-kinase binding
+GO:0004252	3	GO:0038024	cargo receptor activity
+GO:0080030	3	GO:0038024	cargo receptor activity
+GO:0019864	6	GO:0043548	phosphatidylinositol 3-kinase binding
+GO:0000900	4	GO:0003677	DNA binding
+GO:0042162	4	GO:0003677	DNA binding
+GO:0001618	6	GO:0043548	phosphatidylinositol 3-kinase binding
+GO:0016892	3	GO:0038024	cargo receptor activity
+GO:0030371	3	GO:0038024	cargo receptor activity
+GO:0004523	3	GO:0038024	cargo receptor activity
+GO:0005031	1	GO:0004888	transmembrane signaling receptor activity
+GO:0016936	6	GO:0043548	phosphatidylinositol 3-kinase binding
+GO:0030594	1	GO:0004888	transmembrane signaling receptor activity
+GO:0004519	3	GO:0038024	cargo receptor activity
+GO:0004549	3	GO:0038024	cargo receptor activity
+GO:0043047	4	GO:0003677	DNA binding
+GO:0045296	6	GO:0043548	phosphatidylinositol 3-kinase binding
+GO:0043035	4	GO:0003677	DNA binding
+GO:0008191	3	GO:0038024	cargo receptor activity
+GO:0099589	1	GO:0004888	transmembrane signaling receptor activity
+GO:0061665	3	GO:0038024	cargo receptor activity
+GO:0030246	6	GO:0043548	phosphatidylinositol 3-kinase binding
+GO:0005216	2	GO:0005216	ion channel activity
+GO:0005230	2	GO:0005216	ion channel activity
+GO:0043565	4	GO:0003677	DNA binding
+GO:0140416	3	GO:0038024	cargo receptor activity
+GO:0000213	3	GO:0038024	cargo receptor activity
+GO:0015101	2	GO:0005216	ion channel activity
+GO:0016538	3	GO:0038024	cargo receptor activity
+GO:0004181	3	GO:0038024	cargo receptor activity
+GO:0016503	1	GO:0004888	transmembrane signaling receptor activity
+GO:0042802	6	GO:0043548	phosphatidylinositol 3-kinase binding
+GO:0070567	3	GO:0038024	cargo receptor activity
+GO:0004983	1	GO:0004888	transmembrane signaling receptor activity
+GO:0004984	1	GO:0004888	transmembrane signaling receptor activity
+GO:0003918	3	GO:0038024	cargo receptor activity
+GO:0140318	2	GO:0005216	ion channel activity
+GO:0031492	4	GO:0003677	DNA binding
+GO:0015666	3	GO:0038024	cargo receptor activity
+GO:0008270	5	GO:0046872	metal ion binding
+GO:0008227	1	GO:0004888	transmembrane signaling receptor activity
+GO:0038023	1	GO:0004888	transmembrane signaling receptor activity
+GO:0038024	3	GO:0038024	cargo receptor activity
+GO:0003690	4	GO:0003677	DNA binding
+GO:0004908	1	GO:0004888	transmembrane signaling receptor activity
+GO:0043130	6	GO:0043548	phosphatidylinositol 3-kinase binding
+GO:0004687	3	GO:0038024	cargo receptor activity
+GO:0004222	3	GO:0038024	cargo receptor activity
+GO:0016799	3	GO:0038024	cargo receptor activity
+GO:0099106	3	GO:0038024	cargo receptor activity
+GO:0008320	2	GO:0005216	ion channel activity
+GO:0061630	3	GO:0038024	cargo receptor activity
+GO:0016721	3	GO:0038024	cargo receptor activity
+GO:0090729	3	GO:0038024	cargo receptor activity
+GO:2001070	6	GO:0043548	phosphatidylinositol 3-kinase binding
+GO:0043621	6	GO:0043548	phosphatidylinositol 3-kinase binding
+GO:0050431	6	GO:0043548	phosphatidylinositol 3-kinase binding
+GO:0032977	3	GO:0038024	cargo receptor activity
+GO:0008093	3	GO:0038024	cargo receptor activity
+GO:0005044	3	GO:0038024	cargo receptor activity
+GO:0022884	2	GO:0005216	ion channel activity
+GO:0004784	3	GO:0038024	cargo receptor activity
+GO:0003713	3	GO:0038024	cargo receptor activity
+GO:0016893	3	GO:0038024	cargo receptor activity
+GO:0004714	1	GO:0004888	transmembrane signaling receptor activity
+GO:0005001	1	GO:0004888	transmembrane signaling receptor activity
+GO:0033130	6	GO:0043548	phosphatidylinositol 3-kinase binding
+GO:0015450	2	GO:0005216	ion channel activity
+GO:0008083	6	GO:0043548	phosphatidylinositol 3-kinase binding
+GO:0022848	2	GO:0005216	ion channel activity
+GO:0019198	1	GO:0004888	transmembrane signaling receptor activity
+GO:0008028	2	GO:0005216	ion channel activity
+GO:0008422	3	GO:0038024	cargo receptor activity
+GO:0070330	3	GO:0038024	cargo receptor activity
+GO:0016888	3	GO:0038024	cargo receptor activity
+GO:0019966	6	GO:0043548	phosphatidylinositol 3-kinase binding
+GO:0033293	5	GO:0046872	metal ion binding
+GO:0017022	6	GO:0043548	phosphatidylinositol 3-kinase binding
+GO:0030550	3	GO:0038024	cargo receptor activity
+GO:0004065	3	GO:0038024	cargo receptor activity
+GO:0030957	6	GO:0043548	phosphatidylinositol 3-kinase binding
+GO:0004867	3	GO:0038024	cargo receptor activity
+GO:0046872	5	GO:0046872	metal ion binding
+GO:0042301	5	GO:0046872	metal ion binding
+GO:0042302	3	GO:0038024	cargo receptor activity
+GO:0033218	6	GO:0043548	phosphatidylinositol 3-kinase binding
+GO:0005534	6	GO:0043548	phosphatidylinositol 3-kinase binding
+GO:0005536	6	GO:0043548	phosphatidylinositol 3-kinase binding
+GO:0020037	4	GO:0003677	DNA binding
+GO:0008188	1	GO:0004888	transmembrane signaling receptor activity
+GO:0005506	5	GO:0046872	metal ion binding
+GO:0005507	5	GO:0046872	metal ion binding
+GO:0043495	3	GO:0038024	cargo receptor activity
+GO:0031369	6	GO:0043548	phosphatidylinositol 3-kinase binding
+GO:0008528	1	GO:0004888	transmembrane signaling receptor activity
+GO:0070008	3	GO:0038024	cargo receptor activity

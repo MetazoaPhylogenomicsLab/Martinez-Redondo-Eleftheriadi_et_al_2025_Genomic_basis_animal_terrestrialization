@@ -1,0 +1,518 @@
+GO:0043934	7	GO:0031214	biomineral tissue development
+GO:0002028	13	GO:0006909	phagocytosis
+GO:0018119	3	GO:0000255	allantoin metabolic process
+GO:0030198	17	GO:0030474	spindle pole body duplication
+GO:0090305	3	GO:0000255	allantoin metabolic process
+GO:0030183	8	GO:0061515	myeloid cell development
+GO:0007266	14	GO:0010469	regulation of signaling receptor activity
+GO:0046802	5	GO:0019058	viral life cycle
+GO:0007283	6	GO:0007283	spermatogenesis
+GO:0007286	6	GO:0007283	spermatogenesis
+GO:0000413	3	GO:0000255	allantoin metabolic process
+GO:0060326	11	GO:0071674	mononuclear cell migration
+GO:1903319	4	GO:0010954	positive regulation of protein processing
+GO:0097202	4	GO:0010954	positive regulation of protein processing
+GO:0006809	3	GO:0000255	allantoin metabolic process
+GO:0014902	8	GO:0061515	myeloid cell development
+GO:0030282	7	GO:0031214	biomineral tissue development
+GO:1901739	15	GO:0050865	regulation of cell activation
+GO:0050482	13	GO:0006909	phagocytosis
+GO:0048240	6	GO:0007283	spermatogenesis
+GO:0072006	7	GO:0031214	biomineral tissue development
+GO:0097722	11	GO:0071674	mononuclear cell migration
+GO:0010760	11	GO:0071674	mononuclear cell migration
+GO:0010764	11	GO:0071674	mononuclear cell migration
+GO:0030201	3	GO:0000255	allantoin metabolic process
+GO:0048203	13	GO:0006909	phagocytosis
+GO:0032310	13	GO:0006909	phagocytosis
+GO:0000290	3	GO:0000255	allantoin metabolic process
+GO:0032330	8	GO:0061515	myeloid cell development
+GO:0000255	3	GO:0000255	allantoin metabolic process
+GO:1904355	3	GO:0000255	allantoin metabolic process
+GO:0032309	13	GO:0006909	phagocytosis
+GO:0000280	17	GO:0030474	spindle pole body duplication
+GO:0046601	17	GO:0030474	spindle pole body duplication
+GO:0000272	3	GO:0000255	allantoin metabolic process
+GO:1904376	15	GO:0050865	regulation of cell activation
+GO:0051300	17	GO:0030474	spindle pole body duplication
+GO:0010894	3	GO:0000255	allantoin metabolic process
+GO:0090224	17	GO:0030474	spindle pole body duplication
+GO:0002367	1	GO:0002718	regulation of cytokine production involved in immune response
+GO:0060142	15	GO:0050865	regulation of cell activation
+GO:0002371	1	GO:0002718	regulation of cytokine production involved in immune response
+GO:0002372	1	GO:0002718	regulation of cytokine production involved in immune response
+GO:0070121	7	GO:0031214	biomineral tissue development
+GO:1902742	8	GO:0061515	myeloid cell development
+GO:0010827	13	GO:0006909	phagocytosis
+GO:0042475	7	GO:0031214	biomineral tissue development
+GO:0031274	17	GO:0030474	spindle pole body duplication
+GO:0001172	2	GO:2001141	regulation of RNA biosynthetic process
+GO:0010845	3	GO:0000255	allantoin metabolic process
+GO:0031214	7	GO:0031214	biomineral tissue development
+GO:0060294	11	GO:0071674	mononuclear cell migration
+GO:0051445	15	GO:0050865	regulation of cell activation
+GO:0045939	3	GO:0000255	allantoin metabolic process
+GO:0071470	9	GO:0034341	response to interferon-gamma
+GO:0060285	11	GO:0071674	mononuclear cell migration
+GO:1904415	10	GO:0002831	regulation of response to biotic stimulus
+GO:1904417	10	GO:0002831	regulation of response to biotic stimulus
+GO:0071412	9	GO:0034341	response to interferon-gamma
+GO:0030838	17	GO:0030474	spindle pole body duplication
+GO:0015074	3	GO:0000255	allantoin metabolic process
+GO:0035094	9	GO:0034341	response to interferon-gamma
+GO:0010564	16	GO:0019055	modification by virus of host cell cycle regulation
+GO:0015015	3	GO:0000255	allantoin metabolic process
+GO:0060236	17	GO:0030474	spindle pole body duplication
+GO:0010572	15	GO:0050865	regulation of cell activation
+GO:0002444	9	GO:0034341	response to interferon-gamma
+GO:0043330	9	GO:0034341	response to interferon-gamma
+GO:0010543	15	GO:0050865	regulation of cell activation
+GO:0042113	18	GO:0007017	microtubule-based process
+GO:0016925	3	GO:0000255	allantoin metabolic process
+GO:0048570	7	GO:0031214	biomineral tissue development
+GO:0050728	10	GO:0002831	regulation of response to biotic stimulus
+GO:0048515	6	GO:0007283	spermatogenesis
+GO:0098813	18	GO:0007017	microtubule-based process
+GO:0050730	4	GO:0010954	positive regulation of protein processing
+GO:0050731	4	GO:0010954	positive regulation of protein processing
+GO:1903722	17	GO:0030474	spindle pole body duplication
+GO:1903724	17	GO:0030474	spindle pole body duplication
+GO:0007638	9	GO:0034341	response to interferon-gamma
+GO:2000480	4	GO:0010954	positive regulation of protein processing
+GO:0032222	14	GO:0010469	regulation of signaling receptor activity
+GO:0003309	7	GO:0031214	biomineral tissue development
+GO:0050854	14	GO:0010469	regulation of signaling receptor activity
+GO:0043407	4	GO:0010954	positive regulation of protein processing
+GO:0046902	13	GO:0006909	phagocytosis
+GO:0044380	13	GO:0006909	phagocytosis
+GO:0032760	1	GO:0002718	regulation of cytokine production involved in immune response
+GO:0032755	1	GO:0002718	regulation of cytokine production involved in immune response
+GO:0032757	1	GO:0002718	regulation of cytokine production involved in immune response
+GO:0150117	15	GO:0050865	regulation of cell activation
+GO:0006911	13	GO:0006909	phagocytosis
+GO:0039554	10	GO:0002831	regulation of response to biotic stimulus
+GO:0006919	4	GO:0010954	positive regulation of protein processing
+GO:0003431	8	GO:0061515	myeloid cell development
+GO:0043122	14	GO:0010469	regulation of signaling receptor activity
+GO:0043123	14	GO:0010469	regulation of signaling receptor activity
+GO:0039573	10	GO:0002831	regulation of response to biotic stimulus
+GO:0051781	15	GO:0050865	regulation of cell activation
+GO:0051783	17	GO:0030474	spindle pole body duplication
+GO:0032731	1	GO:0002718	regulation of cytokine production involved in immune response
+GO:0032732	1	GO:0002718	regulation of cytokine production involved in immune response
+GO:0006909	13	GO:0006909	phagocytosis
+GO:0001819	1	GO:0002718	regulation of cytokine production involved in immune response
+GO:0042730	10	GO:0002831	regulation of response to biotic stimulus
+GO:0098670	5	GO:0019058	viral life cycle
+GO:0098671	5	GO:0019058	viral life cycle
+GO:1903557	1	GO:0002718	regulation of cytokine production involved in immune response
+GO:0039693	5	GO:0019058	viral life cycle
+GO:0039695	5	GO:0019058	viral life cycle
+GO:0009593	9	GO:0034341	response to interferon-gamma
+GO:0009595	9	GO:0034341	response to interferon-gamma
+GO:0071715	13	GO:0006909	phagocytosis
+GO:0043269	13	GO:0006909	phagocytosis
+GO:1900015	1	GO:0002718	regulation of cytokine production involved in immune response
+GO:1900016	1	GO:0002718	regulation of cytokine production involved in immune response
+GO:1900017	1	GO:0002718	regulation of cytokine production involved in immune response
+GO:0043280	4	GO:0010954	positive regulation of protein processing
+GO:0032874	14	GO:0010469	regulation of signaling receptor activity
+GO:0031663	14	GO:0010469	regulation of signaling receptor activity
+GO:0001562	9	GO:0034341	response to interferon-gamma
+GO:0039686	5	GO:0019058	viral life cycle
+GO:0002720	1	GO:0002718	regulation of cytokine production involved in immune response
+GO:0039674	5	GO:0019058	viral life cycle
+GO:0032816	15	GO:0050865	regulation of cell activation
+GO:0002718	1	GO:0002718	regulation of cytokine production involved in immune response
+GO:1903506	2	GO:2001141	regulation of RNA biosynthetic process
+GO:0002730	1	GO:0002718	regulation of cytokine production involved in immune response
+GO:0032835	7	GO:0031214	biomineral tissue development
+GO:0002732	1	GO:0002718	regulation of cytokine production involved in immune response
+GO:0002733	1	GO:0002718	regulation of cytokine production involved in immune response
+GO:0002735	1	GO:0002718	regulation of cytokine production involved in immune response
+GO:0039644	2	GO:2001141	regulation of RNA biosynthetic process
+GO:0039645	16	GO:0019055	modification by virus of host cell cycle regulation
+GO:0006032	3	GO:0000255	allantoin metabolic process
+GO:0042832	9	GO:0034341	response to interferon-gamma
+GO:0031638	3	GO:0000255	allantoin metabolic process
+GO:0001539	11	GO:0071674	mononuclear cell migration
+GO:2001141	2	GO:2001141	regulation of RNA biosynthetic process
+GO:0002888	10	GO:0002831	regulation of response to biotic stimulus
+GO:0010951	4	GO:0010954	positive regulation of protein processing
+GO:0010954	4	GO:0010954	positive regulation of protein processing
+GO:2000786	17	GO:0030474	spindle pole body duplication
+GO:0071805	13	GO:0006909	phagocytosis
+GO:0009620	9	GO:0034341	response to interferon-gamma
+GO:0140546	9	GO:0034341	response to interferon-gamma
+GO:0009612	9	GO:0034341	response to interferon-gamma
+GO:0002831	10	GO:0002831	regulation of response to biotic stimulus
+GO:2000738	15	GO:0050865	regulation of cell activation
+GO:0007096	17	GO:0030474	spindle pole body duplication
+GO:0007099	17	GO:0030474	spindle pole body duplication
+GO:1901016	13	GO:0006909	phagocytosis
+GO:0061511	17	GO:0030474	spindle pole body duplication
+GO:0061512	13	GO:0006909	phagocytosis
+GO:0016319	7	GO:0031214	biomineral tissue development
+GO:0071539	13	GO:0006909	phagocytosis
+GO:0007017	18	GO:0007017	microtubule-based process
+GO:0002577	10	GO:0002831	regulation of response to biotic stimulus
+GO:0002532	9	GO:0034341	response to interferon-gamma
+GO:0046324	13	GO:0006909	phagocytosis
+GO:0034762	15	GO:0050865	regulation of cell activation
+GO:0034765	13	GO:0006909	phagocytosis
+GO:0046330	14	GO:0010469	regulation of signaling receptor activity
+GO:0045143	17	GO:0030474	spindle pole body duplication
+GO:0051607	9	GO:0034341	response to interferon-gamma
+GO:0044782	17	GO:0030474	spindle pole body duplication
+GO:0045132	17	GO:0030474	spindle pole body duplication
+GO:0006355	2	GO:2001141	regulation of RNA biosynthetic process
+GO:0006357	2	GO:2001141	regulation of RNA biosynthetic process
+GO:0040020	17	GO:0030474	spindle pole body duplication
+GO:1903963	13	GO:0006909	phagocytosis
+GO:1905508	13	GO:0006909	phagocytosis
+GO:0019068	5	GO:0019058	viral life cycle
+GO:0016114	3	GO:0000255	allantoin metabolic process
+GO:1900424	10	GO:0002831	regulation of response to biotic stimulus
+GO:0019058	5	GO:0019058	viral life cycle
+GO:0019080	5	GO:0019058	viral life cycle
+GO:0019082	5	GO:0019058	viral life cycle
+GO:0019083	5	GO:0019058	viral life cycle
+GO:0044826	5	GO:0019058	viral life cycle
+GO:0019076	5	GO:0019058	viral life cycle
+GO:0019079	5	GO:0019058	viral life cycle
+GO:0050907	9	GO:0034341	response to interferon-gamma
+GO:0072698	13	GO:0006909	phagocytosis
+GO:0045746	14	GO:0010469	regulation of signaling receptor activity
+GO:0001909	18	GO:0007017	microtubule-based process
+GO:0045736	4	GO:0010954	positive regulation of protein processing
+GO:0015886	13	GO:0006909	phagocytosis
+GO:0070096	17	GO:0030474	spindle pole body duplication
+GO:0016233	3	GO:0000255	allantoin metabolic process
+GO:0016239	15	GO:0050865	regulation of cell activation
+GO:1903046	18	GO:0007017	microtubule-based process
+GO:0010324	17	GO:0030474	spindle pole body duplication
+GO:0110077	13	GO:0006909	phagocytosis
+GO:0099024	17	GO:0030474	spindle pole body duplication
+GO:0030317	11	GO:0071674	mononuclear cell migration
+GO:0051091	2	GO:2001141	regulation of RNA biosynthetic process
+GO:0051092	2	GO:2001141	regulation of RNA biosynthetic process
+GO:0006278	2	GO:2001141	regulation of RNA biosynthetic process
+GO:0032056	4	GO:0010954	positive regulation of protein processing
+GO:0046755	5	GO:0019058	viral life cycle
+GO:0042060	9	GO:0034341	response to interferon-gamma
+GO:0010458	17	GO:0030474	spindle pole body duplication
+GO:0140013	17	GO:0030474	spindle pole body duplication
+GO:0140014	17	GO:0030474	spindle pole body duplication
+GO:0046718	5	GO:0019058	viral life cycle
+GO:0061081	1	GO:0002718	regulation of cytokine production involved in immune response
+GO:0061082	1	GO:0002718	regulation of cytokine production involved in immune response
+GO:0051048	13	GO:0006909	phagocytosis
+GO:0097194	18	GO:0007017	microtubule-based process
+GO:0030474	17	GO:0030474	spindle pole body duplication
+GO:0007189	14	GO:0010469	regulation of signaling receptor activity
+GO:0075713	5	GO:0019058	viral life cycle
+GO:0035694	3	GO:0000255	allantoin metabolic process
+GO:0030435	8	GO:0061515	myeloid cell development
+GO:0002066	8	GO:0061515	myeloid cell development
+GO:0035666	14	GO:0010469	regulation of signaling receptor activity
+GO:0007131	3	GO:0000255	allantoin metabolic process
+GO:0002076	8	GO:0061515	myeloid cell development
+GO:0046813	5	GO:0019058	viral life cycle
+GO:0090303	10	GO:0002831	regulation of response to biotic stimulus
+GO:1905941	7	GO:0031214	biomineral tissue development
+GO:0030150	13	GO:0006909	phagocytosis
+GO:0045617	8	GO:0061515	myeloid cell development
+GO:0031334	17	GO:0030474	spindle pole body duplication
+GO:0007229	14	GO:0010469	regulation of signaling receptor activity
+GO:0048139	6	GO:0007283	spermatogenesis
+GO:0030101	18	GO:0007017	microtubule-based process
+GO:0010212	9	GO:0034341	response to interferon-gamma
+GO:1902108	13	GO:0006909	phagocytosis
+GO:0046651	18	GO:0007017	microtubule-based process
+GO:0010717	8	GO:0061515	myeloid cell development
+GO:0031112	17	GO:0030474	spindle pole body duplication
+GO:0031116	17	GO:0030474	spindle pole body duplication
+GO:0071365	9	GO:0034341	response to interferon-gamma
+GO:0071368	9	GO:0034341	response to interferon-gamma
+GO:0010705	3	GO:0000255	allantoin metabolic process
+GO:0070192	17	GO:0030474	spindle pole body duplication
+GO:0060153	16	GO:0019055	modification by virus of host cell cycle regulation
+GO:2001056	4	GO:0010954	positive regulation of protein processing
+GO:0031103	8	GO:0061515	myeloid cell development
+GO:0051303	13	GO:0006909	phagocytosis
+GO:0044071	16	GO:0019055	modification by virus of host cell cycle regulation
+GO:0008207	3	GO:0000255	allantoin metabolic process
+GO:0030708	6	GO:0007283	spermatogenesis
+GO:0044030	2	GO:2001141	regulation of RNA biosynthetic process
+GO:0080154	6	GO:0007283	spermatogenesis
+GO:0002312	18	GO:0007017	microtubule-based process
+GO:0099120	7	GO:0031214	biomineral tissue development
+GO:0010838	15	GO:0050865	regulation of cell activation
+GO:0007589	13	GO:0006909	phagocytosis
+GO:0019724	9	GO:0034341	response to interferon-gamma
+GO:0002460	9	GO:0034341	response to interferon-gamma
+GO:0098742	18	GO:0007017	microtubule-based process
+GO:0033301	18	GO:0007017	microtubule-based process
+GO:0002449	9	GO:0034341	response to interferon-gamma
+GO:0035010	9	GO:0034341	response to interferon-gamma
+GO:0032102	10	GO:0002831	regulation of response to biotic stimulus
+GO:0098868	7	GO:0031214	biomineral tissue development
+GO:0030587	7	GO:0031214	biomineral tissue development
+GO:0035036	6	GO:0007283	spermatogenesis
+GO:0039702	5	GO:0019058	viral life cycle
+GO:0050727	10	GO:0002831	regulation of response to biotic stimulus
+GO:0042102	15	GO:0050865	regulation of cell activation
+GO:0045040	13	GO:0006909	phagocytosis
+GO:0035006	9	GO:0034341	response to interferon-gamma
+GO:0070782	13	GO:0006909	phagocytosis
+GO:0032273	17	GO:0030474	spindle pole body duplication
+GO:0051251	15	GO:0050865	regulation of cell activation
+GO:0050867	15	GO:0050865	regulation of cell activation
+GO:0016062	14	GO:0010469	regulation of signaling receptor activity
+GO:0016064	9	GO:0034341	response to interferon-gamma
+GO:0050870	15	GO:0050865	regulation of cell activation
+GO:0039592	16	GO:0019055	modification by virus of host cell cycle regulation
+GO:0006953	9	GO:0034341	response to interferon-gamma
+GO:0006954	9	GO:0034341	response to interferon-gamma
+GO:0098534	17	GO:0030474	spindle pole body duplication
+GO:0039562	16	GO:0019055	modification by virus of host cell cycle regulation
+GO:0039563	16	GO:0019055	modification by virus of host cell cycle regulation
+GO:0039564	16	GO:0019055	modification by virus of host cell cycle regulation
+GO:0002285	18	GO:0007017	microtubule-based process
+GO:1902679	2	GO:2001141	regulation of RNA biosynthetic process
+GO:0039514	16	GO:0019055	modification by virus of host cell cycle regulation
+GO:0039548	2	GO:2001141	regulation of RNA biosynthetic process
+GO:0039535	10	GO:0002831	regulation of response to biotic stimulus
+GO:0039502	10	GO:0002831	regulation of response to biotic stimulus
+GO:0070593	8	GO:0061515	myeloid cell development
+GO:0008643	13	GO:0006909	phagocytosis
+GO:0051703	18	GO:0007017	microtubule-based process
+GO:1904747	15	GO:0050865	regulation of cell activation
+GO:0008608	18	GO:0007017	microtubule-based process
+GO:0009566	6	GO:0007283	spermatogenesis
+GO:0098609	18	GO:0007017	microtubule-based process
+GO:0044406	5	GO:0019058	viral life cycle
+GO:0051873	9	GO:0034341	response to interferon-gamma
+GO:1903507	2	GO:2001141	regulation of RNA biosynthetic process
+GO:0002706	10	GO:0002831	regulation of response to biotic stimulus
+GO:0002708	10	GO:0002831	regulation of response to biotic stimulus
+GO:0051838	9	GO:0034341	response to interferon-gamma
+GO:0050670	15	GO:0050865	regulation of cell activation
+GO:0050671	15	GO:0050865	regulation of cell activation
+GO:0009691	3	GO:0000255	allantoin metabolic process
+GO:0070663	15	GO:0050865	regulation of cell activation
+GO:0070665	15	GO:0050865	regulation of cell activation
+GO:0002821	10	GO:0002831	regulation of response to biotic stimulus
+GO:0002822	10	GO:0002831	regulation of response to biotic stimulus
+GO:0002824	10	GO:0002831	regulation of response to biotic stimulus
+GO:0002819	10	GO:0002831	regulation of response to biotic stimulus
+GO:0042572	3	GO:0000255	allantoin metabolic process
+GO:0042574	3	GO:0000255	allantoin metabolic process
+GO:0009611	9	GO:0034341	response to interferon-gamma
+GO:0045448	7	GO:0031214	biomineral tissue development
+GO:0034219	13	GO:0006909	phagocytosis
+GO:0044278	9	GO:0034341	response to interferon-gamma
+GO:0016339	18	GO:0007017	microtubule-based process
+GO:0030903	7	GO:0031214	biomineral tissue development
+GO:0035186	7	GO:0031214	biomineral tissue development
+GO:0002696	15	GO:0050865	regulation of cell activation
+GO:0000917	17	GO:0030474	spindle pole body duplication
+GO:0035290	7	GO:0031214	biomineral tissue development
+GO:0006310	3	GO:0000255	allantoin metabolic process
+GO:0040034	15	GO:0050865	regulation of cell activation
+GO:0050982	9	GO:0034341	response to interferon-gamma
+GO:0090090	14	GO:0010469	regulation of signaling receptor activity
+GO:0019062	5	GO:0019058	viral life cycle
+GO:0019050	16	GO:0019055	modification by virus of host cell cycle regulation
+GO:0019055	16	GO:0019055	modification by virus of host cell cycle regulation
+GO:0008049	6	GO:0007283	spermatogenesis
+GO:0008038	8	GO:0061515	myeloid cell development
+GO:0045793	17	GO:0030474	spindle pole body duplication
+GO:0019046	5	GO:0019058	viral life cycle
+GO:0032954	16	GO:0019055	modification by virus of host cell cycle regulation
+GO:0035891	5	GO:0019058	viral life cycle
+GO:0007340	6	GO:0007283	spermatogenesis
+GO:0007342	6	GO:0007283	spermatogenesis
+GO:0045892	2	GO:2001141	regulation of RNA biosynthetic process
+GO:0007338	6	GO:0007283	spermatogenesis
+GO:0032944	15	GO:0050865	regulation of cell activation
+GO:0032946	15	GO:0050865	regulation of cell activation
+GO:0110095	9	GO:0034341	response to interferon-gamma
+GO:0051972	2	GO:2001141	regulation of RNA biosynthetic process
+GO:0051973	2	GO:2001141	regulation of RNA biosynthetic process
+GO:1903039	15	GO:0050865	regulation of cell activation
+GO:0007494	7	GO:0031214	biomineral tissue development
+GO:0017121	13	GO:0006909	phagocytosis
+GO:0009047	1	GO:0002718	regulation of cytokine production involved in immune response
+GO:0044650	5	GO:0019058	viral life cycle
+GO:0046760	5	GO:0019058	viral life cycle
+GO:0046765	5	GO:0019058	viral life cycle
+GO:0046740	5	GO:0019058	viral life cycle
+GO:0007156	18	GO:0007017	microtubule-based process
+GO:0007188	14	GO:0010469	regulation of signaling receptor activity
+GO:0061041	10	GO:0002831	regulation of response to biotic stimulus
+GO:0061005	8	GO:0061515	myeloid cell development
+GO:0046649	18	GO:0007017	microtubule-based process
+GO:0075732	5	GO:0019058	viral life cycle
+GO:0075733	5	GO:0019058	viral life cycle
+GO:0014013	8	GO:0061515	myeloid cell development
+GO:0014015	8	GO:0061515	myeloid cell development
+GO:0034080	17	GO:0030474	spindle pole body duplication
+GO:1904994	15	GO:0050865	regulation of cell activation
+GO:0006688	3	GO:0000255	allantoin metabolic process
+GO:1904996	15	GO:0050865	regulation of cell activation
+GO:0044088	17	GO:0030474	spindle pole body duplication
+GO:0001941	17	GO:0030474	spindle pole body duplication
+GO:0045668	8	GO:0061515	myeloid cell development
+GO:1904950	13	GO:0006909	phagocytosis
+GO:0030195	10	GO:0002831	regulation of response to biotic stimulus
+GO:1900047	10	GO:0002831	regulation of response to biotic stimulus
+GO:1901678	13	GO:0006909	phagocytosis
+GO:0051923	3	GO:0000255	allantoin metabolic process
+GO:0010224	9	GO:0034341	response to interferon-gamma
+GO:0033005	15	GO:0050865	regulation of cell activation
+GO:0010216	3	GO:0000255	allantoin metabolic process
+GO:1903977	11	GO:0071674	mononuclear cell migration
+GO:0030252	13	GO:0006909	phagocytosis
+GO:0039700	5	GO:0019058	viral life cycle
+GO:0030204	3	GO:0000255	allantoin metabolic process
+GO:0030206	3	GO:0000255	allantoin metabolic process
+GO:0010758	11	GO:0071674	mononuclear cell migration
+GO:0009733	9	GO:0034341	response to interferon-gamma
+GO:0070168	7	GO:0031214	biomineral tissue development
+GO:0060123	13	GO:0006909	phagocytosis
+GO:0060124	13	GO:0006909	phagocytosis
+GO:0090278	13	GO:0006909	phagocytosis
+GO:0060141	16	GO:0019055	modification by virus of host cell cycle regulation
+GO:1902902	17	GO:0030474	spindle pole body duplication
+GO:0031055	17	GO:0030474	spindle pole body duplication
+GO:0006956	10	GO:0002831	regulation of response to biotic stimulus
+GO:0034341	9	GO:0034341	response to interferon-gamma
+GO:0060291	14	GO:0010469	regulation of signaling receptor activity
+GO:0120178	3	GO:0000255	allantoin metabolic process
+GO:0060252	8	GO:0061515	myeloid cell development
+GO:0010833	3	GO:0000255	allantoin metabolic process
+GO:0019695	3	GO:0000255	allantoin metabolic process
+GO:1905522	11	GO:0071674	mononuclear cell migration
+GO:0070227	18	GO:0007017	microtubule-based process
+GO:0070228	15	GO:0050865	regulation of cell activation
+GO:0070229	15	GO:0050865	regulation of cell activation
+GO:0000706	3	GO:0000255	allantoin metabolic process
+GO:0099565	14	GO:0010469	regulation of signaling receptor activity
+GO:0039671	5	GO:0019058	viral life cycle
+GO:0061097	4	GO:0010954	positive regulation of protein processing
+GO:0061098	4	GO:0010954	positive regulation of protein processing
+GO:0060711	7	GO:0031214	biomineral tissue development
+GO:0060712	7	GO:0031214	biomineral tissue development
+GO:0050709	13	GO:0006909	phagocytosis
+GO:0017014	3	GO:0000255	allantoin metabolic process
+GO:0061028	8	GO:0061515	myeloid cell development
+GO:0050865	15	GO:0050865	regulation of cell activation
+GO:1903053	15	GO:0050865	regulation of cell activation
+GO:0043434	9	GO:0034341	response to interferon-gamma
+GO:0010638	17	GO:0030474	spindle pole body duplication
+GO:0032467	15	GO:0050865	regulation of cell activation
+GO:0090528	17	GO:0030474	spindle pole body duplication
+GO:0007080	17	GO:0030474	spindle pole body duplication
+GO:2000351	15	GO:0050865	regulation of cell activation
+GO:0090502	3	GO:0000255	allantoin metabolic process
+GO:0007043	17	GO:0030474	spindle pole body duplication
+GO:0032197	18	GO:0007017	microtubule-based process
+GO:0034727	3	GO:0000255	allantoin metabolic process
+GO:0043281	4	GO:0010954	positive regulation of protein processing
+GO:0032100	10	GO:0002831	regulation of response to biotic stimulus
+GO:0070670	9	GO:0034341	response to interferon-gamma
+GO:0032288	8	GO:0061515	myeloid cell development
+GO:0010955	4	GO:0010954	positive regulation of protein processing
+GO:0008347	8	GO:0061515	myeloid cell development
+GO:0042220	9	GO:0034341	response to interferon-gamma
+GO:0071312	9	GO:0034341	response to interferon-gamma
+GO:0071346	9	GO:0034341	response to interferon-gamma
+GO:2000116	4	GO:0010954	positive regulation of protein processing
+GO:0044805	3	GO:0000255	allantoin metabolic process
+GO:1903318	4	GO:0010954	positive regulation of protein processing
+GO:0051461	13	GO:0006909	phagocytosis
+GO:0051464	13	GO:0006909	phagocytosis
+GO:2000106	15	GO:0050865	regulation of cell activation
+GO:2000107	15	GO:0050865	regulation of cell activation
+GO:0032715	1	GO:0002718	regulation of cytokine production involved in immune response
+GO:0002230	10	GO:0002831	regulation of response to biotic stimulus
+GO:0034501	13	GO:0006909	phagocytosis
+GO:0085029	17	GO:0030474	spindle pole body duplication
+GO:0032814	15	GO:0050865	regulation of cell activation
+GO:2000785	17	GO:0030474	spindle pole body duplication
+GO:0006349	2	GO:2001141	regulation of RNA biosynthetic process
+GO:0045321	18	GO:0007017	microtubule-based process
+GO:0050922	10	GO:0002831	regulation of response to biotic stimulus
+GO:0006306	3	GO:0000255	allantoin metabolic process
+GO:2001057	3	GO:0000255	allantoin metabolic process
+GO:0071107	9	GO:0034341	response to interferon-gamma
+GO:1902412	16	GO:0019055	modification by virus of host cell cycle regulation
+GO:0007193	14	GO:0010469	regulation of signaling receptor activity
+GO:1901346	7	GO:0031214	biomineral tissue development
+GO:0050901	11	GO:0071674	mononuclear cell migration
+GO:0008258	7	GO:0031214	biomineral tissue development
+GO:0051224	13	GO:0006909	phagocytosis
+GO:0006465	3	GO:0000255	allantoin metabolic process
+GO:0007155	18	GO:0007017	microtubule-based process
+GO:0019064	5	GO:0019058	viral life cycle
+GO:0008284	15	GO:0050865	regulation of cell activation
+GO:0007158	18	GO:0007017	microtubule-based process
+GO:0042551	8	GO:0061515	myeloid cell development
+GO:0019073	5	GO:0019058	viral life cycle
+GO:0001702	7	GO:0031214	biomineral tissue development
+GO:0042531	4	GO:0010954	positive regulation of protein processing
+GO:0008202	3	GO:0000255	allantoin metabolic process
+GO:0045476	6	GO:0007283	spermatogenesis
+GO:0001892	7	GO:0031214	biomineral tissue development
+GO:0001893	7	GO:0031214	biomineral tissue development
+GO:0032692	1	GO:0002718	regulation of cytokine production involved in immune response
+GO:0042509	4	GO:0010954	positive regulation of protein processing
+GO:0048708	8	GO:0061515	myeloid cell development
+GO:0051785	17	GO:0030474	spindle pole body duplication
+GO:0007260	4	GO:0010954	positive regulation of protein processing
+GO:0032652	1	GO:0002718	regulation of cytokine production involved in immune response
+GO:0001885	8	GO:0061515	myeloid cell development
+GO:0032680	1	GO:0002718	regulation of cytokine production involved in immune response
+GO:0032675	1	GO:0002718	regulation of cytokine production involved in immune response
+GO:0032612	1	GO:0002718	regulation of cytokine production involved in immune response
+GO:0032640	1	GO:0002718	regulation of cytokine production involved in immune response
+GO:0007218	14	GO:0010469	regulation of signaling receptor activity
+GO:0032635	1	GO:0002718	regulation of cytokine production involved in immune response
+GO:0061709	17	GO:0030474	spindle pole body duplication
+GO:0002691	11	GO:0071674	mononuclear cell migration
+GO:0002694	15	GO:0050865	regulation of cell activation
+GO:1901186	14	GO:0010469	regulation of signaling receptor activity
+GO:0071706	1	GO:0002718	regulation of cytokine production involved in immune response
+GO:0002686	11	GO:0071674	mononuclear cell migration
+GO:0046209	3	GO:0000255	allantoin metabolic process
+GO:0002689	11	GO:0071674	mononuclear cell migration
+GO:0001570	8	GO:0061515	myeloid cell development
+GO:0040032	7	GO:0031214	biomineral tissue development
+GO:0071887	18	GO:0007017	microtubule-based process
+GO:0072577	18	GO:0007017	microtubule-based process
+GO:0061844	9	GO:0034341	response to interferon-gamma
+GO:0046717	13	GO:0006909	phagocytosis
+GO:0048538	7	GO:0031214	biomineral tissue development
+GO:0001696	13	GO:0006909	phagocytosis
+GO:0000045	17	GO:0030474	spindle pole body duplication
+GO:0015718	13	GO:0006909	phagocytosis
+GO:0061515	8	GO:0061515	myeloid cell development
+GO:0071514	2	GO:2001141	regulation of RNA biosynthetic process
+GO:0098542	9	GO:0034341	response to interferon-gamma
+GO:1903555	1	GO:0002718	regulation of cytokine production involved in immune response
+GO:0045742	14	GO:0010469	regulation of signaling receptor activity
+GO:0060079	14	GO:0010469	regulation of signaling receptor activity
+GO:1903531	15	GO:0050865	regulation of cell activation
+GO:0007565	6	GO:0007283	spermatogenesis
+GO:0071674	11	GO:0071674	mononuclear cell migration
+GO:0071675	11	GO:0071674	mononuclear cell migration
+GO:0071677	11	GO:0071674	mononuclear cell migration
+GO:0006814	13	GO:0006909	phagocytosis
+GO:0071622	11	GO:0071674	mononuclear cell migration
+GO:0010375	7	GO:0031214	biomineral tissue development
+GO:0010497	13	GO:0006909	phagocytosis
+GO:0046697	7	GO:0031214	biomineral tissue development
+GO:0006581	3	GO:0000255	allantoin metabolic process
+GO:0010469	14	GO:0010469	regulation of signaling receptor activity
+GO:0046688	9	GO:0034341	response to interferon-gamma

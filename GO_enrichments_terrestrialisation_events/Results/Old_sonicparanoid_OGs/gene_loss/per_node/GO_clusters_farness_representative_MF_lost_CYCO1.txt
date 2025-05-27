@@ -1,0 +1,264 @@
+GO:0010314	10	GO:0031210	phosphatidylcholine binding
+GO:0008422	7	GO:0016829	lyase activity
+GO:0005547	10	GO:0031210	phosphatidylcholine binding
+GO:0005549	12	GO:0030246	carbohydrate binding
+GO:0001851	11	GO:0005102	signaling receptor binding
+GO:0008429	12	GO:0030246	carbohydrate binding
+GO:0004993	4	GO:0004888	transmembrane signaling receptor activity
+GO:0005534	12	GO:0030246	carbohydrate binding
+GO:0004222	7	GO:0016829	lyase activity
+GO:0005539	12	GO:0030246	carbohydrate binding
+GO:0030550	5	GO:0090729	toxin activity
+GO:0004364	7	GO:0016829	lyase activity
+GO:0030551	9	GO:0030551	cyclic nucleotide binding
+GO:0022843	1	GO:0005261	cation channel activity
+GO:0005506	10	GO:0031210	phosphatidylcholine binding
+GO:0005509	10	GO:0031210	phosphatidylcholine binding
+GO:0004952	3	GO:0015464	acetylcholine receptor activity
+GO:0005244	1	GO:0005261	cation channel activity
+GO:0005248	1	GO:0005261	cation channel activity
+GO:0099106	5	GO:0090729	toxin activity
+GO:0004983	4	GO:0004888	transmembrane signaling receptor activity
+GO:0001846	11	GO:0005102	signaling receptor binding
+GO:0001848	11	GO:0005102	signaling receptor binding
+GO:0004989	4	GO:0004888	transmembrane signaling receptor activity
+GO:0070330	7	GO:0016829	lyase activity
+GO:0030548	5	GO:0090729	toxin activity
+GO:0005324	5	GO:0090729	toxin activity
+GO:0019966	11	GO:0005102	signaling receptor binding
+GO:0003990	7	GO:0016829	lyase activity
+GO:0004930	4	GO:0004888	transmembrane signaling receptor activity
+GO:0043169	10	GO:0031210	phosphatidylcholine binding
+GO:0009881	4	GO:0004888	transmembrane signaling receptor activity
+GO:0031996	11	GO:0005102	signaling receptor binding
+GO:0003964	7	GO:0016829	lyase activity
+GO:0097108	11	GO:0005102	signaling receptor binding
+GO:0030246	12	GO:0030246	carbohydrate binding
+GO:0030247	12	GO:0030246	carbohydrate binding
+GO:0008810	7	GO:0016829	lyase activity
+GO:0031210	10	GO:0031210	phosphatidylcholine binding
+GO:0031369	11	GO:0005102	signaling receptor binding
+GO:0001591	3	GO:0015464	acetylcholine receptor activity
+GO:0070492	12	GO:0030246	carbohydrate binding
+GO:0030957	11	GO:0005102	signaling receptor binding
+GO:0035438	9	GO:0030551	cyclic nucleotide binding
+GO:0004908	4	GO:0004888	transmembrane signaling receptor activity
+GO:0005044	5	GO:0090729	toxin activity
+GO:0008188	4	GO:0004888	transmembrane signaling receptor activity
+GO:0005031	4	GO:0004888	transmembrane signaling receptor activity
+GO:0140375	4	GO:0004888	transmembrane signaling receptor activity
+GO:0015101	2	GO:0022857	transmembrane transporter activity
+GO:0045296	11	GO:0005102	signaling receptor binding
+GO:0005000	4	GO:0004888	transmembrane signaling receptor activity
+GO:0005001	3	GO:0015464	acetylcholine receptor activity
+GO:1901681	12	GO:0030246	carbohydrate binding
+GO:0046961	2	GO:0022857	transmembrane transporter activity
+GO:0016500	4	GO:0004888	transmembrane signaling receptor activity
+GO:0042834	12	GO:0030246	carbohydrate binding
+GO:0061507	9	GO:0030551	cyclic nucleotide binding
+GO:0090729	5	GO:0090729	toxin activity
+GO:0042802	11	GO:0005102	signaling receptor binding
+GO:0015250	1	GO:0005261	cation channel activity
+GO:0030492	11	GO:0005102	signaling receptor binding
+GO:0015280	1	GO:0005261	cation channel activity
+GO:0001227	5	GO:0090729	toxin activity
+GO:0001228	5	GO:0090729	toxin activity
+GO:0051139	2	GO:0022857	transmembrane transporter activity
+GO:0016209	5	GO:0090729	toxin activity
+GO:0001216	5	GO:0090729	toxin activity
+GO:0016917	4	GO:0004888	transmembrane signaling receptor activity
+GO:0003743	8	GO:0003677	DNA binding
+GO:0000981	5	GO:0090729	toxin activity
+GO:0000987	8	GO:0003677	DNA binding
+GO:0008528	4	GO:0004888	transmembrane signaling receptor activity
+GO:0098632	11	GO:0005102	signaling receptor binding
+GO:0016936	12	GO:0030246	carbohydrate binding
+GO:0038023	4	GO:0004888	transmembrane signaling receptor activity
+GO:0000977	8	GO:0003677	DNA binding
+GO:0000978	8	GO:0003677	DNA binding
+GO:0042562	12	GO:0030246	carbohydrate binding
+GO:0016018	12	GO:0030246	carbohydrate binding
+GO:0003700	5	GO:0090729	toxin activity
+GO:0004190	7	GO:0016829	lyase activity
+GO:0008270	10	GO:0031210	phosphatidylcholine binding
+GO:0016903	7	GO:0016829	lyase activity
+GO:0004888	4	GO:0004888	transmembrane signaling receptor activity
+GO:0016907	3	GO:0015464	acetylcholine receptor activity
+GO:0099602	5	GO:0090729	toxin activity
+GO:0008227	4	GO:0004888	transmembrane signaling receptor activity
+GO:0004879	5	GO:0090729	toxin activity
+GO:0043325	10	GO:0031210	phosphatidylcholine binding
+GO:0005160	11	GO:0005102	signaling receptor binding
+GO:0005164	11	GO:0005102	signaling receptor binding
+GO:0015026	4	GO:0004888	transmembrane signaling receptor activity
+GO:0043208	12	GO:0030246	carbohydrate binding
+GO:0004175	7	GO:0016829	lyase activity
+GO:0042277	12	GO:0030246	carbohydrate binding
+GO:0008201	12	GO:0030246	carbohydrate binding
+GO:0001786	12	GO:0030246	carbohydrate binding
+GO:0008083	11	GO:0005102	signaling receptor binding
+GO:0005112	11	GO:0005102	signaling receptor binding
+GO:0005113	11	GO:0005102	signaling receptor binding
+GO:0020037	9	GO:0030551	cyclic nucleotide binding
+GO:0043621	11	GO:0005102	signaling receptor binding
+GO:0005133	11	GO:0005102	signaling receptor binding
+GO:0080025	10	GO:0031210	phosphatidylcholine binding
+GO:0042923	12	GO:0030246	carbohydrate binding
+GO:0051082	11	GO:0005102	signaling receptor binding
+GO:0005102	11	GO:0005102	signaling receptor binding
+GO:0080030	7	GO:0016829	lyase activity
+GO:0005109	11	GO:0005102	signaling receptor binding
+GO:0036041	10	GO:0031210	phosphatidylcholine binding
+GO:0046871	12	GO:0030246	carbohydrate binding
+GO:0046872	10	GO:0031210	phosphatidylcholine binding
+GO:0042043	11	GO:0005102	signaling receptor binding
+GO:0033218	12	GO:0030246	carbohydrate binding
+GO:0017147	11	GO:0005102	signaling receptor binding
+GO:0004519	7	GO:0016829	lyase activity
+GO:0070273	10	GO:0031210	phosphatidylcholine binding
+GO:0004252	7	GO:0016829	lyase activity
+GO:0005261	1	GO:0005261	cation channel activity
+GO:0005251	1	GO:0005261	cation channel activity
+GO:0022848	1	GO:0005261	cation channel activity
+GO:0005217	1	GO:0005261	cation channel activity
+GO:0004383	7	GO:0016829	lyase activity
+GO:0005355	2	GO:0022857	transmembrane transporter activity
+GO:0070976	11	GO:0005102	signaling receptor binding
+GO:0005230	1	GO:0005261	cation channel activity
+GO:0050431	11	GO:0005102	signaling receptor binding
+GO:0030547	5	GO:0090729	toxin activity
+GO:0004089	7	GO:0016829	lyase activity
+GO:0004945	4	GO:0004888	transmembrane signaling receptor activity
+GO:0048018	11	GO:0005102	signaling receptor binding
+GO:0070001	7	GO:0016829	lyase activity
+GO:0004725	7	GO:0016829	lyase activity
+GO:0001586	4	GO:0004888	transmembrane signaling receptor activity
+GO:0004714	3	GO:0015464	acetylcholine receptor activity
+GO:0003677	8	GO:0003677	DNA binding
+GO:0019001	9	GO:0030551	cyclic nucleotide binding
+GO:0044325	11	GO:0005102	signaling receptor binding
+GO:0015385	2	GO:0022857	transmembrane transporter activity
+GO:0015386	2	GO:0022857	transmembrane transporter activity
+GO:0099604	1	GO:0005261	cation channel activity
+GO:0001653	4	GO:0004888	transmembrane signaling receptor activity
+GO:0045028	4	GO:0004888	transmembrane signaling receptor activity
+GO:0004177	7	GO:0016829	lyase activity
+GO:0008066	4	GO:0004888	transmembrane signaling receptor activity
+GO:0031409	12	GO:0030246	carbohydrate binding
+GO:0008331	1	GO:0005261	cation channel activity
+GO:0051378	9	GO:0030551	cyclic nucleotide binding
+GO:0043035	8	GO:0003677	DNA binding
+GO:0015464	3	GO:0015464	acetylcholine receptor activity
+GO:0032561	9	GO:0030551	cyclic nucleotide binding
+GO:0005525	9	GO:0030551	cyclic nucleotide binding
+GO:0030594	3	GO:0015464	acetylcholine receptor activity
+GO:0031749	11	GO:0005102	signaling receptor binding
+GO:0005221	1	GO:0005261	cation channel activity
+GO:0005222	1	GO:0005261	cation channel activity
+GO:0005223	1	GO:0005261	cation channel activity
+GO:0000034	7	GO:0016829	lyase activity
+GO:0015291	2	GO:0022857	transmembrane transporter activity
+GO:0015295	2	GO:0022857	transmembrane transporter activity
+GO:0015297	2	GO:0022857	transmembrane transporter activity
+GO:0009381	7	GO:0016829	lyase activity
+GO:0016901	7	GO:0016829	lyase activity
+GO:0070567	7	GO:0016829	lyase activity
+GO:0051861	12	GO:0030246	carbohydrate binding
+GO:0008658	9	GO:0030551	cyclic nucleotide binding
+GO:0015658	2	GO:0022857	transmembrane transporter activity
+GO:0060089	4	GO:0004888	transmembrane signaling receptor activity
+GO:0015288	2	GO:0022857	transmembrane transporter activity
+GO:0008271	2	GO:0022857	transmembrane transporter activity
+GO:0016661	7	GO:0016829	lyase activity
+GO:0016667	7	GO:0016829	lyase activity
+GO:0016668	7	GO:0016829	lyase activity
+GO:0015611	2	GO:0022857	transmembrane transporter activity
+GO:0050380	7	GO:0016829	lyase activity
+GO:0015616	7	GO:0016829	lyase activity
+GO:0043167	12	GO:0030246	carbohydrate binding
+GO:0050780	11	GO:0005102	signaling receptor binding
+GO:0016671	7	GO:0016829	lyase activity
+GO:0000150	7	GO:0016829	lyase activity
+GO:0016675	7	GO:0016829	lyase activity
+GO:0043565	8	GO:0003677	DNA binding
+GO:0000155	7	GO:0016829	lyase activity
+GO:0042970	2	GO:0022857	transmembrane transporter activity
+GO:0016615	7	GO:0016829	lyase activity
+GO:0016247	5	GO:0090729	toxin activity
+GO:0016641	7	GO:0016829	lyase activity
+GO:0000976	8	GO:0003677	DNA binding
+GO:0034061	7	GO:0016829	lyase activity
+GO:0005315	2	GO:0022857	transmembrane transporter activity
+GO:0009055	7	GO:0016829	lyase activity
+GO:1904680	2	GO:0022857	transmembrane transporter activity
+GO:0015399	2	GO:0022857	transmembrane transporter activity
+GO:0043546	9	GO:0030551	cyclic nucleotide binding
+GO:0001601	4	GO:0004888	transmembrane signaling receptor activity
+GO:0001602	4	GO:0004888	transmembrane signaling receptor activity
+GO:0099529	3	GO:0015464	acetylcholine receptor activity
+GO:0010181	9	GO:0030551	cyclic nucleotide binding
+GO:0034040	2	GO:0022857	transmembrane transporter activity
+GO:0050897	10	GO:0031210	phosphatidylcholine binding
+GO:0016780	7	GO:0016829	lyase activity
+GO:0015344	2	GO:0022857	transmembrane transporter activity
+GO:0051920	7	GO:0016829	lyase activity
+GO:0016775	7	GO:0016829	lyase activity
+GO:0016725	7	GO:0016829	lyase activity
+GO:0042626	2	GO:0022857	transmembrane transporter activity
+GO:0051539	12	GO:0030246	carbohydrate binding
+GO:0016730	7	GO:0016829	lyase activity
+GO:0043211	2	GO:0022857	transmembrane transporter activity
+GO:0022857	2	GO:0022857	transmembrane transporter activity
+GO:0015099	2	GO:0022857	transmembrane transporter activity
+GO:0051907	7	GO:0016829	lyase activity
+GO:0022884	2	GO:0022857	transmembrane transporter activity
+GO:0016702	7	GO:0016829	lyase activity
+GO:1904315	1	GO:0005261	cation channel activity
+GO:0022824	1	GO:0005261	cation channel activity
+GO:0047728	7	GO:0016829	lyase activity
+GO:0008484	7	GO:0016829	lyase activity
+GO:0022835	3	GO:0015464	acetylcholine receptor activity
+GO:0051287	9	GO:0030551	cyclic nucleotide binding
+GO:0015423	2	GO:0022857	transmembrane transporter activity
+GO:0004300	7	GO:0016829	lyase activity
+GO:0016855	7	GO:0016829	lyase activity
+GO:0015412	2	GO:0022857	transmembrane transporter activity
+GO:0022804	2	GO:0022857	transmembrane transporter activity
+GO:0015419	2	GO:0022857	transmembrane transporter activity
+GO:0033294	9	GO:0030551	cyclic nucleotide binding
+GO:0016822	7	GO:0016829	lyase activity
+GO:0016823	7	GO:0016829	lyase activity
+GO:0016829	7	GO:0016829	lyase activity
+GO:0016810	7	GO:0016829	lyase activity
+GO:0016811	7	GO:0016829	lyase activity
+GO:0030151	10	GO:0031210	phosphatidylcholine binding
+GO:0018455	7	GO:0016829	lyase activity
+GO:0015407	2	GO:0022857	transmembrane transporter activity
+GO:0016831	7	GO:0016829	lyase activity
+GO:0016835	7	GO:0016829	lyase activity
+GO:0016836	7	GO:0016829	lyase activity
+GO:0030983	8	GO:0003677	DNA binding
+GO:0036361	7	GO:0016829	lyase activity
+GO:0030975	9	GO:0030551	cyclic nucleotide binding
+GO:0005524	9	GO:0030551	cyclic nucleotide binding
+GO:0001406	2	GO:0022857	transmembrane transporter activity
+GO:0015190	2	GO:0022857	transmembrane transporter activity
+GO:0004022	7	GO:0016829	lyase activity
+GO:0004016	7	GO:0016829	lyase activity
+GO:0005536	12	GO:0030246	carbohydrate binding
+GO:0015169	2	GO:0022857	transmembrane transporter activity
+GO:0071916	2	GO:0022857	transmembrane transporter activity
+GO:0015562	2	GO:0022857	transmembrane transporter activity
+GO:0008955	7	GO:0016829	lyase activity
+GO:0016151	10	GO:0031210	phosphatidylcholine binding
+GO:0048030	12	GO:0030246	carbohydrate binding
+GO:0008115	7	GO:0016829	lyase activity
+GO:0015112	2	GO:0022857	transmembrane transporter activity
+GO:0004803	7	GO:0016829	lyase activity
+GO:0008140	11	GO:0005102	signaling receptor binding
+GO:0015144	2	GO:0022857	transmembrane transporter activity
+GO:0042888	2	GO:0022857	transmembrane transporter activity
+GO:0015146	2	GO:0022857	transmembrane transporter activity
+GO:0016987	5	GO:0090729	toxin activity
+GO:0043855	1	GO:0005261	cation channel activity
+GO:0008932	7	GO:0016829	lyase activity

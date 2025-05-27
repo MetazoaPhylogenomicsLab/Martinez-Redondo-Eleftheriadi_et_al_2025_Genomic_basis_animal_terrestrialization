@@ -1,0 +1,948 @@
+GO:0033644	3	GO:0033646	host intracellular part
+GO:0044295	7	GO:0120025	plasma membrane bounded cell projection
+GO:0030056	6	GO:0043025	neuronal cell body
+GO:0036019	11	GO:0099503	secretory vesicle
+GO:0005811	18	GO:0005694	chromosome
+GO:0005814	18	GO:0005694	chromosome
+GO:0046930	4	GO:0098797	plasma membrane protein complex
+GO:0055036	9	GO:0110165	cellular anatomical entity
+GO:0010369	18	GO:0005694	chromosome
+GO:0016324	5	GO:0098590	plasma membrane region
+GO:0009898	5	GO:0098590	plasma membrane region
+GO:0005615	9	GO:0110165	cellular anatomical entity
+GO:0031012	9	GO:0110165	cellular anatomical entity
+GO:0043204	9	GO:0110165	cellular anatomical entity
+GO:0044156	3	GO:0033646	host intracellular part
+GO:0098595	9	GO:0110165	cellular anatomical entity
+GO:0020002	3	GO:0033646	host intracellular part
+GO:0000786	16	GO:0000808	origin recognition complex
+GO:0062129	6	GO:0043025	neuronal cell body
+GO:0005576	9	GO:0110165	cellular anatomical entity
+GO:0005705	18	GO:0005694	chromosome
+GO:0098552	9	GO:0110165	cellular anatomical entity
+GO:0042600	9	GO:0110165	cellular anatomical entity
+GO:0032590	5	GO:0098590	plasma membrane region
+GO:0019031	6	GO:0043025	neuronal cell body
+GO:0036338	6	GO:0043025	neuronal cell body
+GO:0044423	6	GO:0043025	neuronal cell body
+GO:0042025	3	GO:0033646	host intracellular part
+GO:0009897	5	GO:0098590	plasma membrane region
+GO:0030141	11	GO:0099503	secretory vesicle
+GO:0000794	13	GO:0140513	nuclear protein-containing complex
+GO:0030430	3	GO:0033646	host intracellular part
+GO:0019028	6	GO:0043025	neuronal cell body
+GO:0019013	6	GO:0043025	neuronal cell body
+GO:0043083	9	GO:0110165	cellular anatomical entity
+GO:0043025	6	GO:0043025	neuronal cell body
+GO:0005577	9	GO:0110165	cellular anatomical entity
+GO:0071944	9	GO:0110165	cellular anatomical entity
+GO:0072562	9	GO:0110165	cellular anatomical entity
+GO:0043186	17	GO:0099513	polymeric cytoskeletal fiber
+GO:0042627	6	GO:0043025	neuronal cell body
+GO:0035301	2	GO:0032991	protein-containing complex
+GO:0060170	5	GO:0098590	plasma membrane region
+GO:0044297	9	GO:0110165	cellular anatomical entity
+GO:0035996	7	GO:0120025	plasma membrane bounded cell projection
+GO:0005863	17	GO:0099513	polymeric cytoskeletal fiber
+GO:0031253	5	GO:0098590	plasma membrane region
+GO:0060388	6	GO:0043025	neuronal cell body
+GO:0005879	17	GO:0099513	polymeric cytoskeletal fiber
+GO:0060102	6	GO:0043025	neuronal cell body
+GO:0060293	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0005921	6	GO:0043025	neuronal cell body
+GO:0005923	6	GO:0043025	neuronal cell body
+GO:0098975	6	GO:0043025	neuronal cell body
+GO:0032587	5	GO:0098590	plasma membrane region
+GO:0098590	5	GO:0098590	plasma membrane region
+GO:1903561	11	GO:0099503	secretory vesicle
+GO:0019029	6	GO:0043025	neuronal cell body
+GO:0031526	5	GO:0098590	plasma membrane region
+GO:0031528	5	GO:0098590	plasma membrane region
+GO:0016327	5	GO:0098590	plasma membrane region
+GO:0042597	9	GO:0110165	cellular anatomical entity
+GO:0016328	5	GO:0098590	plasma membrane region
+GO:0030479	17	GO:0099513	polymeric cytoskeletal fiber
+GO:0062023	6	GO:0043025	neuronal cell body
+GO:0071953	6	GO:0043025	neuronal cell body
+GO:0001527	6	GO:0043025	neuronal cell body
+GO:0005685	13	GO:0140513	nuclear protein-containing complex
+GO:0005736	13	GO:0140513	nuclear protein-containing complex
+GO:0044163	3	GO:0033646	host intracellular part
+GO:0044167	3	GO:0033646	host intracellular part
+GO:0036379	19	GO:0043292	contractile fiber
+GO:0005934	6	GO:0043025	neuronal cell body
+GO:0005935	6	GO:0043025	neuronal cell body
+GO:0031676	17	GO:0099513	polymeric cytoskeletal fiber
+GO:0042716	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0042717	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0000923	17	GO:0099513	polymeric cytoskeletal fiber
+GO:0005865	17	GO:0099513	polymeric cytoskeletal fiber
+GO:0005882	17	GO:0099513	polymeric cytoskeletal fiber
+GO:0000943	15	GO:0005783	endoplasmic reticulum
+GO:0099070	18	GO:0005694	chromosome
+GO:0090406	7	GO:0120025	plasma membrane bounded cell projection
+GO:0030075	18	GO:0005694	chromosome
+GO:0030016	19	GO:0043292	contractile fiber
+GO:0030017	19	GO:0043292	contractile fiber
+GO:0034464	8	GO:0005929	cilium
+GO:0034506	18	GO:0005694	chromosome
+GO:0031021	18	GO:0005694	chromosome
+GO:0098654	2	GO:0032991	protein-containing complex
+GO:0000242	18	GO:0005694	chromosome
+GO:0061645	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0033643	3	GO:0033646	host intracellular part
+GO:0016580	13	GO:0140513	nuclear protein-containing complex
+GO:0033646	3	GO:0033646	host intracellular part
+GO:0005918	6	GO:0043025	neuronal cell body
+GO:0008076	4	GO:0098797	plasma membrane protein complex
+GO:0034703	4	GO:0098797	plasma membrane protein complex
+GO:0044219	3	GO:0033646	host intracellular part
+GO:0034705	4	GO:0098797	plasma membrane protein complex
+GO:0043160	11	GO:0099503	secretory vesicle
+GO:0000803	18	GO:0005694	chromosome
+GO:0000805	17	GO:0099513	polymeric cytoskeletal fiber
+GO:0018995	9	GO:0110165	cellular anatomical entity
+GO:0032982	6	GO:0043025	neuronal cell body
+GO:0043656	3	GO:0033646	host intracellular part
+GO:0043657	9	GO:0110165	cellular anatomical entity
+GO:0044178	3	GO:0033646	host intracellular part
+GO:0005704	18	GO:0005694	chromosome
+GO:0072487	13	GO:0140513	nuclear protein-containing complex
+GO:0005700	18	GO:0005694	chromosome
+GO:0034706	4	GO:0098797	plasma membrane protein complex
+GO:0044200	3	GO:0033646	host intracellular part
+GO:0044201	3	GO:0033646	host intracellular part
+GO:0030849	18	GO:0005694	chromosome
+GO:0046536	13	GO:0140513	nuclear protein-containing complex
+GO:0000792	18	GO:0005694	chromosome
+GO:0044199	3	GO:0033646	host intracellular part
+GO:0000783	13	GO:0140513	nuclear protein-containing complex
+GO:0000785	18	GO:0005694	chromosome
+GO:0044175	3	GO:0033646	host intracellular part
+GO:0000138	14	GO:0042170	plastid membrane
+GO:0016456	13	GO:0140513	nuclear protein-containing complex
+GO:0005581	2	GO:0032991	protein-containing complex
+GO:0001669	11	GO:0099503	secretory vesicle
+GO:0120111	7	GO:0120025	plasma membrane bounded cell projection
+GO:0005940	17	GO:0099513	polymeric cytoskeletal fiber
+GO:0044161	3	GO:0033646	host intracellular part
+GO:0044164	3	GO:0033646	host intracellular part
+GO:0044184	3	GO:0033646	host intracellular part
+GO:0044185	3	GO:0033646	host intracellular part
+GO:0098636	2	GO:0032991	protein-containing complex
+GO:0044304	7	GO:0120025	plasma membrane bounded cell projection
+GO:0043230	8	GO:0005929	cilium
+GO:0065010	14	GO:0042170	plastid membrane
+GO:0019030	6	GO:0043025	neuronal cell body
+GO:0031143	7	GO:0120025	plasma membrane bounded cell projection
+GO:0032839	7	GO:0120025	plasma membrane bounded cell projection
+GO:0035805	6	GO:0043025	neuronal cell body
+GO:0043196	7	GO:0120025	plasma membrane bounded cell projection
+GO:0031105	16	GO:0000808	origin recognition complex
+GO:0031430	19	GO:0043292	contractile fiber
+GO:0031672	19	GO:0043292	contractile fiber
+GO:0060205	11	GO:0099503	secretory vesicle
+GO:0043625	13	GO:0140513	nuclear protein-containing complex
+GO:0034364	6	GO:0043025	neuronal cell body
+GO:0031983	11	GO:0099503	secretory vesicle
+GO:0045495	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0071683	7	GO:0120025	plasma membrane bounded cell projection
+GO:0032589	5	GO:0098590	plasma membrane region
+GO:0033645	3	GO:0033646	host intracellular part
+GO:0042641	18	GO:0005694	chromosome
+GO:0097517	18	GO:0005694	chromosome
+GO:0035869	8	GO:0005929	cilium
+GO:0030312	9	GO:0110165	cellular anatomical entity
+GO:0001725	17	GO:0099513	polymeric cytoskeletal fiber
+GO:0032432	18	GO:0005694	chromosome
+GO:0019033	6	GO:0043025	neuronal cell body
+GO:0002177	18	GO:0005694	chromosome
+GO:0032797	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0034719	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0033655	3	GO:0033646	host intracellular part
+GO:0033162	10	GO:0030659	cytoplasmic vesicle membrane
+GO:0005742	14	GO:0042170	plastid membrane
+GO:0035974	17	GO:0099513	polymeric cytoskeletal fiber
+GO:0043655	9	GO:0110165	cellular anatomical entity
+GO:0044174	3	GO:0033646	host intracellular part
+GO:0090741	10	GO:0030659	cytoplasmic vesicle membrane
+GO:0005816	18	GO:0005694	chromosome
+GO:0034494	13	GO:0140513	nuclear protein-containing complex
+GO:0098799	14	GO:0042170	plastid membrane
+GO:0000329	14	GO:0042170	plastid membrane
+GO:0032580	14	GO:0042170	plastid membrane
+GO:0045009	11	GO:0099503	secretory vesicle
+GO:0097346	13	GO:0140513	nuclear protein-containing complex
+GO:0032010	11	GO:0099503	secretory vesicle
+GO:0033557	13	GO:0140513	nuclear protein-containing complex
+GO:0042718	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0044298	5	GO:0098590	plasma membrane region
+GO:0097440	7	GO:0120025	plasma membrane bounded cell projection
+GO:0032809	5	GO:0098590	plasma membrane region
+GO:0030867	14	GO:0042170	plastid membrane
+GO:0000812	13	GO:0140513	nuclear protein-containing complex
+GO:0070820	11	GO:0099503	secretory vesicle
+GO:0055037	11	GO:0099503	secretory vesicle
+GO:0016323	5	GO:0098590	plasma membrane region
+GO:0030175	7	GO:0120025	plasma membrane bounded cell projection
+GO:0044165	3	GO:0033646	host intracellular part
+GO:0000782	16	GO:0000808	origin recognition complex
+GO:0035861	18	GO:0005694	chromosome
+GO:0045121	5	GO:0098590	plasma membrane region
+GO:0042581	11	GO:0099503	secretory vesicle
+GO:0001401	14	GO:0042170	plastid membrane
+GO:0097539	8	GO:0005929	cilium
+GO:0036128	4	GO:0098797	plasma membrane protein complex
+GO:0034361	6	GO:0043025	neuronal cell body
+GO:0034385	6	GO:0043025	neuronal cell body
+GO:0090734	18	GO:0005694	chromosome
+GO:0110165	9	GO:0110165	cellular anatomical entity
+GO:0030991	2	GO:0032991	protein-containing complex
+GO:0031091	11	GO:0099503	secretory vesicle
+GO:0042588	11	GO:0099503	secretory vesicle
+GO:0016342	4	GO:0098797	plasma membrane protein complex
+GO:0030424	7	GO:0120025	plasma membrane bounded cell projection
+GO:0030425	7	GO:0120025	plasma membrane bounded cell projection
+GO:0046696	4	GO:0098797	plasma membrane protein complex
+GO:0005920	6	GO:0043025	neuronal cell body
+GO:0005912	6	GO:0043025	neuronal cell body
+GO:0033150	19	GO:0043292	contractile fiber
+GO:0005886	5	GO:0098590	plasma membrane region
+GO:0015629	18	GO:0005694	chromosome
+GO:0097729	7	GO:0120025	plasma membrane bounded cell projection
+GO:0036126	7	GO:0120025	plasma membrane bounded cell projection
+GO:0090665	2	GO:0032991	protein-containing complex
+GO:0042151	19	GO:0043292	contractile fiber
+GO:0055120	19	GO:0043292	contractile fiber
+GO:0034774	11	GO:0099503	secretory vesicle
+GO:0034451	18	GO:0005694	chromosome
+GO:0099503	11	GO:0099503	secretory vesicle
+GO:0031315	14	GO:0042170	plastid membrane
+GO:0030667	10	GO:0030659	cytoplasmic vesicle membrane
+GO:0009986	9	GO:0110165	cellular anatomical entity
+GO:0030428	9	GO:0110165	cellular anatomical entity
+GO:0032992	2	GO:0032991	protein-containing complex
+GO:0035579	10	GO:0030659	cytoplasmic vesicle membrane
+GO:0005668	13	GO:0140513	nuclear protein-containing complex
+GO:0001772	5	GO:0098590	plasma membrane region
+GO:0070160	6	GO:0043025	neuronal cell body
+GO:0005677	13	GO:0140513	nuclear protein-containing complex
+GO:0097228	8	GO:0005929	cilium
+GO:0045177	9	GO:0110165	cellular anatomical entity
+GO:0002080	10	GO:0030659	cytoplasmic vesicle membrane
+GO:0044177	3	GO:0033646	host intracellular part
+GO:0031514	8	GO:0005929	cilium
+GO:0033583	5	GO:0098590	plasma membrane region
+GO:0032783	13	GO:0140513	nuclear protein-containing complex
+GO:0000408	2	GO:0032991	protein-containing complex
+GO:0005911	6	GO:0043025	neuronal cell body
+GO:0005933	9	GO:0110165	cellular anatomical entity
+GO:0005861	16	GO:0000808	origin recognition complex
+GO:0000781	18	GO:0005694	chromosome
+GO:0005675	13	GO:0140513	nuclear protein-containing complex
+GO:0097060	5	GO:0098590	plasma membrane region
+GO:0031965	14	GO:0042170	plastid membrane
+GO:0043202	14	GO:0042170	plastid membrane
+GO:0032806	13	GO:0140513	nuclear protein-containing complex
+GO:0008540	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0000940	16	GO:0000808	origin recognition complex
+GO:0031519	13	GO:0140513	nuclear protein-containing complex
+GO:0031252	9	GO:0110165	cellular anatomical entity
+GO:0031256	5	GO:0098590	plasma membrane region
+GO:0001891	5	GO:0098590	plasma membrane region
+GO:0043235	2	GO:0032991	protein-containing complex
+GO:0005618	9	GO:0110165	cellular anatomical entity
+GO:0016028	7	GO:0120025	plasma membrane bounded cell projection
+GO:1990907	13	GO:0140513	nuclear protein-containing complex
+GO:0001726	7	GO:0120025	plasma membrane bounded cell projection
+GO:0033647	3	GO:0033646	host intracellular part
+GO:0031264	4	GO:0098797	plasma membrane protein complex
+GO:0033648	3	GO:0033646	host intracellular part
+GO:0031265	4	GO:0098797	plasma membrane protein complex
+GO:0044094	3	GO:0033646	host intracellular part
+GO:0009925	5	GO:0098590	plasma membrane region
+GO:0045178	9	GO:0110165	cellular anatomical entity
+GO:0035770	18	GO:0005694	chromosome
+GO:0005852	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0072686	17	GO:0099513	polymeric cytoskeletal fiber
+GO:0016282	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0033290	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0034518	2	GO:0032991	protein-containing complex
+GO:0072494	3	GO:0033646	host intracellular part
+GO:0005818	18	GO:0005694	chromosome
+GO:0140268	8	GO:0005929	cilium
+GO:0097038	15	GO:0005783	endoplasmic reticulum
+GO:0098857	9	GO:0110165	cellular anatomical entity
+GO:0008328	4	GO:0098797	plasma membrane protein complex
+GO:0098794	9	GO:0110165	cellular anatomical entity
+GO:0098839	6	GO:0043025	neuronal cell body
+GO:0045211	5	GO:0098590	plasma membrane region
+GO:0032983	4	GO:0098797	plasma membrane protein complex
+GO:0031941	16	GO:0000808	origin recognition complex
+GO:0097386	7	GO:0120025	plasma membrane bounded cell projection
+GO:0031903	15	GO:0005783	endoplasmic reticulum
+GO:0044204	3	GO:0033646	host intracellular part
+GO:0000346	13	GO:0140513	nuclear protein-containing complex
+GO:0000347	13	GO:0140513	nuclear protein-containing complex
+GO:0031160	6	GO:0043025	neuronal cell body
+GO:0042579	15	GO:0005783	endoplasmic reticulum
+GO:0032391	7	GO:0120025	plasma membrane bounded cell projection
+GO:0005777	15	GO:0005783	endoplasmic reticulum
+GO:0005778	14	GO:0042170	plastid membrane
+GO:0036038	8	GO:0005929	cilium
+GO:0005782	14	GO:0042170	plastid membrane
+GO:0031907	15	GO:0005783	endoplasmic reticulum
+GO:0033011	19	GO:0043292	contractile fiber
+GO:0020009	15	GO:0005783	endoplasmic reticulum
+GO:0035102	13	GO:0140513	nuclear protein-containing complex
+GO:0033203	13	GO:0140513	nuclear protein-containing complex
+GO:0070176	13	GO:0140513	nuclear protein-containing complex
+GO:0005767	14	GO:0042170	plastid membrane
+GO:0000139	14	GO:0042170	plastid membrane
+GO:0098592	5	GO:0098590	plasma membrane region
+GO:0031241	5	GO:0098590	plasma membrane region
+GO:1905347	2	GO:0032991	protein-containing complex
+GO:1990063	4	GO:0098797	plasma membrane protein complex
+GO:0032993	2	GO:0032991	protein-containing complex
+GO:0031470	18	GO:0005694	chromosome
+GO:1990077	16	GO:0000808	origin recognition complex
+GO:0098025	6	GO:0043025	neuronal cell body
+GO:0005971	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0098027	6	GO:0043025	neuronal cell body
+GO:0043190	4	GO:0098797	plasma membrane protein complex
+GO:0044096	7	GO:0120025	plasma membrane bounded cell projection
+GO:0009379	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:1990281	4	GO:0098797	plasma membrane protein complex
+GO:0005948	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0009328	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0009288	8	GO:0005929	cilium
+GO:0009331	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0009274	6	GO:0043025	neuronal cell body
+GO:0009276	6	GO:0043025	neuronal cell body
+GO:0009279	5	GO:0098590	plasma membrane region
+GO:0060417	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0005832	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0097347	2	GO:0032991	protein-containing complex
+GO:0019812	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0015627	2	GO:0032991	protein-containing complex
+GO:0070470	5	GO:0098590	plasma membrane region
+GO:0030313	9	GO:0110165	cellular anatomical entity
+GO:0000015	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0030288	6	GO:0043025	neuronal cell body
+GO:0043590	18	GO:0005694	chromosome
+GO:1990195	4	GO:0098797	plasma membrane protein complex
+GO:0034358	6	GO:0043025	neuronal cell body
+GO:0000793	18	GO:0005694	chromosome
+GO:0000120	13	GO:0140513	nuclear protein-containing complex
+GO:0030915	16	GO:0000808	origin recognition complex
+GO:0005915	6	GO:0043025	neuronal cell body
+GO:0005775	15	GO:0005783	endoplasmic reticulum
+GO:0071540	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0062130	6	GO:0043025	neuronal cell body
+GO:0043292	19	GO:0043292	contractile fiber
+GO:0097447	7	GO:0120025	plasma membrane bounded cell projection
+GO:0044231	3	GO:0033646	host intracellular part
+GO:0005701	17	GO:0099513	polymeric cytoskeletal fiber
+GO:0005892	4	GO:0098797	plasma membrane protein complex
+GO:0005634	15	GO:0005783	endoplasmic reticulum
+GO:0070187	13	GO:0140513	nuclear protein-containing complex
+GO:0000333	13	GO:0140513	nuclear protein-containing complex
+GO:0001940	13	GO:0140513	nuclear protein-containing complex
+GO:0045169	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0002199	2	GO:0032991	protein-containing complex
+GO:0045170	19	GO:0043292	contractile fiber
+GO:0005891	4	GO:0098797	plasma membrane protein complex
+GO:0000235	17	GO:0099513	polymeric cytoskeletal fiber
+GO:0061803	6	GO:0043025	neuronal cell body
+GO:0042734	5	GO:0098590	plasma membrane region
+GO:0005663	16	GO:0000808	origin recognition complex
+GO:0043159	15	GO:0005783	endoplasmic reticulum
+GO:0005628	5	GO:0098590	plasma membrane region
+GO:0005614	6	GO:0043025	neuronal cell body
+GO:0005756	14	GO:0042170	plastid membrane
+GO:0099501	10	GO:0030659	cytoplasmic vesicle membrane
+GO:0017053	2	GO:0032991	protein-containing complex
+GO:0019774	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0030672	10	GO:0030659	cytoplasmic vesicle membrane
+GO:0048475	9	GO:0110165	cellular anatomical entity
+GO:0031045	11	GO:0099503	secretory vesicle
+GO:0098687	18	GO:0005694	chromosome
+GO:0060077	6	GO:0043025	neuronal cell body
+GO:0033165	6	GO:0043025	neuronal cell body
+GO:0045202	9	GO:0110165	cellular anatomical entity
+GO:0039624	6	GO:0043025	neuronal cell body
+GO:0000930	16	GO:0000808	origin recognition complex
+GO:0022626	19	GO:0043292	contractile fiber
+GO:0005876	17	GO:0099513	polymeric cytoskeletal fiber
+GO:0005815	18	GO:0005694	chromosome
+GO:0005819	18	GO:0005694	chromosome
+GO:0016607	13	GO:0140513	nuclear protein-containing complex
+GO:0032154	5	GO:0098590	plasma membrane region
+GO:0000776	18	GO:0005694	chromosome
+GO:0000779	17	GO:0099513	polymeric cytoskeletal fiber
+GO:1990512	13	GO:0140513	nuclear protein-containing complex
+GO:1990513	13	GO:0140513	nuclear protein-containing complex
+GO:0043073	13	GO:0140513	nuclear protein-containing complex
+GO:0097730	8	GO:0005929	cilium
+GO:0051233	18	GO:0005694	chromosome
+GO:0035997	5	GO:0098590	plasma membrane region
+GO:0035371	17	GO:0099513	polymeric cytoskeletal fiber
+GO:0030117	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0030119	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0030131	4	GO:0098797	plasma membrane protein complex
+GO:0017146	4	GO:0098797	plasma membrane protein complex
+GO:0070993	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:1990023	17	GO:0099513	polymeric cytoskeletal fiber
+GO:0000323	15	GO:0005783	endoplasmic reticulum
+GO:0005764	15	GO:0005783	endoplasmic reticulum
+GO:0061174	7	GO:0120025	plasma membrane bounded cell projection
+GO:0098560	10	GO:0030659	cytoplasmic vesicle membrane
+GO:0098559	10	GO:0030659	cytoplasmic vesicle membrane
+GO:0098574	14	GO:0042170	plastid membrane
+GO:0044220	3	GO:0033646	host intracellular part
+GO:0036464	19	GO:0043292	contractile fiber
+GO:0000932	19	GO:0043292	contractile fiber
+GO:0010494	19	GO:0043292	contractile fiber
+GO:0000795	13	GO:0140513	nuclear protein-containing complex
+GO:0097546	8	GO:0005929	cilium
+GO:0099086	13	GO:0140513	nuclear protein-containing complex
+GO:0098858	7	GO:0120025	plasma membrane bounded cell projection
+GO:0005930	19	GO:0043292	contractile fiber
+GO:0035230	7	GO:0120025	plasma membrane bounded cell projection
+GO:0098533	4	GO:0098797	plasma membrane protein complex
+GO:0005694	18	GO:0005694	chromosome
+GO:0031511	16	GO:0000808	origin recognition complex
+GO:0044732	17	GO:0099513	polymeric cytoskeletal fiber
+GO:0005788	15	GO:0005783	endoplasmic reticulum
+GO:0030998	13	GO:0140513	nuclear protein-containing complex
+GO:0071986	10	GO:0030659	cytoplasmic vesicle membrane
+GO:0051286	9	GO:0110165	cellular anatomical entity
+GO:0070847	13	GO:0140513	nuclear protein-containing complex
+GO:0000775	18	GO:0005694	chromosome
+GO:0034357	9	GO:0110165	cellular anatomical entity
+GO:0034045	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0042651	9	GO:0110165	cellular anatomical entity
+GO:0000164	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0034270	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0000153	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0043189	13	GO:0140513	nuclear protein-containing complex
+GO:0009277	6	GO:0043025	neuronal cell body
+GO:0005823	18	GO:0005694	chromosome
+GO:0009526	15	GO:0005783	endoplasmic reticulum
+GO:0035267	13	GO:0140513	nuclear protein-containing complex
+GO:0042170	14	GO:0042170	plastid membrane
+GO:0009534	14	GO:0042170	plastid membrane
+GO:0009535	14	GO:0042170	plastid membrane
+GO:0031904	11	GO:0099503	secretory vesicle
+GO:0000835	14	GO:0042170	plastid membrane
+GO:0000836	14	GO:0042170	plastid membrane
+GO:0031082	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0031083	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0055035	14	GO:0042170	plastid membrane
+GO:0060187	9	GO:0110165	cellular anatomical entity
+GO:0000331	15	GO:0005783	endoplasmic reticulum
+GO:0140445	18	GO:0005694	chromosome
+GO:0000228	13	GO:0140513	nuclear protein-containing complex
+GO:0016020	9	GO:0110165	cellular anatomical entity
+GO:0031332	2	GO:0032991	protein-containing complex
+GO:0030875	13	GO:0140513	nuclear protein-containing complex
+GO:0031097	9	GO:0110165	cellular anatomical entity
+GO:0051285	6	GO:0043025	neuronal cell body
+GO:0015030	13	GO:0140513	nuclear protein-containing complex
+GO:0090571	13	GO:0140513	nuclear protein-containing complex
+GO:0048046	9	GO:0110165	cellular anatomical entity
+GO:0045172	9	GO:0110165	cellular anatomical entity
+GO:0098591	5	GO:0098590	plasma membrane region
+GO:0045120	13	GO:0140513	nuclear protein-containing complex
+GO:0070772	14	GO:0042170	plastid membrane
+GO:1902562	13	GO:0140513	nuclear protein-containing complex
+GO:0000500	13	GO:0140513	nuclear protein-containing complex
+GO:0097225	8	GO:0005929	cilium
+GO:0005770	11	GO:0099503	secretory vesicle
+GO:0032009	11	GO:0099503	secretory vesicle
+GO:0032426	8	GO:0005929	cilium
+GO:0008541	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0033118	10	GO:0030659	cytoplasmic vesicle membrane
+GO:0030112	9	GO:0110165	cellular anatomical entity
+GO:0005579	4	GO:0098797	plasma membrane protein complex
+GO:0071546	17	GO:0099513	polymeric cytoskeletal fiber
+GO:0043296	6	GO:0043025	neuronal cell body
+GO:0005828	17	GO:0099513	polymeric cytoskeletal fiber
+GO:0036063	15	GO:0005783	endoplasmic reticulum
+GO:0035631	4	GO:0098797	plasma membrane protein complex
+GO:1990423	16	GO:0000808	origin recognition complex
+GO:0033255	13	GO:0140513	nuclear protein-containing complex
+GO:0032994	2	GO:0032991	protein-containing complex
+GO:0034362	6	GO:0043025	neuronal cell body
+GO:0005952	2	GO:0032991	protein-containing complex
+GO:0019908	13	GO:0140513	nuclear protein-containing complex
+GO:0043209	9	GO:0110165	cellular anatomical entity
+GO:0045095	17	GO:0099513	polymeric cytoskeletal fiber
+GO:0000118	13	GO:0140513	nuclear protein-containing complex
+GO:0001533	5	GO:0098590	plasma membrane region
+GO:0097731	7	GO:0120025	plasma membrane bounded cell projection
+GO:0061576	2	GO:0032991	protein-containing complex
+GO:0061702	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0045240	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0045239	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0032153	9	GO:0110165	cellular anatomical entity
+GO:0034707	4	GO:0098797	plasma membrane protein complex
+GO:0036064	17	GO:0099513	polymeric cytoskeletal fiber
+GO:1990777	2	GO:0032991	protein-containing complex
+GO:0039720	3	GO:0033646	host intracellular part
+GO:0042599	11	GO:0099503	secretory vesicle
+GO:0045334	11	GO:0099503	secretory vesicle
+GO:0001939	13	GO:0140513	nuclear protein-containing complex
+GO:0042583	11	GO:0099503	secretory vesicle
+GO:0005641	14	GO:0042170	plastid membrane
+GO:0008305	4	GO:0098797	plasma membrane protein complex
+GO:0005604	6	GO:0043025	neuronal cell body
+GO:0072324	9	GO:0110165	cellular anatomical entity
+GO:0031674	19	GO:0043292	contractile fiber
+GO:0005853	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0033018	14	GO:0042170	plastid membrane
+GO:0030018	19	GO:0043292	contractile fiber
+GO:0031093	11	GO:0099503	secretory vesicle
+GO:0062049	2	GO:0032991	protein-containing complex
+GO:0031258	5	GO:0098590	plasma membrane region
+GO:0071144	13	GO:0140513	nuclear protein-containing complex
+GO:0017071	4	GO:0098797	plasma membrane protein complex
+GO:0097149	16	GO:0000808	origin recognition complex
+GO:0031234	5	GO:0098590	plasma membrane region
+GO:0005652	13	GO:0140513	nuclear protein-containing complex
+GO:0042470	11	GO:0099503	secretory vesicle
+GO:0044291	6	GO:0043025	neuronal cell body
+GO:0043291	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0048770	11	GO:0099503	secretory vesicle
+GO:0009506	6	GO:0043025	neuronal cell body
+GO:0055044	9	GO:0110165	cellular anatomical entity
+GO:0043005	7	GO:0120025	plasma membrane bounded cell projection
+GO:0036449	17	GO:0099513	polymeric cytoskeletal fiber
+GO:0043078	13	GO:0140513	nuclear protein-containing complex
+GO:0046695	13	GO:0140513	nuclear protein-containing complex
+GO:0044292	7	GO:0120025	plasma membrane bounded cell projection
+GO:0098685	6	GO:0043025	neuronal cell body
+GO:0032420	7	GO:0120025	plasma membrane bounded cell projection
+GO:0032421	9	GO:0110165	cellular anatomical entity
+GO:0035098	13	GO:0140513	nuclear protein-containing complex
+GO:0009941	14	GO:0042170	plastid membrane
+GO:0030132	4	GO:0098797	plasma membrane protein complex
+GO:1990204	2	GO:0032991	protein-containing complex
+GO:0045259	4	GO:0098797	plasma membrane protein complex
+GO:0016363	13	GO:0140513	nuclear protein-containing complex
+GO:0009317	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0009295	9	GO:0110165	cellular anatomical entity
+GO:0009425	8	GO:0005929	cilium
+GO:0030257	2	GO:0032991	protein-containing complex
+GO:0045261	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0014704	6	GO:0043025	neuronal cell body
+GO:0005789	14	GO:0042170	plastid membrane
+GO:0033650	3	GO:0033646	host intracellular part
+GO:0044196	3	GO:0033646	host intracellular part
+GO:0019897	5	GO:0098590	plasma membrane region
+GO:0000322	15	GO:0005783	endoplasmic reticulum
+GO:0000324	14	GO:0042170	plastid membrane
+GO:0002102	18	GO:0005694	chromosome
+GO:0030426	7	GO:0120025	plasma membrane bounded cell projection
+GO:0030427	9	GO:0110165	cellular anatomical entity
+GO:0016605	13	GO:0140513	nuclear protein-containing complex
+GO:0098878	4	GO:0098797	plasma membrane protein complex
+GO:0098802	4	GO:0098797	plasma membrane protein complex
+GO:0045111	18	GO:0005694	chromosome
+GO:0036477	9	GO:0110165	cellular anatomical entity
+GO:0005769	11	GO:0099503	secretory vesicle
+GO:1990604	14	GO:0042170	plastid membrane
+GO:0005919	6	GO:0043025	neuronal cell body
+GO:0035032	4	GO:0098797	plasma membrane protein complex
+GO:0000796	16	GO:0000808	origin recognition complex
+GO:0033553	18	GO:0005694	chromosome
+GO:0042995	9	GO:0110165	cellular anatomical entity
+GO:0097014	8	GO:0005929	cilium
+GO:0031838	2	GO:0032991	protein-containing complex
+GO:0038037	4	GO:0098797	plasma membrane protein complex
+GO:0038039	4	GO:0098797	plasma membrane protein complex
+GO:0035324	6	GO:0043025	neuronal cell body
+GO:0055052	4	GO:0098797	plasma membrane protein complex
+GO:0030894	16	GO:0000808	origin recognition complex
+GO:0033111	14	GO:0042170	plastid membrane
+GO:0045335	11	GO:0099503	secretory vesicle
+GO:0009579	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0070876	13	GO:0140513	nuclear protein-containing complex
+GO:0000939	16	GO:0000808	origin recognition complex
+GO:0016235	9	GO:0110165	cellular anatomical entity
+GO:0001650	13	GO:0140513	nuclear protein-containing complex
+GO:0030891	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0005902	7	GO:0120025	plasma membrane bounded cell projection
+GO:0005721	17	GO:0099513	polymeric cytoskeletal fiber
+GO:0110085	17	GO:0099513	polymeric cytoskeletal fiber
+GO:0005890	4	GO:0098797	plasma membrane protein complex
+GO:0031469	18	GO:0005694	chromosome
+GO:0031436	13	GO:0140513	nuclear protein-containing complex
+GO:0016602	13	GO:0140513	nuclear protein-containing complex
+GO:0032161	19	GO:0043292	contractile fiber
+GO:0016459	16	GO:0000808	origin recognition complex
+GO:0035323	6	GO:0043025	neuronal cell body
+GO:0042764	9	GO:0110165	cellular anatomical entity
+GO:0036125	2	GO:0032991	protein-containing complex
+GO:0009368	2	GO:0032991	protein-containing complex
+GO:0045252	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0030964	4	GO:0098797	plasma membrane protein complex
+GO:0045271	4	GO:0098797	plasma membrane protein complex
+GO:0045272	4	GO:0098797	plasma membrane protein complex
+GO:0044754	14	GO:0042170	plastid membrane
+GO:0042175	9	GO:0110165	cellular anatomical entity
+GO:0005657	18	GO:0005694	chromosome
+GO:0005813	18	GO:0005694	chromosome
+GO:0098827	15	GO:0005783	endoplasmic reticulum
+GO:0033063	13	GO:0140513	nuclear protein-containing complex
+GO:1990316	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0071141	2	GO:0032991	protein-containing complex
+GO:0031985	14	GO:0042170	plastid membrane
+GO:0031594	6	GO:0043025	neuronal cell body
+GO:0031080	13	GO:0140513	nuclear protein-containing complex
+GO:0000137	14	GO:0042170	plastid membrane
+GO:0005637	14	GO:0042170	plastid membrane
+GO:0031314	14	GO:0042170	plastid membrane
+GO:0071254	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0039679	3	GO:0033646	host intracellular part
+GO:1990124	2	GO:0032991	protein-containing complex
+GO:0016029	14	GO:0042170	plastid membrane
+GO:0031976	15	GO:0005783	endoplasmic reticulum
+GO:0034245	13	GO:0140513	nuclear protein-containing complex
+GO:0005827	17	GO:0099513	polymeric cytoskeletal fiber
+GO:0036396	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0045293	2	GO:0032991	protein-containing complex
+GO:0032281	4	GO:0098797	plasma membrane protein complex
+GO:0016586	13	GO:0140513	nuclear protein-containing complex
+GO:0034702	4	GO:0098797	plasma membrane protein complex
+GO:0005680	13	GO:0140513	nuclear protein-containing complex
+GO:0099634	5	GO:0098590	plasma membrane region
+GO:0043240	13	GO:0140513	nuclear protein-containing complex
+GO:0005795	15	GO:0005783	endoplasmic reticulum
+GO:0070725	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0098015	6	GO:0043025	neuronal cell body
+GO:0110143	8	GO:0005929	cilium
+GO:0110146	14	GO:0042170	plastid membrane
+GO:0009289	7	GO:0120025	plasma membrane bounded cell projection
+GO:0005640	14	GO:0042170	plastid membrane
+GO:0031010	13	GO:0140513	nuclear protein-containing complex
+GO:0005662	13	GO:0140513	nuclear protein-containing complex
+GO:0000922	18	GO:0005694	chromosome
+GO:0000325	15	GO:0005783	endoplasmic reticulum
+GO:0072669	2	GO:0032991	protein-containing complex
+GO:0030118	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0098982	6	GO:0043025	neuronal cell body
+GO:0036056	6	GO:0043025	neuronal cell body
+GO:0036057	6	GO:0043025	neuronal cell body
+GO:0043332	7	GO:0120025	plasma membrane bounded cell projection
+GO:1990391	2	GO:0032991	protein-containing complex
+GO:0030670	10	GO:0030659	cytoplasmic vesicle membrane
+GO:0070161	9	GO:0110165	cellular anatomical entity
+GO:0042383	5	GO:0098590	plasma membrane region
+GO:0039715	3	GO:0033646	host intracellular part
+GO:0070985	13	GO:0140513	nuclear protein-containing complex
+GO:0033093	11	GO:0099503	secretory vesicle
+GO:0070062	8	GO:0005929	cilium
+GO:0005741	14	GO:0042170	plastid membrane
+GO:0098024	6	GO:0043025	neuronal cell body
+GO:0032541	14	GO:0042170	plastid membrane
+GO:0043684	2	GO:0032991	protein-containing complex
+GO:0005834	4	GO:0098797	plasma membrane protein complex
+GO:0035580	11	GO:0099503	secretory vesicle
+GO:0071682	11	GO:0099503	secretory vesicle
+GO:1904724	11	GO:0099503	secretory vesicle
+GO:0032039	13	GO:0140513	nuclear protein-containing complex
+GO:0034399	13	GO:0140513	nuclear protein-containing complex
+GO:0005771	11	GO:0099503	secretory vesicle
+GO:0005927	6	GO:0043025	neuronal cell body
+GO:0030122	10	GO:0030659	cytoplasmic vesicle membrane
+GO:0030128	10	GO:0030659	cytoplasmic vesicle membrane
+GO:0101031	2	GO:0032991	protein-containing complex
+GO:1990752	17	GO:0099513	polymeric cytoskeletal fiber
+GO:0015630	18	GO:0005694	chromosome
+GO:0097196	2	GO:0032991	protein-containing complex
+GO:0030870	13	GO:0140513	nuclear protein-containing complex
+GO:0032777	13	GO:0140513	nuclear protein-containing complex
+GO:0005847	13	GO:0140513	nuclear protein-containing complex
+GO:0005849	13	GO:0140513	nuclear protein-containing complex
+GO:0032156	18	GO:0005694	chromosome
+GO:0044352	11	GO:0099503	secretory vesicle
+GO:0044354	11	GO:0099503	secretory vesicle
+GO:0000221	14	GO:0042170	plastid membrane
+GO:0071162	13	GO:0140513	nuclear protein-containing complex
+GO:0000811	13	GO:0140513	nuclear protein-containing complex
+GO:0005783	15	GO:0005783	endoplasmic reticulum
+GO:0039713	3	GO:0033646	host intracellular part
+GO:0044815	2	GO:0032991	protein-containing complex
+GO:0005929	8	GO:0005929	cilium
+GO:0099080	9	GO:0110165	cellular anatomical entity
+GO:0099081	9	GO:0110165	cellular anatomical entity
+GO:0000152	13	GO:0140513	nuclear protein-containing complex
+GO:0005654	13	GO:0140513	nuclear protein-containing complex
+GO:0005874	17	GO:0099513	polymeric cytoskeletal fiber
+GO:0098797	4	GO:0098797	plasma membrane protein complex
+GO:0045171	9	GO:0110165	cellular anatomical entity
+GO:0030054	9	GO:0110165	cellular anatomical entity
+GO:0099512	6	GO:0043025	neuronal cell body
+GO:0099513	17	GO:0099513	polymeric cytoskeletal fiber
+GO:0042405	15	GO:0005783	endoplasmic reticulum
+GO:0008024	13	GO:0140513	nuclear protein-containing complex
+GO:0042788	16	GO:0000808	origin recognition complex
+GO:0099115	17	GO:0099513	polymeric cytoskeletal fiber
+GO:0071541	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0045254	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0005751	14	GO:0042170	plastid membrane
+GO:0045277	4	GO:0098797	plasma membrane protein complex
+GO:0070685	7	GO:0120025	plasma membrane bounded cell projection
+GO:0030062	13	GO:0140513	nuclear protein-containing complex
+GO:0005854	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0005844	2	GO:0032991	protein-containing complex
+GO:1904090	2	GO:0032991	protein-containing complex
+GO:0005967	13	GO:0140513	nuclear protein-containing complex
+GO:0030121	10	GO:0030659	cytoplasmic vesicle membrane
+GO:0070469	9	GO:0110165	cellular anatomical entity
+GO:0018444	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0005947	14	GO:0042170	plastid membrane
+GO:1904813	11	GO:0099503	secretory vesicle
+GO:0140220	3	GO:0033646	host intracellular part
+GO:0030906	4	GO:0098797	plasma membrane protein complex
+GO:0020007	9	GO:0110165	cellular anatomical entity
+GO:0035686	8	GO:0005929	cilium
+GO:0097224	8	GO:0005929	cilium
+GO:0005796	15	GO:0005783	endoplasmic reticulum
+GO:0031260	5	GO:0098590	plasma membrane region
+GO:0071065	4	GO:0098797	plasma membrane protein complex
+GO:0030666	10	GO:0030659	cytoplasmic vesicle membrane
+GO:0008021	11	GO:0099503	secretory vesicle
+GO:0072557	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0044666	13	GO:0140513	nuclear protein-containing complex
+GO:0005880	17	GO:0099513	polymeric cytoskeletal fiber
+GO:0042763	9	GO:0110165	cellular anatomical entity
+GO:0001518	4	GO:0098797	plasma membrane protein complex
+GO:0016011	4	GO:0098797	plasma membrane protein complex
+GO:0016528	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0016529	15	GO:0005783	endoplasmic reticulum
+GO:0005793	15	GO:0005783	endoplasmic reticulum
+GO:0048786	9	GO:0110165	cellular anatomical entity
+GO:0016604	13	GO:0140513	nuclear protein-containing complex
+GO:0061822	8	GO:0005929	cilium
+GO:0019867	9	GO:0110165	cellular anatomical entity
+GO:0031968	14	GO:0042170	plastid membrane
+GO:0009527	14	GO:0042170	plastid membrane
+GO:0009707	14	GO:0042170	plastid membrane
+GO:0034366	6	GO:0043025	neuronal cell body
+GO:0072558	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0044099	9	GO:0110165	cellular anatomical entity
+GO:0035578	11	GO:0099503	secretory vesicle
+GO:0042611	4	GO:0098797	plasma membrane protein complex
+GO:0033099	15	GO:0005783	endoplasmic reticulum
+GO:0005593	2	GO:0032991	protein-containing complex
+GO:0070449	13	GO:0140513	nuclear protein-containing complex
+GO:1902712	4	GO:0098797	plasma membrane protein complex
+GO:0071013	13	GO:0140513	nuclear protein-containing complex
+GO:0055038	10	GO:0030659	cytoplasmic vesicle membrane
+GO:0033202	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0005802	15	GO:0005783	endoplasmic reticulum
+GO:0031901	10	GO:0030659	cytoplasmic vesicle membrane
+GO:0042589	10	GO:0030659	cytoplasmic vesicle membrane
+GO:0032195	15	GO:0005783	endoplasmic reticulum
+GO:0034663	15	GO:0005783	endoplasmic reticulum
+GO:0042582	11	GO:0099503	secretory vesicle
+GO:0005766	14	GO:0042170	plastid membrane
+GO:0030673	5	GO:0098590	plasma membrane region
+GO:0140453	18	GO:0005694	chromosome
+GO:0031934	18	GO:0005694	chromosome
+GO:0030958	13	GO:0140513	nuclear protein-containing complex
+GO:0031207	14	GO:0042170	plastid membrane
+GO:0030874	13	GO:0140513	nuclear protein-containing complex
+GO:0009705	14	GO:0042170	plastid membrane
+GO:0035097	13	GO:0140513	nuclear protein-containing complex
+GO:0070069	2	GO:0032991	protein-containing complex
+GO:0043527	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0030694	8	GO:0005929	cilium
+GO:0009376	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0033104	2	GO:0032991	protein-containing complex
+GO:0009346	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0009330	2	GO:0032991	protein-containing complex
+GO:0009337	2	GO:0032991	protein-containing complex
+GO:0030089	4	GO:0098797	plasma membrane protein complex
+GO:0030076	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0033281	4	GO:0098797	plasma membrane protein complex
+GO:0030256	2	GO:0032991	protein-containing complex
+GO:0009426	8	GO:0005929	cilium
+GO:0009428	8	GO:0005929	cilium
+GO:0000345	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0020003	3	GO:0033646	host intracellular part
+GO:0062159	18	GO:0005694	chromosome
+GO:0043293	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0070056	5	GO:0098590	plasma membrane region
+GO:0097550	2	GO:0032991	protein-containing complex
+GO:0072687	17	GO:0099513	polymeric cytoskeletal fiber
+GO:0032133	16	GO:0000808	origin recognition complex
+GO:0000109	13	GO:0140513	nuclear protein-containing complex
+GO:0022627	16	GO:0000808	origin recognition complex
+GO:0090533	4	GO:0098797	plasma membrane protein complex
+GO:0001673	13	GO:0140513	nuclear protein-containing complex
+GO:0032221	13	GO:0140513	nuclear protein-containing complex
+GO:0034704	4	GO:0098797	plasma membrane protein complex
+GO:0031969	14	GO:0042170	plastid membrane
+GO:0032116	13	GO:0140513	nuclear protein-containing complex
+GO:0009570	15	GO:0005783	endoplasmic reticulum
+GO:1990462	15	GO:0005783	endoplasmic reticulum
+GO:0097342	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0009532	15	GO:0005783	endoplasmic reticulum
+GO:0030658	10	GO:0030659	cytoplasmic vesicle membrane
+GO:0005798	11	GO:0099503	secretory vesicle
+GO:0019773	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0005776	15	GO:0005783	endoplasmic reticulum
+GO:0005730	13	GO:0140513	nuclear protein-containing complex
+GO:1990779	4	GO:0098797	plasma membrane protein complex
+GO:0044228	3	GO:0033646	host intracellular part
+GO:0005839	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0030665	10	GO:0030659	cytoplasmic vesicle membrane
+GO:0016514	13	GO:0140513	nuclear protein-containing complex
+GO:0098793	9	GO:0110165	cellular anatomical entity
+GO:0005937	7	GO:0120025	plasma membrane bounded cell projection
+GO:0097733	7	GO:0120025	plasma membrane bounded cell projection
+GO:0001750	8	GO:0005929	cilium
+GO:0030027	7	GO:0120025	plasma membrane bounded cell projection
+GO:0030139	11	GO:0099503	secretory vesicle
+GO:0032389	13	GO:0140513	nuclear protein-containing complex
+GO:0001740	13	GO:0140513	nuclear protein-containing complex
+GO:0030127	10	GO:0030659	cytoplasmic vesicle membrane
+GO:0031523	13	GO:0140513	nuclear protein-containing complex
+GO:0097431	17	GO:0099513	polymeric cytoskeletal fiber
+GO:0005655	13	GO:0140513	nuclear protein-containing complex
+GO:0005791	15	GO:0005783	endoplasmic reticulum
+GO:0016234	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0098562	9	GO:0110165	cellular anatomical entity
+GO:0005664	13	GO:0140513	nuclear protein-containing complex
+GO:0000808	16	GO:0000808	origin recognition complex
+GO:1990904	2	GO:0032991	protein-containing complex
+GO:0032991	2	GO:0032991	protein-containing complex
+GO:1990635	7	GO:0120025	plasma membrane bounded cell projection
+GO:0070971	15	GO:0005783	endoplasmic reticulum
+GO:0005956	2	GO:0032991	protein-containing complex
+GO:0099568	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0000123	13	GO:0140513	nuclear protein-containing complex
+GO:0016592	13	GO:0140513	nuclear protein-containing complex
+GO:0043195	7	GO:0120025	plasma membrane bounded cell projection
+GO:0101002	11	GO:0099503	secretory vesicle
+GO:0140513	13	GO:0140513	nuclear protein-containing complex
+GO:1990733	16	GO:0000808	origin recognition complex
+GO:0005925	6	GO:0043025	neuronal cell body
+GO:0010008	10	GO:0030659	cytoplasmic vesicle membrane
+GO:0005667	2	GO:0032991	protein-containing complex
+GO:0140534	15	GO:0005783	endoplasmic reticulum
+GO:0005669	13	GO:0140513	nuclear protein-containing complex
+GO:0005794	15	GO:0005783	endoplasmic reticulum
+GO:0005684	13	GO:0140513	nuclear protein-containing complex
+GO:0005938	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0005765	14	GO:0042170	plastid membrane
+GO:0005768	11	GO:0099503	secretory vesicle
+GO:0005901	5	GO:0098590	plasma membrane region
+GO:0005905	5	GO:0098590	plasma membrane region
+GO:0031982	11	GO:0099503	secretory vesicle
+GO:0005758	14	GO:0042170	plastid membrane
+GO:0070603	13	GO:0140513	nuclear protein-containing complex
+GO:0150034	7	GO:0120025	plasma membrane bounded cell projection
+GO:0031312	15	GO:0005783	endoplasmic reticulum
+GO:0031201	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0030669	10	GO:0030659	cytoplasmic vesicle membrane
+GO:0005774	15	GO:0005783	endoplasmic reticulum
+GO:1902710	2	GO:0032991	protein-containing complex
+GO:0030659	10	GO:0030659	cytoplasmic vesicle membrane
+GO:0043596	13	GO:0140513	nuclear protein-containing complex
+GO:0030684	2	GO:0032991	protein-containing complex
+GO:0098978	6	GO:0043025	neuronal cell body
+GO:0048471	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0031011	13	GO:0140513	nuclear protein-containing complex
+GO:0097361	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0030496	9	GO:0110165	cellular anatomical entity
+GO:0031902	10	GO:0030659	cytoplasmic vesicle membrane
+GO:1904115	7	GO:0120025	plasma membrane bounded cell projection
+GO:0000243	13	GO:0140513	nuclear protein-containing complex
+GO:0055028	17	GO:0099513	polymeric cytoskeletal fiber
+GO:0060076	6	GO:0043025	neuronal cell body
+GO:0035145	13	GO:0140513	nuclear protein-containing complex
+GO:0033186	2	GO:0032991	protein-containing complex
+GO:0014069	6	GO:0043025	neuronal cell body
+GO:0000791	18	GO:0005694	chromosome
+GO:0005856	18	GO:0005694	chromosome
+GO:0005881	19	GO:0043292	contractile fiber
+GO:0005885	16	GO:0000808	origin recognition complex
+GO:0039615	6	GO:0043025	neuronal cell body
+GO:0044306	7	GO:0120025	plasma membrane bounded cell projection
+GO:0044309	7	GO:0120025	plasma membrane bounded cell projection
+GO:0005871	16	GO:0000808	origin recognition complex
+GO:0005829	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0030864	17	GO:0099513	polymeric cytoskeletal fiber
+GO:0032838	8	GO:0005929	cilium
+GO:0043679	7	GO:0120025	plasma membrane bounded cell projection
+GO:0008023	13	GO:0140513	nuclear protein-containing complex
+GO:0043034	19	GO:0043292	contractile fiber
+GO:0071561	8	GO:0005929	cilium
+GO:0030120	10	GO:0030659	cytoplasmic vesicle membrane
+GO:0030125	10	GO:0030659	cytoplasmic vesicle membrane
+GO:0000439	13	GO:0140513	nuclear protein-containing complex
+GO:0030133	11	GO:0099503	secretory vesicle
+GO:0030134	11	GO:0099503	secretory vesicle
+GO:0000407	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0090575	13	GO:0140513	nuclear protein-containing complex
+GO:0110092	15	GO:0005783	endoplasmic reticulum
+GO:0030286	16	GO:0000808	origin recognition complex
+GO:0005826	17	GO:0099513	polymeric cytoskeletal fiber
+GO:0001520	17	GO:0099513	polymeric cytoskeletal fiber
+GO:0061836	6	GO:0043025	neuronal cell body
+GO:1905360	2	GO:0032991	protein-containing complex
+GO:1990612	14	GO:0042170	plastid membrane
+GO:0070821	10	GO:0030659	cytoplasmic vesicle membrane
+GO:0097524	5	GO:0098590	plasma membrane region
+GO:1990385	17	GO:0099513	polymeric cytoskeletal fiber
+GO:0031616	17	GO:0099513	polymeric cytoskeletal fiber
+GO:0000214	13	GO:0140513	nuclear protein-containing complex
+GO:0098651	6	GO:0043025	neuronal cell body
+GO:0098642	6	GO:0043025	neuronal cell body
+GO:0098644	6	GO:0043025	neuronal cell body
+GO:0098645	6	GO:0043025	neuronal cell body
+GO:0005587	6	GO:0043025	neuronal cell body
+GO:0000445	13	GO:0140513	nuclear protein-containing complex
+GO:0005869	16	GO:0000808	origin recognition complex
+GO:0090543	9	GO:0110165	cellular anatomical entity
+GO:0009507	15	GO:0005783	endoplasmic reticulum
+GO:0034657	2	GO:0032991	protein-containing complex
+GO:0005884	17	GO:0099513	polymeric cytoskeletal fiber
+GO:0005790	15	GO:0005783	endoplasmic reticulum
+GO:0016460	16	GO:0000808	origin recognition complex
+GO:0042729	13	GO:0140513	nuclear protein-containing complex
+GO:0034515	19	GO:0043292	contractile fiber
+GO:0017101	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0009505	6	GO:0043025	neuronal cell body
+GO:0099523	9	GO:0110165	cellular anatomical entity
+GO:0099524	9	GO:0110165	cellular anatomical entity
+GO:0005739	15	GO:0005783	endoplasmic reticulum
+GO:0005656	13	GO:0140513	nuclear protein-containing complex
+GO:0071598	17	GO:0099513	polymeric cytoskeletal fiber
+GO:0002116	2	GO:0032991	protein-containing complex
+GO:0098688	6	GO:0043025	neuronal cell body
+GO:1990972	6	GO:0043025	neuronal cell body
+GO:0031395	9	GO:0110165	cellular anatomical entity
+GO:0032585	10	GO:0030659	cytoplasmic vesicle membrane
+GO:0031380	13	GO:0140513	nuclear protein-containing complex
+GO:0043194	7	GO:0120025	plasma membrane bounded cell projection
+GO:0097541	19	GO:0043292	contractile fiber
+GO:0060111	9	GO:0110165	cellular anatomical entity
+GO:0016593	13	GO:0140513	nuclear protein-containing complex
+GO:0010445	13	GO:0140513	nuclear protein-containing complex
+GO:0097433	12	GO:0045239	tricarboxylic acid cycle enzyme complex
+GO:0120025	7	GO:0120025	plasma membrane bounded cell projection
+GO:0005750	14	GO:0042170	plastid membrane
+GO:0005784	14	GO:0042170	plastid membrane
+GO:0017087	13	GO:0140513	nuclear protein-containing complex
+GO:0045275	4	GO:0098797	plasma membrane protein complex
+GO:1990184	4	GO:0098797	plasma membrane protein complex
+GO:0042571	9	GO:0110165	cellular anatomical entity
+GO:1990342	18	GO:0005694	chromosome
+GO:0071256	14	GO:0042170	plastid membrane
+GO:0043218	9	GO:0110165	cellular anatomical entity
+GO:0016010	4	GO:0098797	plasma membrane protein complex

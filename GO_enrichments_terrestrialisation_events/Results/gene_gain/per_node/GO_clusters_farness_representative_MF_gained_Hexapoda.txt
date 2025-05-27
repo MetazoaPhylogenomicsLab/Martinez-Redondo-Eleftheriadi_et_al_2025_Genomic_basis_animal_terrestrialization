@@ -1,0 +1,85 @@
+GO:0030246	3	GO:0005515	protein binding
+GO:0001965	3	GO:0005515	protein binding
+GO:0022843	1	GO:0005244	voltage-gated ion channel activity
+GO:0005092	4	GO:0030234	enzyme regulator activity
+GO:0022832	1	GO:0005244	voltage-gated ion channel activity
+GO:0022836	1	GO:0005244	voltage-gated ion channel activity
+GO:0022839	1	GO:0005244	voltage-gated ion channel activity
+GO:0005267	1	GO:0005244	voltage-gated ion channel activity
+GO:0005355	1	GO:0005244	voltage-gated ion channel activity
+GO:0005133	3	GO:0005515	protein binding
+GO:0005244	1	GO:0005244	voltage-gated ion channel activity
+GO:0015149	1	GO:0005244	voltage-gated ion channel activity
+GO:0005249	1	GO:0005244	voltage-gated ion channel activity
+GO:0005536	3	GO:0005515	protein binding
+GO:0015079	1	GO:0005244	voltage-gated ion channel activity
+GO:0004305	6	GO:0019787	ubiquitin-like protein transferase activity
+GO:0008080	6	GO:0019787	ubiquitin-like protein transferase activity
+GO:0008083	3	GO:0005515	protein binding
+GO:0005549	3	GO:0005515	protein binding
+GO:0005121	3	GO:0005515	protein binding
+GO:0030346	3	GO:0005515	protein binding
+GO:0017046	3	GO:0005515	protein binding
+GO:0004026	6	GO:0019787	ubiquitin-like protein transferase activity
+GO:0010484	6	GO:0019787	ubiquitin-like protein transferase activity
+GO:0005095	4	GO:0030234	enzyme regulator activity
+GO:1990188	3	GO:0005515	protein binding
+GO:0061659	6	GO:0019787	ubiquitin-like protein transferase activity
+GO:0003697	2	GO:0046906	tetrapyrrole binding
+GO:0042800	6	GO:0019787	ubiquitin-like protein transferase activity
+GO:0004402	6	GO:0019787	ubiquitin-like protein transferase activity
+GO:0005125	3	GO:0005515	protein binding
+GO:0034212	6	GO:0019787	ubiquitin-like protein transferase activity
+GO:0016410	6	GO:0019787	ubiquitin-like protein transferase activity
+GO:0061630	6	GO:0019787	ubiquitin-like protein transferase activity
+GO:0061733	6	GO:0019787	ubiquitin-like protein transferase activity
+GO:0005139	3	GO:0005515	protein binding
+GO:0000405	2	GO:0046906	tetrapyrrole binding
+GO:0004867	4	GO:0030234	enzyme regulator activity
+GO:0008140	3	GO:0005515	protein binding
+GO:0008270	3	GO:0005515	protein binding
+GO:0061650	6	GO:0019787	ubiquitin-like protein transferase activity
+GO:0061631	6	GO:0019787	ubiquitin-like protein transferase activity
+GO:0017151	3	GO:0005515	protein binding
+GO:0003727	2	GO:0046906	tetrapyrrole binding
+GO:0005515	3	GO:0005515	protein binding
+GO:0035198	2	GO:0046906	tetrapyrrole binding
+GO:0031210	3	GO:0005515	protein binding
+GO:0005550	3	GO:0005515	protein binding
+GO:0042834	3	GO:0005515	protein binding
+GO:0034987	3	GO:0005515	protein binding
+GO:0004675	6	GO:0019787	ubiquitin-like protein transferase activity
+GO:0005024	6	GO:0019787	ubiquitin-like protein transferase activity
+GO:0061980	2	GO:0046906	tetrapyrrole binding
+GO:0003823	3	GO:0005515	protein binding
+GO:0019862	3	GO:0005515	protein binding
+GO:0019787	6	GO:0019787	ubiquitin-like protein transferase activity
+GO:0034584	2	GO:0046906	tetrapyrrole binding
+GO:0030548	4	GO:0030234	enzyme regulator activity
+GO:0019888	4	GO:0030234	enzyme regulator activity
+GO:0061135	4	GO:0030234	enzyme regulator activity
+GO:0003968	6	GO:0019787	ubiquitin-like protein transferase activity
+GO:0015232	1	GO:0005244	voltage-gated ion channel activity
+GO:0030619	2	GO:0046906	tetrapyrrole binding
+GO:0099602	4	GO:0030234	enzyme regulator activity
+GO:0098772	4	GO:0030234	enzyme regulator activity
+GO:0034062	6	GO:0019787	ubiquitin-like protein transferase activity
+GO:0030234	4	GO:0030234	enzyme regulator activity
+GO:0004866	4	GO:0030234	enzyme regulator activity
+GO:0097747	6	GO:0019787	ubiquitin-like protein transferase activity
+GO:0019208	4	GO:0030234	enzyme regulator activity
+GO:0030414	4	GO:0030234	enzyme regulator activity
+GO:0042393	3	GO:0005515	protein binding
+GO:0004857	4	GO:0030234	enzyme regulator activity
+GO:0020037	2	GO:0046906	tetrapyrrole binding
+GO:0046906	2	GO:0046906	tetrapyrrole binding
+GO:0050660	2	GO:0046906	tetrapyrrole binding
+GO:0089720	3	GO:0005515	protein binding
+GO:0008656	4	GO:0030234	enzyme regulator activity
+GO:0061133	4	GO:0030234	enzyme regulator activity
+GO:0101005	6	GO:0019787	ubiquitin-like protein transferase activity
+GO:0051432	3	GO:0005515	protein binding
+GO:0051434	3	GO:0005515	protein binding
+GO:0008061	3	GO:0005515	protein binding
+GO:0043531	2	GO:0046906	tetrapyrrole binding
+GO:0005227	1	GO:0005244	voltage-gated ion channel activity

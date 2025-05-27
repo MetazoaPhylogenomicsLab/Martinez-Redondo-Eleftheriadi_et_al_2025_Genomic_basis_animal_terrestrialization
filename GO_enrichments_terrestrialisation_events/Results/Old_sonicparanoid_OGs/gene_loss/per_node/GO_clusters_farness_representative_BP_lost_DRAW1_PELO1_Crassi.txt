@@ -1,0 +1,149 @@
+GO:1901256	4	GO:1901256	regulation of macrophage colony-stimulating factor production
+GO:0018119	6	GO:0001920	negative regulation of receptor recycling
+GO:0038166	7	GO:0086100	endothelin receptor signaling pathway
+GO:0007260	6	GO:0001920	negative regulation of receptor recycling
+GO:0046802	1	GO:0016032	viral process
+GO:1990822	7	GO:0086100	endothelin receptor signaling pathway
+GO:0052031	2	GO:0039537	suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway
+GO:0006809	6	GO:0001920	negative regulation of receptor recycling
+GO:0075528	2	GO:0039537	suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway
+GO:0048240	7	GO:0086100	endothelin receptor signaling pathway
+GO:0048246	5	GO:1905521	regulation of macrophage migration
+GO:0046651	8	GO:0007059	chromosome segregation
+GO:0010760	5	GO:1905521	regulation of macrophage migration
+GO:0010761	5	GO:1905521	regulation of macrophage migration
+GO:0010762	5	GO:1905521	regulation of macrophage migration
+GO:0010764	5	GO:1905521	regulation of macrophage migration
+GO:0010758	5	GO:1905521	regulation of macrophage migration
+GO:0032310	7	GO:0086100	endothelin receptor signaling pathway
+GO:0000290	6	GO:0001920	negative regulation of receptor recycling
+GO:0034091	8	GO:0007059	chromosome segregation
+GO:1903401	7	GO:0086100	endothelin receptor signaling pathway
+GO:0032330	7	GO:0086100	endothelin receptor signaling pathway
+GO:0051321	8	GO:0007059	chromosome segregation
+GO:0031145	6	GO:0001920	negative regulation of receptor recycling
+GO:0000282	8	GO:0007059	chromosome segregation
+GO:0071350	7	GO:0086100	endothelin receptor signaling pathway
+GO:0034088	8	GO:0007059	chromosome segregation
+GO:0060153	3	GO:0019054	modulation by virus of host cellular process
+GO:0044071	3	GO:0019054	modulation by virus of host cellular process
+GO:0015918	7	GO:0086100	endothelin receptor signaling pathway
+GO:0006622	7	GO:0086100	endothelin receptor signaling pathway
+GO:0002322	8	GO:0007059	chromosome segregation
+GO:0002312	8	GO:0007059	chromosome segregation
+GO:0032443	6	GO:0001920	negative regulation of receptor recycling
+GO:0001172	6	GO:0001920	negative regulation of receptor recycling
+GO:0000750	7	GO:0086100	endothelin receptor signaling pathway
+GO:0000723	6	GO:0001920	negative regulation of receptor recycling
+GO:1904428	6	GO:0001920	negative regulation of receptor recycling
+GO:0000741	8	GO:0007059	chromosome segregation
+GO:0015074	6	GO:0001920	negative regulation of receptor recycling
+GO:0039722	2	GO:0039537	suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway
+GO:0039723	2	GO:0039537	suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway
+GO:0042113	8	GO:0007059	chromosome segregation
+GO:0039702	1	GO:0016032	viral process
+GO:0048580	7	GO:0086100	endothelin receptor signaling pathway
+GO:0048581	7	GO:0086100	endothelin receptor signaling pathway
+GO:0050731	6	GO:0001920	negative regulation of receptor recycling
+GO:0019835	8	GO:0007059	chromosome segregation
+GO:0010688	6	GO:0001920	negative regulation of receptor recycling
+GO:0043433	6	GO:0001920	negative regulation of receptor recycling
+GO:0050862	7	GO:0086100	endothelin receptor signaling pathway
+GO:0050854	7	GO:0086100	endothelin receptor signaling pathway
+GO:0050856	7	GO:0086100	endothelin receptor signaling pathway
+GO:0033120	6	GO:0001920	negative regulation of receptor recycling
+GO:0006974	8	GO:0007059	chromosome segregation
+GO:0032755	4	GO:1901256	regulation of macrophage colony-stimulating factor production
+GO:0032757	4	GO:1901256	regulation of macrophage colony-stimulating factor production
+GO:0016032	1	GO:0016032	viral process
+GO:0039562	3	GO:0019054	modulation by virus of host cellular process
+GO:0039563	3	GO:0019054	modulation by virus of host cellular process
+GO:0002285	8	GO:0007059	chromosome segregation
+GO:0006914	8	GO:0007059	chromosome segregation
+GO:0039554	2	GO:0039537	suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway
+GO:0039573	2	GO:0039537	suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway
+GO:0009877	7	GO:0086100	endothelin receptor signaling pathway
+GO:0001881	6	GO:0001920	negative regulation of receptor recycling
+GO:0039526	3	GO:0019054	modulation by virus of host cellular process
+GO:0032732	4	GO:1901256	regulation of macrophage colony-stimulating factor production
+GO:0055070	7	GO:0086100	endothelin receptor signaling pathway
+GO:0039537	2	GO:0039537	suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway
+GO:0039502	2	GO:0039537	suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway
+GO:0098671	1	GO:0016032	viral process
+GO:0051701	1	GO:0016032	viral process
+GO:0039693	1	GO:0016032	viral process
+GO:1900015	4	GO:1901256	regulation of macrophage colony-stimulating factor production
+GO:1900016	4	GO:1901256	regulation of macrophage colony-stimulating factor production
+GO:0044414	2	GO:0039537	suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway
+GO:0039673	2	GO:0039537	suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway
+GO:0039674	1	GO:0016032	viral process
+GO:0032814	8	GO:0007059	chromosome segregation
+GO:0043248	8	GO:0007059	chromosome segregation
+GO:0039644	3	GO:0019054	modulation by virus of host cellular process
+GO:0039645	3	GO:0019054	modulation by virus of host cellular process
+GO:0031640	8	GO:0007059	chromosome segregation
+GO:0002706	7	GO:0086100	endothelin receptor signaling pathway
+GO:0034182	8	GO:0007059	chromosome segregation
+GO:0070672	7	GO:0086100	endothelin receptor signaling pathway
+GO:1905710	7	GO:0086100	endothelin receptor signaling pathway
+GO:0042531	6	GO:0001920	negative regulation of receptor recycling
+GO:1901028	7	GO:0086100	endothelin receptor signaling pathway
+GO:0071555	8	GO:0007059	chromosome segregation
+GO:0042509	6	GO:0001920	negative regulation of receptor recycling
+GO:0007059	8	GO:0007059	chromosome segregation
+GO:0032652	4	GO:1901256	regulation of macrophage colony-stimulating factor production
+GO:0016339	8	GO:0007059	chromosome segregation
+GO:0032689	4	GO:1901256	regulation of macrophage colony-stimulating factor production
+GO:0032612	4	GO:1901256	regulation of macrophage colony-stimulating factor production
+GO:0098963	7	GO:0086100	endothelin receptor signaling pathway
+GO:0036301	4	GO:1901256	regulation of macrophage colony-stimulating factor production
+GO:0071655	4	GO:1901256	regulation of macrophage colony-stimulating factor production
+GO:0038084	7	GO:0086100	endothelin receptor signaling pathway
+GO:0061647	6	GO:0001920	negative regulation of receptor recycling
+GO:0071611	4	GO:1901256	regulation of macrophage colony-stimulating factor production
+GO:0048026	6	GO:0001920	negative regulation of receptor recycling
+GO:0002686	5	GO:1905521	regulation of macrophage migration
+GO:0002689	5	GO:1905521	regulation of macrophage migration
+GO:0006310	6	GO:0001920	negative regulation of receptor recycling
+GO:1905521	5	GO:1905521	regulation of macrophage migration
+GO:1905522	5	GO:1905521	regulation of macrophage migration
+GO:1905517	5	GO:1905521	regulation of macrophage migration
+GO:0019064	1	GO:0016032	viral process
+GO:0019068	1	GO:0016032	viral process
+GO:0019069	1	GO:0016032	viral process
+GO:0019054	3	GO:0019054	modulation by virus of host cellular process
+GO:0019055	3	GO:0019054	modulation by virus of host cellular process
+GO:0019058	1	GO:0016032	viral process
+GO:0019080	1	GO:0016032	viral process
+GO:0019082	1	GO:0016032	viral process
+GO:0019083	1	GO:0016032	viral process
+GO:0044826	1	GO:0016032	viral process
+GO:0035795	7	GO:0086100	endothelin receptor signaling pathway
+GO:0019072	1	GO:0016032	viral process
+GO:0019073	1	GO:0016032	viral process
+GO:0050907	7	GO:0086100	endothelin receptor signaling pathway
+GO:0019049	2	GO:0039537	suppression by virus of host viral-induced cytoplasmic pattern recognition receptor signaling pathway
+GO:0070936	6	GO:0001920	negative regulation of receptor recycling
+GO:0001920	6	GO:0001920	negative regulation of receptor recycling
+GO:0035723	7	GO:0086100	endothelin receptor signaling pathway
+GO:0006406	7	GO:0086100	endothelin receptor signaling pathway
+GO:0070096	8	GO:0007059	chromosome segregation
+GO:0016236	8	GO:0007059	chromosome segregation
+GO:0007338	7	GO:0086100	endothelin receptor signaling pathway
+GO:0061919	8	GO:0007059	chromosome segregation
+GO:0030382	8	GO:0007059	chromosome segregation
+GO:0006260	6	GO:0001920	negative regulation of receptor recycling
+GO:0006268	6	GO:0001920	negative regulation of receptor recycling
+GO:0046760	1	GO:0016032	viral process
+GO:0071901	6	GO:0001920	negative regulation of receptor recycling
+GO:0032056	6	GO:0001920	negative regulation of receptor recycling
+GO:0046718	1	GO:0016032	viral process
+GO:0046740	1	GO:0016032	viral process
+GO:0061062	7	GO:0086100	endothelin receptor signaling pathway
+GO:0051028	7	GO:0086100	endothelin receptor signaling pathway
+GO:0007156	8	GO:0007059	chromosome segregation
+GO:0075713	1	GO:0016032	viral process
+GO:0030437	7	GO:0086100	endothelin receptor signaling pathway
+GO:0086100	7	GO:0086100	endothelin receptor signaling pathway
+GO:1904000	7	GO:0086100	endothelin receptor signaling pathway
+GO:0002076	7	GO:0086100	endothelin receptor signaling pathway

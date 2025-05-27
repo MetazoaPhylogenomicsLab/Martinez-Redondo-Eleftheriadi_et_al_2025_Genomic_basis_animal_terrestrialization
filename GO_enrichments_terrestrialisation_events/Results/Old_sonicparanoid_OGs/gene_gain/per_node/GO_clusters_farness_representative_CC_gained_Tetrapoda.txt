@@ -1,0 +1,179 @@
+GO:0005814	4	GO:0005856	cytoskeleton
+GO:0070652	4	GO:0005856	cytoskeleton
+GO:1990498	4	GO:0005856	cytoskeleton
+GO:0035805	8	GO:0030312	external encapsulating structure
+GO:0034361	9	GO:0035686	sperm fibrous sheath
+GO:0034385	9	GO:0035686	sperm fibrous sheath
+GO:0005791	5	GO:0043231	intracellular membrane-bounded organelle
+GO:0000139	5	GO:0043231	intracellular membrane-bounded organelle
+GO:0000793	4	GO:0005856	cytoskeleton
+GO:0005743	5	GO:0043231	intracellular membrane-bounded organelle
+GO:0097232	6	GO:0030667	secretory granule membrane
+GO:0030658	6	GO:0030667	secretory granule membrane
+GO:0005732	1	GO:0030990	intraciliary transport particle
+GO:0045179	8	GO:0030312	external encapsulating structure
+GO:0008021	6	GO:0030667	secretory granule membrane
+GO:0030136	6	GO:0030667	secretory granule membrane
+GO:0030990	1	GO:0030990	intraciliary transport particle
+GO:0030430	2	GO:0033646	host intracellular part
+GO:0030991	1	GO:0030990	intraciliary transport particle
+GO:0043656	2	GO:0033646	host intracellular part
+GO:0002102	4	GO:0005856	cytoskeleton
+GO:0070382	6	GO:0030667	secretory granule membrane
+GO:0033646	2	GO:0033646	host intracellular part
+GO:0030027	9	GO:0035686	sperm fibrous sheath
+GO:0016323	7	GO:0005886	plasma membrane
+GO:0005868	4	GO:0005856	cytoskeleton
+GO:0031252	10	GO:0005576	extracellular region
+GO:0005856	4	GO:0005856	cytoskeleton
+GO:0000795	5	GO:0043231	intracellular membrane-bounded organelle
+GO:0048471	10	GO:0005576	extracellular region
+GO:0005912	9	GO:0035686	sperm fibrous sheath
+GO:0000940	4	GO:0005856	cytoskeleton
+GO:0005615	10	GO:0005576	extracellular region
+GO:0070062	9	GO:0035686	sperm fibrous sheath
+GO:0030175	9	GO:0035686	sperm fibrous sheath
+GO:0051286	9	GO:0035686	sperm fibrous sheath
+GO:0000932	4	GO:0005856	cytoskeleton
+GO:0031528	7	GO:0005886	plasma membrane
+GO:0030667	6	GO:0030667	secretory granule membrane
+GO:0009925	7	GO:0005886	plasma membrane
+GO:0031091	6	GO:0030667	secretory granule membrane
+GO:0099086	5	GO:0043231	intracellular membrane-bounded organelle
+GO:0005816	4	GO:0005856	cytoskeleton
+GO:0060187	10	GO:0005576	extracellular region
+GO:0001917	10	GO:0005576	extracellular region
+GO:0045177	10	GO:0005576	extracellular region
+GO:0045178	10	GO:0005576	extracellular region
+GO:0001726	9	GO:0035686	sperm fibrous sheath
+GO:0005952	1	GO:0030990	intraciliary transport particle
+GO:0005637	5	GO:0043231	intracellular membrane-bounded organelle
+GO:0020002	2	GO:0033646	host intracellular part
+GO:0035686	9	GO:0035686	sperm fibrous sheath
+GO:0019031	1	GO:0030990	intraciliary transport particle
+GO:0042627	9	GO:0035686	sperm fibrous sheath
+GO:0097224	9	GO:0035686	sperm fibrous sheath
+GO:0055036	7	GO:0005886	plasma membrane
+GO:0042597	10	GO:0005576	extracellular region
+GO:0072669	1	GO:0030990	intraciliary transport particle
+GO:0005614	8	GO:0030312	external encapsulating structure
+GO:0000243	3	GO:0071011	precatalytic spliceosome
+GO:0034709	10	GO:0005576	extracellular region
+GO:0042470	6	GO:0030667	secretory granule membrane
+GO:1905286	1	GO:0030990	intraciliary transport particle
+GO:0043230	10	GO:0005576	extracellular region
+GO:0001533	7	GO:0005886	plasma membrane
+GO:0005829	10	GO:0005576	extracellular region
+GO:1905370	1	GO:0030990	intraciliary transport particle
+GO:0071005	3	GO:0071011	precatalytic spliceosome
+GO:0071007	3	GO:0071011	precatalytic spliceosome
+GO:0009536	5	GO:0043231	intracellular membrane-bounded organelle
+GO:0072562	10	GO:0005576	extracellular region
+GO:0046540	3	GO:0071011	precatalytic spliceosome
+GO:0097526	3	GO:0071011	precatalytic spliceosome
+GO:0065010	9	GO:0035686	sperm fibrous sheath
+GO:1903561	9	GO:0035686	sperm fibrous sheath
+GO:0005682	3	GO:0071011	precatalytic spliceosome
+GO:0005685	3	GO:0071011	precatalytic spliceosome
+GO:0000408	1	GO:0030990	intraciliary transport particle
+GO:0005686	3	GO:0071011	precatalytic spliceosome
+GO:0005687	3	GO:0071011	precatalytic spliceosome
+GO:0034715	10	GO:0005576	extracellular region
+GO:0005689	3	GO:0071011	precatalytic spliceosome
+GO:0034719	10	GO:0005576	extracellular region
+GO:0005925	9	GO:0035686	sperm fibrous sheath
+GO:0098686	9	GO:0035686	sperm fibrous sheath
+GO:0071011	3	GO:0071011	precatalytic spliceosome
+GO:0062023	8	GO:0030312	external encapsulating structure
+GO:0005576	10	GO:0005576	extracellular region
+GO:0044423	1	GO:0030990	intraciliary transport particle
+GO:0033093	6	GO:0030667	secretory granule membrane
+GO:0009897	7	GO:0005886	plasma membrane
+GO:0031674	4	GO:0005856	cytoskeleton
+GO:0034358	9	GO:0035686	sperm fibrous sheath
+GO:1902911	1	GO:0030990	intraciliary transport particle
+GO:0031332	1	GO:0030990	intraciliary transport particle
+GO:1902554	1	GO:0030990	intraciliary transport particle
+GO:0016442	1	GO:0030990	intraciliary transport particle
+GO:0030018	4	GO:0005856	cytoskeleton
+GO:0000346	3	GO:0071011	precatalytic spliceosome
+GO:0033655	2	GO:0033646	host intracellular part
+GO:0042025	2	GO:0033646	host intracellular part
+GO:0071013	3	GO:0071011	precatalytic spliceosome
+GO:0071014	3	GO:0071011	precatalytic spliceosome
+GO:0097731	9	GO:0035686	sperm fibrous sheath
+GO:0097733	9	GO:0035686	sperm fibrous sheath
+GO:0033644	2	GO:0033646	host intracellular part
+GO:0033647	2	GO:0033646	host intracellular part
+GO:0033648	2	GO:0033646	host intracellular part
+GO:0098637	1	GO:0030990	intraciliary transport particle
+GO:0005683	3	GO:0071011	precatalytic spliceosome
+GO:0071004	3	GO:0071011	precatalytic spliceosome
+GO:0044200	2	GO:0033646	host intracellular part
+GO:0044199	2	GO:0033646	host intracellular part
+GO:0030008	1	GO:0030990	intraciliary transport particle
+GO:0012510	6	GO:0030667	secretory granule membrane
+GO:0005634	5	GO:0043231	intracellular membrane-bounded organelle
+GO:0043231	5	GO:0043231	intracellular membrane-bounded organelle
+GO:1901588	4	GO:0005856	cytoskeleton
+GO:0001669	6	GO:0030667	secretory granule membrane
+GO:0005794	5	GO:0043231	intracellular membrane-bounded organelle
+GO:0005795	5	GO:0043231	intracellular membrane-bounded organelle
+GO:0030121	6	GO:0030667	secretory granule membrane
+GO:0043194	9	GO:0035686	sperm fibrous sheath
+GO:0042763	10	GO:0005576	extracellular region
+GO:0099738	8	GO:0030312	external encapsulating structure
+GO:0098791	5	GO:0043231	intracellular membrane-bounded organelle
+GO:0030130	6	GO:0030667	secretory granule membrane
+GO:0042622	9	GO:0035686	sperm fibrous sheath
+GO:0030312	8	GO:0030312	external encapsulating structure
+GO:0071010	3	GO:0071011	precatalytic spliceosome
+GO:0031012	8	GO:0030312	external encapsulating structure
+GO:1990023	4	GO:0005856	cytoskeleton
+GO:0005788	5	GO:0043231	intracellular membrane-bounded organelle
+GO:0005828	4	GO:0005856	cytoskeleton
+GO:0044666	3	GO:0071011	precatalytic spliceosome
+GO:0042764	9	GO:0035686	sperm fibrous sheath
+GO:0001772	7	GO:0005886	plasma membrane
+GO:0002199	1	GO:0030990	intraciliary transport particle
+GO:0042101	7	GO:0005886	plasma membrane
+GO:0071944	10	GO:0005576	extracellular region
+GO:0097730	9	GO:0035686	sperm fibrous sheath
+GO:0031209	10	GO:0005576	extracellular region
+GO:0005628	7	GO:0005886	plasma membrane
+GO:0036338	1	GO:0030990	intraciliary transport particle
+GO:0045121	7	GO:0005886	plasma membrane
+GO:0009898	7	GO:0005886	plasma membrane
+GO:0098636	1	GO:0030990	intraciliary transport particle
+GO:0019897	7	GO:0005886	plasma membrane
+GO:0030141	6	GO:0030667	secretory granule membrane
+GO:0030665	6	GO:0030667	secretory granule membrane
+GO:0000794	5	GO:0043231	intracellular membrane-bounded organelle
+GO:0005881	4	GO:0005856	cytoskeleton
+GO:0099078	10	GO:0005576	extracellular region
+GO:0005577	10	GO:0005576	extracellular region
+GO:0033643	2	GO:0033646	host intracellular part
+GO:0033645	2	GO:0033646	host intracellular part
+GO:0097431	4	GO:0005856	cytoskeleton
+GO:0098574	5	GO:0043231	intracellular membrane-bounded organelle
+GO:0000322	5	GO:0043231	intracellular membrane-bounded organelle
+GO:0072487	3	GO:0071011	precatalytic spliceosome
+GO:0046536	3	GO:0071011	precatalytic spliceosome
+GO:0045095	4	GO:0005856	cytoskeleton
+GO:0042599	6	GO:0030667	secretory granule membrane
+GO:0031160	8	GO:0030312	external encapsulating structure
+GO:0000419	3	GO:0071011	precatalytic spliceosome
+GO:0005886	7	GO:0005886	plasma membrane
+GO:0009277	8	GO:0030312	external encapsulating structure
+GO:0000803	4	GO:0005856	cytoskeleton
+GO:0000805	4	GO:0005856	cytoskeleton
+GO:0016456	3	GO:0071011	precatalytic spliceosome
+GO:0000781	4	GO:0005856	cytoskeleton
+GO:0098687	4	GO:0005856	cytoskeleton
+GO:0034451	4	GO:0005856	cytoskeleton
+GO:0098691	9	GO:0035686	sperm fibrous sheath
+GO:0005942	1	GO:0030990	intraciliary transport particle
+GO:0045211	7	GO:0005886	plasma membrane
+GO:0005892	7	GO:0005886	plasma membrane
+GO:0098981	9	GO:0035686	sperm fibrous sheath
+GO:0031234	7	GO:0005886	plasma membrane

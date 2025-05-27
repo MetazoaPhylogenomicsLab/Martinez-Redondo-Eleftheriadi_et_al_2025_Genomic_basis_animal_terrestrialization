@@ -1,0 +1,213 @@
+GO:0070985	7	GO:0033557	Slx1-Slx4 complex
+GO:0044156	4	GO:0043083	synaptic cleft
+GO:0034451	9	GO:0005819	spindle
+GO:0034455	7	GO:0033557	Slx1-Slx4 complex
+GO:0000120	7	GO:0033557	Slx1-Slx4 complex
+GO:0045170	9	GO:0005819	spindle
+GO:1990454	1	GO:0005891	voltage-gated calcium channel complex
+GO:0097149	9	GO:0005819	spindle
+GO:0070939	8	GO:0005634	nucleus
+GO:0000145	11	GO:0031209	SCAR complex
+GO:0005923	5	GO:0043296	apical junction complex
+GO:0005929	6	GO:0042995	cell projection
+GO:0005912	5	GO:0043296	apical junction complex
+GO:1990423	9	GO:0005819	spindle
+GO:0005915	5	GO:0043296	apical junction complex
+GO:0005657	9	GO:0005819	spindle
+GO:0005938	11	GO:0031209	SCAR complex
+GO:0005675	7	GO:0033557	Slx1-Slx4 complex
+GO:0005677	8	GO:0005634	nucleus
+GO:0019028	3	GO:0099023	vesicle tethering complex
+GO:0019029	3	GO:0099023	vesicle tethering complex
+GO:0048786	6	GO:0042995	cell projection
+GO:0030315	2	GO:0005886	plasma membrane
+GO:0032039	8	GO:0005634	nucleus
+GO:0005634	8	GO:0005634	nucleus
+GO:0031313	10	GO:0010008	endosome membrane
+GO:0019030	3	GO:0099023	vesicle tethering complex
+GO:0035869	6	GO:0042995	cell projection
+GO:1902710	3	GO:0099023	vesicle tethering complex
+GO:1902712	1	GO:0005891	voltage-gated calcium channel complex
+GO:0097546	6	GO:0042995	cell projection
+GO:0036128	1	GO:0005891	voltage-gated calcium channel complex
+GO:0005742	10	GO:0010008	endosome membrane
+GO:0031931	3	GO:0099023	vesicle tethering complex
+GO:0031932	3	GO:0099023	vesicle tethering complex
+GO:0098799	10	GO:0010008	endosome membrane
+GO:0043296	5	GO:0043296	apical junction complex
+GO:0044219	4	GO:0043083	synaptic cleft
+GO:0000214	8	GO:0005634	nucleus
+GO:0016328	2	GO:0005886	plasma membrane
+GO:0099023	3	GO:0099023	vesicle tethering complex
+GO:0005705	9	GO:0005819	spindle
+GO:0055029	7	GO:0033557	Slx1-Slx4 complex
+GO:0042597	6	GO:0042995	cell projection
+GO:0005891	1	GO:0005891	voltage-gated calcium channel complex
+GO:0031463	3	GO:0099023	vesicle tethering complex
+GO:0030425	6	GO:0042995	cell projection
+GO:0000943	8	GO:0005634	nucleus
+GO:0070160	5	GO:0043296	apical junction complex
+GO:0038037	1	GO:0005891	voltage-gated calcium channel complex
+GO:0038039	1	GO:0005891	voltage-gated calcium channel complex
+GO:0005886	2	GO:0005886	plasma membrane
+GO:0039615	3	GO:0099023	vesicle tethering complex
+GO:0043235	3	GO:0099023	vesicle tethering complex
+GO:0030430	4	GO:0043083	synaptic cleft
+GO:0005826	9	GO:0005819	spindle
+GO:0005828	9	GO:0005819	spindle
+GO:0097648	1	GO:0005891	voltage-gated calcium channel complex
+GO:0005813	9	GO:0005819	spindle
+GO:0005814	9	GO:0005819	spindle
+GO:0005819	9	GO:0005819	spindle
+GO:0016605	7	GO:0033557	Slx1-Slx4 complex
+GO:0000781	9	GO:0005819	spindle
+GO:0016459	9	GO:0005819	spindle
+GO:0032154	2	GO:0005886	plasma membrane
+GO:0039713	4	GO:0043083	synaptic cleft
+GO:0043083	4	GO:0043083	synaptic cleft
+GO:0036064	9	GO:0005819	spindle
+GO:0033557	7	GO:0033557	Slx1-Slx4 complex
+GO:0034361	4	GO:0043083	synaptic cleft
+GO:0032116	8	GO:0005634	nucleus
+GO:0032806	7	GO:0033557	Slx1-Slx4 complex
+GO:0008305	1	GO:0005891	voltage-gated calcium channel complex
+GO:0034385	4	GO:0043083	synaptic cleft
+GO:0020002	4	GO:0043083	synaptic cleft
+GO:0097447	6	GO:0042995	cell projection
+GO:0002199	3	GO:0099023	vesicle tethering complex
+GO:0042025	4	GO:0043083	synaptic cleft
+GO:0080008	3	GO:0099023	vesicle tethering complex
+GO:0042627	4	GO:0043083	synaptic cleft
+GO:0032587	2	GO:0005886	plasma membrane
+GO:0001401	10	GO:0010008	endosome membrane
+GO:0034045	11	GO:0031209	SCAR complex
+GO:0098590	2	GO:0005886	plasma membrane
+GO:0098562	2	GO:0005886	plasma membrane
+GO:1990462	8	GO:0005634	nucleus
+GO:0009898	2	GO:0005886	plasma membrane
+GO:0120044	6	GO:0042995	cell projection
+GO:0030991	3	GO:0099023	vesicle tethering complex
+GO:0034702	1	GO:0005891	voltage-gated calcium channel complex
+GO:0034703	1	GO:0005891	voltage-gated calcium channel complex
+GO:0034706	1	GO:0005891	voltage-gated calcium channel complex
+GO:0005918	5	GO:0043296	apical junction complex
+GO:0005919	5	GO:0043296	apical junction complex
+GO:0070772	10	GO:0010008	endosome membrane
+GO:0031234	2	GO:0005886	plasma membrane
+GO:0005637	10	GO:0010008	endosome membrane
+GO:0030915	9	GO:0005819	spindle
+GO:0031209	11	GO:0031209	SCAR complex
+GO:0097539	6	GO:0042995	cell projection
+GO:0019005	3	GO:0099023	vesicle tethering complex
+GO:0106068	3	GO:0099023	vesicle tethering complex
+GO:0031011	7	GO:0033557	Slx1-Slx4 complex
+GO:0098794	6	GO:0042995	cell projection
+GO:0043291	11	GO:0031209	SCAR complex
+GO:0045211	2	GO:0005886	plasma membrane
+GO:0097060	2	GO:0005886	plasma membrane
+GO:0098636	3	GO:0099023	vesicle tethering complex
+GO:0031464	3	GO:0099023	vesicle tethering complex
+GO:0016010	1	GO:0005891	voltage-gated calcium channel complex
+GO:0000922	9	GO:0005819	spindle
+GO:0045202	6	GO:0042995	cell projection
+GO:0030424	6	GO:0042995	cell projection
+GO:0042575	3	GO:0099023	vesicle tethering complex
+GO:0000938	8	GO:0005634	nucleus
+GO:0005874	9	GO:0005819	spindle
+GO:0031430	9	GO:0005819	spindle
+GO:0043204	6	GO:0042995	cell projection
+GO:0120103	6	GO:0042995	cell projection
+GO:0034993	8	GO:0005634	nucleus
+GO:0042383	2	GO:0005886	plasma membrane
+GO:0008024	7	GO:0033557	Slx1-Slx4 complex
+GO:0032809	2	GO:0005886	plasma membrane
+GO:0043005	6	GO:0042995	cell projection
+GO:0032589	2	GO:0005886	plasma membrane
+GO:0098802	1	GO:0005891	voltage-gated calcium channel complex
+GO:0032391	6	GO:0042995	cell projection
+GO:0042600	2	GO:0005886	plasma membrane
+GO:0000812	7	GO:0033557	Slx1-Slx4 complex
+GO:0035003	1	GO:0005891	voltage-gated calcium channel complex
+GO:0070209	8	GO:0005634	nucleus
+GO:0032389	8	GO:0005634	nucleus
+GO:0016591	7	GO:0033557	Slx1-Slx4 complex
+GO:0000127	3	GO:0099023	vesicle tethering complex
+GO:0045178	6	GO:0042995	cell projection
+GO:0045179	11	GO:0031209	SCAR complex
+GO:0031514	6	GO:0042995	cell projection
+GO:0031252	6	GO:0042995	cell projection
+GO:1902911	3	GO:0099023	vesicle tethering complex
+GO:0071683	6	GO:0042995	cell projection
+GO:0010008	10	GO:0010008	endosome membrane
+GO:0005664	7	GO:0033557	Slx1-Slx4 complex
+GO:0034704	1	GO:0005891	voltage-gated calcium channel complex
+GO:0034707	1	GO:0005891	voltage-gated calcium channel complex
+GO:0005656	7	GO:0033557	Slx1-Slx4 complex
+GO:0099513	9	GO:0005819	spindle
+GO:0005794	8	GO:0005634	nucleus
+GO:0070648	9	GO:0005819	spindle
+GO:0032300	11	GO:0031209	SCAR complex
+GO:0031968	10	GO:0010008	endosome membrane
+GO:0005765	10	GO:0010008	endosome membrane
+GO:0048788	9	GO:0005819	spindle
+GO:0005614	4	GO:0043083	synaptic cleft
+GO:0005769	10	GO:0010008	endosome membrane
+GO:0005902	6	GO:0042995	cell projection
+GO:0032045	3	GO:0099023	vesicle tethering complex
+GO:0044297	6	GO:0042995	cell projection
+GO:0030054	6	GO:0042995	cell projection
+GO:0106094	8	GO:0005634	nucleus
+GO:0097518	9	GO:0005819	spindle
+GO:0097542	6	GO:0042995	cell projection
+GO:0043596	7	GO:0033557	Slx1-Slx4 complex
+GO:0031080	8	GO:0005634	nucleus
+GO:0030027	6	GO:0042995	cell projection
+GO:0005604	4	GO:0043083	synaptic cleft
+GO:0030673	2	GO:0005886	plasma membrane
+GO:0110085	9	GO:0005819	spindle
+GO:0098791	8	GO:0005634	nucleus
+GO:0098793	6	GO:0042995	cell projection
+GO:0001534	9	GO:0005819	spindle
+GO:0106083	8	GO:0005634	nucleus
+GO:0031045	10	GO:0010008	endosome membrane
+GO:0110078	3	GO:0099023	vesicle tethering complex
+GO:0016324	2	GO:0005886	plasma membrane
+GO:0031901	10	GO:0010008	endosome membrane
+GO:0030496	6	GO:0042995	cell projection
+GO:0016342	1	GO:0005891	voltage-gated calcium channel complex
+GO:0032432	9	GO:0005819	spindle
+GO:0016028	6	GO:0042995	cell projection
+GO:0000347	8	GO:0005634	nucleus
+GO:0019897	2	GO:0005886	plasma membrane
+GO:0019898	2	GO:0005886	plasma membrane
+GO:0033180	1	GO:0005891	voltage-gated calcium channel complex
+GO:0030428	6	GO:0042995	cell projection
+GO:0001650	7	GO:0033557	Slx1-Slx4 complex
+GO:0019867	2	GO:0005886	plasma membrane
+GO:0044304	6	GO:0042995	cell projection
+GO:0005871	9	GO:0005819	spindle
+GO:0008352	9	GO:0005819	spindle
+GO:0030897	1	GO:0005891	voltage-gated calcium channel complex
+GO:0000783	7	GO:0033557	Slx1-Slx4 complex
+GO:0005849	8	GO:0005634	nucleus
+GO:0042995	6	GO:0042995	cell projection
+GO:0036387	3	GO:0099023	vesicle tethering complex
+GO:0043020	1	GO:0005891	voltage-gated calcium channel complex
+GO:0043025	4	GO:0043083	synaptic cleft
+GO:0036063	8	GO:0005634	nucleus
+GO:0097730	6	GO:0042995	cell projection
+GO:0009925	2	GO:0005886	plasma membrane
+GO:0034992	8	GO:0005634	nucleus
+GO:0008074	11	GO:0031209	SCAR complex
+GO:0043625	7	GO:0033557	Slx1-Slx4 complex
+GO:0098862	6	GO:0042995	cell projection
+GO:0034364	4	GO:0043083	synaptic cleft
+GO:0098858	6	GO:0042995	cell projection
+GO:0030849	9	GO:0005819	spindle
+GO:0032590	2	GO:0005886	plasma membrane
+GO:0097431	9	GO:0005819	spindle
+GO:0035098	7	GO:0033557	Slx1-Slx4 complex
+GO:1902554	3	GO:0099023	vesicle tethering complex
+GO:0017119	8	GO:0005634	nucleus
+GO:0031143	6	GO:0042995	cell projection
+GO:0071254	11	GO:0031209	SCAR complex

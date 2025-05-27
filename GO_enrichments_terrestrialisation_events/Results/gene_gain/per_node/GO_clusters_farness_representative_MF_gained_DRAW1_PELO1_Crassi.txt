@@ -1,0 +1,32 @@
+GO:0140416	6	GO:0016247	channel regulator activity
+GO:0000981	5	GO:0140110	transcription regulator activity
+GO:0016247	6	GO:0016247	channel regulator activity
+GO:0030291	4	GO:0008603	cAMP-dependent protein kinase regulator activity
+GO:0036122	1	GO:0005515	protein binding
+GO:0015459	6	GO:0016247	channel regulator activity
+GO:0048018	2	GO:0048018	receptor ligand activity
+GO:0005096	4	GO:0008603	cAMP-dependent protein kinase regulator activity
+GO:0005184	2	GO:0048018	receptor ligand activity
+GO:0016922	1	GO:0005515	protein binding
+GO:0005179	2	GO:0048018	receptor ligand activity
+GO:0005125	2	GO:0048018	receptor ligand activity
+GO:0071855	1	GO:0005515	protein binding
+GO:0019894	1	GO:0005515	protein binding
+GO:0005515	1	GO:0005515	protein binding
+GO:0005080	1	GO:0005515	protein binding
+GO:0099106	6	GO:0016247	channel regulator activity
+GO:0004862	4	GO:0008603	cAMP-dependent protein kinase regulator activity
+GO:0051427	1	GO:0005515	protein binding
+GO:0051428	1	GO:0005515	protein binding
+GO:0070840	1	GO:0005515	protein binding
+GO:0140110	5	GO:0140110	transcription regulator activity
+GO:0048306	1	GO:0005515	protein binding
+GO:0001228	5	GO:0140110	transcription regulator activity
+GO:0001216	5	GO:0140110	transcription regulator activity
+GO:0019900	1	GO:0005515	protein binding
+GO:1990226	1	GO:0005515	protein binding
+GO:0003712	5	GO:0140110	transcription regulator activity
+GO:0030545	6	GO:0016247	channel regulator activity
+GO:0030546	6	GO:0016247	channel regulator activity
+GO:0003714	5	GO:0140110	transcription regulator activity
+GO:0008603	4	GO:0008603	cAMP-dependent protein kinase regulator activity

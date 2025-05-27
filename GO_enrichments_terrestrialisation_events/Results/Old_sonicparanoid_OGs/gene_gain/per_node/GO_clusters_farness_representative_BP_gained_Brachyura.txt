@@ -1,0 +1,49 @@
+GO:0051236	4	GO:0050658	RNA transport
+GO:0001906	8	GO:0051709	regulation of killing of cells of other organism
+GO:0060249	6	GO:0001894	tissue homeostasis
+GO:0016032	2	GO:0019058	viral life cycle
+GO:0052200	1	GO:0052572	response to host immune response
+GO:0007059	7	GO:1990700	nucleolar chromatin organization
+GO:0052562	1	GO:0052572	response to host immune response
+GO:0052553	1	GO:0052572	response to host immune response
+GO:0007535	7	GO:1990700	nucleolar chromatin organization
+GO:0052572	1	GO:0052572	response to host immune response
+GO:0007049	7	GO:1990700	nucleolar chromatin organization
+GO:0033143	3	GO:0033143	regulation of intracellular steroid hormone receptor signaling pathway
+GO:0033144	3	GO:0033143	regulation of intracellular steroid hormone receptor signaling pathway
+GO:0033146	3	GO:0033143	regulation of intracellular steroid hormone receptor signaling pathway
+GO:0033147	3	GO:0033143	regulation of intracellular steroid hormone receptor signaling pathway
+GO:0075528	1	GO:0052572	response to host immune response
+GO:0051028	4	GO:0050658	RNA transport
+GO:0000183	7	GO:1990700	nucleolar chromatin organization
+GO:0009690	7	GO:1990700	nucleolar chromatin organization
+GO:0009691	7	GO:1990700	nucleolar chromatin organization
+GO:0052040	8	GO:0051709	regulation of killing of cells of other organism
+GO:0039674	2	GO:0019058	viral life cycle
+GO:0039675	2	GO:0019058	viral life cycle
+GO:1990700	7	GO:1990700	nucleolar chromatin organization
+GO:0031341	8	GO:0051709	regulation of killing of cells of other organism
+GO:0052150	8	GO:0051709	regulation of killing of cells of other organism
+GO:0031640	8	GO:0051709	regulation of killing of cells of other organism
+GO:0052173	1	GO:0052572	response to host immune response
+GO:0001894	6	GO:0001894	tissue homeostasis
+GO:0001895	6	GO:0001894	tissue homeostasis
+GO:0075733	2	GO:0019058	viral life cycle
+GO:0051701	2	GO:0019058	viral life cycle
+GO:0051709	8	GO:0051709	regulation of killing of cells of other organism
+GO:0003334	5	GO:0030216	keratinocyte differentiation
+GO:0050657	4	GO:0050658	RNA transport
+GO:0050658	4	GO:0050658	RNA transport
+GO:0075136	1	GO:0052572	response to host immune response
+GO:0030216	5	GO:0030216	keratinocyte differentiation
+GO:0000282	7	GO:1990700	nucleolar chromatin organization
+GO:0031424	5	GO:0030216	keratinocyte differentiation
+GO:0019068	2	GO:0019058	viral life cycle
+GO:0019054	8	GO:0051709	regulation of killing of cells of other organism
+GO:0019058	2	GO:0019058	viral life cycle
+GO:0022402	7	GO:1990700	nucleolar chromatin organization
+GO:0043588	5	GO:0030216	keratinocyte differentiation
+GO:0039526	8	GO:0051709	regulation of killing of cells of other organism
+GO:0043570	7	GO:1990700	nucleolar chromatin organization
+GO:0030520	3	GO:0033143	regulation of intracellular steroid hormone receptor signaling pathway
+GO:0044403	2	GO:0019058	viral life cycle

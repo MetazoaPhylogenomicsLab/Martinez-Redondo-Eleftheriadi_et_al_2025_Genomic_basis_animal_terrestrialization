@@ -1,0 +1,62 @@
+GO:2000106	4	GO:0071555	cell wall organization
+GO:0010383	3	GO:0006082	organic acid metabolic process
+GO:0016339	4	GO:0071555	cell wall organization
+GO:0050798	2	GO:0046006	regulation of activated T cell proliferation
+GO:0018958	3	GO:0006082	organic acid metabolic process
+GO:0010951	3	GO:0006082	organic acid metabolic process
+GO:0051273	3	GO:0006082	organic acid metabolic process
+GO:0044042	3	GO:0006082	organic acid metabolic process
+GO:0098542	5	GO:0002367	cytokine production involved in immune response
+GO:0006805	3	GO:0006082	organic acid metabolic process
+GO:0000272	3	GO:0006082	organic acid metabolic process
+GO:0044038	3	GO:0006082	organic acid metabolic process
+GO:0046680	5	GO:0002367	cytokine production involved in immune response
+GO:0036303	4	GO:0071555	cell wall organization
+GO:0046686	5	GO:0002367	cytokine production involved in immune response
+GO:0070589	3	GO:0006082	organic acid metabolic process
+GO:0002252	5	GO:0002367	cytokine production involved in immune response
+GO:0098742	4	GO:0071555	cell wall organization
+GO:0002822	5	GO:0002367	cytokine production involved in immune response
+GO:0070570	1	GO:0070570	regulation of neuron projection regeneration
+GO:0070572	1	GO:0070570	regulation of neuron projection regeneration
+GO:0042129	2	GO:0046006	regulation of activated T cell proliferation
+GO:0006082	3	GO:0006082	organic acid metabolic process
+GO:0042098	2	GO:0046006	regulation of activated T cell proliferation
+GO:0002819	5	GO:0002367	cytokine production involved in immune response
+GO:0006073	3	GO:0006082	organic acid metabolic process
+GO:1905691	4	GO:0071555	cell wall organization
+GO:0002718	5	GO:0002367	cytokine production involved in immune response
+GO:0002456	5	GO:0002367	cytokine production involved in immune response
+GO:0006684	3	GO:0006082	organic acid metabolic process
+GO:0006685	3	GO:0006082	organic acid metabolic process
+GO:0002367	5	GO:0002367	cytokine production involved in immune response
+GO:0042440	3	GO:0006082	organic acid metabolic process
+GO:0048680	1	GO:0070570	regulation of neuron projection regeneration
+GO:0006582	3	GO:0006082	organic acid metabolic process
+GO:0017085	5	GO:0002367	cytokine production involved in immune response
+GO:0046006	2	GO:0046006	regulation of activated T cell proliferation
+GO:0035010	5	GO:0002367	cytokine production involved in immune response
+GO:0034389	4	GO:0071555	cell wall organization
+GO:0048679	1	GO:0070570	regulation of neuron projection regeneration
+GO:0005984	3	GO:0006082	organic acid metabolic process
+GO:0009251	3	GO:0006082	organic acid metabolic process
+GO:0061912	3	GO:0006082	organic acid metabolic process
+GO:0009636	5	GO:0002367	cytokine production involved in immune response
+GO:0070228	4	GO:0071555	cell wall organization
+GO:0006491	3	GO:0006082	organic acid metabolic process
+GO:0043542	4	GO:0071555	cell wall organization
+GO:0002703	5	GO:0002367	cytokine production involved in immune response
+GO:0002706	5	GO:0002367	cytokine production involved in immune response
+GO:0002709	5	GO:0002367	cytokine production involved in immune response
+GO:0009272	4	GO:0071555	cell wall organization
+GO:0014074	5	GO:0002367	cytokine production involved in immune response
+GO:0034976	4	GO:0071555	cell wall organization
+GO:0010466	3	GO:0006082	organic acid metabolic process
+GO:0070231	4	GO:0071555	cell wall organization
+GO:0070232	4	GO:0071555	cell wall organization
+GO:0071555	4	GO:0071555	cell wall organization
+GO:0043279	5	GO:0002367	cytokine production involved in immune response
+GO:0045493	3	GO:0006082	organic acid metabolic process
+GO:0080144	4	GO:0071555	cell wall organization
+GO:0035006	3	GO:0006082	organic acid metabolic process
+GO:0098586	5	GO:0002367	cytokine production involved in immune response

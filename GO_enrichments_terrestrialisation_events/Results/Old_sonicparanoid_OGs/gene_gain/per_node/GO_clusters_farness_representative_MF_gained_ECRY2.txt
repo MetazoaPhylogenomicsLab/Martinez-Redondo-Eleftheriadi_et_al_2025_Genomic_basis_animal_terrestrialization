@@ -1,0 +1,31 @@
+GO:0005509	1	GO:0031683	G-protein beta/gamma-subunit complex binding
+GO:0032450	2	GO:0032450	maltose alpha-glucosidase activity
+GO:0004993	1	GO:0031683	G-protein beta/gamma-subunit complex binding
+GO:0072542	1	GO:0031683	G-protein beta/gamma-subunit complex binding
+GO:0004558	2	GO:0032450	maltose alpha-glucosidase activity
+GO:0005267	1	GO:0031683	G-protein beta/gamma-subunit complex binding
+GO:0031683	1	GO:0031683	G-protein beta/gamma-subunit complex binding
+GO:0097718	1	GO:0031683	G-protein beta/gamma-subunit complex binding
+GO:0004721	4	GO:0004722	protein serine/threonine phosphatase activity
+GO:0055077	1	GO:0031683	G-protein beta/gamma-subunit complex binding
+GO:0004722	4	GO:0004722	protein serine/threonine phosphatase activity
+GO:0042578	3	GO:0042578	phosphoric ester hydrolase activity
+GO:0005251	1	GO:0031683	G-protein beta/gamma-subunit complex binding
+GO:0001664	1	GO:0031683	G-protein beta/gamma-subunit complex binding
+GO:0003924	1	GO:0031683	G-protein beta/gamma-subunit complex binding
+GO:0005525	1	GO:0031683	G-protein beta/gamma-subunit complex binding
+GO:0001591	1	GO:0031683	G-protein beta/gamma-subunit complex binding
+GO:0120020	1	GO:0031683	G-protein beta/gamma-subunit complex binding
+GO:0003829	1	GO:0031683	G-protein beta/gamma-subunit complex binding
+GO:0034593	3	GO:0042578	phosphoric ester hydrolase activity
+GO:0099589	1	GO:0031683	G-protein beta/gamma-subunit complex binding
+GO:0015174	1	GO:0031683	G-protein beta/gamma-subunit complex binding
+GO:0016791	3	GO:0042578	phosphoric ester hydrolase activity
+GO:0017022	1	GO:0031683	G-protein beta/gamma-subunit complex binding
+GO:0120015	1	GO:0031683	G-protein beta/gamma-subunit complex binding
+GO:0003990	3	GO:0042578	phosphoric ester hydrolase activity
+GO:0017018	4	GO:0004722	protein serine/threonine phosphatase activity
+GO:0004386	1	GO:0031683	G-protein beta/gamma-subunit complex binding
+GO:0005249	1	GO:0031683	G-protein beta/gamma-subunit complex binding
+GO:0022843	1	GO:0031683	G-protein beta/gamma-subunit complex binding
+GO:0052744	3	GO:0042578	phosphoric ester hydrolase activity

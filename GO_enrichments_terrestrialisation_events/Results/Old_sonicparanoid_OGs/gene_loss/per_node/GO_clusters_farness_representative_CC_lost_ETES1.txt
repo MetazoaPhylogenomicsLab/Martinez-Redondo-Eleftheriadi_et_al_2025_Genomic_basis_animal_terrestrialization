@@ -1,0 +1,36 @@
+GO:0031463	4	GO:0031436	BRCA1-BARD1 complex
+GO:0001669	4	GO:0031436	BRCA1-BARD1 complex
+GO:0005919	4	GO:0031436	BRCA1-BARD1 complex
+GO:0090543	2	GO:0110165	cellular anatomical entity
+GO:0005930	5	GO:0032432	actin filament bundle
+GO:0016324	1	GO:0005886	plasma membrane
+GO:0031436	4	GO:0031436	BRCA1-BARD1 complex
+GO:0098827	4	GO:0031436	BRCA1-BARD1 complex
+GO:0031234	1	GO:0005886	plasma membrane
+GO:0042641	5	GO:0032432	actin filament bundle
+GO:0005858	5	GO:0032432	actin filament bundle
+GO:0009986	2	GO:0110165	cellular anatomical entity
+GO:0005886	1	GO:0005886	plasma membrane
+GO:0110165	2	GO:0110165	cellular anatomical entity
+GO:0097517	5	GO:0032432	actin filament bundle
+GO:0005879	5	GO:0032432	actin filament bundle
+GO:0036126	3	GO:0031514	motile cilium
+GO:0036128	1	GO:0005886	plasma membrane
+GO:0098802	1	GO:0005886	plasma membrane
+GO:0035869	3	GO:0031514	motile cilium
+GO:0005814	5	GO:0032432	actin filament bundle
+GO:0098794	2	GO:0110165	cellular anatomical entity
+GO:0005615	2	GO:0110165	cellular anatomical entity
+GO:0098592	1	GO:0005886	plasma membrane
+GO:0001725	5	GO:0032432	actin filament bundle
+GO:0009897	1	GO:0005886	plasma membrane
+GO:0019897	1	GO:0005886	plasma membrane
+GO:0042175	2	GO:0110165	cellular anatomical entity
+GO:0043005	3	GO:0031514	motile cilium
+GO:0032432	5	GO:0032432	actin filament bundle
+GO:0036064	5	GO:0032432	actin filament bundle
+GO:0031514	3	GO:0031514	motile cilium
+GO:0097228	3	GO:0031514	motile cilium
+GO:0005789	4	GO:0031436	BRCA1-BARD1 complex
+GO:0005576	2	GO:0110165	cellular anatomical entity
+GO:0043186	5	GO:0032432	actin filament bundle

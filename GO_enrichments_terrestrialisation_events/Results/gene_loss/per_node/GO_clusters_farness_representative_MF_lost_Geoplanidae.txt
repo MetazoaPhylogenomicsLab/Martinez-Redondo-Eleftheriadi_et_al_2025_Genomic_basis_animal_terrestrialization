@@ -1,0 +1,208 @@
+GO:0001664	2	GO:0019838	growth factor binding
+GO:0019199	8	GO:0004674	protein serine/threonine kinase activity
+GO:0032561	4	GO:0005539	glycosaminoglycan binding
+GO:0001653	7	GO:0004888	transmembrane signaling receptor activity
+GO:0005539	4	GO:0005539	glycosaminoglycan binding
+GO:0016798	10	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0016799	10	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0030246	2	GO:0019838	growth factor binding
+GO:0004908	7	GO:0004888	transmembrane signaling receptor activity
+GO:0004252	10	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0004867	9	GO:0005044	scavenger receptor activity
+GO:0008528	7	GO:0004888	transmembrane signaling receptor activity
+GO:0046914	4	GO:0005539	glycosaminoglycan binding
+GO:0042813	7	GO:0004888	transmembrane signaling receptor activity
+GO:0004888	7	GO:0004888	transmembrane signaling receptor activity
+GO:0005044	9	GO:0005044	scavenger receptor activity
+GO:0019966	2	GO:0019838	growth factor binding
+GO:0042834	4	GO:0005539	glycosaminoglycan binding
+GO:0061459	6	GO:0046943	carboxylic acid transmembrane transporter activity
+GO:0019955	2	GO:0019838	growth factor binding
+GO:0015277	5	GO:0015276	ligand-gated ion channel activity
+GO:0098631	2	GO:0019838	growth factor binding
+GO:0098632	2	GO:0019838	growth factor binding
+GO:0003964	9	GO:0005044	scavenger receptor activity
+GO:0061665	9	GO:0005044	scavenger receptor activity
+GO:0106330	10	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0106331	10	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0008270	4	GO:0005539	glycosaminoglycan binding
+GO:0046812	2	GO:0019838	growth factor binding
+GO:0031996	2	GO:0019838	growth factor binding
+GO:0017176	9	GO:0005044	scavenger receptor activity
+GO:0043621	2	GO:0019838	growth factor binding
+GO:0051087	2	GO:0019838	growth factor binding
+GO:0019870	9	GO:0005044	scavenger receptor activity
+GO:0019001	4	GO:0005539	glycosaminoglycan binding
+GO:0004725	10	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0005184	2	GO:0019838	growth factor binding
+GO:0015189	6	GO:0046943	carboxylic acid transmembrane transporter activity
+GO:0019237	3	GO:0003676	nucleic acid binding
+GO:0005125	2	GO:0019838	growth factor binding
+GO:0005126	2	GO:0019838	growth factor binding
+GO:0019838	2	GO:0019838	growth factor binding
+GO:0061783	10	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0003677	3	GO:0003676	nucleic acid binding
+GO:0005133	2	GO:0019838	growth factor binding
+GO:0005525	4	GO:0005539	glycosaminoglycan binding
+GO:0071855	2	GO:0019838	growth factor binding
+GO:0046789	4	GO:0005539	glycosaminoglycan binding
+GO:0061980	3	GO:0003676	nucleic acid binding
+GO:0034062	9	GO:0005044	scavenger receptor activity
+GO:0004857	9	GO:0005044	scavenger receptor activity
+GO:0003723	3	GO:0003676	nucleic acid binding
+GO:0033764	9	GO:0005044	scavenger receptor activity
+GO:0009975	10	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0003968	9	GO:0005044	scavenger receptor activity
+GO:0004190	10	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0008417	9	GO:0005044	scavenger receptor activity
+GO:0004383	9	GO:0005044	scavenger receptor activity
+GO:0061791	10	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0000014	10	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0004523	10	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0003887	9	GO:0005044	scavenger receptor activity
+GO:0004519	10	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0016842	9	GO:0005044	scavenger receptor activity
+GO:0003676	3	GO:0003676	nucleic acid binding
+GO:0016849	9	GO:0005044	scavenger receptor activity
+GO:1905573	1	GO:0035594	ganglioside binding
+GO:1905574	1	GO:0035594	ganglioside binding
+GO:1905575	1	GO:0035594	ganglioside binding
+GO:1905576	1	GO:0035594	ganglioside binding
+GO:1905577	1	GO:0035594	ganglioside binding
+GO:0048029	4	GO:0005539	glycosaminoglycan binding
+GO:0048018	2	GO:0019838	growth factor binding
+GO:1990760	5	GO:0015276	ligand-gated ion channel activity
+GO:0071949	4	GO:0005539	glycosaminoglycan binding
+GO:0005518	4	GO:0005539	glycosaminoglycan binding
+GO:0008191	9	GO:0005044	scavenger receptor activity
+GO:0004549	10	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0004197	10	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0005534	4	GO:0005539	glycosaminoglycan binding
+GO:0005537	4	GO:0005539	glycosaminoglycan binding
+GO:0016709	9	GO:0005044	scavenger receptor activity
+GO:0015149	6	GO:0046943	carboxylic acid transmembrane transporter activity
+GO:0009036	10	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0015666	10	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0005034	7	GO:0004888	transmembrane signaling receptor activity
+GO:0000030	9	GO:0005044	scavenger receptor activity
+GO:0004712	8	GO:0004674	protein serine/threonine kinase activity
+GO:0055077	5	GO:0015276	ligand-gated ion channel activity
+GO:0039660	9	GO:0005044	scavenger receptor activity
+GO:0016892	10	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0016894	10	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0005178	2	GO:0019838	growth factor binding
+GO:0004175	10	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0097001	1	GO:0035594	ganglioside binding
+GO:0019862	4	GO:0005539	glycosaminoglycan binding
+GO:0004693	8	GO:0004674	protein serine/threonine kinase activity
+GO:0008353	8	GO:0004674	protein serine/threonine kinase activity
+GO:0097110	2	GO:0019838	growth factor binding
+GO:0004708	8	GO:0004674	protein serine/threonine kinase activity
+GO:0035613	3	GO:0003676	nucleic acid binding
+GO:0046625	4	GO:0005539	glycosaminoglycan binding
+GO:0030882	4	GO:0005539	glycosaminoglycan binding
+GO:0004674	8	GO:0004674	protein serine/threonine kinase activity
+GO:1904855	4	GO:0005539	glycosaminoglycan binding
+GO:0004613	9	GO:0005044	scavenger receptor activity
+GO:0015278	5	GO:0015276	ligand-gated ion channel activity
+GO:0009881	7	GO:0004888	transmembrane signaling receptor activity
+GO:0003823	2	GO:0019838	growth factor binding
+GO:0034987	2	GO:0019838	growth factor binding
+GO:0042802	2	GO:0019838	growth factor binding
+GO:0097604	5	GO:0015276	ligand-gated ion channel activity
+GO:0004497	9	GO:0005044	scavenger receptor activity
+GO:0070628	4	GO:0005539	glycosaminoglycan binding
+GO:0000287	4	GO:0005539	glycosaminoglycan binding
+GO:0070330	9	GO:0005044	scavenger receptor activity
+GO:0035594	1	GO:0035594	ganglioside binding
+GO:0004222	10	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0004984	7	GO:0004888	transmembrane signaling receptor activity
+GO:0000213	10	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0043208	1	GO:0035594	ganglioside binding
+GO:0050840	2	GO:0019838	growth factor binding
+GO:0097472	8	GO:0004674	protein serine/threonine kinase activity
+GO:0004594	8	GO:0004674	protein serine/threonine kinase activity
+GO:0106310	8	GO:0004674	protein serine/threonine kinase activity
+GO:0140297	2	GO:0019838	growth factor binding
+GO:0008375	9	GO:0005044	scavenger receptor activity
+GO:0004896	7	GO:0004888	transmembrane signaling receptor activity
+GO:0042410	9	GO:0005044	scavenger receptor activity
+GO:0005506	4	GO:0005539	glycosaminoglycan binding
+GO:0015297	6	GO:0046943	carboxylic acid transmembrane transporter activity
+GO:0031625	2	GO:0019838	growth factor binding
+GO:0000182	3	GO:0003676	nucleic acid binding
+GO:0005031	7	GO:0004888	transmembrane signaling receptor activity
+GO:0044389	2	GO:0019838	growth factor binding
+GO:0051787	2	GO:0019838	growth factor binding
+GO:0032931	9	GO:0005044	scavenger receptor activity
+GO:0020037	3	GO:0003676	nucleic acid binding
+GO:0003924	10	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0019864	4	GO:0005539	glycosaminoglycan binding
+GO:0004714	8	GO:0004674	protein serine/threonine kinase activity
+GO:0042910	6	GO:0046943	carboxylic acid transmembrane transporter activity
+GO:0003678	10	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0120016	9	GO:0005044	scavenger receptor activity
+GO:0120017	9	GO:0005044	scavenger receptor activity
+GO:0004687	8	GO:0004674	protein serine/threonine kinase activity
+GO:0004962	7	GO:0004888	transmembrane signaling receptor activity
+GO:0062105	9	GO:0005044	scavenger receptor activity
+GO:0034185	2	GO:0019838	growth factor binding
+GO:0051015	2	GO:0019838	growth factor binding
+GO:0003785	2	GO:0019838	growth factor binding
+GO:0003779	2	GO:0019838	growth factor binding
+GO:0031543	9	GO:0005044	scavenger receptor activity
+GO:0031545	9	GO:0005044	scavenger receptor activity
+GO:1902388	9	GO:0005044	scavenger receptor activity
+GO:0015276	5	GO:0015276	ligand-gated ion channel activity
+GO:0097603	5	GO:0015276	ligand-gated ion channel activity
+GO:0022848	5	GO:0015276	ligand-gated ion channel activity
+GO:0008525	9	GO:0005044	scavenger receptor activity
+GO:0099094	5	GO:0015276	ligand-gated ion channel activity
+GO:0022834	5	GO:0015276	ligand-gated ion channel activity
+GO:0004029	9	GO:0005044	scavenger receptor activity
+GO:0048306	2	GO:0019838	growth factor binding
+GO:0004806	10	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0003829	9	GO:0005044	scavenger receptor activity
+GO:0140344	9	GO:0005044	scavenger receptor activity
+GO:1904121	9	GO:0005044	scavenger receptor activity
+GO:0016641	9	GO:0005044	scavenger receptor activity
+GO:0019855	9	GO:0005044	scavenger receptor activity
+GO:0017064	10	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0017022	2	GO:0019838	growth factor binding
+GO:0030594	7	GO:0004888	transmembrane signaling receptor activity
+GO:0017018	10	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0005272	5	GO:0015276	ligand-gated ion channel activity
+GO:0005230	5	GO:0015276	ligand-gated ion channel activity
+GO:0005524	4	GO:0005539	glycosaminoglycan binding
+GO:0008179	2	GO:0019838	growth factor binding
+GO:0036402	10	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0005200	9	GO:0005044	scavenger receptor activity
+GO:0038085	2	GO:0019838	growth factor binding
+GO:0106050	9	GO:0005044	scavenger receptor activity
+GO:0005546	4	GO:0005539	glycosaminoglycan binding
+GO:0047710	10	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0005342	6	GO:0046943	carboxylic acid transmembrane transporter activity
+GO:0005343	6	GO:0046943	carboxylic acid transmembrane transporter activity
+GO:0015280	5	GO:0015276	ligand-gated ion channel activity
+GO:0034452	2	GO:0019838	growth factor binding
+GO:0015370	6	GO:0046943	carboxylic acid transmembrane transporter activity
+GO:0005179	2	GO:0019838	growth factor binding
+GO:0046943	6	GO:0046943	carboxylic acid transmembrane transporter activity
+GO:0016893	10	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0015081	6	GO:0046943	carboxylic acid transmembrane transporter activity
+GO:0042162	3	GO:0003676	nucleic acid binding
+GO:0008028	6	GO:0046943	carboxylic acid transmembrane transporter activity
+GO:0047631	10	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0015171	6	GO:0046943	carboxylic acid transmembrane transporter activity
+GO:0015142	6	GO:0046943	carboxylic acid transmembrane transporter activity
+GO:0004402	9	GO:0005044	scavenger receptor activity
+GO:0015137	6	GO:0046943	carboxylic acid transmembrane transporter activity
+GO:0005416	6	GO:0046943	carboxylic acid transmembrane transporter activity
+GO:0008138	10	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0005523	2	GO:0019838	growth factor binding
+GO:0004198	10	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0005283	6	GO:0046943	carboxylic acid transmembrane transporter activity
+GO:0016783	9	GO:0005044	scavenger receptor activity
+GO:0099604	5	GO:0015276	ligand-gated ion channel activity
+GO:0005509	4	GO:0005539	glycosaminoglycan binding
+GO:0140326	9	GO:0005044	scavenger receptor activity

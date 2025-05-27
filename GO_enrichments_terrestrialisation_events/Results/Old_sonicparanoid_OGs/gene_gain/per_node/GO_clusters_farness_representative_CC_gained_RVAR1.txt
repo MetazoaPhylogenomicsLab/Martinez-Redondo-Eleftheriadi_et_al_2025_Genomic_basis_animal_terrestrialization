@@ -1,0 +1,15 @@
+GO:0016324	1	GO:0045177	apical part of cell
+GO:0030054	1	GO:0045177	apical part of cell
+GO:0055120	2	GO:0048471	perinuclear region of cytoplasm
+GO:0044295	1	GO:0045177	apical part of cell
+GO:0005604	1	GO:0045177	apical part of cell
+GO:0070090	2	GO:0048471	perinuclear region of cytoplasm
+GO:0031430	2	GO:0048471	perinuclear region of cytoplasm
+GO:0016605	2	GO:0048471	perinuclear region of cytoplasm
+GO:0048471	2	GO:0048471	perinuclear region of cytoplasm
+GO:0055037	2	GO:0048471	perinuclear region of cytoplasm
+GO:0005911	1	GO:0045177	apical part of cell
+GO:0005777	2	GO:0048471	perinuclear region of cytoplasm
+GO:0070161	1	GO:0045177	apical part of cell
+GO:0045177	1	GO:0045177	apical part of cell
+GO:0016323	1	GO:0045177	apical part of cell

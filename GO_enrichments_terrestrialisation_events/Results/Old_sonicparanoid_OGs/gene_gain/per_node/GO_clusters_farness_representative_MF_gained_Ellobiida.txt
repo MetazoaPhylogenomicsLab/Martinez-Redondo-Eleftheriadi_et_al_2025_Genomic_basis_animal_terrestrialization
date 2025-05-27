@@ -1,0 +1,25 @@
+GO:0005021	1	GO:0039660	structural constituent of virion
+GO:0018645	1	GO:0039660	structural constituent of virion
+GO:0032399	3	GO:0005515	protein binding
+GO:0038085	3	GO:0005515	protein binding
+GO:0048306	3	GO:0005515	protein binding
+GO:0003730	2	GO:0008494	translation activator activity
+GO:0042162	2	GO:0008494	translation activator activity
+GO:0043199	3	GO:0005515	protein binding
+GO:0042169	3	GO:0005515	protein binding
+GO:0015189	1	GO:0039660	structural constituent of virion
+GO:0120160	3	GO:0005515	protein binding
+GO:0004579	1	GO:0039660	structural constituent of virion
+GO:0004517	1	GO:0039660	structural constituent of virion
+GO:0008009	3	GO:0005515	protein binding
+GO:0008494	2	GO:0008494	translation activator activity
+GO:0039660	1	GO:0039660	structural constituent of virion
+GO:0016493	1	GO:0039660	structural constituent of virion
+GO:0004865	1	GO:0039660	structural constituent of virion
+GO:0005515	3	GO:0005515	protein binding
+GO:0031777	3	GO:0005515	protein binding
+GO:0001618	3	GO:0005515	protein binding
+GO:0019871	1	GO:0039660	structural constituent of virion
+GO:0004962	1	GO:0039660	structural constituent of virion
+GO:0005068	3	GO:0005515	protein binding
+GO:0030354	3	GO:0005515	protein binding

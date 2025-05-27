@@ -1,0 +1,485 @@
+GO:0004814	23	GO:0016885	ligase activity, forming carbon-carbon bonds
+GO:0001846	7	GO:0019955	cytokine binding
+GO:0004842	22	GO:0016765	transferase activity, transferring alkyl or aryl (other than methyl) groups
+GO:0035613	5	GO:1901265	nucleoside phosphate binding
+GO:0035615	6	GO:0001092	TFIIA-class transcription factor complex binding
+GO:0005462	12	GO:0022857	transmembrane transporter activity
+GO:0000250	23	GO:0016885	ligase activity, forming carbon-carbon bonds
+GO:0010465	10	GO:0004888	transmembrane signaling receptor activity
+GO:0005458	12	GO:0022857	transmembrane transporter activity
+GO:0000287	6	GO:0001092	TFIIA-class transcription factor complex binding
+GO:0008456	17	GO:0016811	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides
+GO:0016936	7	GO:0019955	cytokine binding
+GO:0008457	22	GO:0016765	transferase activity, transferring alkyl or aryl (other than methyl) groups
+GO:0016937	4	GO:0003995	acyl-CoA dehydrogenase activity
+GO:0047326	20	GO:0004496	mevalonate kinase activity
+GO:0102121	17	GO:0016811	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides
+GO:0097603	11	GO:0005262	calcium channel activity
+GO:0097604	11	GO:0005262	calcium channel activity
+GO:0016209	8	GO:0016209	antioxidant activity
+GO:0000981	14	GO:0003700	DNA-binding transcription factor activity
+GO:0047316	22	GO:0016765	transferase activity, transferring alkyl or aryl (other than methyl) groups
+GO:0043891	3	GO:0016624	oxidoreductase activity, acting on the aldehyde or oxo group of donors, disulfide as acceptor
+GO:0000987	5	GO:1901265	nucleoside phosphate binding
+GO:0042314	5	GO:1901265	nucleoside phosphate binding
+GO:0008422	17	GO:0016811	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides
+GO:0000977	5	GO:1901265	nucleoside phosphate binding
+GO:0000978	5	GO:1901265	nucleoside phosphate binding
+GO:0001591	9	GO:0008020	G protein-coupled photoreceptor activity
+GO:0016907	9	GO:0008020	G protein-coupled photoreceptor activity
+GO:0016793	16	GO:0004518	nuclease activity
+GO:0008440	20	GO:0004496	mevalonate kinase activity
+GO:0005432	11	GO:0005262	calcium channel activity
+GO:0008448	17	GO:0016811	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides
+GO:0030267	2	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0047635	22	GO:0016765	transferase activity, transferring alkyl or aryl (other than methyl) groups
+GO:0052725	20	GO:0004496	mevalonate kinase activity
+GO:0004560	17	GO:0016811	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides
+GO:0030280	15	GO:0030280	structural constituent of skin epidermis
+GO:0042302	15	GO:0030280	structural constituent of skin epidermis
+GO:0004568	17	GO:0016811	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides
+GO:0004556	17	GO:0016811	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides
+GO:0032217	12	GO:0022857	transmembrane transporter activity
+GO:0004557	17	GO:0016811	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides
+GO:0051393	6	GO:0001092	TFIIA-class transcription factor complex binding
+GO:0052740	16	GO:0004518	nuclease activity
+GO:1901567	7	GO:0019955	cytokine binding
+GO:0030955	6	GO:0001092	TFIIA-class transcription factor complex binding
+GO:0030957	6	GO:0001092	TFIIA-class transcription factor complex binding
+GO:0043811	22	GO:0016765	transferase activity, transferring alkyl or aryl (other than methyl) groups
+GO:0042605	6	GO:0001092	TFIIA-class transcription factor complex binding
+GO:0052739	16	GO:0004518	nuclease activity
+GO:0000062	5	GO:1901265	nucleoside phosphate binding
+GO:0004523	16	GO:0004518	nuclease activity
+GO:0016716	4	GO:0003995	acyl-CoA dehydrogenase activity
+GO:0030248	6	GO:0001092	TFIIA-class transcription factor complex binding
+GO:0046982	7	GO:0019955	cytokine binding
+GO:0017151	7	GO:0019955	cytokine binding
+GO:0047464	23	GO:0016885	ligase activity, forming carbon-carbon bonds
+GO:0004519	16	GO:0004518	nuclease activity
+GO:0005164	6	GO:0001092	TFIIA-class transcription factor complex binding
+GO:0046922	22	GO:0016765	transferase activity, transferring alkyl or aryl (other than methyl) groups
+GO:0090432	18	GO:0016887	ATPase
+GO:0050700	7	GO:0019955	cytokine binding
+GO:0005186	7	GO:0019955	cytokine binding
+GO:0008157	6	GO:0001092	TFIIA-class transcription factor complex binding
+GO:0019137	17	GO:0016811	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides
+GO:0046933	11	GO:0005262	calcium channel activity
+GO:0008186	18	GO:0016887	ATPase
+GO:0008188	9	GO:0008020	G protein-coupled photoreceptor activity
+GO:0032051	7	GO:0019955	cytokine binding
+GO:0000033	22	GO:0016765	transferase activity, transferring alkyl or aryl (other than methyl) groups
+GO:0047419	17	GO:0016811	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides
+GO:0005124	7	GO:0019955	cytokine binding
+GO:0004397	24	GO:0016835	carbon-oxygen lyase activity
+GO:0008177	4	GO:0003995	acyl-CoA dehydrogenase activity
+GO:0005112	7	GO:0019955	cytokine binding
+GO:0030060	2	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0005114	6	GO:0001092	TFIIA-class transcription factor complex binding
+GO:0046790	7	GO:0019955	cytokine binding
+GO:0004694	20	GO:0004496	mevalonate kinase activity
+GO:0004697	20	GO:0004496	mevalonate kinase activity
+GO:0004698	20	GO:0004496	mevalonate kinase activity
+GO:0004361	4	GO:0003995	acyl-CoA dehydrogenase activity
+GO:0004362	3	GO:0016624	oxidoreductase activity, acting on the aldehyde or oxo group of donors, disulfide as acceptor
+GO:0004364	22	GO:0016765	transferase activity, transferring alkyl or aryl (other than methyl) groups
+GO:0004365	3	GO:0016624	oxidoreductase activity, acting on the aldehyde or oxo group of donors, disulfide as acceptor
+GO:0015347	12	GO:0022857	transmembrane transporter activity
+GO:0008131	4	GO:0003995	acyl-CoA dehydrogenase activity
+GO:0008135	5	GO:1901265	nucleoside phosphate binding
+GO:0043559	7	GO:0019955	cytokine binding
+GO:0004359	17	GO:0016811	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides
+GO:0004383	24	GO:0016835	carbon-oxygen lyase activity
+GO:0004386	18	GO:0016887	ATPase
+GO:0001653	10	GO:0004888	transmembrane signaling receptor activity
+GO:0042409	21	GO:0008169	C-methyltransferase activity
+GO:0004376	22	GO:0016765	transferase activity, transferring alkyl or aryl (other than methyl) groups
+GO:0032038	6	GO:0001092	TFIIA-class transcription factor complex binding
+GO:0004378	22	GO:0016765	transferase activity, transferring alkyl or aryl (other than methyl) groups
+GO:0004655	24	GO:0016835	carbon-oxygen lyase activity
+GO:0016885	23	GO:0016885	ligase activity, forming carbon-carbon bonds
+GO:0016887	18	GO:0016887	ATPase
+GO:0004326	23	GO:0016885	ligase activity, forming carbon-carbon bonds
+GO:0004687	20	GO:0004496	mevalonate kinase activity
+GO:0102799	17	GO:0016811	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides
+GO:0050815	6	GO:0001092	TFIIA-class transcription factor complex binding
+GO:0080030	16	GO:0004518	nuclease activity
+GO:0004344	2	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0004345	2	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0001618	7	GO:0019955	cytokine binding
+GO:0043532	7	GO:0019955	cytokine binding
+GO:0019955	7	GO:0019955	cytokine binding
+GO:0019956	7	GO:0019955	cytokine binding
+GO:0005262	11	GO:0005262	calcium channel activity
+GO:0140490	15	GO:0030280	structural constituent of skin epidermis
+GO:0003990	16	GO:0004518	nuclease activity
+GO:0003995	4	GO:0003995	acyl-CoA dehydrogenase activity
+GO:0003997	4	GO:0003995	acyl-CoA dehydrogenase activity
+GO:0070330	4	GO:0003995	acyl-CoA dehydrogenase activity
+GO:0031682	7	GO:0019955	cytokine binding
+GO:0005272	11	GO:0005262	calcium channel activity
+GO:0000823	20	GO:0004496	mevalonate kinase activity
+GO:0000824	20	GO:0004496	mevalonate kinase activity
+GO:0015485	5	GO:1901265	nucleoside phosphate binding
+GO:0102035	4	GO:0003995	acyl-CoA dehydrogenase activity
+GO:0008270	6	GO:0001092	TFIIA-class transcription factor complex binding
+GO:0008271	12	GO:0022857	transmembrane transporter activity
+GO:0004496	20	GO:0004496	mevalonate kinase activity
+GO:0005229	11	GO:0005262	calcium channel activity
+GO:0003964	22	GO:0016765	transferase activity, transferring alkyl or aryl (other than methyl) groups
+GO:0031625	6	GO:0001092	TFIIA-class transcription factor complex binding
+GO:0061809	17	GO:0016811	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides
+GO:0051434	6	GO:0001092	TFIIA-class transcription factor complex binding
+GO:0032866	2	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0102732	20	GO:0004496	mevalonate kinase activity
+GO:0005243	11	GO:0005262	calcium channel activity
+GO:0008970	16	GO:0004518	nuclease activity
+GO:0005248	11	GO:0005262	calcium channel activity
+GO:0042132	16	GO:0004518	nuclease activity
+GO:0004450	2	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0003977	22	GO:0016765	transferase activity, transferring alkyl or aryl (other than methyl) groups
+GO:0004453	16	GO:0004518	nuclease activity
+GO:0004459	2	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0055077	11	GO:0005262	calcium channel activity
+GO:0102704	22	GO:0016765	transferase activity, transferring alkyl or aryl (other than methyl) groups
+GO:0035259	6	GO:0001092	TFIIA-class transcription factor complex binding
+GO:0005200	15	GO:0030280	structural constituent of skin epidermis
+GO:0008948	24	GO:0016835	carbon-oxygen lyase activity
+GO:0005201	15	GO:0030280	structural constituent of skin epidermis
+GO:0004471	2	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0004473	2	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0043621	7	GO:0019955	cytokine binding
+GO:0017064	17	GO:0016811	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides
+GO:0004418	22	GO:0016765	transferase activity, transferring alkyl or aryl (other than methyl) groups
+GO:0071949	5	GO:1901265	nucleoside phosphate binding
+GO:0036468	24	GO:0016835	carbon-oxygen lyase activity
+GO:0017076	5	GO:1901265	nucleoside phosphate binding
+GO:0005080	6	GO:0001092	TFIIA-class transcription factor complex binding
+GO:0047256	22	GO:0016765	transferase activity, transferring alkyl or aryl (other than methyl) groups
+GO:1905060	11	GO:0005262	calcium channel activity
+GO:0008083	6	GO:0001092	TFIIA-class transcription factor complex binding
+GO:0017040	17	GO:0016811	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides
+GO:0017041	17	GO:0016811	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides
+GO:0005021	20	GO:0004496	mevalonate kinase activity
+GO:0005025	20	GO:0004496	mevalonate kinase activity
+GO:0042289	6	GO:0001092	TFIIA-class transcription factor complex binding
+GO:0052692	17	GO:0016811	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides
+GO:0008020	9	GO:0008020	G protein-coupled photoreceptor activity
+GO:0036440	22	GO:0016765	transferase activity, transferring alkyl or aryl (other than methyl) groups
+GO:0015187	12	GO:0022857	transmembrane transporter activity
+GO:0004190	17	GO:0016811	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides
+GO:0004198	17	GO:0016811	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides
+GO:0005034	10	GO:0004888	transmembrane signaling receptor activity
+GO:0031433	7	GO:0019955	cytokine binding
+GO:0003774	18	GO:0016887	ATPase
+GO:0031435	6	GO:0001092	TFIIA-class transcription factor complex binding
+GO:0032560	5	GO:1901265	nucleoside phosphate binding
+GO:0015125	12	GO:0022857	transmembrane transporter activity
+GO:0003779	7	GO:0019955	cytokine binding
+GO:0032567	5	GO:1901265	nucleoside phosphate binding
+GO:0042923	6	GO:0001092	TFIIA-class transcription factor complex binding
+GO:0003724	19	GO:0003678	DNA helicase activity
+GO:0032552	5	GO:1901265	nucleoside phosphate binding
+GO:0032554	5	GO:1901265	nucleoside phosphate binding
+GO:0038062	20	GO:0004496	mevalonate kinase activity
+GO:0038064	10	GO:0004888	transmembrane signaling receptor activity
+GO:0036402	18	GO:0016887	ATPase
+GO:0050660	5	GO:1901265	nucleoside phosphate binding
+GO:0015141	12	GO:0022857	transmembrane transporter activity
+GO:0005000	9	GO:0008020	G protein-coupled photoreceptor activity
+GO:0003746	5	GO:1901265	nucleoside phosphate binding
+GO:0015137	12	GO:0022857	transmembrane transporter activity
+GO:0030554	5	GO:1901265	nucleoside phosphate binding
+GO:0038085	7	GO:0019955	cytokine binding
+GO:0008009	6	GO:0001092	TFIIA-class transcription factor complex binding
+GO:0004185	17	GO:0016811	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides
+GO:0052629	16	GO:0004518	nuclease activity
+GO:0016682	4	GO:0003995	acyl-CoA dehydrogenase activity
+GO:0038023	10	GO:0004888	transmembrane signaling receptor activity
+GO:0008705	21	GO:0008169	C-methyltransferase activity
+GO:0015101	12	GO:0022857	transmembrane transporter activity
+GO:0015106	12	GO:0022857	transmembrane transporter activity
+GO:0097718	7	GO:0019955	cytokine binding
+GO:1990760	11	GO:0005262	calcium channel activity
+GO:0030527	15	GO:0030280	structural constituent of skin epidermis
+GO:0052630	22	GO:0016765	transferase activity, transferring alkyl or aryl (other than methyl) groups
+GO:0003700	14	GO:0003700	DNA-binding transcription factor activity
+GO:0050610	4	GO:0003995	acyl-CoA dehydrogenase activity
+GO:0004115	16	GO:0004518	nuclease activity
+GO:0050613	4	GO:0003995	acyl-CoA dehydrogenase activity
+GO:0016628	4	GO:0003995	acyl-CoA dehydrogenase activity
+GO:0048406	6	GO:0001092	TFIIA-class transcription factor complex binding
+GO:0033040	10	GO:0004888	transmembrane signaling receptor activity
+GO:0016618	2	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0033721	3	GO:0016624	oxidoreductase activity, acting on the aldehyde or oxo group of donors, disulfide as acceptor
+GO:0004136	20	GO:0004496	mevalonate kinase activity
+GO:0015295	11	GO:0005262	calcium channel activity
+GO:1902387	6	GO:0001092	TFIIA-class transcription factor complex binding
+GO:0051287	5	GO:1901265	nucleoside phosphate binding
+GO:0004108	22	GO:0016765	transferase activity, transferring alkyl or aryl (other than methyl) groups
+GO:0042011	7	GO:0019955	cytokine binding
+GO:0042012	9	GO:0008020	G protein-coupled photoreceptor activity
+GO:0015250	11	GO:0005262	calcium channel activity
+GO:0003853	4	GO:0003995	acyl-CoA dehydrogenase activity
+GO:0015280	11	GO:0005262	calcium channel activity
+GO:0008889	16	GO:0004518	nuclease activity
+GO:0003883	23	GO:0016885	ligase activity, forming carbon-carbon bonds
+GO:0003884	4	GO:0003995	acyl-CoA dehydrogenase activity
+GO:0003887	22	GO:0016765	transferase activity, transferring alkyl or aryl (other than methyl) groups
+GO:0003875	17	GO:0016811	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides
+GO:0045174	3	GO:0016624	oxidoreductase activity, acting on the aldehyde or oxo group of donors, disulfide as acceptor
+GO:0004993	9	GO:0008020	G protein-coupled photoreceptor activity
+GO:0050480	17	GO:0016811	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides
+GO:0008832	16	GO:0004518	nuclease activity
+GO:0003842	4	GO:0003995	acyl-CoA dehydrogenase activity
+GO:0015928	17	GO:0016811	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides
+GO:0030379	10	GO:0004888	transmembrane signaling receptor activity
+GO:0001968	7	GO:0019955	cytokine binding
+GO:0004962	9	GO:0008020	G protein-coupled photoreceptor activity
+GO:0004952	9	GO:0008020	G protein-coupled photoreceptor activity
+GO:0070991	4	GO:0003995	acyl-CoA dehydrogenase activity
+GO:0004983	9	GO:0008020	G protein-coupled photoreceptor activity
+GO:0050431	7	GO:0019955	cytokine binding
+GO:0004989	9	GO:0008020	G protein-coupled photoreceptor activity
+GO:0030627	5	GO:1901265	nucleoside phosphate binding
+GO:0015098	12	GO:0022857	transmembrane transporter activity
+GO:0033883	16	GO:0004518	nuclease activity
+GO:0051082	7	GO:0019955	cytokine binding
+GO:0015068	22	GO:0016765	transferase activity, transferring alkyl or aryl (other than methyl) groups
+GO:0004945	9	GO:0008020	G protein-coupled photoreceptor activity
+GO:0051787	7	GO:0019955	cytokine binding
+GO:0051011	6	GO:0001092	TFIIA-class transcription factor complex binding
+GO:0004930	10	GO:0004888	transmembrane signaling receptor activity
+GO:0016403	17	GO:0016811	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides
+GO:0051015	7	GO:0019955	cytokine binding
+GO:0001092	6	GO:0001092	TFIIA-class transcription factor complex binding
+GO:0098973	15	GO:0030280	structural constituent of skin epidermis
+GO:0070976	7	GO:0019955	cytokine binding
+GO:0004096	4	GO:0003995	acyl-CoA dehydrogenase activity
+GO:0030492	7	GO:0019955	cytokine binding
+GO:0015026	10	GO:0004888	transmembrane signaling receptor activity
+GO:0004791	3	GO:0016624	oxidoreductase activity, acting on the aldehyde or oxo group of donors, disulfide as acceptor
+GO:0005524	5	GO:1901265	nucleoside phosphate binding
+GO:0005525	5	GO:1901265	nucleoside phosphate binding
+GO:0004797	20	GO:0004496	mevalonate kinase activity
+GO:0008521	12	GO:0022857	transmembrane transporter activity
+GO:0005516	7	GO:0019955	cytokine binding
+GO:0008527	10	GO:0004888	transmembrane signaling receptor activity
+GO:0008528	9	GO:0008020	G protein-coupled photoreceptor activity
+GO:0005544	6	GO:0001092	TFIIA-class transcription factor complex binding
+GO:0099580	12	GO:0022857	transmembrane transporter activity
+GO:0015038	3	GO:0016624	oxidoreductase activity, acting on the aldehyde or oxo group of donors, disulfide as acceptor
+GO:0004766	22	GO:0016765	transferase activity, transferring alkyl or aryl (other than methyl) groups
+GO:0033592	5	GO:1901265	nucleoside phosphate binding
+GO:0001758	3	GO:0016624	oxidoreductase activity, acting on the aldehyde or oxo group of donors, disulfide as acceptor
+GO:0004021	22	GO:0016765	transferase activity, transferring alkyl or aryl (other than methyl) groups
+GO:0047804	24	GO:0016835	carbon-oxygen lyase activity
+GO:0004028	3	GO:0016624	oxidoreductase activity, acting on the aldehyde or oxo group of donors, disulfide as acceptor
+GO:0004029	3	GO:0016624	oxidoreductase activity, acting on the aldehyde or oxo group of donors, disulfide as acceptor
+GO:0004013	17	GO:0016811	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides
+GO:0005509	6	GO:0001092	TFIIA-class transcription factor complex binding
+GO:0090556	18	GO:0016887	ATPase
+GO:0004032	2	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0004035	16	GO:0004518	nuclease activity
+GO:0004711	20	GO:0004496	mevalonate kinase activity
+GO:0050135	17	GO:0016811	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides
+GO:0004712	20	GO:0004496	mevalonate kinase activity
+GO:0004714	20	GO:0004496	mevalonate kinase activity
+GO:0004001	20	GO:0004496	mevalonate kinase activity
+GO:0031071	22	GO:0016765	transferase activity, transferring alkyl or aryl (other than methyl) groups
+GO:0000182	5	GO:1901265	nucleoside phosphate binding
+GO:0090541	7	GO:0019955	cytokine binding
+GO:0120227	5	GO:1901265	nucleoside phosphate binding
+GO:0000146	18	GO:0016887	ATPase
+GO:0034713	6	GO:0001092	TFIIA-class transcription factor complex binding
+GO:0005337	12	GO:0022857	transmembrane transporter activity
+GO:0008349	20	GO:0004496	mevalonate kinase activity
+GO:0034736	22	GO:0016765	transferase activity, transferring alkyl or aryl (other than methyl) groups
+GO:2001070	6	GO:0001092	TFIIA-class transcription factor complex binding
+GO:0032129	17	GO:0016811	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides
+GO:0030170	5	GO:1901265	nucleoside phosphate binding
+GO:0004820	23	GO:0016885	ligase activity, forming carbon-carbon bonds
+GO:0016212	22	GO:0016765	transferase activity, transferring alkyl or aryl (other than methyl) groups
+GO:0004826	23	GO:0016885	ligase activity, forming carbon-carbon bonds
+GO:0022848	11	GO:0005262	calcium channel activity
+GO:0034485	16	GO:0004518	nuclease activity
+GO:0003993	16	GO:0004518	nuclease activity
+GO:0030276	7	GO:0019955	cytokine binding
+GO:0098531	14	GO:0003700	DNA-binding transcription factor activity
+GO:0043176	7	GO:0019955	cytokine binding
+GO:0070006	17	GO:0016811	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides
+GO:0005031	10	GO:0004888	transmembrane signaling receptor activity
+GO:0005035	10	GO:0004888	transmembrane signaling receptor activity
+GO:0070740	23	GO:0016885	ligase activity, forming carbon-carbon bonds
+GO:0019905	7	GO:0019955	cytokine binding
+GO:0015562	12	GO:0022857	transmembrane transporter activity
+GO:0070739	23	GO:0016885	ligase activity, forming carbon-carbon bonds
+GO:0003677	5	GO:1901265	nucleoside phosphate binding
+GO:0003678	19	GO:0003678	DNA helicase activity
+GO:0005483	15	GO:0030280	structural constituent of skin epidermis
+GO:0004445	16	GO:0004518	nuclease activity
+GO:0016312	16	GO:0004518	nuclease activity
+GO:0001227	14	GO:0003700	DNA-binding transcription factor activity
+GO:0001228	14	GO:0003700	DNA-binding transcription factor activity
+GO:0004439	16	GO:0004518	nuclease activity
+GO:0106018	16	GO:0004518	nuclease activity
+GO:0016675	1	GO:0016491	oxidoreductase activity
+GO:0016624	3	GO:0016624	oxidoreductase activity, acting on the aldehyde or oxo group of donors, disulfide as acceptor
+GO:0004888	10	GO:0004888	transmembrane signaling receptor activity
+GO:0008227	9	GO:0008020	G protein-coupled photoreceptor activity
+GO:0042577	16	GO:0004518	nuclease activity
+GO:0004879	14	GO:0003700	DNA-binding transcription factor activity
+GO:0045028	9	GO:0008020	G protein-coupled photoreceptor activity
+GO:0005160	6	GO:0001092	TFIIA-class transcription factor complex binding
+GO:0050997	7	GO:0019955	cytokine binding
+GO:0043208	6	GO:0001092	TFIIA-class transcription factor complex binding
+GO:0042277	7	GO:0019955	cytokine binding
+GO:0052658	16	GO:0004518	nuclease activity
+GO:0052659	16	GO:0004518	nuclease activity
+GO:0004129	11	GO:0005262	calcium channel activity
+GO:0031409	7	GO:0019955	cytokine binding
+GO:0001786	6	GO:0001092	TFIIA-class transcription factor complex binding
+GO:0008331	11	GO:0005262	calcium channel activity
+GO:0051378	5	GO:1901265	nucleoside phosphate binding
+GO:0008677	2	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0034061	22	GO:0016765	transferase activity, transferring alkyl or aryl (other than methyl) groups
+GO:0030594	10	GO:0004888	transmembrane signaling receptor activity
+GO:0042781	16	GO:0004518	nuclease activity
+GO:0016491	1	GO:0016491	oxidoreductase activity
+GO:0016493	9	GO:0008020	G protein-coupled photoreceptor activity
+GO:0015616	19	GO:0003678	DNA helicase activity
+GO:0008932	22	GO:0016765	transferase activity, transferring alkyl or aryl (other than methyl) groups
+GO:0051537	6	GO:0001092	TFIIA-class transcription factor complex binding
+GO:0051539	6	GO:0001092	TFIIA-class transcription factor complex binding
+GO:0033294	5	GO:1901265	nucleoside phosphate binding
+GO:0015297	12	GO:0022857	transmembrane transporter activity
+GO:0016901	2	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0008483	22	GO:0016765	transferase activity, transferring alkyl or aryl (other than methyl) groups
+GO:0042888	11	GO:0005262	calcium channel activity
+GO:0005536	6	GO:0001092	TFIIA-class transcription factor complex binding
+GO:0005539	7	GO:0019955	cytokine binding
+GO:0015288	11	GO:0005262	calcium channel activity
+GO:0042970	12	GO:0022857	transmembrane transporter activity
+GO:0042834	6	GO:0001092	TFIIA-class transcription factor complex binding
+GO:0016435	21	GO:0008169	C-methyltransferase activity
+GO:0015278	11	GO:0005262	calcium channel activity
+GO:0042910	12	GO:0022857	transmembrane transporter activity
+GO:0005042	10	GO:0004888	transmembrane signaling receptor activity
+GO:0005044	15	GO:0030280	structural constituent of skin epidermis
+GO:0003909	23	GO:0016885	ligase activity, forming carbon-carbon bonds
+GO:0000166	5	GO:1901265	nucleoside phosphate binding
+GO:0070492	7	GO:0019955	cytokine binding
+GO:0000155	20	GO:0004496	mevalonate kinase activity
+GO:0008198	6	GO:0001092	TFIIA-class transcription factor complex binding
+GO:0016500	10	GO:0004888	transmembrane signaling receptor activity
+GO:0005007	20	GO:0004496	mevalonate kinase activity
+GO:0000034	17	GO:0016811	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides
+GO:0000179	21	GO:0008169	C-methyltransferase activity
+GO:0042562	7	GO:0019955	cytokine binding
+GO:0008169	21	GO:0008169	C-methyltransferase activity
+GO:0016151	6	GO:0001092	TFIIA-class transcription factor complex binding
+GO:0022857	12	GO:0022857	transmembrane transporter activity
+GO:0050897	6	GO:0001092	TFIIA-class transcription factor complex binding
+GO:0050380	18	GO:0016887	ATPase
+GO:0009381	16	GO:0004518	nuclease activity
+GO:0022884	12	GO:0022857	transmembrane transporter activity
+GO:0009378	19	GO:0003678	DNA helicase activity
+GO:0016661	1	GO:0016491	oxidoreductase activity
+GO:0022829	11	GO:0005262	calcium channel activity
+GO:0070569	22	GO:0016765	transferase activity, transferring alkyl or aryl (other than methyl) groups
+GO:0016652	4	GO:0003995	acyl-CoA dehydrogenase activity
+GO:0008115	4	GO:0003995	acyl-CoA dehydrogenase activity
+GO:0016655	4	GO:0003995	acyl-CoA dehydrogenase activity
+GO:0009881	10	GO:0004888	transmembrane signaling receptor activity
+GO:0008689	21	GO:0008169	C-methyltransferase activity
+GO:0016620	3	GO:0016624	oxidoreductase activity, acting on the aldehyde or oxo group of donors, disulfide as acceptor
+GO:0047661	23	GO:0016885	ligase activity, forming carbon-carbon bonds
+GO:0016627	1	GO:0016491	oxidoreductase activity
+GO:0004312	22	GO:0016765	transferase activity, transferring alkyl or aryl (other than methyl) groups
+GO:0016616	2	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0004340	20	GO:0004496	mevalonate kinase activity
+GO:0070403	5	GO:1901265	nucleoside phosphate binding
+GO:0016646	4	GO:0003995	acyl-CoA dehydrogenase activity
+GO:0004815	23	GO:0016885	ligase activity, forming carbon-carbon bonds
+GO:0030983	5	GO:1901265	nucleoside phosphate binding
+GO:0030975	5	GO:1901265	nucleoside phosphate binding
+GO:0030976	5	GO:1901265	nucleoside phosphate binding
+GO:0004493	23	GO:0016885	ligase activity, forming carbon-carbon bonds
+GO:0070040	21	GO:0008169	C-methyltransferase activity
+GO:0004803	24	GO:0016835	carbon-oxygen lyase activity
+GO:0070043	21	GO:0008169	C-methyltransferase activity
+GO:0050560	23	GO:0016885	ligase activity, forming carbon-carbon bonds
+GO:0042626	18	GO:0016887	ATPase
+GO:0140359	18	GO:0016887	ATPase
+GO:0015344	12	GO:0022857	transmembrane transporter activity
+GO:0001406	12	GO:0022857	transmembrane transporter activity
+GO:0070008	17	GO:0016811	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides
+GO:0060089	8	GO:0016209	antioxidant activity
+GO:0008236	17	GO:0016811	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides
+GO:0052621	22	GO:0016765	transferase activity, transferring alkyl or aryl (other than methyl) groups
+GO:1901682	12	GO:0022857	transmembrane transporter activity
+GO:0071972	17	GO:0016811	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides
+GO:0036361	23	GO:0016885	ligase activity, forming carbon-carbon bonds
+GO:0043565	5	GO:1901265	nucleoside phosphate binding
+GO:0017154	10	GO:0004888	transmembrane signaling receptor activity
+GO:0009055	1	GO:0016491	oxidoreductase activity
+GO:0071916	12	GO:0022857	transmembrane transporter activity
+GO:0004518	16	GO:0004518	nuclease activity
+GO:0102208	21	GO:0008169	C-methyltransferase activity
+GO:0016765	22	GO:0016765	transferase activity, transferring alkyl or aryl (other than methyl) groups
+GO:0015450	12	GO:0022857	transmembrane transporter activity
+GO:0016780	22	GO:0016765	transferase activity, transferring alkyl or aryl (other than methyl) groups
+GO:1904680	12	GO:0022857	transmembrane transporter activity
+GO:0016783	22	GO:0016765	transferase activity, transferring alkyl or aryl (other than methyl) groups
+GO:0043546	5	GO:1901265	nucleoside phosphate binding
+GO:1990837	5	GO:1901265	nucleoside phosphate binding
+GO:0004022	2	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0015423	12	GO:0022857	transmembrane transporter activity
+GO:0015565	12	GO:0022857	transmembrane transporter activity
+GO:1901265	5	GO:1901265	nucleoside phosphate binding
+GO:0015412	12	GO:0022857	transmembrane transporter activity
+GO:0004016	24	GO:0016835	carbon-oxygen lyase activity
+GO:0008718	4	GO:0003995	acyl-CoA dehydrogenase activity
+GO:0015419	12	GO:0022857	transmembrane transporter activity
+GO:0009002	17	GO:0016811	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides
+GO:0016744	22	GO:0016765	transferase activity, transferring alkyl or aryl (other than methyl) groups
+GO:0009007	21	GO:0008169	C-methyltransferase activity
+GO:0002935	21	GO:0008169	C-methyltransferase activity
+GO:0043167	7	GO:0019955	cytokine binding
+GO:0047728	2	GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+GO:0015099	11	GO:0005262	calcium channel activity
+GO:0016701	1	GO:0016491	oxidoreductase activity
+GO:0001601	9	GO:0008020	G protein-coupled photoreceptor activity
+GO:0016702	4	GO:0003995	acyl-CoA dehydrogenase activity
+GO:0001602	9	GO:0008020	G protein-coupled photoreceptor activity
+GO:0004673	20	GO:0004496	mevalonate kinase activity
+GO:0051920	4	GO:0003995	acyl-CoA dehydrogenase activity
+GO:0140097	1	GO:0016491	oxidoreductase activity
+GO:0019788	22	GO:0016765	transferase activity, transferring alkyl or aryl (other than methyl) groups
+GO:0016861	23	GO:0016885	ligase activity, forming carbon-carbon bonds
+GO:0015169	12	GO:0022857	transmembrane transporter activity
+GO:0016853	1	GO:0016491	oxidoreductase activity
+GO:0016854	23	GO:0016885	ligase activity, forming carbon-carbon bonds
+GO:0016855	23	GO:0016885	ligase activity, forming carbon-carbon bonds
+GO:0001216	14	GO:0003700	DNA-binding transcription factor activity
+GO:0001217	14	GO:0003700	DNA-binding transcription factor activity
+GO:0016881	23	GO:0016885	ligase activity, forming carbon-carbon bonds
+GO:0004601	4	GO:0003995	acyl-CoA dehydrogenase activity
+GO:0090482	12	GO:0022857	transmembrane transporter activity
+GO:0061542	21	GO:0008169	C-methyltransferase activity
+GO:0051907	24	GO:0016835	carbon-oxygen lyase activity
+GO:0000976	5	GO:1901265	nucleoside phosphate binding
+GO:0016823	17	GO:0016811	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides
+GO:0016829	1	GO:0016491	oxidoreductase activity
+GO:0016811	17	GO:0016811	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides
+GO:0015112	12	GO:0022857	transmembrane transporter activity
+GO:0004252	17	GO:0016811	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides
+GO:0036094	7	GO:0019955	cytokine binding
+GO:0015658	12	GO:0022857	transmembrane transporter activity
+GO:0016840	24	GO:0016835	carbon-oxygen lyase activity
+GO:0010181	5	GO:1901265	nucleoside phosphate binding
+GO:0016987	14	GO:0003700	DNA-binding transcription factor activity
+GO:0016831	24	GO:0016835	carbon-oxygen lyase activity
+GO:0016833	24	GO:0016835	carbon-oxygen lyase activity
+GO:0016835	24	GO:0016835	carbon-oxygen lyase activity
+GO:0016836	24	GO:0016835	carbon-oxygen lyase activity

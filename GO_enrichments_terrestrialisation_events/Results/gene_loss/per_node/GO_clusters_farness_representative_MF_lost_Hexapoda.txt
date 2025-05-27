@@ -1,0 +1,99 @@
+GO:0016779	9	GO:0016779	nucleotidyltransferase activity
+GO:0004059	9	GO:0016779	nucleotidyltransferase activity
+GO:0008514	6	GO:0046943	carboxylic acid transmembrane transporter activity
+GO:0043035	1	GO:0003677	DNA binding
+GO:0008028	6	GO:0046943	carboxylic acid transmembrane transporter activity
+GO:0005537	2	GO:0030246	carbohydrate binding
+GO:0003690	1	GO:0003677	DNA binding
+GO:0003700	7	GO:0090729	toxin activity
+GO:0015293	6	GO:0046943	carboxylic acid transmembrane transporter activity
+GO:0004709	9	GO:0016779	nucleotidyltransferase activity
+GO:0008327	1	GO:0003677	DNA binding
+GO:0120160	2	GO:0030246	carbohydrate binding
+GO:0003677	1	GO:0003677	DNA binding
+GO:0005342	6	GO:0046943	carboxylic acid transmembrane transporter activity
+GO:0048306	3	GO:0048306	calcium-dependent protein binding
+GO:0004857	5	GO:0030414	peptidase inhibitor activity
+GO:0000995	7	GO:0090729	toxin activity
+GO:0030246	2	GO:0030246	carbohydrate binding
+GO:0016936	2	GO:0030246	carbohydrate binding
+GO:0004962	4	GO:0004888	transmembrane signaling receptor activity
+GO:0001965	3	GO:0048306	calcium-dependent protein binding
+GO:0046943	6	GO:0046943	carboxylic acid transmembrane transporter activity
+GO:0001227	7	GO:0090729	toxin activity
+GO:0000981	7	GO:0090729	toxin activity
+GO:0000977	1	GO:0003677	DNA binding
+GO:0043565	1	GO:0003677	DNA binding
+GO:0004945	4	GO:0004888	transmembrane signaling receptor activity
+GO:0038085	3	GO:0048306	calcium-dependent protein binding
+GO:0042054	9	GO:0016779	nucleotidyltransferase activity
+GO:0008097	1	GO:0003677	DNA binding
+GO:0005549	2	GO:0030246	carbohydrate binding
+GO:0004867	5	GO:0030414	peptidase inhibitor activity
+GO:0048018	3	GO:0048306	calcium-dependent protein binding
+GO:0005021	9	GO:0016779	nucleotidyltransferase activity
+GO:0051381	1	GO:0003677	DNA binding
+GO:0043531	2	GO:0030246	carbohydrate binding
+GO:0001595	4	GO:0004888	transmembrane signaling receptor activity
+GO:0098631	3	GO:0048306	calcium-dependent protein binding
+GO:0098632	3	GO:0048306	calcium-dependent protein binding
+GO:0032422	1	GO:0003677	DNA binding
+GO:0005201	7	GO:0090729	toxin activity
+GO:0019865	2	GO:0030246	carbohydrate binding
+GO:0030546	7	GO:0090729	toxin activity
+GO:0003691	1	GO:0003677	DNA binding
+GO:0070026	2	GO:0030246	carbohydrate binding
+GO:0008201	2	GO:0030246	carbohydrate binding
+GO:0004714	9	GO:0016779	nucleotidyltransferase activity
+GO:0008191	5	GO:0030414	peptidase inhibitor activity
+GO:0005125	3	GO:0048306	calcium-dependent protein binding
+GO:0005133	3	GO:0048306	calcium-dependent protein binding
+GO:0005516	3	GO:0048306	calcium-dependent protein binding
+GO:0090729	7	GO:0090729	toxin activity
+GO:0004930	4	GO:0004888	transmembrane signaling receptor activity
+GO:0001217	7	GO:0090729	toxin activity
+GO:0015079	6	GO:0046943	carboxylic acid transmembrane transporter activity
+GO:0004888	4	GO:0004888	transmembrane signaling receptor activity
+GO:0005267	6	GO:0046943	carboxylic acid transmembrane transporter activity
+GO:0005249	6	GO:0046943	carboxylic acid transmembrane transporter activity
+GO:0046872	2	GO:0030246	carbohydrate binding
+GO:0005200	7	GO:0090729	toxin activity
+GO:0030492	3	GO:0048306	calcium-dependent protein binding
+GO:0000900	1	GO:0003677	DNA binding
+GO:0039660	7	GO:0090729	toxin activity
+GO:0034584	1	GO:0003677	DNA binding
+GO:0005139	3	GO:0048306	calcium-dependent protein binding
+GO:0038023	4	GO:0004888	transmembrane signaling receptor activity
+GO:0038024	7	GO:0090729	toxin activity
+GO:0020037	1	GO:0003677	DNA binding
+GO:0015185	6	GO:0046943	carboxylic acid transmembrane transporter activity
+GO:0005506	2	GO:0030246	carbohydrate binding
+GO:0060089	4	GO:0004888	transmembrane signaling receptor activity
+GO:0015101	6	GO:0046943	carboxylic acid transmembrane transporter activity
+GO:0019864	2	GO:0030246	carbohydrate binding
+GO:0070530	3	GO:0048306	calcium-dependent protein binding
+GO:0008146	9	GO:0016779	nucleotidyltransferase activity
+GO:0043621	3	GO:0048306	calcium-dependent protein binding
+GO:0030291	5	GO:0030414	peptidase inhibitor activity
+GO:0005343	6	GO:0046943	carboxylic acid transmembrane transporter activity
+GO:0004866	5	GO:0030414	peptidase inhibitor activity
+GO:0015276	6	GO:0046943	carboxylic acid transmembrane transporter activity
+GO:0061134	5	GO:0030414	peptidase inhibitor activity
+GO:0061135	5	GO:0030414	peptidase inhibitor activity
+GO:0042802	3	GO:0048306	calcium-dependent protein binding
+GO:0042923	2	GO:0030246	carbohydrate binding
+GO:0003964	9	GO:0016779	nucleotidyltransferase activity
+GO:0008270	2	GO:0030246	carbohydrate binding
+GO:0046914	2	GO:0030246	carbohydrate binding
+GO:0031593	3	GO:0048306	calcium-dependent protein binding
+GO:0030594	4	GO:0004888	transmembrane signaling receptor activity
+GO:0001228	7	GO:0090729	toxin activity
+GO:0004983	4	GO:0004888	transmembrane signaling receptor activity
+GO:0004984	4	GO:0004888	transmembrane signaling receptor activity
+GO:0030414	5	GO:0030414	peptidase inhibitor activity
+GO:0031208	3	GO:0048306	calcium-dependent protein binding
+GO:0000978	1	GO:0003677	DNA binding
+GO:0005483	7	GO:0090729	toxin activity
+GO:0046906	1	GO:0003677	DNA binding
+GO:0034061	9	GO:0016779	nucleotidyltransferase activity
+GO:0061980	1	GO:0003677	DNA binding

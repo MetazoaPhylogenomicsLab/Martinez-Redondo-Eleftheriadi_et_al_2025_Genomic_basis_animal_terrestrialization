@@ -1,0 +1,81 @@
+GO:0002706	4	GO:0002709	regulation of T cell mediated immunity
+GO:0010942	6	GO:0033059	cellular pigmentation
+GO:0030421	3	GO:0051239	regulation of multicellular organismal process
+GO:0070664	1	GO:0042129	regulation of T cell proliferation
+GO:0002709	4	GO:0002709	regulation of T cell mediated immunity
+GO:0032945	1	GO:0042129	regulation of T cell proliferation
+GO:0048066	5	GO:0009719	response to endogenous stimulus
+GO:0002090	6	GO:0033059	cellular pigmentation
+GO:0002092	6	GO:0033059	cellular pigmentation
+GO:0033059	6	GO:0033059	cellular pigmentation
+GO:0061041	2	GO:0061045	negative regulation of wound healing
+GO:0061045	2	GO:0061045	negative regulation of wound healing
+GO:0035924	5	GO:0009719	response to endogenous stimulus
+GO:0046006	1	GO:0042129	regulation of T cell proliferation
+GO:0042098	1	GO:0042129	regulation of T cell proliferation
+GO:0006749	6	GO:0033059	cellular pigmentation
+GO:0050672	1	GO:0042129	regulation of T cell proliferation
+GO:1901652	5	GO:0009719	response to endogenous stimulus
+GO:0061844	5	GO:0009719	response to endogenous stimulus
+GO:0051241	3	GO:0051239	regulation of multicellular organismal process
+GO:1903035	2	GO:0061045	negative regulation of wound healing
+GO:2000514	1	GO:0042129	regulation of T cell proliferation
+GO:0010838	6	GO:0033059	cellular pigmentation
+GO:0070231	6	GO:0033059	cellular pigmentation
+GO:0070232	6	GO:0033059	cellular pigmentation
+GO:0002456	4	GO:0002709	regulation of T cell mediated immunity
+GO:0051239	3	GO:0051239	regulation of multicellular organismal process
+GO:0098586	5	GO:0009719	response to endogenous stimulus
+GO:0035010	4	GO:0002709	regulation of T cell mediated immunity
+GO:0042129	1	GO:0042129	regulation of T cell proliferation
+GO:0090303	2	GO:0061045	negative regulation of wound healing
+GO:0044278	5	GO:0009719	response to endogenous stimulus
+GO:0001816	3	GO:0051239	regulation of multicellular organismal process
+GO:0001817	3	GO:0051239	regulation of multicellular organismal process
+GO:2001044	6	GO:0033059	cellular pigmentation
+GO:0009719	5	GO:0009719	response to endogenous stimulus
+GO:2001046	6	GO:0033059	cellular pigmentation
+GO:0045617	6	GO:0033059	cellular pigmentation
+GO:0030193	2	GO:0061045	negative regulation of wound healing
+GO:0030195	2	GO:0061045	negative regulation of wound healing
+GO:0042130	1	GO:0042129	regulation of T cell proliferation
+GO:0002822	4	GO:0002709	regulation of T cell mediated immunity
+GO:0098542	5	GO:0009719	response to endogenous stimulus
+GO:0043065	6	GO:0033059	cellular pigmentation
+GO:0031623	6	GO:0033059	cellular pigmentation
+GO:0002367	3	GO:0051239	regulation of multicellular organismal process
+GO:0043068	6	GO:0033059	cellular pigmentation
+GO:0007229	6	GO:0033059	cellular pigmentation
+GO:0006952	5	GO:0009719	response to endogenous stimulus
+GO:0006953	5	GO:0009719	response to endogenous stimulus
+GO:0002819	4	GO:0002709	regulation of T cell mediated immunity
+GO:0048260	6	GO:0033059	cellular pigmentation
+GO:0035006	5	GO:0009719	response to endogenous stimulus
+GO:2000292	3	GO:0051239	regulation of multicellular organismal process
+GO:0043542	6	GO:0033059	cellular pigmentation
+GO:0044062	3	GO:0051239	regulation of multicellular organismal process
+GO:0035710	1	GO:0042129	regulation of T cell proliferation
+GO:0030155	6	GO:0033059	cellular pigmentation
+GO:0046634	1	GO:0042129	regulation of T cell proliferation
+GO:0038084	6	GO:0033059	cellular pigmentation
+GO:0110037	6	GO:0033059	cellular pigmentation
+GO:0044058	3	GO:0051239	regulation of multicellular organismal process
+GO:0110039	6	GO:0033059	cellular pigmentation
+GO:0009636	5	GO:0009719	response to endogenous stimulus
+GO:0032649	3	GO:0051239	regulation of multicellular organismal process
+GO:0010951	6	GO:0033059	cellular pigmentation
+GO:0002718	3	GO:0051239	regulation of multicellular organismal process
+GO:0010633	6	GO:0033059	cellular pigmentation
+GO:0050818	3	GO:0051239	regulation of multicellular organismal process
+GO:0050819	3	GO:0051239	regulation of multicellular organismal process
+GO:1900073	6	GO:0033059	cellular pigmentation
+GO:0051838	5	GO:0009719	response to endogenous stimulus
+GO:0043434	5	GO:0009719	response to endogenous stimulus
+GO:0006811	6	GO:0033059	cellular pigmentation
+GO:0016339	6	GO:0033059	cellular pigmentation
+GO:0032609	3	GO:0051239	regulation of multicellular organismal process
+GO:1900046	3	GO:0051239	regulation of multicellular organismal process
+GO:1900047	3	GO:0051239	regulation of multicellular organismal process
+GO:0061912	6	GO:0033059	cellular pigmentation
+GO:0002703	4	GO:0002709	regulation of T cell mediated immunity
+GO:0036303	6	GO:0033059	cellular pigmentation

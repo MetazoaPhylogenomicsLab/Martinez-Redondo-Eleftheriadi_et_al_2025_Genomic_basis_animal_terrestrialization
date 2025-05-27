@@ -1,0 +1,1393 @@
+GO:0070121	13	GO:0007389	pattern specification process
+GO:0031445	5	GO:0051252	regulation of RNA metabolic process
+GO:0044821	10	GO:0000819	sister chromatid segregation
+GO:0050832	16	GO:0006955	immune response
+GO:0007060	10	GO:0000819	sister chromatid segregation
+GO:0007052	9	GO:0016043	cellular component organization
+GO:0046688	16	GO:0006955	immune response
+GO:0061760	16	GO:0006955	immune response
+GO:0042138	6	GO:0006056	mannoprotein metabolic process
+GO:0007032	9	GO:0016043	cellular component organization
+GO:0070233	2	GO:0002685	regulation of leukocyte migration
+GO:0031295	2	GO:0002685	regulation of leukocyte migration
+GO:0051321	10	GO:0000819	sister chromatid segregation
+GO:0034121	1	GO:0010469	regulation of signaling receptor activity
+GO:0034122	1	GO:0010469	regulation of signaling receptor activity
+GO:2000253	2	GO:0002685	regulation of leukocyte migration
+GO:0090309	5	GO:0051252	regulation of RNA metabolic process
+GO:0031288	13	GO:0007389	pattern specification process
+GO:1904750	2	GO:0002685	regulation of leukocyte migration
+GO:0051302	3	GO:0042127	regulation of cell population proliferation
+GO:0044650	15	GO:0016032	viral process
+GO:0051308	10	GO:0000819	sister chromatid segregation
+GO:0044658	15	GO:0016032	viral process
+GO:0031214	13	GO:0007389	pattern specification process
+GO:0060391	1	GO:0010469	regulation of signaling receptor activity
+GO:0060393	7	GO:0001919	regulation of receptor recycling
+GO:0061844	16	GO:0006955	immune response
+GO:0051455	10	GO:0000819	sister chromatid segregation
+GO:2001034	5	GO:0051252	regulation of RNA metabolic process
+GO:0097240	20	GO:0051674	localization of cell
+GO:0060389	7	GO:0001919	regulation of receptor recycling
+GO:0045478	9	GO:0016043	cellular component organization
+GO:0019730	16	GO:0006955	immune response
+GO:0019731	16	GO:0006955	immune response
+GO:1902426	8	GO:0046605	regulation of centrosome cycle
+GO:1904894	1	GO:0010469	regulation of signaling receptor activity
+GO:1902410	10	GO:0000819	sister chromatid segregation
+GO:1903077	2	GO:0002685	regulation of leukocyte migration
+GO:1902407	9	GO:0016043	cellular component organization
+GO:0032310	18	GO:0043269	regulation of ion transport
+GO:0035036	11	GO:0019953	sexual reproduction
+GO:0008645	18	GO:0043269	regulation of ion transport
+GO:1990834	16	GO:0006955	immune response
+GO:0045143	10	GO:0000819	sister chromatid segregation
+GO:0031860	6	GO:0006056	mannoprotein metabolic process
+GO:0007340	11	GO:0019953	sexual reproduction
+GO:0007342	11	GO:0019953	sexual reproduction
+GO:1900426	17	GO:0002759	regulation of antimicrobial humoral response
+GO:0045104	9	GO:0016043	cellular component organization
+GO:0000911	10	GO:0000819	sister chromatid segregation
+GO:0007304	11	GO:0019953	sexual reproduction
+GO:0044001	15	GO:0016032	viral process
+GO:0002322	16	GO:0006955	immune response
+GO:0016032	15	GO:0016032	viral process
+GO:0062207	1	GO:0010469	regulation of signaling receptor activity
+GO:0062208	1	GO:0010469	regulation of signaling receptor activity
+GO:0033005	2	GO:0002685	regulation of leukocyte migration
+GO:0008063	1	GO:0010469	regulation of signaling receptor activity
+GO:0042531	7	GO:0001919	regulation of receptor recycling
+GO:0006809	6	GO:0006056	mannoprotein metabolic process
+GO:0042509	7	GO:0001919	regulation of receptor recycling
+GO:0010791	6	GO:0006056	mannoprotein metabolic process
+GO:0030466	5	GO:0051252	regulation of RNA metabolic process
+GO:0039722	17	GO:0002759	regulation of antimicrobial humoral response
+GO:0010760	2	GO:0002685	regulation of leukocyte migration
+GO:0010764	2	GO:0002685	regulation of leukocyte migration
+GO:0009250	6	GO:0006056	mannoprotein metabolic process
+GO:0030476	11	GO:0019953	sexual reproduction
+GO:0031509	5	GO:0051252	regulation of RNA metabolic process
+GO:0051754	10	GO:0000819	sister chromatid segregation
+GO:0010780	6	GO:0006056	mannoprotein metabolic process
+GO:0070601	10	GO:0000819	sister chromatid segregation
+GO:0010789	10	GO:0000819	sister chromatid segregation
+GO:0051781	3	GO:0042127	regulation of cell population proliferation
+GO:0051782	3	GO:0042127	regulation of cell population proliferation
+GO:0039707	15	GO:0016032	viral process
+GO:0030435	14	GO:0048762	mesenchymal cell differentiation
+GO:0030437	11	GO:0019953	sexual reproduction
+GO:0007129	10	GO:0000819	sister chromatid segregation
+GO:0018119	6	GO:0006056	mannoprotein metabolic process
+GO:0007141	10	GO:0000819	sister chromatid segregation
+GO:2000641	2	GO:0002685	regulation of leukocyte migration
+GO:0043247	6	GO:0006056	mannoprotein metabolic process
+GO:0007130	10	GO:0000819	sister chromatid segregation
+GO:0007131	10	GO:0000819	sister chromatid segregation
+GO:0034501	20	GO:0051674	localization of cell
+GO:0034508	9	GO:0016043	cellular component organization
+GO:0061041	17	GO:0002759	regulation of antimicrobial humoral response
+GO:0031640	20	GO:0051674	localization of cell
+GO:0032210	5	GO:0051252	regulation of RNA metabolic process
+GO:0032211	5	GO:0051252	regulation of RNA metabolic process
+GO:0035303	7	GO:0001919	regulation of receptor recycling
+GO:0035306	7	GO:0001919	regulation of receptor recycling
+GO:0000463	6	GO:0006056	mannoprotein metabolic process
+GO:0032204	5	GO:0051252	regulation of RNA metabolic process
+GO:0032205	5	GO:0051252	regulation of RNA metabolic process
+GO:0007260	7	GO:0001919	regulation of receptor recycling
+GO:0010829	18	GO:0043269	regulation of ion transport
+GO:0000480	6	GO:0006056	mannoprotein metabolic process
+GO:0045818	7	GO:0001919	regulation of receptor recycling
+GO:0000472	6	GO:0006056	mannoprotein metabolic process
+GO:0045830	7	GO:0001919	regulation of receptor recycling
+GO:0007218	1	GO:0010469	regulation of signaling receptor activity
+GO:0019069	15	GO:0016032	viral process
+GO:0032754	4	GO:0001819	positive regulation of cytokine production
+GO:0032755	4	GO:0001819	positive regulation of cytokine production
+GO:0032757	4	GO:0001819	positive regulation of cytokine production
+GO:0039563	2	GO:0002685	regulation of leukocyte migration
+GO:0061988	10	GO:0000819	sister chromatid segregation
+GO:0034605	16	GO:0006955	immune response
+GO:0039554	17	GO:0002759	regulation of antimicrobial humoral response
+GO:0019082	15	GO:0016032	viral process
+GO:0019072	15	GO:0016032	viral process
+GO:0019073	15	GO:0016032	viral process
+GO:0019076	15	GO:0016032	viral process
+GO:2000095	1	GO:0010469	regulation of signaling receptor activity
+GO:0015749	18	GO:0043269	regulation of ion transport
+GO:0032733	4	GO:0001819	positive regulation of cytokine production
+GO:0032736	4	GO:0001819	positive regulation of cytokine production
+GO:0002224	1	GO:0010469	regulation of signaling receptor activity
+GO:0002225	17	GO:0002759	regulation of antimicrobial humoral response
+GO:2000052	1	GO:0010469	regulation of signaling receptor activity
+GO:0042078	11	GO:0019953	sexual reproduction
+GO:2000055	1	GO:0010469	regulation of signaling receptor activity
+GO:0071229	16	GO:0006955	immune response
+GO:0039502	17	GO:0002759	regulation of antimicrobial humoral response
+GO:0039503	17	GO:0002759	regulation of antimicrobial humoral response
+GO:0030238	13	GO:0007389	pattern specification process
+GO:0071230	16	GO:0006955	immune response
+GO:2000042	5	GO:0051252	regulation of RNA metabolic process
+GO:0008356	20	GO:0051674	localization of cell
+GO:0052111	15	GO:0016032	viral process
+GO:0031023	9	GO:0016043	cellular component organization
+GO:0039663	15	GO:0016032	viral process
+GO:0031031	8	GO:0046605	regulation of centrosome cycle
+GO:0002760	17	GO:0002759	regulation of antimicrobial humoral response
+GO:0042996	18	GO:0043269	regulation of ion transport
+GO:0002759	17	GO:0002759	regulation of antimicrobial humoral response
+GO:0002784	17	GO:0002759	regulation of antimicrobial humoral response
+GO:0002786	17	GO:0002759	regulation of antimicrobial humoral response
+GO:0034080	9	GO:0016043	cellular component organization
+GO:1905758	8	GO:0046605	regulation of centrosome cycle
+GO:0002775	17	GO:0002759	regulation of antimicrobial humoral response
+GO:0002778	17	GO:0002759	regulation of antimicrobial humoral response
+GO:1905779	5	GO:0051252	regulation of RNA metabolic process
+GO:0030717	11	GO:0019953	sexual reproduction
+GO:0051674	20	GO:0051674	localization of cell
+GO:0002702	4	GO:0001819	positive regulation of cytokine production
+GO:0021551	13	GO:0007389	pattern specification process
+GO:0046794	15	GO:0016032	viral process
+GO:0021556	13	GO:0007389	pattern specification process
+GO:0006963	17	GO:0002759	regulation of antimicrobial humoral response
+GO:0009620	16	GO:0006955	immune response
+GO:0000729	6	GO:0006056	mannoprotein metabolic process
+GO:0003431	14	GO:0048762	mesenchymal cell differentiation
+GO:1904357	5	GO:0051252	regulation of RNA metabolic process
+GO:0002803	17	GO:0002759	regulation of antimicrobial humoral response
+GO:0046740	15	GO:0016032	viral process
+GO:0030809	5	GO:0051252	regulation of RNA metabolic process
+GO:0002808	17	GO:0002759	regulation of antimicrobial humoral response
+GO:0046739	15	GO:0016032	viral process
+GO:0000737	6	GO:0006056	mannoprotein metabolic process
+GO:0007549	4	GO:0001819	positive regulation of cytokine production
+GO:0007530	11	GO:0019953	sexual reproduction
+GO:0007534	6	GO:0006056	mannoprotein metabolic process
+GO:0001961	1	GO:0010469	regulation of signaling receptor activity
+GO:0000706	6	GO:0006056	mannoprotein metabolic process
+GO:0001919	7	GO:0001919	regulation of receptor recycling
+GO:0045022	20	GO:0051674	localization of cell
+GO:0030521	1	GO:0010469	regulation of signaling receptor activity
+GO:0046887	2	GO:0002685	regulation of leukocyte migration
+GO:0035875	10	GO:0000819	sister chromatid segregation
+GO:0070417	16	GO:0006955	immune response
+GO:0140353	18	GO:0043269	regulation of ion transport
+GO:0050728	17	GO:0002759	regulation of antimicrobial humoral response
+GO:0034398	20	GO:0051674	localization of cell
+GO:0071654	4	GO:0001819	positive regulation of cytokine production
+GO:0071657	4	GO:0001819	positive regulation of cytokine production
+GO:0046599	8	GO:0046605	regulation of centrosome cycle
+GO:0042475	13	GO:0007389	pattern specification process
+GO:0070197	10	GO:0000819	sister chromatid segregation
+GO:0009048	4	GO:0001819	positive regulation of cytokine production
+GO:0000578	13	GO:0007389	pattern specification process
+GO:1900075	1	GO:0010469	regulation of signaling receptor activity
+GO:1900015	4	GO:0001819	positive regulation of cytokine production
+GO:0031424	14	GO:0048762	mesenchymal cell differentiation
+GO:1900016	4	GO:0001819	positive regulation of cytokine production
+GO:1903530	3	GO:0042127	regulation of cell population proliferation
+GO:0035545	13	GO:0007389	pattern specification process
+GO:0050830	16	GO:0006955	immune response
+GO:0046692	11	GO:0019953	sexual reproduction
+GO:0009953	13	GO:0007389	pattern specification process
+GO:0009954	13	GO:0007389	pattern specification process
+GO:0097435	9	GO:0016043	cellular component organization
+GO:0044805	20	GO:0051674	localization of cell
+GO:1901214	3	GO:0042127	regulation of cell population proliferation
+GO:1901216	3	GO:0042127	regulation of cell population proliferation
+GO:0046661	13	GO:0007389	pattern specification process
+GO:0007080	10	GO:0000819	sister chromatid segregation
+GO:0042127	3	GO:0042127	regulation of cell population proliferation
+GO:0042119	20	GO:0051674	localization of cell
+GO:0007017	20	GO:0051674	localization of cell
+GO:0007040	9	GO:0016043	cellular component organization
+GO:2000142	5	GO:0051252	regulation of RNA metabolic process
+GO:0031122	9	GO:0016043	cellular component organization
+GO:0043923	15	GO:0016032	viral process
+GO:0042102	2	GO:0002685	regulation of leukocyte migration
+GO:0031146	6	GO:0006056	mannoprotein metabolic process
+GO:0043935	11	GO:0019953	sexual reproduction
+GO:1990266	20	GO:0051674	localization of cell
+GO:2000107	2	GO:0002685	regulation of leukocyte migration
+GO:0097186	13	GO:0007389	pattern specification process
+GO:0090312	7	GO:0001919	regulation of receptor recycling
+GO:0019226	20	GO:0051674	localization of cell
+GO:0030073	18	GO:0043269	regulation of ion transport
+GO:0006165	6	GO:0006056	mannoprotein metabolic process
+GO:0010389	8	GO:0046605	regulation of centrosome cycle
+GO:0051382	9	GO:0016043	cellular component organization
+GO:0006182	6	GO:0006056	mannoprotein metabolic process
+GO:0036230	20	GO:0051674	localization of cell
+GO:0051310	10	GO:0000819	sister chromatid segregation
+GO:0051315	10	GO:0000819	sister chromatid segregation
+GO:0045342	6	GO:0006056	mannoprotein metabolic process
+GO:0045346	7	GO:0001919	regulation of receptor recycling
+GO:1901739	12	GO:0030856	regulation of epithelial cell differentiation
+GO:0045348	7	GO:0001919	regulation of receptor recycling
+GO:0050691	17	GO:0002759	regulation of antimicrobial humoral response
+GO:2000272	1	GO:0010469	regulation of signaling receptor activity
+GO:2000273	1	GO:0010469	regulation of signaling receptor activity
+GO:0042244	14	GO:0048762	mesenchymal cell differentiation
+GO:0051301	20	GO:0051674	localization of cell
+GO:0051304	10	GO:0000819	sister chromatid segregation
+GO:0051306	10	GO:0000819	sister chromatid segregation
+GO:0008584	13	GO:0007389	pattern specification process
+GO:0098900	3	GO:0042127	regulation of cell population proliferation
+GO:1904778	2	GO:0002685	regulation of leukocyte migration
+GO:0034293	11	GO:0019953	sexual reproduction
+GO:1901857	7	GO:0001919	regulation of receptor recycling
+GO:0010468	4	GO:0001819	positive regulation of cytokine production
+GO:0010469	1	GO:0010469	regulation of signaling receptor activity
+GO:0140278	9	GO:0016043	cellular component organization
+GO:0033688	3	GO:0042127	regulation of cell population proliferation
+GO:0033674	7	GO:0001919	regulation of receptor recycling
+GO:0046068	6	GO:0006056	mannoprotein metabolic process
+GO:0042789	6	GO:0006056	mannoprotein metabolic process
+GO:0045429	7	GO:0001919	regulation of receptor recycling
+GO:0048308	9	GO:0016043	cellular component organization
+GO:0002921	17	GO:0002759	regulation of antimicrobial humoral response
+GO:0060317	14	GO:0048762	mesenchymal cell differentiation
+GO:0000070	10	GO:0000819	sister chromatid segregation
+GO:1902412	8	GO:0046605	regulation of centrosome cycle
+GO:0072574	13	GO:0007389	pattern specification process
+GO:0060333	1	GO:0010469	regulation of signaling receptor activity
+GO:0072575	13	GO:0007389	pattern specification process
+GO:0072576	13	GO:0007389	pattern specification process
+GO:1903076	2	GO:0002685	regulation of leukocyte migration
+GO:0002949	6	GO:0006056	mannoprotein metabolic process
+GO:1903078	2	GO:0002685	regulation of leukocyte migration
+GO:0043374	14	GO:0048762	mesenchymal cell differentiation
+GO:0000018	5	GO:0051252	regulation of RNA metabolic process
+GO:0022612	13	GO:0007389	pattern specification process
+GO:0046031	6	GO:0006056	mannoprotein metabolic process
+GO:1903046	10	GO:0000819	sister chromatid segregation
+GO:0071902	7	GO:0001919	regulation of receptor recycling
+GO:0070828	9	GO:0016043	cellular component organization
+GO:0048478	5	GO:0051252	regulation of RNA metabolic process
+GO:0034765	3	GO:0042127	regulation of cell population proliferation
+GO:0034755	18	GO:0043269	regulation of ion transport
+GO:0034756	18	GO:0043269	regulation of ion transport
+GO:0034759	18	GO:0043269	regulation of ion transport
+GO:0006757	6	GO:0006056	mannoprotein metabolic process
+GO:0008608	10	GO:0000819	sister chromatid segregation
+GO:0034727	20	GO:0051674	localization of cell
+GO:1902116	8	GO:0046605	regulation of centrosome cycle
+GO:0060438	13	GO:0007389	pattern specification process
+GO:0007320	11	GO:0019953	sexual reproduction
+GO:0044057	12	GO:0030856	regulation of epithelial cell differentiation
+GO:0099558	9	GO:0016043	cellular component organization
+GO:0043410	1	GO:0010469	regulation of signaling receptor activity
+GO:0032467	8	GO:0046605	regulation of centrosome cycle
+GO:1900424	17	GO:0002759	regulation of antimicrobial humoral response
+GO:1900425	17	GO:0002759	regulation of antimicrobial humoral response
+GO:0009190	6	GO:0006056	mannoprotein metabolic process
+GO:0001755	14	GO:0048762	mesenchymal cell differentiation
+GO:0001774	20	GO:0051674	localization of cell
+GO:0071350	16	GO:0006955	immune response
+GO:0070537	6	GO:0006056	mannoprotein metabolic process
+GO:0071351	16	GO:0006955	immune response
+GO:0048143	14	GO:0048762	mesenchymal cell differentiation
+GO:0051260	9	GO:0016043	cellular component organization
+GO:0048144	20	GO:0051674	localization of cell
+GO:0048145	3	GO:0042127	regulation of cell population proliferation
+GO:0033028	20	GO:0051674	localization of cell
+GO:0048147	3	GO:0042127	regulation of cell population proliferation
+GO:0051255	9	GO:0016043	cellular component organization
+GO:0030318	14	GO:0048762	mesenchymal cell differentiation
+GO:0051276	9	GO:0016043	cellular component organization
+GO:1902275	8	GO:0046605	regulation of centrosome cycle
+GO:0030334	2	GO:0002685	regulation of leukocyte migration
+GO:0045216	9	GO:0016043	cellular component organization
+GO:0006826	18	GO:0043269	regulation of ion transport
+GO:0006813	18	GO:0043269	regulation of ion transport
+GO:0051239	3	GO:0042127	regulation of cell population proliferation
+GO:0070661	20	GO:0051674	localization of cell
+GO:0031589	20	GO:0051674	localization of cell
+GO:0070672	16	GO:0006955	immune response
+GO:0060260	5	GO:0051252	regulation of RNA metabolic process
+GO:1905458	12	GO:0030856	regulation of epithelial cell differentiation
+GO:0051767	6	GO:0006056	mannoprotein metabolic process
+GO:0051769	7	GO:0001919	regulation of receptor recycling
+GO:0031507	5	GO:0051252	regulation of RNA metabolic process
+GO:0005978	6	GO:0006056	mannoprotein metabolic process
+GO:0045787	3	GO:0042127	regulation of cell population proliferation
+GO:0051783	8	GO:0046605	regulation of centrosome cycle
+GO:0060271	9	GO:0016043	cellular component organization
+GO:0051770	7	GO:0001919	regulation of receptor recycling
+GO:0007168	1	GO:0010469	regulation of signaling receptor activity
+GO:0043266	18	GO:0043269	regulation of ion transport
+GO:0043269	18	GO:0043269	regulation of ion transport
+GO:0007155	20	GO:0051674	localization of cell
+GO:0051712	2	GO:0002685	regulation of leukocyte migration
+GO:0045745	1	GO:0010469	regulation of signaling receptor activity
+GO:0072012	13	GO:0007389	pattern specification process
+GO:0007186	1	GO:0010469	regulation of signaling receptor activity
+GO:0045739	5	GO:0051252	regulation of RNA metabolic process
+GO:1902749	8	GO:0046605	regulation of centrosome cycle
+GO:2000616	7	GO:0001919	regulation of receptor recycling
+GO:1900221	12	GO:0030856	regulation of epithelial cell differentiation
+GO:0003006	11	GO:0019953	sexual reproduction
+GO:0030198	9	GO:0016043	cellular component organization
+GO:0034505	13	GO:0007389	pattern specification process
+GO:0035315	14	GO:0048762	mesenchymal cell differentiation
+GO:0035316	14	GO:0048762	mesenchymal cell differentiation
+GO:0035317	14	GO:0048762	mesenchymal cell differentiation
+GO:0031642	12	GO:0030856	regulation of epithelial cell differentiation
+GO:0032224	1	GO:0010469	regulation of signaling receptor activity
+GO:0018108	6	GO:0006056	mannoprotein metabolic process
+GO:0002164	13	GO:0007389	pattern specification process
+GO:0071168	20	GO:0051674	localization of cell
+GO:0030154	14	GO:0048762	mesenchymal cell differentiation
+GO:0030177	1	GO:0010469	regulation of signaling receptor activity
+GO:0051851	15	GO:0016032	viral process
+GO:0045821	7	GO:0001919	regulation of receptor recycling
+GO:0048701	13	GO:0007389	pattern specification process
+GO:0045814	4	GO:0001819	positive regulation of cytokine production
+GO:0045815	4	GO:0001819	positive regulation of cytokine production
+GO:0007283	11	GO:0019953	sexual reproduction
+GO:0099054	14	GO:0048762	mesenchymal cell differentiation
+GO:0010835	7	GO:0001919	regulation of receptor recycling
+GO:0019094	11	GO:0019953	sexual reproduction
+GO:0045836	8	GO:0046605	regulation of centrosome cycle
+GO:0034644	16	GO:0006955	immune response
+GO:0048856	13	GO:0007389	pattern specification process
+GO:0019083	15	GO:0016032	viral process
+GO:0035418	20	GO:0051674	localization of cell
+GO:0032722	4	GO:0001819	positive regulation of cytokine production
+GO:0032747	4	GO:0001819	positive regulation of cytokine production
+GO:0002281	16	GO:0006955	immune response
+GO:0032731	4	GO:0001819	positive regulation of cytokine production
+GO:0032732	4	GO:0001819	positive regulation of cytokine production
+GO:0032735	4	GO:0001819	positive regulation of cytokine production
+GO:0080171	9	GO:0016043	cellular component organization
+GO:0060857	14	GO:0048762	mesenchymal cell differentiation
+GO:0036037	20	GO:0051674	localization of cell
+GO:0045580	12	GO:0030856	regulation of epithelial cell differentiation
+GO:0045582	12	GO:0030856	regulation of epithelial cell differentiation
+GO:0030225	14	GO:0048762	mesenchymal cell differentiation
+GO:0032700	4	GO:0001819	positive regulation of cytokine production
+GO:0010526	3	GO:0042127	regulation of cell population proliferation
+GO:0071219	16	GO:0006955	immune response
+GO:0060828	1	GO:0010469	regulation of signaling receptor activity
+GO:0035162	13	GO:0007389	pattern specification process
+GO:0031030	8	GO:0046605	regulation of centrosome cycle
+GO:0031032	9	GO:0016043	cellular component organization
+GO:0006096	6	GO:0006056	mannoprotein metabolic process
+GO:0032879	3	GO:0042127	regulation of cell population proliferation
+GO:0032823	12	GO:0030856	regulation of epithelial cell differentiation
+GO:0019953	11	GO:0019953	sexual reproduction
+GO:0071763	9	GO:0016043	cellular component organization
+GO:0032816	2	GO:0002685	regulation of leukocyte migration
+GO:0019985	6	GO:0006056	mannoprotein metabolic process
+GO:0098868	13	GO:0007389	pattern specification process
+GO:0032834	12	GO:0030856	regulation of epithelial cell differentiation
+GO:0060550	7	GO:0001919	regulation of receptor recycling
+GO:0060552	7	GO:0001919	regulation of receptor recycling
+GO:0060557	7	GO:0001919	regulation of receptor recycling
+GO:0044406	15	GO:0016032	viral process
+GO:0048538	13	GO:0007389	pattern specification process
+GO:0045672	12	GO:0030856	regulation of epithelial cell differentiation
+GO:0002711	17	GO:0002759	regulation of antimicrobial humoral response
+GO:0002712	17	GO:0002759	regulation of antimicrobial humoral response
+GO:0002714	17	GO:0002759	regulation of antimicrobial humoral response
+GO:0045619	12	GO:0030856	regulation of epithelial cell differentiation
+GO:0022413	11	GO:0019953	sexual reproduction
+GO:0022414	11	GO:0019953	sexual reproduction
+GO:1902615	16	GO:0006955	immune response
+GO:0010634	2	GO:0002685	regulation of leukocyte migration
+GO:0000226	9	GO:0016043	cellular component organization
+GO:0040020	8	GO:0046605	regulation of centrosome cycle
+GO:0040024	13	GO:0007389	pattern specification process
+GO:0030703	11	GO:0019953	sexual reproduction
+GO:0040011	20	GO:0051674	localization of cell
+GO:0040016	14	GO:0048762	mesenchymal cell differentiation
+GO:0048662	3	GO:0042127	regulation of cell population proliferation
+GO:0040032	13	GO:0007389	pattern specification process
+GO:0023035	1	GO:0010469	regulation of signaling receptor activity
+GO:0002891	17	GO:0002759	regulation of antimicrobial humoral response
+GO:0061343	14	GO:0048762	mesenchymal cell differentiation
+GO:0030856	12	GO:0030856	regulation of epithelial cell differentiation
+GO:0030857	12	GO:0030856	regulation of epithelial cell differentiation
+GO:0030858	12	GO:0030856	regulation of epithelial cell differentiation
+GO:0009653	13	GO:0007389	pattern specification process
+GO:0002889	17	GO:0002759	regulation of antimicrobial humoral response
+GO:0071887	20	GO:0051674	localization of cell
+GO:0007595	13	GO:0007389	pattern specification process
+GO:0033141	7	GO:0001919	regulation of receptor recycling
+GO:0002822	17	GO:0002759	regulation of antimicrobial humoral response
+GO:0032502	13	GO:0007389	pattern specification process
+GO:0060627	3	GO:0042127	regulation of cell population proliferation
+GO:0009617	16	GO:0006955	immune response
+GO:0006925	20	GO:0051674	localization of cell
+GO:0000722	6	GO:0006056	mannoprotein metabolic process
+GO:0000723	6	GO:0006056	mannoprotein metabolic process
+GO:0000741	9	GO:0016043	cellular component organization
+GO:0071805	18	GO:0043269	regulation of ion transport
+GO:0090068	8	GO:0046605	regulation of centrosome cycle
+GO:0007548	11	GO:0019953	sexual reproduction
+GO:0007531	11	GO:0019953	sexual reproduction
+GO:0007533	11	GO:0019953	sexual reproduction
+GO:0030593	16	GO:0006955	immune response
+GO:0007535	11	GO:0019953	sexual reproduction
+GO:0035723	1	GO:0010469	regulation of signaling receptor activity
+GO:0006907	20	GO:0051674	localization of cell
+GO:0006909	20	GO:0051674	localization of cell
+GO:0061440	13	GO:0007389	pattern specification process
+GO:0061448	13	GO:0007389	pattern specification process
+GO:0061437	13	GO:0007389	pattern specification process
+GO:0003197	13	GO:0007389	pattern specification process
+GO:0033273	16	GO:0006955	immune response
+GO:0008104	20	GO:0051674	localization of cell
+GO:0030512	1	GO:0010469	regulation of signaling receptor activity
+GO:0071514	5	GO:0051252	regulation of RNA metabolic process
+GO:0051044	7	GO:0001919	regulation of receptor recycling
+GO:0051046	18	GO:0043269	regulation of ion transport
+GO:0044794	15	GO:0016032	viral process
+GO:0046883	1	GO:0010469	regulation of signaling receptor activity
+GO:2000310	1	GO:0010469	regulation of signaling receptor activity
+GO:0050764	3	GO:0042127	regulation of cell population proliferation
+GO:0050766	3	GO:0042127	regulation of cell population proliferation
+GO:0072132	13	GO:0007389	pattern specification process
+GO:0046843	11	GO:0019953	sexual reproduction
+GO:0008284	3	GO:0042127	regulation of cell population proliferation
+GO:0007610	20	GO:0051674	localization of cell
+GO:1902004	7	GO:0001919	regulation of receptor recycling
+GO:0042307	18	GO:0043269	regulation of ion transport
+GO:0002697	2	GO:0002685	regulation of leukocyte migration
+GO:0035822	6	GO:0006056	mannoprotein metabolic process
+GO:0002698	17	GO:0002759	regulation of antimicrobial humoral response
+GO:0034393	2	GO:0002685	regulation of leukocyte migration
+GO:0035825	6	GO:0006056	mannoprotein metabolic process
+GO:0050729	17	GO:0002759	regulation of antimicrobial humoral response
+GO:2000309	4	GO:0001819	positive regulation of cytokine production
+GO:0120261	8	GO:0046605	regulation of centrosome cycle
+GO:0050731	7	GO:0001919	regulation of receptor recycling
+GO:0060070	1	GO:0010469	regulation of signaling receptor activity
+GO:0002685	2	GO:0002685	regulation of leukocyte migration
+GO:0010951	7	GO:0001919	regulation of receptor recycling
+GO:0010959	18	GO:0043269	regulation of ion transport
+GO:0051983	3	GO:0042127	regulation of cell population proliferation
+GO:0071621	16	GO:0006955	immune response
+GO:0051984	3	GO:0042127	regulation of cell population proliferation
+GO:0070192	10	GO:0000819	sister chromatid segregation
+GO:0010923	7	GO:0001919	regulation of receptor recycling
+GO:0006312	6	GO:0006056	mannoprotein metabolic process
+GO:0010927	14	GO:0048762	mesenchymal cell differentiation
+GO:0034330	9	GO:0016043	cellular component organization
+GO:0070166	13	GO:0007389	pattern specification process
+GO:0045944	5	GO:0051252	regulation of RNA metabolic process
+GO:0006338	9	GO:0016043	cellular component organization
+GO:1902948	7	GO:0001919	regulation of receptor recycling
+GO:0043045	6	GO:0006056	mannoprotein metabolic process
+GO:0046546	13	GO:0007389	pattern specification process
+GO:1903506	5	GO:0051252	regulation of RNA metabolic process
+GO:1903507	5	GO:0051252	regulation of RNA metabolic process
+GO:0007099	9	GO:0016043	cellular component organization
+GO:0009950	13	GO:0007389	pattern specification process
+GO:1990145	6	GO:0006056	mannoprotein metabolic process
+GO:0034446	14	GO:0048762	mesenchymal cell differentiation
+GO:0043922	15	GO:0016032	viral process
+GO:0031113	8	GO:0046605	regulation of centrosome cycle
+GO:0046637	12	GO:0030856	regulation of epithelial cell differentiation
+GO:0070228	2	GO:0002685	regulation of leukocyte migration
+GO:0070229	2	GO:0002685	regulation of leukocyte migration
+GO:1903649	2	GO:0002685	regulation of leukocyte migration
+GO:0007004	6	GO:0006056	mannoprotein metabolic process
+GO:0002065	14	GO:0048762	mesenchymal cell differentiation
+GO:0032989	14	GO:0048762	mesenchymal cell differentiation
+GO:0019221	1	GO:0010469	regulation of signaling receptor activity
+GO:0019219	5	GO:0051252	regulation of RNA metabolic process
+GO:0098927	20	GO:0051674	localization of cell
+GO:0017145	20	GO:0051674	localization of cell
+GO:0090497	20	GO:0051674	localization of cell
+GO:2000243	3	GO:0042127	regulation of cell population proliferation
+GO:0070727	20	GO:0051674	localization of cell
+GO:0060390	1	GO:0010469	regulation of signaling receptor activity
+GO:0060341	3	GO:0042127	regulation of cell population proliferation
+GO:2000780	5	GO:0051252	regulation of RNA metabolic process
+GO:0051445	3	GO:0042127	regulation of cell population proliferation
+GO:0043370	12	GO:0030856	regulation of epithelial cell differentiation
+GO:0042742	16	GO:0006955	immune response
+GO:2000711	8	GO:0046605	regulation of centrosome cycle
+GO:0090175	13	GO:0007389	pattern specification process
+GO:2000709	8	GO:0046605	regulation of centrosome cycle
+GO:0032330	12	GO:0030856	regulation of epithelial cell differentiation
+GO:0034762	3	GO:0042127	regulation of cell population proliferation
+GO:0060485	13	GO:0007389	pattern specification process
+GO:0042832	16	GO:0006955	immune response
+GO:0000917	9	GO:0016043	cellular component organization
+GO:1902105	12	GO:0030856	regulation of epithelial cell differentiation
+GO:1902106	12	GO:0030856	regulation of epithelial cell differentiation
+GO:0051298	9	GO:0016043	cellular component organization
+GO:0007306	11	GO:0019953	sexual reproduction
+GO:0071364	16	GO:0006955	immune response
+GO:0051261	9	GO:0016043	cellular component organization
+GO:0051252	5	GO:0051252	regulation of RNA metabolic process
+GO:0002376	20	GO:0051674	localization of cell
+GO:0033044	8	GO:0046605	regulation of centrosome cycle
+GO:0070507	8	GO:0046605	regulation of centrosome cycle
+GO:0071346	16	GO:0006955	immune response
+GO:0007413	14	GO:0048762	mesenchymal cell differentiation
+GO:0048268	9	GO:0016043	cellular component organization
+GO:0001885	14	GO:0048762	mesenchymal cell differentiation
+GO:0007409	14	GO:0048762	mesenchymal cell differentiation
+GO:0005981	7	GO:0001919	regulation of receptor recycling
+GO:0060255	4	GO:0001819	positive regulation of cytokine production
+GO:0001819	4	GO:0001819	positive regulation of cytokine production
+GO:0070602	8	GO:0046605	regulation of centrosome cycle
+GO:0140546	16	GO:0006955	immune response
+GO:0060278	11	GO:0019953	sexual reproduction
+GO:0120033	8	GO:0046605	regulation of centrosome cycle
+GO:0060279	11	GO:0019953	sexual reproduction
+GO:0072089	20	GO:0051674	localization of cell
+GO:0007162	3	GO:0042127	regulation of cell population proliferation
+GO:0000381	5	GO:0051252	regulation of RNA metabolic process
+GO:0045738	5	GO:0051252	regulation of RNA metabolic process
+GO:0007127	10	GO:0000819	sister chromatid segregation
+GO:0097696	1	GO:0010469	regulation of signaling receptor activity
+GO:0048762	14	GO:0048762	mesenchymal cell differentiation
+GO:0061028	14	GO:0048762	mesenchymal cell differentiation
+GO:0055002	14	GO:0048762	mesenchymal cell differentiation
+GO:0001562	16	GO:0006955	immune response
+GO:0045892	5	GO:0051252	regulation of RNA metabolic process
+GO:0032212	5	GO:0051252	regulation of RNA metabolic process
+GO:0010862	7	GO:0001919	regulation of receptor recycling
+GO:0060765	1	GO:0010469	regulation of signaling receptor activity
+GO:0045876	8	GO:0046605	regulation of centrosome cycle
+GO:0032200	9	GO:0016043	cellular component organization
+GO:0048706	13	GO:0007389	pattern specification process
+GO:0007259	1	GO:0010469	regulation of signaling receptor activity
+GO:0007289	11	GO:0019953	sexual reproduction
+GO:0010833	6	GO:0006056	mannoprotein metabolic process
+GO:0044351	20	GO:0051674	localization of cell
+GO:0019062	15	GO:0016032	viral process
+GO:0061982	10	GO:0000819	sister chromatid segregation
+GO:0002294	14	GO:0048762	mesenchymal cell differentiation
+GO:0048857	13	GO:0007389	pattern specification process
+GO:0009890	7	GO:0001919	regulation of receptor recycling
+GO:0051593	16	GO:0006955	immune response
+GO:0090529	9	GO:0016043	cellular component organization
+GO:0016321	10	GO:0000819	sister chromatid segregation
+GO:0030282	13	GO:0007389	pattern specification process
+GO:0010566	7	GO:0001919	regulation of receptor recycling
+GO:2001141	5	GO:0051252	regulation of RNA metabolic process
+GO:0010558	5	GO:0051252	regulation of RNA metabolic process
+GO:2000050	1	GO:0010469	regulation of signaling receptor activity
+GO:0010520	5	GO:0051252	regulation of RNA metabolic process
+GO:0010525	3	GO:0042127	regulation of cell population proliferation
+GO:0030239	9	GO:0016043	cellular component organization
+GO:2000035	3	GO:0042127	regulation of cell population proliferation
+GO:0032880	2	GO:0002685	regulation of leukocyte migration
+GO:2001252	8	GO:0046605	regulation of centrosome cycle
+GO:0034093	8	GO:0046605	regulation of centrosome cycle
+GO:0034094	8	GO:0046605	regulation of centrosome cycle
+GO:0034096	8	GO:0046605	regulation of centrosome cycle
+GO:0106030	14	GO:0048762	mesenchymal cell differentiation
+GO:0002761	12	GO:0030856	regulation of epithelial cell differentiation
+GO:0002762	12	GO:0030856	regulation of epithelial cell differentiation
+GO:0002763	12	GO:0030856	regulation of epithelial cell differentiation
+GO:0034087	10	GO:0000819	sister chromatid segregation
+GO:2001236	1	GO:0010469	regulation of signaling receptor activity
+GO:0045671	12	GO:0030856	regulation of epithelial cell differentiation
+GO:0010677	7	GO:0001919	regulation of receptor recycling
+GO:1902679	5	GO:0051252	regulation of RNA metabolic process
+GO:0051641	20	GO:0051674	localization of cell
+GO:0051646	20	GO:0051674	localization of cell
+GO:0045639	12	GO:0030856	regulation of epithelial cell differentiation
+GO:0051607	16	GO:0006955	immune response
+GO:0022408	3	GO:0042127	regulation of cell population proliferation
+GO:0040007	20	GO:0051674	localization of cell
+GO:0040008	3	GO:0042127	regulation of cell population proliferation
+GO:0030879	13	GO:0007389	pattern specification process
+GO:0006955	16	GO:0006955	immune response
+GO:0009615	16	GO:0006955	immune response
+GO:0098542	16	GO:0006955	immune response
+GO:0021548	13	GO:0007389	pattern specification process
+GO:0090090	1	GO:0010469	regulation of signaling receptor activity
+GO:0098534	9	GO:0016043	cellular component organization
+GO:1904355	5	GO:0051252	regulation of RNA metabolic process
+GO:0006935	16	GO:0006955	immune response
+GO:0062013	7	GO:0001919	regulation of receptor recycling
+GO:1903707	12	GO:0030856	regulation of epithelial cell differentiation
+GO:0090031	7	GO:0001919	regulation of receptor recycling
+GO:0016233	6	GO:0006056	mannoprotein metabolic process
+GO:2000370	2	GO:0002685	regulation of leukocyte migration
+GO:0051037	5	GO:0051252	regulation of RNA metabolic process
+GO:0042330	16	GO:0006955	immune response
+GO:0046813	15	GO:0016032	viral process
+GO:0031327	7	GO:0001919	regulation of receptor recycling
+GO:1902003	7	GO:0001919	regulation of receptor recycling
+GO:0031345	8	GO:0046605	regulation of centrosome cycle
+GO:0120255	6	GO:0006056	mannoprotein metabolic process
+GO:0006355	5	GO:0051252	regulation of RNA metabolic process
+GO:0006357	5	GO:0051252	regulation of RNA metabolic process
+GO:0060071	12	GO:0030856	regulation of epithelial cell differentiation
+GO:0010977	14	GO:0048762	mesenchymal cell differentiation
+GO:0051972	5	GO:0051252	regulation of RNA metabolic process
+GO:2000480	7	GO:0001919	regulation of receptor recycling
+GO:0051973	5	GO:0051252	regulation of RNA metabolic process
+GO:0051974	5	GO:0051252	regulation of RNA metabolic process
+GO:0010921	7	GO:0001919	regulation of receptor recycling
+GO:0045926	3	GO:0042127	regulation of cell population proliferation
+GO:0045912	7	GO:0001919	regulation of receptor recycling
+GO:0070169	12	GO:0030856	regulation of epithelial cell differentiation
+GO:0045934	5	GO:0051252	regulation of RNA metabolic process
+GO:1900024	12	GO:0030856	regulation of epithelial cell differentiation
+GO:1902930	7	GO:0001919	regulation of receptor recycling
+GO:0007098	9	GO:0016043	cellular component organization
+GO:0007064	10	GO:0000819	sister chromatid segregation
+GO:0043966	6	GO:0006056	mannoprotein metabolic process
+GO:2000176	12	GO:0030856	regulation of epithelial cell differentiation
+GO:0046635	2	GO:0002685	regulation of leukocyte migration
+GO:0033563	14	GO:0048762	mesenchymal cell differentiation
+GO:0043903	3	GO:0042127	regulation of cell population proliferation
+GO:0032946	2	GO:0002685	regulation of leukocyte migration
+GO:0065002	18	GO:0043269	regulation of ion transport
+GO:0050671	2	GO:0002685	regulation of leukocyte migration
+GO:0010453	3	GO:0042127	regulation of cell population proliferation
+GO:1902459	12	GO:0030856	regulation of epithelial cell differentiation
+GO:0043367	14	GO:0048762	mesenchymal cell differentiation
+GO:2000757	7	GO:0001919	regulation of receptor recycling
+GO:1903083	20	GO:0051674	localization of cell
+GO:0035067	7	GO:0001919	regulation of receptor recycling
+GO:0043326	16	GO:0006955	immune response
+GO:0070874	7	GO:0001919	regulation of receptor recycling
+GO:0034205	6	GO:0006056	mannoprotein metabolic process
+GO:0046006	2	GO:0002685	regulation of leukocyte migration
+GO:0051177	10	GO:0000819	sister chromatid segregation
+GO:0032309	18	GO:0043269	regulation of ion transport
+GO:0045144	10	GO:0000819	sister chromatid segregation
+GO:0043470	7	GO:0001919	regulation of receptor recycling
+GO:0043471	7	GO:0001919	regulation of receptor recycling
+GO:0000912	9	GO:0016043	cellular component organization
+GO:0061647	6	GO:0006056	mannoprotein metabolic process
+GO:0070665	3	GO:0042127	regulation of cell population proliferation
+GO:0018410	6	GO:0006056	mannoprotein metabolic process
+GO:0070673	16	GO:0006955	immune response
+GO:0071459	20	GO:0051674	localization of cell
+GO:0009251	6	GO:0006056	mannoprotein metabolic process
+GO:0005980	6	GO:0006056	mannoprotein metabolic process
+GO:0061081	4	GO:0001819	positive regulation of cytokine production
+GO:0014002	14	GO:0048762	mesenchymal cell differentiation
+GO:0007135	10	GO:0000819	sister chromatid segregation
+GO:0034502	20	GO:0051674	localization of cell
+GO:0034504	20	GO:0051674	localization of cell
+GO:0006501	6	GO:0006056	mannoprotein metabolic process
+GO:0001570	14	GO:0048762	mesenchymal cell differentiation
+GO:0030150	18	GO:0043269	regulation of ion transport
+GO:0048704	13	GO:0007389	pattern specification process
+GO:0090594	16	GO:0006955	immune response
+GO:0019064	15	GO:0016032	viral process
+GO:0061983	10	GO:0000819	sister chromatid segregation
+GO:0032729	4	GO:0001819	positive regulation of cytokine production
+GO:0015732	18	GO:0043269	regulation of ion transport
+GO:0002274	20	GO:0051674	localization of cell
+GO:0030223	14	GO:0048762	mesenchymal cell differentiation
+GO:0098743	20	GO:0051674	localization of cell
+GO:0000122	5	GO:0051252	regulation of RNA metabolic process
+GO:2000036	12	GO:0030856	regulation of epithelial cell differentiation
+GO:0034091	8	GO:0046605	regulation of centrosome cycle
+GO:0009593	16	GO:0006955	immune response
+GO:0032825	12	GO:0030856	regulation of epithelial cell differentiation
+GO:0050435	6	GO:0006056	mannoprotein metabolic process
+GO:0002756	1	GO:0010469	regulation of signaling receptor activity
+GO:0140014	10	GO:0000819	sister chromatid segregation
+GO:0045660	12	GO:0030856	regulation of epithelial cell differentiation
+GO:0045658	12	GO:0030856	regulation of epithelial cell differentiation
+GO:0051657	20	GO:0051674	localization of cell
+GO:0002720	4	GO:0001819	positive regulation of cytokine production
+GO:0042982	6	GO:0006056	mannoprotein metabolic process
+GO:0042987	6	GO:0006056	mannoprotein metabolic process
+GO:0016191	18	GO:0043269	regulation of ion transport
+GO:0071709	9	GO:0016043	cellular component organization
+GO:0045601	12	GO:0030856	regulation of epithelial cell differentiation
+GO:0048660	3	GO:0042127	regulation of cell population proliferation
+GO:0030852	12	GO:0030856	regulation of epithelial cell differentiation
+GO:0030854	12	GO:0030856	regulation of epithelial cell differentiation
+GO:0006952	16	GO:0006955	immune response
+GO:0006959	16	GO:0006955	immune response
+GO:0046718	15	GO:0016032	viral process
+GO:0032667	4	GO:0001819	positive regulation of cytokine production
+GO:0032689	4	GO:0001819	positive regulation of cytokine production
+GO:0032627	4	GO:0001819	positive regulation of cytokine production
+GO:0045087	16	GO:0006955	immune response
+GO:2000379	7	GO:0001919	regulation of receptor recycling
+GO:0000819	10	GO:0000819	sister chromatid segregation
+GO:0044743	18	GO:0043269	regulation of ion transport
+GO:1902991	7	GO:0001919	regulation of receptor recycling
+GO:1902993	7	GO:0001919	regulation of receptor recycling
+GO:0010934	4	GO:0001819	positive regulation of cytokine production
+GO:0010935	4	GO:0001819	positive regulation of cytokine production
+GO:0006301	6	GO:0006056	mannoprotein metabolic process
+GO:0009988	20	GO:0051674	localization of cell
+GO:1903651	2	GO:0002685	regulation of leukocyte migration
+GO:0043934	13	GO:0007389	pattern specification process
+GO:0046605	8	GO:0046605	regulation of centrosome cycle
+GO:0051383	9	GO:0016043	cellular component organization
+GO:0075136	16	GO:0006955	immune response
+GO:0060351	13	GO:0007389	pattern specification process
+GO:0009307	6	GO:0006056	mannoprotein metabolic process
+GO:1902405	20	GO:0051674	localization of cell
+GO:1905905	13	GO:0007389	pattern specification process
+GO:0070849	16	GO:0006955	immune response
+GO:0072698	20	GO:0051674	localization of cell
+GO:0051299	9	GO:0016043	cellular component organization
+GO:0090224	8	GO:0046605	regulation of centrosome cycle
+GO:0043171	6	GO:0006056	mannoprotein metabolic process
+GO:0031505	9	GO:0016043	cellular component organization
+GO:0075528	16	GO:0006955	immune response
+GO:0060236	8	GO:0046605	regulation of centrosome cycle
+GO:0007100	10	GO:0000819	sister chromatid segregation
+GO:0032240	18	GO:0043269	regulation of ion transport
+GO:0032242	18	GO:0043269	regulation of ion transport
+GO:0032243	18	GO:0043269	regulation of ion transport
+GO:0060766	1	GO:0010469	regulation of signaling receptor activity
+GO:1903490	8	GO:0046605	regulation of centrosome cycle
+GO:0032239	18	GO:0043269	regulation of ion transport
+GO:0002119	13	GO:0007389	pattern specification process
+GO:0010824	8	GO:0046605	regulation of centrosome cycle
+GO:0001502	13	GO:0007389	pattern specification process
+GO:0007281	11	GO:0019953	sexual reproduction
+GO:0007276	11	GO:0019953	sexual reproduction
+GO:0044355	16	GO:0006955	immune response
+GO:0044380	20	GO:0051674	localization of cell
+GO:1903436	8	GO:0046605	regulation of centrosome cycle
+GO:1903438	8	GO:0046605	regulation of centrosome cycle
+GO:0099046	16	GO:0006955	immune response
+GO:0044332	1	GO:0010469	regulation of signaling receptor activity
+GO:0080154	11	GO:0019953	sexual reproduction
+GO:0019049	15	GO:0016032	viral process
+GO:2000053	1	GO:0010469	regulation of signaling receptor activity
+GO:0046184	6	GO:0006056	mannoprotein metabolic process
+GO:0031055	9	GO:0016043	cellular component organization
+GO:2000028	12	GO:0030856	regulation of epithelial cell differentiation
+GO:0052173	16	GO:0006955	immune response
+GO:0031024	9	GO:0016043	cellular component organization
+GO:0042997	18	GO:0043269	regulation of ion transport
+GO:2001212	12	GO:0030856	regulation of epithelial cell differentiation
+GO:0010628	4	GO:0001819	positive regulation of cytokine production
+GO:0022412	11	GO:0019953	sexual reproduction
+GO:0072319	20	GO:0051674	localization of cell
+GO:0052200	16	GO:0006955	immune response
+GO:0003417	13	GO:0007389	pattern specification process
+GO:0120178	6	GO:0006056	mannoprotein metabolic process
+GO:0035891	15	GO:0016032	viral process
+GO:0071539	20	GO:0051674	localization of cell
+GO:1905508	20	GO:0051674	localization of cell
+GO:0034397	20	GO:0051674	localization of cell
+GO:0030682	16	GO:0006955	immune response
+GO:0008207	6	GO:0006056	mannoprotein metabolic process
+GO:0052553	16	GO:0006955	immune response
+GO:0045910	5	GO:0051252	regulation of RNA metabolic process
+GO:0031453	5	GO:0051252	regulation of RNA metabolic process
+GO:1900026	12	GO:0030856	regulation of epithelial cell differentiation
+GO:1902932	7	GO:0001919	regulation of receptor recycling
+GO:0070072	9	GO:0016043	cellular component organization
+GO:0010466	7	GO:0001919	regulation of receptor recycling
+GO:0009639	16	GO:0006955	immune response
+GO:0007338	11	GO:0019953	sexual reproduction
+GO:0039562	2	GO:0002685	regulation of leukocyte migration
+GO:0039564	2	GO:0002685	regulation of leukocyte migration
+GO:0039557	17	GO:0002759	regulation of antimicrobial humoral response
+GO:0039514	15	GO:0016032	viral process
+GO:0039540	17	GO:0002759	regulation of antimicrobial humoral response
+GO:0039545	17	GO:0002759	regulation of antimicrobial humoral response
+GO:0039548	17	GO:0002759	regulation of antimicrobial humoral response
+GO:0048232	11	GO:0019953	sexual reproduction
+GO:0039504	17	GO:0002759	regulation of antimicrobial humoral response
+GO:0014032	14	GO:0048762	mesenchymal cell differentiation
+GO:0051172	7	GO:0001919	regulation of receptor recycling
+GO:0051253	5	GO:0051252	regulation of RNA metabolic process
+GO:0032107	17	GO:0002759	regulation of antimicrobial humoral response
+GO:0006366	5	GO:0051252	regulation of RNA metabolic process
+GO:0061726	9	GO:0016043	cellular component organization
+GO:0045859	7	GO:0001919	regulation of receptor recycling
+GO:0034471	6	GO:0006056	mannoprotein metabolic process
+GO:1904776	2	GO:0002685	regulation of leukocyte migration
+GO:0051709	3	GO:0042127	regulation of cell population proliferation
+GO:0031324	7	GO:0001919	regulation of receptor recycling
+GO:1904747	12	GO:0030856	regulation of epithelial cell differentiation
+GO:1904748	12	GO:0030856	regulation of epithelial cell differentiation
+GO:0015858	18	GO:0043269	regulation of ion transport
+GO:0000967	6	GO:0006056	mannoprotein metabolic process
+GO:0090308	5	GO:0051252	regulation of RNA metabolic process
+GO:0000379	6	GO:0006056	mannoprotein metabolic process
+GO:0007584	16	GO:0006955	immune response
+GO:0002639	4	GO:0001819	positive regulation of cytokine production
+GO:0007589	18	GO:0043269	regulation of ion transport
+GO:0070231	20	GO:0051674	localization of cell
+GO:0070232	2	GO:0002685	regulation of leukocyte migration
+GO:0044247	6	GO:0006056	mannoprotein metabolic process
+GO:0009798	13	GO:0007389	pattern specification process
+GO:0140527	6	GO:0006056	mannoprotein metabolic process
+GO:0007020	9	GO:0016043	cellular component organization
+GO:0000422	9	GO:0016043	cellular component organization
+GO:0016973	18	GO:0043269	regulation of ion transport
+GO:0032095	17	GO:0002759	regulation of antimicrobial humoral response
+GO:1903202	2	GO:0002685	regulation of leukocyte migration
+GO:0050727	17	GO:0002759	regulation of antimicrobial humoral response
+GO:0009566	11	GO:0019953	sexual reproduction
+GO:0033138	7	GO:0001919	regulation of receptor recycling
+GO:0045920	2	GO:0002685	regulation of leukocyte migration
+GO:0099120	13	GO:0007389	pattern specification process
+GO:0007059	20	GO:0051674	localization of cell
+GO:0043984	6	GO:0006056	mannoprotein metabolic process
+GO:0031110	8	GO:0046605	regulation of centrosome cycle
+GO:0046632	14	GO:0048762	mesenchymal cell differentiation
+GO:0031134	10	GO:0000819	sister chromatid segregation
+GO:0019220	7	GO:0001919	regulation of receptor recycling
+GO:0002076	14	GO:0048762	mesenchymal cell differentiation
+GO:0032944	3	GO:0042127	regulation of cell population proliferation
+GO:0051300	9	GO:0016043	cellular component organization
+GO:0051303	20	GO:0051674	localization of cell
+GO:0050670	2	GO:0002685	regulation of leukocyte migration
+GO:1990758	10	GO:0000819	sister chromatid segregation
+GO:0030968	1	GO:0010469	regulation of signaling receptor activity
+GO:1904892	1	GO:0010469	regulation of signaling receptor activity
+GO:1904893	1	GO:0010469	regulation of signaling receptor activity
+GO:0071940	9	GO:0016043	cellular component organization
+GO:0000019	5	GO:0051252	regulation of RNA metabolic process
+GO:0080009	6	GO:0006056	mannoprotein metabolic process
+GO:0071900	7	GO:0001919	regulation of receptor recycling
+GO:0051174	7	GO:0001919	regulation of receptor recycling
+GO:0070591	11	GO:0019953	sexual reproduction
+GO:0045138	13	GO:0007389	pattern specification process
+GO:0045103	20	GO:0051674	localization of cell
+GO:0044000	15	GO:0016032	viral process
+GO:0050000	20	GO:0051674	localization of cell
+GO:0030307	3	GO:0042127	regulation of cell population proliferation
+GO:0030308	3	GO:0042127	regulation of cell population proliferation
+GO:0072091	3	GO:0042127	regulation of cell population proliferation
+GO:0031536	8	GO:0046605	regulation of centrosome cycle
+GO:0010761	20	GO:0051674	localization of cell
+GO:0010762	2	GO:0002685	regulation of leukocyte migration
+GO:0048246	16	GO:0006955	immune response
+GO:0097529	20	GO:0051674	localization of cell
+GO:0010758	2	GO:0002685	regulation of leukocyte migration
+GO:0090735	9	GO:0016043	cellular component organization
+GO:0009272	9	GO:0016043	cellular component organization
+GO:0071425	14	GO:0048762	mesenchymal cell differentiation
+GO:0032104	17	GO:0002759	regulation of antimicrobial humoral response
+GO:0039702	15	GO:0016032	viral process
+GO:0045744	1	GO:0010469	regulation of signaling receptor activity
+GO:0042628	11	GO:0019953	sexual reproduction
+GO:0045736	7	GO:0001919	regulation of receptor recycling
+GO:0007140	10	GO:0000819	sister chromatid segregation
+GO:0007143	10	GO:0000819	sister chromatid segregation
+GO:0051703	20	GO:0051674	localization of cell
+GO:0060760	17	GO:0002759	regulation of antimicrobial humoral response
+GO:0045869	15	GO:0016032	viral process
+GO:0034620	16	GO:0006955	immune response
+GO:0046425	1	GO:0010469	regulation of signaling receptor activity
+GO:0046426	1	GO:0010469	regulation of signaling receptor activity
+GO:0000423	9	GO:0016043	cellular component organization
+GO:0090598	13	GO:0007389	pattern specification process
+GO:0035456	16	GO:0006955	immune response
+GO:0032760	4	GO:0001819	positive regulation of cytokine production
+GO:0019068	15	GO:0016032	viral process
+GO:0002293	14	GO:0048762	mesenchymal cell differentiation
+GO:0019058	15	GO:0016032	viral process
+GO:0019080	15	GO:0016032	viral process
+GO:0042093	14	GO:0048762	mesenchymal cell differentiation
+GO:0032774	5	GO:0051252	regulation of RNA metabolic process
+GO:1904030	7	GO:0001919	regulation of receptor recycling
+GO:0002287	16	GO:0006955	immune response
+GO:0001649	14	GO:0048762	mesenchymal cell differentiation
+GO:0030242	20	GO:0051674	localization of cell
+GO:0039692	15	GO:0016032	viral process
+GO:0039695	15	GO:0016032	viral process
+GO:0002209	16	GO:0006955	immune response
+GO:0032886	3	GO:0042127	regulation of cell population proliferation
+GO:0000290	6	GO:0006056	mannoprotein metabolic process
+GO:0000266	9	GO:0016043	cellular component organization
+GO:0032801	6	GO:0006056	mannoprotein metabolic process
+GO:0000280	9	GO:0016043	cellular component organization
+GO:0040025	13	GO:0007389	pattern specification process
+GO:0040027	12	GO:0030856	regulation of epithelial cell differentiation
+GO:0002703	17	GO:0002759	regulation of antimicrobial humoral response
+GO:0071852	20	GO:0051674	localization of cell
+GO:0046755	15	GO:0016032	viral process
+GO:0000747	11	GO:0019953	sexual reproduction
+GO:0045091	15	GO:0016032	viral process
+GO:0032651	4	GO:0001819	positive regulation of cytokine production
+GO:0032652	4	GO:0001819	positive regulation of cytokine production
+GO:0032656	4	GO:0001819	positive regulation of cytokine production
+GO:0030595	16	GO:0006955	immune response
+GO:0032680	4	GO:0001819	positive regulation of cytokine production
+GO:0001959	1	GO:0010469	regulation of signaling receptor activity
+GO:0032611	4	GO:0001819	positive regulation of cytokine production
+GO:0032612	4	GO:0001819	positive regulation of cytokine production
+GO:0032640	4	GO:0001819	positive regulation of cytokine production
+GO:0032647	4	GO:0001819	positive regulation of cytokine production
+GO:0032649	4	GO:0001819	positive regulation of cytokine production
+GO:0030587	13	GO:0007389	pattern specification process
+GO:0030511	1	GO:0010469	regulation of signaling receptor activity
+GO:0033234	7	GO:0001919	regulation of receptor recycling
+GO:1905521	2	GO:0002685	regulation of leukocyte migration
+GO:1905522	2	GO:0002685	regulation of leukocyte migration
+GO:0032607	4	GO:0001819	positive regulation of cytokine production
+GO:0032609	4	GO:0001819	positive regulation of cytokine production
+GO:0036305	14	GO:0048762	mesenchymal cell differentiation
+GO:1905517	20	GO:0051674	localization of cell
+GO:0050796	18	GO:0043269	regulation of ion transport
+GO:1903846	1	GO:0010469	regulation of signaling receptor activity
+GO:0031348	17	GO:0002759	regulation of antimicrobial humoral response
+GO:0010968	8	GO:0046605	regulation of centrosome cycle
+GO:0002683	3	GO:0042127	regulation of cell population proliferation
+GO:0002686	2	GO:0002685	regulation of leukocyte migration
+GO:0002689	2	GO:0002685	regulation of leukocyte migration
+GO:0045950	5	GO:0051252	regulation of RNA metabolic process
+GO:0051987	8	GO:0046605	regulation of centrosome cycle
+GO:1900073	1	GO:0010469	regulation of signaling receptor activity
+GO:0070175	12	GO:0030856	regulation of epithelial cell differentiation
+GO:1901256	4	GO:0001819	positive regulation of cytokine production
+GO:1901258	4	GO:0001819	positive regulation of cytokine production
+GO:0045687	12	GO:0030856	regulation of epithelial cell differentiation
+GO:0018149	6	GO:0006056	mannoprotein metabolic process
+GO:1902430	7	GO:0001919	regulation of receptor recycling
+GO:1901224	1	GO:0010469	regulation of signaling receptor activity
+GO:1905936	3	GO:0042127	regulation of cell population proliferation
+GO:1902406	9	GO:0016043	cellular component organization
+GO:0016525	12	GO:0030856	regulation of epithelial cell differentiation
+GO:0016540	6	GO:0006056	mannoprotein metabolic process
+GO:1900818	6	GO:0006056	mannoprotein metabolic process
+GO:0016539	6	GO:0006056	mannoprotein metabolic process
+GO:0019478	6	GO:0006056	mannoprotein metabolic process
+GO:0043055	13	GO:0007389	pattern specification process
+GO:0048133	11	GO:0019953	sexual reproduction
+GO:1990809	9	GO:0016043	cellular component organization
+GO:0043001	18	GO:0043269	regulation of ion transport
+GO:0090156	20	GO:0051674	localization of cell
+GO:0030216	14	GO:0048762	mesenchymal cell differentiation
+GO:0140367	16	GO:0006955	immune response
+GO:0048239	5	GO:0051252	regulation of RNA metabolic process
+GO:1901861	12	GO:0030856	regulation of epithelial cell differentiation
+GO:0060439	13	GO:0007389	pattern specification process
+GO:0031154	13	GO:0007389	pattern specification process
+GO:0010778	6	GO:0006056	mannoprotein metabolic process
+GO:0003007	13	GO:0007389	pattern specification process
+GO:0031128	13	GO:0007389	pattern specification process
+GO:0014012	14	GO:0048762	mesenchymal cell differentiation
+GO:0090297	7	GO:0001919	regulation of receptor recycling
+GO:0034059	16	GO:0006955	immune response
+GO:0046601	8	GO:0046605	regulation of centrosome cycle
+GO:0046602	8	GO:0046605	regulation of centrosome cycle
+GO:0000272	6	GO:0006056	mannoprotein metabolic process
+GO:0070193	9	GO:0016043	cellular component organization
+GO:1904376	2	GO:0002685	regulation of leukocyte migration
+GO:0032465	8	GO:0046605	regulation of centrosome cycle
+GO:2001032	5	GO:0051252	regulation of RNA metabolic process
+GO:1901563	16	GO:0006955	immune response
+GO:0030890	2	GO:0002685	regulation of leukocyte migration
+GO:0010825	8	GO:0046605	regulation of centrosome cycle
+GO:0042476	13	GO:0007389	pattern specification process
+GO:0061462	20	GO:0051674	localization of cell
+GO:0032438	9	GO:0016043	cellular component organization
+GO:0010839	2	GO:0002685	regulation of leukocyte migration
+GO:0045948	7	GO:0001919	regulation of receptor recycling
+GO:0033366	20	GO:0051674	localization of cell
+GO:0021795	13	GO:0007389	pattern specification process
+GO:0021799	13	GO:0007389	pattern specification process
+GO:0007527	13	GO:0007389	pattern specification process
+GO:0032120	11	GO:0019953	sexual reproduction
+GO:0010529	3	GO:0042127	regulation of cell population proliferation
+GO:2000347	12	GO:0030856	regulation of epithelial cell differentiation
+GO:0035022	1	GO:0010469	regulation of signaling receptor activity
+GO:1902801	5	GO:0051252	regulation of RNA metabolic process
+GO:0051292	9	GO:0016043	cellular component organization
+GO:0070726	9	GO:0016043	cellular component organization
+GO:0051257	10	GO:0000819	sister chromatid segregation
+GO:0021801	14	GO:0048762	mesenchymal cell differentiation
+GO:0050871	2	GO:0002685	regulation of leukocyte migration
+GO:0006964	17	GO:0002759	regulation of antimicrobial humoral response
+GO:0001707	13	GO:0007389	pattern specification process
+GO:0001708	14	GO:0048762	mesenchymal cell differentiation
+GO:0050848	1	GO:0010469	regulation of signaling receptor activity
+GO:0071211	18	GO:0043269	regulation of ion transport
+GO:0033173	1	GO:0010469	regulation of signaling receptor activity
+GO:0043150	6	GO:0006056	mannoprotein metabolic process
+GO:0021553	13	GO:0007389	pattern specification process
+GO:0070884	1	GO:0010469	regulation of signaling receptor activity
+GO:0031566	9	GO:0016043	cellular component organization
+GO:2000172	12	GO:0030856	regulation of epithelial cell differentiation
+GO:0048609	11	GO:0019953	sexual reproduction
+GO:0039573	17	GO:0002759	regulation of antimicrobial humoral response
+GO:0031581	9	GO:0016043	cellular component organization
+GO:0034499	20	GO:0051674	localization of cell
+GO:0061756	20	GO:0051674	localization of cell
+GO:0042744	6	GO:0006056	mannoprotein metabolic process
+GO:2000105	7	GO:0001919	regulation of receptor recycling
+GO:0070590	14	GO:0048762	mesenchymal cell differentiation
+GO:0071787	9	GO:0016043	cellular component organization
+GO:0098670	15	GO:0016032	viral process
+GO:0098671	15	GO:0016032	viral process
+GO:0031508	5	GO:0051252	regulation of RNA metabolic process
+GO:0002787	17	GO:0002759	regulation of antimicrobial humoral response
+GO:0098609	20	GO:0051674	localization of cell
+GO:1900004	7	GO:0001919	regulation of receptor recycling
+GO:0051884	12	GO:0030856	regulation of epithelial cell differentiation
+GO:0006032	6	GO:0006056	mannoprotein metabolic process
+GO:0035321	14	GO:0048762	mesenchymal cell differentiation
+GO:0017085	16	GO:0006955	immune response
+GO:0034162	1	GO:0010469	regulation of signaling receptor activity
+GO:0051598	8	GO:0046605	regulation of centrosome cycle
+GO:0032528	9	GO:0016043	cellular component organization
+GO:0035458	16	GO:0006955	immune response
+GO:0009640	13	GO:0007389	pattern specification process
+GO:0042542	16	GO:0006955	immune response
+GO:0032504	11	GO:0019953	sexual reproduction
+GO:0032505	11	GO:0019953	sexual reproduction
+GO:0099614	20	GO:0051674	localization of cell
+GO:1902992	7	GO:0001919	regulation of receptor recycling
+GO:0007051	9	GO:0016043	cellular component organization
+GO:0042661	12	GO:0030856	regulation of epithelial cell differentiation
+GO:0002523	16	GO:0006955	immune response
+GO:0042659	3	GO:0042127	regulation of cell population proliferation
+GO:0051659	20	GO:0051674	localization of cell
+GO:0036301	4	GO:0001819	positive regulation of cytokine production
+GO:0071652	4	GO:0001819	positive regulation of cytokine production
+GO:0071655	4	GO:0001819	positive regulation of cytokine production
+GO:0016477	20	GO:0051674	localization of cell
+GO:0000914	9	GO:0016043	cellular component organization
+GO:0071610	4	GO:0001819	positive regulation of cytokine production
+GO:0071611	4	GO:0001819	positive regulation of cytokine production
+GO:0030041	9	GO:0016043	cellular component organization
+GO:0040026	12	GO:0030856	regulation of epithelial cell differentiation
+GO:0040028	12	GO:0030856	regulation of epithelial cell differentiation
+GO:0040018	12	GO:0030856	regulation of epithelial cell differentiation
+GO:1905523	2	GO:0002685	regulation of leukocyte migration
+GO:1905515	9	GO:0016043	cellular component organization
+GO:0006303	6	GO:0006056	mannoprotein metabolic process
+GO:0045214	9	GO:0016043	cellular component organization
+GO:2000694	8	GO:0046605	regulation of centrosome cycle
+GO:0000079	7	GO:0001919	regulation of receptor recycling
+GO:0033621	6	GO:0006056	mannoprotein metabolic process
+GO:0072695	5	GO:0051252	regulation of RNA metabolic process
+GO:1905664	18	GO:0043269	regulation of ion transport
+GO:0000001	9	GO:0016043	cellular component organization
+GO:0000003	11	GO:0019953	sexual reproduction
+GO:0060907	4	GO:0001819	positive regulation of cytokine production
+GO:0070935	5	GO:0051252	regulation of RNA metabolic process
+GO:0033601	12	GO:0030856	regulation of epithelial cell differentiation
+GO:0033605	18	GO:0043269	regulation of ion transport
+GO:0009913	14	GO:0048762	mesenchymal cell differentiation
+GO:2000648	3	GO:0042127	regulation of cell population proliferation
+GO:0072675	14	GO:0048762	mesenchymal cell differentiation
+GO:0031048	5	GO:0051252	regulation of RNA metabolic process
+GO:0007389	13	GO:0007389	pattern specification process
+GO:0007370	13	GO:0007389	pattern specification process
+GO:0016237	20	GO:0051674	localization of cell
+GO:1990172	1	GO:0010469	regulation of signaling receptor activity
+GO:0036212	9	GO:0016043	cellular component organization
+GO:1904994	2	GO:0002685	regulation of leukocyte migration
+GO:1904996	2	GO:0002685	regulation of leukocyte migration
+GO:0061951	20	GO:0051674	localization of cell
+GO:0071955	20	GO:0051674	localization of cell
+GO:0110011	8	GO:0046605	regulation of centrosome cycle
+GO:0022030	14	GO:0048762	mesenchymal cell differentiation
+GO:0042052	14	GO:0048762	mesenchymal cell differentiation
+GO:0051053	5	GO:0051252	regulation of RNA metabolic process
+GO:1901186	1	GO:0010469	regulation of signaling receptor activity
+GO:0015695	18	GO:0043269	regulation of ion transport
+GO:0061045	17	GO:0002759	regulation of antimicrobial humoral response
+GO:1902440	20	GO:0051674	localization of cell
+GO:0007293	11	GO:0019953	sexual reproduction
+GO:0016573	6	GO:0006056	mannoprotein metabolic process
+GO:0031334	8	GO:0046605	regulation of centrosome cycle
+GO:0050482	18	GO:0043269	regulation of ion transport
+GO:0008293	1	GO:0010469	regulation of signaling receptor activity
+GO:0060295	2	GO:0002685	regulation of leukocyte migration
+GO:0060263	7	GO:0001919	regulation of receptor recycling
+GO:0001101	16	GO:0006955	immune response
+GO:0007525	13	GO:0007389	pattern specification process
+GO:0045069	15	GO:0016032	viral process
+GO:0120263	8	GO:0046605	regulation of centrosome cycle
+GO:0035017	13	GO:0007389	pattern specification process
+GO:0045071	15	GO:0016032	viral process
+GO:0048582	12	GO:0030856	regulation of epithelial cell differentiation
+GO:0043491	1	GO:0010469	regulation of signaling receptor activity
+GO:0003352	2	GO:0002685	regulation of leukocyte migration
+GO:0048525	2	GO:0002685	regulation of leukocyte migration
+GO:0098813	10	GO:0000819	sister chromatid segregation
+GO:1903873	8	GO:0046605	regulation of centrosome cycle
+GO:0090521	20	GO:0051674	localization of cell
+GO:0016043	9	GO:0016043	cellular component organization
+GO:0002250	16	GO:0006955	immune response
+GO:0060836	14	GO:0048762	mesenchymal cell differentiation
+GO:0043112	6	GO:0006056	mannoprotein metabolic process
+GO:0039694	15	GO:0016032	viral process
+GO:0032878	3	GO:0042127	regulation of cell population proliferation
+GO:1905269	8	GO:0046605	regulation of centrosome cycle
+GO:1901984	7	GO:0001919	regulation of receptor recycling
+GO:0044409	15	GO:0016032	viral process
+GO:2000242	3	GO:0042127	regulation of cell population proliferation
+GO:0043200	16	GO:0006955	immune response
+GO:0002709	17	GO:0002759	regulation of antimicrobial humoral response
+GO:0034184	8	GO:0046605	regulation of centrosome cycle
+GO:2000781	5	GO:0051252	regulation of RNA metabolic process
+GO:0060632	3	GO:0042127	regulation of cell population proliferation
+GO:0032506	10	GO:0000819	sister chromatid segregation
+GO:0044782	9	GO:0016043	cellular component organization
+GO:0040015	12	GO:0030856	regulation of epithelial cell differentiation
+GO:1902017	8	GO:0046605	regulation of centrosome cycle
+GO:1902019	2	GO:0002685	regulation of leukocyte migration
+GO:0035212	12	GO:0030856	regulation of epithelial cell differentiation
+GO:0090085	7	GO:0001919	regulation of receptor recycling
+GO:0006475	6	GO:0006056	mannoprotein metabolic process
+GO:1903900	15	GO:0016032	viral process
+GO:0045752	1	GO:0010469	regulation of signaling receptor activity
+GO:0001946	13	GO:0007389	pattern specification process
+GO:1901317	2	GO:0002685	regulation of leukocyte migration
+GO:0015855	18	GO:0043269	regulation of ion transport
+GO:1990166	20	GO:0051674	localization of cell
+GO:0018393	6	GO:0006056	mannoprotein metabolic process
+GO:0018394	6	GO:0006056	mannoprotein metabolic process
+GO:0007341	11	GO:0019953	sexual reproduction
+GO:1903003	7	GO:0001919	regulation of receptor recycling
+GO:0010457	9	GO:0016043	cellular component organization
+GO:0061063	12	GO:0030856	regulation of epithelial cell differentiation
+GO:0043954	9	GO:0016043	cellular component organization
+GO:0035694	6	GO:0006056	mannoprotein metabolic process
+GO:1905168	5	GO:0051252	regulation of RNA metabolic process
+GO:0046600	8	GO:0046605	regulation of centrosome cycle
+GO:0046606	8	GO:0046605	regulation of centrosome cycle
+GO:0035666	1	GO:0010469	regulation of signaling receptor activity
+GO:0006612	18	GO:0043269	regulation of ion transport
+GO:0044010	20	GO:0051674	localization of cell
+GO:0090307	9	GO:0016043	cellular component organization
+GO:1990051	7	GO:0001919	regulation of receptor recycling
+GO:0070391	16	GO:0006955	immune response
+GO:0030168	20	GO:0051674	localization of cell
+GO:0051965	12	GO:0030856	regulation of epithelial cell differentiation
+GO:1900005	7	GO:0001919	regulation of receptor recycling
+GO:1900006	12	GO:0030856	regulation of epithelial cell differentiation
+GO:0099149	2	GO:0002685	regulation of leukocyte migration
+GO:0061912	20	GO:0051674	localization of cell
+GO:1903969	17	GO:0002759	regulation of antimicrobial humoral response
+GO:0061900	20	GO:0051674	localization of cell
+GO:1903971	17	GO:0002759	regulation of antimicrobial humoral response
+GO:1903972	3	GO:0042127	regulation of cell population proliferation
+GO:1903974	1	GO:0010469	regulation of signaling receptor activity
+GO:0075512	15	GO:0016032	viral process
+GO:0000183	5	GO:0051252	regulation of RNA metabolic process
+GO:0043007	6	GO:0006056	mannoprotein metabolic process
+GO:0140357	18	GO:0043269	regulation of ion transport
+GO:1905751	18	GO:0043269	regulation of ion transport
+GO:0000128	20	GO:0051674	localization of cell
+GO:0060415	13	GO:0007389	pattern specification process
+GO:0032060	9	GO:0016043	cellular component organization
+GO:0070426	1	GO:0010469	regulation of signaling receptor activity
+GO:0070428	1	GO:0010469	regulation of signaling receptor activity
+GO:0070430	1	GO:0010469	regulation of signaling receptor activity
+GO:0070434	1	GO:0010469	regulation of signaling receptor activity
+GO:0010769	12	GO:0030856	regulation of epithelial cell differentiation
+GO:0010770	12	GO:0030856	regulation of epithelial cell differentiation
+GO:0010727	7	GO:0001919	regulation of receptor recycling
+GO:0090266	8	GO:0046605	regulation of centrosome cycle
+GO:0090281	18	GO:0043269	regulation of ion transport
+GO:0060122	14	GO:0048762	mesenchymal cell differentiation
+GO:0090279	18	GO:0043269	regulation of ion transport
+GO:0015977	6	GO:0006056	mannoprotein metabolic process
+GO:0060135	11	GO:0019953	sexual reproduction
+GO:0120161	4	GO:0001819	positive regulation of cytokine production
+GO:0120162	4	GO:0001819	positive regulation of cytokine production
+GO:0019532	18	GO:0043269	regulation of ion transport
+GO:0010826	8	GO:0046605	regulation of centrosome cycle
+GO:0110134	11	GO:0019953	sexual reproduction
+GO:0045927	3	GO:0042127	regulation of cell population proliferation
+GO:0045911	5	GO:0051252	regulation of RNA metabolic process
+GO:1905550	2	GO:0002685	regulation of leukocyte migration
+GO:1905552	2	GO:0002685	regulation of leukocyte migration
+GO:1905580	1	GO:0010469	regulation of signaling receptor activity
+GO:0034453	9	GO:0016043	cellular component organization
+GO:1905578	1	GO:0010469	regulation of signaling receptor activity
+GO:0034472	6	GO:0006056	mannoprotein metabolic process
+GO:0038060	1	GO:0010469	regulation of signaling receptor activity
+GO:0050798	20	GO:0051674	localization of cell
+GO:0010569	5	GO:0051252	regulation of RNA metabolic process
+GO:0050769	12	GO:0030856	regulation of epithelial cell differentiation
+GO:0010572	2	GO:0002685	regulation of leukocyte migration
+GO:1904082	18	GO:0043269	regulation of ion transport
+GO:0010524	2	GO:0002685	regulation of leukocyte migration
+GO:0050787	16	GO:0006955	immune response
+GO:0050775	12	GO:0030856	regulation of epithelial cell differentiation
+GO:0039648	6	GO:0006056	mannoprotein metabolic process
+GO:0034163	1	GO:0010469	regulation of signaling receptor activity
+GO:0034165	1	GO:0010469	regulation of signaling receptor activity
+GO:0003354	2	GO:0002685	regulation of leukocyte migration
+GO:0030539	13	GO:0007389	pattern specification process
+GO:0034112	2	GO:0002685	regulation of leukocyte migration
+GO:1905632	20	GO:0051674	localization of cell
+GO:0034116	2	GO:0002685	regulation of leukocyte migration
+GO:0034138	1	GO:0010469	regulation of signaling receptor activity
+GO:0010650	3	GO:0042127	regulation of cell population proliferation
+GO:0042316	6	GO:0006056	mannoprotein metabolic process
+GO:0034109	20	GO:0051674	localization of cell
+GO:0042338	13	GO:0007389	pattern specification process
+GO:0010649	3	GO:0042127	regulation of cell population proliferation
+GO:0030653	6	GO:0006056	mannoprotein metabolic process
+GO:0009631	16	GO:0006955	immune response
+GO:0099612	20	GO:0051674	localization of cell
+GO:0032497	16	GO:0006955	immune response
+GO:0007094	8	GO:0046605	regulation of centrosome cycle
+GO:0002361	14	GO:0048762	mesenchymal cell differentiation
+GO:0070886	1	GO:0010469	regulation of signaling receptor activity
+GO:0097091	18	GO:0043269	regulation of ion transport
+GO:0099606	10	GO:0000819	sister chromatid segregation
+GO:0099607	10	GO:0000819	sister chromatid segregation
+GO:0032472	18	GO:0043269	regulation of ion transport
+GO:0016048	16	GO:0006955	immune response
+GO:0007079	10	GO:0000819	sister chromatid segregation
+GO:0003433	14	GO:0048762	mesenchymal cell differentiation
+GO:2000360	3	GO:0042127	regulation of cell population proliferation
+GO:2000352	2	GO:0002685	regulation of leukocyte migration
+GO:0036089	9	GO:0016043	cellular component organization
+GO:0033139	7	GO:0001919	regulation of receptor recycling
+GO:1900273	1	GO:0010469	regulation of signaling receptor activity
+GO:1990267	16	GO:0006955	immune response
+GO:1990268	16	GO:0006955	immune response
+GO:0043111	5	GO:0051252	regulation of RNA metabolic process
+GO:0022409	3	GO:0042127	regulation of cell population proliferation
+GO:1900227	8	GO:0046605	regulation of centrosome cycle
+GO:2000377	3	GO:0042127	regulation of cell population proliferation
+GO:2000378	7	GO:0001919	regulation of receptor recycling
+GO:0007000	9	GO:0016043	cellular component organization
+GO:1902020	2	GO:0002685	regulation of leukocyte migration
+GO:0070550	9	GO:0016043	cellular component organization
+GO:1902042	1	GO:0010469	regulation of signaling receptor activity
+GO:2000307	4	GO:0001819	positive regulation of cytokine production
+GO:0046008	11	GO:0019953	sexual reproduction
+GO:0043267	18	GO:0043269	regulation of ion transport
+GO:0033275	20	GO:0051674	localization of cell
+GO:0006056	6	GO:0006056	mannoprotein metabolic process
+GO:0006057	6	GO:0006056	mannoprotein metabolic process
+GO:0042150	6	GO:0006056	mannoprotein metabolic process
+GO:0072378	6	GO:0006056	mannoprotein metabolic process
+GO:0019934	1	GO:0010469	regulation of signaling receptor activity
+GO:0014850	16	GO:0006955	immune response
+GO:1990773	18	GO:0043269	regulation of ion transport
+GO:1901086	6	GO:0006056	mannoprotein metabolic process
+GO:0042104	2	GO:0002685	regulation of leukocyte migration
+GO:0045033	9	GO:0016043	cellular component organization
+GO:0072499	14	GO:0048762	mesenchymal cell differentiation
+GO:1990709	9	GO:0016043	cellular component organization
+GO:0031153	13	GO:0007389	pattern specification process
+GO:0002115	18	GO:0043269	regulation of ion transport
+GO:0042273	9	GO:0016043	cellular component organization
+GO:1905909	12	GO:0030856	regulation of epithelial cell differentiation
+GO:1904464	18	GO:0043269	regulation of ion transport
+GO:1904466	18	GO:0043269	regulation of ion transport
+GO:1900827	2	GO:0002685	regulation of leukocyte migration
+GO:0002298	14	GO:0048762	mesenchymal cell differentiation
+GO:0030989	10	GO:0000819	sister chromatid segregation
+GO:0007391	13	GO:0007389	pattern specification process
+GO:0031294	2	GO:0002685	regulation of leukocyte migration
+GO:0031297	6	GO:0006056	mannoprotein metabolic process
+GO:0002269	16	GO:0006955	immune response
+GO:0036394	18	GO:0043269	regulation of ion transport
+GO:1904407	7	GO:0001919	regulation of receptor recycling
+GO:2000295	7	GO:0001919	regulation of receptor recycling
+GO:0002246	16	GO:0006955	immune response
+GO:0038129	1	GO:0010469	regulation of signaling receptor activity
+GO:0071421	18	GO:0043269	regulation of ion transport
+GO:0042730	17	GO:0002759	regulation of antimicrobial humoral response
+GO:0032707	4	GO:0001819	positive regulation of cytokine production
+GO:1903426	7	GO:0001919	regulation of receptor recycling
+GO:0016485	6	GO:0006056	mannoprotein metabolic process
+GO:1902307	18	GO:0043269	regulation of ion transport
+GO:0032829	12	GO:0030856	regulation of epithelial cell differentiation
+GO:0043570	6	GO:0006056	mannoprotein metabolic process
+GO:0032831	12	GO:0030856	regulation of epithelial cell differentiation
+GO:0032832	12	GO:0030856	regulation of epithelial cell differentiation
+GO:0043543	6	GO:0006056	mannoprotein metabolic process
+GO:0006306	6	GO:0006056	mannoprotein metabolic process
+GO:0007193	1	GO:0010469	regulation of signaling receptor activity
+GO:1901318	2	GO:0002685	regulation of leukocyte migration
+GO:0048790	9	GO:0016043	cellular component organization
+GO:0036158	9	GO:0016043	cellular component organization
+GO:0036159	9	GO:0016043	cellular component organization
+GO:0071223	16	GO:0006955	immune response
+GO:0045450	11	GO:0019953	sexual reproduction
+GO:0006432	6	GO:0006056	mannoprotein metabolic process
+GO:0033603	18	GO:0043269	regulation of ion transport
+GO:0001703	13	GO:0007389	pattern specification process
+GO:0046136	7	GO:0001919	regulation of receptor recycling
+GO:0048708	14	GO:0048762	mesenchymal cell differentiation
+GO:0035151	13	GO:0007389	pattern specification process
+GO:0007228	5	GO:0051252	regulation of RNA metabolic process
+GO:0002534	4	GO:0001819	positive regulation of cytokine production
+GO:0022604	12	GO:0030856	regulation of epithelial cell differentiation
+GO:0071720	18	GO:0043269	regulation of ion transport
+GO:0045163	14	GO:0048762	mesenchymal cell differentiation
+GO:0048870	20	GO:0051674	localization of cell
+GO:0071715	18	GO:0043269	regulation of ion transport
+GO:0071716	18	GO:0043269	regulation of ion transport
+GO:1902260	18	GO:0043269	regulation of ion transport
+GO:0031503	20	GO:0051674	localization of cell
+GO:0031506	6	GO:0006056	mannoprotein metabolic process
+GO:1904823	18	GO:0043269	regulation of ion transport
+GO:1903724	8	GO:0046605	regulation of centrosome cycle
+GO:0009047	4	GO:0001819	positive regulation of cytokine production
+GO:0098700	18	GO:0043269	regulation of ion transport
+GO:0002667	12	GO:0030856	regulation of epithelial cell differentiation
+GO:0048806	13	GO:0007389	pattern specification process
+GO:0010004	13	GO:0007389	pattern specification process
+GO:0071895	14	GO:0048762	mesenchymal cell differentiation
+GO:0046209	6	GO:0006056	mannoprotein metabolic process
+GO:0031663	1	GO:0010469	regulation of signaling receptor activity
+GO:0045109	9	GO:0016043	cellular component organization
+GO:0001578	9	GO:0016043	cellular component organization
+GO:0040014	12	GO:0030856	regulation of epithelial cell differentiation
+GO:0040019	12	GO:0030856	regulation of epithelial cell differentiation
+GO:0006275	5	GO:0051252	regulation of RNA metabolic process
+GO:0071880	1	GO:0010469	regulation of signaling receptor activity
+GO:2000651	18	GO:0043269	regulation of ion transport
+GO:1902794	5	GO:0051252	regulation of RNA metabolic process
+GO:0046765	15	GO:0016032	viral process
+GO:0072531	18	GO:0043269	regulation of ion transport
+GO:0072535	4	GO:0001819	positive regulation of cytokine production
+GO:0090062	7	GO:0001919	regulation of receptor recycling
+GO:0008592	1	GO:0010469	regulation of signaling receptor activity
+GO:1903817	18	GO:0043269	regulation of ion transport
+GO:1901222	1	GO:0010469	regulation of signaling receptor activity
+GO:0090052	5	GO:0051252	regulation of RNA metabolic process
+GO:0090053	5	GO:0051252	regulation of RNA metabolic process
+GO:0046701	16	GO:0006955	immune response
+GO:0000032	6	GO:0006056	mannoprotein metabolic process
+GO:0072660	20	GO:0051674	localization of cell
+GO:0015722	18	GO:0043269	regulation of ion transport
+GO:0015723	18	GO:0043269	regulation of ion transport
+GO:0072658	20	GO:0051674	localization of cell
+GO:0006727	6	GO:0006056	mannoprotein metabolic process
+GO:0048639	12	GO:0030856	regulation of epithelial cell differentiation
+GO:1904646	16	GO:0006955	immune response
+GO:0071507	1	GO:0010469	regulation of signaling receptor activity
+GO:0015860	18	GO:0043269	regulation of ion transport
+GO:0015862	18	GO:0043269	regulation of ion transport
+GO:0015889	18	GO:0043269	regulation of ion transport
+GO:0070073	14	GO:0048762	mesenchymal cell differentiation
+GO:0007565	11	GO:0019953	sexual reproduction
+GO:0006863	18	GO:0043269	regulation of ion transport
+GO:0032971	2	GO:0002685	regulation of leukocyte migration
+GO:0006880	20	GO:0051674	localization of cell
+GO:0035864	16	GO:0006955	immune response
+GO:0035865	16	GO:0006955	immune response
+GO:0045898	5	GO:0051252	regulation of RNA metabolic process
+GO:0008643	18	GO:0043269	regulation of ion transport
+GO:0051602	16	GO:0006955	immune response
+GO:1905309	8	GO:0046605	regulation of centrosome cycle
+GO:0010310	7	GO:0001919	regulation of receptor recycling
+GO:0046548	14	GO:0048762	mesenchymal cell differentiation
+GO:0042906	18	GO:0043269	regulation of ion transport
+GO:0042908	18	GO:0043269	regulation of ion transport
+GO:0140052	16	GO:0006955	immune response
+GO:0030317	20	GO:0051674	localization of cell
+GO:0097695	20	GO:0051674	localization of cell
+GO:0140043	20	GO:0051674	localization of cell
+GO:0006581	6	GO:0006056	mannoprotein metabolic process
+GO:0045598	3	GO:0042127	regulation of cell population proliferation
+GO:0097656	20	GO:0051674	localization of cell
+GO:0031915	1	GO:0010469	regulation of signaling receptor activity
+GO:0007635	16	GO:0006955	immune response
+GO:0046680	16	GO:0006955	immune response
+GO:0015694	18	GO:0043269	regulation of ion transport

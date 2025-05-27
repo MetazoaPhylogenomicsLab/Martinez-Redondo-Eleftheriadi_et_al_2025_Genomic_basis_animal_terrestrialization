@@ -1,0 +1,93 @@
+GO:0019013	6	GO:0043235	receptor complex
+GO:0031514	1	GO:0005929	cilium
+GO:0005902	8	GO:0071944	cell periphery
+GO:0019031	6	GO:0043235	receptor complex
+GO:0019033	6	GO:0043235	receptor complex
+GO:0000794	2	GO:0001650	fibrillar center
+GO:0031012	8	GO:0071944	cell periphery
+GO:0072487	2	GO:0001650	fibrillar center
+GO:0042025	4	GO:0044178	host cell Golgi membrane
+GO:0044199	4	GO:0044178	host cell Golgi membrane
+GO:0005576	8	GO:0071944	cell periphery
+GO:0071944	8	GO:0071944	cell periphery
+GO:0031160	8	GO:0071944	cell periphery
+GO:0036038	1	GO:0005929	cilium
+GO:0099086	2	GO:0001650	fibrillar center
+GO:0045169	8	GO:0071944	cell periphery
+GO:0008076	7	GO:0005886	plasma membrane
+GO:0044156	4	GO:0044178	host cell Golgi membrane
+GO:0020002	4	GO:0044178	host cell Golgi membrane
+GO:0000781	3	GO:0005856	cytoskeleton
+GO:0097546	1	GO:0005929	cilium
+GO:0000785	3	GO:0005856	cytoskeleton
+GO:0044732	3	GO:0005856	cytoskeleton
+GO:0045172	8	GO:0071944	cell periphery
+GO:0036126	1	GO:0005929	cilium
+GO:0044175	4	GO:0044178	host cell Golgi membrane
+GO:0044177	4	GO:0044178	host cell Golgi membrane
+GO:0044178	4	GO:0044178	host cell Golgi membrane
+GO:0097729	1	GO:0005929	cilium
+GO:0034705	7	GO:0005886	plasma membrane
+GO:0034706	7	GO:0005886	plasma membrane
+GO:0001740	2	GO:0001650	fibrillar center
+GO:0016323	7	GO:0005886	plasma membrane
+GO:0016324	7	GO:0005886	plasma membrane
+GO:0097730	1	GO:0005929	cilium
+GO:0097731	1	GO:0005929	cilium
+GO:0044666	2	GO:0001650	fibrillar center
+GO:0002177	3	GO:0005856	cytoskeleton
+GO:0016342	7	GO:0005886	plasma membrane
+GO:0055036	8	GO:0071944	cell periphery
+GO:0009707	5	GO:0009707	chloroplast outer membrane
+GO:0015630	3	GO:0005856	cytoskeleton
+GO:0035869	1	GO:0005929	cilium
+GO:0005668	2	GO:0001650	fibrillar center
+GO:0001669	8	GO:0071944	cell periphery
+GO:0001650	2	GO:0001650	fibrillar center
+GO:0005891	7	GO:0005886	plasma membrane
+GO:0033645	4	GO:0044178	host cell Golgi membrane
+GO:0009897	7	GO:0005886	plasma membrane
+GO:0060187	8	GO:0071944	cell periphery
+GO:0008328	7	GO:0005886	plasma membrane
+GO:0043291	8	GO:0071944	cell periphery
+GO:0005861	3	GO:0005856	cytoskeleton
+GO:0031265	7	GO:0005886	plasma membrane
+GO:0005615	8	GO:0071944	cell periphery
+GO:0005856	3	GO:0005856	cytoskeleton
+GO:0005858	3	GO:0005856	cytoskeleton
+GO:0005886	7	GO:0005886	plasma membrane
+GO:0031969	5	GO:0009707	chloroplast outer membrane
+GO:0005874	3	GO:0005856	cytoskeleton
+GO:0099634	7	GO:0005886	plasma membrane
+GO:0005879	3	GO:0005856	cytoskeleton
+GO:0032982	6	GO:0043235	receptor complex
+GO:0005826	3	GO:0005856	cytoskeleton
+GO:0005813	3	GO:0005856	cytoskeleton
+GO:0005814	3	GO:0005856	cytoskeleton
+GO:0005815	3	GO:0005856	cytoskeleton
+GO:0005816	3	GO:0005856	cytoskeleton
+GO:0034451	3	GO:0005856	cytoskeleton
+GO:0045211	7	GO:0005886	plasma membrane
+GO:0043235	6	GO:0043235	receptor complex
+GO:0098839	7	GO:0005886	plasma membrane
+GO:0009986	8	GO:0071944	cell periphery
+GO:0030425	8	GO:0071944	cell periphery
+GO:0097225	1	GO:0005929	cilium
+GO:0097228	1	GO:0005929	cilium
+GO:0044200	4	GO:0044178	host cell Golgi membrane
+GO:0000805	2	GO:0001650	fibrillar center
+GO:0005923	6	GO:0043235	receptor complex
+GO:0005929	1	GO:0005929	cilium
+GO:0032432	3	GO:0005856	cytoskeleton
+GO:0030430	4	GO:0044178	host cell Golgi membrane
+GO:0005912	6	GO:0043235	receptor complex
+GO:0071254	8	GO:0071944	cell periphery
+GO:0032797	8	GO:0071944	cell periphery
+GO:0036064	3	GO:0005856	cytoskeleton
+GO:0150005	6	GO:0043235	receptor complex
+GO:0005930	3	GO:0005856	cytoskeleton
+GO:0032589	7	GO:0005886	plasma membrane
+GO:0030056	6	GO:0043235	receptor complex
+GO:0019028	6	GO:0043235	receptor complex
+GO:0019029	6	GO:0043235	receptor complex
+GO:0031528	7	GO:0005886	plasma membrane

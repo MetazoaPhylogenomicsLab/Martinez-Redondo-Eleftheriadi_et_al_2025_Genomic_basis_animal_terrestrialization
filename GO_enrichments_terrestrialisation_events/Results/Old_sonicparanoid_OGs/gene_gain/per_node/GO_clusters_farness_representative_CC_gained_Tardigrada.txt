@@ -1,0 +1,25 @@
+GO:0016342	3	GO:0045169	fusome
+GO:0019029	2	GO:0055036	virion membrane
+GO:0061645	3	GO:0045169	fusome
+GO:0045169	3	GO:0045169	fusome
+GO:0005576	3	GO:0045169	fusome
+GO:0000781	1	GO:0098687	chromosomal region
+GO:0030479	3	GO:0045169	fusome
+GO:0019031	2	GO:0055036	virion membrane
+GO:0000775	1	GO:0098687	chromosomal region
+GO:0045170	1	GO:0098687	chromosomal region
+GO:0000779	1	GO:0098687	chromosomal region
+GO:0005814	1	GO:0098687	chromosomal region
+GO:0042600	3	GO:0045169	fusome
+GO:0009897	3	GO:0045169	fusome
+GO:0099080	3	GO:0045169	fusome
+GO:0030430	2	GO:0055036	virion membrane
+GO:0055036	2	GO:0055036	virion membrane
+GO:0044156	2	GO:0055036	virion membrane
+GO:0070775	3	GO:0045169	fusome
+GO:0044178	2	GO:0055036	virion membrane
+GO:0048046	3	GO:0045169	fusome
+GO:0044423	2	GO:0055036	virion membrane
+GO:0043160	3	GO:0045169	fusome
+GO:0020002	2	GO:0055036	virion membrane
+GO:0098687	1	GO:0098687	chromosomal region

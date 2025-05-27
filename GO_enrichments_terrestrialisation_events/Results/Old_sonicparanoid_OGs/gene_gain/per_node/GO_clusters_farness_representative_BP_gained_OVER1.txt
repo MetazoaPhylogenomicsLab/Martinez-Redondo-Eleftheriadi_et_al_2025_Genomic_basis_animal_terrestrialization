@@ -1,0 +1,50 @@
+GO:0030219	2	GO:0031100	animal organ regeneration
+GO:0071214	1	GO:0104004	cellular response to environmental stimulus
+GO:0018105	4	GO:0001934	positive regulation of protein phosphorylation
+GO:0097345	1	GO:0104004	cellular response to environmental stimulus
+GO:0060325	2	GO:0031100	animal organ regeneration
+GO:0010562	4	GO:0001934	positive regulation of protein phosphorylation
+GO:0030198	1	GO:0104004	cellular response to environmental stimulus
+GO:0000381	3	GO:0051604	protein maturation
+GO:0035988	1	GO:0104004	cellular response to environmental stimulus
+GO:0045937	4	GO:0001934	positive regulation of protein phosphorylation
+GO:0061098	4	GO:0001934	positive regulation of protein phosphorylation
+GO:0051604	3	GO:0051604	protein maturation
+GO:0001701	2	GO:0031100	animal organ regeneration
+GO:0104004	1	GO:0104004	cellular response to environmental stimulus
+GO:0006699	3	GO:0051604	protein maturation
+GO:0042327	4	GO:0001934	positive regulation of protein phosphorylation
+GO:0047497	1	GO:0104004	cellular response to environmental stimulus
+GO:0046777	4	GO:0001934	positive regulation of protein phosphorylation
+GO:0043062	1	GO:0104004	cellular response to environmental stimulus
+GO:0016310	4	GO:0001934	positive regulation of protein phosphorylation
+GO:0060669	2	GO:0031100	animal organ regeneration
+GO:0008154	1	GO:0104004	cellular response to environmental stimulus
+GO:0009065	3	GO:0051604	protein maturation
+GO:0060670	2	GO:0031100	animal organ regeneration
+GO:0001889	2	GO:0031100	animal organ regeneration
+GO:0019395	3	GO:0051604	protein maturation
+GO:0098751	2	GO:0031100	animal organ regeneration
+GO:0071941	3	GO:0051604	protein maturation
+GO:0006468	4	GO:0001934	positive regulation of protein phosphorylation
+GO:0045229	1	GO:0104004	cellular response to environmental stimulus
+GO:0006631	3	GO:0051604	protein maturation
+GO:0006637	3	GO:0051604	protein maturation
+GO:0001958	2	GO:0031100	animal organ regeneration
+GO:2000379	4	GO:0001934	positive regulation of protein phosphorylation
+GO:0072673	1	GO:0104004	cellular response to environmental stimulus
+GO:0010821	1	GO:0104004	cellular response to environmental stimulus
+GO:0060713	2	GO:0031100	animal organ regeneration
+GO:0018209	3	GO:0051604	protein maturation
+GO:0071478	1	GO:0104004	cellular response to environmental stimulus
+GO:0006413	3	GO:0051604	protein maturation
+GO:0006417	3	GO:0051604	protein maturation
+GO:0048701	2	GO:0031100	animal organ regeneration
+GO:0031100	2	GO:0031100	animal organ regeneration
+GO:0001934	4	GO:0001934	positive regulation of protein phosphorylation
+GO:0006525	3	GO:0051604	protein maturation
+GO:0030574	3	GO:0051604	protein maturation
+GO:0016485	3	GO:0051604	protein maturation
+GO:0035855	2	GO:0031100	animal organ regeneration
+GO:0007264	1	GO:0104004	cellular response to environmental stimulus
+GO:0006544	3	GO:0051604	protein maturation

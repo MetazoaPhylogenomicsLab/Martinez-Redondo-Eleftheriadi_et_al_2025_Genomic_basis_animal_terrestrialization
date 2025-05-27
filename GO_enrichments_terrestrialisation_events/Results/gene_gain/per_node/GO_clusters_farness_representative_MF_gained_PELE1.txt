@@ -1,0 +1,14 @@
+GO:0032559	2	GO:0005524	ATP binding
+GO:0070403	2	GO:0005524	ATP binding
+GO:0048029	1	GO:0005200	structural constituent of cytoskeleton
+GO:0016616	1	GO:0005200	structural constituent of cytoskeleton
+GO:0005524	2	GO:0005524	ATP binding
+GO:0005525	2	GO:0005524	ATP binding
+GO:0004888	1	GO:0005200	structural constituent of cytoskeleton
+GO:0030554	2	GO:0005524	ATP binding
+GO:0005200	1	GO:0005200	structural constituent of cytoskeleton
+GO:0016773	1	GO:0005200	structural constituent of cytoskeleton
+GO:0019200	1	GO:0005200	structural constituent of cytoskeleton
+GO:0004930	1	GO:0005200	structural constituent of cytoskeleton
+GO:0035639	2	GO:0005524	ATP binding
+GO:0032555	2	GO:0005524	ATP binding

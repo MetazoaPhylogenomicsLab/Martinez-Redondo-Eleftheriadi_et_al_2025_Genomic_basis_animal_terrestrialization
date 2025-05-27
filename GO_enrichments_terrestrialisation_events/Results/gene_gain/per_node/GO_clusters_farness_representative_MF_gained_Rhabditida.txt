@@ -1,0 +1,103 @@
+GO:0061135	4	GO:0004857	enzyme inhibitor activity
+GO:0003730	5	GO:0090729	toxin activity
+GO:0004721	7	GO:0017171	serine hydrolase activity
+GO:0004722	7	GO:0017171	serine hydrolase activity
+GO:0015643	2	GO:0042802	identical protein binding
+GO:0030414	4	GO:0004857	enzyme inhibitor activity
+GO:0043621	2	GO:0042802	identical protein binding
+GO:0048018	1	GO:0048018	receptor ligand activity
+GO:0033041	3	GO:0004888	transmembrane signaling receptor activity
+GO:0005121	2	GO:0042802	identical protein binding
+GO:0005125	1	GO:0048018	receptor ligand activity
+GO:0005118	2	GO:0042802	identical protein binding
+GO:0004984	3	GO:0004888	transmembrane signaling receptor activity
+GO:0005133	2	GO:0042802	identical protein binding
+GO:0004866	4	GO:0004857	enzyme inhibitor activity
+GO:0070026	2	GO:0042802	identical protein binding
+GO:0001653	3	GO:0004888	transmembrane signaling receptor activity
+GO:0004888	3	GO:0004888	transmembrane signaling receptor activity
+GO:0017018	7	GO:0017171	serine hydrolase activity
+GO:0004930	3	GO:0004888	transmembrane signaling receptor activity
+GO:0038022	3	GO:0004888	transmembrane signaling receptor activity
+GO:0051381	5	GO:0090729	toxin activity
+GO:0008187	5	GO:0090729	toxin activity
+GO:0004383	7	GO:0017171	serine hydrolase activity
+GO:0051400	2	GO:0042802	identical protein binding
+GO:0001640	3	GO:0004888	transmembrane signaling receptor activity
+GO:0031423	2	GO:0042802	identical protein binding
+GO:0008527	3	GO:0004888	transmembrane signaling receptor activity
+GO:0009881	3	GO:0004888	transmembrane signaling receptor activity
+GO:0008083	1	GO:0048018	receptor ligand activity
+GO:0061134	4	GO:0004857	enzyme inhibitor activity
+GO:0039660	5	GO:0090729	toxin activity
+GO:0034237	2	GO:0042802	identical protein binding
+GO:0031788	2	GO:0042802	identical protein binding
+GO:0030345	5	GO:0090729	toxin activity
+GO:0005179	1	GO:0048018	receptor ligand activity
+GO:0017171	7	GO:0017171	serine hydrolase activity
+GO:0016918	5	GO:0090729	toxin activity
+GO:0005112	2	GO:0042802	identical protein binding
+GO:0001786	5	GO:0090729	toxin activity
+GO:0030597	7	GO:0017171	serine hydrolase activity
+GO:0030598	7	GO:0017171	serine hydrolase activity
+GO:0019864	5	GO:0090729	toxin activity
+GO:0140575	7	GO:0017171	serine hydrolase activity
+GO:0005504	5	GO:0090729	toxin activity
+GO:0008236	7	GO:0017171	serine hydrolase activity
+GO:0008239	7	GO:0017171	serine hydrolase activity
+GO:0019828	4	GO:0004857	enzyme inhibitor activity
+GO:0019841	5	GO:0090729	toxin activity
+GO:0005124	2	GO:0042802	identical protein binding
+GO:0004860	4	GO:0004857	enzyme inhibitor activity
+GO:0004857	4	GO:0004857	enzyme inhibitor activity
+GO:0008191	4	GO:0004857	enzyme inhibitor activity
+GO:0042802	2	GO:0042802	identical protein binding
+GO:0042803	2	GO:0042802	identical protein binding
+GO:0072341	2	GO:0042802	identical protein binding
+GO:0019210	4	GO:0004857	enzyme inhibitor activity
+GO:0019887	4	GO:0004857	enzyme inhibitor activity
+GO:0019900	2	GO:0042802	identical protein binding
+GO:0019901	2	GO:0042802	identical protein binding
+GO:0030021	5	GO:0090729	toxin activity
+GO:0030291	4	GO:0004857	enzyme inhibitor activity
+GO:0042329	5	GO:0090729	toxin activity
+GO:0003993	7	GO:0017171	serine hydrolase activity
+GO:0001965	2	GO:0042802	identical protein binding
+GO:0090729	5	GO:0090729	toxin activity
+GO:0019888	4	GO:0004857	enzyme inhibitor activity
+GO:0019902	2	GO:0042802	identical protein binding
+GO:0004864	4	GO:0004857	enzyme inhibitor activity
+GO:0003700	5	GO:0090729	toxin activity
+GO:0005213	5	GO:0090729	toxin activity
+GO:0043565	5	GO:0090729	toxin activity
+GO:0019212	4	GO:0004857	enzyme inhibitor activity
+GO:0004252	7	GO:0017171	serine hydrolase activity
+GO:0005139	2	GO:0042802	identical protein binding
+GO:0045296	2	GO:0042802	identical protein binding
+GO:0051018	2	GO:0042802	identical protein binding
+GO:0015631	2	GO:0042802	identical protein binding
+GO:0000405	5	GO:0090729	toxin activity
+GO:0019208	4	GO:0004857	enzyme inhibitor activity
+GO:0008017	2	GO:0042802	identical protein binding
+GO:0004713	7	GO:0017171	serine hydrolase activity
+GO:0042302	5	GO:0090729	toxin activity
+GO:0043495	5	GO:0090729	toxin activity
+GO:0008568	7	GO:0017171	serine hydrolase activity
+GO:0030545	1	GO:0048018	receptor ligand activity
+GO:0030546	1	GO:0048018	receptor ligand activity
+GO:0009882	3	GO:0004888	transmembrane signaling receptor activity
+GO:0031386	5	GO:0090729	toxin activity
+GO:0004222	7	GO:0017171	serine hydrolase activity
+GO:0005184	1	GO:0048018	receptor ligand activity
+GO:0098988	3	GO:0004888	transmembrane signaling receptor activity
+GO:0005126	2	GO:0042802	identical protein binding
+GO:0035375	2	GO:0042802	identical protein binding
+GO:0008270	5	GO:0090729	toxin activity
+GO:0030248	5	GO:0090729	toxin activity
+GO:0008066	3	GO:0004888	transmembrane signaling receptor activity
+GO:0000900	5	GO:0090729	toxin activity
+GO:0005031	3	GO:0004888	transmembrane signaling receptor activity
+GO:0005518	5	GO:0090729	toxin activity
+GO:0070851	2	GO:0042802	identical protein binding
+GO:0099106	5	GO:0090729	toxin activity
+GO:0004715	7	GO:0017171	serine hydrolase activity

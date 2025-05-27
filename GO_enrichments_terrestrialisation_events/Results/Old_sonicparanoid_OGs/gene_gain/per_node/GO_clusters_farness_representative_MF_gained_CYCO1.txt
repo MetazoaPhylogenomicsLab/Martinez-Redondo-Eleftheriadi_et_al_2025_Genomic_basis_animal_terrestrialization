@@ -1,0 +1,23 @@
+GO:0008757	3	GO:0016627	oxidoreductase activity, acting on the CH-CH group of donors
+GO:0050660	2	GO:0051787	misfolded protein binding
+GO:0055077	1	GO:0015318	inorganic molecular entity transmembrane transporter activity
+GO:0015267	1	GO:0015318	inorganic molecular entity transmembrane transporter activity
+GO:0008028	1	GO:0015318	inorganic molecular entity transmembrane transporter activity
+GO:0003729	2	GO:0051787	misfolded protein binding
+GO:1901702	1	GO:0015318	inorganic molecular entity transmembrane transporter activity
+GO:0050145	3	GO:0016627	oxidoreductase activity, acting on the CH-CH group of donors
+GO:0072349	1	GO:0015318	inorganic molecular entity transmembrane transporter activity
+GO:0015651	1	GO:0015318	inorganic molecular entity transmembrane transporter activity
+GO:0004017	3	GO:0016627	oxidoreductase activity, acting on the CH-CH group of donors
+GO:0016627	3	GO:0016627	oxidoreductase activity, acting on the CH-CH group of donors
+GO:0016628	3	GO:0016627	oxidoreductase activity, acting on the CH-CH group of donors
+GO:0051787	2	GO:0051787	misfolded protein binding
+GO:0015291	1	GO:0015318	inorganic molecular entity transmembrane transporter activity
+GO:0015293	1	GO:0015318	inorganic molecular entity transmembrane transporter activity
+GO:0016614	3	GO:0016627	oxidoreductase activity, acting on the CH-CH group of donors
+GO:0016616	3	GO:0016627	oxidoreductase activity, acting on the CH-CH group of donors
+GO:0015318	1	GO:0015318	inorganic molecular entity transmembrane transporter activity
+GO:0031625	2	GO:0051787	misfolded protein binding
+GO:0035615	2	GO:0051787	misfolded protein binding
+GO:0140030	2	GO:0051787	misfolded protein binding
+GO:0009055	3	GO:0016627	oxidoreductase activity, acting on the CH-CH group of donors

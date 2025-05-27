@@ -1,0 +1,28 @@
+GO:0016917	2	GO:0016860	intramolecular oxidoreductase activity
+GO:0005310	1	GO:0015116	sulfate transmembrane transporter activity
+GO:0061630	2	GO:0016860	intramolecular oxidoreductase activity
+GO:0042802	3	GO:0042802	identical protein binding
+GO:0043621	3	GO:0042802	identical protein binding
+GO:0015106	1	GO:0015116	sulfate transmembrane transporter activity
+GO:0017022	3	GO:0042802	identical protein binding
+GO:0003964	2	GO:0016860	intramolecular oxidoreductase activity
+GO:0016860	2	GO:0016860	intramolecular oxidoreductase activity
+GO:0016863	2	GO:0016860	intramolecular oxidoreductase activity
+GO:0015116	1	GO:0015116	sulfate transmembrane transporter activity
+GO:0030957	3	GO:0042802	identical protein binding
+GO:0003713	2	GO:0016860	intramolecular oxidoreductase activity
+GO:0004518	2	GO:0016860	intramolecular oxidoreductase activity
+GO:0005125	3	GO:0042802	identical protein binding
+GO:0008810	2	GO:0016860	intramolecular oxidoreductase activity
+GO:0043169	3	GO:0042802	identical protein binding
+GO:0019531	1	GO:0015116	sulfate transmembrane transporter activity
+GO:0008270	3	GO:0042802	identical protein binding
+GO:0031369	3	GO:0042802	identical protein binding
+GO:0008271	1	GO:0015116	sulfate transmembrane transporter activity
+GO:0030248	3	GO:0042802	identical protein binding
+GO:0000287	3	GO:0042802	identical protein binding
+GO:0043130	3	GO:0042802	identical protein binding
+GO:0004965	2	GO:0016860	intramolecular oxidoreductase activity
+GO:0034061	2	GO:0016860	intramolecular oxidoreductase activity
+GO:0046872	3	GO:0042802	identical protein binding
+GO:0004364	2	GO:0016860	intramolecular oxidoreductase activity

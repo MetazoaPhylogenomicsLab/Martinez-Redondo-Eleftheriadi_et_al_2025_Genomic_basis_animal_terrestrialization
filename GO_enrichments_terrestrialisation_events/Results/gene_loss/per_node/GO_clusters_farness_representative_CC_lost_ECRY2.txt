@@ -1,0 +1,66 @@
+GO:0031332	3	GO:0042575	DNA polymerase complex
+GO:0009986	4	GO:0055036	virion membrane
+GO:0097449	4	GO:0055036	virion membrane
+GO:0033650	1	GO:0030430	host cell cytoplasm
+GO:0098975	4	GO:0055036	virion membrane
+GO:0033655	1	GO:0030430	host cell cytoplasm
+GO:0098898	5	GO:0036063	acroblast
+GO:0031511	5	GO:0036063	acroblast
+GO:0030430	1	GO:0030430	host cell cytoplasm
+GO:0042575	3	GO:0042575	DNA polymerase complex
+GO:0033648	1	GO:0030430	host cell cytoplasm
+GO:0036128	4	GO:0055036	virion membrane
+GO:0031463	3	GO:0042575	DNA polymerase complex
+GO:0099617	2	GO:0005741	mitochondrial outer membrane
+GO:0035631	4	GO:0055036	virion membrane
+GO:0005741	2	GO:0005741	mitochondrial outer membrane
+GO:0005742	2	GO:0005741	mitochondrial outer membrane
+GO:0000783	5	GO:0036063	acroblast
+GO:0036063	5	GO:0036063	acroblast
+GO:0034361	4	GO:0055036	virion membrane
+GO:0034364	4	GO:0055036	virion membrane
+GO:1902554	3	GO:0042575	DNA polymerase complex
+GO:0044174	1	GO:0030430	host cell cytoplasm
+GO:0044177	1	GO:0030430	host cell cytoplasm
+GO:0034385	4	GO:0055036	virion membrane
+GO:0035859	3	GO:0042575	DNA polymerase complex
+GO:0005863	5	GO:0036063	acroblast
+GO:0031968	2	GO:0005741	mitochondrial outer membrane
+GO:0090665	3	GO:0042575	DNA polymerase complex
+GO:0005883	5	GO:0036063	acroblast
+GO:0000943	5	GO:0036063	acroblast
+GO:0072562	4	GO:0055036	virion membrane
+GO:0042627	4	GO:0055036	virion membrane
+GO:0020002	1	GO:0030430	host cell cytoplasm
+GO:0001401	2	GO:0005741	mitochondrial outer membrane
+GO:0030055	4	GO:0055036	virion membrane
+GO:0098552	4	GO:0055036	virion membrane
+GO:0072558	5	GO:0036063	acroblast
+GO:0005828	5	GO:0036063	acroblast
+GO:0005811	5	GO:0036063	acroblast
+GO:0002177	5	GO:0036063	acroblast
+GO:0099013	5	GO:0036063	acroblast
+GO:0098576	2	GO:0005741	mitochondrial outer membrane
+GO:0035267	5	GO:0036063	acroblast
+GO:0016605	5	GO:0036063	acroblast
+GO:0110085	5	GO:0036063	acroblast
+GO:0098799	2	GO:0005741	mitochondrial outer membrane
+GO:1990423	5	GO:0036063	acroblast
+GO:0043034	5	GO:0036063	acroblast
+GO:0019029	4	GO:0055036	virion membrane
+GO:0044232	5	GO:0036063	acroblast
+GO:0044233	5	GO:0036063	acroblast
+GO:0019013	4	GO:0055036	virion membrane
+GO:0055036	4	GO:0055036	virion membrane
+GO:1902911	3	GO:0042575	DNA polymerase complex
+GO:0031380	5	GO:0036063	acroblast
+GO:0000346	5	GO:0036063	acroblast
+GO:0000347	5	GO:0036063	acroblast
+GO:0042025	1	GO:0030430	host cell cytoplasm
+GO:0032580	2	GO:0005741	mitochondrial outer membrane
+GO:0031379	3	GO:0042575	DNA polymerase complex
+GO:0098992	5	GO:0036063	acroblast
+GO:0031264	4	GO:0055036	virion membrane
+GO:0031265	4	GO:0055036	virion membrane
+GO:0043235	3	GO:0042575	DNA polymerase complex
+GO:0061702	5	GO:0036063	acroblast

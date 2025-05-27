@@ -1,0 +1,151 @@
+GO:0009201	7	GO:0009206	purine ribonucleoside triphosphate biosynthetic process
+GO:0009206	7	GO:0009206	purine ribonucleoside triphosphate biosynthetic process
+GO:0048240	1	GO:0007286	spermatid development
+GO:0021517	1	GO:0007286	spermatid development
+GO:0000914	6	GO:0007049	cell cycle
+GO:0044068	2	GO:0051701	biological process involved in interaction with host
+GO:0045934	9	GO:0051253	negative regulation of RNA metabolic process
+GO:0033554	3	GO:0033554	cellular response to stress
+GO:0031060	10	GO:0043543	protein acylation
+GO:0003352	4	GO:0048523	negative regulation of cellular process
+GO:0044030	9	GO:0051253	negative regulation of RNA metabolic process
+GO:1902019	4	GO:0048523	negative regulation of cellular process
+GO:0045103	6	GO:0007049	cell cycle
+GO:0045104	6	GO:0007049	cell cycle
+GO:0002366	6	GO:0007049	cell cycle
+GO:0044003	2	GO:0051701	biological process involved in interaction with host
+GO:1903573	3	GO:0033554	cellular response to stress
+GO:0032516	10	GO:0043543	protein acylation
+GO:0043045	8	GO:0006305	DNA alkylation
+GO:0010229	1	GO:0007286	spermatid development
+GO:0034614	3	GO:0033554	cellular response to stress
+GO:0000281	6	GO:0007049	cell cycle
+GO:0051172	11	GO:0009892	negative regulation of metabolic process
+GO:0000282	6	GO:0007049	cell cycle
+GO:0051173	11	GO:0009892	negative regulation of metabolic process
+GO:0072376	10	GO:0043543	protein acylation
+GO:0072378	10	GO:0043543	protein acylation
+GO:0009890	11	GO:0009892	negative regulation of metabolic process
+GO:0009892	11	GO:0009892	negative regulation of metabolic process
+GO:1903507	9	GO:0051253	negative regulation of RNA metabolic process
+GO:0019054	2	GO:0051701	biological process involved in interaction with host
+GO:0019058	2	GO:0051701	biological process involved in interaction with host
+GO:0030420	3	GO:0033554	cellular response to stress
+GO:0043550	4	GO:0048523	negative regulation of cellular process
+GO:0043551	4	GO:0048523	negative regulation of cellular process
+GO:0043558	13	GO:0043558	regulation of translational initiation in response to stress
+GO:0009877	1	GO:0007286	spermatid development
+GO:0030437	1	GO:0007286	spermatid development
+GO:0019048	2	GO:0051701	biological process involved in interaction with host
+GO:0043543	10	GO:0043543	protein acylation
+GO:0035855	1	GO:0007286	spermatid development
+GO:0035821	2	GO:0051701	biological process involved in interaction with host
+GO:0051253	9	GO:0051253	negative regulation of RNA metabolic process
+GO:0048026	9	GO:0051253	negative regulation of RNA metabolic process
+GO:0007320	1	GO:0007286	spermatid development
+GO:0006396	8	GO:0006305	DNA alkylation
+GO:1902679	9	GO:0051253	negative regulation of RNA metabolic process
+GO:0000724	8	GO:0006305	DNA alkylation
+GO:0071453	3	GO:0033554	cellular response to stress
+GO:0071456	3	GO:0033554	cellular response to stress
+GO:0006357	9	GO:0051253	negative regulation of RNA metabolic process
+GO:0071478	3	GO:0033554	cellular response to stress
+GO:0071479	3	GO:0033554	cellular response to stress
+GO:0045892	9	GO:0051253	negative regulation of RNA metabolic process
+GO:0048523	4	GO:0048523	negative regulation of cellular process
+GO:0048519	11	GO:0009892	negative regulation of metabolic process
+GO:0006301	8	GO:0006305	DNA alkylation
+GO:0006305	8	GO:0006305	DNA alkylation
+GO:0006306	8	GO:0006305	DNA alkylation
+GO:0042628	1	GO:0007286	spermatid development
+GO:0051781	4	GO:0048523	negative regulation of cellular process
+GO:0051726	4	GO:0048523	negative regulation of cellular process
+GO:1900101	3	GO:0033554	cellular response to stress
+GO:1900102	3	GO:0033554	cellular response to stress
+GO:0031324	11	GO:0009892	negative regulation of metabolic process
+GO:0031327	11	GO:0009892	negative regulation of metabolic process
+GO:0030219	1	GO:0007286	spermatid development
+GO:0060548	4	GO:0048523	negative regulation of cellular process
+GO:1902310	10	GO:0043543	protein acylation
+GO:0000018	9	GO:0051253	negative regulation of RNA metabolic process
+GO:0051701	2	GO:0051701	biological process involved in interaction with host
+GO:0006473	10	GO:0043543	protein acylation
+GO:0009628	3	GO:0033554	cellular response to stress
+GO:0002263	6	GO:0007049	cell cycle
+GO:0010564	4	GO:0048523	negative regulation of cellular process
+GO:0032465	4	GO:0048523	negative regulation of cellular process
+GO:0032467	4	GO:0048523	negative regulation of cellular process
+GO:0010558	11	GO:0009892	negative regulation of metabolic process
+GO:0045005	8	GO:0006305	DNA alkylation
+GO:0002274	6	GO:0007049	cell cycle
+GO:0002275	6	GO:0007049	cell cycle
+GO:1902308	10	GO:0043543	protein acylation
+GO:0010572	4	GO:0048523	negative regulation of cellular process
+GO:0051865	10	GO:0043543	protein acylation
+GO:0010543	4	GO:0048523	negative regulation of cellular process
+GO:2000694	4	GO:0048523	negative regulation of cellular process
+GO:0006984	3	GO:0033554	cellular response to stress
+GO:0046692	1	GO:0007286	spermatid development
+GO:0015986	7	GO:0009206	purine ribonucleoside triphosphate biosynthetic process
+GO:0044419	2	GO:0051701	biological process involved in interaction with host
+GO:0060632	4	GO:0048523	negative regulation of cellular process
+GO:0044403	2	GO:0051701	biological process involved in interaction with host
+GO:0039526	2	GO:0051701	biological process involved in interaction with host
+GO:0043414	8	GO:0006305	DNA alkylation
+GO:0048367	1	GO:0007286	spermatid development
+GO:1903916	12	GO:1903916	regulation of endoplasmic reticulum stress-induced eIF2 alpha dephosphorylation
+GO:1903917	12	GO:1903916	regulation of endoplasmic reticulum stress-induced eIF2 alpha dephosphorylation
+GO:0052547	10	GO:0043543	protein acylation
+GO:0045667	4	GO:0048523	negative regulation of cellular process
+GO:0007283	1	GO:0007286	spermatid development
+GO:0007286	1	GO:0007286	spermatid development
+GO:0036490	13	GO:0043558	regulation of translational initiation in response to stress
+GO:0036491	13	GO:0043558	regulation of translational initiation in response to stress
+GO:0010605	11	GO:0009892	negative regulation of metabolic process
+GO:0036496	13	GO:0043558	regulation of translational initiation in response to stress
+GO:0036497	13	GO:0043558	regulation of translational initiation in response to stress
+GO:0036499	3	GO:0033554	cellular response to stress
+GO:0007249	3	GO:0033554	cellular response to stress
+GO:0140467	3	GO:0033554	cellular response to stress
+GO:2001056	10	GO:0043543	protein acylation
+GO:0000398	8	GO:0006305	DNA alkylation
+GO:0019953	1	GO:0007286	spermatid development
+GO:0042119	6	GO:0007049	cell cycle
+GO:0030521	3	GO:0033554	cellular response to stress
+GO:0032204	9	GO:0051253	negative regulation of RNA metabolic process
+GO:0032206	9	GO:0051253	negative regulation of RNA metabolic process
+GO:0000375	8	GO:0006305	DNA alkylation
+GO:0000377	8	GO:0006305	DNA alkylation
+GO:0006754	7	GO:0009206	purine ribonucleoside triphosphate biosynthetic process
+GO:0061515	1	GO:0007286	spermatid development
+GO:0031215	1	GO:0007286	spermatid development
+GO:0045333	6	GO:0007049	cell cycle
+GO:0043280	10	GO:0043543	protein acylation
+GO:0098751	1	GO:0007286	spermatid development
+GO:0009142	7	GO:0009206	purine ribonucleoside triphosphate biosynthetic process
+GO:0009145	7	GO:0009206	purine ribonucleoside triphosphate biosynthetic process
+GO:0036294	3	GO:0033554	cellular response to stress
+GO:0036297	8	GO:0006305	DNA alkylation
+GO:0051321	6	GO:0007049	cell cycle
+GO:0061614	8	GO:0006305	DNA alkylation
+GO:0019222	11	GO:0009892	negative regulation of metabolic process
+GO:0061640	6	GO:0007049	cell cycle
+GO:0045444	1	GO:0007286	spermatid development
+GO:0007049	6	GO:0007049	cell cycle
+GO:1903897	3	GO:0033554	cellular response to stress
+GO:1903898	3	GO:0033554	cellular response to stress
+GO:0071514	9	GO:0051253	negative regulation of RNA metabolic process
+GO:0016032	2	GO:0051701	biological process involved in interaction with host
+GO:0044703	1	GO:0007286	spermatid development
+GO:0010950	10	GO:0043543	protein acylation
+GO:0010952	10	GO:0043543	protein acylation
+GO:0007597	10	GO:0043543	protein acylation
+GO:2000179	4	GO:0048523	negative regulation of cellular process
+GO:0070417	3	GO:0033554	cellular response to stress
+GO:0036230	6	GO:0007049	cell cycle
+GO:0010152	1	GO:0007286	spermatid development
+GO:1902895	9	GO:0051253	negative regulation of RNA metabolic process
+GO:0032058	13	GO:0043558	regulation of translational initiation in response to stress
+GO:0042783	2	GO:0051701	biological process involved in interaction with host
+GO:0060295	4	GO:0048523	negative regulation of cellular process
+GO:0042776	7	GO:0009206	purine ribonucleoside triphosphate biosynthetic process

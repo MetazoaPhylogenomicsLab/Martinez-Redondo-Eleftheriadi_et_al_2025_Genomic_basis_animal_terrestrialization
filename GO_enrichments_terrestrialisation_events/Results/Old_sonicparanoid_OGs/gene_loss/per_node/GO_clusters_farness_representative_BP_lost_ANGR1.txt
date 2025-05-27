@@ -1,0 +1,552 @@
+GO:0060041	2	GO:0042335	cuticle development
+GO:0060042	1	GO:0010160	formation of animal organ boundary
+GO:0033617	17	GO:0043062	extracellular structure organization
+GO:0043062	17	GO:0043062	extracellular structure organization
+GO:0043052	14	GO:0007638	mechanosensory behavior
+GO:0043058	10	GO:0050795	regulation of behavior
+GO:0043059	10	GO:0050795	regulation of behavior
+GO:0023041	8	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0008205	11	GO:0032963	collagen metabolic process
+GO:0033602	12	GO:0009786	regulation of asymmetric cell division
+GO:0048749	1	GO:0010160	formation of animal organ boundary
+GO:0032222	7	GO:0090100	positive regulation of transmembrane receptor protein serine/threonine kinase signaling pathway
+GO:0019722	8	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0048736	2	GO:0042335	cuticle development
+GO:0051036	17	GO:0043062	extracellular structure organization
+GO:0016525	3	GO:1901342	regulation of vasculature development
+GO:0120031	17	GO:0043062	extracellular structure organization
+GO:0010955	15	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0016540	15	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0010977	4	GO:0045664	regulation of neuron differentiation
+GO:0010927	5	GO:0032989	cellular component morphogenesis
+GO:0003018	9	GO:0050905	neuromuscular process
+GO:0072175	1	GO:0010160	formation of animal organ boundary
+GO:0003031	14	GO:0007638	mechanosensory behavior
+GO:0035150	11	GO:0032963	collagen metabolic process
+GO:0048859	1	GO:0010160	formation of animal organ boundary
+GO:0035153	6	GO:0048699	generation of neurons
+GO:0007354	1	GO:0010160	formation of animal organ boundary
+GO:0048880	2	GO:0042335	cuticle development
+GO:0035158	3	GO:1901342	regulation of vasculature development
+GO:0035159	3	GO:1901342	regulation of vasculature development
+GO:0007378	1	GO:0010160	formation of animal organ boundary
+GO:0007379	2	GO:0042335	cuticle development
+GO:0003009	9	GO:0050905	neuromuscular process
+GO:0048812	5	GO:0032989	cellular component morphogenesis
+GO:0007310	5	GO:0032989	cellular component morphogenesis
+GO:0007313	5	GO:0032989	cellular component morphogenesis
+GO:0007342	17	GO:0043062	extracellular structure organization
+GO:0030902	2	GO:0042335	cuticle development
+GO:0007339	11	GO:0032963	collagen metabolic process
+GO:0021915	2	GO:0042335	cuticle development
+GO:0048803	1	GO:0010160	formation of animal organ boundary
+GO:0007305	5	GO:0032989	cellular component morphogenesis
+GO:0044278	11	GO:0032963	collagen metabolic process
+GO:0048592	1	GO:0010160	formation of animal organ boundary
+GO:0048596	1	GO:0010160	formation of animal organ boundary
+GO:0048598	2	GO:0042335	cuticle development
+GO:0035290	1	GO:0010160	formation of animal organ boundary
+GO:0035296	11	GO:0032963	collagen metabolic process
+GO:0046068	15	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0046069	15	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0031344	17	GO:0043062	extracellular structure organization
+GO:0048565	2	GO:0042335	cuticle development
+GO:0048569	2	GO:0042335	cuticle development
+GO:0035262	1	GO:0010160	formation of animal organ boundary
+GO:0007465	1	GO:0010160	formation of animal organ boundary
+GO:0001963	12	GO:0009786	regulation of asymmetric cell division
+GO:0001956	12	GO:0009786	regulation of asymmetric cell division
+GO:0001958	1	GO:0010160	formation of animal organ boundary
+GO:0007474	1	GO:0010160	formation of animal organ boundary
+GO:0050965	9	GO:0050905	neuromuscular process
+GO:0050951	9	GO:0050905	neuromuscular process
+GO:0007422	2	GO:0042335	cuticle development
+GO:0050953	9	GO:0050905	neuromuscular process
+GO:0007423	2	GO:0042335	cuticle development
+GO:0050954	9	GO:0050905	neuromuscular process
+GO:0050955	9	GO:0050905	neuromuscular process
+GO:0007427	1	GO:0010160	formation of animal organ boundary
+GO:0007429	1	GO:0010160	formation of animal organ boundary
+GO:0035210	2	GO:0042335	cuticle development
+GO:0007411	5	GO:0032989	cellular component morphogenesis
+GO:0050982	14	GO:0007638	mechanosensory behavior
+GO:0007413	5	GO:0032989	cellular component morphogenesis
+GO:0035215	2	GO:0042335	cuticle development
+GO:0007416	5	GO:0032989	cellular component morphogenesis
+GO:0032876	15	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0007417	2	GO:0042335	cuticle development
+GO:0000301	16	GO:0140238	presynaptic endocytosis
+GO:0048546	2	GO:0042335	cuticle development
+GO:0050974	9	GO:0050905	neuromuscular process
+GO:0035249	12	GO:0009786	regulation of asymmetric cell division
+GO:0035235	8	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0050911	9	GO:0050905	neuromuscular process
+GO:0050913	9	GO:0050905	neuromuscular process
+GO:0001938	12	GO:0009786	regulation of asymmetric cell division
+GO:0050919	14	GO:0007638	mechanosensory behavior
+GO:0046008	11	GO:0032963	collagen metabolic process
+GO:0019532	16	GO:0140238	presynaptic endocytosis
+GO:0007400	6	GO:0048699	generation of neurons
+GO:0007406	4	GO:0045664	regulation of neuron differentiation
+GO:0008586	1	GO:0010160	formation of animal organ boundary
+GO:0048699	6	GO:0048699	generation of neurons
+GO:0007191	8	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0007193	8	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0007194	11	GO:0032963	collagen metabolic process
+GO:0050905	9	GO:0050905	neuromuscular process
+GO:0050906	9	GO:0050905	neuromuscular process
+GO:0050907	9	GO:0050905	neuromuscular process
+GO:0050909	9	GO:0050905	neuromuscular process
+GO:0006032	15	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0019695	15	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0048665	6	GO:0048699	generation of neurons
+GO:0048666	6	GO:0048699	generation of neurons
+GO:1902358	16	GO:0140238	presynaptic endocytosis
+GO:0007163	17	GO:0043062	extracellular structure organization
+GO:0007164	1	GO:0010160	formation of animal organ boundary
+GO:0007168	8	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0007169	8	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0000413	15	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0038063	8	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0007155	17	GO:0043062	extracellular structure organization
+GO:0038065	8	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0007156	17	GO:0043062	extracellular structure organization
+GO:0015749	16	GO:0140238	presynaptic endocytosis
+GO:0007186	8	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0007187	8	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0007189	8	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0035720	16	GO:0140238	presynaptic endocytosis
+GO:0071364	13	GO:0071444	cellular response to pheromone
+GO:0048619	1	GO:0010160	formation of animal organ boundary
+GO:0015701	16	GO:0140238	presynaptic endocytosis
+GO:0071356	13	GO:0071444	cellular response to pheromone
+GO:0048639	10	GO:0050795	regulation of behavior
+GO:0071320	13	GO:0071444	cellular response to pheromone
+GO:0060465	2	GO:0042335	cuticle development
+GO:0071316	13	GO:0071444	cellular response to pheromone
+GO:0000165	8	GO:0007186	G protein-coupled receptor signaling pathway
+GO:1903818	12	GO:0009786	regulation of asymmetric cell division
+GO:0032508	17	GO:0043062	extracellular structure organization
+GO:1903846	7	GO:0090100	positive regulation of transmembrane receptor protein serine/threonine kinase signaling pathway
+GO:0051497	12	GO:0009786	regulation of asymmetric cell division
+GO:0007298	5	GO:0032989	cellular component morphogenesis
+GO:0015872	16	GO:0140238	presynaptic endocytosis
+GO:0008645	16	GO:0140238	presynaptic endocytosis
+GO:0000122	15	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0060438	2	GO:0042335	cuticle development
+GO:1902473	12	GO:0009786	regulation of asymmetric cell division
+GO:0015844	16	GO:0140238	presynaptic endocytosis
+GO:1902476	16	GO:0140238	presynaptic endocytosis
+GO:0051480	11	GO:0032963	collagen metabolic process
+GO:0007281	5	GO:0032989	cellular component morphogenesis
+GO:0015837	16	GO:0140238	presynaptic endocytosis
+GO:1901099	7	GO:0090100	positive regulation of transmembrane receptor protein serine/threonine kinase signaling pathway
+GO:0007224	8	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0035810	11	GO:0032963	collagen metabolic process
+GO:0071468	14	GO:0007638	mechanosensory behavior
+GO:0007212	8	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0007214	8	GO:0007186	G protein-coupled receptor signaling pathway
+GO:1902435	10	GO:0050795	regulation of behavior
+GO:1902437	10	GO:0050795	regulation of behavior
+GO:0035845	6	GO:0048699	generation of neurons
+GO:0031294	12	GO:0009786	regulation of asymmetric cell division
+GO:0031295	12	GO:0009786	regulation of asymmetric cell division
+GO:1904936	6	GO:0048699	generation of neurons
+GO:1904937	6	GO:0048699	generation of neurons
+GO:0016925	15	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0042058	7	GO:0090100	positive regulation of transmembrane receptor protein serine/threonine kinase signaling pathway
+GO:0042059	7	GO:0090100	positive regulation of transmembrane receptor protein serine/threonine kinase signaling pathway
+GO:0071412	13	GO:0071444	cellular response to pheromone
+GO:0007200	8	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0071419	13	GO:0071444	cellular response to pheromone
+GO:0071444	13	GO:0071444	cellular response to pheromone
+GO:0043407	7	GO:0090100	positive regulation of transmembrane receptor protein serine/threonine kinase signaling pathway
+GO:0099638	16	GO:0140238	presynaptic endocytosis
+GO:0060173	2	GO:0042335	cuticle development
+GO:0042026	17	GO:0043062	extracellular structure organization
+GO:1901048	7	GO:0090100	positive regulation of transmembrane receptor protein serine/threonine kinase signaling pathway
+GO:0035590	8	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0060117	5	GO:0032989	cellular component morphogenesis
+GO:0000272	15	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0003418	1	GO:0010160	formation of animal organ boundary
+GO:0120192	17	GO:0043062	extracellular structure organization
+GO:0046352	15	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:1902159	12	GO:0009786	regulation of asymmetric cell division
+GO:0002064	5	GO:0032989	cellular component morphogenesis
+GO:1903508	15	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0043153	10	GO:0050795	regulation of behavior
+GO:0075732	16	GO:0140238	presynaptic endocytosis
+GO:0120163	11	GO:0032963	collagen metabolic process
+GO:1905349	17	GO:0043062	extracellular structure organization
+GO:0060290	5	GO:0032989	cellular component morphogenesis
+GO:0051146	5	GO:0032989	cellular component morphogenesis
+GO:0002040	1	GO:0010160	formation of animal organ boundary
+GO:0071170	15	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0006357	15	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0060250	11	GO:0032963	collagen metabolic process
+GO:0014015	4	GO:0045664	regulation of neuron differentiation
+GO:0014016	6	GO:0048699	generation of neurons
+GO:0060271	17	GO:0043062	extracellular structure organization
+GO:0014043	4	GO:0045664	regulation of neuron differentiation
+GO:0006313	15	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0043297	17	GO:0043062	extracellular structure organization
+GO:0072659	16	GO:0140238	presynaptic endocytosis
+GO:0015671	16	GO:0140238	presynaptic endocytosis
+GO:0071103	17	GO:0043062	extracellular structure organization
+GO:0019991	17	GO:0043062	extracellular structure organization
+GO:1905476	12	GO:0009786	regulation of asymmetric cell division
+GO:2001240	7	GO:0090100	positive regulation of transmembrane receptor protein serine/threonine kinase signaling pathway
+GO:0071294	13	GO:0071444	cellular response to pheromone
+GO:2001239	7	GO:0090100	positive regulation of transmembrane receptor protein serine/threonine kinase signaling pathway
+GO:0043271	12	GO:0009786	regulation of asymmetric cell division
+GO:0035641	11	GO:0032963	collagen metabolic process
+GO:0035633	11	GO:0032963	collagen metabolic process
+GO:0006468	15	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0045071	11	GO:0032963	collagen metabolic process
+GO:0019934	8	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0140278	17	GO:0043062	extracellular structure organization
+GO:1905168	15	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0140238	16	GO:0140238	presynaptic endocytosis
+GO:0007552	2	GO:0042335	cuticle development
+GO:1905114	8	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0032963	11	GO:0032963	collagen metabolic process
+GO:0032989	5	GO:0032989	cellular component morphogenesis
+GO:0042395	9	GO:0050905	neuromuscular process
+GO:0007516	5	GO:0032989	cellular component morphogenesis
+GO:0007517	2	GO:0042335	cuticle development
+GO:0071772	13	GO:0071444	cellular response to pheromone
+GO:0071773	13	GO:0071444	cellular response to pheromone
+GO:1901374	16	GO:0140238	presynaptic endocytosis
+GO:0006182	15	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0007506	1	GO:0010160	formation of animal organ boundary
+GO:0042386	5	GO:0032989	cellular component morphogenesis
+GO:0060857	6	GO:0048699	generation of neurons
+GO:0009313	15	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0031582	15	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:1901342	3	GO:1901342	regulation of vasculature development
+GO:1901343	3	GO:1901342	regulation of vasculature development
+GO:1901346	3	GO:1901342	regulation of vasculature development
+GO:0042311	11	GO:0032963	collagen metabolic process
+GO:0042335	2	GO:0042335	cuticle development
+GO:0042338	1	GO:0010160	formation of animal organ boundary
+GO:0018126	15	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0097090	17	GO:0043062	extracellular structure organization
+GO:0007626	14	GO:0007638	mechanosensory behavior
+GO:1902847	8	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0007610	14	GO:0007638	mechanosensory behavior
+GO:0071868	13	GO:0071444	cellular response to pheromone
+GO:0071869	13	GO:0071444	cellular response to pheromone
+GO:0042491	6	GO:0048699	generation of neurons
+GO:0071880	8	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0009453	14	GO:0007638	mechanosensory behavior
+GO:0018108	15	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0007631	14	GO:0007638	mechanosensory behavior
+GO:0002347	14	GO:0007638	mechanosensory behavior
+GO:0007638	14	GO:0007638	mechanosensory behavior
+GO:0071870	13	GO:0071444	cellular response to pheromone
+GO:0042461	6	GO:0048699	generation of neurons
+GO:0042462	6	GO:0048699	generation of neurons
+GO:0022410	10	GO:0050795	regulation of behavior
+GO:0022412	5	GO:0032989	cellular component morphogenesis
+GO:0046208	15	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0007601	9	GO:0050905	neuromuscular process
+GO:0007602	8	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0007605	9	GO:0050905	neuromuscular process
+GO:1903975	4	GO:0045664	regulation of neuron differentiation
+GO:0007608	9	GO:0050905	neuromuscular process
+GO:0006278	15	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0060581	6	GO:0048699	generation of neurons
+GO:0060582	6	GO:0048699	generation of neurons
+GO:0051590	12	GO:0009786	regulation of asymmetric cell division
+GO:0042416	15	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0022404	9	GO:0050905	neuromuscular process
+GO:0034329	17	GO:0043062	extracellular structure organization
+GO:0031644	9	GO:0050905	neuromuscular process
+GO:0097009	11	GO:0032963	collagen metabolic process
+GO:0031638	15	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0034331	17	GO:0043062	extracellular structure organization
+GO:0043553	15	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0051588	12	GO:0009786	regulation of asymmetric cell division
+GO:0046717	16	GO:0140238	presynaptic endocytosis
+GO:2000050	7	GO:0090100	positive regulation of transmembrane receptor protein serine/threonine kinase signaling pathway
+GO:0018208	15	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0043534	11	GO:0032963	collagen metabolic process
+GO:0043535	12	GO:0009786	regulation of asymmetric cell division
+GO:1901185	7	GO:0090100	positive regulation of transmembrane receptor protein serine/threonine kinase signaling pathway
+GO:2000027	3	GO:1901342	regulation of vasculature development
+GO:1905898	7	GO:0090100	positive regulation of transmembrane receptor protein serine/threonine kinase signaling pathway
+GO:0045316	4	GO:0045664	regulation of neuron differentiation
+GO:2000036	3	GO:1901342	regulation of vasculature development
+GO:0006749	15	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0060612	2	GO:0042335	cuticle development
+GO:1905885	16	GO:0140238	presynaptic endocytosis
+GO:0046855	15	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0046856	15	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0070050	12	GO:0009786	regulation of asymmetric cell division
+GO:0051660	16	GO:0140238	presynaptic endocytosis
+GO:1902680	15	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0002165	2	GO:0042335	cuticle development
+GO:0051657	12	GO:0009786	regulation of asymmetric cell division
+GO:0051659	12	GO:0009786	regulation of asymmetric cell division
+GO:0071694	11	GO:0032963	collagen metabolic process
+GO:0045494	11	GO:0032963	collagen metabolic process
+GO:0046813	11	GO:0032963	collagen metabolic process
+GO:0061064	3	GO:1901342	regulation of vasculature development
+GO:0061065	3	GO:1901342	regulation of vasculature development
+GO:0061067	3	GO:1901342	regulation of vasculature development
+GO:0002119	2	GO:0042335	cuticle development
+GO:0045456	15	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0071679	5	GO:0032989	cellular component morphogenesis
+GO:0045488	15	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0061077	17	GO:0043062	extracellular structure organization
+GO:0061028	5	GO:0032989	cellular component morphogenesis
+GO:0061045	12	GO:0009786	regulation of asymmetric cell division
+GO:0010393	15	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0045434	11	GO:0032963	collagen metabolic process
+GO:0006833	16	GO:0140238	presynaptic endocytosis
+GO:1905515	17	GO:0043062	extracellular structure organization
+GO:0010378	10	GO:0050795	regulation of behavior
+GO:0045196	6	GO:0048699	generation of neurons
+GO:0045197	17	GO:0043062	extracellular structure organization
+GO:0062149	9	GO:0050905	neuromuscular process
+GO:0034109	17	GO:0043062	extracellular structure organization
+GO:0045168	5	GO:0032989	cellular component morphogenesis
+GO:1904066	8	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0009786	12	GO:0009786	regulation of asymmetric cell division
+GO:0045187	10	GO:0050795	regulation of behavior
+GO:1904059	10	GO:0050795	regulation of behavior
+GO:0042752	10	GO:0050795	regulation of behavior
+GO:0042755	11	GO:0032963	collagen metabolic process
+GO:0097376	5	GO:0032989	cellular component morphogenesis
+GO:1905691	17	GO:0043062	extracellular structure organization
+GO:0046693	11	GO:0032963	collagen metabolic process
+GO:0031987	14	GO:0007638	mechanosensory behavior
+GO:0036092	15	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0042745	10	GO:0050795	regulation of behavior
+GO:0042749	10	GO:0050795	regulation of behavior
+GO:0046662	10	GO:0050795	regulation of behavior
+GO:0000916	17	GO:0043062	extracellular structure organization
+GO:0010458	17	GO:0043062	extracellular structure organization
+GO:0016048	14	GO:0007638	mechanosensory behavior
+GO:1990823	13	GO:0071444	cellular response to pheromone
+GO:0097494	17	GO:0043062	extracellular structure organization
+GO:0098810	16	GO:0140238	presynaptic endocytosis
+GO:2000369	12	GO:0009786	regulation of asymmetric cell division
+GO:0090325	10	GO:0050795	regulation of behavior
+GO:0090326	10	GO:0050795	regulation of behavior
+GO:0010446	14	GO:0007638	mechanosensory behavior
+GO:1990830	13	GO:0071444	cellular response to pheromone
+GO:1990834	14	GO:0007638	mechanosensory behavior
+GO:0090317	16	GO:0140238	presynaptic endocytosis
+GO:0030421	9	GO:0050905	neuromuscular process
+GO:0097475	6	GO:0048699	generation of neurons
+GO:0006688	15	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0034763	12	GO:0009786	regulation of asymmetric cell division
+GO:0045214	5	GO:0032989	cellular component morphogenesis
+GO:0090305	15	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0034729	15	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0010160	1	GO:0010160	formation of animal organ boundary
+GO:0097402	12	GO:0009786	regulation of asymmetric cell division
+GO:0030198	17	GO:0043062	extracellular structure organization
+GO:0010172	1	GO:0010160	formation of animal organ boundary
+GO:0009597	14	GO:0007638	mechanosensory behavior
+GO:0060900	1	GO:0010160	formation of animal organ boundary
+GO:0070328	11	GO:0032963	collagen metabolic process
+GO:0043922	11	GO:0032963	collagen metabolic process
+GO:0042595	14	GO:0007638	mechanosensory behavior
+GO:0030182	6	GO:0048699	generation of neurons
+GO:0045765	3	GO:1901342	regulation of vasculature development
+GO:0043949	7	GO:0090100	positive regulation of transmembrane receptor protein serine/threonine kinase signaling pathway
+GO:0045752	7	GO:0090100	positive regulation of transmembrane receptor protein serine/threonine kinase signaling pathway
+GO:0051937	16	GO:0140238	presynaptic endocytosis
+GO:0030178	7	GO:0090100	positive regulation of transmembrane receptor protein serine/threonine kinase signaling pathway
+GO:0061382	6	GO:0048699	generation of neurons
+GO:0042552	6	GO:0048699	generation of neurons
+GO:0097178	17	GO:0043062	extracellular structure organization
+GO:0019062	11	GO:0032963	collagen metabolic process
+GO:0061318	6	GO:0048699	generation of neurons
+GO:0061319	6	GO:0048699	generation of neurons
+GO:0048015	8	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0048017	8	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0019079	11	GO:0032963	collagen metabolic process
+GO:0061333	1	GO:0010160	formation of animal organ boundary
+GO:1901535	15	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0048048	1	GO:0010160	formation of animal organ boundary
+GO:0098664	8	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0097105	5	GO:0032989	cellular component morphogenesis
+GO:0070482	14	GO:0007638	mechanosensory behavior
+GO:0008052	1	GO:0010160	formation of animal organ boundary
+GO:0098670	11	GO:0032963	collagen metabolic process
+GO:0045892	15	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0045893	15	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0090175	1	GO:0010160	formation of animal organ boundary
+GO:0042690	4	GO:0045664	regulation of neuron differentiation
+GO:0042692	6	GO:0048699	generation of neurons
+GO:0097264	15	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0008045	5	GO:0032989	cellular component morphogenesis
+GO:0045869	11	GO:0032963	collagen metabolic process
+GO:2000181	3	GO:1901342	regulation of vasculature development
+GO:0008039	6	GO:0048699	generation of neurons
+GO:0042661	4	GO:0045664	regulation of neuron differentiation
+GO:2000178	12	GO:0009786	regulation of asymmetric cell division
+GO:0098609	17	GO:0043062	extracellular structure organization
+GO:0030243	15	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0042689	4	GO:0045664	regulation of neuron differentiation
+GO:0009612	14	GO:0007638	mechanosensory behavior
+GO:0016360	1	GO:0010160	formation of animal organ boundary
+GO:0090100	7	GO:0090100	positive regulation of transmembrane receptor protein serine/threonine kinase signaling pathway
+GO:0030239	5	GO:0032989	cellular component morphogenesis
+GO:0009649	10	GO:0050795	regulation of behavior
+GO:0009631	14	GO:0007638	mechanosensory behavior
+GO:0034587	15	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0010799	15	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0022603	3	GO:1901342	regulation of vasculature development
+GO:0032026	14	GO:0007638	mechanosensory behavior
+GO:0010753	7	GO:0090100	positive regulation of transmembrane receptor protein serine/threonine kinase signaling pathway
+GO:0010754	7	GO:0090100	positive regulation of transmembrane receptor protein serine/threonine kinase signaling pathway
+GO:2000292	12	GO:0009786	regulation of asymmetric cell division
+GO:2000294	12	GO:0009786	regulation of asymmetric cell division
+GO:0016331	1	GO:0010160	formation of animal organ boundary
+GO:0046928	12	GO:0009786	regulation of asymmetric cell division
+GO:0016339	17	GO:0043062	extracellular structure organization
+GO:0090287	8	GO:0007186	G protein-coupled receptor signaling pathway
+GO:1904491	16	GO:0140238	presynaptic endocytosis
+GO:0036314	13	GO:0071444	cellular response to pheromone
+GO:1905909	3	GO:1901342	regulation of vasculature development
+GO:1904457	12	GO:0009786	regulation of asymmetric cell division
+GO:0045570	3	GO:1901342	regulation of vasculature development
+GO:0033137	15	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0018996	9	GO:0050905	neuromuscular process
+GO:0006979	14	GO:0007638	mechanosensory behavior
+GO:0097746	11	GO:0032963	collagen metabolic process
+GO:0006935	14	GO:0007638	mechanosensory behavior
+GO:0034612	13	GO:0071444	cellular response to pheromone
+GO:1903053	17	GO:0043062	extracellular structure organization
+GO:0045500	4	GO:0045664	regulation of neuron differentiation
+GO:0010829	16	GO:0140238	presynaptic endocytosis
+GO:0030866	17	GO:0043062	extracellular structure organization
+GO:0035094	14	GO:0007638	mechanosensory behavior
+GO:0035095	14	GO:0007638	mechanosensory behavior
+GO:0034608	11	GO:0032963	collagen metabolic process
+GO:0034609	11	GO:0032963	collagen metabolic process
+GO:0010841	10	GO:0050795	regulation of behavior
+GO:0015074	15	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0045664	4	GO:0045664	regulation of neuron differentiation
+GO:0045666	4	GO:0045664	regulation of neuron differentiation
+GO:0010838	12	GO:0009786	regulation of asymmetric cell division
+GO:0050795	10	GO:0050795	regulation of behavior
+GO:0001764	6	GO:0048699	generation of neurons
+GO:0019369	15	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0035075	13	GO:0071444	cellular response to pheromone
+GO:0050767	4	GO:0045664	regulation of neuron differentiation
+GO:0045610	4	GO:0045664	regulation of neuron differentiation
+GO:0045611	4	GO:0045664	regulation of neuron differentiation
+GO:0045613	4	GO:0045664	regulation of neuron differentiation
+GO:0045614	4	GO:0045664	regulation of neuron differentiation
+GO:0045617	4	GO:0045664	regulation of neuron differentiation
+GO:0010595	12	GO:0009786	regulation of asymmetric cell division
+GO:0035017	2	GO:0042335	cuticle development
+GO:0050770	4	GO:0045664	regulation of neuron differentiation
+GO:0050771	4	GO:0045664	regulation of neuron differentiation
+GO:0048333	5	GO:0032989	cellular component morphogenesis
+GO:0072001	2	GO:0042335	cuticle development
+GO:0072002	2	GO:0042335	cuticle development
+GO:0001745	1	GO:0010160	formation of animal organ boundary
+GO:0001746	1	GO:0010160	formation of animal organ boundary
+GO:0035036	11	GO:0032963	collagen metabolic process
+GO:0001736	1	GO:0010160	formation of animal organ boundary
+GO:0001738	1	GO:0010160	formation of animal organ boundary
+GO:0008366	6	GO:0048699	generation of neurons
+GO:0035008	15	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0001701	1	GO:0010160	formation of animal organ boundary
+GO:0001709	5	GO:0032989	cellular component morphogenesis
+GO:0070723	13	GO:0071444	cellular response to pheromone
+GO:0150115	17	GO:0043062	extracellular structure organization
+GO:0008347	6	GO:0048699	generation of neurons
+GO:0032392	17	GO:0043062	extracellular structure organization
+GO:0009957	5	GO:0032989	cellular component morphogenesis
+GO:0050891	11	GO:0032963	collagen metabolic process
+GO:0050893	9	GO:0050905	neuromuscular process
+GO:0030511	7	GO:0090100	positive regulation of transmembrane receptor protein serine/threonine kinase signaling pathway
+GO:0030512	7	GO:0090100	positive regulation of transmembrane receptor protein serine/threonine kinase signaling pathway
+GO:0030516	4	GO:0045664	regulation of neuron differentiation
+GO:0030517	4	GO:0045664	regulation of neuron differentiation
+GO:0048488	16	GO:0140238	presynaptic endocytosis
+GO:0055093	14	GO:0007638	mechanosensory behavior
+GO:0050850	7	GO:0090100	positive regulation of transmembrane receptor protein serine/threonine kinase signaling pathway
+GO:0009946	1	GO:0010160	formation of animal organ boundary
+GO:0009949	1	GO:0010160	formation of animal organ boundary
+GO:0021556	2	GO:0042335	cuticle development
+GO:0050881	9	GO:0050905	neuromuscular process
+GO:0001822	2	GO:0042335	cuticle development
+GO:0021575	2	GO:0042335	cuticle development
+GO:0001841	1	GO:0010160	formation of animal organ boundary
+GO:0030509	7	GO:0090100	positive regulation of transmembrane receptor protein serine/threonine kinase signaling pathway
+GO:0097500	16	GO:0140238	presynaptic endocytosis
+GO:0001838	1	GO:0010160	formation of animal organ boundary
+GO:0021532	1	GO:0010160	formation of animal organ boundary
+GO:0070874	15	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0050802	10	GO:0050795	regulation of behavior
+GO:0050804	7	GO:0090100	positive regulation of transmembrane receptor protein serine/threonine kinase signaling pathway
+GO:0050806	7	GO:0090100	positive regulation of transmembrane receptor protein serine/threonine kinase signaling pathway
+GO:0007097	16	GO:0140238	presynaptic endocytosis
+GO:0036213	17	GO:0043062	extracellular structure organization
+GO:0055034	1	GO:0010160	formation of animal organ boundary
+GO:0070830	17	GO:0043062	extracellular structure organization
+GO:0048168	7	GO:0090100	positive regulation of transmembrane receptor protein serine/threonine kinase signaling pathway
+GO:0055002	5	GO:0032989	cellular component morphogenesis
+GO:0021696	1	GO:0010160	formation of animal organ boundary
+GO:1904776	12	GO:0009786	regulation of asymmetric cell division
+GO:1904778	12	GO:0009786	regulation of asymmetric cell division
+GO:0034968	15	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0001570	6	GO:0048699	generation of neurons
+GO:0007026	12	GO:0009786	regulation of asymmetric cell division
+GO:0001525	1	GO:0010160	formation of animal organ boundary
+GO:0048148	14	GO:0007638	mechanosensory behavior
+GO:0007043	17	GO:0043062	extracellular structure organization
+GO:0007044	17	GO:0043062	extracellular structure organization
+GO:0040024	1	GO:0010160	formation of animal organ boundary
+GO:0040026	3	GO:1901342	regulation of vasculature development
+GO:0040029	15	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0040011	14	GO:0007638	mechanosensory behavior
+GO:0040015	3	GO:1901342	regulation of vasculature development
+GO:0040017	10	GO:0050795	regulation of behavior
+GO:0048100	1	GO:0010160	formation of animal organ boundary
+GO:0070580	15	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0040032	1	GO:0010160	formation of animal organ boundary
+GO:0040034	3	GO:1901342	regulation of vasculature development
+GO:0044351	16	GO:0140238	presynaptic endocytosis
+GO:0033564	5	GO:0032989	cellular component morphogenesis
+GO:0001502	1	GO:0010160	formation of animal organ boundary
+GO:0001504	16	GO:0140238	presynaptic endocytosis
+GO:0001508	11	GO:0032963	collagen metabolic process
+GO:1903318	15	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0040001	16	GO:0140238	presynaptic endocytosis
+GO:0040002	2	GO:0042335	cuticle development
+GO:0032196	17	GO:0043062	extracellular structure organization
+GO:0032197	17	GO:0043062	extracellular structure organization
+GO:0044331	17	GO:0043062	extracellular structure organization
+GO:0031032	17	GO:0043062	extracellular structure organization
+GO:0090630	11	GO:0032963	collagen metabolic process
+GO:0072325	6	GO:0048699	generation of neurons
+GO:0072327	6	GO:0048699	generation of neurons
+GO:0045921	12	GO:0009786	regulation of asymmetric cell division
+GO:0045927	10	GO:0050795	regulation of behavior
+GO:0072347	14	GO:0007638	mechanosensory behavior
+GO:0061512	16	GO:0140238	presynaptic endocytosis
+GO:0045944	15	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0045938	10	GO:0050795	regulation of behavior
+GO:0050673	17	GO:0043062	extracellular structure organization
+GO:0019226	9	GO:0050905	neuromuscular process
+GO:0099172	17	GO:0043062	extracellular structure organization
+GO:1904800	4	GO:0045664	regulation of neuron differentiation
+GO:0035305	12	GO:0009786	regulation of asymmetric cell division
+GO:0072499	5	GO:0032989	cellular component morphogenesis
+GO:0060088	5	GO:0032989	cellular component morphogenesis
+GO:0060078	11	GO:0032963	collagen metabolic process
+GO:0048791	12	GO:0009786	regulation of asymmetric cell division
+GO:0033687	17	GO:0043062	extracellular structure organization
+GO:1903441	16	GO:0140238	presynaptic endocytosis
+GO:0060026	1	GO:0010160	formation of animal organ boundary
+GO:0060027	1	GO:0010160	formation of animal organ boundary
+GO:0033674	12	GO:0009786	regulation of asymmetric cell division

@@ -1,0 +1,4 @@
+GO:0003964	2	GO:0003964	RNA-directed DNA polymerase activity
+GO:0008146	2	GO:0003964	RNA-directed DNA polymerase activity
+GO:0003887	2	GO:0003964	RNA-directed DNA polymerase activity
+GO:0004364	2	GO:0003964	RNA-directed DNA polymerase activity

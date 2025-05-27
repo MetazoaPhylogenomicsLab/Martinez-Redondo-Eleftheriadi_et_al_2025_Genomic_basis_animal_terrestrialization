@@ -1,0 +1,20 @@
+GO:0004222	1	GO:0004497	monooxygenase activity
+GO:0004000	1	GO:0004497	monooxygenase activity
+GO:0005355	1	GO:0004497	monooxygenase activity
+GO:0016716	1	GO:0004497	monooxygenase activity
+GO:0008270	2	GO:0046872	metal ion binding
+GO:0008020	1	GO:0004497	monooxygenase activity
+GO:0005509	2	GO:0046872	metal ion binding
+GO:0004620	1	GO:0004497	monooxygenase activity
+GO:0009881	1	GO:0004497	monooxygenase activity
+GO:0008158	1	GO:0004497	monooxygenase activity
+GO:0080030	1	GO:0004497	monooxygenase activity
+GO:0005536	1	GO:0004497	monooxygenase activity
+GO:0005119	1	GO:0004497	monooxygenase activity
+GO:0015149	1	GO:0004497	monooxygenase activity
+GO:0008081	1	GO:0004497	monooxygenase activity
+GO:0097108	1	GO:0004497	monooxygenase activity
+GO:0004497	1	GO:0004497	monooxygenase activity
+GO:0008381	1	GO:0004497	monooxygenase activity
+GO:0046872	2	GO:0046872	metal ion binding
+GO:0032217	1	GO:0004497	monooxygenase activity

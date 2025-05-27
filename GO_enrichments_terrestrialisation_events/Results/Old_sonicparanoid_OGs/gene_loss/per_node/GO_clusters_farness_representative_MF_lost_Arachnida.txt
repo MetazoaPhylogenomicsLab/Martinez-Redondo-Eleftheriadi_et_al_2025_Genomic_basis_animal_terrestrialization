@@ -1,0 +1,190 @@
+GO:0061134	8	GO:0030414	peptidase inhibitor activity
+GO:0022848	3	GO:0015276	ligand-gated ion channel activity
+GO:0015295	4	GO:0008514	organic anion transmembrane transporter activity
+GO:0004222	7	GO:0017171	serine hydrolase activity
+GO:0002020	10	GO:0030246	carbohydrate binding
+GO:0003756	6	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0005044	12	GO:0005198	structural molecule activity
+GO:0004687	6	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0015276	3	GO:0015276	ligand-gated ion channel activity
+GO:0005230	3	GO:0015276	ligand-gated ion channel activity
+GO:0016504	8	GO:0030414	peptidase inhibitor activity
+GO:0016864	6	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0043208	10	GO:0030246	carbohydrate binding
+GO:0089720	10	GO:0030246	carbohydrate binding
+GO:0005123	10	GO:0030246	carbohydrate binding
+GO:0004984	2	GO:0038023	signaling receptor activity
+GO:0016849	6	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0015149	4	GO:0008514	organic anion transmembrane transporter activity
+GO:0000217	1	GO:0003677	DNA binding
+GO:0016647	6	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0090729	12	GO:0005198	structural molecule activity
+GO:0043565	1	GO:0003677	DNA binding
+GO:0016801	7	GO:0017171	serine hydrolase activity
+GO:0016803	7	GO:0017171	serine hydrolase activity
+GO:0001875	2	GO:0038023	signaling receptor activity
+GO:0140359	4	GO:0008514	organic anion transmembrane transporter activity
+GO:0034061	6	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0030246	10	GO:0030246	carbohydrate binding
+GO:0030248	10	GO:0030246	carbohydrate binding
+GO:0044390	10	GO:0030246	carbohydrate binding
+GO:0046920	6	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0004867	8	GO:0030414	peptidase inhibitor activity
+GO:0030619	1	GO:0003677	DNA binding
+GO:0048018	11	GO:0030545	signaling receptor regulator activity
+GO:0008514	4	GO:0008514	organic anion transmembrane transporter activity
+GO:0031624	10	GO:0030246	carbohydrate binding
+GO:0016779	6	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0032934	10	GO:0030246	carbohydrate binding
+GO:0098632	10	GO:0030246	carbohydrate binding
+GO:0003964	6	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:1901682	4	GO:0008514	organic anion transmembrane transporter activity
+GO:0140103	6	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0061665	6	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0042162	1	GO:0003677	DNA binding
+GO:0035662	10	GO:0030246	carbohydrate binding
+GO:0000981	9	GO:0000981	DNA-binding transcription factor activity, RNA polymerase II-specific
+GO:0016702	6	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0032422	1	GO:0003677	DNA binding
+GO:0000977	1	GO:0003677	DNA binding
+GO:0000978	1	GO:0003677	DNA binding
+GO:0008270	10	GO:0030246	carbohydrate binding
+GO:0005199	12	GO:0005198	structural molecule activity
+GO:0035613	1	GO:0003677	DNA binding
+GO:0004185	7	GO:0017171	serine hydrolase activity
+GO:0001530	10	GO:0030246	carbohydrate binding
+GO:0003690	1	GO:0003677	DNA binding
+GO:0003691	1	GO:0003677	DNA binding
+GO:0140416	11	GO:0030545	signaling receptor regulator activity
+GO:0019870	11	GO:0030545	signaling receptor regulator activity
+GO:0005324	4	GO:0008514	organic anion transmembrane transporter activity
+GO:0030291	8	GO:0030414	peptidase inhibitor activity
+GO:0015562	4	GO:0008514	organic anion transmembrane transporter activity
+GO:0042910	4	GO:0008514	organic anion transmembrane transporter activity
+GO:1990837	1	GO:0003677	DNA binding
+GO:0001227	9	GO:0000981	DNA-binding transcription factor activity, RNA polymerase II-specific
+GO:0001228	9	GO:0000981	DNA-binding transcription factor activity, RNA polymerase II-specific
+GO:1904315	3	GO:0015276	ligand-gated ion channel activity
+GO:0022824	3	GO:0015276	ligand-gated ion channel activity
+GO:0001217	9	GO:0000981	DNA-binding transcription factor activity, RNA polymerase II-specific
+GO:0022835	3	GO:0015276	ligand-gated ion channel activity
+GO:0038187	2	GO:0038023	signaling receptor activity
+GO:0019789	6	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0004888	2	GO:0038023	signaling receptor activity
+GO:0008066	2	GO:0038023	signaling receptor activity
+GO:0005272	3	GO:0015276	ligand-gated ion channel activity
+GO:0015277	3	GO:0015276	ligand-gated ion channel activity
+GO:0030594	2	GO:0038023	signaling receptor activity
+GO:0005214	12	GO:0005198	structural molecule activity
+GO:0000987	1	GO:0003677	DNA binding
+GO:0016892	5	GO:0004518	nuclease activity
+GO:0015199	4	GO:0008514	organic anion transmembrane transporter activity
+GO:0030545	11	GO:0030545	signaling receptor regulator activity
+GO:0030546	11	GO:0030545	signaling receptor regulator activity
+GO:0008237	7	GO:0017171	serine hydrolase activity
+GO:0098960	2	GO:0038023	signaling receptor activity
+GO:0005385	4	GO:0008514	organic anion transmembrane transporter activity
+GO:0000014	5	GO:0004518	nuclease activity
+GO:0050431	10	GO:0030246	carbohydrate binding
+GO:0004520	5	GO:0004518	nuclease activity
+GO:0004519	5	GO:0004518	nuclease activity
+GO:0004970	3	GO:0015276	ligand-gated ion channel activity
+GO:0099529	2	GO:0038023	signaling receptor activity
+GO:0005332	4	GO:0008514	organic anion transmembrane transporter activity
+GO:0099094	3	GO:0015276	ligand-gated ion channel activity
+GO:0000213	5	GO:0004518	nuclease activity
+GO:0000900	1	GO:0003677	DNA binding
+GO:0030544	10	GO:0030246	carbohydrate binding
+GO:0031776	10	GO:0030246	carbohydrate binding
+GO:0031777	10	GO:0030246	carbohydrate binding
+GO:0000405	1	GO:0003677	DNA binding
+GO:0005198	12	GO:0005198	structural molecule activity
+GO:0030354	11	GO:0030545	signaling receptor regulator activity
+GO:0039660	12	GO:0005198	structural molecule activity
+GO:0003735	12	GO:0005198	structural molecule activity
+GO:0019862	10	GO:0030246	carbohydrate binding
+GO:0019864	10	GO:0030246	carbohydrate binding
+GO:0003697	1	GO:0003677	DNA binding
+GO:0046332	10	GO:0030246	carbohydrate binding
+GO:0022829	4	GO:0008514	organic anion transmembrane transporter activity
+GO:0070008	7	GO:0017171	serine hydrolase activity
+GO:0032813	10	GO:0030246	carbohydrate binding
+GO:0042834	10	GO:0030246	carbohydrate binding
+GO:0003823	10	GO:0030246	carbohydrate binding
+GO:0015232	4	GO:0008514	organic anion transmembrane transporter activity
+GO:0034987	10	GO:0030246	carbohydrate binding
+GO:0031210	10	GO:0030246	carbohydrate binding
+GO:0003810	6	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0042803	10	GO:0030246	carbohydrate binding
+GO:0016936	10	GO:0030246	carbohydrate binding
+GO:0005243	4	GO:0008514	organic anion transmembrane transporter activity
+GO:0061608	12	GO:0005198	structural molecule activity
+GO:0050839	10	GO:0030246	carbohydrate binding
+GO:0008422	7	GO:0017171	serine hydrolase activity
+GO:0140297	10	GO:0030246	carbohydrate binding
+GO:0004553	7	GO:0017171	serine hydrolase activity
+GO:0051427	10	GO:0030246	carbohydrate binding
+GO:0051428	10	GO:0030246	carbohydrate binding
+GO:0004521	5	GO:0004518	nuclease activity
+GO:0004523	5	GO:0004518	nuclease activity
+GO:0004089	6	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0004540	5	GO:0004518	nuclease activity
+GO:0004190	7	GO:0017171	serine hydrolase activity
+GO:0004532	5	GO:0004518	nuclease activity
+GO:0003723	1	GO:0003677	DNA binding
+GO:0003729	1	GO:0003677	DNA binding
+GO:0016891	5	GO:0004518	nuclease activity
+GO:0016893	5	GO:0004518	nuclease activity
+GO:0016896	5	GO:0004518	nuclease activity
+GO:0003746	1	GO:0003677	DNA binding
+GO:0017108	5	GO:0004518	nuclease activity
+GO:0035312	5	GO:0004518	nuclease activity
+GO:0005149	10	GO:0030246	carbohydrate binding
+GO:0008146	6	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0016888	5	GO:0004518	nuclease activity
+GO:0003680	1	GO:0003677	DNA binding
+GO:0003676	1	GO:0003677	DNA binding
+GO:0050700	10	GO:0030246	carbohydrate binding
+GO:0003887	6	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0051861	10	GO:0030246	carbohydrate binding
+GO:0050291	6	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0003968	6	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0016796	5	GO:0004518	nuclease activity
+GO:0030414	8	GO:0030414	peptidase inhibitor activity
+GO:0004866	8	GO:0030414	peptidase inhibitor activity
+GO:0004869	8	GO:0030414	peptidase inhibitor activity
+GO:0004857	8	GO:0030414	peptidase inhibitor activity
+GO:0098847	1	GO:0003677	DNA binding
+GO:0051119	4	GO:0008514	organic anion transmembrane transporter activity
+GO:0043047	1	GO:0003677	DNA binding
+GO:0003700	9	GO:0000981	DNA-binding transcription factor activity, RNA polymerase II-specific
+GO:0017171	7	GO:0017171	serine hydrolase activity
+GO:0008236	7	GO:0017171	serine hydrolase activity
+GO:0015144	4	GO:0008514	organic anion transmembrane transporter activity
+GO:0003677	1	GO:0003677	DNA binding
+GO:0046983	10	GO:0030246	carbohydrate binding
+GO:0008528	2	GO:0038023	signaling receptor activity
+GO:0060089	2	GO:0038023	signaling receptor activity
+GO:0046914	10	GO:0030246	carbohydrate binding
+GO:0008061	10	GO:0030246	carbohydrate binding
+GO:0038023	2	GO:0038023	signaling receptor activity
+GO:0008188	2	GO:0038023	signaling receptor activity
+GO:0015651	4	GO:0008514	organic anion transmembrane transporter activity
+GO:0004518	5	GO:0004518	nuclease activity
+GO:0043176	10	GO:0030246	carbohydrate binding
+GO:0001653	2	GO:0038023	signaling receptor activity
+GO:0031593	10	GO:0030246	carbohydrate binding
+GO:0022834	3	GO:0015276	ligand-gated ion channel activity
+GO:0030527	12	GO:0005198	structural molecule activity
+GO:0004983	2	GO:0038023	signaling receptor activity
+GO:0016798	7	GO:0017171	serine hydrolase activity
+GO:0030247	10	GO:0030246	carbohydrate binding
+GO:0001618	10	GO:0030246	carbohydrate binding
+GO:0032977	12	GO:0005198	structural molecule activity
+GO:0015288	4	GO:0008514	organic anion transmembrane transporter activity
+GO:0098631	10	GO:0030246	carbohydrate binding
+GO:0051539	10	GO:0030246	carbohydrate binding
+GO:0004181	7	GO:0017171	serine hydrolase activity
+GO:0140272	10	GO:0030246	carbohydrate binding
+GO:0016866	6	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0003678	6	GO:0140103	catalytic activity, acting on a glycoprotein

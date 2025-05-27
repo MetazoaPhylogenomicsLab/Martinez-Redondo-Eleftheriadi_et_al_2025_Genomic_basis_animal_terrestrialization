@@ -1,0 +1,46 @@
+GO:0032182	5	GO:0005515	protein binding
+GO:0005515	5	GO:0005515	protein binding
+GO:0008157	4	GO:0070840	dynein complex binding
+GO:0070840	4	GO:0070840	dynein complex binding
+GO:2001069	4	GO:0070840	dynein complex binding
+GO:0001222	4	GO:0070840	dynein complex binding
+GO:0001228	1	GO:0003700	DNA-binding transcription factor activity
+GO:0001216	1	GO:0003700	DNA-binding transcription factor activity
+GO:0030247	4	GO:0070840	dynein complex binding
+GO:0043130	5	GO:0005515	protein binding
+GO:1990381	4	GO:0070840	dynein complex binding
+GO:0001618	4	GO:0070840	dynein complex binding
+GO:0008139	4	GO:0070840	dynein complex binding
+GO:0042826	5	GO:0005515	protein binding
+GO:0031005	5	GO:0005515	protein binding
+GO:0031624	4	GO:0070840	dynein complex binding
+GO:0005488	5	GO:0005515	protein binding
+GO:0031625	4	GO:0070840	dynein complex binding
+GO:0010997	4	GO:0070840	dynein complex binding
+GO:0003729	3	GO:0003729	mRNA binding
+GO:0002039	5	GO:0005515	protein binding
+GO:0008083	4	GO:0070840	dynein complex binding
+GO:0003712	1	GO:0003700	DNA-binding transcription factor activity
+GO:0043014	5	GO:0005515	protein binding
+GO:0003730	3	GO:0003729	mRNA binding
+GO:0008017	5	GO:0005515	protein binding
+GO:0042169	5	GO:0005515	protein binding
+GO:0000981	1	GO:0003700	DNA-binding transcription factor activity
+GO:0000976	3	GO:0003729	mRNA binding
+GO:0000977	3	GO:0003729	mRNA binding
+GO:0003700	1	GO:0003700	DNA-binding transcription factor activity
+GO:0019894	5	GO:0005515	protein binding
+GO:0000062	3	GO:0003729	mRNA binding
+GO:0019900	5	GO:0005515	protein binding
+GO:0120227	3	GO:0003729	mRNA binding
+GO:0019864	4	GO:0070840	dynein complex binding
+GO:0140272	5	GO:0005515	protein binding
+GO:0051010	5	GO:0005515	protein binding
+GO:0000900	3	GO:0003729	mRNA binding
+GO:0005184	4	GO:0070840	dynein complex binding
+GO:0042974	4	GO:0070840	dynein complex binding
+GO:1901567	5	GO:0005515	protein binding
+GO:0070851	5	GO:0005515	protein binding
+GO:0008190	5	GO:0005515	protein binding
+GO:0005125	4	GO:0070840	dynein complex binding
+GO:0005119	4	GO:0070840	dynein complex binding

@@ -1,0 +1,52 @@
+GO:0005886	2	GO:0016020	membrane
+GO:0033644	3	GO:0036338	viral membrane
+GO:0070820	4	GO:0009570	chloroplast stroma
+GO:0070821	4	GO:0009570	chloroplast stroma
+GO:1903561	4	GO:0009570	chloroplast stroma
+GO:0055036	2	GO:0016020	membrane
+GO:0005925	3	GO:0036338	viral membrane
+GO:0005929	4	GO:0009570	chloroplast stroma
+GO:0031234	2	GO:0016020	membrane
+GO:0043230	4	GO:0009570	chloroplast stroma
+GO:0043235	1	GO:0097648	G protein-coupled receptor complex
+GO:0098975	3	GO:0036338	viral membrane
+GO:0005615	2	GO:0016020	membrane
+GO:0017071	3	GO:0036338	viral membrane
+GO:0035579	4	GO:0009570	chloroplast stroma
+GO:0020002	3	GO:0036338	viral membrane
+GO:0000782	4	GO:0009570	chloroplast stroma
+GO:0005576	2	GO:0016020	membrane
+GO:0042597	2	GO:0016020	membrane
+GO:0035230	3	GO:0036338	viral membrane
+GO:0032590	3	GO:0036338	viral membrane
+GO:0045121	2	GO:0016020	membrane
+GO:0046696	1	GO:0097648	G protein-coupled receptor complex
+GO:0065010	4	GO:0009570	chloroplast stroma
+GO:0030062	4	GO:0009570	chloroplast stroma
+GO:0036338	3	GO:0036338	viral membrane
+GO:0032580	4	GO:0009570	chloroplast stroma
+GO:0034451	4	GO:0009570	chloroplast stroma
+GO:0042383	2	GO:0016020	membrane
+GO:0009570	4	GO:0009570	chloroplast stroma
+GO:0001891	2	GO:0016020	membrane
+GO:0098982	3	GO:0036338	viral membrane
+GO:0005947	4	GO:0009570	chloroplast stroma
+GO:0098794	2	GO:0016020	membrane
+GO:0042151	4	GO:0009570	chloroplast stroma
+GO:0038037	1	GO:0097648	G protein-coupled receptor complex
+GO:0016020	2	GO:0016020	membrane
+GO:0038039	1	GO:0097648	G protein-coupled receptor complex
+GO:0000307	3	GO:0036338	viral membrane
+GO:0098686	3	GO:0036338	viral membrane
+GO:0071683	3	GO:0036338	viral membrane
+GO:0098802	1	GO:0097648	G protein-coupled receptor complex
+GO:0097648	1	GO:0097648	G protein-coupled receptor complex
+GO:0044167	3	GO:0036338	viral membrane
+GO:0000138	4	GO:0009570	chloroplast stroma
+GO:0045240	4	GO:0009570	chloroplast stroma
+GO:0019898	2	GO:0016020	membrane
+GO:1902911	3	GO:0036338	viral membrane
+GO:0019013	3	GO:0036338	viral membrane
+GO:0019031	3	GO:0036338	viral membrane
+GO:1902712	1	GO:0097648	G protein-coupled receptor complex
+GO:0030894	4	GO:0009570	chloroplast stroma

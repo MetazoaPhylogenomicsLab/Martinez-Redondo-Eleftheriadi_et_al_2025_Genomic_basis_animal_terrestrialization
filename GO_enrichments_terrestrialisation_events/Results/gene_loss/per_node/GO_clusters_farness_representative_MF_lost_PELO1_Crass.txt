@@ -1,0 +1,51 @@
+GO:0120015	1	GO:0120015	sterol transfer activity
+GO:0004190	3	GO:0003756	protein disulfide isomerase activity
+GO:0003756	3	GO:0003756	protein disulfide isomerase activity
+GO:0004983	2	GO:0000995	RNA polymerase III general transcription initiation factor activity
+GO:0001227	2	GO:0000995	RNA polymerase III general transcription initiation factor activity
+GO:0070851	6	GO:0005126	cytokine receptor binding
+GO:0008353	3	GO:0003756	protein disulfide isomerase activity
+GO:1902388	1	GO:0120015	sterol transfer activity
+GO:0001217	2	GO:0000995	RNA polymerase III general transcription initiation factor activity
+GO:0004945	2	GO:0000995	RNA polymerase III general transcription initiation factor activity
+GO:0003964	3	GO:0003756	protein disulfide isomerase activity
+GO:0004861	2	GO:0000995	RNA polymerase III general transcription initiation factor activity
+GO:0048018	4	GO:0048018	receptor ligand activity
+GO:0030957	5	GO:0050700	CARD domain binding
+GO:0031768	6	GO:0005126	cytokine receptor binding
+GO:0000995	2	GO:0000995	RNA polymerase III general transcription initiation factor activity
+GO:0043621	6	GO:0005126	cytokine receptor binding
+GO:0032182	6	GO:0005126	cytokine receptor binding
+GO:0019955	6	GO:0005126	cytokine receptor binding
+GO:0070330	3	GO:0003756	protein disulfide isomerase activity
+GO:0048306	6	GO:0005126	cytokine receptor binding
+GO:0005123	6	GO:0005126	cytokine receptor binding
+GO:0046872	2	GO:0000995	RNA polymerase III general transcription initiation factor activity
+GO:0005125	4	GO:0048018	receptor ligand activity
+GO:0005126	6	GO:0005126	cytokine receptor binding
+GO:0003887	3	GO:0003756	protein disulfide isomerase activity
+GO:0005112	6	GO:0005126	cytokine receptor binding
+GO:0005149	6	GO:0005126	cytokine receptor binding
+GO:0050700	5	GO:0050700	CARD domain binding
+GO:0140344	1	GO:0120015	sterol transfer activity
+GO:1904121	1	GO:0120015	sterol transfer activity
+GO:0043130	5	GO:0050700	CARD domain binding
+GO:0042923	2	GO:0000995	RNA polymerase III general transcription initiation factor activity
+GO:0030296	2	GO:0000995	RNA polymerase III general transcription initiation factor activity
+GO:0089720	5	GO:0050700	CARD domain binding
+GO:0004576	3	GO:0003756	protein disulfide isomerase activity
+GO:0016608	4	GO:0048018	receptor ligand activity
+GO:0004579	3	GO:0003756	protein disulfide isomerase activity
+GO:0004523	3	GO:0003756	protein disulfide isomerase activity
+GO:0016864	3	GO:0003756	protein disulfide isomerase activity
+GO:0017022	5	GO:0050700	CARD domain binding
+GO:0004517	3	GO:0003756	protein disulfide isomerase activity
+GO:0004519	3	GO:0003756	protein disulfide isomerase activity
+GO:0039660	2	GO:0000995	RNA polymerase III general transcription initiation factor activity
+GO:0031369	6	GO:0005126	cytokine receptor binding
+GO:0004693	3	GO:0003756	protein disulfide isomerase activity
+GO:0030545	4	GO:0048018	receptor ligand activity
+GO:0030546	4	GO:0048018	receptor ligand activity
+GO:0120020	1	GO:0120015	sterol transfer activity
+GO:0008097	2	GO:0000995	RNA polymerase III general transcription initiation factor activity
+GO:0004725	3	GO:0003756	protein disulfide isomerase activity

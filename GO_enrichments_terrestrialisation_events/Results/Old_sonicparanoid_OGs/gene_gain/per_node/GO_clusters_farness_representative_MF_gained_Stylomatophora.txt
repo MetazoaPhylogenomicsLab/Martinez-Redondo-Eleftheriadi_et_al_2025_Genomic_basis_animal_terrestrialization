@@ -1,0 +1,23 @@
+GO:0030332	3	GO:0030332	cyclin binding
+GO:0098772	4	GO:0098772	molecular function regulator
+GO:0004857	4	GO:0098772	molecular function regulator
+GO:0048018	4	GO:0098772	molecular function regulator
+GO:0071855	3	GO:0030332	cyclin binding
+GO:0008013	3	GO:0030332	cyclin binding
+GO:0005080	3	GO:0030332	cyclin binding
+GO:0016168	3	GO:0030332	cyclin binding
+GO:0005198	4	GO:0098772	molecular function regulator
+GO:0035591	2	GO:0035591	signaling adaptor activity
+GO:0030545	4	GO:0098772	molecular function regulator
+GO:0030546	4	GO:0098772	molecular function regulator
+GO:0042169	3	GO:0030332	cyclin binding
+GO:0003723	3	GO:0030332	cyclin binding
+GO:0070840	3	GO:0030332	cyclin binding
+GO:0042314	3	GO:0030332	cyclin binding
+GO:0003729	3	GO:0030332	cyclin binding
+GO:0030971	3	GO:0030332	cyclin binding
+GO:0030159	2	GO:0035591	signaling adaptor activity
+GO:1990782	3	GO:0030332	cyclin binding
+GO:0008437	4	GO:0098772	molecular function regulator
+GO:0048306	3	GO:0030332	cyclin binding
+GO:1990226	3	GO:0030332	cyclin binding

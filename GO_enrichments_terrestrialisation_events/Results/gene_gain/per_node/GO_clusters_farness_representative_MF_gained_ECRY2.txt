@@ -1,0 +1,23 @@
+GO:0046961	1	GO:0005244	voltage-gated ion channel activity
+GO:0016811	3	GO:0016811	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides
+GO:0008395	4	GO:0016705	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen
+GO:0015271	1	GO:0005244	voltage-gated ion channel activity
+GO:0016831	4	GO:0016705	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen
+GO:0005244	1	GO:0005244	voltage-gated ion channel activity
+GO:0005248	1	GO:0005244	voltage-gated ion channel activity
+GO:0016705	4	GO:0016705	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen
+GO:0004521	3	GO:0016811	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides
+GO:0070403	2	GO:0070403	NAD+ binding
+GO:0061980	2	GO:0070403	NAD+ binding
+GO:0004364	4	GO:0016705	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen
+GO:0003887	4	GO:0016705	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen
+GO:0022843	1	GO:0005244	voltage-gated ion channel activity
+GO:0097718	2	GO:0070403	NAD+ binding
+GO:0051117	2	GO:0070403	NAD+ binding
+GO:0055077	1	GO:0005244	voltage-gated ion channel activity
+GO:0005506	2	GO:0070403	NAD+ binding
+GO:0003684	2	GO:0070403	NAD+ binding
+GO:0016779	4	GO:0016705	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen
+GO:0005251	1	GO:0005244	voltage-gated ion channel activity
+GO:0005001	3	GO:0016811	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides
+GO:0004602	4	GO:0016705	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen

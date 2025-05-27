@@ -1,0 +1,97 @@
+GO:0033643	2	GO:0043656	host intracellular region
+GO:0033646	2	GO:0043656	host intracellular region
+GO:1903561	5	GO:0000325	plant-type vacuole
+GO:0000325	5	GO:0000325	plant-type vacuole
+GO:0048188	1	GO:0005654	nucleoplasm
+GO:0005669	1	GO:0005654	nucleoplasm
+GO:0009579	6	GO:0009579	thylakoid
+GO:0016235	6	GO:0009579	thylakoid
+GO:0043230	6	GO:0009579	thylakoid
+GO:0005628	4	GO:0055036	virion membrane
+GO:0098975	4	GO:0055036	virion membrane
+GO:0005615	6	GO:0009579	thylakoid
+GO:0016020	6	GO:0009579	thylakoid
+GO:0042651	6	GO:0009579	thylakoid
+GO:0034357	6	GO:0009579	thylakoid
+GO:0005741	5	GO:0000325	plant-type vacuole
+GO:0005604	4	GO:0055036	virion membrane
+GO:0042763	6	GO:0009579	thylakoid
+GO:0042764	6	GO:0009579	thylakoid
+GO:0043656	2	GO:0043656	host intracellular region
+GO:0001650	1	GO:0005654	nucleoplasm
+GO:0005576	6	GO:0009579	thylakoid
+GO:0017119	5	GO:0000325	plant-type vacuole
+GO:0030430	2	GO:0043656	host intracellular region
+GO:0019030	3	GO:0044423	virion component
+GO:0065010	5	GO:0000325	plant-type vacuole
+GO:0031588	3	GO:0044423	virion component
+GO:0016323	4	GO:0055036	virion membrane
+GO:0042025	2	GO:0043656	host intracellular region
+GO:0034707	4	GO:0055036	virion membrane
+GO:0018995	2	GO:0043656	host intracellular region
+GO:0098592	4	GO:0055036	virion membrane
+GO:0000935	4	GO:0055036	virion membrane
+GO:0043655	2	GO:0043656	host intracellular region
+GO:0043657	2	GO:0043656	host intracellular region
+GO:0043625	1	GO:0005654	nucleoplasm
+GO:0019028	3	GO:0044423	virion component
+GO:0034494	1	GO:0005654	nucleoplasm
+GO:0005921	4	GO:0055036	virion membrane
+GO:0055036	4	GO:0055036	virion membrane
+GO:0005654	1	GO:0005654	nucleoplasm
+GO:0032010	5	GO:0000325	plant-type vacuole
+GO:0005677	1	GO:0005654	nucleoplasm
+GO:0020007	6	GO:0009579	thylakoid
+GO:0009897	4	GO:0055036	virion membrane
+GO:0019029	3	GO:0044423	virion component
+GO:0000940	5	GO:0000325	plant-type vacuole
+GO:0042575	3	GO:0044423	virion component
+GO:0042718	6	GO:0009579	thylakoid
+GO:0005593	3	GO:0044423	virion component
+GO:0005594	3	GO:0044423	virion component
+GO:0001940	1	GO:0005654	nucleoplasm
+GO:0005764	5	GO:0000325	plant-type vacuole
+GO:0031983	5	GO:0000325	plant-type vacuole
+GO:0036019	5	GO:0000325	plant-type vacuole
+GO:0044423	3	GO:0044423	virion component
+GO:0031969	5	GO:0000325	plant-type vacuole
+GO:0005634	1	GO:0005654	nucleoplasm
+GO:0031462	3	GO:0044423	virion component
+GO:0035861	6	GO:0009579	thylakoid
+GO:0019013	3	GO:0044423	virion component
+GO:0045495	6	GO:0009579	thylakoid
+GO:0030062	1	GO:0005654	nucleoplasm
+GO:0044295	4	GO:0055036	virion membrane
+GO:0005823	6	GO:0009579	thylakoid
+GO:0055028	5	GO:0000325	plant-type vacuole
+GO:0005814	5	GO:0000325	plant-type vacuole
+GO:0016281	6	GO:0009579	thylakoid
+GO:0005672	1	GO:0005654	nucleoplasm
+GO:0030667	5	GO:0000325	plant-type vacuole
+GO:0043073	1	GO:0005654	nucleoplasm
+GO:0031201	6	GO:0009579	thylakoid
+GO:0000792	6	GO:0009579	thylakoid
+GO:0071683	4	GO:0055036	virion membrane
+GO:0071006	1	GO:0005654	nucleoplasm
+GO:0000974	3	GO:0044423	virion component
+GO:0030670	5	GO:0000325	plant-type vacuole
+GO:0031968	5	GO:0000325	plant-type vacuole
+GO:0043186	5	GO:0000325	plant-type vacuole
+GO:0045240	6	GO:0009579	thylakoid
+GO:0061803	4	GO:0055036	virion membrane
+GO:0060293	6	GO:0009579	thylakoid
+GO:0019867	6	GO:0009579	thylakoid
+GO:0035371	5	GO:0000325	plant-type vacuole
+GO:0016591	1	GO:0005654	nucleoplasm
+GO:0039615	3	GO:0044423	virion component
+GO:0042582	5	GO:0000325	plant-type vacuole
+GO:0035631	4	GO:0055036	virion membrane
+GO:0005675	1	GO:0005654	nucleoplasm
+GO:0031253	4	GO:0055036	virion membrane
+GO:0070985	1	GO:0005654	nucleoplasm
+GO:0032806	1	GO:0005654	nucleoplasm
+GO:0032809	4	GO:0055036	virion membrane
+GO:0005813	6	GO:0009579	thylakoid
+GO:0009898	4	GO:0055036	virion membrane
+GO:0033647	2	GO:0043656	host intracellular region
+GO:0033648	2	GO:0043656	host intracellular region

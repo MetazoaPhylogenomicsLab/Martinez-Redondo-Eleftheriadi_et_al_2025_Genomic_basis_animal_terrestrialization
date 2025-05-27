@@ -1,0 +1,34 @@
+GO:0003756	2	GO:0017056	structural constituent of nuclear pore
+GO:0000403	2	GO:0017056	structural constituent of nuclear pore
+GO:0072542	1	GO:0019888	protein phosphatase regulator activity
+GO:0032399	3	GO:0005515	protein binding
+GO:0016407	2	GO:0017056	structural constituent of nuclear pore
+GO:0046933	2	GO:0017056	structural constituent of nuclear pore
+GO:0001227	2	GO:0017056	structural constituent of nuclear pore
+GO:0001228	2	GO:0017056	structural constituent of nuclear pore
+GO:0019900	3	GO:0005515	protein binding
+GO:0019901	3	GO:0005515	protein binding
+GO:0001217	2	GO:0017056	structural constituent of nuclear pore
+GO:0042162	2	GO:0017056	structural constituent of nuclear pore
+GO:0015189	2	GO:0017056	structural constituent of nuclear pore
+GO:0050699	3	GO:0005515	protein binding
+GO:0017056	2	GO:0017056	structural constituent of nuclear pore
+GO:0000977	2	GO:0017056	structural constituent of nuclear pore
+GO:0000978	2	GO:0017056	structural constituent of nuclear pore
+GO:0005488	3	GO:0005515	protein binding
+GO:0032182	3	GO:0005515	protein binding
+GO:0042803	3	GO:0005515	protein binding
+GO:1990430	3	GO:0005515	protein binding
+GO:0019211	1	GO:0019888	protein phosphatase regulator activity
+GO:0019215	3	GO:0005515	protein binding
+GO:0043130	3	GO:0005515	protein binding
+GO:0004865	1	GO:0019888	protein phosphatase regulator activity
+GO:0005515	3	GO:0005515	protein binding
+GO:0031776	3	GO:0005515	protein binding
+GO:0031777	3	GO:0005515	protein binding
+GO:0031593	3	GO:0005515	protein binding
+GO:0019888	1	GO:0019888	protein phosphatase regulator activity
+GO:0019208	1	GO:0019888	protein phosphatase regulator activity
+GO:0004791	2	GO:0017056	structural constituent of nuclear pore
+GO:0015252	2	GO:0017056	structural constituent of nuclear pore
+GO:0019843	2	GO:0017056	structural constituent of nuclear pore

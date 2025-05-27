@@ -1,0 +1,72 @@
+GO:0033650	1	GO:0030430	host cell cytoplasm
+GO:0033655	1	GO:0030430	host cell cytoplasm
+GO:0042025	1	GO:0030430	host cell cytoplasm
+GO:0030430	1	GO:0030430	host cell cytoplasm
+GO:0033643	1	GO:0030430	host cell cytoplasm
+GO:0033644	1	GO:0030430	host cell cytoplasm
+GO:0044200	1	GO:0030430	host cell cytoplasm
+GO:0033645	1	GO:0030430	host cell cytoplasm
+GO:0033648	1	GO:0030430	host cell cytoplasm
+GO:0044204	1	GO:0030430	host cell cytoplasm
+GO:0055036	7	GO:0042597	periplasmic space
+GO:0002080	5	GO:0000943	retrotransposon nucleocapsid
+GO:0044199	1	GO:0030430	host cell cytoplasm
+GO:0044165	1	GO:0030430	host cell cytoplasm
+GO:0044167	1	GO:0030430	host cell cytoplasm
+GO:0044156	1	GO:0030430	host cell cytoplasm
+GO:0044175	1	GO:0030430	host cell cytoplasm
+GO:0044177	1	GO:0030430	host cell cytoplasm
+GO:0044178	1	GO:0030430	host cell cytoplasm
+GO:0039713	1	GO:0030430	host cell cytoplasm
+GO:0005615	7	GO:0042597	periplasmic space
+GO:0020009	5	GO:0000943	retrotransposon nucleocapsid
+GO:0045120	5	GO:0000943	retrotransposon nucleocapsid
+GO:0009897	7	GO:0042597	periplasmic space
+GO:0044094	1	GO:0030430	host cell cytoplasm
+GO:0010494	5	GO:0000943	retrotransposon nucleocapsid
+GO:0019030	2	GO:0044423	virion component
+GO:0019031	2	GO:0044423	virion component
+GO:0019033	2	GO:0044423	virion component
+GO:0032839	6	GO:0043005	neuron projection
+GO:0001940	5	GO:0000943	retrotransposon nucleocapsid
+GO:0005576	7	GO:0042597	periplasmic space
+GO:0044423	2	GO:0044423	virion component
+GO:0034702	4	GO:1902495	transmembrane transporter complex
+GO:0034703	4	GO:1902495	transmembrane transporter complex
+GO:0034704	4	GO:1902495	transmembrane transporter complex
+GO:0042597	7	GO:0042597	periplasmic space
+GO:0045239	5	GO:0000943	retrotransposon nucleocapsid
+GO:0098636	3	GO:1905347	endodeoxyribonuclease complex
+GO:0046696	4	GO:1902495	transmembrane transporter complex
+GO:0030424	6	GO:0043005	neuron projection
+GO:1905347	3	GO:1905347	endodeoxyribonuclease complex
+GO:0070820	5	GO:0000943	retrotransposon nucleocapsid
+GO:1990351	3	GO:1905347	endodeoxyribonuclease complex
+GO:0044172	1	GO:0030430	host cell cytoplasm
+GO:0032982	7	GO:0042597	periplasmic space
+GO:0005923	7	GO:0042597	periplasmic space
+GO:0009380	3	GO:1905347	endodeoxyribonuclease complex
+GO:0098802	4	GO:1902495	transmembrane transporter complex
+GO:0005892	4	GO:1902495	transmembrane transporter complex
+GO:1902495	4	GO:1902495	transmembrane transporter complex
+GO:0031672	5	GO:0000943	retrotransposon nucleocapsid
+GO:0042651	7	GO:0042597	periplasmic space
+GO:0005863	5	GO:0000943	retrotransposon nucleocapsid
+GO:0001726	6	GO:0043005	neuron projection
+GO:0009279	7	GO:0042597	periplasmic space
+GO:0000943	5	GO:0000943	retrotransposon nucleocapsid
+GO:0005886	7	GO:0042597	periplasmic space
+GO:0005905	7	GO:0042597	periplasmic space
+GO:0072562	7	GO:0042597	periplasmic space
+GO:0030075	5	GO:0000943	retrotransposon nucleocapsid
+GO:0042170	5	GO:0000943	retrotransposon nucleocapsid
+GO:0031143	6	GO:0043005	neuron projection
+GO:0030288	7	GO:0042597	periplasmic space
+GO:0019028	2	GO:0044423	virion component
+GO:0031080	5	GO:0000943	retrotransposon nucleocapsid
+GO:0043005	6	GO:0043005	neuron projection
+GO:0039624	2	GO:0044423	virion component
+GO:0000346	5	GO:0000943	retrotransposon nucleocapsid
+GO:0000347	5	GO:0000943	retrotransposon nucleocapsid
+GO:0032587	6	GO:0043005	neuron projection
+GO:0043235	3	GO:1905347	endodeoxyribonuclease complex

@@ -1,0 +1,121 @@
+GO:0009988	5	GO:0010191	mucilage metabolic process
+GO:0007218	5	GO:0010191	mucilage metabolic process
+GO:0070828	7	GO:0070828	heterochromatin organization
+GO:0035305	5	GO:0010191	mucilage metabolic process
+GO:0045861	5	GO:0010191	mucilage metabolic process
+GO:0045880	5	GO:0010191	mucilage metabolic process
+GO:0007099	7	GO:0070828	heterochromatin organization
+GO:0061060	5	GO:0010191	mucilage metabolic process
+GO:2000106	2	GO:0070228	regulation of lymphocyte apoptotic process
+GO:0007064	7	GO:0070828	heterochromatin organization
+GO:2000107	2	GO:0070228	regulation of lymphocyte apoptotic process
+GO:0045814	5	GO:0010191	mucilage metabolic process
+GO:0001580	5	GO:0010191	mucilage metabolic process
+GO:0030968	5	GO:0010191	mucilage metabolic process
+GO:0033484	5	GO:0010191	mucilage metabolic process
+GO:0010191	5	GO:0010191	mucilage metabolic process
+GO:0010192	5	GO:0010191	mucilage metabolic process
+GO:0050730	5	GO:0010191	mucilage metabolic process
+GO:0002011	6	GO:0010214	seed coat development
+GO:0042475	6	GO:0010214	seed coat development
+GO:0051346	5	GO:0010191	mucilage metabolic process
+GO:1901506	1	GO:0015886	heme transport
+GO:1901508	1	GO:0015886	heme transport
+GO:0097186	6	GO:0010214	seed coat development
+GO:0050878	5	GO:0010191	mucilage metabolic process
+GO:0031507	7	GO:0070828	heterochromatin organization
+GO:0034505	6	GO:0010214	seed coat development
+GO:0044089	7	GO:0070828	heterochromatin organization
+GO:0030727	6	GO:0010214	seed coat development
+GO:0050818	5	GO:0010191	mucilage metabolic process
+GO:0050819	5	GO:0010191	mucilage metabolic process
+GO:0030718	6	GO:0010214	seed coat development
+GO:1901678	1	GO:0015886	heme transport
+GO:0046718	4	GO:0019049	mitigation of host defenses by virus
+GO:0098670	4	GO:0019049	mitigation of host defenses by virus
+GO:1905269	7	GO:0070828	heterochromatin organization
+GO:0044000	4	GO:0019049	mitigation of host defenses by virus
+GO:0052562	4	GO:0019049	mitigation of host defenses by virus
+GO:0010214	6	GO:0010214	seed coat development
+GO:0052553	4	GO:0019049	mitigation of host defenses by virus
+GO:0097264	5	GO:0010191	mucilage metabolic process
+GO:2000738	5	GO:0010191	mucilage metabolic process
+GO:0010921	5	GO:0010191	mucilage metabolic process
+GO:0010923	5	GO:0010191	mucilage metabolic process
+GO:0034644	5	GO:0010191	mucilage metabolic process
+GO:0071222	4	GO:0019049	mitigation of host defenses by virus
+GO:0048316	6	GO:0010214	seed coat development
+GO:0071216	5	GO:0010191	mucilage metabolic process
+GO:0071219	4	GO:0019049	mitigation of host defenses by virus
+GO:0009556	6	GO:0010214	seed coat development
+GO:0035212	6	GO:0010214	seed coat development
+GO:0031453	7	GO:0070828	heterochromatin organization
+GO:0019049	4	GO:0019049	mitigation of host defenses by virus
+GO:0039563	5	GO:0010191	mucilage metabolic process
+GO:0039554	4	GO:0019049	mitigation of host defenses by virus
+GO:0031445	7	GO:0070828	heterochromatin organization
+GO:0030593	5	GO:0010191	mucilage metabolic process
+GO:0045478	7	GO:0070828	heterochromatin organization
+GO:0038060	5	GO:0010191	mucilage metabolic process
+GO:0006182	5	GO:0010191	mucilage metabolic process
+GO:0070192	7	GO:0070828	heterochromatin organization
+GO:0050688	4	GO:0019049	mitigation of host defenses by virus
+GO:0090022	5	GO:0010191	mucilage metabolic process
+GO:0070166	6	GO:0010214	seed coat development
+GO:0039502	4	GO:0019049	mitigation of host defenses by virus
+GO:1903006	5	GO:0010191	mucilage metabolic process
+GO:0034196	1	GO:0015886	heme transport
+GO:0034197	1	GO:0015886	heme transport
+GO:0044552	5	GO:0010191	mucilage metabolic process
+GO:0044553	4	GO:0019049	mitigation of host defenses by virus
+GO:0035036	6	GO:0010214	seed coat development
+GO:0042060	5	GO:0010191	mucilage metabolic process
+GO:0033044	7	GO:0070828	heterochromatin organization
+GO:0007340	6	GO:0010214	seed coat development
+GO:0007342	6	GO:0010214	seed coat development
+GO:1902622	5	GO:0010191	mucilage metabolic process
+GO:0051248	5	GO:0010191	mucilage metabolic process
+GO:1905883	1	GO:0015886	heme transport
+GO:1905885	1	GO:0015886	heme transport
+GO:0010810	3	GO:0010810	regulation of cell-substrate adhesion
+GO:0010812	3	GO:0010810	regulation of cell-substrate adhesion
+GO:0071887	2	GO:0070228	regulation of lymphocyte apoptotic process
+GO:0031109	7	GO:0070828	heterochromatin organization
+GO:0001952	3	GO:0010810	regulation of cell-substrate adhesion
+GO:0045132	7	GO:0070828	heterochromatin organization
+GO:0001953	3	GO:0010810	regulation of cell-substrate adhesion
+GO:0030682	4	GO:0019049	mitigation of host defenses by virus
+GO:0034109	3	GO:0010810	regulation of cell-substrate adhesion
+GO:0048132	6	GO:0010214	seed coat development
+GO:0035821	4	GO:0019049	mitigation of host defenses by virus
+GO:0051764	7	GO:0070828	heterochromatin organization
+GO:0070228	2	GO:0070228	regulation of lymphocyte apoptotic process
+GO:0070229	2	GO:0070228	regulation of lymphocyte apoptotic process
+GO:0070231	2	GO:0070228	regulation of lymphocyte apoptotic process
+GO:0070232	2	GO:0070228	regulation of lymphocyte apoptotic process
+GO:0070233	2	GO:0070228	regulation of lymphocyte apoptotic process
+GO:0052167	4	GO:0019049	mitigation of host defenses by virus
+GO:0031214	6	GO:0010214	seed coat development
+GO:0030466	7	GO:0070828	heterochromatin organization
+GO:0052170	4	GO:0019049	mitigation of host defenses by virus
+GO:0001755	6	GO:0010214	seed coat development
+GO:1902407	7	GO:0070828	heterochromatin organization
+GO:0007168	5	GO:0010191	mucilage metabolic process
+GO:0048236	6	GO:0010214	seed coat development
+GO:0007155	3	GO:0010810	regulation of cell-substrate adhesion
+GO:0120261	7	GO:0070828	heterochromatin organization
+GO:0120263	7	GO:0070828	heterochromatin organization
+GO:0034086	7	GO:0070828	heterochromatin organization
+GO:0034088	7	GO:0070828	heterochromatin organization
+GO:0098728	6	GO:0010214	seed coat development
+GO:0098730	6	GO:0010214	seed coat development
+GO:0034776	5	GO:0010191	mucilage metabolic process
+GO:0015886	1	GO:0015886	heme transport
+GO:0044409	4	GO:0019049	mitigation of host defenses by virus
+GO:0043086	5	GO:0010191	mucilage metabolic process
+GO:0030168	5	GO:0010191	mucilage metabolic process
+GO:0071622	5	GO:0010191	mucilage metabolic process
+GO:0006826	1	GO:0015886	heme transport
+GO:0007263	5	GO:0010191	mucilage metabolic process
+GO:0007282	6	GO:0010214	seed coat development
+GO:0007284	6	GO:0010214	seed coat development

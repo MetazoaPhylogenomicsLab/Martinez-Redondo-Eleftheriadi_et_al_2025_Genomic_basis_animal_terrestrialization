@@ -1,0 +1,29 @@
+GO:0030425	2	GO:0016514	SWI/SNF complex
+GO:0008076	2	GO:0016514	SWI/SNF complex
+GO:0051285	2	GO:0016514	SWI/SNF complex
+GO:0035974	3	GO:0042763	intracellular immature spore
+GO:0030430	1	GO:0033646	host intracellular part
+GO:0001940	2	GO:0016514	SWI/SNF complex
+GO:0005628	3	GO:0042763	intracellular immature spore
+GO:0002080	2	GO:0016514	SWI/SNF complex
+GO:0005640	2	GO:0016514	SWI/SNF complex
+GO:0000930	3	GO:0042763	intracellular immature spore
+GO:0016514	2	GO:0016514	SWI/SNF complex
+GO:0097014	3	GO:0042763	intracellular immature spore
+GO:0017053	2	GO:0016514	SWI/SNF complex
+GO:0005929	3	GO:0042763	intracellular immature spore
+GO:0042025	1	GO:0033646	host intracellular part
+GO:0031097	2	GO:0016514	SWI/SNF complex
+GO:0031968	2	GO:0016514	SWI/SNF complex
+GO:0005881	3	GO:0042763	intracellular immature spore
+GO:0005930	3	GO:0042763	intracellular immature spore
+GO:0005933	3	GO:0042763	intracellular immature spore
+GO:0042763	3	GO:0042763	intracellular immature spore
+GO:0042764	3	GO:0042763	intracellular immature spore
+GO:0033655	1	GO:0033646	host intracellular part
+GO:0001669	2	GO:0016514	SWI/SNF complex
+GO:0005816	3	GO:0042763	intracellular immature spore
+GO:0044423	2	GO:0016514	SWI/SNF complex
+GO:0033646	1	GO:0033646	host intracellular part
+GO:0033647	1	GO:0033646	host intracellular part
+GO:0033648	1	GO:0033646	host intracellular part

@@ -1,0 +1,179 @@
+GO:0016892	10	GO:0016817	hydrolase activity, acting on acid anhydrides
+GO:0035275	1	GO:0043176	amine binding
+GO:0005198	9	GO:0005198	structural molecule activity
+GO:0005199	9	GO:0005198	structural molecule activity
+GO:0098632	3	GO:0005178	integrin binding
+GO:0042162	6	GO:0003677	DNA binding
+GO:0015232	7	GO:0005272	sodium channel activity
+GO:0005518	1	GO:0043176	amine binding
+GO:0002039	2	GO:0005515	protein binding
+GO:0005549	1	GO:0043176	amine binding
+GO:0098847	6	GO:0003677	DNA binding
+GO:0005154	3	GO:0005178	integrin binding
+GO:0000213	10	GO:0016817	hydrolase activity, acting on acid anhydrides
+GO:0030345	9	GO:0005198	structural molecule activity
+GO:0003697	6	GO:0003677	DNA binding
+GO:0005213	9	GO:0005198	structural molecule activity
+GO:0005121	2	GO:0005515	protein binding
+GO:0005125	3	GO:0005178	integrin binding
+GO:0030021	9	GO:0005198	structural molecule activity
+GO:0043047	6	GO:0003677	DNA binding
+GO:0043621	2	GO:0005515	protein binding
+GO:0004252	10	GO:0016817	hydrolase activity, acting on acid anhydrides
+GO:0005133	3	GO:0005178	integrin binding
+GO:0020037	6	GO:0003677	DNA binding
+GO:0005139	3	GO:0005178	integrin binding
+GO:0008083	3	GO:0005178	integrin binding
+GO:1990915	9	GO:0005198	structural molecule activity
+GO:0005200	9	GO:0005198	structural molecule activity
+GO:0008017	3	GO:0005178	integrin binding
+GO:0042302	9	GO:0005198	structural molecule activity
+GO:0003690	6	GO:0003677	DNA binding
+GO:0016675	10	GO:0016817	hydrolase activity, acting on acid anhydrides
+GO:0004129	7	GO:0005272	sodium channel activity
+GO:0001228	12	GO:0060090	molecular adaptor activity
+GO:0001216	12	GO:0060090	molecular adaptor activity
+GO:0003677	6	GO:0003677	DNA binding
+GO:0017025	3	GO:0005178	integrin binding
+GO:0070034	6	GO:0003677	DNA binding
+GO:0017040	10	GO:0016817	hydrolase activity, acting on acid anhydrides
+GO:0071855	3	GO:0005178	integrin binding
+GO:0022836	7	GO:0005272	sodium channel activity
+GO:0022839	7	GO:0005272	sodium channel activity
+GO:0004386	10	GO:0016817	hydrolase activity, acting on acid anhydrides
+GO:0004520	10	GO:0016817	hydrolase activity, acting on acid anhydrides
+GO:0003899	10	GO:0016817	hydrolase activity, acting on acid anhydrides
+GO:0033041	8	GO:0004930	G protein-coupled receptor activity
+GO:0000175	10	GO:0016817	hydrolase activity, acting on acid anhydrides
+GO:0004984	8	GO:0004930	G protein-coupled receptor activity
+GO:0001882	6	GO:0003677	DNA binding
+GO:0000900	6	GO:0003677	DNA binding
+GO:0016817	10	GO:0016817	hydrolase activity, acting on acid anhydrides
+GO:0004930	8	GO:0004930	G protein-coupled receptor activity
+GO:0048018	3	GO:0005178	integrin binding
+GO:0017111	10	GO:0016817	hydrolase activity, acting on acid anhydrides
+GO:0008527	8	GO:0004930	G protein-coupled receptor activity
+GO:0030674	12	GO:0060090	molecular adaptor activity
+GO:0051381	6	GO:0003677	DNA binding
+GO:0042802	2	GO:0005515	protein binding
+GO:0022843	7	GO:0005272	sodium channel activity
+GO:0060090	12	GO:0060090	molecular adaptor activity
+GO:0005550	1	GO:0043176	amine binding
+GO:0043176	1	GO:0043176	amine binding
+GO:0070026	1	GO:0043176	amine binding
+GO:0003712	11	GO:0019207	kinase regulator activity
+GO:0080030	10	GO:0016817	hydrolase activity, acting on acid anhydrides
+GO:0005249	7	GO:0005272	sodium channel activity
+GO:0008145	1	GO:0043176	amine binding
+GO:0016709	10	GO:0016817	hydrolase activity, acting on acid anhydrides
+GO:0055106	11	GO:0019207	kinase regulator activity
+GO:0044389	4	GO:0019900	kinase binding
+GO:0008011	9	GO:0005198	structural molecule activity
+GO:0070001	10	GO:0016817	hydrolase activity, acting on acid anhydrides
+GO:0005096	11	GO:0019207	kinase regulator activity
+GO:0005179	3	GO:0005178	integrin binding
+GO:0031625	4	GO:0019900	kinase binding
+GO:0015294	7	GO:0005272	sodium channel activity
+GO:0004190	10	GO:0016817	hydrolase activity, acting on acid anhydrides
+GO:0019865	1	GO:0043176	amine binding
+GO:0005272	7	GO:0005272	sodium channel activity
+GO:0015280	7	GO:0005272	sodium channel activity
+GO:0015276	7	GO:0005272	sodium channel activity
+GO:0038187	8	GO:0004930	G protein-coupled receptor activity
+GO:0005230	7	GO:0005272	sodium channel activity
+GO:0005102	2	GO:0005515	protein binding
+GO:0005201	9	GO:0005198	structural molecule activity
+GO:0001875	8	GO:0004930	G protein-coupled receptor activity
+GO:0051287	6	GO:0003677	DNA binding
+GO:0001530	1	GO:0043176	amine binding
+GO:0005178	3	GO:0005178	integrin binding
+GO:0003968	10	GO:0016817	hydrolase activity, acting on acid anhydrides
+GO:0003700	12	GO:0060090	molecular adaptor activity
+GO:0000976	6	GO:0003677	DNA binding
+GO:0070851	2	GO:0005515	protein binding
+GO:0099106	11	GO:0019207	kinase regulator activity
+GO:0005515	2	GO:0005515	protein binding
+GO:0039660	9	GO:0005198	structural molecule activity
+GO:0001664	2	GO:0005515	protein binding
+GO:0030545	11	GO:0019207	kinase regulator activity
+GO:0030546	11	GO:0019207	kinase regulator activity
+GO:0001067	6	GO:0003677	DNA binding
+GO:0015026	8	GO:0004930	G protein-coupled receptor activity
+GO:0015459	11	GO:0019207	kinase regulator activity
+GO:0019887	11	GO:0019207	kinase regulator activity
+GO:0019900	4	GO:0019900	kinase binding
+GO:0019901	4	GO:0019900	kinase binding
+GO:0140416	11	GO:0019207	kinase regulator activity
+GO:0003691	6	GO:0003677	DNA binding
+GO:0032422	6	GO:0003677	DNA binding
+GO:0004908	8	GO:0004930	G protein-coupled receptor activity
+GO:0030291	11	GO:0019207	kinase regulator activity
+GO:0019966	3	GO:0005178	integrin binding
+GO:0015199	7	GO:0005272	sodium channel activity
+GO:0019955	2	GO:0005515	protein binding
+GO:0005332	7	GO:0005272	sodium channel activity
+GO:0019207	11	GO:0019207	kinase regulator activity
+GO:0004970	7	GO:0005272	sodium channel activity
+GO:0000217	6	GO:0003677	DNA binding
+GO:0031404	1	GO:0043176	amine binding
+GO:0004784	10	GO:0016817	hydrolase activity, acting on acid anhydrides
+GO:0005112	2	GO:0005515	protein binding
+GO:0098960	8	GO:0004930	G protein-coupled receptor activity
+GO:0042314	6	GO:0003677	DNA binding
+GO:0046906	6	GO:0003677	DNA binding
+GO:0043236	2	GO:0005515	protein binding
+GO:0043237	3	GO:0005178	integrin binding
+GO:0055102	11	GO:0019207	kinase regulator activity
+GO:0001968	2	GO:0005515	protein binding
+GO:0051010	3	GO:0005178	integrin binding
+GO:0098631	3	GO:0005178	integrin binding
+GO:0097602	2	GO:0005515	protein binding
+GO:0000774	11	GO:0019207	kinase regulator activity
+GO:0043495	12	GO:0060090	molecular adaptor activity
+GO:0016721	10	GO:0016817	hydrolase activity, acting on acid anhydrides
+GO:0005214	9	GO:0005198	structural molecule activity
+GO:0046875	2	GO:0005515	protein binding
+GO:0005507	5	GO:0046914	transition metal ion binding
+GO:0099583	8	GO:0004930	G protein-coupled receptor activity
+GO:0031435	4	GO:0019900	kinase binding
+GO:0030247	1	GO:0043176	amine binding
+GO:0030248	1	GO:0043176	amine binding
+GO:0005184	3	GO:0005178	integrin binding
+GO:0099530	8	GO:0004930	G protein-coupled receptor activity
+GO:0005118	2	GO:0005515	protein binding
+GO:0008198	5	GO:0046914	transition metal ion binding
+GO:0004712	10	GO:0016817	hydrolase activity, acting on acid anhydrides
+GO:0004714	8	GO:0004930	G protein-coupled receptor activity
+GO:0030492	2	GO:0005515	protein binding
+GO:0016209	12	GO:0060090	molecular adaptor activity
+GO:0050840	1	GO:0043176	amine binding
+GO:0031956	10	GO:0016817	hydrolase activity, acting on acid anhydrides
+GO:0017151	4	GO:0019900	kinase binding
+GO:0042803	3	GO:0005178	integrin binding
+GO:0016936	1	GO:0043176	amine binding
+GO:0004336	10	GO:0016817	hydrolase activity, acting on acid anhydrides
+GO:0001640	8	GO:0004930	G protein-coupled receptor activity
+GO:0031423	2	GO:0005515	protein binding
+GO:0005501	1	GO:0043176	amine binding
+GO:0019840	1	GO:0043176	amine binding
+GO:0019841	12	GO:0060090	molecular adaptor activity
+GO:0070840	1	GO:0043176	amine binding
+GO:0090729	12	GO:0060090	molecular adaptor activity
+GO:0102756	10	GO:0016817	hydrolase activity, acting on acid anhydrides
+GO:0009922	10	GO:0016817	hydrolase activity, acting on acid anhydrides
+GO:0035064	3	GO:0005178	integrin binding
+GO:0005149	3	GO:0005178	integrin binding
+GO:0140030	2	GO:0005515	protein binding
+GO:0140034	3	GO:0005178	integrin binding
+GO:0001221	3	GO:0005178	integrin binding
+GO:0001222	3	GO:0005178	integrin binding
+GO:0034062	10	GO:0016817	hydrolase activity, acting on acid anhydrides
+GO:0015252	7	GO:0005272	sodium channel activity
+GO:0046914	5	GO:0046914	transition metal ion binding
+GO:0005031	8	GO:0004930	G protein-coupled receptor activity
+GO:0005035	8	GO:0004930	G protein-coupled receptor activity
+GO:0005548	12	GO:0060090	molecular adaptor activity
+GO:0140303	12	GO:0060090	molecular adaptor activity
+GO:0004197	10	GO:0016817	hydrolase activity, acting on acid anhydrides
+GO:0008270	5	GO:0046914	transition metal ion binding
+GO:0017128	12	GO:0060090	molecular adaptor activity

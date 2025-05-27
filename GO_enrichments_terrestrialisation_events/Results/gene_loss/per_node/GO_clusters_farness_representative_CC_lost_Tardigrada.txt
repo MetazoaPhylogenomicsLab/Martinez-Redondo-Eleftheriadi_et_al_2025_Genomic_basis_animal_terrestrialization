@@ -1,0 +1,40 @@
+GO:0005886	4	GO:0005886	plasma membrane
+GO:0070821	1	GO:0031519	PcG protein complex
+GO:0032580	1	GO:0031519	PcG protein complex
+GO:0098857	4	GO:0005886	plasma membrane
+GO:0055036	4	GO:0005886	plasma membrane
+GO:0005929	2	GO:0005576	extracellular region
+GO:0031379	1	GO:0031519	PcG protein complex
+GO:0031234	4	GO:0005886	plasma membrane
+GO:0016324	4	GO:0005886	plasma membrane
+GO:0016328	4	GO:0005886	plasma membrane
+GO:0043235	3	GO:0098802	plasma membrane signaling receptor complex
+GO:0009898	4	GO:0005886	plasma membrane
+GO:0005615	2	GO:0005576	extracellular region
+GO:0000138	1	GO:0031519	PcG protein complex
+GO:0035579	1	GO:0031519	PcG protein complex
+GO:0020002	2	GO:0005576	extracellular region
+GO:0000782	1	GO:0031519	PcG protein complex
+GO:0019897	4	GO:0005886	plasma membrane
+GO:0005576	2	GO:0005576	extracellular region
+GO:0098562	4	GO:0005886	plasma membrane
+GO:0009986	2	GO:0005576	extracellular region
+GO:0098552	4	GO:0005886	plasma membrane
+GO:0009925	4	GO:0005886	plasma membrane
+GO:0070062	2	GO:0005576	extracellular region
+GO:0035230	2	GO:0005576	extracellular region
+GO:0045121	4	GO:0005886	plasma membrane
+GO:0046696	3	GO:0098802	plasma membrane signaling receptor complex
+GO:0031519	1	GO:0031519	PcG protein complex
+GO:0098878	3	GO:0098802	plasma membrane signaling receptor complex
+GO:0008328	3	GO:0098802	plasma membrane signaling receptor complex
+GO:0016020	4	GO:0005886	plasma membrane
+GO:0038039	3	GO:0098802	plasma membrane signaling receptor complex
+GO:0071683	2	GO:0005576	extracellular region
+GO:0098802	3	GO:0098802	plasma membrane signaling receptor complex
+GO:0000139	1	GO:0031519	PcG protein complex
+GO:0098592	4	GO:0005886	plasma membrane
+GO:0097730	2	GO:0005576	extracellular region
+GO:0000783	1	GO:0031519	PcG protein complex
+GO:0019013	1	GO:0031519	PcG protein complex
+GO:1902712	3	GO:0098802	plasma membrane signaling receptor complex

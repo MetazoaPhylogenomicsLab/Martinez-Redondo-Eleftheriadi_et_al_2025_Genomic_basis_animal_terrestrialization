@@ -1,0 +1,207 @@
+GO:0014069	4	GO:0032584	growth cone membrane
+GO:0033650	1	GO:0033646	host intracellular part
+GO:0033655	1	GO:0033646	host intracellular part
+GO:0000235	10	GO:0005815	microtubule organizing center
+GO:0030428	5	GO:0005576	extracellular region
+GO:0001669	6	GO:0031976	plastid thylakoid
+GO:0031012	5	GO:0005576	extracellular region
+GO:0000408	3	GO:0000408	EKC/KEOPS complex
+GO:0030870	8	GO:0005634	nucleus
+GO:0032584	4	GO:0032584	growth cone membrane
+GO:0090734	9	GO:0098687	chromosomal region
+GO:0099086	9	GO:0098687	chromosomal region
+GO:0016604	8	GO:0005634	nucleus
+GO:0005700	9	GO:0098687	chromosomal region
+GO:0016592	8	GO:0005634	nucleus
+GO:0016593	8	GO:0005634	nucleus
+GO:0031410	7	GO:0005829	cytosol
+GO:0005934	4	GO:0032584	growth cone membrane
+GO:0005935	4	GO:0032584	growth cone membrane
+GO:0005938	7	GO:0005829	cytosol
+GO:0030849	9	GO:0098687	chromosomal region
+GO:0035974	10	GO:0005815	microtubule organizing center
+GO:0055035	6	GO:0031976	plastid thylakoid
+GO:0055036	5	GO:0005576	extracellular region
+GO:0000792	9	GO:0098687	chromosomal region
+GO:0000793	9	GO:0098687	chromosomal region
+GO:0000794	8	GO:0005634	nucleus
+GO:0000164	7	GO:0005829	cytosol
+GO:0034451	10	GO:0005815	microtubule organizing center
+GO:0034045	7	GO:0005829	cytosol
+GO:0000322	6	GO:0031976	plastid thylakoid
+GO:0000324	6	GO:0031976	plastid thylakoid
+GO:0098831	4	GO:0032584	growth cone membrane
+GO:0000329	6	GO:0031976	plastid thylakoid
+GO:0009986	5	GO:0005576	extracellular region
+GO:0005667	3	GO:0000408	EKC/KEOPS complex
+GO:0000785	9	GO:0098687	chromosomal region
+GO:0005668	8	GO:0005634	nucleus
+GO:0005881	11	GO:0055120	striated muscle dense body
+GO:0005882	10	GO:0005815	microtubule organizing center
+GO:0005654	8	GO:0005634	nucleus
+GO:0097731	4	GO:0032584	growth cone membrane
+GO:0000775	9	GO:0098687	chromosomal region
+GO:0000776	9	GO:0098687	chromosomal region
+GO:0005874	10	GO:0005815	microtubule organizing center
+GO:0044174	1	GO:0033646	host intracellular part
+GO:0009534	6	GO:0031976	plastid thylakoid
+GO:0044175	1	GO:0033646	host intracellular part
+GO:0009535	6	GO:0031976	plastid thylakoid
+GO:0036128	3	GO:0000408	EKC/KEOPS complex
+GO:0044178	1	GO:0033646	host intracellular part
+GO:0008076	3	GO:0000408	EKC/KEOPS complex
+GO:0005826	11	GO:0055120	striated muscle dense body
+GO:0035861	9	GO:0098687	chromosomal region
+GO:0042600	5	GO:0005576	extracellular region
+GO:0090665	3	GO:0000408	EKC/KEOPS complex
+GO:0005829	7	GO:0005829	cytosol
+GO:0045169	7	GO:0005829	cytosol
+GO:0035869	5	GO:0005576	extracellular region
+GO:0005677	8	GO:0005634	nucleus
+GO:0005811	9	GO:0098687	chromosomal region
+GO:0033551	9	GO:0098687	chromosomal region
+GO:0005813	10	GO:0005815	microtubule organizing center
+GO:0005815	10	GO:0005815	microtubule organizing center
+GO:0005816	10	GO:0005815	microtubule organizing center
+GO:0072686	10	GO:0005815	microtubule organizing center
+GO:0072687	10	GO:0005815	microtubule organizing center
+GO:0005628	4	GO:0032584	growth cone membrane
+GO:0030998	9	GO:0098687	chromosomal region
+GO:0097708	7	GO:0005829	cytosol
+GO:0031160	4	GO:0032584	growth cone membrane
+GO:0020002	1	GO:0033646	host intracellular part
+GO:0009506	4	GO:0032584	growth cone membrane
+GO:0005615	5	GO:0005576	extracellular region
+GO:0042151	11	GO:0055120	striated muscle dense body
+GO:0045171	5	GO:0005576	extracellular region
+GO:0045172	5	GO:0005576	extracellular region
+GO:0008287	3	GO:0000408	EKC/KEOPS complex
+GO:0032279	4	GO:0032584	growth cone membrane
+GO:0009897	4	GO:0032584	growth cone membrane
+GO:0035686	5	GO:0005576	extracellular region
+GO:0000922	10	GO:0005815	microtubule organizing center
+GO:0044732	10	GO:0005815	microtubule organizing center
+GO:0030134	6	GO:0031976	plastid thylakoid
+GO:0031315	6	GO:0031976	plastid thylakoid
+GO:0071986	6	GO:0031976	plastid thylakoid
+GO:0098552	5	GO:0005576	extracellular region
+GO:0019031	2	GO:0044423	virion component
+GO:0019033	2	GO:0044423	virion component
+GO:0048188	8	GO:0005634	nucleus
+GO:0031511	9	GO:0098687	chromosomal region
+GO:0097225	5	GO:0005576	extracellular region
+GO:0019005	3	GO:0000408	EKC/KEOPS complex
+GO:0031097	7	GO:0005829	cytosol
+GO:0098982	4	GO:0032584	growth cone membrane
+GO:0098984	4	GO:0032584	growth cone membrane
+GO:0051285	4	GO:0032584	growth cone membrane
+GO:0051286	5	GO:0005576	extracellular region
+GO:0099115	9	GO:0098687	chromosomal region
+GO:0031976	6	GO:0031976	plastid thylakoid
+GO:0001891	5	GO:0005576	extracellular region
+GO:0043160	6	GO:0031976	plastid thylakoid
+GO:0005721	9	GO:0098687	chromosomal region
+GO:0005576	5	GO:0005576	extracellular region
+GO:0030018	11	GO:0055120	striated muscle dense body
+GO:0044666	8	GO:0005634	nucleus
+GO:0031083	7	GO:0005829	cytosol
+GO:1903293	3	GO:0000408	EKC/KEOPS complex
+GO:0032153	5	GO:0005576	extracellular region
+GO:0030863	11	GO:0055120	striated muscle dense body
+GO:0051233	10	GO:0005815	microtubule organizing center
+GO:0030425	4	GO:0032584	growth cone membrane
+GO:0030665	6	GO:0031976	plastid thylakoid
+GO:0005925	4	GO:0032584	growth cone membrane
+GO:0016607	8	GO:0005634	nucleus
+GO:0033644	1	GO:0033646	host intracellular part
+GO:0044201	1	GO:0033646	host intracellular part
+GO:0034506	9	GO:0098687	chromosomal region
+GO:0055037	6	GO:0031976	plastid thylakoid
+GO:0000795	9	GO:0098687	chromosomal region
+GO:0002080	6	GO:0031976	plastid thylakoid
+GO:0031430	11	GO:0055120	striated muscle dense body
+GO:0031672	11	GO:0055120	striated muscle dense body
+GO:0048471	7	GO:0005829	cytosol
+GO:0044156	1	GO:0033646	host intracellular part
+GO:0005814	10	GO:0005815	microtubule organizing center
+GO:0043034	11	GO:0055120	striated muscle dense body
+GO:0030118	7	GO:0005829	cytosol
+GO:0044309	4	GO:0032584	growth cone membrane
+GO:0034399	8	GO:0005634	nucleus
+GO:0001740	8	GO:0005634	nucleus
+GO:0106068	3	GO:0000408	EKC/KEOPS complex
+GO:0000939	9	GO:0098687	chromosomal region
+GO:0030915	9	GO:0098687	chromosomal region
+GO:0097447	4	GO:0032584	growth cone membrane
+GO:0043197	4	GO:0032584	growth cone membrane
+GO:0031082	7	GO:0005829	cytosol
+GO:0032777	8	GO:0005634	nucleus
+GO:0030430	1	GO:0033646	host intracellular part
+GO:0005912	4	GO:0032584	growth cone membrane
+GO:0042651	6	GO:0031976	plastid thylakoid
+GO:0033646	1	GO:0033646	host intracellular part
+GO:0033647	1	GO:0033646	host intracellular part
+GO:0033648	1	GO:0033646	host intracellular part
+GO:0098654	3	GO:0000408	EKC/KEOPS complex
+GO:0009574	11	GO:0055120	striated muscle dense body
+GO:0009579	7	GO:0005829	cytosol
+GO:0009524	7	GO:0005829	cytosol
+GO:0044167	1	GO:0033646	host intracellular part
+GO:0000781	9	GO:0098687	chromosomal region
+GO:0044177	1	GO:0033646	host intracellular part
+GO:0005828	10	GO:0005815	microtubule organizing center
+GO:0000940	9	GO:0098687	chromosomal region
+GO:0034357	7	GO:0005829	cytosol
+GO:0030056	4	GO:0032584	growth cone membrane
+GO:1905354	3	GO:0000408	EKC/KEOPS complex
+GO:0060293	7	GO:0005829	cytosol
+GO:0033645	1	GO:0033646	host intracellular part
+GO:0035102	8	GO:0005634	nucleus
+GO:0098826	6	GO:0031976	plastid thylakoid
+GO:0043291	7	GO:0005829	cytosol
+GO:0000178	7	GO:0005829	cytosol
+GO:0035267	8	GO:0005634	nucleus
+GO:0036126	4	GO:0032584	growth cone membrane
+GO:0045120	8	GO:0005634	nucleus
+GO:0005634	8	GO:0005634	nucleus
+GO:0019029	2	GO:0044423	virion component
+GO:0055120	11	GO:0055120	striated muscle dense body
+GO:0030055	4	GO:0032584	growth cone membrane
+GO:0043186	11	GO:0055120	striated muscle dense body
+GO:0000407	7	GO:0005829	cytosol
+GO:0036396	7	GO:0005829	cytosol
+GO:0000805	9	GO:0098687	chromosomal region
+GO:0098687	9	GO:0098687	chromosomal region
+GO:1990316	7	GO:0005829	cytosol
+GO:0072487	8	GO:0005634	nucleus
+GO:0070176	8	GO:0005634	nucleus
+GO:0000779	9	GO:0098687	chromosomal region
+GO:0005876	10	GO:0005815	microtubule organizing center
+GO:0036338	2	GO:0044423	virion component
+GO:0070056	4	GO:0032584	growth cone membrane
+GO:0000930	10	GO:0005815	microtubule organizing center
+GO:0042729	8	GO:0005634	nucleus
+GO:0060187	5	GO:0005576	extracellular region
+GO:0070876	8	GO:0005634	nucleus
+GO:0071004	8	GO:0005634	nucleus
+GO:0034705	3	GO:0000408	EKC/KEOPS complex
+GO:0005930	11	GO:0055120	striated muscle dense body
+GO:0044162	1	GO:0033646	host intracellular part
+GO:0044164	1	GO:0033646	host intracellular part
+GO:0070772	6	GO:0031976	plastid thylakoid
+GO:0001725	10	GO:0005815	microtubule organizing center
+GO:0097014	6	GO:0031976	plastid thylakoid
+GO:0097228	5	GO:0005576	extracellular region
+GO:0071010	8	GO:0005634	nucleus
+GO:0033255	8	GO:0005634	nucleus
+GO:0000243	8	GO:0005634	nucleus
+GO:0043189	8	GO:0005634	nucleus
+GO:0033643	1	GO:0033646	host intracellular part
+GO:0044423	2	GO:0044423	virion component
+GO:0045293	3	GO:0000408	EKC/KEOPS complex
+GO:0030958	8	GO:0005634	nucleus
+GO:0044219	1	GO:0033646	host intracellular part
+GO:0000803	9	GO:0098687	chromosomal region
+GO:0032982	4	GO:0032584	growth cone membrane
+GO:0043656	1	GO:0033646	host intracellular part
+GO:0016602	8	GO:0005634	nucleus

@@ -1,0 +1,23 @@
+GO:0005929	2	GO:0005929	cilium
+GO:0035579	2	GO:0005929	cilium
+GO:0033644	2	GO:0005929	cilium
+GO:0055036	3	GO:0005886	plasma membrane
+GO:0031234	3	GO:0005886	plasma membrane
+GO:0009986	3	GO:0005886	plasma membrane
+GO:0005886	3	GO:0005886	plasma membrane
+GO:0046696	3	GO:0005886	plasma membrane
+GO:0009925	3	GO:0005886	plasma membrane
+GO:0020002	2	GO:0005929	cilium
+GO:0005615	1	GO:0070062	extracellular exosome
+GO:0020009	2	GO:0005929	cilium
+GO:0009897	3	GO:0005886	plasma membrane
+GO:0070062	1	GO:0070062	extracellular exosome
+GO:1903561	1	GO:0070062	extracellular exosome
+GO:0016020	3	GO:0005886	plasma membrane
+GO:0042581	2	GO:0005929	cilium
+GO:0043235	2	GO:0005929	cilium
+GO:0032590	3	GO:0005886	plasma membrane
+GO:0005576	1	GO:0070062	extracellular exosome
+GO:0070820	2	GO:0005929	cilium
+GO:0070821	2	GO:0005929	cilium
+GO:0035996	2	GO:0005929	cilium

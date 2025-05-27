@@ -1,0 +1,54 @@
+GO:0097153	3	GO:0046922	peptide-O-fucosyltransferase activity
+GO:0005507	5	GO:0031683	G-protein beta/gamma-subunit complex binding
+GO:0050700	7	GO:0032182	ubiquitin-like protein binding
+GO:0005249	2	GO:0005267	potassium channel activity
+GO:0051427	6	GO:0051427	hormone receptor binding
+GO:0004983	4	GO:0030545	signaling receptor regulator activity
+GO:0051428	6	GO:0051427	hormone receptor binding
+GO:0089720	7	GO:0032182	ubiquitin-like protein binding
+GO:0030545	4	GO:0030545	signaling receptor regulator activity
+GO:0030546	4	GO:0030545	signaling receptor regulator activity
+GO:0015175	2	GO:0005267	potassium channel activity
+GO:0004687	3	GO:0046922	peptide-O-fucosyltransferase activity
+GO:0003964	3	GO:0046922	peptide-O-fucosyltransferase activity
+GO:0048306	7	GO:0032182	ubiquitin-like protein binding
+GO:0003968	3	GO:0046922	peptide-O-fucosyltransferase activity
+GO:0031369	7	GO:0032182	ubiquitin-like protein binding
+GO:0030957	6	GO:0051427	hormone receptor binding
+GO:0008188	4	GO:0030545	signaling receptor regulator activity
+GO:0005031	4	GO:0030545	signaling receptor regulator activity
+GO:0017060	3	GO:0046922	peptide-O-fucosyltransferase activity
+GO:0019902	7	GO:0032182	ubiquitin-like protein binding
+GO:0003677	5	GO:0031683	G-protein beta/gamma-subunit complex binding
+GO:0042834	5	GO:0031683	G-protein beta/gamma-subunit complex binding
+GO:0017022	7	GO:0032182	ubiquitin-like protein binding
+GO:0031683	5	GO:0031683	G-protein beta/gamma-subunit complex binding
+GO:0000995	4	GO:0030545	signaling receptor regulator activity
+GO:0046922	3	GO:0046922	peptide-O-fucosyltransferase activity
+GO:0062037	5	GO:0031683	G-protein beta/gamma-subunit complex binding
+GO:0000217	5	GO:0031683	G-protein beta/gamma-subunit complex binding
+GO:0001227	1	GO:0000981	DNA-binding transcription factor activity, RNA polymerase II-specific
+GO:0003714	4	GO:0030545	signaling receptor regulator activity
+GO:0097200	3	GO:0046922	peptide-O-fucosyltransferase activity
+GO:0000981	1	GO:0000981	DNA-binding transcription factor activity, RNA polymerase II-specific
+GO:0000977	5	GO:0031683	G-protein beta/gamma-subunit complex binding
+GO:0120160	5	GO:0031683	G-protein beta/gamma-subunit complex binding
+GO:0004857	4	GO:0030545	signaling receptor regulator activity
+GO:0003700	1	GO:0000981	DNA-binding transcription factor activity, RNA polymerase II-specific
+GO:0140444	4	GO:0030545	signaling receptor regulator activity
+GO:0008097	5	GO:0031683	G-protein beta/gamma-subunit complex binding
+GO:0032182	7	GO:0032182	ubiquitin-like protein binding
+GO:0032183	7	GO:0032182	ubiquitin-like protein binding
+GO:0005123	6	GO:0051427	hormone receptor binding
+GO:0005125	6	GO:0051427	hormone receptor binding
+GO:0005112	6	GO:0051427	hormone receptor binding
+GO:0043621	7	GO:0032182	ubiquitin-like protein binding
+GO:0005149	6	GO:0051427	hormone receptor binding
+GO:0042974	6	GO:0051427	hormone receptor binding
+GO:0042923	5	GO:0031683	G-protein beta/gamma-subunit complex binding
+GO:0046872	5	GO:0031683	G-protein beta/gamma-subunit complex binding
+GO:0004523	3	GO:0046922	peptide-O-fucosyltransferase activity
+GO:0004517	3	GO:0046922	peptide-O-fucosyltransferase activity
+GO:0004519	3	GO:0046922	peptide-O-fucosyltransferase activity
+GO:0005267	2	GO:0005267	potassium channel activity
+GO:0005516	7	GO:0032182	ubiquitin-like protein binding

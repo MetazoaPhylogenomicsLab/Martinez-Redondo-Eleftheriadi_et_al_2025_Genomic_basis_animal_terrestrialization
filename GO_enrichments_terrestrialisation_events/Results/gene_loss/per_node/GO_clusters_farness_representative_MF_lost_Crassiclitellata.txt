@@ -1,0 +1,52 @@
+GO:0010314	2	GO:0016936	galactoside binding
+GO:0005545	2	GO:0016936	galactoside binding
+GO:0038187	4	GO:0004888	transmembrane signaling receptor activity
+GO:0030291	5	GO:1990846	ribonucleoside-diphosphate reductase inhibitor activity
+GO:0005507	2	GO:0016936	galactoside binding
+GO:0005249	5	GO:1990846	ribonucleoside-diphosphate reductase inhibitor activity
+GO:0051427	3	GO:0048306	calcium-dependent protein binding
+GO:0051428	3	GO:0048306	calcium-dependent protein binding
+GO:0019966	3	GO:0048306	calcium-dependent protein binding
+GO:0019237	1	GO:0003677	DNA binding
+GO:0031996	3	GO:0048306	calcium-dependent protein binding
+GO:0003964	6	GO:0016874	ligase activity
+GO:0048306	3	GO:0048306	calcium-dependent protein binding
+GO:0003968	6	GO:0016874	ligase activity
+GO:0004908	4	GO:0004888	transmembrane signaling receptor activity
+GO:0017060	6	GO:0016874	ligase activity
+GO:0004715	6	GO:0016874	ligase activity
+GO:0019787	6	GO:0016874	ligase activity
+GO:0003677	1	GO:0003677	DNA binding
+GO:0000995	7	GO:0140110	transcription regulator activity
+GO:0031625	3	GO:0048306	calcium-dependent protein binding
+GO:1990846	5	GO:1990846	ribonucleoside-diphosphate reductase inhibitor activity
+GO:0001227	7	GO:0140110	transcription regulator activity
+GO:0044389	3	GO:0048306	calcium-dependent protein binding
+GO:0003714	7	GO:0140110	transcription regulator activity
+GO:0098631	3	GO:0048306	calcium-dependent protein binding
+GO:0098632	3	GO:0048306	calcium-dependent protein binding
+GO:0016936	2	GO:0016936	galactoside binding
+GO:0000977	1	GO:0003677	DNA binding
+GO:0120160	2	GO:0016936	galactoside binding
+GO:0000978	1	GO:0003677	DNA binding
+GO:0004861	5	GO:1990846	ribonucleoside-diphosphate reductase inhibitor activity
+GO:0003700	7	GO:0140110	transcription regulator activity
+GO:0004190	6	GO:0016874	ligase activity
+GO:0008270	2	GO:0016936	galactoside binding
+GO:0004888	4	GO:0004888	transmembrane signaling receptor activity
+GO:0061630	6	GO:0016874	ligase activity
+GO:0140444	7	GO:0140110	transcription regulator activity
+GO:0008097	1	GO:0003677	DNA binding
+GO:0043325	2	GO:0016936	galactoside binding
+GO:0004842	6	GO:0016874	ligase activity
+GO:0005164	3	GO:0048306	calcium-dependent protein binding
+GO:0005125	3	GO:0048306	calcium-dependent protein binding
+GO:0005149	3	GO:0048306	calcium-dependent protein binding
+GO:0051010	3	GO:0048306	calcium-dependent protein binding
+GO:0004579	6	GO:0016874	ligase activity
+GO:0004523	6	GO:0016874	ligase activity
+GO:0140110	7	GO:0140110	transcription regulator activity
+GO:0016874	6	GO:0016874	ligase activity
+GO:0004517	6	GO:0016874	ligase activity
+GO:0004519	6	GO:0016874	ligase activity
+GO:0005516	3	GO:0048306	calcium-dependent protein binding

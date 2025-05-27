@@ -1,0 +1,290 @@
+GO:0035589	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0050821	3	GO:0009856	pollination
+GO:0032012	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0007095	3	GO:0009856	pollination
+GO:0031145	7	GO:0050667	homocysteine metabolic process
+GO:2000109	4	GO:0010496	intercellular transport
+GO:0016567	7	GO:0050667	homocysteine metabolic process
+GO:0002076	2	GO:0030182	neuron differentiation
+GO:0031290	2	GO:0030182	neuron differentiation
+GO:0090305	8	GO:0071897	DNA biosynthetic process
+GO:0008593	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:1904799	2	GO:0030182	neuron differentiation
+GO:0010468	6	GO:0032673	regulation of interleukin-4 production
+GO:0019722	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0045451	1	GO:0045451	pole plasm oskar mRNA localization
+GO:0043392	3	GO:0009856	pollination
+GO:0030951	3	GO:0009856	pollination
+GO:0051482	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0060326	4	GO:0010496	intercellular transport
+GO:0006278	8	GO:0071897	DNA biosynthetic process
+GO:0042723	8	GO:0071897	DNA biosynthetic process
+GO:0045444	2	GO:0030182	neuron differentiation
+GO:0010447	10	GO:0006955	immune response
+GO:0035025	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0010154	2	GO:0030182	neuron differentiation
+GO:0097746	3	GO:0009856	pollination
+GO:1904801	2	GO:0030182	neuron differentiation
+GO:0070593	2	GO:0030182	neuron differentiation
+GO:0007314	1	GO:0045451	pole plasm oskar mRNA localization
+GO:0007315	1	GO:0045451	pole plasm oskar mRNA localization
+GO:0007316	1	GO:0045451	pole plasm oskar mRNA localization
+GO:0043410	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0007317	1	GO:0045451	pole plasm oskar mRNA localization
+GO:0007340	3	GO:0009856	pollination
+GO:1904580	4	GO:0010496	intercellular transport
+GO:0070534	7	GO:0050667	homocysteine metabolic process
+GO:0032435	7	GO:0050667	homocysteine metabolic process
+GO:1902284	2	GO:0030182	neuron differentiation
+GO:0043123	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0043124	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0042531	7	GO:0050667	homocysteine metabolic process
+GO:0042509	7	GO:0050667	homocysteine metabolic process
+GO:0010759	4	GO:0010496	intercellular transport
+GO:0032101	11	GO:0050688	regulation of defense response to virus
+GO:0032103	11	GO:0050688	regulation of defense response to virus
+GO:0050900	4	GO:0010496	intercellular transport
+GO:0007156	3	GO:0009856	pollination
+GO:0002437	10	GO:0006955	immune response
+GO:0045746	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0003018	3	GO:0009856	pollination
+GO:0007186	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0007188	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0014041	2	GO:0030182	neuron differentiation
+GO:0014042	2	GO:0030182	neuron differentiation
+GO:0031664	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:1902742	2	GO:0030182	neuron differentiation
+GO:0043277	4	GO:0010496	intercellular transport
+GO:0007144	3	GO:0009856	pollination
+GO:0031649	3	GO:0009856	pollination
+GO:0070098	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0019094	1	GO:0045451	pole plasm oskar mRNA localization
+GO:0007218	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0048868	2	GO:0030182	neuron differentiation
+GO:1903431	2	GO:0030182	neuron differentiation
+GO:0001660	10	GO:0006955	immune response
+GO:1902806	4	GO:0010496	intercellular transport
+GO:0007200	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0007204	3	GO:0009856	pollination
+GO:0016322	2	GO:0030182	neuron differentiation
+GO:0016325	1	GO:0045451	pole plasm oskar mRNA localization
+GO:0048846	2	GO:0030182	neuron differentiation
+GO:0009856	3	GO:0009856	pollination
+GO:0033333	2	GO:0030182	neuron differentiation
+GO:0002218	11	GO:0050688	regulation of defense response to virus
+GO:0060810	2	GO:0030182	neuron differentiation
+GO:0060811	1	GO:0045451	pole plasm oskar mRNA localization
+GO:0098742	3	GO:0009856	pollination
+GO:0031055	3	GO:0009856	pollination
+GO:0008358	1	GO:0045451	pole plasm oskar mRNA localization
+GO:0035150	3	GO:0009856	pollination
+GO:0010508	4	GO:0010496	intercellular transport
+GO:0032880	4	GO:0010496	intercellular transport
+GO:0050434	9	GO:0016032	viral process
+GO:0045664	2	GO:0030182	neuron differentiation
+GO:0045666	2	GO:0030182	neuron differentiation
+GO:0034080	3	GO:0009856	pollination
+GO:2001235	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0038166	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0035296	3	GO:0009856	pollination
+GO:0000209	7	GO:0050667	homocysteine metabolic process
+GO:0008407	2	GO:0030182	neuron differentiation
+GO:0006968	10	GO:0006955	immune response
+GO:0002822	11	GO:0050688	regulation of defense response to virus
+GO:0002824	11	GO:0050688	regulation of defense response to virus
+GO:0006953	10	GO:0006955	immune response
+GO:0006954	10	GO:0006955	immune response
+GO:0006955	10	GO:0006955	immune response
+GO:0016137	7	GO:0050667	homocysteine metabolic process
+GO:0016139	3	GO:0009856	pollination
+GO:0002819	11	GO:0050688	regulation of defense response to virus
+GO:0046782	9	GO:0016032	viral process
+GO:0032695	6	GO:0032673	regulation of interleukin-4 production
+GO:0006935	10	GO:0006955	immune response
+GO:0051092	8	GO:0071897	DNA biosynthetic process
+GO:0042364	7	GO:0050667	homocysteine metabolic process
+GO:0045087	10	GO:0006955	immune response
+GO:0008103	1	GO:0045451	pole plasm oskar mRNA localization
+GO:2000369	4	GO:0010496	intercellular transport
+GO:0002526	10	GO:0006955	immune response
+GO:0044790	9	GO:0016032	viral process
+GO:0008298	4	GO:0010496	intercellular transport
+GO:2000370	4	GO:0010496	intercellular transport
+GO:0031347	11	GO:0050688	regulation of defense response to virus
+GO:0031348	11	GO:0050688	regulation of defense response to virus
+GO:0050727	11	GO:0050688	regulation of defense response to virus
+GO:0042492	2	GO:0030182	neuron differentiation
+GO:0046596	9	GO:0016032	viral process
+GO:0046597	9	GO:0016032	viral process
+GO:0010965	4	GO:0010496	intercellular transport
+GO:0002673	11	GO:0050688	regulation of defense response to virus
+GO:0002675	11	GO:0050688	regulation of defense response to virus
+GO:0071674	4	GO:0010496	intercellular transport
+GO:0034308	7	GO:0050667	homocysteine metabolic process
+GO:0060335	11	GO:0050688	regulation of defense response to virus
+GO:0030252	3	GO:0009856	pollination
+GO:0009309	8	GO:0071897	DNA biosynthetic process
+GO:0000122	8	GO:0071897	DNA biosynthetic process
+GO:0010760	4	GO:0010496	intercellular transport
+GO:0010761	4	GO:0010496	intercellular transport
+GO:0010762	4	GO:0010496	intercellular transport
+GO:0010764	4	GO:0010496	intercellular transport
+GO:0031137	4	GO:0010496	intercellular transport
+GO:0031139	4	GO:0010496	intercellular transport
+GO:0051301	4	GO:0010496	intercellular transport
+GO:0090278	4	GO:0010496	intercellular transport
+GO:0060123	4	GO:0010496	intercellular transport
+GO:0019236	10	GO:0006955	immune response
+GO:0070121	2	GO:0030182	neuron differentiation
+GO:0000750	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0042401	8	GO:0071897	DNA biosynthetic process
+GO:0000749	4	GO:0010496	intercellular transport
+GO:0071444	4	GO:0010496	intercellular transport
+GO:0015074	8	GO:0071897	DNA biosynthetic process
+GO:0052372	9	GO:0016032	viral process
+GO:0070212	7	GO:0050667	homocysteine metabolic process
+GO:0042138	8	GO:0071897	DNA biosynthetic process
+GO:0050728	11	GO:0050688	regulation of defense response to virus
+GO:0010693	3	GO:0009856	pollination
+GO:0034356	8	GO:0071897	DNA biosynthetic process
+GO:0050849	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0034309	7	GO:0050667	homocysteine metabolic process
+GO:0042753	4	GO:0010496	intercellular transport
+GO:0032715	6	GO:0032673	regulation of interleukin-4 production
+GO:0090502	8	GO:0071897	DNA biosynthetic process
+GO:0002230	11	GO:0050688	regulation of defense response to virus
+GO:1903556	6	GO:0032673	regulation of interleukin-4 production
+GO:1900016	6	GO:0032673	regulation of interleukin-4 production
+GO:0039657	6	GO:0032673	regulation of interleukin-4 production
+GO:0032825	3	GO:0009856	pollination
+GO:0002719	6	GO:0032673	regulation of interleukin-4 production
+GO:0050691	11	GO:0050688	regulation of defense response to virus
+GO:0039644	8	GO:0071897	DNA biosynthetic process
+GO:0002706	11	GO:0050688	regulation of defense response to virus
+GO:0006004	7	GO:0050667	homocysteine metabolic process
+GO:0050688	11	GO:0050688	regulation of defense response to virus
+GO:0032530	4	GO:0010496	intercellular transport
+GO:0042546	4	GO:0010496	intercellular transport
+GO:0071555	4	GO:0010496	intercellular transport
+GO:0032691	6	GO:0032673	regulation of interleukin-4 production
+GO:0032692	6	GO:0032673	regulation of interleukin-4 production
+GO:0007059	4	GO:0010496	intercellular transport
+GO:0032689	6	GO:0032673	regulation of interleukin-4 production
+GO:0016485	7	GO:0050667	homocysteine metabolic process
+GO:0045141	3	GO:0009856	pollination
+GO:0038034	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0006310	8	GO:0071897	DNA biosynthetic process
+GO:0106057	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0019082	9	GO:0016032	viral process
+GO:0044826	9	GO:0016032	viral process
+GO:0008038	2	GO:0030182	neuron differentiation
+GO:0043687	7	GO:0050667	homocysteine metabolic process
+GO:0035710	3	GO:0009856	pollination
+GO:0015867	3	GO:0009856	pollination
+GO:0009065	7	GO:0050667	homocysteine metabolic process
+GO:0010496	4	GO:0010496	intercellular transport
+GO:0042093	3	GO:0009856	pollination
+GO:0035561	3	GO:0009856	pollination
+GO:0035563	3	GO:0009856	pollination
+GO:0006275	8	GO:0071897	DNA biosynthetic process
+GO:0061098	7	GO:0050667	homocysteine metabolic process
+GO:0046718	9	GO:0016032	viral process
+GO:0045582	3	GO:0009856	pollination
+GO:0032005	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0097192	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0007157	3	GO:0009856	pollination
+GO:0075713	9	GO:0016032	viral process
+GO:0048477	1	GO:0045451	pole plasm oskar mRNA localization
+GO:0007129	3	GO:0009856	pollination
+GO:0007131	8	GO:0071897	DNA biosynthetic process
+GO:0009995	10	GO:0006955	immune response
+GO:1901224	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0043950	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0042130	3	GO:0009856	pollination
+GO:0042102	3	GO:0009856	pollination
+GO:0034196	3	GO:0009856	pollination
+GO:0034197	3	GO:0009856	pollination
+GO:0031295	3	GO:0009856	pollination
+GO:0050667	7	GO:0050667	homocysteine metabolic process
+GO:0048366	2	GO:0030182	neuron differentiation
+GO:0097278	4	GO:0010496	intercellular transport
+GO:0006265	8	GO:0071897	DNA biosynthetic process
+GO:0051481	3	GO:0009856	pollination
+GO:0002923	11	GO:0050688	regulation of defense response to virus
+GO:0048486	2	GO:0030182	neuron differentiation
+GO:0006772	8	GO:0071897	DNA biosynthetic process
+GO:1990834	10	GO:0006955	immune response
+GO:0044068	9	GO:0016032	viral process
+GO:2000810	4	GO:0010496	intercellular transport
+GO:1905392	2	GO:0030182	neuron differentiation
+GO:0035970	7	GO:0050667	homocysteine metabolic process
+GO:0044000	9	GO:0016032	viral process
+GO:0016032	9	GO:0016032	viral process
+GO:0033033	4	GO:0010496	intercellular transport
+GO:0006825	3	GO:0009856	pollination
+GO:0043171	7	GO:0050667	homocysteine metabolic process
+GO:0050911	3	GO:0009856	pollination
+GO:0007191	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0007193	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0007194	3	GO:0009856	pollination
+GO:0007196	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0060259	4	GO:0010496	intercellular transport
+GO:0007197	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0006563	7	GO:0050667	homocysteine metabolic process
+GO:0006534	7	GO:0050667	homocysteine metabolic process
+GO:0051701	9	GO:0016032	viral process
+GO:0031638	7	GO:0050667	homocysteine metabolic process
+GO:0031639	7	GO:0050667	homocysteine metabolic process
+GO:0030182	2	GO:0030182	neuron differentiation
+GO:0009733	10	GO:0006955	immune response
+GO:0007212	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0032761	6	GO:0032673	regulation of interleukin-4 production
+GO:0032753	6	GO:0032673	regulation of interleukin-4 production
+GO:0019054	9	GO:0016032	viral process
+GO:0019058	9	GO:0016032	viral process
+GO:0090557	2	GO:0030182	neuron differentiation
+GO:1990051	7	GO:0050667	homocysteine metabolic process
+GO:2001188	11	GO:0050688	regulation of defense response to virus
+GO:0007202	3	GO:0009856	pollination
+GO:0048827	2	GO:0030182	neuron differentiation
+GO:0032743	6	GO:0032673	regulation of interleukin-4 production
+GO:0019048	9	GO:0016032	viral process
+GO:0002286	3	GO:0009856	pollination
+GO:0021783	2	GO:0030182	neuron differentiation
+GO:0016338	3	GO:0009856	pollination
+GO:0048525	9	GO:0016032	viral process
+GO:0048511	4	GO:0010496	intercellular transport
+GO:0034058	3	GO:0009856	pollination
+GO:0048532	2	GO:0030182	neuron differentiation
+GO:0044409	9	GO:0016032	viral process
+GO:0002712	11	GO:0050688	regulation of defense response to virus
+GO:0002713	11	GO:0050688	regulation of defense response to virus
+GO:1903265	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0045630	3	GO:0009856	pollination
+GO:0010633	4	GO:0010496	intercellular transport
+GO:0023035	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0002890	11	GO:0050688	regulation of defense response to virus
+GO:0071897	8	GO:0071897	DNA biosynthetic process
+GO:0035249	3	GO:0009856	pollination
+GO:0002889	11	GO:0050688	regulation of defense response to virus
+GO:0007597	7	GO:0050667	homocysteine metabolic process
+GO:0002820	11	GO:0050688	regulation of defense response to virus
+GO:0002823	11	GO:0050688	regulation of defense response to virus
+GO:0006957	11	GO:0050688	regulation of defense response to virus
+GO:0032663	6	GO:0032673	regulation of interleukin-4 production
+GO:0032673	6	GO:0032673	regulation of interleukin-4 production
+GO:0019370	7	GO:0050667	homocysteine metabolic process
+GO:1990384	2	GO:0030182	neuron differentiation
+GO:0098664	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0032633	6	GO:0032673	regulation of interleukin-4 production
+GO:0001937	4	GO:0010496	intercellular transport
+GO:0051006	3	GO:0009856	pollination
+GO:0036462	5	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0035821	9	GO:0016032	viral process
+GO:0034392	4	GO:0010496	intercellular transport
+GO:0051966	4	GO:0010496	intercellular transport
+GO:0042487	2	GO:0030182	neuron differentiation
+GO:0050892	3	GO:0009856	pollination
+GO:0045916	11	GO:0050688	regulation of defense response to virus
+GO:0002639	6	GO:0032673	regulation of interleukin-4 production
+GO:0051918	11	GO:0050688	regulation of defense response to virus

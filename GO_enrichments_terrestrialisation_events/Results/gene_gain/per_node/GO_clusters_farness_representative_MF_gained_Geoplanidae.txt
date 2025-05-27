@@ -1,0 +1,24 @@
+GO:0005125	4	GO:0005515	protein binding
+GO:0019838	4	GO:0005515	protein binding
+GO:0005133	4	GO:0005515	protein binding
+GO:0005515	4	GO:0005515	protein binding
+GO:0048018	4	GO:0005515	protein binding
+GO:0030545	2	GO:0004857	enzyme inhibitor activity
+GO:0030546	2	GO:0004857	enzyme inhibitor activity
+GO:0005126	4	GO:0005515	protein binding
+GO:0005149	4	GO:0005515	protein binding
+GO:0042162	3	GO:0042162	telomeric DNA binding
+GO:0005496	3	GO:0042162	telomeric DNA binding
+GO:0004857	2	GO:0004857	enzyme inhibitor activity
+GO:0004865	2	GO:0004857	enzyme inhibitor activity
+GO:1990825	3	GO:0042162	telomeric DNA binding
+GO:0046789	4	GO:0005515	protein binding
+GO:0004860	2	GO:0004857	enzyme inhibitor activity
+GO:0008200	2	GO:0004857	enzyme inhibitor activity
+GO:0005246	2	GO:0004857	enzyme inhibitor activity
+GO:0001016	3	GO:0042162	telomeric DNA binding
+GO:0005112	4	GO:0005515	protein binding
+GO:0005488	4	GO:0005515	protein binding
+GO:0019887	2	GO:0004857	enzyme inhibitor activity
+GO:0000182	3	GO:0042162	telomeric DNA binding
+GO:0000992	3	GO:0042162	telomeric DNA binding

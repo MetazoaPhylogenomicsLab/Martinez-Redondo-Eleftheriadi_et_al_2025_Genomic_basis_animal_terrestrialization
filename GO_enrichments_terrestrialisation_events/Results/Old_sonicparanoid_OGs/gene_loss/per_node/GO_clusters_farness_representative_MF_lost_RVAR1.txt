@@ -1,0 +1,54 @@
+GO:0004712	6	GO:0004497	monooxygenase activity
+GO:0004714	6	GO:0004497	monooxygenase activity
+GO:0004715	6	GO:0004497	monooxygenase activity
+GO:0008061	2	GO:0030246	carbohydrate binding
+GO:0098632	3	GO:0019955	cytokine binding
+GO:0005509	2	GO:0030246	carbohydrate binding
+GO:0008083	3	GO:0019955	cytokine binding
+GO:0004983	1	GO:0004930	G protein-coupled receptor activity
+GO:0003730	2	GO:0030246	carbohydrate binding
+GO:0004930	1	GO:0004930	G protein-coupled receptor activity
+GO:0003964	6	GO:0004497	monooxygenase activity
+GO:0004867	5	GO:0090482	vitamin transmembrane transporter activity
+GO:0008270	2	GO:0030246	carbohydrate binding
+GO:0052794	4	GO:0052794	exo-alpha-(2->3)-sialidase activity
+GO:0052795	4	GO:0052794	exo-alpha-(2->3)-sialidase activity
+GO:0052796	4	GO:0052794	exo-alpha-(2->3)-sialidase activity
+GO:0001530	2	GO:0030246	carbohydrate binding
+GO:0097604	5	GO:0090482	vitamin transmembrane transporter activity
+GO:0016503	1	GO:0004930	G protein-coupled receptor activity
+GO:0004065	6	GO:0004497	monooxygenase activity
+GO:0043621	3	GO:0019955	cytokine binding
+GO:0031435	3	GO:0019955	cytokine binding
+GO:0090482	5	GO:0090482	vitamin transmembrane transporter activity
+GO:0050431	3	GO:0019955	cytokine binding
+GO:0004104	6	GO:0004497	monooxygenase activity
+GO:0005154	3	GO:0019955	cytokine binding
+GO:0008528	1	GO:0004930	G protein-coupled receptor activity
+GO:0019955	3	GO:0019955	cytokine binding
+GO:0070330	6	GO:0004497	monooxygenase activity
+GO:0017151	3	GO:0019955	cytokine binding
+GO:0140375	1	GO:0004930	G protein-coupled receptor activity
+GO:0052689	6	GO:0004497	monooxygenase activity
+GO:0004252	6	GO:0004497	monooxygenase activity
+GO:0033038	1	GO:0004930	G protein-coupled receptor activity
+GO:0004222	6	GO:0004497	monooxygenase activity
+GO:0042923	2	GO:0030246	carbohydrate binding
+GO:0004568	4	GO:0052794	exo-alpha-(2->3)-sialidase activity
+GO:0030296	5	GO:0090482	vitamin transmembrane transporter activity
+GO:0019870	5	GO:0090482	vitamin transmembrane transporter activity
+GO:0005355	5	GO:0090482	vitamin transmembrane transporter activity
+GO:0016936	2	GO:0030246	carbohydrate binding
+GO:0001604	1	GO:0004930	G protein-coupled receptor activity
+GO:0004497	6	GO:0004497	monooxygenase activity
+GO:0019838	3	GO:0019955	cytokine binding
+GO:0002020	3	GO:0019955	cytokine binding
+GO:0045296	3	GO:0019955	cytokine binding
+GO:0005007	6	GO:0004497	monooxygenase activity
+GO:0030550	5	GO:0090482	vitamin transmembrane transporter activity
+GO:0030246	2	GO:0030246	carbohydrate binding
+GO:0042834	2	GO:0030246	carbohydrate binding
+GO:0008188	1	GO:0004930	G protein-coupled receptor activity
+GO:0030548	5	GO:0090482	vitamin transmembrane transporter activity
+GO:0015149	5	GO:0090482	vitamin transmembrane transporter activity
+GO:0033691	2	GO:0030246	carbohydrate binding

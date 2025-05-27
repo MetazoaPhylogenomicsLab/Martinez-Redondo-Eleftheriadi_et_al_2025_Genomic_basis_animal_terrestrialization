@@ -1,0 +1,412 @@
+GO:0030195	13	GO:0050777	negative regulation of immune response
+GO:0030198	18	GO:0032196	transposition
+GO:0090305	2	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:1905941	11	GO:0048582	positive regulation of post-embryonic development
+GO:1905936	11	GO:0048582	positive regulation of post-embryonic development
+GO:0030168	15	GO:0006955	immune response
+GO:0043062	18	GO:0032196	transposition
+GO:0048133	10	GO:0001837	epithelial to mesenchymal transition
+GO:0052040	9	GO:0016032	viral process
+GO:0000122	3	GO:1903507	negative regulation of nucleic acid-templated transcription
+GO:0046693	17	GO:0007621	negative regulation of female receptivity
+GO:0006582	6	GO:0006520	cellular amino acid metabolic process
+GO:0032350	4	GO:0045833	negative regulation of lipid metabolic process
+GO:0010760	12	GO:1905521	regulation of macrophage migration
+GO:0010764	12	GO:1905521	regulation of macrophage migration
+GO:0010769	11	GO:0048582	positive regulation of post-embryonic development
+GO:0014065	8	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0014066	7	GO:0062208	positive regulation of pattern recognition receptor signaling pathway
+GO:0014067	7	GO:0062208	positive regulation of pattern recognition receptor signaling pathway
+GO:0010758	12	GO:1905521	regulation of macrophage migration
+GO:0097746	17	GO:0007621	negative regulation of female receptivity
+GO:0010770	11	GO:0048582	positive regulation of post-embryonic development
+GO:0009414	14	GO:0071444	cellular response to pheromone
+GO:0009415	14	GO:0071444	cellular response to pheromone
+GO:0031145	6	GO:0006520	cellular amino acid metabolic process
+GO:0051346	17	GO:0007621	negative regulation of female receptivity
+GO:1904357	3	GO:1903507	negative regulation of nucleic acid-templated transcription
+GO:0046601	19	GO:0045787	positive regulation of cell cycle
+GO:0031102	10	GO:0001837	epithelial to mesenchymal transition
+GO:0031103	10	GO:0001837	epithelial to mesenchymal transition
+GO:0051308	17	GO:0007621	negative regulation of female receptivity
+GO:0090219	4	GO:0045833	negative regulation of lipid metabolic process
+GO:0048703	10	GO:0001837	epithelial to mesenchymal transition
+GO:0080188	4	GO:0045833	negative regulation of lipid metabolic process
+GO:0002314	10	GO:0001837	epithelial to mesenchymal transition
+GO:0002315	10	GO:0001837	epithelial to mesenchymal transition
+GO:0010825	19	GO:0045787	positive regulation of cell cycle
+GO:0044000	9	GO:0016032	viral process
+GO:0045989	17	GO:0007621	negative regulation of female receptivity
+GO:0044003	9	GO:0016032	viral process
+GO:0001172	2	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0007596	15	GO:0006955	immune response
+GO:0045940	4	GO:0045833	negative regulation of lipid metabolic process
+GO:0000722	2	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0000723	2	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0032196	18	GO:0032196	transposition
+GO:0071470	14	GO:0071444	cellular response to pheromone
+GO:0032197	18	GO:0032196	transposition
+GO:0007525	10	GO:0001837	epithelial to mesenchymal transition
+GO:0015074	2	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0097529	12	GO:1905521	regulation of macrophage migration
+GO:0090735	18	GO:0032196	transposition
+GO:0070227	18	GO:0032196	transposition
+GO:0070228	19	GO:0045787	positive regulation of cell cycle
+GO:0070229	19	GO:0045787	positive regulation of cell cycle
+GO:0005978	5	GO:0045342	MHC class II biosynthetic process
+GO:0039722	13	GO:0050777	negative regulation of immune response
+GO:0039723	13	GO:0050777	negative regulation of immune response
+GO:0039724	13	GO:0050777	negative regulation of immune response
+GO:0010528	8	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0010529	19	GO:0045787	positive regulation of cell cycle
+GO:0070231	18	GO:0032196	transposition
+GO:0070232	19	GO:0045787	positive regulation of cell cycle
+GO:0070233	19	GO:0045787	positive regulation of cell cycle
+GO:0035075	14	GO:0071444	cellular response to pheromone
+GO:0035010	15	GO:0006955	immune response
+GO:0045087	15	GO:0006955	immune response
+GO:0032102	13	GO:0050777	negative regulation of immune response
+GO:0050727	13	GO:0050777	negative regulation of immune response
+GO:0050728	13	GO:0050777	negative regulation of immune response
+GO:0007621	17	GO:0007621	negative regulation of female receptivity
+GO:0035006	15	GO:0006955	immune response
+GO:0050731	4	GO:0045833	negative regulation of lipid metabolic process
+GO:1903746	17	GO:0007621	negative regulation of female receptivity
+GO:0043410	7	GO:0062208	positive regulation of pattern recognition receptor signaling pathway
+GO:0006995	14	GO:0071444	cellular response to pheromone
+GO:0036093	17	GO:0007621	negative regulation of female receptivity
+GO:0050819	11	GO:0048582	positive regulation of post-embryonic development
+GO:0006955	15	GO:0006955	immune response
+GO:0016032	9	GO:0016032	viral process
+GO:0052150	19	GO:0045787	positive regulation of cell cycle
+GO:0039573	13	GO:0050777	negative regulation of immune response
+GO:0090502	2	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0039526	19	GO:0045787	positive regulation of cell cycle
+GO:0001818	1	GO:0032652	regulation of interleukin-1 production
+GO:0039537	13	GO:0050777	negative regulation of immune response
+GO:0098664	8	GO:0007186	G protein-coupled receptor signaling pathway
+GO:2000106	19	GO:0045787	positive regulation of cell cycle
+GO:2000107	19	GO:0045787	positive regulation of cell cycle
+GO:0039502	13	GO:0050777	negative regulation of immune response
+GO:0098671	9	GO:0016032	viral process
+GO:0051709	19	GO:0045787	positive regulation of cell cycle
+GO:0046008	17	GO:0007621	negative regulation of female receptivity
+GO:1900016	1	GO:0032652	regulation of interleukin-1 production
+GO:0039663	9	GO:0016032	viral process
+GO:1900047	19	GO:0045787	positive regulation of cell cycle
+GO:0060536	10	GO:0001837	epithelial to mesenchymal transition
+GO:2000272	7	GO:0062208	positive regulation of pattern recognition receptor signaling pathway
+GO:0039674	9	GO:0016032	viral process
+GO:0039675	9	GO:0016032	viral process
+GO:0001580	14	GO:0071444	cellular response to pheromone
+GO:1903507	3	GO:1903507	negative regulation of nucleic acid-templated transcription
+GO:0039645	9	GO:0016032	viral process
+GO:0006032	5	GO:0045342	MHC class II biosynthetic process
+GO:0031648	17	GO:0007621	negative regulation of female receptivity
+GO:0031638	6	GO:0006520	cellular amino acid metabolic process
+GO:0050688	13	GO:0050777	negative regulation of immune response
+GO:0018996	17	GO:0007621	negative regulation of female receptivity
+GO:0010951	4	GO:0045833	negative regulation of lipid metabolic process
+GO:0035461	18	GO:0032196	transposition
+GO:0009611	15	GO:0006955	immune response
+GO:0045434	17	GO:0007621	negative regulation of female receptivity
+GO:0016339	18	GO:0032196	transposition
+GO:0043562	14	GO:0071444	cellular response to pheromone
+GO:0044725	2	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0006357	3	GO:1903507	negative regulation of nucleic acid-templated transcription
+GO:0002686	12	GO:1905521	regulation of macrophage migration
+GO:0002689	12	GO:1905521	regulation of macrophage migration
+GO:0040029	1	GO:0032652	regulation of interleukin-1 production
+GO:0006310	2	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0006312	2	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0052547	4	GO:0045833	negative regulation of lipid metabolic process
+GO:1905521	12	GO:1905521	regulation of macrophage migration
+GO:1905522	12	GO:1905521	regulation of macrophage migration
+GO:0033696	3	GO:1903507	negative regulation of nucleic acid-templated transcription
+GO:0060962	3	GO:1903507	negative regulation of nucleic acid-templated transcription
+GO:0050912	14	GO:0071444	cellular response to pheromone
+GO:0019064	9	GO:0016032	viral process
+GO:0019054	9	GO:0016032	viral process
+GO:0033622	18	GO:0032196	transposition
+GO:0033623	19	GO:0045787	positive regulation of cell cycle
+GO:0033625	19	GO:0045787	positive regulation of cell cycle
+GO:0033626	8	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0019076	9	GO:0016032	viral process
+GO:0043622	18	GO:0032196	transposition
+GO:0009988	18	GO:0032196	transposition
+GO:0019042	9	GO:0016032	viral process
+GO:0019048	9	GO:0016032	viral process
+GO:2000648	19	GO:0045787	positive regulation of cell cycle
+GO:1901334	2	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:1901336	2	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0035891	9	GO:0016032	viral process
+GO:0007340	17	GO:0007621	negative regulation of female receptivity
+GO:0007343	18	GO:0032196	transposition
+GO:0045892	3	GO:1903507	negative regulation of nucleic acid-templated transcription
+GO:0007338	17	GO:0007621	negative regulation of female receptivity
+GO:0007304	10	GO:0001837	epithelial to mesenchymal transition
+GO:0035821	9	GO:0016032	viral process
+GO:0010375	10	GO:0001837	epithelial to mesenchymal transition
+GO:0045818	4	GO:0045833	negative regulation of lipid metabolic process
+GO:0006268	5	GO:0045342	MHC class II biosynthetic process
+GO:0010497	18	GO:0032196	transposition
+GO:0006278	2	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0010466	4	GO:0045833	negative regulation of lipid metabolic process
+GO:0042060	15	GO:0006955	immune response
+GO:0002949	2	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0051052	3	GO:1903507	negative regulation of nucleic acid-templated transcription
+GO:0051053	3	GO:1903507	negative regulation of nucleic acid-templated transcription
+GO:0046718	9	GO:0016032	viral process
+GO:0046740	9	GO:0016032	viral process
+GO:0030466	3	GO:1903507	negative regulation of nucleic acid-templated transcription
+GO:0051039	3	GO:1903507	negative regulation of nucleic acid-templated transcription
+GO:0007155	18	GO:0032196	transposition
+GO:0007156	18	GO:0032196	transposition
+GO:0000379	2	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0061041	15	GO:0006955	immune response
+GO:0007127	18	GO:0032196	transposition
+GO:0075732	9	GO:0016032	viral process
+GO:0075733	9	GO:0016032	viral process
+GO:0006508	6	GO:0006520	cellular amino acid metabolic process
+GO:0014072	14	GO:0071444	cellular response to pheromone
+GO:0009432	14	GO:0071444	cellular response to pheromone
+GO:0014029	10	GO:0001837	epithelial to mesenchymal transition
+GO:0001963	18	GO:0032196	transposition
+GO:0014032	10	GO:0001837	epithelial to mesenchymal transition
+GO:2001237	7	GO:0062208	positive regulation of pattern recognition receptor signaling pathway
+GO:0035666	8	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0019221	8	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0045666	11	GO:0048582	positive regulation of post-embryonic development
+GO:1904950	19	GO:0045787	positive regulation of cell cycle
+GO:1900015	1	GO:0032652	regulation of interleukin-1 production
+GO:1900017	1	GO:0032652	regulation of interleukin-1 production
+GO:0035641	17	GO:0007621	negative regulation of female receptivity
+GO:0070391	14	GO:0071444	cellular response to pheromone
+GO:0009110	5	GO:0045342	MHC class II biosynthetic process
+GO:0035633	17	GO:0007621	negative regulation of female receptivity
+GO:0030162	4	GO:0045833	negative regulation of lipid metabolic process
+GO:0095500	8	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0070373	7	GO:0062208	positive regulation of pattern recognition receptor signaling pathway
+GO:0045601	11	GO:0048582	positive regulation of post-embryonic development
+GO:0060338	13	GO:0050777	negative regulation of immune response
+GO:1901605	6	GO:0006520	cellular amino acid metabolic process
+GO:0019722	8	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0019724	15	GO:0006955	immune response
+GO:0009252	5	GO:0045342	MHC class II biosynthetic process
+GO:1903900	9	GO:0016032	viral process
+GO:0016925	6	GO:0006520	cellular amino acid metabolic process
+GO:0070424	7	GO:0062208	positive regulation of pattern recognition receptor signaling pathway
+GO:0070426	7	GO:0062208	positive regulation of pattern recognition receptor signaling pathway
+GO:0070427	7	GO:0062208	positive regulation of pattern recognition receptor signaling pathway
+GO:0070428	7	GO:0062208	positive regulation of pattern recognition receptor signaling pathway
+GO:0003044	17	GO:0007621	negative regulation of female receptivity
+GO:0070430	7	GO:0062208	positive regulation of pattern recognition receptor signaling pathway
+GO:0070431	7	GO:0062208	positive regulation of pattern recognition receptor signaling pathway
+GO:0070432	7	GO:0062208	positive regulation of pattern recognition receptor signaling pathway
+GO:0042078	10	GO:0001837	epithelial to mesenchymal transition
+GO:0003009	17	GO:0007621	negative regulation of female receptivity
+GO:0010717	11	GO:0048582	positive regulation of post-embryonic development
+GO:0000271	5	GO:0045342	MHC class II biosynthetic process
+GO:0060149	4	GO:0045833	negative regulation of lipid metabolic process
+GO:0006956	13	GO:0050777	negative regulation of immune response
+GO:0006957	13	GO:0050777	negative regulation of immune response
+GO:0006958	13	GO:0050777	negative regulation of immune response
+GO:0045998	4	GO:0045833	negative regulation of lipid metabolic process
+GO:1900369	4	GO:0045833	negative regulation of lipid metabolic process
+GO:0030703	10	GO:0001837	epithelial to mesenchymal transition
+GO:0045950	3	GO:1903507	negative regulation of nucleic acid-templated transcription
+GO:0030890	19	GO:0045787	positive regulation of cell cycle
+GO:0034309	5	GO:0045342	MHC class II biosynthetic process
+GO:0045910	3	GO:1903507	negative regulation of nucleic acid-templated transcription
+GO:0045944	3	GO:1903507	negative regulation of nucleic acid-templated transcription
+GO:0030888	19	GO:0045787	positive regulation of cell cycle
+GO:0000749	14	GO:0071444	cellular response to pheromone
+GO:0009593	14	GO:0071444	cellular response to pheromone
+GO:0038083	6	GO:0006520	cellular amino acid metabolic process
+GO:0005983	5	GO:0045342	MHC class II biosynthetic process
+GO:0050769	11	GO:0048582	positive regulation of post-embryonic development
+GO:0051092	3	GO:1903507	negative regulation of nucleic acid-templated transcription
+GO:0051094	11	GO:0048582	positive regulation of post-embryonic development
+GO:0050777	13	GO:0050777	negative regulation of immune response
+GO:0044406	9	GO:0016032	viral process
+GO:0060759	13	GO:0050777	negative regulation of immune response
+GO:0051055	4	GO:0045833	negative regulation of lipid metabolic process
+GO:0017085	14	GO:0071444	cellular response to pheromone
+GO:0010508	4	GO:0045833	negative regulation of lipid metabolic process
+GO:0030512	7	GO:0062208	positive regulation of pattern recognition receptor signaling pathway
+GO:0008063	8	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0061063	11	GO:0048582	positive regulation of post-embryonic development
+GO:1904000	17	GO:0007621	negative regulation of female receptivity
+GO:0061081	1	GO:0032652	regulation of interleukin-1 production
+GO:0061082	1	GO:0032652	regulation of interleukin-1 production
+GO:0042364	5	GO:0045342	MHC class II biosynthetic process
+GO:0050871	19	GO:0045787	positive regulation of cell cycle
+GO:1903078	19	GO:0045787	positive regulation of cell cycle
+GO:0009636	14	GO:0071444	cellular response to pheromone
+GO:0032497	14	GO:0071444	cellular response to pheromone
+GO:0016064	15	GO:0006955	immune response
+GO:0002371	1	GO:0032652	regulation of interleukin-1 production
+GO:0034220	18	GO:0032196	transposition
+GO:0003418	10	GO:0001837	epithelial to mesenchymal transition
+GO:0003433	10	GO:0001837	epithelial to mesenchymal transition
+GO:0043171	6	GO:0006520	cellular amino acid metabolic process
+GO:0043123	7	GO:0062208	positive regulation of pattern recognition receptor signaling pathway
+GO:0007014	6	GO:0006520	cellular amino acid metabolic process
+GO:1900227	19	GO:0045787	positive regulation of cell cycle
+GO:0002300	10	GO:0001837	epithelial to mesenchymal transition
+GO:0002305	10	GO:0001837	epithelial to mesenchymal transition
+GO:0042448	6	GO:0006520	cellular amino acid metabolic process
+GO:0070593	10	GO:0001837	epithelial to mesenchymal transition
+GO:0036005	14	GO:0071444	cellular response to pheromone
+GO:0036006	14	GO:0071444	cellular response to pheromone
+GO:0044790	9	GO:0016032	viral process
+GO:0097009	17	GO:0007621	negative regulation of female receptivity
+GO:1902041	7	GO:0062208	positive regulation of pattern recognition receptor signaling pathway
+GO:1902042	7	GO:0062208	positive regulation of pattern recognition receptor signaling pathway
+GO:0052372	9	GO:0016032	viral process
+GO:0043278	14	GO:0071444	cellular response to pheromone
+GO:0035025	7	GO:0062208	positive regulation of pattern recognition receptor signaling pathway
+GO:1904385	14	GO:0071444	cellular response to pheromone
+GO:0033209	8	GO:0007186	G protein-coupled receptor signaling pathway
+GO:1990776	14	GO:0071444	cellular response to pheromone
+GO:0014823	15	GO:0006955	immune response
+GO:0002164	10	GO:0001837	epithelial to mesenchymal transition
+GO:0002168	10	GO:0001837	epithelial to mesenchymal transition
+GO:0008360	11	GO:0048582	positive regulation of post-embryonic development
+GO:1901048	8	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0010994	18	GO:0032196	transposition
+GO:0009965	10	GO:0001837	epithelial to mesenchymal transition
+GO:0044805	18	GO:0032196	transposition
+GO:0010934	1	GO:0032652	regulation of interleukin-1 production
+GO:0010935	1	GO:0032652	regulation of interleukin-1 production
+GO:0071300	14	GO:0071444	cellular response to pheromone
+GO:0002252	15	GO:0006955	immune response
+GO:0051482	8	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0031268	18	GO:0032196	transposition
+GO:0038166	8	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0018130	2	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0032774	2	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0055085	18	GO:0032196	transposition
+GO:0032720	1	GO:0032652	regulation of interleukin-1 production
+GO:0032727	1	GO:0032652	regulation of interleukin-1 production
+GO:0032728	1	GO:0032652	regulation of interleukin-1 production
+GO:0002246	15	GO:0006955	immune response
+GO:0032715	1	GO:0032652	regulation of interleukin-1 production
+GO:0042723	2	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0032731	1	GO:0032652	regulation of interleukin-1 production
+GO:0042744	6	GO:0006520	cellular amino acid metabolic process
+GO:0071444	14	GO:0071444	cellular response to pheromone
+GO:0048147	19	GO:0045787	positive regulation of cell cycle
+GO:1903428	4	GO:0045833	negative regulation of lipid metabolic process
+GO:0032897	9	GO:0016032	viral process
+GO:0051155	11	GO:0048582	positive regulation of post-embryonic development
+GO:0034654	2	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0016485	6	GO:0006520	cellular amino acid metabolic process
+GO:0044650	9	GO:0016032	viral process
+GO:0006366	2	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0002720	1	GO:0032652	regulation of interleukin-1 production
+GO:0032875	4	GO:0045833	negative regulation of lipid metabolic process
+GO:0034612	14	GO:0071444	cellular response to pheromone
+GO:0032876	4	GO:0045833	negative regulation of lipid metabolic process
+GO:0002730	1	GO:0032652	regulation of interleukin-1 production
+GO:0007411	10	GO:0001837	epithelial to mesenchymal transition
+GO:1900619	6	GO:0006520	cellular amino acid metabolic process
+GO:1901362	5	GO:0045342	MHC class II biosynthetic process
+GO:0062208	7	GO:0062208	positive regulation of pattern recognition receptor signaling pathway
+GO:0060965	4	GO:0045833	negative regulation of lipid metabolic process
+GO:0050911	14	GO:0071444	cellular response to pheromone
+GO:0008291	6	GO:0006520	cellular amino acid metabolic process
+GO:0045342	5	GO:0045342	MHC class II biosynthetic process
+GO:0045346	4	GO:0045833	negative regulation of lipid metabolic process
+GO:0045348	4	GO:0045833	negative regulation of lipid metabolic process
+GO:0007193	8	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0050901	12	GO:1905521	regulation of macrophage migration
+GO:0019062	9	GO:0016032	viral process
+GO:0002820	13	GO:0050777	negative regulation of immune response
+GO:0032570	14	GO:0071444	cellular response to pheromone
+GO:0007186	8	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0007187	8	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0070936	6	GO:0006520	cellular amino acid metabolic process
+GO:0060907	1	GO:0032652	regulation of interleukin-1 production
+GO:0016138	5	GO:0045342	MHC class II biosynthetic process
+GO:0036120	14	GO:0071444	cellular response to pheromone
+GO:0071223	14	GO:0071444	cellular response to pheromone
+GO:1903265	7	GO:0062208	positive regulation of pattern recognition receptor signaling pathway
+GO:0001708	10	GO:0001837	epithelial to mesenchymal transition
+GO:0008207	6	GO:0006520	cellular amino acid metabolic process
+GO:1904778	19	GO:0045787	positive regulation of cell cycle
+GO:1903223	19	GO:0045787	positive regulation of cell cycle
+GO:0001894	17	GO:0007621	negative regulation of female receptivity
+GO:0045444	10	GO:0001837	epithelial to mesenchymal transition
+GO:0051770	4	GO:0045833	negative regulation of lipid metabolic process
+GO:0032651	1	GO:0032652	regulation of interleukin-1 production
+GO:0032652	1	GO:0032652	regulation of interleukin-1 production
+GO:0061756	18	GO:0032196	transposition
+GO:0007252	8	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0032689	1	GO:0032652	regulation of interleukin-1 production
+GO:1903209	19	GO:0045787	positive regulation of cell cycle
+GO:0002526	15	GO:0006955	immune response
+GO:0032611	1	GO:0032652	regulation of interleukin-1 production
+GO:0032612	1	GO:0032652	regulation of interleukin-1 production
+GO:0002532	15	GO:0006955	immune response
+GO:0002534	1	GO:0032652	regulation of interleukin-1 production
+GO:0007210	8	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0032647	1	GO:0032652	regulation of interleukin-1 production
+GO:0007218	8	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0009066	6	GO:0006520	cellular amino acid metabolic process
+GO:0001837	10	GO:0001837	epithelial to mesenchymal transition
+GO:0009072	6	GO:0006520	cellular amino acid metabolic process
+GO:0009074	6	GO:0006520	cellular amino acid metabolic process
+GO:0032607	1	GO:0032652	regulation of interleukin-1 production
+GO:0007204	17	GO:0007621	negative regulation of female receptivity
+GO:0045123	12	GO:1905521	regulation of macrophage migration
+GO:0031509	3	GO:1903507	negative regulation of nucleic acid-templated transcription
+GO:1902230	7	GO:0062208	positive regulation of pattern recognition receptor signaling pathway
+GO:0006265	2	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0006269	2	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0040010	19	GO:0045787	positive regulation of cell cycle
+GO:0040015	11	GO:0048582	positive regulation of post-embryonic development
+GO:0040018	11	GO:0048582	positive regulation of post-embryonic development
+GO:0071880	8	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0040032	10	GO:0001837	epithelial to mesenchymal transition
+GO:0071875	8	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0048582	11	GO:0048582	positive regulation of post-embryonic development
+GO:0031647	17	GO:0007621	negative regulation of female receptivity
+GO:0048525	9	GO:0016032	viral process
+GO:1903883	7	GO:0062208	positive regulation of pattern recognition receptor signaling pathway
+GO:1903886	1	GO:0032652	regulation of interleukin-1 production
+GO:0046716	18	GO:0032196	transposition
+GO:1901224	7	GO:0062208	positive regulation of pattern recognition receptor signaling pathway
+GO:0006790	6	GO:0006520	cellular amino acid metabolic process
+GO:0000019	3	GO:1903507	negative regulation of nucleic acid-templated transcription
+GO:0061564	10	GO:0001837	epithelial to mesenchymal transition
+GO:0090030	4	GO:0045833	negative regulation of lipid metabolic process
+GO:0071555	18	GO:0032196	transposition
+GO:0006772	2	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0043922	9	GO:0016032	viral process
+GO:0043923	9	GO:0016032	viral process
+GO:0046885	4	GO:0045833	negative regulation of lipid metabolic process
+GO:0045787	19	GO:0045787	positive regulation of cell cycle
+GO:0046813	9	GO:0016032	viral process
+GO:0006704	5	GO:0045342	MHC class II biosynthetic process
+GO:1904645	14	GO:0071444	cellular response to pheromone
+GO:1904646	14	GO:0071444	cellular response to pheromone
+GO:0045732	4	GO:0045833	negative regulation of lipid metabolic process
+GO:0060079	8	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0046596	9	GO:0016032	viral process
+GO:0045893	3	GO:1903507	negative regulation of nucleic acid-templated transcription
+GO:0019438	2	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0071630	6	GO:0006520	cellular amino acid metabolic process
+GO:0009312	5	GO:0045342	MHC class II biosynthetic process
+GO:0045833	4	GO:0045833	negative regulation of lipid metabolic process
+GO:0009307	2	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0006568	6	GO:0006520	cellular amino acid metabolic process
+GO:0030335	12	GO:1905521	regulation of macrophage migration
+GO:0006553	6	GO:0006520	cellular amino acid metabolic process
+GO:0006586	2	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0006520	6	GO:0006520	cellular amino acid metabolic process
+GO:0030307	19	GO:0045787	positive regulation of cell cycle
+GO:0006513	6	GO:0006520	cellular amino acid metabolic process
+GO:0046677	14	GO:0071444	cellular response to pheromone
+GO:0009411	15	GO:0006955	immune response
+GO:0007606	17	GO:0007621	negative regulation of female receptivity

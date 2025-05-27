@@ -1,0 +1,862 @@
+GO:0090312	4	GO:0010952	positive regulation of peptidase activity
+GO:0002281	26	GO:0050864	regulation of B cell activation
+GO:0032102	8	GO:0002759	regulation of antimicrobial humoral response
+GO:0016237	24	GO:0001906	cell killing
+GO:0010466	4	GO:0010952	positive regulation of peptidase activity
+GO:0050796	20	GO:0140353	lipid export from cell
+GO:2000146	25	GO:0097529	myeloid leukocyte migration
+GO:0016064	3	GO:0002889	regulation of immunoglobulin mediated immune response
+GO:0042628	14	GO:0009566	fertilization
+GO:0007094	23	GO:0007080	mitotic metaphase plate congression
+GO:0002200	16	GO:0061008	hepaticobiliary system development
+GO:0002204	3	GO:0002889	regulation of immunoglobulin mediated immune response
+GO:0050769	15	GO:0031642	negative regulation of myelination
+GO:0002208	3	GO:0002889	regulation of immunoglobulin mediated immune response
+GO:1902948	4	GO:0010952	positive regulation of peptidase activity
+GO:0045824	8	GO:0002759	regulation of antimicrobial humoral response
+GO:0032224	19	GO:0010941	regulation of cell death
+GO:0042307	20	GO:0140353	lipid export from cell
+GO:0050777	8	GO:0002759	regulation of antimicrobial humoral response
+GO:0007051	22	GO:0051276	chromosome organization
+GO:0070590	17	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0070591	13	GO:0030703	eggshell formation
+GO:0050729	8	GO:0002759	regulation of antimicrobial humoral response
+GO:0045830	3	GO:0002889	regulation of immunoglobulin mediated immune response
+GO:0030225	17	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0140546	7	GO:0098542	defense response to other organism
+GO:0002768	18	GO:1990806	ligand-gated ion channel signaling pathway
+GO:0032946	19	GO:0010941	regulation of cell death
+GO:0032204	6	GO:0051052	regulation of DNA metabolic process
+GO:0006390	6	GO:0051052	regulation of DNA metabolic process
+GO:0002712	3	GO:0002889	regulation of immunoglobulin mediated immune response
+GO:0061008	16	GO:0061008	hepaticobiliary system development
+GO:0002714	3	GO:0002889	regulation of immunoglobulin mediated immune response
+GO:2000278	6	GO:0051052	regulation of DNA metabolic process
+GO:0097191	18	GO:1990806	ligand-gated ion channel signaling pathway
+GO:0098542	7	GO:0098542	defense response to other organism
+GO:0007004	6	GO:0051052	regulation of DNA metabolic process
+GO:0034587	6	GO:0051052	regulation of DNA metabolic process
+GO:0032760	2	GO:0001817	regulation of cytokine production
+GO:0032754	2	GO:0001817	regulation of cytokine production
+GO:0032755	2	GO:0001817	regulation of cytokine production
+GO:0000002	22	GO:0051276	chromosome organization
+GO:0006384	6	GO:0051052	regulation of DNA metabolic process
+GO:0050864	26	GO:0050864	regulation of B cell activation
+GO:0002703	3	GO:0002889	regulation of immunoglobulin mediated immune response
+GO:1902004	4	GO:0010952	positive regulation of peptidase activity
+GO:0002705	3	GO:0002889	regulation of immunoglobulin mediated immune response
+GO:0002706	3	GO:0002889	regulation of immunoglobulin mediated immune response
+GO:0002708	3	GO:0002889	regulation of immunoglobulin mediated immune response
+GO:0032722	2	GO:0001817	regulation of cytokine production
+GO:0050871	26	GO:0050864	regulation of B cell activation
+GO:0002891	3	GO:0002889	regulation of immunoglobulin mediated immune response
+GO:0051607	7	GO:0098542	defense response to other organism
+GO:0006623	20	GO:0140353	lipid export from cell
+GO:0032747	2	GO:0001817	regulation of cytokine production
+GO:0034393	19	GO:0010941	regulation of cell death
+GO:0032733	2	GO:0001817	regulation of cytokine production
+GO:0039707	9	GO:0016032	viral process
+GO:0032735	2	GO:0001817	regulation of cytokine production
+GO:0032736	2	GO:0001817	regulation of cytokine production
+GO:0030719	13	GO:0030703	eggshell formation
+GO:0070665	19	GO:0010941	regulation of cell death
+GO:0046718	9	GO:0016032	viral process
+GO:0032700	2	GO:0001817	regulation of cytokine production
+GO:0019226	12	GO:0007588	excretion
+GO:0002889	3	GO:0002889	regulation of immunoglobulin mediated immune response
+GO:0019228	12	GO:0007588	excretion
+GO:0033141	4	GO:0010952	positive regulation of peptidase activity
+GO:0098670	9	GO:0016032	viral process
+GO:0140499	23	GO:0007080	mitotic metaphase plate congression
+GO:0070673	11	GO:0042221	response to chemical
+GO:0002821	8	GO:0002759	regulation of antimicrobial humoral response
+GO:0002822	8	GO:0002759	regulation of antimicrobial humoral response
+GO:0002824	8	GO:0002759	regulation of antimicrobial humoral response
+GO:0030703	13	GO:0030703	eggshell formation
+GO:0036314	11	GO:0042221	response to chemical
+GO:0060251	15	GO:0031642	negative regulation of myelination
+GO:0002819	8	GO:0002759	regulation of antimicrobial humoral response
+GO:0010950	4	GO:0010952	positive regulation of peptidase activity
+GO:0010951	4	GO:0010952	positive regulation of peptidase activity
+GO:0002832	8	GO:0002759	regulation of antimicrobial humoral response
+GO:0042113	26	GO:0050864	regulation of B cell activation
+GO:0031334	19	GO:0010941	regulation of cell death
+GO:0048662	19	GO:0010941	regulation of cell death
+GO:0006458	24	GO:0001906	cell killing
+GO:0031640	24	GO:0001906	cell killing
+GO:0031645	15	GO:0031642	negative regulation of myelination
+GO:0045672	15	GO:0031642	negative regulation of myelination
+GO:0031637	19	GO:0010941	regulation of cell death
+GO:0071222	11	GO:0042221	response to chemical
+GO:0030856	15	GO:0031642	negative regulation of myelination
+GO:0019062	9	GO:0016032	viral process
+GO:0042102	26	GO:0050864	regulation of B cell activation
+GO:0090266	23	GO:0007080	mitotic metaphase plate congression
+GO:0052548	4	GO:0010952	positive regulation of peptidase activity
+GO:0048646	17	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:1990266	25	GO:0097529	myeloid leukocyte migration
+GO:0019076	9	GO:0016032	viral process
+GO:0032834	26	GO:0050864	regulation of B cell activation
+GO:0071940	22	GO:0051276	chromosome organization
+GO:0002562	6	GO:0051052	regulation of DNA metabolic process
+GO:0007588	12	GO:0007588	excretion
+GO:0046813	9	GO:0016032	viral process
+GO:0019724	3	GO:0002889	regulation of immunoglobulin mediated immune response
+GO:0046843	13	GO:0030703	eggshell formation
+GO:0090231	19	GO:0010941	regulation of cell death
+GO:0090233	19	GO:0010941	regulation of cell death
+GO:0071902	4	GO:0010952	positive regulation of peptidase activity
+GO:0060760	8	GO:0002759	regulation of antimicrobial humoral response
+GO:0008016	15	GO:0031642	negative regulation of myelination
+GO:0062033	23	GO:0007080	mitotic metaphase plate congression
+GO:0050691	8	GO:0002759	regulation of antimicrobial humoral response
+GO:0030595	25	GO:0097529	myeloid leukocyte migration
+GO:0042244	17	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0043457	4	GO:0010952	positive regulation of peptidase activity
+GO:0044804	24	GO:0001906	cell killing
+GO:0045429	4	GO:0010952	positive regulation of peptidase activity
+GO:0043470	4	GO:0010952	positive regulation of peptidase activity
+GO:1900542	4	GO:0010952	positive regulation of peptidase activity
+GO:0035073	16	GO:0061008	hepaticobiliary system development
+GO:0006123	5	GO:0030388	fructose 1,6-bisphosphate metabolic process
+GO:0035075	11	GO:0042221	response to chemical
+GO:0050671	26	GO:0050864	regulation of B cell activation
+GO:0050678	19	GO:0010941	regulation of cell death
+GO:0006140	4	GO:0010952	positive regulation of peptidase activity
+GO:0039502	8	GO:0002759	regulation of antimicrobial humoral response
+GO:0002381	3	GO:0002889	regulation of immunoglobulin mediated immune response
+GO:0035036	14	GO:0009566	fertilization
+GO:0019882	27	GO:0001776	leukocyte homeostasis
+GO:0002377	1	GO:0001816	cytokine production
+GO:1903707	15	GO:0031642	negative regulation of myelination
+GO:0051259	22	GO:0051276	chromosome organization
+GO:0045190	3	GO:0002889	regulation of immunoglobulin mediated immune response
+GO:0002683	19	GO:0010941	regulation of cell death
+GO:0045191	3	GO:0002889	regulation of immunoglobulin mediated immune response
+GO:0007340	14	GO:0009566	fertilization
+GO:0007342	14	GO:0009566	fertilization
+GO:0002312	26	GO:0050864	regulation of B cell activation
+GO:0051969	18	GO:1990806	ligand-gated ion channel signaling pathway
+GO:0042026	24	GO:0001906	cell killing
+GO:0033005	26	GO:0050864	regulation of B cell activation
+GO:0007304	13	GO:0030703	eggshell formation
+GO:0007305	13	GO:0030703	eggshell formation
+GO:0007306	13	GO:0030703	eggshell formation
+GO:0031146	5	GO:0030388	fructose 1,6-bisphosphate metabolic process
+GO:0051926	21	GO:1904064	positive regulation of cation transmembrane transport
+GO:0002637	2	GO:0001817	regulation of cytokine production
+GO:0002639	2	GO:0001817	regulation of cytokine production
+GO:0071887	24	GO:0001906	cell killing
+GO:0010835	4	GO:0010952	positive regulation of peptidase activity
+GO:0001961	18	GO:1990806	ligand-gated ion channel signaling pathway
+GO:0006955	27	GO:0001776	leukocyte homeostasis
+GO:0006959	27	GO:0001776	leukocyte homeostasis
+GO:0048143	17	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0001959	18	GO:1990806	ligand-gated ion channel signaling pathway
+GO:0002460	27	GO:0001776	leukocyte homeostasis
+GO:0015936	5	GO:0030388	fructose 1,6-bisphosphate metabolic process
+GO:0051052	6	GO:0051052	regulation of DNA metabolic process
+GO:0016444	6	GO:0051052	regulation of DNA metabolic process
+GO:0051054	6	GO:0051052	regulation of DNA metabolic process
+GO:0016445	16	GO:0061008	hepaticobiliary system development
+GO:0016447	6	GO:0051052	regulation of DNA metabolic process
+GO:0044650	9	GO:0016032	viral process
+GO:0051084	24	GO:0001906	cell killing
+GO:0051085	24	GO:0001906	cell killing
+GO:1901216	19	GO:0010941	regulation of cell death
+GO:1901976	19	GO:0010941	regulation of cell death
+GO:1901977	19	GO:0010941	regulation of cell death
+GO:0061448	17	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0034260	19	GO:0010941	regulation of cell death
+GO:0002429	18	GO:1990806	ligand-gated ion channel signaling pathway
+GO:0002443	27	GO:0001776	leukocyte homeostasis
+GO:0002449	27	GO:0001776	leukocyte homeostasis
+GO:1902426	23	GO:0007080	mitotic metaphase plate congression
+GO:0051044	4	GO:0010952	positive regulation of peptidase activity
+GO:0140053	1	GO:0001816	cytokine production
+GO:0060550	4	GO:0010952	positive regulation of peptidase activity
+GO:0060552	4	GO:0010952	positive regulation of peptidase activity
+GO:0001906	24	GO:0001906	cell killing
+GO:0051037	6	GO:0051052	regulation of DNA metabolic process
+GO:0060557	4	GO:0010952	positive regulation of peptidase activity
+GO:0051712	19	GO:0010941	regulation of cell death
+GO:0010528	19	GO:0010941	regulation of cell death
+GO:0010529	19	GO:0010941	regulation of cell death
+GO:2001252	19	GO:0010941	regulation of cell death
+GO:2000309	2	GO:0001817	regulation of cytokine production
+GO:0098900	19	GO:0010941	regulation of cell death
+GO:0052111	9	GO:0016032	viral process
+GO:0051702	9	GO:0016032	viral process
+GO:0098908	19	GO:0010941	regulation of cell death
+GO:0030476	13	GO:0030703	eggshell formation
+GO:0001774	26	GO:0050864	regulation of B cell activation
+GO:0030421	12	GO:0007588	excretion
+GO:0001776	27	GO:0001776	leukocyte homeostasis
+GO:0048240	13	GO:0030703	eggshell formation
+GO:0045913	4	GO:0010952	positive regulation of peptidase activity
+GO:0010508	4	GO:0010952	positive regulation of peptidase activity
+GO:1903504	19	GO:0010941	regulation of cell death
+GO:0051851	9	GO:0016032	viral process
+GO:0070726	22	GO:0051276	chromosome organization
+GO:0034755	21	GO:1904064	positive regulation of cation transmembrane transport
+GO:0042552	16	GO:0061008	hepaticobiliary system development
+GO:0072001	16	GO:0061008	hepaticobiliary system development
+GO:0072006	16	GO:0061008	hepaticobiliary system development
+GO:0045087	7	GO:0098542	defense response to other organism
+GO:0034727	5	GO:0030388	fructose 1,6-bisphosphate metabolic process
+GO:0044406	9	GO:0016032	viral process
+GO:0015886	20	GO:0140353	lipid export from cell
+GO:0071654	2	GO:0001817	regulation of cytokine production
+GO:0071657	2	GO:0001817	regulation of cytokine production
+GO:0060333	18	GO:1990806	ligand-gated ion channel signaling pathway
+GO:0060339	8	GO:0002759	regulation of antimicrobial humoral response
+GO:1904892	18	GO:1990806	ligand-gated ion channel signaling pathway
+GO:1904894	18	GO:1990806	ligand-gated ion channel signaling pathway
+GO:0042531	4	GO:0010952	positive regulation of peptidase activity
+GO:1902106	15	GO:0031642	negative regulation of myelination
+GO:0010634	25	GO:0097529	myeloid leukocyte migration
+GO:0001889	16	GO:0061008	hepaticobiliary system development
+GO:0060632	19	GO:0010941	regulation of cell death
+GO:0006826	20	GO:0140353	lipid export from cell
+GO:0001822	16	GO:0061008	hepaticobiliary system development
+GO:0002262	27	GO:0001776	leukocyte homeostasis
+GO:0044409	9	GO:0016032	viral process
+GO:0048764	17	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0048765	17	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0048767	17	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0048753	22	GO:0051276	chromosome organization
+GO:0006581	5	GO:0030388	fructose 1,6-bisphosphate metabolic process
+GO:0016032	9	GO:0016032	viral process
+GO:0009403	5	GO:0030388	fructose 1,6-bisphosphate metabolic process
+GO:0090558	17	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0062208	18	GO:1990806	ligand-gated ion channel signaling pathway
+GO:0031509	6	GO:0051052	regulation of DNA metabolic process
+GO:0019695	5	GO:0030388	fructose 1,6-bisphosphate metabolic process
+GO:0001756	17	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:1903715	4	GO:0010952	positive regulation of peptidase activity
+GO:0044000	9	GO:0016032	viral process
+GO:0061058	18	GO:1990806	ligand-gated ion channel signaling pathway
+GO:0045143	23	GO:0007080	mitotic metaphase plate congression
+GO:0043386	5	GO:0030388	fructose 1,6-bisphosphate metabolic process
+GO:0042138	6	GO:0051052	regulation of DNA metabolic process
+GO:0046688	11	GO:0042221	response to chemical
+GO:0000706	6	GO:0051052	regulation of DNA metabolic process
+GO:0090136	24	GO:0001906	cell killing
+GO:0030307	19	GO:0010941	regulation of cell death
+GO:0050709	20	GO:0140353	lipid export from cell
+GO:0090627	17	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0051310	23	GO:0007080	mitotic metaphase plate congression
+GO:0080147	17	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0016485	5	GO:0030388	fructose 1,6-bisphosphate metabolic process
+GO:0008608	23	GO:0007080	mitotic metaphase plate congression
+GO:0019058	9	GO:0016032	viral process
+GO:0010053	17	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0010054	17	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0019083	9	GO:0016032	viral process
+GO:0002920	8	GO:0002759	regulation of antimicrobial humoral response
+GO:0002922	8	GO:0002759	regulation of antimicrobial humoral response
+GO:0051307	23	GO:0007080	mitotic metaphase plate congression
+GO:0000819	23	GO:0007080	mitotic metaphase plate congression
+GO:0040027	15	GO:0031642	negative regulation of myelination
+GO:0002225	8	GO:0002759	regulation of antimicrobial humoral response
+GO:0039695	9	GO:0016032	viral process
+GO:0010154	16	GO:0061008	hepaticobiliary system development
+GO:0051952	20	GO:0140353	lipid export from cell
+GO:0051588	21	GO:1904064	positive regulation of cation transmembrane transport
+GO:0007338	14	GO:0009566	fertilization
+GO:0010923	4	GO:0010952	positive regulation of peptidase activity
+GO:0006309	6	GO:0051052	regulation of DNA metabolic process
+GO:0002760	8	GO:0002759	regulation of antimicrobial humoral response
+GO:0002759	8	GO:0002759	regulation of antimicrobial humoral response
+GO:0002784	8	GO:0002759	regulation of antimicrobial humoral response
+GO:0002775	7	GO:0098542	defense response to other organism
+GO:0009566	14	GO:0009566	fertilization
+GO:0002702	2	GO:0001817	regulation of cytokine production
+GO:0048316	16	GO:0061008	hepaticobiliary system development
+GO:0006401	6	GO:0051052	regulation of DNA metabolic process
+GO:0051276	22	GO:0051276	chromosome organization
+GO:0042753	19	GO:0010941	regulation of cell death
+GO:0007009	22	GO:0051276	chromosome organization
+GO:0034508	22	GO:0051276	chromosome organization
+GO:0045026	22	GO:0051276	chromosome organization
+GO:0021551	16	GO:0061008	hepaticobiliary system development
+GO:0021556	16	GO:0061008	hepaticobiliary system development
+GO:0050911	12	GO:0007588	excretion
+GO:0050912	12	GO:0007588	excretion
+GO:0000738	6	GO:0051052	regulation of DNA metabolic process
+GO:0050907	12	GO:0007588	excretion
+GO:0061844	7	GO:0098542	defense response to other organism
+GO:0007533	13	GO:0030703	eggshell formation
+GO:0000467	5	GO:0030388	fructose 1,6-bisphosphate metabolic process
+GO:0061025	22	GO:0051276	chromosome organization
+GO:0007617	14	GO:0009566	fertilization
+GO:0007618	14	GO:0009566	fertilization
+GO:0007619	14	GO:0009566	fertilization
+GO:0007606	12	GO:0007588	excretion
+GO:0007260	4	GO:0010952	positive regulation of peptidase activity
+GO:0050727	8	GO:0002759	regulation of antimicrobial humoral response
+GO:0140253	24	GO:0001906	cell killing
+GO:0050731	4	GO:0010952	positive regulation of peptidase activity
+GO:0030728	14	GO:0009566	fertilization
+GO:0044001	9	GO:0016032	viral process
+GO:0031145	5	GO:0030388	fructose 1,6-bisphosphate metabolic process
+GO:0039663	9	GO:0016032	viral process
+GO:0000003	14	GO:0009566	fertilization
+GO:0006949	17	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0016137	5	GO:0030388	fructose 1,6-bisphosphate metabolic process
+GO:0016139	5	GO:0030388	fructose 1,6-bisphosphate metabolic process
+GO:0050821	27	GO:0001776	leukocyte homeostasis
+GO:0019064	9	GO:0016032	viral process
+GO:0046755	9	GO:0016032	viral process
+GO:0042509	4	GO:0010952	positive regulation of peptidase activity
+GO:0046740	9	GO:0016032	viral process
+GO:0046739	9	GO:0016032	viral process
+GO:0022414	14	GO:0009566	fertilization
+GO:0001582	12	GO:0007588	excretion
+GO:0006027	5	GO:0030388	fructose 1,6-bisphosphate metabolic process
+GO:0048581	15	GO:0031642	negative regulation of myelination
+GO:0007346	19	GO:0010941	regulation of cell death
+GO:0007339	14	GO:0009566	fertilization
+GO:2000241	19	GO:0010941	regulation of cell death
+GO:0044784	23	GO:0007080	mitotic metaphase plate congression
+GO:0006004	5	GO:0030388	fructose 1,6-bisphosphate metabolic process
+GO:0000768	17	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0046802	9	GO:0016032	viral process
+GO:0030071	23	GO:0007080	mitotic metaphase plate congression
+GO:0039702	9	GO:0016032	viral process
+GO:0007091	23	GO:0007080	mitotic metaphase plate congression
+GO:1902099	23	GO:0007080	mitotic metaphase plate congression
+GO:0033045	23	GO:0007080	mitotic metaphase plate congression
+GO:0061064	15	GO:0031642	negative regulation of myelination
+GO:0051445	19	GO:0010941	regulation of cell death
+GO:0032467	19	GO:0010941	regulation of cell death
+GO:0032790	22	GO:0051276	chromosome organization
+GO:0120261	19	GO:0010941	regulation of cell death
+GO:1903008	22	GO:0051276	chromosome organization
+GO:1900047	19	GO:0010941	regulation of cell death
+GO:0043484	6	GO:0051052	regulation of DNA metabolic process
+GO:0007140	13	GO:0030703	eggshell formation
+GO:0046685	11	GO:0042221	response to chemical
+GO:0046686	11	GO:0042221	response to chemical
+GO:0002474	27	GO:0001776	leukocyte homeostasis
+GO:0070828	22	GO:0051276	chromosome organization
+GO:0048024	6	GO:0051052	regulation of DNA metabolic process
+GO:0090529	22	GO:0051276	chromosome organization
+GO:0031507	6	GO:0051052	regulation of DNA metabolic process
+GO:0090497	25	GO:0097529	myeloid leukocyte migration
+GO:1902275	19	GO:0010941	regulation of cell death
+GO:0030195	8	GO:0002759	regulation of antimicrobial humoral response
+GO:0051304	23	GO:0007080	mitotic metaphase plate congression
+GO:0033120	6	GO:0051052	regulation of DNA metabolic process
+GO:0032954	19	GO:0010941	regulation of cell death
+GO:0031445	6	GO:0051052	regulation of DNA metabolic process
+GO:0035149	16	GO:0061008	hepaticobiliary system development
+GO:0001755	17	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0000917	22	GO:0051276	chromosome organization
+GO:1900424	7	GO:0098542	defense response to other organism
+GO:0051781	19	GO:0010941	regulation of cell death
+GO:0060438	16	GO:0061008	hepaticobiliary system development
+GO:0060439	16	GO:0061008	hepaticobiliary system development
+GO:0039504	8	GO:0002759	regulation of antimicrobial humoral response
+GO:0043053	16	GO:0061008	hepaticobiliary system development
+GO:0035002	16	GO:0061008	hepaticobiliary system development
+GO:0045814	2	GO:0001817	regulation of cytokine production
+GO:0045292	5	GO:0030388	fructose 1,6-bisphosphate metabolic process
+GO:0040029	2	GO:0001817	regulation of cytokine production
+GO:0070651	5	GO:0030388	fructose 1,6-bisphosphate metabolic process
+GO:0048701	16	GO:0061008	hepaticobiliary system development
+GO:0048705	16	GO:0061008	hepaticobiliary system development
+GO:0093002	11	GO:0042221	response to chemical
+GO:0072499	17	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0098581	7	GO:0098542	defense response to other organism
+GO:0000422	22	GO:0051276	chromosome organization
+GO:0042338	16	GO:0061008	hepaticobiliary system development
+GO:0001710	17	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0034446	17	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0051177	23	GO:0007080	mitotic metaphase plate congression
+GO:1901379	21	GO:1904064	positive regulation of cation transmembrane transport
+GO:0034090	23	GO:0007080	mitotic metaphase plate congression
+GO:0007218	18	GO:1990806	ligand-gated ion channel signaling pathway
+GO:0001707	17	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0006811	20	GO:0140353	lipid export from cell
+GO:0002220	8	GO:0002759	regulation of antimicrobial humoral response
+GO:0032490	7	GO:0098542	defense response to other organism
+GO:0032497	7	GO:0098542	defense response to other organism
+GO:0034142	18	GO:1990806	ligand-gated ion channel signaling pathway
+GO:0048332	17	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0048333	17	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0032413	21	GO:1904064	positive regulation of cation transmembrane transport
+GO:0048814	17	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0010789	23	GO:0007080	mitotic metaphase plate congression
+GO:0002752	18	GO:1990806	ligand-gated ion channel signaling pathway
+GO:0050914	12	GO:0007588	excretion
+GO:0042661	17	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0061726	22	GO:0051276	chromosome organization
+GO:0009593	11	GO:0042221	response to chemical
+GO:0009595	11	GO:0042221	response to chemical
+GO:0050909	12	GO:0007588	excretion
+GO:1905770	17	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0034220	21	GO:1904064	positive regulation of cation transmembrane transport
+GO:0048565	16	GO:0061008	hepaticobiliary system development
+GO:1901016	21	GO:1904064	positive regulation of cation transmembrane transport
+GO:1904063	21	GO:1904064	positive regulation of cation transmembrane transport
+GO:0045167	17	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0048546	16	GO:0061008	hepaticobiliary system development
+GO:0007498	17	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0010959	21	GO:1904064	positive regulation of cation transmembrane transport
+GO:0035199	11	GO:0042221	response to chemical
+GO:0055123	16	GO:0061008	hepaticobiliary system development
+GO:0030198	22	GO:0051276	chromosome organization
+GO:0051316	23	GO:0007080	mitotic metaphase plate congression
+GO:0034394	20	GO:0140353	lipid export from cell
+GO:0051303	20	GO:0140353	lipid export from cell
+GO:0061484	27	GO:0001776	leukocyte homeostasis
+GO:0051455	23	GO:0007080	mitotic metaphase plate congression
+GO:0060795	17	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0043266	21	GO:1904064	positive regulation of cation transmembrane transport
+GO:0043268	21	GO:1904064	positive regulation of cation transmembrane transport
+GO:0007614	12	GO:0007588	excretion
+GO:0043271	21	GO:1904064	positive regulation of cation transmembrane transport
+GO:0007631	27	GO:0001776	leukocyte homeostasis
+GO:0007635	11	GO:0042221	response to chemical
+GO:0051051	21	GO:1904064	positive regulation of cation transmembrane transport
+GO:0043248	22	GO:0051276	chromosome organization
+GO:0070314	24	GO:0001906	cell killing
+GO:0070316	19	GO:0010941	regulation of cell death
+GO:0016441	2	GO:0001817	regulation of cytokine production
+GO:1901381	21	GO:1904064	positive regulation of cation transmembrane transport
+GO:0031508	6	GO:0051052	regulation of DNA metabolic process
+GO:1900038	18	GO:1990806	ligand-gated ion channel signaling pathway
+GO:0035725	21	GO:1904064	positive regulation of cation transmembrane transport
+GO:1903531	19	GO:0010941	regulation of cell death
+GO:0006970	11	GO:0042221	response to chemical
+GO:0006972	11	GO:0042221	response to chemical
+GO:0050891	12	GO:0007588	excretion
+GO:0046794	9	GO:0016032	viral process
+GO:0032411	21	GO:1904064	positive regulation of cation transmembrane transport
+GO:0032414	21	GO:1904064	positive regulation of cation transmembrane transport
+GO:0080171	22	GO:0051276	chromosome organization
+GO:0050920	8	GO:0002759	regulation of antimicrobial humoral response
+GO:0050918	11	GO:0042221	response to chemical
+GO:0019042	9	GO:0016032	viral process
+GO:0019043	9	GO:0016032	viral process
+GO:0042048	11	GO:0042221	response to chemical
+GO:2000649	21	GO:1904064	positive regulation of cation transmembrane transport
+GO:0022416	16	GO:0061008	hepaticobiliary system development
+GO:0071345	11	GO:0042221	response to chemical
+GO:0035194	2	GO:0001817	regulation of cytokine production
+GO:0046958	12	GO:0007588	excretion
+GO:0001172	6	GO:0051052	regulation of DNA metabolic process
+GO:0042221	11	GO:0042221	response to chemical
+GO:0019221	18	GO:1990806	ligand-gated ion channel signaling pathway
+GO:0019236	11	GO:0042221	response to chemical
+GO:0044826	9	GO:0016032	viral process
+GO:0008355	11	GO:0042221	response to chemical
+GO:1990573	20	GO:0140353	lipid export from cell
+GO:0007160	24	GO:0001906	cell killing
+GO:0061512	20	GO:0140353	lipid export from cell
+GO:0075713	9	GO:0016032	viral process
+GO:0007040	22	GO:0051276	chromosome organization
+GO:0033003	19	GO:0010941	regulation of cell death
+GO:0051938	20	GO:0140353	lipid export from cell
+GO:0097529	25	GO:0097529	myeloid leukocyte migration
+GO:0085029	22	GO:0051276	chromosome organization
+GO:0006865	20	GO:0140353	lipid export from cell
+GO:0071674	25	GO:0097529	myeloid leukocyte migration
+GO:0071675	25	GO:0097529	myeloid leukocyte migration
+GO:0015812	20	GO:0140353	lipid export from cell
+GO:0015813	20	GO:0140353	lipid export from cell
+GO:0015838	20	GO:0140353	lipid export from cell
+GO:0006835	20	GO:0140353	lipid export from cell
+GO:1990834	11	GO:0042221	response to chemical
+GO:0015800	20	GO:0140353	lipid export from cell
+GO:0042633	12	GO:0007588	excretion
+GO:0032410	21	GO:1904064	positive regulation of cation transmembrane transport
+GO:0006376	5	GO:0030388	fructose 1,6-bisphosphate metabolic process
+GO:0036065	5	GO:0030388	fructose 1,6-bisphosphate metabolic process
+GO:0014066	18	GO:1990806	ligand-gated ion channel signaling pathway
+GO:0007608	12	GO:0007588	excretion
+GO:0046765	9	GO:0016032	viral process
+GO:0007189	18	GO:1990806	ligand-gated ion channel signaling pathway
+GO:0022405	12	GO:0007588	excretion
+GO:0031668	18	GO:1990806	ligand-gated ion channel signaling pathway
+GO:0001942	16	GO:0061008	hepaticobiliary system development
+GO:0006657	5	GO:0030388	fructose 1,6-bisphosphate metabolic process
+GO:0050728	8	GO:0002759	regulation of antimicrobial humoral response
+GO:0061041	8	GO:0002759	regulation of antimicrobial humoral response
+GO:0006646	5	GO:0030388	fructose 1,6-bisphosphate metabolic process
+GO:0050916	12	GO:0007588	excretion
+GO:0006607	20	GO:0140353	lipid export from cell
+GO:1905521	25	GO:0097529	myeloid leukocyte migration
+GO:1902305	21	GO:1904064	positive regulation of cation transmembrane transport
+GO:0110134	14	GO:0009566	fertilization
+GO:0002687	25	GO:0097529	myeloid leukocyte migration
+GO:0009267	11	GO:0042221	response to chemical
+GO:0072337	20	GO:0140353	lipid export from cell
+GO:0010760	25	GO:0097529	myeloid leukocyte migration
+GO:0010764	25	GO:0097529	myeloid leukocyte migration
+GO:0010758	25	GO:0097529	myeloid leukocyte migration
+GO:1900016	2	GO:0001817	regulation of cytokine production
+GO:0070121	16	GO:0061008	hepaticobiliary system development
+GO:0032831	26	GO:0050864	regulation of B cell activation
+GO:0032832	26	GO:0050864	regulation of B cell activation
+GO:0070199	20	GO:0140353	lipid export from cell
+GO:0035235	18	GO:1990806	ligand-gated ion channel signaling pathway
+GO:0031055	22	GO:0051276	chromosome organization
+GO:0030388	5	GO:0030388	fructose 1,6-bisphosphate metabolic process
+GO:0045144	23	GO:0007080	mitotic metaphase plate congression
+GO:0009751	11	GO:0042221	response to chemical
+GO:1903003	4	GO:0010952	positive regulation of peptidase activity
+GO:1903004	4	GO:0010952	positive regulation of peptidase activity
+GO:1903006	4	GO:0010952	positive regulation of peptidase activity
+GO:0002361	26	GO:0050864	regulation of B cell activation
+GO:1903557	2	GO:0001817	regulation of cytokine production
+GO:0006509	5	GO:0030388	fructose 1,6-bisphosphate metabolic process
+GO:0051972	6	GO:0051052	regulation of DNA metabolic process
+GO:0051973	6	GO:0051052	regulation of DNA metabolic process
+GO:0046209	5	GO:0030388	fructose 1,6-bisphosphate metabolic process
+GO:0019068	9	GO:0016032	viral process
+GO:0034605	11	GO:0042221	response to chemical
+GO:0071365	11	GO:0042221	response to chemical
+GO:0033617	22	GO:0051276	chromosome organization
+GO:0033619	5	GO:0030388	fructose 1,6-bisphosphate metabolic process
+GO:0019072	9	GO:0016032	viral process
+GO:0019073	9	GO:0016032	viral process
+GO:0019835	24	GO:0001906	cell killing
+GO:0008365	16	GO:0061008	hepaticobiliary system development
+GO:0032660	2	GO:0001817	regulation of cytokine production
+GO:0032667	2	GO:0001817	regulation of cytokine production
+GO:0030435	17	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0080188	2	GO:0001817	regulation of cytokine production
+GO:0032620	1	GO:0001816	cytokine production
+GO:0035850	16	GO:0061008	hepaticobiliary system development
+GO:0032627	1	GO:0001816	cytokine production
+GO:2000738	19	GO:0010941	regulation of cell death
+GO:1900425	7	GO:0098542	defense response to other organism
+GO:0031664	18	GO:1990806	ligand-gated ion channel signaling pathway
+GO:0031666	18	GO:1990806	ligand-gated ion channel signaling pathway
+GO:0048831	15	GO:0031642	negative regulation of myelination
+GO:0042501	4	GO:0010952	positive regulation of peptidase activity
+GO:1901654	11	GO:0042221	response to chemical
+GO:1903322	4	GO:0010952	positive regulation of peptidase activity
+GO:0060551	4	GO:0010952	positive regulation of peptidase activity
+GO:0060556	4	GO:0010952	positive regulation of peptidase activity
+GO:0051715	24	GO:0001906	cell killing
+GO:0002298	26	GO:0050864	regulation of B cell activation
+GO:0060549	4	GO:0010952	positive regulation of peptidase activity
+GO:2000573	6	GO:0051052	regulation of DNA metabolic process
+GO:2000516	26	GO:0050864	regulation of B cell activation
+GO:0043372	26	GO:0050864	regulation of B cell activation
+GO:0045591	26	GO:0050864	regulation of B cell activation
+GO:0042368	5	GO:0030388	fructose 1,6-bisphosphate metabolic process
+GO:0042359	5	GO:0030388	fructose 1,6-bisphosphate metabolic process
+GO:0009399	5	GO:0030388	fructose 1,6-bisphosphate metabolic process
+GO:0015979	24	GO:0001906	cell killing
+GO:0051043	4	GO:0010952	positive regulation of peptidase activity
+GO:0032964	5	GO:0030388	fructose 1,6-bisphosphate metabolic process
+GO:0090085	4	GO:0010952	positive regulation of peptidase activity
+GO:0010661	19	GO:0010941	regulation of cell death
+GO:0033139	4	GO:0010952	positive regulation of peptidase activity
+GO:0039548	4	GO:0010952	positive regulation of peptidase activity
+GO:0007282	13	GO:0030703	eggshell formation
+GO:0032113	4	GO:0010952	positive regulation of peptidase activity
+GO:0007284	13	GO:0030703	eggshell formation
+GO:0007215	18	GO:1990806	ligand-gated ion channel signaling pathway
+GO:0044179	24	GO:0001906	cell killing
+GO:0061060	8	GO:0002759	regulation of antimicrobial humoral response
+GO:1902947	4	GO:0010952	positive regulation of peptidase activity
+GO:0031134	23	GO:0007080	mitotic metaphase plate congression
+GO:0001708	17	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0043934	17	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0050961	12	GO:0007588	excretion
+GO:1990758	23	GO:0007080	mitotic metaphase plate congression
+GO:0061005	16	GO:0061008	hepaticobiliary system development
+GO:0019954	14	GO:0009566	fertilization
+GO:2000307	2	GO:0001817	regulation of cytokine production
+GO:0009988	24	GO:0001906	cell killing
+GO:0050906	12	GO:0007588	excretion
+GO:0098722	24	GO:0001906	cell killing
+GO:0098724	24	GO:0001906	cell killing
+GO:0098725	24	GO:0001906	cell killing
+GO:0007096	23	GO:0007080	mitotic metaphase plate congression
+GO:0098729	13	GO:0030703	eggshell formation
+GO:0009909	15	GO:0031642	negative regulation of myelination
+GO:0098730	13	GO:0030703	eggshell formation
+GO:0034080	22	GO:0051276	chromosome organization
+GO:0034085	23	GO:0007080	mitotic metaphase plate congression
+GO:0007080	23	GO:0007080	mitotic metaphase plate congression
+GO:0048132	13	GO:0030703	eggshell formation
+GO:0000480	5	GO:0030388	fructose 1,6-bisphosphate metabolic process
+GO:0072535	1	GO:0001816	cytokine production
+GO:0000472	5	GO:0030388	fructose 1,6-bisphosphate metabolic process
+GO:1990806	18	GO:1990806	ligand-gated ion channel signaling pathway
+GO:0036260	6	GO:0051052	regulation of DNA metabolic process
+GO:0016037	24	GO:0001906	cell killing
+GO:0010921	4	GO:0010952	positive regulation of peptidase activity
+GO:0000967	5	GO:0030388	fructose 1,6-bisphosphate metabolic process
+GO:0032829	26	GO:0050864	regulation of B cell activation
+GO:0006809	5	GO:0030388	fructose 1,6-bisphosphate metabolic process
+GO:0046136	4	GO:0010952	positive regulation of peptidase activity
+GO:1902850	22	GO:0051276	chromosome organization
+GO:0042742	7	GO:0098542	defense response to other organism
+GO:0071652	2	GO:0001817	regulation of cytokine production
+GO:0071655	2	GO:0001817	regulation of cytokine production
+GO:0070986	16	GO:0061008	hepaticobiliary system development
+GO:0050730	4	GO:0010952	positive regulation of peptidase activity
+GO:0045137	16	GO:0061008	hepaticobiliary system development
+GO:0071610	1	GO:0001816	cytokine production
+GO:0071611	1	GO:0001816	cytokine production
+GO:1901857	4	GO:0010952	positive regulation of peptidase activity
+GO:2000273	18	GO:1990806	ligand-gated ion channel signaling pathway
+GO:0043055	16	GO:0061008	hepaticobiliary system development
+GO:1902807	19	GO:0010941	regulation of cell death
+GO:1903580	4	GO:0010952	positive regulation of peptidase activity
+GO:0009734	18	GO:1990806	ligand-gated ion channel signaling pathway
+GO:1903522	15	GO:0031642	negative regulation of myelination
+GO:0002376	27	GO:0001776	leukocyte homeostasis
+GO:0050867	19	GO:0010941	regulation of cell death
+GO:0022600	12	GO:0007588	excretion
+GO:0050850	18	GO:1990806	ligand-gated ion channel signaling pathway
+GO:0050852	18	GO:1990806	ligand-gated ion channel signaling pathway
+GO:0051924	21	GO:1904064	positive regulation of cation transmembrane transport
+GO:0051928	21	GO:1904064	positive regulation of cation transmembrane transport
+GO:0000266	22	GO:0051276	chromosome organization
+GO:0034644	11	GO:0042221	response to chemical
+GO:0042832	7	GO:0098542	defense response to other organism
+GO:0002302	26	GO:0050864	regulation of B cell activation
+GO:0000226	22	GO:0051276	chromosome organization
+GO:0019069	9	GO:0016032	viral process
+GO:0033674	4	GO:0010952	positive regulation of peptidase activity
+GO:0007600	12	GO:0007588	excretion
+GO:0009867	18	GO:1990806	ligand-gated ion channel signaling pathway
+GO:0071351	11	GO:0042221	response to chemical
+GO:0046761	9	GO:0016032	viral process
+GO:0061440	16	GO:0061008	hepaticobiliary system development
+GO:0062197	11	GO:0042221	response to chemical
+GO:0009060	5	GO:0030388	fructose 1,6-bisphosphate metabolic process
+GO:0030431	12	GO:0007588	excretion
+GO:0032653	2	GO:0001817	regulation of cytokine production
+GO:0032656	2	GO:0001817	regulation of cytokine production
+GO:0061437	16	GO:0061008	hepaticobiliary system development
+GO:0098671	9	GO:0016032	viral process
+GO:0032674	2	GO:0001817	regulation of cytokine production
+GO:0048872	27	GO:0001776	leukocyte homeostasis
+GO:0032613	1	GO:0001816	cytokine production
+GO:0032616	1	GO:0001816	cytokine production
+GO:0036037	26	GO:0050864	regulation of B cell activation
+GO:0032634	1	GO:0001816	cytokine production
+GO:0051283	19	GO:0010941	regulation of cell death
+GO:0051279	21	GO:1904064	positive regulation of cation transmembrane transport
+GO:0048016	18	GO:1990806	ligand-gated ion channel signaling pathway
+GO:1902622	25	GO:0097529	myeloid leukocyte migration
+GO:0031641	15	GO:0031642	negative regulation of myelination
+GO:0031642	15	GO:0031642	negative regulation of myelination
+GO:0031644	15	GO:0031642	negative regulation of myelination
+GO:0031638	5	GO:0030388	fructose 1,6-bisphosphate metabolic process
+GO:0071450	11	GO:0042221	response to chemical
+GO:0071451	11	GO:0042221	response to chemical
+GO:0106056	18	GO:1990806	ligand-gated ion channel signaling pathway
+GO:0046850	15	GO:0031642	negative regulation of myelination
+GO:0051209	21	GO:1904064	positive regulation of cation transmembrane transport
+GO:2000053	18	GO:1990806	ligand-gated ion channel signaling pathway
+GO:2000055	18	GO:1990806	ligand-gated ion channel signaling pathway
+GO:0060047	12	GO:0007588	excretion
+GO:1900180	19	GO:0010941	regulation of cell death
+GO:0018996	12	GO:0007588	excretion
+GO:0022412	14	GO:0009566	fertilization
+GO:0032370	21	GO:1904064	positive regulation of cation transmembrane transport
+GO:0032371	20	GO:0140353	lipid export from cell
+GO:0032374	20	GO:0140353	lipid export from cell
+GO:0051767	5	GO:0030388	fructose 1,6-bisphosphate metabolic process
+GO:0051769	4	GO:0010952	positive regulation of peptidase activity
+GO:0050670	26	GO:0050864	regulation of B cell activation
+GO:0051770	4	GO:0010952	positive regulation of peptidase activity
+GO:0008406	16	GO:0061008	hepaticobiliary system development
+GO:0045821	4	GO:0010952	positive regulation of peptidase activity
+GO:0045823	15	GO:0031642	negative regulation of myelination
+GO:0072124	15	GO:0031642	negative regulation of myelination
+GO:0072125	15	GO:0031642	negative regulation of myelination
+GO:0072110	16	GO:0061008	hepaticobiliary system development
+GO:0072111	16	GO:0061008	hepaticobiliary system development
+GO:0018158	5	GO:0030388	fructose 1,6-bisphosphate metabolic process
+GO:0070884	18	GO:1990806	ligand-gated ion channel signaling pathway
+GO:0001907	9	GO:0016032	viral process
+GO:0044332	18	GO:1990806	ligand-gated ion channel signaling pathway
+GO:0072109	16	GO:0061008	hepaticobiliary system development
+GO:1904427	21	GO:1904064	positive regulation of cation transmembrane transport
+GO:0009615	7	GO:0098542	defense response to other organism
+GO:0009617	7	GO:0098542	defense response to other organism
+GO:1904440	21	GO:1904064	positive regulation of cation transmembrane transport
+GO:0043374	26	GO:0050864	regulation of B cell activation
+GO:1904438	21	GO:1904064	positive regulation of cation transmembrane transport
+GO:0018108	5	GO:0030388	fructose 1,6-bisphosphate metabolic process
+GO:1900221	15	GO:0031642	negative regulation of myelination
+GO:1900222	15	GO:0031642	negative regulation of myelination
+GO:0043330	11	GO:0042221	response to chemical
+GO:0043331	11	GO:0042221	response to chemical
+GO:0007187	18	GO:1990806	ligand-gated ion channel signaling pathway
+GO:0045576	26	GO:0050864	regulation of B cell activation
+GO:0006952	11	GO:0042221	response to chemical
+GO:0006953	11	GO:0042221	response to chemical
+GO:0006925	24	GO:0001906	cell killing
+GO:0140353	20	GO:0140353	lipid export from cell
+GO:0033173	18	GO:1990806	ligand-gated ion channel signaling pathway
+GO:0008284	19	GO:0010941	regulation of cell death
+GO:0039573	8	GO:0002759	regulation of antimicrobial humoral response
+GO:0090022	25	GO:0097529	myeloid leukocyte migration
+GO:0010669	12	GO:0007588	excretion
+GO:0006119	5	GO:0030388	fructose 1,6-bisphosphate metabolic process
+GO:2000647	19	GO:0010941	regulation of cell death
+GO:2000648	19	GO:0010941	regulation of cell death
+GO:0008219	24	GO:0001906	cell killing
+GO:0032941	12	GO:0007588	excretion
+GO:0032944	19	GO:0010941	regulation of cell death
+GO:0045671	15	GO:0031642	negative regulation of myelination
+GO:0036301	1	GO:0001816	cytokine production
+GO:0010632	25	GO:0097529	myeloid leukocyte migration
+GO:0042475	16	GO:0061008	hepaticobiliary system development
+GO:0042476	16	GO:0061008	hepaticobiliary system development
+GO:0001780	27	GO:0001776	leukocyte homeostasis
+GO:0001781	27	GO:0001776	leukocyte homeostasis
+GO:0099601	18	GO:1990806	ligand-gated ion channel signaling pathway
+GO:0070663	19	GO:0010941	regulation of cell death
+GO:0048302	3	GO:0002889	regulation of immunoglobulin mediated immune response
+GO:0048304	3	GO:0002889	regulation of immunoglobulin mediated immune response
+GO:0033212	20	GO:0140353	lipid export from cell
+GO:0019430	11	GO:0042221	response to chemical
+GO:0060341	19	GO:0010941	regulation of cell death
+GO:0034761	21	GO:1904064	positive regulation of cation transmembrane transport
+GO:0001897	9	GO:0016032	viral process
+GO:2000310	21	GO:1904064	positive regulation of cation transmembrane transport
+GO:0030593	25	GO:0097529	myeloid leukocyte migration
+GO:0034756	21	GO:1904064	positive regulation of cation transmembrane transport
+GO:0034758	21	GO:1904064	positive regulation of cation transmembrane transport
+GO:0034759	21	GO:1904064	positive regulation of cation transmembrane transport
+GO:0072091	19	GO:0010941	regulation of cell death
+GO:2000345	15	GO:0031642	negative regulation of myelination
+GO:0002026	15	GO:0031642	negative regulation of myelination
+GO:0002027	15	GO:0031642	negative regulation of myelination
+GO:0002028	21	GO:1904064	positive regulation of cation transmembrane transport
+GO:0110011	19	GO:0010941	regulation of cell death
+GO:0072012	16	GO:0061008	hepaticobiliary system development
+GO:1904783	21	GO:1904064	positive regulation of cation transmembrane transport
+GO:0031214	16	GO:0061008	hepaticobiliary system development
+GO:0097242	12	GO:0007588	excretion
+GO:0045342	5	GO:0030388	fructose 1,6-bisphosphate metabolic process
+GO:0045346	4	GO:0010952	positive regulation of peptidase activity
+GO:0045348	4	GO:0010952	positive regulation of peptidase activity
+GO:0042100	26	GO:0050864	regulation of B cell activation
+GO:1901256	2	GO:0001817	regulation of cytokine production
+GO:1901258	2	GO:0001817	regulation of cytokine production
+GO:0040028	15	GO:0031642	negative regulation of myelination
+GO:0000303	11	GO:0042221	response to chemical
+GO:0000305	11	GO:0042221	response to chemical
+GO:0044794	9	GO:0016032	viral process
+GO:1900544	4	GO:0010952	positive regulation of peptidase activity
+GO:0046426	18	GO:1990806	ligand-gated ion channel signaling pathway
+GO:0098711	20	GO:0140353	lipid export from cell
+GO:0034067	20	GO:0140353	lipid export from cell
+GO:0072574	16	GO:0061008	hepaticobiliary system development
+GO:0072575	16	GO:0061008	hepaticobiliary system development
+GO:0072576	16	GO:0061008	hepaticobiliary system development
+GO:1904893	18	GO:1990806	ligand-gated ion channel signaling pathway
+GO:0032731	2	GO:0001817	regulation of cytokine production
+GO:0032732	2	GO:0001817	regulation of cytokine production
+GO:0045453	12	GO:0007588	excretion
+GO:0048144	24	GO:0001906	cell killing
+GO:0048145	19	GO:0010941	regulation of cell death
+GO:0048147	19	GO:0010941	regulation of cell death
+GO:0044788	9	GO:0016032	viral process
+GO:0097720	18	GO:1990806	ligand-gated ion channel signaling pathway
+GO:0006099	5	GO:0030388	fructose 1,6-bisphosphate metabolic process
+GO:0002696	19	GO:0010941	regulation of cell death
+GO:1904064	21	GO:1904064	positive regulation of cation transmembrane transport
+GO:1905936	19	GO:0010941	regulation of cell death
+GO:0048291	3	GO:0002889	regulation of immunoglobulin mediated immune response
+GO:0034599	11	GO:0042221	response to chemical
+GO:0098869	11	GO:0042221	response to chemical
+GO:0007595	16	GO:0061008	hepaticobiliary system development
+GO:0033028	24	GO:0001906	cell killing
+GO:0032880	19	GO:0010941	regulation of cell death
+GO:1901722	15	GO:0031642	negative regulation of myelination
+GO:1901723	15	GO:0031642	negative regulation of myelination
+GO:0010941	19	GO:0010941	regulation of cell death
+GO:0045981	4	GO:0010952	positive regulation of peptidase activity
+GO:0007584	11	GO:0042221	response to chemical
+GO:0007589	20	GO:0140353	lipid export from cell
+GO:0007638	11	GO:0042221	response to chemical
+GO:0006353	6	GO:0051052	regulation of DNA metabolic process
+GO:1900037	18	GO:1990806	ligand-gated ion channel signaling pathway
+GO:0098662	21	GO:1904064	positive regulation of cation transmembrane transport
+GO:0006813	20	GO:0140353	lipid export from cell
+GO:0031113	22	GO:0051276	chromosome organization
+GO:0051606	11	GO:0042221	response to chemical
+GO:0031646	15	GO:0031642	negative regulation of myelination
+GO:0072665	20	GO:0140353	lipid export from cell
+GO:0072666	20	GO:0140353	lipid export from cell
+GO:0001816	1	GO:0001816	cytokine production
+GO:0001817	2	GO:0001817	regulation of cytokine production
+GO:0001819	2	GO:0001817	regulation of cytokine production
+GO:0050982	11	GO:0042221	response to chemical
+GO:0050974	12	GO:0007588	excretion
+GO:0050975	12	GO:0007588	excretion
+GO:0001525	16	GO:0061008	hepaticobiliary system development
+GO:0048514	16	GO:0061008	hepaticobiliary system development
+GO:0010469	18	GO:1990806	ligand-gated ion channel signaling pathway
+GO:0007549	2	GO:0001817	regulation of cytokine production
+GO:0051931	12	GO:0007588	excretion
+GO:0000491	22	GO:0051276	chromosome organization
+GO:2001258	21	GO:1904064	positive regulation of cation transmembrane transport
+GO:0046662	15	GO:0031642	negative regulation of myelination
+GO:0033628	19	GO:0010941	regulation of cell death
+GO:0046008	14	GO:0009566	fertilization
+GO:0007605	12	GO:0007588	excretion
+GO:0045732	4	GO:0010952	positive regulation of peptidase activity
+GO:0042810	24	GO:0001906	cell killing
+GO:0042811	5	GO:0030388	fructose 1,6-bisphosphate metabolic process
+GO:0007219	18	GO:1990806	ligand-gated ion channel signaling pathway
+GO:0006305	6	GO:0051052	regulation of DNA metabolic process
+GO:0006306	6	GO:0051052	regulation of DNA metabolic process
+GO:0009896	4	GO:0010952	positive regulation of peptidase activity
+GO:0045924	14	GO:0009566	fertilization
+GO:0000281	23	GO:0007080	mitotic metaphase plate congression
+GO:0042176	4	GO:0010952	positive regulation of peptidase activity
+GO:0042133	24	GO:0001906	cell killing
+GO:0042135	24	GO:0001906	cell killing
+GO:0070682	22	GO:0051276	chromosome organization
+GO:0060180	14	GO:0009566	fertilization
+GO:0015804	20	GO:0140353	lipid export from cell
+GO:0006298	6	GO:0051052	regulation of DNA metabolic process
+GO:0051302	19	GO:0010941	regulation of cell death
+GO:0007129	23	GO:0007080	mitotic metaphase plate congression
+GO:0006278	6	GO:0051052	regulation of DNA metabolic process
+GO:0007229	18	GO:1990806	ligand-gated ion channel signaling pathway
+GO:0035001	16	GO:0061008	hepaticobiliary system development
+GO:0010446	11	GO:0042221	response to chemical
+GO:1901678	20	GO:0140353	lipid export from cell
+GO:0071897	6	GO:0051052	regulation of DNA metabolic process
+GO:1905477	19	GO:0010941	regulation of cell death
+GO:0008045	17	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0001818	2	GO:0001817	regulation of cytokine production
+GO:0032642	2	GO:0001817	regulation of cytokine production
+GO:0032602	1	GO:0001816	cytokine production
+GO:0097194	24	GO:0001906	cell killing
+GO:0006911	20	GO:0140353	lipid export from cell
+GO:0032675	2	GO:0001817	regulation of cytokine production
+GO:0043652	20	GO:0140353	lipid export from cell
+GO:0006869	20	GO:0140353	lipid export from cell
+GO:2000242	19	GO:0010941	regulation of cell death
+GO:0032635	1	GO:0001816	cytokine production
+GO:0019731	7	GO:0098542	defense response to other organism
+GO:0007286	13	GO:0030703	eggshell formation
+GO:0048515	13	GO:0030703	eggshell formation
+GO:0017121	20	GO:0140353	lipid export from cell
+GO:0060759	8	GO:0002759	regulation of antimicrobial humoral response
+GO:0097035	24	GO:0001906	cell killing
+GO:0034204	20	GO:0140353	lipid export from cell
+GO:1902742	17	GO:0030435	sporulation resulting in formation of a cellular spore
+GO:0030317	25	GO:0097529	myeloid leukocyte migration
+GO:0010952	4	GO:0010952	positive regulation of peptidase activity
+GO:0009651	11	GO:0042221	response to chemical
+GO:0045332	20	GO:0140353	lipid export from cell
+GO:0002274	26	GO:0050864	regulation of B cell activation

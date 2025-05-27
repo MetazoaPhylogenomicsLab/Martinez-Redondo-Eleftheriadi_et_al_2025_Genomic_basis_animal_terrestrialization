@@ -1,0 +1,325 @@
+GO:0043050	4	GO:1903998	regulation of eating behavior
+GO:0043051	4	GO:1903998	regulation of eating behavior
+GO:0044403	9	GO:0016032	viral process
+GO:0051013	15	GO:0051300	spindle pole body organization
+GO:0010994	15	GO:0051300	spindle pole body organization
+GO:0003091	14	GO:1990961	xenobiotic detoxification by transmembrane export across the plasma membrane
+GO:0003094	14	GO:1990961	xenobiotic detoxification by transmembrane export across the plasma membrane
+GO:0032211	6	GO:0032075	positive regulation of nuclease activity
+GO:0140052	10	GO:0009735	response to cytokinin
+GO:0043032	13	GO:0035206	regulation of hemocyte proliferation
+GO:0016525	12	GO:0031100	animal organ regeneration
+GO:0010951	6	GO:0032075	positive regulation of nuclease activity
+GO:0010923	6	GO:0032075	positive regulation of nuclease activity
+GO:0035199	10	GO:0009735	response to cytokinin
+GO:0032760	2	GO:0032755	positive regulation of interleukin-6 production
+GO:0036503	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0035172	15	GO:0051300	spindle pole body organization
+GO:0032755	2	GO:0032755	positive regulation of interleukin-6 production
+GO:0032757	2	GO:0032755	positive regulation of interleukin-6 production
+GO:0003009	14	GO:1990961	xenobiotic detoxification by transmembrane export across the plasma membrane
+GO:1904646	10	GO:0009735	response to cytokinin
+GO:0032720	3	GO:0032692	negative regulation of interleukin-1 production
+GO:0032727	2	GO:0032755	positive regulation of interleukin-6 production
+GO:0032728	2	GO:0032755	positive regulation of interleukin-6 production
+GO:0032729	2	GO:0032755	positive regulation of interleukin-6 production
+GO:1903265	7	GO:0043123	positive regulation of I-kappaB kinase/NF-kappaB signaling
+GO:0032715	3	GO:0032692	negative regulation of interleukin-1 production
+GO:0007338	14	GO:1990961	xenobiotic detoxification by transmembrane export across the plasma membrane
+GO:0007339	15	GO:0051300	spindle pole body organization
+GO:0032731	2	GO:0032755	positive regulation of interleukin-6 production
+GO:0032733	2	GO:0032755	positive regulation of interleukin-6 production
+GO:0032736	2	GO:0032755	positive regulation of interleukin-6 production
+GO:1903223	13	GO:0035206	regulation of hemocyte proliferation
+GO:0032700	3	GO:0032692	negative regulation of interleukin-1 production
+GO:0032707	3	GO:0032692	negative regulation of interleukin-1 production
+GO:0032897	9	GO:0016032	viral process
+GO:0050965	14	GO:1990961	xenobiotic detoxification by transmembrane export across the plasma membrane
+GO:0050966	14	GO:1990961	xenobiotic detoxification by transmembrane export across the plasma membrane
+GO:0048521	4	GO:1903998	regulation of eating behavior
+GO:0035210	12	GO:0031100	animal organ regeneration
+GO:0044790	9	GO:0016032	viral process
+GO:0001910	13	GO:0035206	regulation of hemocyte proliferation
+GO:0039557	6	GO:0032075	positive regulation of nuclease activity
+GO:0050914	14	GO:1990961	xenobiotic detoxification by transmembrane export across the plasma membrane
+GO:0001937	13	GO:0035206	regulation of hemocyte proliferation
+GO:0019530	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0032836	12	GO:0031100	animal organ regeneration
+GO:0035206	13	GO:0035206	regulation of hemocyte proliferation
+GO:0001909	15	GO:0051300	spindle pole body organization
+GO:0006027	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0039540	11	GO:0050729	positive regulation of inflammatory response
+GO:1903746	4	GO:1903998	regulation of eating behavior
+GO:0070936	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:1900543	6	GO:0032075	positive regulation of nuclease activity
+GO:0032596	14	GO:1990961	xenobiotic detoxification by transmembrane export across the plasma membrane
+GO:0048661	13	GO:0035206	regulation of hemocyte proliferation
+GO:0007160	15	GO:0051300	spindle pole body organization
+GO:0007157	15	GO:0051300	spindle pole body organization
+GO:0015746	14	GO:1990961	xenobiotic detoxification by transmembrane export across the plasma membrane
+GO:0051382	15	GO:0051300	spindle pole body organization
+GO:0051384	10	GO:0009735	response to cytokinin
+GO:0043388	14	GO:1990961	xenobiotic detoxification by transmembrane export across the plasma membrane
+GO:0032570	10	GO:0009735	response to cytokinin
+GO:0071368	10	GO:0009735	response to cytokinin
+GO:0071351	10	GO:0009735	response to cytokinin
+GO:0071356	10	GO:0009735	response to cytokinin
+GO:0039663	9	GO:0016032	viral process
+GO:0032515	6	GO:0032075	positive regulation of nuclease activity
+GO:0039686	9	GO:0016032	viral process
+GO:1903883	7	GO:0043123	positive regulation of I-kappaB kinase/NF-kappaB signaling
+GO:1903886	2	GO:0032755	positive regulation of interleukin-6 production
+GO:0051300	15	GO:0051300	spindle pole body organization
+GO:0032505	14	GO:1990961	xenobiotic detoxification by transmembrane export across the plasma membrane
+GO:0032508	15	GO:0051300	spindle pole body organization
+GO:0039644	6	GO:0032075	positive regulation of nuclease activity
+GO:0007291	12	GO:0031100	animal organ regeneration
+GO:0000183	6	GO:0032075	positive regulation of nuclease activity
+GO:0071300	10	GO:0009735	response to cytokinin
+GO:0032691	3	GO:0032692	negative regulation of interleukin-1 production
+GO:0032692	3	GO:0032692	negative regulation of interleukin-1 production
+GO:0007252	8	GO:0035590	purinergic nucleotide receptor signaling pathway
+GO:0015840	14	GO:1990961	xenobiotic detoxification by transmembrane export across the plasma membrane
+GO:0051458	14	GO:1990961	xenobiotic detoxification by transmembrane export across the plasma membrane
+GO:0051459	14	GO:1990961	xenobiotic detoxification by transmembrane export across the plasma membrane
+GO:0032651	3	GO:0032692	negative regulation of interleukin-1 production
+GO:0032652	3	GO:0032692	negative regulation of interleukin-1 production
+GO:0031100	12	GO:0031100	animal organ regeneration
+GO:0035821	9	GO:0016032	viral process
+GO:0032689	3	GO:0032692	negative regulation of interleukin-1 production
+GO:0007218	8	GO:0035590	purinergic nucleotide receptor signaling pathway
+GO:0071456	10	GO:0009735	response to cytokinin
+GO:0032611	1	GO:0032612	interleukin-1 production
+GO:0032612	1	GO:0032612	interleukin-1 production
+GO:0051438	14	GO:1990961	xenobiotic detoxification by transmembrane export across the plasma membrane
+GO:0009083	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0043406	7	GO:0043123	positive regulation of I-kappaB kinase/NF-kappaB signaling
+GO:0035590	8	GO:0035590	purinergic nucleotide receptor signaling pathway
+GO:0042045	14	GO:1990961	xenobiotic detoxification by transmembrane export across the plasma membrane
+GO:0000270	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0000271	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0080154	13	GO:0035206	regulation of hemocyte proliferation
+GO:0051155	13	GO:0035206	regulation of hemocyte proliferation
+GO:0120163	3	GO:0032692	negative regulation of interleukin-1 production
+GO:0035584	8	GO:0035590	purinergic nucleotide receptor signaling pathway
+GO:0035589	8	GO:0035590	purinergic nucleotide receptor signaling pathway
+GO:0002076	12	GO:0031100	animal organ regeneration
+GO:0043123	7	GO:0043123	positive regulation of I-kappaB kinase/NF-kappaB signaling
+GO:0046330	7	GO:0043123	positive regulation of I-kappaB kinase/NF-kappaB signaling
+GO:0060259	4	GO:1903998	regulation of eating behavior
+GO:0034050	11	GO:0050729	positive regulation of inflammatory response
+GO:0072665	14	GO:1990961	xenobiotic detoxification by transmembrane export across the plasma membrane
+GO:0051295	15	GO:0051300	spindle pole body organization
+GO:0060249	14	GO:1990961	xenobiotic detoxification by transmembrane export across the plasma membrane
+GO:0014002	12	GO:0031100	animal organ regeneration
+GO:0035666	8	GO:0035590	purinergic nucleotide receptor signaling pathway
+GO:2001238	7	GO:0043123	positive regulation of I-kappaB kinase/NF-kappaB signaling
+GO:0000737	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0043278	10	GO:0009735	response to cytokinin
+GO:0071260	10	GO:0009735	response to cytokinin
+GO:0051216	12	GO:0031100	animal organ regeneration
+GO:1902230	7	GO:0043123	positive regulation of I-kappaB kinase/NF-kappaB signaling
+GO:0000706	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0043248	15	GO:0051300	spindle pole body organization
+GO:0051231	15	GO:0051300	spindle pole body organization
+GO:0071223	10	GO:0009735	response to cytokinin
+GO:0031860	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0006470	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0060729	14	GO:1990961	xenobiotic detoxification by transmembrane export across the plasma membrane
+GO:0006406	14	GO:1990961	xenobiotic detoxification by transmembrane export across the plasma membrane
+GO:0051782	13	GO:0035206	regulation of hemocyte proliferation
+GO:0051770	6	GO:0032075	positive regulation of nuclease activity
+GO:0007534	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0051701	9	GO:0016032	viral process
+GO:0038166	8	GO:0035590	purinergic nucleotide receptor signaling pathway
+GO:0031505	15	GO:0051300	spindle pole body organization
+GO:1903998	4	GO:1903998	regulation of eating behavior
+GO:0002322	14	GO:1990961	xenobiotic detoxification by transmembrane export across the plasma membrane
+GO:0071852	15	GO:0051300	spindle pole body organization
+GO:0002347	10	GO:0009735	response to cytokinin
+GO:0022413	14	GO:1990961	xenobiotic detoxification by transmembrane export across the plasma membrane
+GO:0071827	15	GO:0051300	spindle pole body organization
+GO:0031663	8	GO:0035590	purinergic nucleotide receptor signaling pathway
+GO:1903974	7	GO:0043123	positive regulation of I-kappaB kinase/NF-kappaB signaling
+GO:0009411	14	GO:1990961	xenobiotic detoxification by transmembrane export across the plasma membrane
+GO:0006278	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0042475	12	GO:0031100	animal organ regeneration
+GO:0034377	13	GO:0035206	regulation of hemocyte proliferation
+GO:0046755	9	GO:0016032	viral process
+GO:1905777	6	GO:0032075	positive regulation of nuclease activity
+GO:1905779	6	GO:0032075	positive regulation of nuclease activity
+GO:0031639	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0043553	6	GO:0032075	positive regulation of nuclease activity
+GO:0046717	14	GO:1990961	xenobiotic detoxification by transmembrane export across the plasma membrane
+GO:0046718	9	GO:0016032	viral process
+GO:0071555	15	GO:0051300	spindle pole body organization
+GO:0009155	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0009143	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0045348	6	GO:0032075	positive regulation of nuclease activity
+GO:1990266	14	GO:1990961	xenobiotic detoxification by transmembrane export across the plasma membrane
+GO:1990268	10	GO:0009735	response to cytokinin
+GO:0002152	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0046813	9	GO:0016032	viral process
+GO:0071655	3	GO:0032692	negative regulation of interleukin-1 production
+GO:0009253	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:1901256	3	GO:0032692	negative regulation of interleukin-1 production
+GO:0061057	8	GO:0035590	purinergic nucleotide receptor signaling pathway
+GO:0034197	14	GO:1990961	xenobiotic detoxification by transmembrane export across the plasma membrane
+GO:0046802	9	GO:0016032	viral process
+GO:0045471	10	GO:0009735	response to cytokinin
+GO:0071611	1	GO:0032612	interleukin-1 production
+GO:1901224	7	GO:0043123	positive regulation of I-kappaB kinase/NF-kappaB signaling
+GO:0045429	6	GO:0032075	positive regulation of nuclease activity
+GO:0009215	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0045444	15	GO:0051300	spindle pole body organization
+GO:0033005	13	GO:0035206	regulation of hemocyte proliferation
+GO:0006842	14	GO:1990961	xenobiotic detoxification by transmembrane export across the plasma membrane
+GO:0042244	15	GO:0051300	spindle pole body organization
+GO:0006839	14	GO:1990961	xenobiotic detoxification by transmembrane export across the plasma membrane
+GO:0034142	8	GO:0035590	purinergic nucleotide receptor signaling pathway
+GO:0034145	7	GO:0043123	positive regulation of I-kappaB kinase/NF-kappaB signaling
+GO:0002246	11	GO:0050729	positive regulation of inflammatory response
+GO:0034293	15	GO:0051300	spindle pole body organization
+GO:0002230	11	GO:0050729	positive regulation of inflammatory response
+GO:1990700	15	GO:0051300	spindle pole body organization
+GO:0042755	4	GO:1903998	regulation of eating behavior
+GO:0016064	14	GO:1990961	xenobiotic detoxification by transmembrane export across the plasma membrane
+GO:0010493	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0009735	10	GO:0009735	response to cytokinin
+GO:0006541	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0006544	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0098868	12	GO:0031100	animal organ regeneration
+GO:0042730	13	GO:0035206	regulation of hemocyte proliferation
+GO:0097300	15	GO:0051300	spindle pole body organization
+GO:1904000	4	GO:1903998	regulation of eating behavior
+GO:0002755	8	GO:0035590	purinergic nucleotide receptor signaling pathway
+GO:0016032	9	GO:0016032	viral process
+GO:0002781	11	GO:0050729	positive regulation of inflammatory response
+GO:0002788	11	GO:0050729	positive regulation of inflammatory response
+GO:0006691	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0006699	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0002730	3	GO:0032692	negative regulation of interleukin-1 production
+GO:0006683	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0002703	13	GO:0035206	regulation of hemocyte proliferation
+GO:2000343	2	GO:0032755	positive regulation of interleukin-6 production
+GO:0030433	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0090305	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0006637	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0070373	7	GO:0043123	positive regulation of I-kappaB kinase/NF-kappaB signaling
+GO:0070374	7	GO:0043123	positive regulation of I-kappaB kinase/NF-kappaB signaling
+GO:0060907	2	GO:0032755	positive regulation of interleukin-6 production
+GO:0097150	12	GO:0031100	animal organ regeneration
+GO:0051930	14	GO:1990961	xenobiotic detoxification by transmembrane export across the plasma membrane
+GO:0043934	12	GO:0031100	animal organ regeneration
+GO:0043935	15	GO:0051300	spindle pole body organization
+GO:0019062	9	GO:0016032	viral process
+GO:0019065	9	GO:0016032	viral process
+GO:0019068	9	GO:0016032	viral process
+GO:0071918	14	GO:1990961	xenobiotic detoxification by transmembrane export across the plasma membrane
+GO:0014823	10	GO:0009735	response to cytokinin
+GO:0019054	9	GO:0016032	viral process
+GO:0002804	11	GO:0050729	positive regulation of inflammatory response
+GO:0045736	6	GO:0032075	positive regulation of nuclease activity
+GO:0019042	9	GO:0016032	viral process
+GO:0019045	9	GO:0016032	viral process
+GO:0019046	9	GO:0016032	viral process
+GO:0019048	9	GO:0016032	viral process
+GO:0098670	9	GO:0016032	viral process
+GO:0009691	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:1900017	2	GO:0032755	positive regulation of interleukin-6 production
+GO:0070430	7	GO:0043123	positive regulation of I-kappaB kinase/NF-kappaB signaling
+GO:0097264	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0070434	7	GO:0043123	positive regulation of I-kappaB kinase/NF-kappaB signaling
+GO:1901664	14	GO:1990961	xenobiotic detoxification by transmembrane export across the plasma membrane
+GO:1901666	14	GO:1990961	xenobiotic detoxification by transmembrane export across the plasma membrane
+GO:2000181	12	GO:0031100	animal organ regeneration
+GO:0002537	11	GO:0050729	positive regulation of inflammatory response
+GO:0009626	11	GO:0050729	positive regulation of inflammatory response
+GO:0097210	10	GO:0009735	response to cytokinin
+GO:0097211	10	GO:0009735	response to cytokinin
+GO:0032088	6	GO:0032075	positive regulation of nuclease activity
+GO:0061448	12	GO:0031100	animal organ regeneration
+GO:0010791	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0032075	6	GO:0032075	positive regulation of nuclease activity
+GO:0016311	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:1905941	12	GO:0031100	animal organ regeneration
+GO:1905939	12	GO:0031100	animal organ regeneration
+GO:0034508	15	GO:0051300	spindle pole body organization
+GO:2000252	4	GO:1903998	regulation of eating behavior
+GO:2000253	4	GO:1903998	regulation of eating behavior
+GO:0090219	6	GO:0032075	positive regulation of nuclease activity
+GO:1904466	14	GO:1990961	xenobiotic detoxification by transmembrane export across the plasma membrane
+GO:0006963	11	GO:0050729	positive regulation of inflammatory response
+GO:2000272	8	GO:0035590	purinergic nucleotide receptor signaling pathway
+GO:0006954	11	GO:0050729	positive regulation of inflammatory response
+GO:0036301	1	GO:0032612	interleukin-1 production
+GO:0070293	14	GO:1990961	xenobiotic detoxification by transmembrane export across the plasma membrane
+GO:0097746	14	GO:1990961	xenobiotic detoxification by transmembrane export across the plasma membrane
+GO:0006919	6	GO:0032075	positive regulation of nuclease activity
+GO:0036462	8	GO:0035590	purinergic nucleotide receptor signaling pathway
+GO:0044060	13	GO:0035206	regulation of hemocyte proliferation
+GO:0030890	13	GO:0035206	regulation of hemocyte proliferation
+GO:0044068	9	GO:0016032	viral process
+GO:0034637	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0010811	13	GO:0035206	regulation of hemocyte proliferation
+GO:0070233	14	GO:1990961	xenobiotic detoxification by transmembrane export across the plasma membrane
+GO:0015074	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0045666	13	GO:0035206	regulation of hemocyte proliferation
+GO:0035070	12	GO:0031100	animal organ regeneration
+GO:0035071	12	GO:0031100	animal organ regeneration
+GO:0044003	9	GO:0016032	viral process
+GO:0035073	12	GO:0031100	animal organ regeneration
+GO:0001774	14	GO:1990961	xenobiotic detoxification by transmembrane export across the plasma membrane
+GO:0033209	8	GO:0035590	purinergic nucleotide receptor signaling pathway
+GO:0010594	13	GO:0035206	regulation of hemocyte proliferation
+GO:0010596	13	GO:0035206	regulation of hemocyte proliferation
+GO:0030809	6	GO:0032075	positive regulation of nuclease activity
+GO:1990961	14	GO:1990961	xenobiotic detoxification by transmembrane export across the plasma membrane
+GO:0050729	11	GO:0050729	positive regulation of inflammatory response
+GO:0035002	12	GO:0031100	animal organ regeneration
+GO:0010572	13	GO:0035206	regulation of hemocyte proliferation
+GO:0070726	15	GO:0051300	spindle pole body organization
+GO:0036120	10	GO:0009735	response to cytokinin
+GO:0001894	14	GO:1990961	xenobiotic detoxification by transmembrane export across the plasma membrane
+GO:1901978	13	GO:0035206	regulation of hemocyte proliferation
+GO:0010508	6	GO:0032075	positive regulation of nuclease activity
+GO:0001889	12	GO:0031100	animal organ regeneration
+GO:0001824	12	GO:0031100	animal organ regeneration
+GO:0036293	10	GO:0009735	response to cytokinin
+GO:0055064	14	GO:1990961	xenobiotic detoxification by transmembrane export across the plasma membrane
+GO:0050829	11	GO:0050729	positive regulation of inflammatory response
+GO:0050819	13	GO:0035206	regulation of hemocyte proliferation
+GO:0055075	14	GO:1990961	xenobiotic detoxification by transmembrane export across the plasma membrane
+GO:0016239	6	GO:0032075	positive regulation of nuclease activity
+GO:0007095	14	GO:1990961	xenobiotic detoxification by transmembrane export across the plasma membrane
+GO:0016201	12	GO:0031100	animal organ regeneration
+GO:0010633	13	GO:0035206	regulation of hemocyte proliferation
+GO:0032497	10	GO:0009735	response to cytokinin
+GO:0007056	15	GO:0051300	spindle pole body organization
+GO:0030643	14	GO:1990961	xenobiotic detoxification by transmembrane export across the plasma membrane
+GO:0001580	14	GO:1990961	xenobiotic detoxification by transmembrane export across the plasma membrane
+GO:0014911	13	GO:0035206	regulation of hemocyte proliferation
+GO:0090502	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0070590	15	GO:0051300	spindle pole body organization
+GO:0007014	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0048147	13	GO:0035206	regulation of hemocyte proliferation
+GO:0040013	13	GO:0035206	regulation of hemocyte proliferation
+GO:0040015	13	GO:0035206	regulation of hemocyte proliferation
+GO:0033555	11	GO:0050729	positive regulation of inflammatory response
+GO:0070542	10	GO:0009735	response to cytokinin
+GO:0000022	15	GO:0051300	spindle pole body organization
+GO:0031048	6	GO:0032075	positive regulation of nuclease activity
+GO:0050691	11	GO:0050729	positive regulation of inflammatory response
+GO:0045980	6	GO:0032075	positive regulation of nuclease activity
+GO:0001666	11	GO:0050729	positive regulation of inflammatory response
+GO:0035383	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0001656	12	GO:0031100	animal organ regeneration
+GO:2000646	6	GO:0032075	positive regulation of nuclease activity
+GO:0045916	11	GO:0050729	positive regulation of inflammatory response
+GO:0001675	15	GO:0051300	spindle pole body organization
+GO:0033692	5	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0019233	14	GO:1990961	xenobiotic detoxification by transmembrane export across the plasma membrane
+GO:1903427	6	GO:0032075	positive regulation of nuclease activity
+GO:1903428	6	GO:0032075	positive regulation of nuclease activity
+GO:0051092	6	GO:0032075	positive regulation of nuclease activity
+GO:1900227	15	GO:0051300	spindle pole body organization

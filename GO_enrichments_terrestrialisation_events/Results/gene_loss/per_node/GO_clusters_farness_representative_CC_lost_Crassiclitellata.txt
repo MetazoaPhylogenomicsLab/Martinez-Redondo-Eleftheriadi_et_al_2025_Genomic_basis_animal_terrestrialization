@@ -1,0 +1,35 @@
+GO:0019013	2	GO:0019028	viral capsid
+GO:0051233	4	GO:0036379	myofilament
+GO:0019031	2	GO:0019028	viral capsid
+GO:0019033	2	GO:0019028	viral capsid
+GO:0042025	1	GO:0033643	host cell part
+GO:0042729	4	GO:0036379	myofilament
+GO:0008076	3	GO:0008076	voltage-gated potassium channel complex
+GO:0070939	4	GO:0036379	myofilament
+GO:0020002	1	GO:0033643	host cell part
+GO:0045171	4	GO:0036379	myofilament
+GO:0044174	1	GO:0033643	host cell part
+GO:0044177	1	GO:0033643	host cell part
+GO:0034705	3	GO:0008076	voltage-gated potassium channel complex
+GO:0032133	4	GO:0036379	myofilament
+GO:0036379	4	GO:0036379	myofilament
+GO:0005694	4	GO:0036379	myofilament
+GO:0043657	1	GO:0033643	host cell part
+GO:0055036	2	GO:0019028	viral capsid
+GO:0106094	3	GO:0008076	voltage-gated potassium channel complex
+GO:0033643	1	GO:0033643	host cell part
+GO:0033644	1	GO:0033643	host cell part
+GO:0009898	3	GO:0008076	voltage-gated potassium channel complex
+GO:0018995	1	GO:0033643	host cell part
+GO:0035631	3	GO:0008076	voltage-gated potassium channel complex
+GO:0016605	4	GO:0036379	myofilament
+GO:0034992	4	GO:0036379	myofilament
+GO:0034993	3	GO:0008076	voltage-gated potassium channel complex
+GO:0070176	4	GO:0036379	myofilament
+GO:0106083	3	GO:0008076	voltage-gated potassium channel complex
+GO:0005861	4	GO:0036379	myofilament
+GO:0032982	4	GO:0036379	myofilament
+GO:0000812	4	GO:0036379	myofilament
+GO:0030430	1	GO:0033643	host cell part
+GO:0042581	4	GO:0036379	myofilament
+GO:0019028	2	GO:0019028	viral capsid

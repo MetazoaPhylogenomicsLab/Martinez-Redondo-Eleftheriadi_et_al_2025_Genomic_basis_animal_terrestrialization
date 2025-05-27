@@ -1,0 +1,111 @@
+GO:0003968	4	GO:0070001	aspartic-type peptidase activity
+GO:0003953	4	GO:0070001	aspartic-type peptidase activity
+GO:0005277	3	GO:0005216	ion channel activity
+GO:0042834	8	GO:0001786	phosphatidylserine binding
+GO:0016936	8	GO:0001786	phosphatidylserine binding
+GO:0005213	5	GO:0003700	DNA-binding transcription factor activity
+GO:0005216	3	GO:0005216	ion channel activity
+GO:0004185	4	GO:0070001	aspartic-type peptidase activity
+GO:0004950	2	GO:0004930	G protein-coupled receptor activity
+GO:0005249	3	GO:0005216	ion channel activity
+GO:0004983	2	GO:0004930	G protein-coupled receptor activity
+GO:0035035	7	GO:0097110	scaffold protein binding
+GO:0140326	4	GO:0070001	aspartic-type peptidase activity
+GO:0048185	9	GO:0019865	immunoglobulin binding
+GO:0015267	3	GO:0005216	ion channel activity
+GO:0004519	4	GO:0070001	aspartic-type peptidase activity
+GO:0070976	7	GO:0097110	scaffold protein binding
+GO:0015280	3	GO:0005216	ion channel activity
+GO:0004945	2	GO:0004930	G protein-coupled receptor activity
+GO:0004930	2	GO:0004930	G protein-coupled receptor activity
+GO:0001664	7	GO:0097110	scaffold protein binding
+GO:0015277	3	GO:0005216	ion channel activity
+GO:0008227	2	GO:0004930	G protein-coupled receptor activity
+GO:0038023	2	GO:0004930	G protein-coupled receptor activity
+GO:0070530	7	GO:0097110	scaffold protein binding
+GO:0003691	6	GO:0003677	DNA binding
+GO:0035198	6	GO:0003677	DNA binding
+GO:0004908	2	GO:0004930	G protein-coupled receptor activity
+GO:0001227	5	GO:0003700	DNA-binding transcription factor activity
+GO:0001228	5	GO:0003700	DNA-binding transcription factor activity
+GO:0051434	7	GO:0097110	scaffold protein binding
+GO:0042923	8	GO:0001786	phosphatidylserine binding
+GO:0000981	5	GO:0003700	DNA-binding transcription factor activity
+GO:0008201	8	GO:0001786	phosphatidylserine binding
+GO:0000977	6	GO:0003677	DNA binding
+GO:0000978	6	GO:0003677	DNA binding
+GO:0032422	6	GO:0003677	DNA binding
+GO:0003680	6	GO:0003677	DNA binding
+GO:0005326	3	GO:0005216	ion channel activity
+GO:0004252	4	GO:0070001	aspartic-type peptidase activity
+GO:0003677	6	GO:0003677	DNA binding
+GO:0001604	2	GO:0004930	G protein-coupled receptor activity
+GO:0004675	1	GO:0004675	transmembrane receptor protein serine/threonine kinase activity
+GO:0036122	7	GO:0097110	scaffold protein binding
+GO:0098821	1	GO:0004675	transmembrane receptor protein serine/threonine kinase activity
+GO:0061629	7	GO:0097110	scaffold protein binding
+GO:0001786	8	GO:0001786	phosphatidylserine binding
+GO:0019862	9	GO:0019865	immunoglobulin binding
+GO:0019864	9	GO:0019865	immunoglobulin binding
+GO:0019865	9	GO:0019865	immunoglobulin binding
+GO:0005080	7	GO:0097110	scaffold protein binding
+GO:0050431	7	GO:0097110	scaffold protein binding
+GO:0071855	7	GO:0097110	scaffold protein binding
+GO:0003713	5	GO:0003700	DNA-binding transcription factor activity
+GO:0005031	2	GO:0004930	G protein-coupled receptor activity
+GO:0097110	7	GO:0097110	scaffold protein binding
+GO:0046332	7	GO:0097110	scaffold protein binding
+GO:0004725	4	GO:0070001	aspartic-type peptidase activity
+GO:0016493	2	GO:0004930	G protein-coupled receptor activity
+GO:0034987	7	GO:0097110	scaffold protein binding
+GO:0005001	1	GO:0004675	transmembrane receptor protein serine/threonine kinase activity
+GO:0033130	7	GO:0097110	scaffold protein binding
+GO:0008083	7	GO:0097110	scaffold protein binding
+GO:0022841	3	GO:0005216	ion channel activity
+GO:0019198	1	GO:0004675	transmembrane receptor protein serine/threonine kinase activity
+GO:0003700	5	GO:0003700	DNA-binding transcription factor activity
+GO:0050997	9	GO:0019865	immunoglobulin binding
+GO:0097108	7	GO:0097110	scaffold protein binding
+GO:0008013	7	GO:0097110	scaffold protein binding
+GO:0022803	3	GO:0005216	ion channel activity
+GO:0030594	2	GO:0004930	G protein-coupled receptor activity
+GO:0004709	1	GO:0004675	transmembrane receptor protein serine/threonine kinase activity
+GO:0019966	7	GO:0097110	scaffold protein binding
+GO:0030165	7	GO:0097110	scaffold protein binding
+GO:0048306	7	GO:0097110	scaffold protein binding
+GO:0002020	7	GO:0097110	scaffold protein binding
+GO:0005154	7	GO:0097110	scaffold protein binding
+GO:0039706	7	GO:0097110	scaffold protein binding
+GO:0045028	2	GO:0004930	G protein-coupled receptor activity
+GO:0031210	8	GO:0001786	phosphatidylserine binding
+GO:1990837	6	GO:0003677	DNA binding
+GO:0005184	7	GO:0097110	scaffold protein binding
+GO:0043325	8	GO:0001786	phosphatidylserine binding
+GO:0050135	4	GO:0070001	aspartic-type peptidase activity
+GO:0030971	7	GO:0097110	scaffold protein binding
+GO:0030527	5	GO:0003700	DNA-binding transcription factor activity
+GO:0005119	7	GO:0097110	scaffold protein binding
+GO:0042302	5	GO:0003700	DNA-binding transcription factor activity
+GO:0004888	2	GO:0004930	G protein-coupled receptor activity
+GO:0005544	8	GO:0001786	phosphatidylserine binding
+GO:0005545	8	GO:0001786	phosphatidylserine binding
+GO:0005546	8	GO:0001786	phosphatidylserine binding
+GO:0005549	9	GO:0019865	immunoglobulin binding
+GO:0030547	5	GO:0003700	DNA-binding transcription factor activity
+GO:0030548	5	GO:0003700	DNA-binding transcription factor activity
+GO:0070851	7	GO:0097110	scaffold protein binding
+GO:0017002	1	GO:0004675	transmembrane receptor protein serine/threonine kinase activity
+GO:0005534	8	GO:0001786	phosphatidylserine binding
+GO:0005539	8	GO:0001786	phosphatidylserine binding
+GO:0001595	2	GO:0004930	G protein-coupled receptor activity
+GO:0019902	7	GO:0097110	scaffold protein binding
+GO:0008188	2	GO:0004930	G protein-coupled receptor activity
+GO:0050693	7	GO:0097110	scaffold protein binding
+GO:0048019	7	GO:0097110	scaffold protein binding
+GO:0043495	5	GO:0003700	DNA-binding transcription factor activity
+GO:0070840	9	GO:0019865	immunoglobulin binding
+GO:0008528	2	GO:0004930	G protein-coupled receptor activity
+GO:0070001	4	GO:0070001	aspartic-type peptidase activity
+GO:0004190	4	GO:0070001	aspartic-type peptidase activity
+GO:0061809	4	GO:0070001	aspartic-type peptidase activity
+GO:0003964	4	GO:0070001	aspartic-type peptidase activity

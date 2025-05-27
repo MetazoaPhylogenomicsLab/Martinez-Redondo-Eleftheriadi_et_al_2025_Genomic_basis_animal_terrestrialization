@@ -1,0 +1,16 @@
+GO:0005125	2	GO:0090729	toxin activity
+GO:0004862	1	GO:0004857	enzyme inhibitor activity
+GO:0004865	1	GO:0004857	enzyme inhibitor activity
+GO:0004857	1	GO:0004857	enzyme inhibitor activity
+GO:0005149	2	GO:0090729	toxin activity
+GO:0005133	2	GO:0090729	toxin activity
+GO:0005139	2	GO:0090729	toxin activity
+GO:1990846	1	GO:0004857	enzyme inhibitor activity
+GO:0048018	2	GO:0090729	toxin activity
+GO:0005496	2	GO:0090729	toxin activity
+GO:0004517	2	GO:0090729	toxin activity
+GO:0008603	1	GO:0004857	enzyme inhibitor activity
+GO:0008417	2	GO:0090729	toxin activity
+GO:0120160	2	GO:0090729	toxin activity
+GO:0090729	2	GO:0090729	toxin activity
+GO:0005179	2	GO:0090729	toxin activity

@@ -1,0 +1,476 @@
+GO:0016577	5	GO:0031365	N-terminal protein amino acid modification
+GO:1902985	16	GO:0140253	cell-cell fusion
+GO:1902975	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0003431	9	GO:0048569	post-embryonic animal organ development
+GO:0097552	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0035199	13	GO:0010034	response to acetate
+GO:1904263	8	GO:1901184	regulation of ERBB signaling pathway
+GO:0035166	9	GO:0048569	post-embryonic animal organ development
+GO:0035167	9	GO:0048569	post-embryonic animal organ development
+GO:0070096	16	GO:0140253	cell-cell fusion
+GO:1904271	11	GO:0006820	anion transport
+GO:0042953	11	GO:0006820	anion transport
+GO:1902905	17	GO:1901978	positive regulation of cell cycle checkpoint
+GO:1901184	8	GO:1901184	regulation of ERBB signaling pathway
+GO:0055085	19	GO:0050765	negative regulation of phagocytosis
+GO:0070050	18	GO:0034383	low-density lipoprotein particle clearance
+GO:0070076	5	GO:0031365	N-terminal protein amino acid modification
+GO:1990264	5	GO:0031365	N-terminal protein amino acid modification
+GO:0033866	1	GO:0034033	purine nucleoside bisphosphate biosynthetic process
+GO:0061057	8	GO:1901184	regulation of ERBB signaling pathway
+GO:0035264	9	GO:0048569	post-embryonic animal organ development
+GO:0051603	5	GO:0031365	N-terminal protein amino acid modification
+GO:0051604	5	GO:0031365	N-terminal protein amino acid modification
+GO:0032095	15	GO:0050688	regulation of defense response to virus
+GO:0032097	15	GO:0050688	regulation of defense response to virus
+GO:1904778	17	GO:1901978	positive regulation of cell cycle checkpoint
+GO:0001937	17	GO:1901978	positive regulation of cell cycle checkpoint
+GO:0044790	12	GO:0044793	negative regulation by host of viral process
+GO:0044793	12	GO:0044793	negative regulation by host of viral process
+GO:0008154	16	GO:0140253	cell-cell fusion
+GO:0032074	2	GO:2000653	regulation of genetic imprinting
+GO:0075130	12	GO:0044793	negative regulation by host of viral process
+GO:0075131	12	GO:0044793	negative regulation by host of viral process
+GO:0044784	17	GO:1901978	positive regulation of cell cycle checkpoint
+GO:1990758	16	GO:0140253	cell-cell fusion
+GO:0003231	9	GO:0048569	post-embryonic animal organ development
+GO:0000070	16	GO:0140253	cell-cell fusion
+GO:0044726	2	GO:2000653	regulation of genetic imprinting
+GO:0032008	8	GO:1901184	regulation of ERBB signaling pathway
+GO:0006963	15	GO:0050688	regulation of defense response to virus
+GO:0006956	15	GO:0050688	regulation of defense response to virus
+GO:0006958	15	GO:0050688	regulation of defense response to virus
+GO:0044706	18	GO:0034383	low-density lipoprotein particle clearance
+GO:0030381	10	GO:0001570	vasculogenesis
+GO:0030382	16	GO:0140253	cell-cell fusion
+GO:0046146	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0008291	7	GO:0042810	pheromone metabolic process
+GO:0035725	11	GO:0006820	anion transport
+GO:0030325	9	GO:0048569	post-embryonic animal organ development
+GO:0030316	9	GO:0048569	post-embryonic animal organ development
+GO:0006949	10	GO:0001570	vasculogenesis
+GO:0033696	2	GO:2000653	regulation of genetic imprinting
+GO:1903053	17	GO:1901978	positive regulation of cell cycle checkpoint
+GO:0035701	16	GO:0140253	cell-cell fusion
+GO:0030307	17	GO:1901978	positive regulation of cell cycle checkpoint
+GO:0060992	13	GO:0010034	response to acetate
+GO:0008210	7	GO:0042810	pheromone metabolic process
+GO:1903027	19	GO:0050765	negative regulation of phagocytosis
+GO:0030497	6	GO:1900619	acetate ester metabolic process
+GO:0060963	2	GO:2000653	regulation of genetic imprinting
+GO:0033674	4	GO:0010628	positive regulation of gene expression
+GO:1904555	11	GO:0006820	anion transport
+GO:0008209	7	GO:0042810	pheromone metabolic process
+GO:0150104	11	GO:0006820	anion transport
+GO:1901888	17	GO:1901978	positive regulation of cell cycle checkpoint
+GO:0010034	13	GO:0010034	response to acetate
+GO:0051963	10	GO:0001570	vasculogenesis
+GO:0051965	10	GO:0001570	vasculogenesis
+GO:0018108	5	GO:0031365	N-terminal protein amino acid modification
+GO:0070371	8	GO:1901184	regulation of ERBB signaling pathway
+GO:0046208	6	GO:1900619	acetate ester metabolic process
+GO:0070372	8	GO:1901184	regulation of ERBB signaling pathway
+GO:0051987	17	GO:1901978	positive regulation of cell cycle checkpoint
+GO:0044550	6	GO:1900619	acetate ester metabolic process
+GO:0035803	10	GO:0001570	vasculogenesis
+GO:0051923	7	GO:0042810	pheromone metabolic process
+GO:0043007	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0046761	12	GO:0044793	negative regulation by host of viral process
+GO:0046753	12	GO:0044793	negative regulation by host of viral process
+GO:0070303	8	GO:1901184	regulation of ERBB signaling pathway
+GO:0030166	6	GO:1900619	acetate ester metabolic process
+GO:0002077	5	GO:0031365	N-terminal protein amino acid modification
+GO:0030150	11	GO:0006820	anion transport
+GO:0046716	18	GO:0034383	low-density lipoprotein particle clearance
+GO:2001251	17	GO:1901978	positive regulation of cell cycle checkpoint
+GO:0035584	8	GO:1901184	regulation of ERBB signaling pathway
+GO:0030183	9	GO:0048569	post-embryonic animal organ development
+GO:2001270	4	GO:0010628	positive regulation of gene expression
+GO:0035524	11	GO:0006820	anion transport
+GO:2001228	15	GO:0050688	regulation of defense response to virus
+GO:0018208	5	GO:0031365	N-terminal protein amino acid modification
+GO:0032370	19	GO:0050765	negative regulation of phagocytosis
+GO:1901536	2	GO:2000653	regulation of genetic imprinting
+GO:0032328	11	GO:0006820	anion transport
+GO:0000372	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0007091	17	GO:1901978	positive regulation of cell cycle checkpoint
+GO:0007094	17	GO:1901978	positive regulation of cell cycle checkpoint
+GO:0007095	17	GO:1901978	positive regulation of cell cycle checkpoint
+GO:0007098	16	GO:0140253	cell-cell fusion
+GO:0007099	16	GO:0140253	cell-cell fusion
+GO:0030252	19	GO:0050765	negative regulation of phagocytosis
+GO:0046843	10	GO:0001570	vasculogenesis
+GO:0007014	5	GO:0031365	N-terminal protein amino acid modification
+GO:1903394	16	GO:0140253	cell-cell fusion
+GO:0000492	16	GO:0140253	cell-cell fusion
+GO:0030243	6	GO:1900619	acetate ester metabolic process
+GO:0032480	4	GO:0010628	positive regulation of gene expression
+GO:0030245	6	GO:1900619	acetate ester metabolic process
+GO:0035633	18	GO:0034383	low-density lipoprotein particle clearance
+GO:0018894	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0000463	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0045040	11	GO:0006820	anion transport
+GO:0018879	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0015771	11	GO:0006820	anion transport
+GO:0010375	9	GO:0048569	post-embryonic animal organ development
+GO:0032197	16	GO:0140253	cell-cell fusion
+GO:0030728	18	GO:0034383	low-density lipoprotein particle clearance
+GO:0072499	10	GO:0001570	vasculogenesis
+GO:0017085	13	GO:0010034	response to acetate
+GO:0021766	9	GO:0048569	post-embryonic animal organ development
+GO:0000165	8	GO:1901184	regulation of ERBB signaling pathway
+GO:0030703	10	GO:0001570	vasculogenesis
+GO:0052028	12	GO:0044793	negative regulation by host of viral process
+GO:0030704	10	GO:0001570	vasculogenesis
+GO:0032147	5	GO:0031365	N-terminal protein amino acid modification
+GO:0010493	6	GO:1900619	acetate ester metabolic process
+GO:0010497	19	GO:0050765	negative regulation of phagocytosis
+GO:0046669	10	GO:0001570	vasculogenesis
+GO:0085029	16	GO:0140253	cell-cell fusion
+GO:0046685	13	GO:0010034	response to acetate
+GO:0032104	15	GO:0050688	regulation of defense response to virus
+GO:0032107	15	GO:0050688	regulation of defense response to virus
+GO:1904950	19	GO:0050765	negative regulation of phagocytosis
+GO:0046627	8	GO:1901184	regulation of ERBB signaling pathway
+GO:0015874	11	GO:0006820	anion transport
+GO:0032298	2	GO:2000653	regulation of genetic imprinting
+GO:0015824	11	GO:0006820	anion transport
+GO:0015812	11	GO:0006820	anion transport
+GO:0015816	11	GO:0006820	anion transport
+GO:0015838	11	GO:0006820	anion transport
+GO:0043410	8	GO:1901184	regulation of ERBB signaling pathway
+GO:0009084	6	GO:1900619	acetate ester metabolic process
+GO:0032273	17	GO:1901978	positive regulation of cell cycle checkpoint
+GO:0030838	17	GO:1901978	positive regulation of cell cycle checkpoint
+GO:0032223	8	GO:1901184	regulation of ERBB signaling pathway
+GO:0070741	13	GO:0010034	response to acetate
+GO:0009047	4	GO:0010628	positive regulation of gene expression
+GO:0021871	9	GO:0048569	post-embryonic animal organ development
+GO:0043407	8	GO:1901184	regulation of ERBB signaling pathway
+GO:0043409	8	GO:1901184	regulation of ERBB signaling pathway
+GO:0061762	8	GO:1901184	regulation of ERBB signaling pathway
+GO:0007390	9	GO:0048569	post-embryonic animal organ development
+GO:0007391	9	GO:0048569	post-embryonic animal organ development
+GO:0007392	9	GO:0048569	post-embryonic animal organ development
+GO:0007394	10	GO:0001570	vasculogenesis
+GO:0007398	9	GO:0048569	post-embryonic animal organ development
+GO:1903142	10	GO:0001570	vasculogenesis
+GO:1901998	11	GO:0006820	anion transport
+GO:1905342	17	GO:1901978	positive regulation of cell cycle checkpoint
+GO:0043154	4	GO:0010628	positive regulation of gene expression
+GO:1901978	17	GO:1901978	positive regulation of cell cycle checkpoint
+GO:0032760	4	GO:0010628	positive regulation of gene expression
+GO:0007341	18	GO:0034383	low-density lipoprotein particle clearance
+GO:0043111	2	GO:2000653	regulation of genetic imprinting
+GO:0032757	4	GO:0010628	positive regulation of gene expression
+GO:0043116	18	GO:0034383	low-density lipoprotein particle clearance
+GO:0030540	9	GO:0048569	post-embryonic animal organ development
+GO:0035933	19	GO:0050765	negative regulation of phagocytosis
+GO:0007339	18	GO:0034383	low-density lipoprotein particle clearance
+GO:1903265	8	GO:1901184	regulation of ERBB signaling pathway
+GO:0010102	9	GO:0048569	post-embryonic animal organ development
+GO:0034097	13	GO:0010034	response to acetate
+GO:0019062	12	GO:0044793	negative regulation by host of viral process
+GO:0000768	10	GO:0001570	vasculogenesis
+GO:0019068	12	GO:0044793	negative regulation by host of viral process
+GO:0007305	10	GO:0001570	vasculogenesis
+GO:0019069	12	GO:0044793	negative regulation by host of viral process
+GO:0007306	10	GO:0001570	vasculogenesis
+GO:0015695	11	GO:0006820	anion transport
+GO:0015698	11	GO:0006820	anion transport
+GO:0019072	12	GO:0044793	negative regulation by host of viral process
+GO:0019073	12	GO:0044793	negative regulation by host of viral process
+GO:0019076	12	GO:0044793	negative regulation by host of viral process
+GO:1905451	8	GO:1901184	regulation of ERBB signaling pathway
+GO:0140253	16	GO:0140253	cell-cell fusion
+GO:0032700	4	GO:0010628	positive regulation of gene expression
+GO:0021537	9	GO:0048569	post-embryonic animal organ development
+GO:1900074	8	GO:1901184	regulation of ERBB signaling pathway
+GO:0070593	10	GO:0001570	vasculogenesis
+GO:0010288	13	GO:0010034	response to acetate
+GO:0007485	9	GO:0048569	post-embryonic animal organ development
+GO:0007487	9	GO:0048569	post-embryonic animal organ development
+GO:0032897	12	GO:0044793	negative regulation by host of viral process
+GO:0034030	1	GO:0034033	purine nucleoside bisphosphate biosynthetic process
+GO:0034033	1	GO:0034033	purine nucleoside bisphosphate biosynthetic process
+GO:0007477	9	GO:0048569	post-embryonic animal organ development
+GO:0000706	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0048168	8	GO:1901184	regulation of ERBB signaling pathway
+GO:1900034	8	GO:1901184	regulation of ERBB signaling pathway
+GO:0007411	10	GO:0001570	vasculogenesis
+GO:0070555	13	GO:0010034	response to acetate
+GO:0007417	9	GO:0048569	post-embryonic animal organ development
+GO:0010249	7	GO:0042810	pheromone metabolic process
+GO:0045467	9	GO:0048569	post-embryonic animal organ development
+GO:0032873	8	GO:1901184	regulation of ERBB signaling pathway
+GO:0048143	10	GO:0001570	vasculogenesis
+GO:0045429	2	GO:2000653	regulation of genetic imprinting
+GO:0070544	5	GO:0031365	N-terminal protein amino acid modification
+GO:0043200	13	GO:0010034	response to acetate
+GO:0070537	5	GO:0031365	N-terminal protein amino acid modification
+GO:0040018	18	GO:0034383	low-density lipoprotein particle clearance
+GO:0010799	5	GO:0031365	N-terminal protein amino acid modification
+GO:0007190	18	GO:0034383	low-density lipoprotein particle clearance
+GO:1903746	18	GO:0034383	low-density lipoprotein particle clearance
+GO:0010759	15	GO:0050688	regulation of defense response to virus
+GO:0007155	16	GO:0140253	cell-cell fusion
+GO:0007156	16	GO:0140253	cell-cell fusion
+GO:0007157	16	GO:0140253	cell-cell fusion
+GO:0007158	16	GO:0140253	cell-cell fusion
+GO:0046949	1	GO:0034033	purine nucleoside bisphosphate biosynthetic process
+GO:1905130	11	GO:0006820	anion transport
+GO:0010712	4	GO:0010628	positive regulation of gene expression
+GO:0048251	16	GO:0140253	cell-cell fusion
+GO:0048254	18	GO:0034383	low-density lipoprotein particle clearance
+GO:0010743	10	GO:0001570	vasculogenesis
+GO:0007130	16	GO:0140253	cell-cell fusion
+GO:1903863	10	GO:0001570	vasculogenesis
+GO:0010705	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0032526	13	GO:0010034	response to acetate
+GO:1903883	8	GO:1901184	regulation of ERBB signaling pathway
+GO:1903886	4	GO:0010628	positive regulation of gene expression
+GO:0048239	2	GO:2000653	regulation of genetic imprinting
+GO:0018963	6	GO:1900619	acetate ester metabolic process
+GO:0018958	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0002762	10	GO:0001570	vasculogenesis
+GO:0036060	16	GO:0140253	cell-cell fusion
+GO:0036065	6	GO:1900619	acetate ester metabolic process
+GO:0007250	5	GO:0031365	N-terminal protein amino acid modification
+GO:0010888	18	GO:0034383	low-density lipoprotein particle clearance
+GO:0050765	19	GO:0050765	negative regulation of phagocytosis
+GO:0061635	18	GO:0034383	low-density lipoprotein particle clearance
+GO:0050728	15	GO:0050688	regulation of defense response to virus
+GO:0032677	4	GO:0010628	positive regulation of gene expression
+GO:0010800	5	GO:0031365	N-terminal protein amino acid modification
+GO:0009410	13	GO:0010034	response to acetate
+GO:0010801	5	GO:0031365	N-terminal protein amino acid modification
+GO:0050731	5	GO:0031365	N-terminal protein amino acid modification
+GO:0010804	8	GO:1901184	regulation of ERBB signaling pathway
+GO:0050732	5	GO:0031365	N-terminal protein amino acid modification
+GO:0019367	6	GO:1900619	acetate ester metabolic process
+GO:0019368	6	GO:1900619	acetate ester metabolic process
+GO:0042058	8	GO:1901184	regulation of ERBB signaling pathway
+GO:0034383	18	GO:0034383	low-density lipoprotein particle clearance
+GO:0039722	8	GO:1901184	regulation of ERBB signaling pathway
+GO:0039723	15	GO:0050688	regulation of defense response to virus
+GO:0010569	2	GO:2000653	regulation of genetic imprinting
+GO:0039724	15	GO:0050688	regulation of defense response to virus
+GO:0042048	13	GO:0010034	response to acetate
+GO:0030968	8	GO:1901184	regulation of ERBB signaling pathway
+GO:0034341	13	GO:0010034	response to acetate
+GO:0010572	17	GO:1901978	positive regulation of cell cycle checkpoint
+GO:0050860	8	GO:1901184	regulation of ERBB signaling pathway
+GO:0045766	9	GO:0048569	post-embryonic animal organ development
+GO:0090031	7	GO:0042810	pheromone metabolic process
+GO:0140507	8	GO:1901184	regulation of ERBB signaling pathway
+GO:0030948	8	GO:1901184	regulation of ERBB signaling pathway
+GO:0050819	18	GO:0034383	low-density lipoprotein particle clearance
+GO:0045773	10	GO:0001570	vasculogenesis
+GO:0090009	9	GO:0048569	post-embryonic animal organ development
+GO:0010508	7	GO:0042810	pheromone metabolic process
+GO:1903684	10	GO:0001570	vasculogenesis
+GO:1903688	10	GO:0001570	vasculogenesis
+GO:0031398	5	GO:0031365	N-terminal protein amino acid modification
+GO:0045742	8	GO:1901184	regulation of ERBB signaling pathway
+GO:0045746	8	GO:1901184	regulation of ERBB signaling pathway
+GO:0045747	8	GO:1901184	regulation of ERBB signaling pathway
+GO:0021978	9	GO:0048569	post-embryonic animal organ development
+GO:0050803	18	GO:0034383	low-density lipoprotein particle clearance
+GO:0010696	17	GO:1901978	positive regulation of cell cycle checkpoint
+GO:0050807	17	GO:1901978	positive regulation of cell cycle checkpoint
+GO:0045732	5	GO:0031365	N-terminal protein amino acid modification
+GO:0048800	9	GO:0048569	post-embryonic animal organ development
+GO:0048802	9	GO:0048569	post-embryonic animal organ development
+GO:0048803	9	GO:0048569	post-embryonic animal organ development
+GO:0048805	9	GO:0048569	post-embryonic animal organ development
+GO:0048808	9	GO:0048569	post-embryonic animal organ development
+GO:0031365	5	GO:0031365	N-terminal protein amino acid modification
+GO:0010628	4	GO:0010628	positive regulation of gene expression
+GO:0048569	9	GO:0048569	post-embryonic animal organ development
+GO:0009263	1	GO:0034033	purine nucleoside bisphosphate biosynthetic process
+GO:0010642	8	GO:1901184	regulation of ERBB signaling pathway
+GO:0043622	16	GO:0140253	cell-cell fusion
+GO:1905803	8	GO:1901184	regulation of ERBB signaling pathway
+GO:0048542	9	GO:0048569	post-embryonic animal organ development
+GO:0048534	9	GO:0048569	post-embryonic animal organ development
+GO:0070936	5	GO:0031365	N-terminal protein amino acid modification
+GO:0045841	17	GO:1901978	positive regulation of cell cycle checkpoint
+GO:0039557	15	GO:0050688	regulation of defense response to virus
+GO:0045839	17	GO:1901978	positive regulation of cell cycle checkpoint
+GO:0007596	18	GO:0034383	low-density lipoprotein particle clearance
+GO:0007599	18	GO:0034383	low-density lipoprotein particle clearance
+GO:0006029	5	GO:0031365	N-terminal protein amino acid modification
+GO:0006032	6	GO:1900619	acetate ester metabolic process
+GO:0007586	18	GO:0034383	low-density lipoprotein particle clearance
+GO:0048664	10	GO:0001570	vasculogenesis
+GO:0048665	10	GO:0001570	vasculogenesis
+GO:0007520	10	GO:0001570	vasculogenesis
+GO:0071371	13	GO:0010034	response to acetate
+GO:0050687	15	GO:0050688	regulation of defense response to virus
+GO:0050688	15	GO:0050688	regulation of defense response to virus
+GO:0009751	13	GO:0010034	response to acetate
+GO:0039502	15	GO:0050688	regulation of defense response to virus
+GO:0007549	4	GO:0010628	positive regulation of gene expression
+GO:1902315	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0007534	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0042391	18	GO:0034383	low-density lipoprotein particle clearance
+GO:0042395	18	GO:0034383	low-density lipoprotein particle clearance
+GO:0009723	13	GO:0010034	response to acetate
+GO:0032928	7	GO:0042810	pheromone metabolic process
+GO:0007507	9	GO:0048569	post-embryonic animal organ development
+GO:0009744	13	GO:0010034	response to acetate
+GO:0039665	12	GO:0044793	negative regulation by host of viral process
+GO:0042359	6	GO:1900619	acetate ester metabolic process
+GO:0051092	2	GO:2000653	regulation of genetic imprinting
+GO:0039686	12	GO:0044793	negative regulation by host of viral process
+GO:0016062	8	GO:1901184	regulation of ERBB signaling pathway
+GO:0016056	8	GO:1901184	regulation of ERBB signaling pathway
+GO:0098810	19	GO:0050765	negative regulation of phagocytosis
+GO:0039648	5	GO:0031365	N-terminal protein amino acid modification
+GO:1905647	11	GO:0006820	anion transport
+GO:0090322	7	GO:0042810	pheromone metabolic process
+GO:2000344	18	GO:0034383	low-density lipoprotein particle clearance
+GO:0031116	17	GO:1901978	positive regulation of cell cycle checkpoint
+GO:0031145	5	GO:0031365	N-terminal protein amino acid modification
+GO:0097067	13	GO:0010034	response to acetate
+GO:0045666	10	GO:0001570	vasculogenesis
+GO:0045670	10	GO:0001570	vasculogenesis
+GO:0045671	10	GO:0001570	vasculogenesis
+GO:0090305	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0007603	8	GO:1901184	regulation of ERBB signaling pathway
+GO:0080154	18	GO:0034383	low-density lipoprotein particle clearance
+GO:0042464	4	GO:0010628	positive regulation of gene expression
+GO:1903977	10	GO:0001570	vasculogenesis
+GO:0090494	11	GO:0006820	anion transport
+GO:0010994	16	GO:0140253	cell-cell fusion
+GO:0034769	16	GO:0140253	cell-cell fusion
+GO:0034720	5	GO:0031365	N-terminal protein amino acid modification
+GO:0042446	7	GO:0042810	pheromone metabolic process
+GO:0042448	7	GO:0042810	pheromone metabolic process
+GO:0010972	17	GO:1901978	positive regulation of cell cycle checkpoint
+GO:0098534	16	GO:0140253	cell-cell fusion
+GO:1900747	8	GO:1901184	regulation of ERBB signaling pathway
+GO:0043984	5	GO:0031365	N-terminal protein amino acid modification
+GO:0071170	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0071173	17	GO:1901978	positive regulation of cell cycle checkpoint
+GO:0071174	17	GO:1901978	positive regulation of cell cycle checkpoint
+GO:0043923	12	GO:0044793	negative regulation by host of viral process
+GO:0098664	8	GO:1901184	regulation of ERBB signaling pathway
+GO:0042176	5	GO:0031365	N-terminal protein amino acid modification
+GO:1902292	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0047484	15	GO:0050688	regulation of defense response to virus
+GO:0098671	12	GO:0044793	negative regulation by host of viral process
+GO:0042135	7	GO:0042810	pheromone metabolic process
+GO:0042138	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0019800	5	GO:0031365	N-terminal protein amino acid modification
+GO:0071222	13	GO:0010034	response to acetate
+GO:0071216	8	GO:1901184	regulation of ERBB signaling pathway
+GO:0050914	18	GO:0034383	low-density lipoprotein particle clearance
+GO:0050918	13	GO:0010034	response to acetate
+GO:0071236	13	GO:0010034	response to acetate
+GO:0001172	1	GO:0034033	purine nucleoside bisphosphate biosynthetic process
+GO:0006482	5	GO:0031365	N-terminal protein amino acid modification
+GO:0009635	13	GO:0010034	response to acetate
+GO:0060333	8	GO:1901184	regulation of ERBB signaling pathway
+GO:0090263	8	GO:1901184	regulation of ERBB signaling pathway
+GO:0090266	17	GO:1901978	positive regulation of cell cycle checkpoint
+GO:0051354	18	GO:0034383	low-density lipoprotein particle clearance
+GO:1902750	17	GO:1901978	positive regulation of cell cycle checkpoint
+GO:0099008	12	GO:0044793	negative regulation by host of viral process
+GO:0031848	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0019695	6	GO:1900619	acetate ester metabolic process
+GO:0045959	15	GO:0050688	regulation of defense response to virus
+GO:0045924	18	GO:0034383	low-density lipoprotein particle clearance
+GO:0042761	6	GO:1900619	acetate ester metabolic process
+GO:0045911	2	GO:2000653	regulation of genetic imprinting
+GO:0071897	1	GO:0034033	purine nucleoside bisphosphate biosynthetic process
+GO:0051461	19	GO:0050765	negative regulation of phagocytosis
+GO:0031582	2	GO:2000653	regulation of genetic imprinting
+GO:0034625	6	GO:1900619	acetate ester metabolic process
+GO:0034626	6	GO:1900619	acetate ester metabolic process
+GO:0031573	17	GO:1901978	positive regulation of cell cycle checkpoint
+GO:0031577	17	GO:1901978	positive regulation of cell cycle checkpoint
+GO:0038007	8	GO:1901184	regulation of ERBB signaling pathway
+GO:1900619	6	GO:1900619	acetate ester metabolic process
+GO:0090727	18	GO:0034383	low-density lipoprotein particle clearance
+GO:0001762	11	GO:0006820	anion transport
+GO:1901098	17	GO:1901978	positive regulation of cell cycle checkpoint
+GO:0031503	18	GO:0034383	low-density lipoprotein particle clearance
+GO:0031505	16	GO:0140253	cell-cell fusion
+GO:0003094	18	GO:0034383	low-density lipoprotein particle clearance
+GO:0060123	19	GO:0050765	negative regulation of phagocytosis
+GO:0060124	19	GO:0050765	negative regulation of phagocytosis
+GO:0006278	1	GO:0034033	purine nucleoside bisphosphate biosynthetic process
+GO:1990001	4	GO:0010628	positive regulation of gene expression
+GO:0035020	8	GO:1901184	regulation of ERBB signaling pathway
+GO:0022416	9	GO:0048569	post-embryonic animal organ development
+GO:0042810	7	GO:0042810	pheromone metabolic process
+GO:0042811	7	GO:0042810	pheromone metabolic process
+GO:0001700	9	GO:0048569	post-embryonic animal organ development
+GO:0001702	9	GO:0048569	post-embryonic animal organ development
+GO:0001708	10	GO:0001570	vasculogenesis
+GO:0003012	18	GO:0034383	low-density lipoprotein particle clearance
+GO:0035002	9	GO:0048569	post-embryonic animal organ development
+GO:0035007	15	GO:0050688	regulation of defense response to virus
+GO:1901000	15	GO:0050688	regulation of defense response to virus
+GO:0031638	5	GO:0031365	N-terminal protein amino acid modification
+GO:0009988	16	GO:0140253	cell-cell fusion
+GO:0001867	15	GO:0050688	regulation of defense response to virus
+GO:1902530	5	GO:0031365	N-terminal protein amino acid modification
+GO:0060251	10	GO:0001570	vasculogenesis
+GO:0060252	10	GO:0001570	vasculogenesis
+GO:0033327	10	GO:0001570	vasculogenesis
+GO:0051101	18	GO:0034383	low-density lipoprotein particle clearance
+GO:0042559	1	GO:0034033	purine nucleoside bisphosphate biosynthetic process
+GO:0006775	6	GO:1900619	acetate ester metabolic process
+GO:0001818	4	GO:0010628	positive regulation of gene expression
+GO:0051298	16	GO:0140253	cell-cell fusion
+GO:0006729	1	GO:0034033	purine nucleoside bisphosphate biosynthetic process
+GO:0014820	18	GO:0034383	low-density lipoprotein particle clearance
+GO:0006749	7	GO:0042810	pheromone metabolic process
+GO:0006730	7	GO:0042810	pheromone metabolic process
+GO:0042531	5	GO:0031365	N-terminal protein amino acid modification
+GO:0110077	19	GO:0050765	negative regulation of phagocytosis
+GO:0051273	6	GO:1900619	acetate ester metabolic process
+GO:0051275	6	GO:1900619	acetate ester metabolic process
+GO:0051276	16	GO:0140253	cell-cell fusion
+GO:0006702	7	GO:0042810	pheromone metabolic process
+GO:0006704	6	GO:1900619	acetate ester metabolic process
+GO:0051224	19	GO:0050765	negative regulation of phagocytosis
+GO:0016233	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0071616	1	GO:0034033	purine nucleoside bisphosphate biosynthetic process
+GO:0071630	5	GO:0031365	N-terminal protein amino acid modification
+GO:0001570	10	GO:0001570	vasculogenesis
+GO:0060785	18	GO:0034383	low-density lipoprotein particle clearance
+GO:0097240	16	GO:0140253	cell-cell fusion
+GO:0097241	16	GO:0140253	cell-cell fusion
+GO:0071603	16	GO:0140253	cell-cell fusion
+GO:0006820	11	GO:0006820	anion transport
+GO:0034982	5	GO:0031365	N-terminal protein amino acid modification
+GO:0006814	11	GO:0006820	anion transport
+GO:2000653	2	GO:2000653	regulation of genetic imprinting
+GO:0097205	18	GO:0034383	low-density lipoprotein particle clearance
+GO:0046008	18	GO:0034383	low-density lipoprotein particle clearance
+GO:0001504	19	GO:0050765	negative regulation of phagocytosis
+GO:0001507	7	GO:0042810	pheromone metabolic process
+GO:0051784	17	GO:1901978	positive regulation of cell cycle checkpoint
+GO:0001694	1	GO:0034033	purine nucleoside bisphosphate biosynthetic process
+GO:0090615	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0001696	18	GO:0034383	low-density lipoprotein particle clearance
+GO:1990349	19	GO:0050765	negative regulation of phagocytosis
+GO:0006581	7	GO:0042810	pheromone metabolic process
+GO:0035384	6	GO:1900619	acetate ester metabolic process
+GO:0051894	17	GO:1901978	positive regulation of cell cycle checkpoint
+GO:0051896	8	GO:1901184	regulation of ERBB signaling pathway
+GO:0051897	8	GO:1901184	regulation of ERBB signaling pathway
+GO:0051898	8	GO:1901184	regulation of ERBB signaling pathway
+GO:0051865	5	GO:0031365	N-terminal protein amino acid modification
+GO:1901346	9	GO:0048569	post-embryonic animal organ development
+GO:0089718	11	GO:0006820	anion transport
+GO:0015074	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0051591	13	GO:0010034	response to acetate
+GO:0030071	17	GO:1901978	positive regulation of cell cycle checkpoint
+GO:0051597	13	GO:0010034	response to acetate
+GO:0016567	5	GO:0031365	N-terminal protein amino acid modification
+GO:0060536	9	GO:0048569	post-embryonic animal organ development
+GO:0033209	8	GO:1901184	regulation of ERBB signaling pathway

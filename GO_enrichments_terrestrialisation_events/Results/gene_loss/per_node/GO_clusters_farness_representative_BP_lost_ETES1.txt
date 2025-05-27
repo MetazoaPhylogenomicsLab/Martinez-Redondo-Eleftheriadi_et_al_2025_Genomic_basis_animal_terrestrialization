@@ -1,0 +1,181 @@
+GO:0030198	8	GO:0044782	cilium organization
+GO:0090305	6	GO:0042158	lipoprotein biosynthetic process
+GO:0031344	8	GO:0044782	cilium organization
+GO:0030154	2	GO:0048468	cell development
+GO:0023056	7	GO:0060828	regulation of canonical Wnt signaling pathway
+GO:0002009	3	GO:0061138	morphogenesis of a branching epithelium
+GO:0030178	7	GO:0060828	regulation of canonical Wnt signaling pathway
+GO:0007281	1	GO:0007281	germ cell development
+GO:0007283	1	GO:0007281	germ cell development
+GO:0007272	2	GO:0048468	cell development
+GO:0000413	6	GO:0042158	lipoprotein biosynthetic process
+GO:1903354	11	GO:0008283	cell population proliferation
+GO:0006863	9	GO:0042044	fluid transport
+GO:0006882	10	GO:0002347	response to tumor cell
+GO:0006887	9	GO:0042044	fluid transport
+GO:0030100	11	GO:0008283	cell population proliferation
+GO:0060348	4	GO:0007389	pattern specification process
+GO:0007200	7	GO:0060828	regulation of canonical Wnt signaling pathway
+GO:0097237	11	GO:0008283	cell population proliferation
+GO:1902117	8	GO:0044782	cilium organization
+GO:0010212	10	GO:0002347	response to tumor cell
+GO:0036503	6	GO:0042158	lipoprotein biosynthetic process
+GO:0006805	11	GO:0008283	cell population proliferation
+GO:0018208	6	GO:0042158	lipoprotein biosynthetic process
+GO:0060485	4	GO:0007389	pattern specification process
+GO:0042395	10	GO:0002347	response to tumor cell
+GO:0060429	3	GO:0061138	morphogenesis of a branching epithelium
+GO:0048232	1	GO:0007281	germ cell development
+GO:0031175	2	GO:0048468	cell development
+GO:0014013	2	GO:0048468	cell development
+GO:0061351	11	GO:0008283	cell population proliferation
+GO:0006508	6	GO:0042158	lipoprotein biosynthetic process
+GO:0008283	11	GO:0008283	cell population proliferation
+GO:0006690	11	GO:0008283	cell population proliferation
+GO:0051307	11	GO:0008283	cell population proliferation
+GO:0048729	3	GO:0061138	morphogenesis of a branching epithelium
+GO:0022412	1	GO:0007281	germ cell development
+GO:1901562	10	GO:0002347	response to tumor cell
+GO:0120192	8	GO:0044782	cilium organization
+GO:0120193	8	GO:0044782	cilium organization
+GO:0002347	10	GO:0002347	response to tumor cell
+GO:0022404	3	GO:0061138	morphogenesis of a branching epithelium
+GO:0061462	11	GO:0008283	cell population proliferation
+GO:0048858	2	GO:0048468	cell development
+GO:0071479	10	GO:0002347	response to tumor cell
+GO:0060285	11	GO:0008283	cell population proliferation
+GO:0007525	3	GO:0061138	morphogenesis of a branching epithelium
+GO:0007526	4	GO:0007389	pattern specification process
+GO:0060271	8	GO:0044782	cilium organization
+GO:0015074	6	GO:0042158	lipoprotein biosynthetic process
+GO:2000369	11	GO:0008283	cell population proliferation
+GO:0048839	4	GO:0007389	pattern specification process
+GO:0070286	8	GO:0044782	cilium organization
+GO:0015012	6	GO:0042158	lipoprotein biosynthetic process
+GO:0015014	6	GO:0042158	lipoprotein biosynthetic process
+GO:0048802	3	GO:0061138	morphogenesis of a branching epithelium
+GO:0098703	9	GO:0042044	fluid transport
+GO:0035066	5	GO:0006357	regulation of transcription by RNA polymerase II
+GO:0042157	6	GO:0042158	lipoprotein biosynthetic process
+GO:0042158	6	GO:0042158	lipoprotein biosynthetic process
+GO:0007507	4	GO:0007389	pattern specification process
+GO:0035082	8	GO:0044782	cilium organization
+GO:0048598	4	GO:0007389	pattern specification process
+GO:0072359	4	GO:0007389	pattern specification process
+GO:0045055	9	GO:0042044	fluid transport
+GO:1905330	3	GO:0061138	morphogenesis of a branching epithelium
+GO:0048582	3	GO:0061138	morphogenesis of a branching epithelium
+GO:0030512	7	GO:0060828	regulation of canonical Wnt signaling pathway
+GO:0003351	9	GO:0042044	fluid transport
+GO:0072331	7	GO:0060828	regulation of canonical Wnt signaling pathway
+GO:0035002	3	GO:0061138	morphogenesis of a branching epithelium
+GO:0061138	3	GO:0061138	morphogenesis of a branching epithelium
+GO:0009790	4	GO:0007389	pattern specification process
+GO:0003386	4	GO:0007389	pattern specification process
+GO:1903725	5	GO:0006357	regulation of transcription by RNA polymerase II
+GO:0097628	11	GO:0008283	cell population proliferation
+GO:0019835	11	GO:0008283	cell population proliferation
+GO:0003341	11	GO:0008283	cell population proliferation
+GO:0001763	4	GO:0007389	pattern specification process
+GO:0051225	8	GO:0044782	cilium organization
+GO:0010647	7	GO:0060828	regulation of canonical Wnt signaling pathway
+GO:0048666	2	GO:0048468	cell development
+GO:0060857	2	GO:0048468	cell development
+GO:0006965	5	GO:0006357	regulation of transcription by RNA polymerase II
+GO:0006967	5	GO:0006357	regulation of transcription by RNA polymerase II
+GO:0006956	10	GO:0002347	response to tumor cell
+GO:0060828	7	GO:0060828	regulation of canonical Wnt signaling pathway
+GO:0044331	11	GO:0008283	cell population proliferation
+GO:0009880	4	GO:0007389	pattern specification process
+GO:2000177	11	GO:0008283	cell population proliferation
+GO:0048609	1	GO:0007281	germ cell development
+GO:0090502	6	GO:0042158	lipoprotein biosynthetic process
+GO:0061760	10	GO:0002347	response to tumor cell
+GO:0061771	10	GO:0002347	response to tumor cell
+GO:0008643	9	GO:0042044	fluid transport
+GO:0043297	8	GO:0044782	cilium organization
+GO:0044458	8	GO:0044782	cilium organization
+GO:0008630	7	GO:0060828	regulation of canonical Wnt signaling pathway
+GO:0031670	10	GO:0002347	response to tumor cell
+GO:0031638	6	GO:0042158	lipoprotein biosynthetic process
+GO:0017015	7	GO:0060828	regulation of canonical Wnt signaling pathway
+GO:1904823	9	GO:0042044	fluid transport
+GO:0018996	10	GO:0002347	response to tumor cell
+GO:0009651	10	GO:0002347	response to tumor cell
+GO:0009653	4	GO:0007389	pattern specification process
+GO:0032543	6	GO:0042158	lipoprotein biosynthetic process
+GO:0009631	10	GO:0002347	response to tumor cell
+GO:0007098	8	GO:0044782	cilium organization
+GO:1901046	10	GO:0002347	response to tumor cell
+GO:0035199	10	GO:0002347	response to tumor cell
+GO:0030097	4	GO:0007389	pattern specification process
+GO:0016485	6	GO:0042158	lipoprotein biosynthetic process
+GO:0051604	6	GO:0042158	lipoprotein biosynthetic process
+GO:0044782	8	GO:0044782	cilium organization
+GO:0010001	2	GO:0048468	cell development
+GO:0043583	4	GO:0007389	pattern specification process
+GO:0006357	5	GO:0006357	regulation of transcription by RNA polymerase II
+GO:0000902	3	GO:0061138	morphogenesis of a branching epithelium
+GO:0030030	8	GO:0044782	cilium organization
+GO:0040019	3	GO:0061138	morphogenesis of a branching epithelium
+GO:0006313	6	GO:0042158	lipoprotein biosynthetic process
+GO:1902017	8	GO:0044782	cilium organization
+GO:0040002	4	GO:0007389	pattern specification process
+GO:0035212	2	GO:0048468	cell development
+GO:0090090	7	GO:0060828	regulation of canonical Wnt signaling pathway
+GO:0072531	9	GO:0042044	fluid transport
+GO:0050914	10	GO:0002347	response to tumor cell
+GO:0006497	6	GO:0042158	lipoprotein biosynthetic process
+GO:0044826	10	GO:0002347	response to tumor cell
+GO:0015721	9	GO:0042044	fluid transport
+GO:0009950	3	GO:0061138	morphogenesis of a branching epithelium
+GO:0009953	4	GO:0007389	pattern specification process
+GO:0019042	10	GO:0002347	response to tumor cell
+GO:0019043	10	GO:0002347	response to tumor cell
+GO:0031063	5	GO:0006357	regulation of transcription by RNA polymerase II
+GO:0043633	6	GO:0042158	lipoprotein biosynthetic process
+GO:0043634	6	GO:0042158	lipoprotein biosynthetic process
+GO:0031057	5	GO:0006357	regulation of transcription by RNA polymerase II
+GO:0045752	7	GO:0060828	regulation of canonical Wnt signaling pathway
+GO:0001942	3	GO:0061138	morphogenesis of a branching epithelium
+GO:0007390	3	GO:0061138	morphogenesis of a branching epithelium
+GO:0031023	8	GO:0044782	cilium organization
+GO:0045724	8	GO:0044782	cilium organization
+GO:0032990	2	GO:0048468	cell development
+GO:0007368	3	GO:0061138	morphogenesis of a branching epithelium
+GO:0007369	4	GO:0007389	pattern specification process
+GO:0007389	4	GO:0007389	pattern specification process
+GO:0007370	3	GO:0061138	morphogenesis of a branching epithelium
+GO:0032981	8	GO:0044782	cilium organization
+GO:0060070	7	GO:0060828	regulation of canonical Wnt signaling pathway
+GO:0007310	1	GO:0007281	germ cell development
+GO:0060079	7	GO:0060828	regulation of canonical Wnt signaling pathway
+GO:0006119	11	GO:0008283	cell population proliferation
+GO:0022900	11	GO:0008283	cell population proliferation
+GO:0017156	9	GO:0042044	fluid transport
+GO:0010332	10	GO:0002347	response to tumor cell
+GO:0007477	4	GO:0007389	pattern specification process
+GO:0030317	11	GO:0008283	cell population proliferation
+GO:0007424	4	GO:0007389	pattern specification process
+GO:0030334	11	GO:0008283	cell population proliferation
+GO:0007417	4	GO:0007389	pattern specification process
+GO:0007419	4	GO:0007389	pattern specification process
+GO:0006283	6	GO:0042158	lipoprotein biosynthetic process
+GO:0120039	2	GO:0048468	cell development
+GO:0006278	6	GO:0042158	lipoprotein biosynthetic process
+GO:0042067	3	GO:0061138	morphogenesis of a branching epithelium
+GO:0032012	7	GO:0060828	regulation of canonical Wnt signaling pathway
+GO:0051055	5	GO:0006357	regulation of transcription by RNA polymerase II
+GO:0042078	1	GO:0007281	germ cell development
+GO:0061063	3	GO:0061138	morphogenesis of a branching epithelium
+GO:0008366	2	GO:0048468	cell development
+GO:0042044	9	GO:0042044	fluid transport
+GO:0042045	9	GO:0042044	fluid transport
+GO:0048468	2	GO:0048468	cell development
+GO:0097193	7	GO:0060828	regulation of canonical Wnt signaling pathway
+GO:0007156	11	GO:0008283	cell population proliferation
+GO:0075713	10	GO:0002347	response to tumor cell
+GO:0061041	10	GO:0002347	response to tumor cell
+GO:0075732	9	GO:0042044	fluid transport
+GO:0007140	1	GO:0007281	germ cell development
+GO:0002062	2	GO:0048468	cell development

@@ -1,0 +1,402 @@
+GO:0060761	11	GO:0032101	regulation of response to external stimulus
+GO:0032722	1	GO:0001817	regulation of cytokine production
+GO:0030225	15	GO:0048143	astrocyte activation
+GO:0060759	11	GO:0032101	regulation of response to external stimulus
+GO:0032747	1	GO:0001817	regulation of cytokine production
+GO:2000309	1	GO:0001817	regulation of cytokine production
+GO:0032735	1	GO:0001817	regulation of cytokine production
+GO:0050796	14	GO:0065002	intracellular protein transmembrane transport
+GO:0150119	18	GO:0150119	negative regulation of protein localization to cell-cell junction
+GO:0018119	3	GO:0006029	proteoglycan metabolic process
+GO:0032700	1	GO:0001817	regulation of cytokine production
+GO:0010634	18	GO:0150119	negative regulation of protein localization to cell-cell junction
+GO:0007260	2	GO:0001934	positive regulation of protein phosphorylation
+GO:1900015	1	GO:0001817	regulation of cytokine production
+GO:0051044	2	GO:0001934	positive regulation of protein phosphorylation
+GO:0150105	18	GO:0150119	negative regulation of protein localization to cell-cell junction
+GO:0150106	18	GO:0150119	negative regulation of protein localization to cell-cell junction
+GO:0042307	14	GO:0065002	intracellular protein transmembrane transport
+GO:0050777	10	GO:0050778	positive regulation of immune response
+GO:0050727	11	GO:0032101	regulation of response to external stimulus
+GO:0050729	11	GO:0032101	regulation of response to external stimulus
+GO:0032310	14	GO:0065002	intracellular protein transmembrane transport
+GO:0006312	4	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:1904702	18	GO:0150119	negative regulation of protein localization to cell-cell junction
+GO:1904703	18	GO:0150119	negative regulation of protein localization to cell-cell junction
+GO:0039504	9	GO:0039545	suppression by virus of host MAVS activity
+GO:0050730	2	GO:0001934	positive regulation of protein phosphorylation
+GO:0050731	2	GO:0001934	positive regulation of protein phosphorylation
+GO:0042472	15	GO:0048143	astrocyte activation
+GO:0060333	8	GO:0002221	pattern recognition receptor signaling pathway
+GO:0032834	10	GO:0050778	positive regulation of immune response
+GO:0039663	12	GO:0016032	viral process
+GO:0045824	11	GO:0032101	regulation of response to external stimulus
+GO:0031640	16	GO:0031341	regulation of cell killing
+GO:0006809	3	GO:0006029	proteoglycan metabolic process
+GO:0001960	8	GO:0002221	pattern recognition receptor signaling pathway
+GO:0075520	12	GO:0016032	viral process
+GO:0001959	8	GO:0002221	pattern recognition receptor signaling pathway
+GO:0042531	2	GO:0001934	positive regulation of protein phosphorylation
+GO:0051276	6	GO:0051276	chromosome organization
+GO:0019064	12	GO:0016032	viral process
+GO:0035825	4	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0042509	2	GO:0001934	positive regulation of protein phosphorylation
+GO:0019076	12	GO:0016032	viral process
+GO:0045429	3	GO:0006029	proteoglycan metabolic process
+GO:0060550	2	GO:0001934	positive regulation of protein phosphorylation
+GO:0060552	2	GO:0001934	positive regulation of protein phosphorylation
+GO:0060557	3	GO:0006029	proteoglycan metabolic process
+GO:0046718	12	GO:0016032	viral process
+GO:0000280	7	GO:0140013	meiotic nuclear division
+GO:0001906	16	GO:0031341	regulation of cell killing
+GO:0035590	8	GO:0002221	pattern recognition receptor signaling pathway
+GO:0071896	18	GO:0150119	negative regulation of protein localization to cell-cell junction
+GO:0048478	4	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0042138	4	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0048567	15	GO:0048143	astrocyte activation
+GO:0016233	4	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0051712	16	GO:0031341	regulation of cell killing
+GO:0040020	7	GO:0140013	meiotic nuclear division
+GO:0017014	3	GO:0006029	proteoglycan metabolic process
+GO:0032102	11	GO:0032101	regulation of response to external stimulus
+GO:1902948	2	GO:0001934	positive regulation of protein phosphorylation
+GO:0045672	15	GO:0048143	astrocyte activation
+GO:0010835	2	GO:0001934	positive regulation of protein phosphorylation
+GO:0010496	16	GO:0031341	regulation of cell killing
+GO:0061982	7	GO:0140013	meiotic nuclear division
+GO:0002832	11	GO:0032101	regulation of response to external stimulus
+GO:0051321	7	GO:0140013	meiotic nuclear division
+GO:0048662	16	GO:0031341	regulation of cell killing
+GO:0097190	8	GO:0002221	pattern recognition receptor signaling pathway
+GO:0097191	8	GO:0002221	pattern recognition receptor signaling pathway
+GO:0090312	2	GO:0001934	positive regulation of protein phosphorylation
+GO:0006281	4	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0048143	15	GO:0048143	astrocyte activation
+GO:0007439	15	GO:0048143	astrocyte activation
+GO:0032211	3	GO:0006029	proteoglycan metabolic process
+GO:0048611	15	GO:0048143	astrocyte activation
+GO:0034393	16	GO:0031341	regulation of cell killing
+GO:0048613	15	GO:0048143	astrocyte activation
+GO:1901216	16	GO:0031341	regulation of cell killing
+GO:0090305	4	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0007530	15	GO:0048143	astrocyte activation
+GO:0007531	15	GO:0048143	astrocyte activation
+GO:0007533	15	GO:0048143	astrocyte activation
+GO:0031334	16	GO:0031341	regulation of cell killing
+GO:0000379	4	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0140527	4	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0007059	16	GO:0031341	regulation of cell killing
+GO:0010508	2	GO:0001934	positive regulation of protein phosphorylation
+GO:0007032	6	GO:0051276	chromosome organization
+GO:0075732	12	GO:0016032	viral process
+GO:0007039	3	GO:0006029	proteoglycan metabolic process
+GO:0007127	7	GO:0140013	meiotic nuclear division
+GO:0140013	7	GO:0140013	meiotic nuclear division
+GO:0032755	1	GO:0001817	regulation of cytokine production
+GO:0033141	2	GO:0001934	positive regulation of protein phosphorylation
+GO:1902004	2	GO:0001934	positive regulation of protein phosphorylation
+GO:0007131	7	GO:0140013	meiotic nuclear division
+GO:0006261	3	GO:0006029	proteoglycan metabolic process
+GO:0051300	7	GO:0140013	meiotic nuclear division
+GO:0051301	16	GO:0031341	regulation of cell killing
+GO:0000819	7	GO:0140013	meiotic nuclear division
+GO:0002534	1	GO:0001817	regulation of cytokine production
+GO:0010458	7	GO:0140013	meiotic nuclear division
+GO:0044000	12	GO:0016032	viral process
+GO:0044409	12	GO:0016032	viral process
+GO:1905758	5	GO:0140279	regulation of mitotic division septum assembly
+GO:0031031	5	GO:0140279	regulation of mitotic division septum assembly
+GO:0019730	13	GO:0002237	response to molecule of bacterial origin
+GO:0034085	7	GO:0140013	meiotic nuclear division
+GO:0034087	7	GO:0140013	meiotic nuclear division
+GO:0140014	7	GO:0140013	meiotic nuclear division
+GO:0046209	3	GO:0006029	proteoglycan metabolic process
+GO:0033005	16	GO:0031341	regulation of cell killing
+GO:0019072	12	GO:0016032	viral process
+GO:2001057	3	GO:0006029	proteoglycan metabolic process
+GO:0046765	12	GO:0016032	viral process
+GO:0007094	6	GO:0051276	chromosome organization
+GO:0007064	7	GO:0140013	meiotic nuclear division
+GO:0090307	7	GO:0140013	meiotic nuclear division
+GO:0007020	6	GO:0051276	chromosome organization
+GO:0007049	7	GO:0140013	meiotic nuclear division
+GO:0022402	7	GO:0140013	meiotic nuclear division
+GO:0034501	14	GO:0065002	intracellular protein transmembrane transport
+GO:0051231	7	GO:0140013	meiotic nuclear division
+GO:0030150	14	GO:0065002	intracellular protein transmembrane transport
+GO:0016032	12	GO:0016032	viral process
+GO:0070096	6	GO:0051276	chromosome organization
+GO:0045040	14	GO:0065002	intracellular protein transmembrane transport
+GO:0032677	1	GO:0001817	regulation of cytokine production
+GO:0051204	14	GO:0065002	intracellular protein transmembrane transport
+GO:0006959	10	GO:0050778	positive regulation of immune response
+GO:0035723	8	GO:0002221	pattern recognition receptor signaling pathway
+GO:0032637	1	GO:0001817	regulation of cytokine production
+GO:0044743	14	GO:0065002	intracellular protein transmembrane transport
+GO:0051382	6	GO:0051276	chromosome organization
+GO:0090151	14	GO:0065002	intracellular protein transmembrane transport
+GO:0061844	13	GO:0002237	response to molecule of bacterial origin
+GO:0016558	14	GO:0065002	intracellular protein transmembrane transport
+GO:0018198	3	GO:0006029	proteoglycan metabolic process
+GO:0032757	1	GO:0001817	regulation of cytokine production
+GO:0000022	7	GO:0140013	meiotic nuclear division
+GO:0035303	2	GO:0001934	positive regulation of protein phosphorylation
+GO:0035306	2	GO:0001934	positive regulation of protein phosphorylation
+GO:0051455	7	GO:0140013	meiotic nuclear division
+GO:0010791	4	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:1905779	2	GO:0001934	positive regulation of protein phosphorylation
+GO:0001816	1	GO:0001817	regulation of cytokine production
+GO:0001817	1	GO:0001817	regulation of cytokine production
+GO:0001819	1	GO:0001817	regulation of cytokine production
+GO:1903046	7	GO:0140013	meiotic nuclear division
+GO:0006308	4	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0051709	16	GO:0031341	regulation of cell killing
+GO:0045144	7	GO:0140013	meiotic nuclear division
+GO:0052150	16	GO:0031341	regulation of cell killing
+GO:0039564	16	GO:0031341	regulation of cell killing
+GO:0019083	12	GO:0016032	viral process
+GO:0039557	9	GO:0039545	suppression by virus of host MAVS activity
+GO:0070726	6	GO:0051276	chromosome organization
+GO:0039526	16	GO:0031341	regulation of cell killing
+GO:0039540	9	GO:0039545	suppression by virus of host MAVS activity
+GO:0031341	16	GO:0031341	regulation of cell killing
+GO:0039545	9	GO:0039545	suppression by virus of host MAVS activity
+GO:0050832	13	GO:0002237	response to molecule of bacterial origin
+GO:0039548	9	GO:0039545	suppression by virus of host MAVS activity
+GO:0051177	7	GO:0140013	meiotic nuclear division
+GO:0035822	4	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0039502	9	GO:0039545	suppression by virus of host MAVS activity
+GO:0055085	16	GO:0031341	regulation of cell killing
+GO:0061983	7	GO:0140013	meiotic nuclear division
+GO:0046794	12	GO:0016032	viral process
+GO:0007135	7	GO:0140013	meiotic nuclear division
+GO:0110039	15	GO:0048143	astrocyte activation
+GO:0006811	14	GO:0065002	intracellular protein transmembrane transport
+GO:0039674	12	GO:0016032	viral process
+GO:0046740	12	GO:0016032	viral process
+GO:0046739	12	GO:0016032	viral process
+GO:0039723	9	GO:0039545	suppression by virus of host MAVS activity
+GO:0036093	15	GO:0048143	astrocyte activation
+GO:0044001	12	GO:0016032	viral process
+GO:0007534	4	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0031860	4	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0070590	15	GO:0048143	astrocyte activation
+GO:0042244	6	GO:0051276	chromosome organization
+GO:0051383	6	GO:0051276	chromosome organization
+GO:0052040	16	GO:0031341	regulation of cell killing
+GO:0000737	4	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0034508	6	GO:0051276	chromosome organization
+GO:0051316	7	GO:0140013	meiotic nuclear division
+GO:0009620	13	GO:0002237	response to molecule of bacterial origin
+GO:0000706	4	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0007062	7	GO:0140013	meiotic nuclear division
+GO:0034080	6	GO:0051276	chromosome organization
+GO:0075733	12	GO:0016032	viral process
+GO:0051781	16	GO:0031341	regulation of cell killing
+GO:0010893	3	GO:0006029	proteoglycan metabolic process
+GO:0050691	11	GO:0032101	regulation of response to external stimulus
+GO:0002294	15	GO:0048143	astrocyte activation
+GO:0045589	15	GO:0048143	astrocyte activation
+GO:0042552	15	GO:0048143	astrocyte activation
+GO:0032835	15	GO:0048143	astrocyte activation
+GO:1902106	15	GO:0048143	astrocyte activation
+GO:0050678	16	GO:0031341	regulation of cell killing
+GO:0002250	10	GO:0050778	positive regulation of immune response
+GO:0044089	16	GO:0031341	regulation of cell killing
+GO:1903998	18	GO:0150119	negative regulation of protein localization to cell-cell junction
+GO:0030476	6	GO:0051276	chromosome organization
+GO:0002237	13	GO:0002237	response to molecule of bacterial origin
+GO:0002200	15	GO:0048143	astrocyte activation
+GO:0002204	3	GO:0006029	proteoglycan metabolic process
+GO:0002208	15	GO:0048143	astrocyte activation
+GO:1903746	18	GO:0150119	negative regulation of protein localization to cell-cell junction
+GO:0030437	15	GO:0048143	astrocyte activation
+GO:0045666	15	GO:0048143	astrocyte activation
+GO:0002790	14	GO:0065002	intracellular protein transmembrane transport
+GO:0002791	14	GO:0065002	intracellular protein transmembrane transport
+GO:0045670	15	GO:0048143	astrocyte activation
+GO:0060251	16	GO:0031341	regulation of cell killing
+GO:0002763	15	GO:0048143	astrocyte activation
+GO:0032496	13	GO:0002237	response to molecule of bacterial origin
+GO:0097659	4	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0045638	15	GO:0048143	astrocyte activation
+GO:0008608	7	GO:0140013	meiotic nuclear division
+GO:0045190	3	GO:0006029	proteoglycan metabolic process
+GO:0043051	18	GO:0150119	negative regulation of protein localization to cell-cell junction
+GO:0045191	3	GO:0006029	proteoglycan metabolic process
+GO:0032467	5	GO:0140279	regulation of mitotic division septum assembly
+GO:0030166	3	GO:0006029	proteoglycan metabolic process
+GO:1905756	5	GO:0140279	regulation of mitotic division septum assembly
+GO:0002712	10	GO:0050778	positive regulation of immune response
+GO:0002714	10	GO:0050778	positive regulation of immune response
+GO:0061448	15	GO:0048143	astrocyte activation
+GO:2000104	3	GO:0006029	proteoglycan metabolic process
+GO:0044788	12	GO:0016032	viral process
+GO:0006351	4	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0032411	18	GO:0150119	negative regulation of protein localization to cell-cell junction
+GO:0032414	18	GO:0150119	negative regulation of protein localization to cell-cell junction
+GO:0033138	2	GO:0001934	positive regulation of protein phosphorylation
+GO:0032651	1	GO:0001817	regulation of cytokine production
+GO:0032655	1	GO:0001817	regulation of cytokine production
+GO:0016444	4	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0016445	15	GO:0048143	astrocyte activation
+GO:0016447	4	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0032680	1	GO:0001817	regulation of cytokine production
+GO:0002700	1	GO:0001817	regulation of cytokine production
+GO:0002702	1	GO:0001817	regulation of cytokine production
+GO:0002705	10	GO:0050778	positive regulation of immune response
+GO:0002706	10	GO:0050778	positive regulation of immune response
+GO:0002708	10	GO:0050778	positive regulation of immune response
+GO:0002891	10	GO:0050778	positive regulation of immune response
+GO:0032640	1	GO:0001817	regulation of cytokine production
+GO:0032642	1	GO:0001817	regulation of cytokine production
+GO:2000253	18	GO:0150119	negative regulation of protein localization to cell-cell junction
+GO:2000273	8	GO:0002221	pattern recognition receptor signaling pathway
+GO:0034755	14	GO:0065002	intracellular protein transmembrane transport
+GO:0032602	1	GO:0001817	regulation of cytokine production
+GO:0030072	14	GO:0065002	intracellular protein transmembrane transport
+GO:0030073	14	GO:0065002	intracellular protein transmembrane transport
+GO:0002889	10	GO:0050778	positive regulation of immune response
+GO:0002821	10	GO:0050778	positive regulation of immune response
+GO:0002822	10	GO:0050778	positive regulation of immune response
+GO:0002824	10	GO:0050778	positive regulation of immune response
+GO:0002819	10	GO:0050778	positive regulation of immune response
+GO:1903555	1	GO:0001817	regulation of cytokine production
+GO:1903557	1	GO:0001817	regulation of cytokine production
+GO:0006509	3	GO:0006029	proteoglycan metabolic process
+GO:0046782	12	GO:0016032	viral process
+GO:0002831	11	GO:0032101	regulation of response to external stimulus
+GO:0051607	13	GO:0002237	response to molecule of bacterial origin
+GO:0099601	8	GO:0002221	pattern recognition receptor signaling pathway
+GO:0071222	13	GO:0002237	response to molecule of bacterial origin
+GO:0071216	16	GO:0031341	regulation of cell killing
+GO:0071219	13	GO:0002237	response to molecule of bacterial origin
+GO:1903490	5	GO:0140279	regulation of mitotic division septum assembly
+GO:0031671	5	GO:0140279	regulation of mitotic division septum assembly
+GO:1900544	2	GO:0001934	positive regulation of protein phosphorylation
+GO:0032101	11	GO:0032101	regulation of response to external stimulus
+GO:0002381	10	GO:0050778	positive regulation of immune response
+GO:0032103	11	GO:0032101	regulation of response to external stimulus
+GO:0007099	7	GO:0140013	meiotic nuclear division
+GO:0140278	5	GO:0140279	regulation of mitotic division septum assembly
+GO:0140279	5	GO:0140279	regulation of mitotic division septum assembly
+GO:0031645	18	GO:0150119	negative regulation of protein localization to cell-cell junction
+GO:0002562	4	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0051130	16	GO:0031341	regulation of cell killing
+GO:0070591	15	GO:0048143	astrocyte activation
+GO:0001889	15	GO:0048143	astrocyte activation
+GO:1901890	16	GO:0031341	regulation of cell killing
+GO:1901891	5	GO:0140279	regulation of mitotic division septum assembly
+GO:1901893	5	GO:0140279	regulation of mitotic division septum assembly
+GO:0051052	4	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0007043	6	GO:0051276	chromosome organization
+GO:0046883	16	GO:0031341	regulation of cell killing
+GO:1903436	5	GO:0140279	regulation of mitotic division septum assembly
+GO:1903438	5	GO:0140279	regulation of mitotic division septum assembly
+GO:0032224	16	GO:0031341	regulation of cell killing
+GO:0034391	16	GO:0031341	regulation of cell killing
+GO:0046879	14	GO:0065002	intracellular protein transmembrane transport
+GO:0098908	16	GO:0031341	regulation of cell killing
+GO:1901857	2	GO:0001934	positive regulation of protein phosphorylation
+GO:1904064	18	GO:0150119	negative regulation of protein localization to cell-cell junction
+GO:0016241	16	GO:0031341	regulation of cell killing
+GO:0050852	8	GO:0002221	pattern recognition receptor signaling pathway
+GO:0050871	16	GO:0031341	regulation of cell killing
+GO:0006110	2	GO:0001934	positive regulation of protein phosphorylation
+GO:0002697	10	GO:0050778	positive regulation of immune response
+GO:0090068	5	GO:0140279	regulation of mitotic division septum assembly
+GO:0002699	10	GO:0050778	positive regulation of immune response
+GO:0090087	14	GO:0065002	intracellular protein transmembrane transport
+GO:0071706	1	GO:0001817	regulation of cytokine production
+GO:0050830	13	GO:0002237	response to molecule of bacterial origin
+GO:0060556	3	GO:0006029	proteoglycan metabolic process
+GO:0071940	6	GO:0051276	chromosome organization
+GO:0045913	2	GO:0001934	positive regulation of protein phosphorylation
+GO:0002440	1	GO:0001817	regulation of cytokine production
+GO:0031055	6	GO:0051276	chromosome organization
+GO:0032760	1	GO:0001817	regulation of cytokine production
+GO:1904000	18	GO:0150119	negative regulation of protein localization to cell-cell junction
+GO:0031028	8	GO:0002221	pattern recognition receptor signaling pathway
+GO:0031029	8	GO:0002221	pattern recognition receptor signaling pathway
+GO:0090276	14	GO:0065002	intracellular protein transmembrane transport
+GO:0030856	15	GO:0048143	astrocyte activation
+GO:0015012	3	GO:0006029	proteoglycan metabolic process
+GO:0043372	15	GO:0048143	astrocyte activation
+GO:0043374	15	GO:0048143	astrocyte activation
+GO:0032774	4	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:1902412	5	GO:0140279	regulation of mitotic division septum assembly
+GO:0006029	3	GO:0006029	proteoglycan metabolic process
+GO:0002637	1	GO:0001817	regulation of cytokine production
+GO:0002639	1	GO:0001817	regulation of cytokine production
+GO:0032955	5	GO:0140279	regulation of mitotic division septum assembly
+GO:0031214	15	GO:0048143	astrocyte activation
+GO:0000070	7	GO:0140013	meiotic nuclear division
+GO:0000018	4	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0045830	3	GO:0006029	proteoglycan metabolic process
+GO:0000289	4	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0010959	18	GO:0150119	negative regulation of protein localization to cell-cell junction
+GO:0010973	5	GO:0140279	regulation of mitotic division septum assembly
+GO:0010922	2	GO:0001934	positive regulation of protein phosphorylation
+GO:0030388	3	GO:0006029	proteoglycan metabolic process
+GO:0046425	8	GO:0002221	pattern recognition receptor signaling pathway
+GO:0010644	16	GO:0031341	regulation of cell killing
+GO:0010780	4	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0010789	7	GO:0140013	meiotic nuclear division
+GO:0019068	12	GO:0016032	viral process
+GO:0019069	12	GO:0016032	viral process
+GO:0065002	14	GO:0065002	intracellular protein transmembrane transport
+GO:0001556	15	GO:0048143	astrocyte activation
+GO:0000282	5	GO:0140279	regulation of mitotic division septum assembly
+GO:0044650	12	GO:0016032	viral process
+GO:0016482	14	GO:0065002	intracellular protein transmembrane transport
+GO:0035545	15	GO:0048143	astrocyte activation
+GO:0051205	14	GO:0065002	intracellular protein transmembrane transport
+GO:2001258	18	GO:0150119	negative regulation of protein localization to cell-cell junction
+GO:0044406	12	GO:0016032	viral process
+GO:0051784	6	GO:0051276	chromosome organization
+GO:0090529	5	GO:0140279	regulation of mitotic division septum assembly
+GO:0150115	6	GO:0051276	chromosome organization
+GO:1990116	3	GO:0006029	proteoglycan metabolic process
+GO:0002684	10	GO:0050778	positive regulation of immune response
+GO:1900180	18	GO:0150119	negative regulation of protein localization to cell-cell junction
+GO:1900182	18	GO:0150119	negative regulation of protein localization to cell-cell junction
+GO:0050778	10	GO:0050778	positive regulation of immune response
+GO:0051131	6	GO:0051276	chromosome organization
+GO:0045860	2	GO:0001934	positive regulation of protein phosphorylation
+GO:0030727	15	GO:0048143	astrocyte activation
+GO:0045859	2	GO:0001934	positive regulation of protein phosphorylation
+GO:1901987	16	GO:0031341	regulation of cell killing
+GO:0002274	16	GO:0031341	regulation of cell killing
+GO:0002221	8	GO:0002221	pattern recognition receptor signaling pathway
+GO:0002224	8	GO:0002221	pattern recognition receptor signaling pathway
+GO:0035891	12	GO:0016032	viral process
+GO:0002218	11	GO:0032101	regulation of response to external stimulus
+GO:0034661	4	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0034121	8	GO:0002221	pattern recognition receptor signaling pathway
+GO:0034122	8	GO:0002221	pattern recognition receptor signaling pathway
+GO:0046761	12	GO:0016032	viral process
+GO:0046753	12	GO:0016032	viral process
+GO:2000114	16	GO:0031341	regulation of cell killing
+GO:0019058	12	GO:0016032	viral process
+GO:0001934	2	GO:0001934	positive regulation of protein phosphorylation
+GO:0002764	8	GO:0002221	pattern recognition receptor signaling pathway
+GO:0002757	8	GO:0002221	pattern recognition receptor signaling pathway
+GO:0002758	11	GO:0032101	regulation of response to external stimulus
+GO:0071897	4	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0045089	11	GO:0032101	regulation of response to external stimulus
+GO:0043934	15	GO:0048143	astrocyte activation
+GO:2000279	4	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0030435	15	GO:0048143	astrocyte activation
+GO:0010833	4	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0000722	4	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0039722	9	GO:0039545	suppression by virus of host MAVS activity
+GO:0002833	11	GO:0032101	regulation of response to external stimulus
+GO:0002949	4	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0048134	15	GO:0048143	astrocyte activation
+GO:0048135	15	GO:0048143	astrocyte activation
+GO:0031349	11	GO:0032101	regulation of response to external stimulus
+GO:0051972	4	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0007044	6	GO:0051276	chromosome organization
+GO:0000917	5	GO:0140279	regulation of mitotic division septum assembly
+GO:0007004	4	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0033674	2	GO:0001934	positive regulation of protein phosphorylation

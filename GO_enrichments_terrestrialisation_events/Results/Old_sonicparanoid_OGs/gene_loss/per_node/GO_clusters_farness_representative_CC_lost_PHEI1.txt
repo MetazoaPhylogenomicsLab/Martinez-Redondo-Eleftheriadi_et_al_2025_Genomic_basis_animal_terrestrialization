@@ -1,0 +1,197 @@
+GO:0000812	4	GO:0036063	acroblast
+GO:0044177	1	GO:0033647	host intracellular organelle
+GO:0120025	6	GO:0120025	plasma membrane bounded cell projection
+GO:0034451	5	GO:0005856	cytoskeleton
+GO:0000120	4	GO:0036063	acroblast
+GO:1990454	3	GO:0098797	plasma membrane protein complex
+GO:0043196	6	GO:0120025	plasma membrane bounded cell projection
+GO:0031265	3	GO:0098797	plasma membrane protein complex
+GO:0031514	6	GO:0120025	plasma membrane bounded cell projection
+GO:0120044	6	GO:0120025	plasma membrane bounded cell projection
+GO:0032983	3	GO:0098797	plasma membrane protein complex
+GO:0031256	8	GO:0005886	plasma membrane
+GO:0071944	8	GO:0005886	plasma membrane
+GO:0005923	7	GO:0030054	cell junction
+GO:0033645	1	GO:0033647	host intracellular organelle
+GO:0033647	1	GO:0033647	host intracellular organelle
+GO:0033648	1	GO:0033647	host intracellular organelle
+GO:0005929	6	GO:0120025	plasma membrane bounded cell projection
+GO:0071683	6	GO:0120025	plasma membrane bounded cell projection
+GO:0005912	7	GO:0030054	cell junction
+GO:0005915	7	GO:0030054	cell junction
+GO:0090665	2	GO:0044423	virion component
+GO:0032797	4	GO:0036063	acroblast
+GO:0005677	4	GO:0036063	acroblast
+GO:0031234	8	GO:0005886	plasma membrane
+GO:0019028	2	GO:0044423	virion component
+GO:0019029	2	GO:0044423	virion component
+GO:0048786	7	GO:0030054	cell junction
+GO:0019013	2	GO:0044423	virion component
+GO:0030313	7	GO:0030054	cell junction
+GO:0030056	7	GO:0030054	cell junction
+GO:0019030	2	GO:0044423	virion component
+GO:0019031	2	GO:0044423	virion component
+GO:0019033	2	GO:0044423	virion component
+GO:0035869	6	GO:0120025	plasma membrane bounded cell projection
+GO:0097546	6	GO:0120025	plasma membrane bounded cell projection
+GO:0036128	3	GO:0098797	plasma membrane protein complex
+GO:0098975	7	GO:0030054	cell junction
+GO:0097539	6	GO:0120025	plasma membrane bounded cell projection
+GO:0043296	7	GO:0030054	cell junction
+GO:0044219	1	GO:0033647	host intracellular organelle
+GO:0000214	4	GO:0036063	acroblast
+GO:0044094	1	GO:0033647	host intracellular organelle
+GO:0016342	3	GO:0098797	plasma membrane protein complex
+GO:0042597	7	GO:0030054	cell junction
+GO:0005891	3	GO:0098797	plasma membrane protein complex
+GO:0031463	2	GO:0044423	virion component
+GO:0055036	7	GO:0030054	cell junction
+GO:0044204	1	GO:0033647	host intracellular organelle
+GO:0030424	6	GO:0120025	plasma membrane bounded cell projection
+GO:0030425	6	GO:0120025	plasma membrane bounded cell projection
+GO:0038037	3	GO:0098797	plasma membrane protein complex
+GO:0001669	4	GO:0036063	acroblast
+GO:0005886	8	GO:0005886	plasma membrane
+GO:0039615	2	GO:0044423	virion component
+GO:0009279	8	GO:0005886	plasma membrane
+GO:0043235	2	GO:0044423	virion component
+GO:0030430	1	GO:0033647	host intracellular organelle
+GO:0097648	3	GO:0098797	plasma membrane protein complex
+GO:0005814	5	GO:0005856	cytoskeleton
+GO:0016605	4	GO:0036063	acroblast
+GO:0042995	6	GO:0120025	plasma membrane bounded cell projection
+GO:0043083	7	GO:0030054	cell junction
+GO:0033557	4	GO:0036063	acroblast
+GO:0032116	4	GO:0036063	acroblast
+GO:0036338	2	GO:0044423	virion component
+GO:0044423	2	GO:0044423	virion component
+GO:0020002	1	GO:0033647	host intracellular organelle
+GO:0031160	7	GO:0030054	cell junction
+GO:0032590	8	GO:0005886	plasma membrane
+GO:0043005	6	GO:0120025	plasma membrane bounded cell projection
+GO:0033255	4	GO:0036063	acroblast
+GO:0002199	2	GO:0044423	virion component
+GO:0042025	1	GO:0033647	host intracellular organelle
+GO:0042627	7	GO:0030054	cell junction
+GO:0005576	7	GO:0030054	cell junction
+GO:0000408	2	GO:0044423	virion component
+GO:0071254	4	GO:0036063	acroblast
+GO:0001401	4	GO:0036063	acroblast
+GO:0034702	3	GO:0098797	plasma membrane protein complex
+GO:0034703	3	GO:0098797	plasma membrane protein complex
+GO:0034706	3	GO:0098797	plasma membrane protein complex
+GO:0009986	7	GO:0030054	cell junction
+GO:0043204	7	GO:0030054	cell junction
+GO:0009897	8	GO:0005886	plasma membrane
+GO:0062023	7	GO:0030054	cell junction
+GO:0018995	7	GO:0030054	cell junction
+GO:0031209	4	GO:0036063	acroblast
+GO:0033643	1	GO:0033647	host intracellular organelle
+GO:0044196	1	GO:0033647	host intracellular organelle
+GO:0044199	1	GO:0033647	host intracellular organelle
+GO:0036064	5	GO:0005856	cytoskeleton
+GO:1990072	4	GO:0036063	acroblast
+GO:0043657	1	GO:0033647	host intracellular organelle
+GO:0005614	7	GO:0030054	cell junction
+GO:0005615	7	GO:0030054	cell junction
+GO:0044174	1	GO:0033647	host intracellular organelle
+GO:0044175	1	GO:0033647	host intracellular organelle
+GO:0044178	1	GO:0033647	host intracellular organelle
+GO:0005637	4	GO:0036063	acroblast
+GO:0098802	3	GO:0098797	plasma membrane protein complex
+GO:0005919	7	GO:0030054	cell junction
+GO:0005604	7	GO:0030054	cell junction
+GO:0097060	8	GO:0005886	plasma membrane
+GO:0042734	8	GO:0005886	plasma membrane
+GO:0032133	5	GO:0005856	cytoskeleton
+GO:0098552	8	GO:0005886	plasma membrane
+GO:0044297	7	GO:0030054	cell junction
+GO:0044298	8	GO:0005886	plasma membrane
+GO:0005818	5	GO:0005856	cytoskeleton
+GO:1990462	4	GO:0036063	acroblast
+GO:0032809	8	GO:0005886	plasma membrane
+GO:0043291	4	GO:0036063	acroblast
+GO:0098797	3	GO:0098797	plasma membrane protein complex
+GO:0034993	4	GO:0036063	acroblast
+GO:0032589	8	GO:0005886	plasma membrane
+GO:0016010	3	GO:0098797	plasma membrane protein complex
+GO:0042383	8	GO:0005886	plasma membrane
+GO:0031594	7	GO:0030054	cell junction
+GO:0045211	8	GO:0005886	plasma membrane
+GO:0061702	4	GO:0036063	acroblast
+GO:0060170	8	GO:0005886	plasma membrane
+GO:0072669	2	GO:0044423	virion component
+GO:0035301	2	GO:0044423	virion component
+GO:0032391	6	GO:0120025	plasma membrane bounded cell projection
+GO:0042600	7	GO:0030054	cell junction
+GO:0070062	7	GO:0030054	cell junction
+GO:0031526	8	GO:0005886	plasma membrane
+GO:0031528	8	GO:0005886	plasma membrane
+GO:0045121	7	GO:0030054	cell junction
+GO:0031253	8	GO:0005886	plasma membrane
+GO:0070939	4	GO:0036063	acroblast
+GO:0097598	4	GO:0036063	acroblast
+GO:1990423	5	GO:0005856	cytoskeleton
+GO:0034704	3	GO:0098797	plasma membrane protein complex
+GO:0060293	4	GO:0036063	acroblast
+GO:0005930	5	GO:0005856	cytoskeleton
+GO:0043186	5	GO:0005856	cytoskeleton
+GO:0005938	7	GO:0030054	cell junction
+GO:0070648	5	GO:0005856	cytoskeleton
+GO:0005902	6	GO:0120025	plasma membrane bounded cell projection
+GO:0005903	7	GO:0030054	cell junction
+GO:0005640	4	GO:0036063	acroblast
+GO:0030315	8	GO:0005886	plasma membrane
+GO:0036157	5	GO:0005856	cytoskeleton
+GO:0030054	7	GO:0030054	cell junction
+GO:0030915	5	GO:0005856	cytoskeleton
+GO:0097517	5	GO:0005856	cytoskeleton
+GO:0030027	6	GO:0120025	plasma membrane bounded cell projection
+GO:0110085	5	GO:0005856	cytoskeleton
+GO:0000221	4	GO:0036063	acroblast
+GO:0016324	8	GO:0005886	plasma membrane
+GO:0002080	4	GO:0036063	acroblast
+GO:0032432	5	GO:0005856	cytoskeleton
+GO:0005892	3	GO:0098797	plasma membrane protein complex
+GO:0031464	2	GO:0044423	virion component
+GO:0000922	5	GO:0005856	cytoskeleton
+GO:0033150	5	GO:0005856	cytoskeleton
+GO:0000346	4	GO:0036063	acroblast
+GO:0045202	7	GO:0030054	cell junction
+GO:0000347	4	GO:0036063	acroblast
+GO:0033180	3	GO:0098797	plasma membrane protein complex
+GO:0005861	5	GO:0005856	cytoskeleton
+GO:0005865	5	GO:0005856	cytoskeleton
+GO:0000943	4	GO:0036063	acroblast
+GO:0005856	5	GO:0005856	cytoskeleton
+GO:0044304	6	GO:0120025	plasma membrane bounded cell projection
+GO:0005871	5	GO:0005856	cytoskeleton
+GO:0005874	5	GO:0005856	cytoskeleton
+GO:0005879	5	GO:0005856	cytoskeleton
+GO:0005828	5	GO:0005856	cytoskeleton
+GO:1904511	5	GO:0005856	cytoskeleton
+GO:0005813	5	GO:0005856	cytoskeleton
+GO:0016459	5	GO:0005856	cytoskeleton
+GO:0005834	3	GO:0098797	plasma membrane protein complex
+GO:1903561	4	GO:0036063	acroblast
+GO:0045495	4	GO:0036063	acroblast
+GO:0120103	6	GO:0120025	plasma membrane bounded cell projection
+GO:0043025	7	GO:0030054	cell junction
+GO:0036063	4	GO:0036063	acroblast
+GO:0097730	6	GO:0120025	plasma membrane bounded cell projection
+GO:0001725	5	GO:0005856	cytoskeleton
+GO:1905360	2	GO:0044423	virion component
+GO:0034361	7	GO:0030054	cell junction
+GO:0098862	7	GO:0030054	cell junction
+GO:0034362	7	GO:0030054	cell junction
+GO:0008303	2	GO:0044423	virion component
+GO:0098858	6	GO:0120025	plasma membrane bounded cell projection
+GO:0030849	5	GO:0005856	cytoskeleton
+GO:0035098	4	GO:0036063	acroblast
+GO:0030175	6	GO:0120025	plasma membrane bounded cell projection
+GO:0032587	8	GO:0005886	plasma membrane
+GO:0031143	6	GO:0120025	plasma membrane bounded cell projection
+GO:1990071	4	GO:0036063	acroblast
+GO:0071546	5	GO:0005856	cytoskeleton
+GO:0061822	6	GO:0120025	plasma membrane bounded cell projection
+GO:0042641	5	GO:0005856	cytoskeleton

@@ -1,0 +1,35 @@
+GO:1990023	2	GO:0005856	cytoskeleton
+GO:0070876	4	GO:0070876	SOSS complex
+GO:0033644	1	GO:0030430	host cell cytoplasm
+GO:0005874	2	GO:0005856	cytoskeleton
+GO:0097014	4	GO:0070876	SOSS complex
+GO:0005814	2	GO:0005856	cytoskeleton
+GO:0030991	3	GO:0055036	virion membrane
+GO:0031097	3	GO:0055036	virion membrane
+GO:0005819	2	GO:0005856	cytoskeleton
+GO:0070847	4	GO:0070876	SOSS complex
+GO:0055036	3	GO:0055036	virion membrane
+GO:0005929	4	GO:0070876	SOSS complex
+GO:0051285	3	GO:0055036	virion membrane
+GO:0042025	1	GO:0030430	host cell cytoplasm
+GO:0035102	4	GO:0070876	SOSS complex
+GO:0008076	3	GO:0055036	virion membrane
+GO:0030849	2	GO:0005856	cytoskeleton
+GO:0005930	2	GO:0005856	cytoskeleton
+GO:0043083	3	GO:0055036	virion membrane
+GO:0005628	3	GO:0055036	virion membrane
+GO:0005721	2	GO:0005856	cytoskeleton
+GO:0072686	2	GO:0005856	cytoskeleton
+GO:0020002	1	GO:0030430	host cell cytoplasm
+GO:0044177	1	GO:0030430	host cell cytoplasm
+GO:0005701	2	GO:0005856	cytoskeleton
+GO:0044178	1	GO:0030430	host cell cytoplasm
+GO:0015630	2	GO:0005856	cytoskeleton
+GO:0034045	3	GO:0055036	virion membrane
+GO:0016592	4	GO:0070876	SOSS complex
+GO:0030430	1	GO:0030430	host cell cytoplasm
+GO:0045171	3	GO:0055036	virion membrane
+GO:0070056	3	GO:0055036	virion membrane
+GO:0019031	3	GO:0055036	virion membrane
+GO:0019033	3	GO:0055036	virion membrane
+GO:0005856	2	GO:0005856	cytoskeleton

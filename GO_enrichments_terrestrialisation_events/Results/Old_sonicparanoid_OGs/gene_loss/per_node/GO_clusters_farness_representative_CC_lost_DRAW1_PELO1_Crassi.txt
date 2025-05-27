@@ -1,0 +1,27 @@
+GO:0019031	3	GO:0044423	virion component
+GO:0019033	3	GO:0044423	virion component
+GO:0042025	1	GO:0033644	host cell membrane
+GO:0090571	2	GO:0022624	proteasome accessory complex
+GO:0044167	1	GO:0033644	host cell membrane
+GO:0008541	2	GO:0022624	proteasome accessory complex
+GO:0020002	1	GO:0033644	host cell membrane
+GO:0000782	2	GO:0022624	proteasome accessory complex
+GO:0044177	1	GO:0033644	host cell membrane
+GO:0044178	1	GO:0033644	host cell membrane
+GO:0009507	2	GO:0022624	proteasome accessory complex
+GO:0022624	2	GO:0022624	proteasome accessory complex
+GO:0055036	3	GO:0044423	virion component
+GO:0033644	1	GO:0033644	host cell membrane
+GO:0033645	1	GO:0033644	host cell membrane
+GO:0000324	2	GO:0022624	proteasome accessory complex
+GO:0080008	2	GO:0022624	proteasome accessory complex
+GO:0032839	2	GO:0022624	proteasome accessory complex
+GO:0044219	1	GO:0033644	host cell membrane
+GO:0005838	2	GO:0022624	proteasome accessory complex
+GO:0044423	3	GO:0044423	virion component
+GO:0042597	2	GO:0022624	proteasome accessory complex
+GO:0044204	1	GO:0033644	host cell membrane
+GO:0030430	1	GO:0033644	host cell membrane
+GO:0044094	1	GO:0033644	host cell membrane
+GO:0016020	2	GO:0022624	proteasome accessory complex
+GO:0019028	3	GO:0044423	virion component

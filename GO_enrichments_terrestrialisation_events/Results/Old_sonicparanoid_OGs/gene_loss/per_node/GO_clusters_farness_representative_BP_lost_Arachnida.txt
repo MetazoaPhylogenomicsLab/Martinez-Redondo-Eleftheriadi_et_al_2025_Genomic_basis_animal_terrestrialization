@@ -1,0 +1,488 @@
+GO:1904000	20	GO:0060759	regulation of response to cytokine stimulus
+GO:0048232	18	GO:0045137	development of primary sexual characteristics
+GO:0007548	18	GO:0045137	development of primary sexual characteristics
+GO:0060258	20	GO:0060759	regulation of response to cytokine stimulus
+GO:0006554	1	GO:0006508	proteolysis
+GO:0034508	16	GO:0045229	external encapsulating structure organization
+GO:0045137	18	GO:0045137	development of primary sexual characteristics
+GO:0050709	12	GO:0051204	protein insertion into mitochondrial membrane
+GO:0008645	13	GO:0006811	ion transport
+GO:0052173	8	GO:0052031	modulation by symbiont of host defense response
+GO:0097009	19	GO:0071684	organism emergence from protective structure
+GO:0050829	5	GO:0045088	regulation of innate immune response
+GO:0060759	20	GO:0060759	regulation of response to cytokine stimulus
+GO:1904659	13	GO:0006811	ion transport
+GO:0019054	7	GO:0019054	modulation by virus of host cellular process
+GO:0007606	19	GO:0071684	organism emergence from protective structure
+GO:0006620	12	GO:0051204	protein insertion into mitochondrial membrane
+GO:0044501	8	GO:0052031	modulation by symbiont of host defense response
+GO:0030447	20	GO:0060759	regulation of response to cytokine stimulus
+GO:0019049	8	GO:0052031	modulation by symbiont of host defense response
+GO:1900428	20	GO:0060759	regulation of response to cytokine stimulus
+GO:0046740	9	GO:0016032	viral process
+GO:1900429	20	GO:0060759	regulation of response to cytokine stimulus
+GO:0052200	8	GO:0052031	modulation by symbiont of host defense response
+GO:0051224	12	GO:0051204	protein insertion into mitochondrial membrane
+GO:0007343	17	GO:0071554	cell wall organization or biogenesis
+GO:0009566	18	GO:0045137	development of primary sexual characteristics
+GO:0000747	17	GO:0071554	cell wall organization or biogenesis
+GO:0007338	18	GO:0045137	development of primary sexual characteristics
+GO:0071480	20	GO:0060759	regulation of response to cytokine stimulus
+GO:0060079	15	GO:0002221	pattern recognition receptor signaling pathway
+GO:0001959	15	GO:0002221	pattern recognition receptor signaling pathway
+GO:0008406	18	GO:0045137	development of primary sexual characteristics
+GO:0042631	20	GO:0060759	regulation of response to cytokine stimulus
+GO:0016485	1	GO:0006508	proteolysis
+GO:0099565	15	GO:0002221	pattern recognition receptor signaling pathway
+GO:0010570	20	GO:0060759	regulation of response to cytokine stimulus
+GO:2001238	15	GO:0002221	pattern recognition receptor signaling pathway
+GO:0052027	7	GO:0019054	modulation by virus of host cellular process
+GO:0002230	5	GO:0045088	regulation of innate immune response
+GO:0006963	6	GO:0002808	regulation of antibacterial peptide biosynthetic process
+GO:0007141	14	GO:0051177	meiotic sister chromatid cohesion
+GO:0039564	7	GO:0019054	modulation by virus of host cellular process
+GO:0006919	2	GO:0032350	regulation of hormone metabolic process
+GO:0015979	17	GO:0071554	cell wall organization or biogenesis
+GO:0007291	18	GO:0045137	development of primary sexual characteristics
+GO:0007283	18	GO:0045137	development of primary sexual characteristics
+GO:0039502	5	GO:0045088	regulation of innate immune response
+GO:0030850	18	GO:0045137	development of primary sexual characteristics
+GO:0019474	1	GO:0006508	proteolysis
+GO:0061057	15	GO:0002221	pattern recognition receptor signaling pathway
+GO:0019477	1	GO:0006508	proteolysis
+GO:0036462	15	GO:0002221	pattern recognition receptor signaling pathway
+GO:0075136	8	GO:0052031	modulation by symbiont of host defense response
+GO:0060339	5	GO:0045088	regulation of innate immune response
+GO:0039644	3	GO:0045892	negative regulation of transcription, DNA-templated
+GO:0009414	20	GO:0060759	regulation of response to cytokine stimulus
+GO:0009415	20	GO:0060759	regulation of response to cytokine stimulus
+GO:0055085	13	GO:0006811	ion transport
+GO:0050911	19	GO:0071684	organism emergence from protective structure
+GO:1901264	13	GO:0006811	ion transport
+GO:0048934	18	GO:0045137	development of primary sexual characteristics
+GO:0048935	18	GO:0045137	development of primary sexual characteristics
+GO:0046440	1	GO:0006508	proteolysis
+GO:0007060	14	GO:0051177	meiotic sister chromatid cohesion
+GO:1903746	20	GO:0060759	regulation of response to cytokine stimulus
+GO:0030682	8	GO:0052031	modulation by symbiont of host defense response
+GO:0006811	13	GO:0006811	ion transport
+GO:0019236	20	GO:0060759	regulation of response to cytokine stimulus
+GO:0098868	19	GO:0071684	organism emergence from protective structure
+GO:0051307	14	GO:0051177	meiotic sister chromatid cohesion
+GO:0051308	14	GO:0051177	meiotic sister chromatid cohesion
+GO:0006020	1	GO:0006508	proteolysis
+GO:0006026	1	GO:0006508	proteolysis
+GO:0035265	19	GO:0071684	organism emergence from protective structure
+GO:0046718	9	GO:0016032	viral process
+GO:0044650	9	GO:0016032	viral process
+GO:0098742	17	GO:0071554	cell wall organization or biogenesis
+GO:0019731	5	GO:0045088	regulation of innate immune response
+GO:0032365	13	GO:0006811	ion transport
+GO:0006027	1	GO:0006508	proteolysis
+GO:1903506	3	GO:0045892	negative regulation of transcription, DNA-templated
+GO:0015910	13	GO:0006811	ion transport
+GO:0042908	13	GO:0006811	ion transport
+GO:0006646	1	GO:0006508	proteolysis
+GO:0007416	18	GO:0045137	development of primary sexual characteristics
+GO:0032490	20	GO:0060759	regulation of response to cytokine stimulus
+GO:0032497	20	GO:0060759	regulation of response to cytokine stimulus
+GO:0031666	15	GO:0002221	pattern recognition receptor signaling pathway
+GO:0039657	8	GO:0052031	modulation by symbiont of host defense response
+GO:0007157	17	GO:0071554	cell wall organization or biogenesis
+GO:0048755	18	GO:0045137	development of primary sexual characteristics
+GO:0098542	5	GO:0045088	regulation of innate immune response
+GO:0039646	7	GO:0019054	modulation by virus of host cellular process
+GO:0019058	9	GO:0016032	viral process
+GO:0019076	9	GO:0016032	viral process
+GO:0036065	1	GO:0006508	proteolysis
+GO:0019042	9	GO:0016032	viral process
+GO:0019043	9	GO:0016032	viral process
+GO:0098609	17	GO:0071554	cell wall organization or biogenesis
+GO:0008039	18	GO:0045137	development of primary sexual characteristics
+GO:0071715	13	GO:0006811	ion transport
+GO:0060337	5	GO:0045088	regulation of innate immune response
+GO:0060338	5	GO:0045088	regulation of innate immune response
+GO:0045742	15	GO:0002221	pattern recognition receptor signaling pathway
+GO:0043651	1	GO:0006508	proteolysis
+GO:0006355	3	GO:0045892	negative regulation of transcription, DNA-templated
+GO:0042244	16	GO:0045229	external encapsulating structure organization
+GO:0006956	5	GO:0045088	regulation of innate immune response
+GO:0006959	20	GO:0060759	regulation of response to cytokine stimulus
+GO:0016032	9	GO:0016032	viral process
+GO:0006305	4	GO:0006259	DNA metabolic process
+GO:0006306	4	GO:0006259	DNA metabolic process
+GO:0042760	1	GO:0006508	proteolysis
+GO:0050907	19	GO:0071684	organism emergence from protective structure
+GO:0044406	9	GO:0016032	viral process
+GO:0042759	1	GO:0006508	proteolysis
+GO:1903977	18	GO:0045137	development of primary sexual characteristics
+GO:0035891	8	GO:0052031	modulation by symbiont of host defense response
+GO:0034440	1	GO:0006508	proteolysis
+GO:0015721	13	GO:0006811	ion transport
+GO:0015711	13	GO:0006811	ion transport
+GO:0031343	15	GO:0002221	pattern recognition receptor signaling pathway
+GO:0035821	8	GO:0052031	modulation by symbiont of host defense response
+GO:0048668	18	GO:0045137	development of primary sexual characteristics
+GO:0071555	16	GO:0045229	external encapsulating structure organization
+GO:0002690	20	GO:0060759	regulation of response to cytokine stimulus
+GO:0019395	1	GO:0006508	proteolysis
+GO:1902001	13	GO:0006811	ion transport
+GO:0034113	17	GO:0071554	cell wall organization or biogenesis
+GO:0000395	1	GO:0006508	proteolysis
+GO:0015850	13	GO:0006811	ion transport
+GO:0051597	20	GO:0060759	regulation of response to cytokine stimulus
+GO:0060252	18	GO:0045137	development of primary sexual characteristics
+GO:0045087	5	GO:0045088	regulation of innate immune response
+GO:0071674	20	GO:0060759	regulation of response to cytokine stimulus
+GO:0071675	20	GO:0060759	regulation of response to cytokine stimulus
+GO:0071622	20	GO:0060759	regulation of response to cytokine stimulus
+GO:0031152	20	GO:0060759	regulation of response to cytokine stimulus
+GO:0006278	4	GO:0006259	DNA metabolic process
+GO:0035010	20	GO:0060759	regulation of response to cytokine stimulus
+GO:0035633	19	GO:0071684	organism emergence from protective structure
+GO:0016339	17	GO:0071554	cell wall organization or biogenesis
+GO:0051017	16	GO:0045229	external encapsulating structure organization
+GO:0015695	13	GO:0006811	ion transport
+GO:0031288	18	GO:0045137	development of primary sexual characteristics
+GO:1901568	1	GO:0006508	proteolysis
+GO:0050777	5	GO:0045088	regulation of innate immune response
+GO:1901570	1	GO:0006508	proteolysis
+GO:0044826	9	GO:0016032	viral process
+GO:0070593	18	GO:0045137	development of primary sexual characteristics
+GO:0075713	9	GO:0016032	viral process
+GO:0030307	15	GO:0002221	pattern recognition receptor signaling pathway
+GO:0006884	16	GO:0045229	external encapsulating structure organization
+GO:1901074	12	GO:0051204	protein insertion into mitochondrial membrane
+GO:0000272	1	GO:0006508	proteolysis
+GO:0019233	19	GO:0071684	organism emergence from protective structure
+GO:0010951	2	GO:0032350	regulation of hormone metabolic process
+GO:0071357	5	GO:0045088	regulation of innate immune response
+GO:0035357	15	GO:0002221	pattern recognition receptor signaling pathway
+GO:0050778	5	GO:0045088	regulation of innate immune response
+GO:0007549	2	GO:0032350	regulation of hormone metabolic process
+GO:0035249	17	GO:0071554	cell wall organization or biogenesis
+GO:0060251	18	GO:0045137	development of primary sexual characteristics
+GO:0035235	15	GO:0002221	pattern recognition receptor signaling pathway
+GO:0000122	3	GO:0045892	negative regulation of transcription, DNA-templated
+GO:0044071	7	GO:0019054	modulation by virus of host cellular process
+GO:0071684	19	GO:0071684	organism emergence from protective structure
+GO:0002322	20	GO:0060759	regulation of response to cytokine stimulus
+GO:0035725	11	GO:1901379	regulation of potassium ion transmembrane transport
+GO:0045229	16	GO:0045229	external encapsulating structure organization
+GO:0033687	17	GO:0071554	cell wall organization or biogenesis
+GO:0033688	15	GO:0002221	pattern recognition receptor signaling pathway
+GO:0019055	7	GO:0019054	modulation by virus of host cellular process
+GO:0050808	16	GO:0045229	external encapsulating structure organization
+GO:0042595	20	GO:0060759	regulation of response to cytokine stimulus
+GO:0003431	18	GO:0045137	development of primary sexual characteristics
+GO:0042572	1	GO:0006508	proteolysis
+GO:0030150	12	GO:0051204	protein insertion into mitochondrial membrane
+GO:0034330	16	GO:0045229	external encapsulating structure organization
+GO:0048002	20	GO:0060759	regulation of response to cytokine stimulus
+GO:2000053	15	GO:0002221	pattern recognition receptor signaling pathway
+GO:2000055	15	GO:0002221	pattern recognition receptor signaling pathway
+GO:0050691	5	GO:0045088	regulation of innate immune response
+GO:0045892	3	GO:0045892	negative regulation of transcription, DNA-templated
+GO:0018996	19	GO:0071684	organism emergence from protective structure
+GO:0046813	9	GO:0016032	viral process
+GO:0045088	5	GO:0045088	regulation of innate immune response
+GO:0045089	5	GO:0045088	regulation of innate immune response
+GO:0070096	16	GO:0045229	external encapsulating structure organization
+GO:0045040	12	GO:0051204	protein insertion into mitochondrial membrane
+GO:0044332	15	GO:0002221	pattern recognition receptor signaling pathway
+GO:0031349	5	GO:0045088	regulation of innate immune response
+GO:0002253	5	GO:0045088	regulation of innate immune response
+GO:0042391	20	GO:0060759	regulation of response to cytokine stimulus
+GO:0002221	15	GO:0002221	pattern recognition receptor signaling pathway
+GO:0002224	15	GO:0002221	pattern recognition receptor signaling pathway
+GO:0002218	5	GO:0045088	regulation of innate immune response
+GO:0099536	17	GO:0071554	cell wall organization or biogenesis
+GO:0099537	17	GO:0071554	cell wall organization or biogenesis
+GO:0051037	3	GO:0045892	negative regulation of transcription, DNA-templated
+GO:0002758	5	GO:0045088	regulation of innate immune response
+GO:0002780	6	GO:0002808	regulation of antibacterial peptide biosynthetic process
+GO:1903975	18	GO:0045137	development of primary sexual characteristics
+GO:0002786	6	GO:0002808	regulation of antibacterial peptide biosynthetic process
+GO:0098916	17	GO:0071554	cell wall organization or biogenesis
+GO:0002778	6	GO:0002808	regulation of antibacterial peptide biosynthetic process
+GO:0007268	17	GO:0071554	cell wall organization or biogenesis
+GO:0014015	18	GO:0045137	development of primary sexual characteristics
+GO:0034220	13	GO:0006811	ion transport
+GO:0039693	9	GO:0016032	viral process
+GO:0014009	18	GO:0045137	development of primary sexual characteristics
+GO:0043922	8	GO:0052031	modulation by symbiont of host defense response
+GO:1901186	15	GO:0002221	pattern recognition receptor signaling pathway
+GO:0001894	19	GO:0071684	organism emergence from protective structure
+GO:0110077	13	GO:0006811	ion transport
+GO:0002803	6	GO:0002808	regulation of antibacterial peptide biosynthetic process
+GO:0002808	6	GO:0002808	regulation of antibacterial peptide biosynthetic process
+GO:0061572	16	GO:0045229	external encapsulating structure organization
+GO:1903202	20	GO:0060759	regulation of response to cytokine stimulus
+GO:0000379	4	GO:0006259	DNA metabolic process
+GO:0044247	1	GO:0006508	proteolysis
+GO:0048168	15	GO:0002221	pattern recognition receptor signaling pathway
+GO:0040003	18	GO:0045137	development of primary sexual characteristics
+GO:0060153	7	GO:0019054	modulation by virus of host cellular process
+GO:1990806	15	GO:0002221	pattern recognition receptor signaling pathway
+GO:0071577	11	GO:1901379	regulation of potassium ion transmembrane transport
+GO:0009251	1	GO:0006508	proteolysis
+GO:0007595	18	GO:0045137	development of primary sexual characteristics
+GO:0015812	13	GO:0006811	ion transport
+GO:0015838	13	GO:0006811	ion transport
+GO:0007586	19	GO:0071684	organism emergence from protective structure
+GO:0010496	13	GO:0006811	ion transport
+GO:0034090	14	GO:0051177	meiotic sister chromatid cohesion
+GO:0042398	1	GO:0006508	proteolysis
+GO:0071465	20	GO:0060759	regulation of response to cytokine stimulus
+GO:0044036	4	GO:0006259	DNA metabolic process
+GO:0034089	14	GO:0051177	meiotic sister chromatid cohesion
+GO:0044003	8	GO:0052031	modulation by symbiont of host defense response
+GO:0006508	1	GO:0006508	proteolysis
+GO:0046885	2	GO:0032350	regulation of hormone metabolic process
+GO:0032350	2	GO:0032350	regulation of hormone metabolic process
+GO:0050673	17	GO:0071554	cell wall organization or biogenesis
+GO:0035418	12	GO:0051204	protein insertion into mitochondrial membrane
+GO:0031509	3	GO:0045892	negative regulation of transcription, DNA-templated
+GO:1901381	11	GO:1901379	regulation of potassium ion transmembrane transport
+GO:0046651	20	GO:0060759	regulation of response to cytokine stimulus
+GO:1900047	20	GO:0060759	regulation of response to cytokine stimulus
+GO:0019062	9	GO:0016032	viral process
+GO:0019064	9	GO:0016032	viral process
+GO:0019068	9	GO:0016032	viral process
+GO:0019069	9	GO:0016032	viral process
+GO:0019083	9	GO:0016032	viral process
+GO:0009988	17	GO:0071554	cell wall organization or biogenesis
+GO:0019072	9	GO:0016032	viral process
+GO:0019079	9	GO:0016032	viral process
+GO:0097205	19	GO:0071684	organism emergence from protective structure
+GO:0062013	2	GO:0032350	regulation of hormone metabolic process
+GO:0008625	15	GO:0002221	pattern recognition receptor signaling pathway
+GO:0043065	15	GO:0002221	pattern recognition receptor signaling pathway
+GO:0045730	1	GO:0006508	proteolysis
+GO:0010893	2	GO:0032350	regulation of hormone metabolic process
+GO:0050913	19	GO:0071684	organism emergence from protective structure
+GO:0030587	18	GO:0045137	development of primary sexual characteristics
+GO:0030574	1	GO:0006508	proteolysis
+GO:0017148	3	GO:0045892	negative regulation of transcription, DNA-templated
+GO:0002052	18	GO:0045137	development of primary sexual characteristics
+GO:0098963	12	GO:0051204	protein insertion into mitochondrial membrane
+GO:0034103	19	GO:0071684	organism emergence from protective structure
+GO:0070229	20	GO:0060759	regulation of response to cytokine stimulus
+GO:0070231	20	GO:0060759	regulation of response to cytokine stimulus
+GO:0070232	20	GO:0060759	regulation of response to cytokine stimulus
+GO:0070233	20	GO:0060759	regulation of response to cytokine stimulus
+GO:0006268	1	GO:0006508	proteolysis
+GO:0006259	4	GO:0006259	DNA metabolic process
+GO:0001895	19	GO:0071684	organism emergence from protective structure
+GO:0043433	3	GO:0045892	negative regulation of transcription, DNA-templated
+GO:0001580	19	GO:0071684	organism emergence from protective structure
+GO:0075732	9	GO:0016032	viral process
+GO:0075733	9	GO:0016032	viral process
+GO:0050810	2	GO:0032350	regulation of hormone metabolic process
+GO:1901016	11	GO:1901379	regulation of potassium ion transmembrane transport
+GO:1901018	11	GO:1901379	regulation of potassium ion transmembrane transport
+GO:0019218	2	GO:0032350	regulation of hormone metabolic process
+GO:0010383	1	GO:0006508	proteolysis
+GO:0008284	15	GO:0002221	pattern recognition receptor signaling pathway
+GO:0080058	1	GO:0006508	proteolysis
+GO:0046794	9	GO:0016032	viral process
+GO:0030474	16	GO:0045229	external encapsulating structure organization
+GO:0071988	12	GO:0051204	protein insertion into mitochondrial membrane
+GO:0030435	18	GO:0045137	development of primary sexual characteristics
+GO:0043268	11	GO:1901379	regulation of potassium ion transmembrane transport
+GO:0045940	2	GO:0032350	regulation of hormone metabolic process
+GO:0061983	14	GO:0051177	meiotic sister chromatid cohesion
+GO:0044658	8	GO:0052031	modulation by symbiont of host defense response
+GO:0046739	9	GO:0016032	viral process
+GO:0010466	2	GO:0032350	regulation of hormone metabolic process
+GO:0000729	4	GO:0006259	DNA metabolic process
+GO:0000749	20	GO:0060759	regulation of response to cytokine stimulus
+GO:0044000	8	GO:0052031	modulation by symbiont of host defense response
+GO:0044001	8	GO:0052031	modulation by symbiont of host defense response
+GO:1903575	16	GO:0045229	external encapsulating structure organization
+GO:0051923	17	GO:0071554	cell wall organization or biogenesis
+GO:0071444	20	GO:0060759	regulation of response to cytokine stimulus
+GO:0039563	7	GO:0019054	modulation by virus of host cellular process
+GO:0039557	6	GO:0002808	regulation of antibacterial peptide biosynthetic process
+GO:0039537	5	GO:0045088	regulation of innate immune response
+GO:0003094	19	GO:0071684	organism emergence from protective structure
+GO:0045144	14	GO:0051177	meiotic sister chromatid cohesion
+GO:0045132	14	GO:0051177	meiotic sister chromatid cohesion
+GO:0003012	19	GO:0071684	organism emergence from protective structure
+GO:0090502	4	GO:0006259	DNA metabolic process
+GO:0039645	7	GO:0019054	modulation by virus of host cellular process
+GO:0051177	14	GO:0051177	meiotic sister chromatid cohesion
+GO:0007135	14	GO:0051177	meiotic sister chromatid cohesion
+GO:0052553	8	GO:0052031	modulation by symbiont of host defense response
+GO:0001960	15	GO:0002221	pattern recognition receptor signaling pathway
+GO:0032197	17	GO:0071554	cell wall organization or biogenesis
+GO:0052548	2	GO:0032350	regulation of hormone metabolic process
+GO:0019080	9	GO:0016032	viral process
+GO:0043588	18	GO:0045137	development of primary sexual characteristics
+GO:0002777	6	GO:0002808	regulation of antibacterial peptide biosynthetic process
+GO:0019073	9	GO:0016032	viral process
+GO:0098671	9	GO:0016032	viral process
+GO:0052043	8	GO:0052031	modulation by symbiont of host defense response
+GO:0052031	8	GO:0052031	modulation by symbiont of host defense response
+GO:0006310	4	GO:0006259	DNA metabolic process
+GO:0071897	4	GO:0006259	DNA metabolic process
+GO:0006334	16	GO:0045229	external encapsulating structure organization
+GO:0044414	5	GO:0045088	regulation of innate immune response
+GO:0002805	6	GO:0002808	regulation of antibacterial peptide biosynthetic process
+GO:0002807	6	GO:0002808	regulation of antibacterial peptide biosynthetic process
+GO:0001172	4	GO:0006259	DNA metabolic process
+GO:0070192	14	GO:0051177	meiotic sister chromatid cohesion
+GO:0045824	5	GO:0045088	regulation of innate immune response
+GO:0071554	17	GO:0071554	cell wall organization or biogenesis
+GO:0060263	2	GO:0032350	regulation of hormone metabolic process
+GO:0006298	4	GO:0006259	DNA metabolic process
+GO:0006275	3	GO:0045892	negative regulation of transcription, DNA-templated
+GO:0043934	18	GO:0045137	development of primary sexual characteristics
+GO:0060761	20	GO:0060759	regulation of response to cytokine stimulus
+GO:0016925	1	GO:0006508	proteolysis
+GO:0051028	13	GO:0006811	ion transport
+GO:0034769	16	GO:0045229	external encapsulating structure organization
+GO:1905941	18	GO:0045137	development of primary sexual characteristics
+GO:1905939	18	GO:0045137	development of primary sexual characteristics
+GO:0015074	4	GO:0006259	DNA metabolic process
+GO:2000253	20	GO:0060759	regulation of response to cytokine stimulus
+GO:0030989	14	GO:0051177	meiotic sister chromatid cohesion
+GO:0009593	20	GO:0060759	regulation of response to cytokine stimulus
+GO:0052111	8	GO:0052031	modulation by symbiont of host defense response
+GO:0039722	5	GO:0045088	regulation of innate immune response
+GO:0039723	5	GO:0045088	regulation of innate immune response
+GO:0039707	8	GO:0052031	modulation by symbiont of host defense response
+GO:1903818	11	GO:1901379	regulation of potassium ion transmembrane transport
+GO:0044068	7	GO:0019054	modulation by virus of host cellular process
+GO:0007530	18	GO:0045137	development of primary sexual characteristics
+GO:0007531	18	GO:0045137	development of primary sexual characteristics
+GO:0007533	18	GO:0045137	development of primary sexual characteristics
+GO:0090481	13	GO:0006811	ion transport
+GO:0008643	13	GO:0006811	ion transport
+GO:0051983	15	GO:0002221	pattern recognition receptor signaling pathway
+GO:0051987	15	GO:0002221	pattern recognition receptor signaling pathway
+GO:0008608	14	GO:0051177	meiotic sister chromatid cohesion
+GO:0072334	13	GO:0006811	ion transport
+GO:0019048	8	GO:0052031	modulation by symbiont of host defense response
+GO:1904357	3	GO:0045892	negative regulation of transcription, DNA-templated
+GO:0071459	12	GO:0051204	protein insertion into mitochondrial membrane
+GO:0046886	2	GO:0032350	regulation of hormone metabolic process
+GO:0032352	2	GO:0032350	regulation of hormone metabolic process
+GO:0022413	18	GO:0045137	development of primary sexual characteristics
+GO:0045876	14	GO:0051177	meiotic sister chromatid cohesion
+GO:0000038	1	GO:0006508	proteolysis
+GO:0010566	2	GO:0032350	regulation of hormone metabolic process
+GO:1901379	11	GO:1901379	regulation of potassium ion transmembrane transport
+GO:0015919	12	GO:0051204	protein insertion into mitochondrial membrane
+GO:0039526	7	GO:0019054	modulation by virus of host cellular process
+GO:0039540	5	GO:0045088	regulation of innate immune response
+GO:0039545	5	GO:0045088	regulation of innate immune response
+GO:0090030	2	GO:0032350	regulation of hormone metabolic process
+GO:0039548	6	GO:0002808	regulation of antibacterial peptide biosynthetic process
+GO:0090031	2	GO:0032350	regulation of hormone metabolic process
+GO:0015909	13	GO:0006811	ion transport
+GO:0031134	14	GO:0051177	meiotic sister chromatid cohesion
+GO:1990758	14	GO:0051177	meiotic sister chromatid cohesion
+GO:0070601	14	GO:0051177	meiotic sister chromatid cohesion
+GO:0034093	14	GO:0051177	meiotic sister chromatid cohesion
+GO:0034085	14	GO:0051177	meiotic sister chromatid cohesion
+GO:0034087	14	GO:0051177	meiotic sister chromatid cohesion
+GO:0051382	16	GO:0045229	external encapsulating structure organization
+GO:0051383	16	GO:0045229	external encapsulating structure organization
+GO:0051315	14	GO:0051177	meiotic sister chromatid cohesion
+GO:0007031	16	GO:0045229	external encapsulating structure organization
+GO:0045998	2	GO:0032350	regulation of hormone metabolic process
+GO:0045966	2	GO:0032350	regulation of hormone metabolic process
+GO:0007553	2	GO:0032350	regulation of hormone metabolic process
+GO:0007554	2	GO:0032350	regulation of hormone metabolic process
+GO:0007526	18	GO:0045137	development of primary sexual characteristics
+GO:0007534	4	GO:0006259	DNA metabolic process
+GO:0045143	14	GO:0051177	meiotic sister chromatid cohesion
+GO:2000279	3	GO:0045892	negative regulation of transcription, DNA-templated
+GO:0050867	15	GO:0002221	pattern recognition receptor signaling pathway
+GO:0030466	3	GO:0045892	negative regulation of transcription, DNA-templated
+GO:0007608	19	GO:0071684	organism emergence from protective structure
+GO:0071365	20	GO:0060759	regulation of response to cytokine stimulus
+GO:0071368	20	GO:0060759	regulation of response to cytokine stimulus
+GO:0035822	4	GO:0006259	DNA metabolic process
+GO:0035825	4	GO:0006259	DNA metabolic process
+GO:0061982	14	GO:0051177	meiotic sister chromatid cohesion
+GO:0042546	16	GO:0045229	external encapsulating structure organization
+GO:0034329	16	GO:0045229	external encapsulating structure organization
+GO:0000723	4	GO:0006259	DNA metabolic process
+GO:0006312	4	GO:0006259	DNA metabolic process
+GO:0099024	16	GO:0045229	external encapsulating structure organization
+GO:0009691	1	GO:0006508	proteolysis
+GO:0000018	4	GO:0006259	DNA metabolic process
+GO:0010569	4	GO:0006259	DNA metabolic process
+GO:0007129	14	GO:0051177	meiotic sister chromatid cohesion
+GO:0051053	3	GO:0045892	negative regulation of transcription, DNA-templated
+GO:0006953	20	GO:0060759	regulation of response to cytokine stimulus
+GO:0046661	18	GO:0045137	development of primary sexual characteristics
+GO:1902414	12	GO:0051204	protein insertion into mitochondrial membrane
+GO:0032196	17	GO:0071554	cell wall organization or biogenesis
+GO:0039694	9	GO:0016032	viral process
+GO:0016239	2	GO:0032350	regulation of hormone metabolic process
+GO:0003073	19	GO:0071684	organism emergence from protective structure
+GO:0002821	5	GO:0045088	regulation of innate immune response
+GO:0034728	16	GO:0045229	external encapsulating structure organization
+GO:0032200	16	GO:0045229	external encapsulating structure organization
+GO:0001844	12	GO:0051204	protein insertion into mitochondrial membrane
+GO:0030540	18	GO:0045137	development of primary sexual characteristics
+GO:0030539	18	GO:0045137	development of primary sexual characteristics
+GO:0071824	16	GO:0045229	external encapsulating structure organization
+GO:0040015	19	GO:0071684	organism emergence from protective structure
+GO:0046426	15	GO:0002221	pattern recognition receptor signaling pathway
+GO:0045496	18	GO:0045137	development of primary sexual characteristics
+GO:0045497	18	GO:0045137	development of primary sexual characteristics
+GO:0002696	15	GO:0002221	pattern recognition receptor signaling pathway
+GO:0065004	16	GO:0045229	external encapsulating structure organization
+GO:0090305	4	GO:0006259	DNA metabolic process
+GO:0050728	5	GO:0045088	regulation of innate immune response
+GO:0035710	20	GO:0060759	regulation of response to cytokine stimulus
+GO:0019882	20	GO:0060759	regulation of response to cytokine stimulus
+GO:0032508	16	GO:0045229	external encapsulating structure organization
+GO:0097529	20	GO:0060759	regulation of response to cytokine stimulus
+GO:0007605	19	GO:0071684	organism emergence from protective structure
+GO:0097530	20	GO:0060759	regulation of response to cytokine stimulus
+GO:0009067	1	GO:0006508	proteolysis
+GO:0009070	1	GO:0006508	proteolysis
+GO:0009832	16	GO:0045229	external encapsulating structure organization
+GO:1902692	18	GO:0045137	development of primary sexual characteristics
+GO:0051204	12	GO:0051204	protein insertion into mitochondrial membrane
+GO:1901678	13	GO:0006811	ion transport
+GO:0006313	4	GO:0006259	DNA metabolic process
+GO:0007450	18	GO:0045137	development of primary sexual characteristics
+GO:0000097	1	GO:0006508	proteolysis
+GO:0071941	1	GO:0006508	proteolysis
+GO:0043367	18	GO:0045137	development of primary sexual characteristics
+GO:0000002	16	GO:0045229	external encapsulating structure organization
+GO:0022900	17	GO:0071554	cell wall organization or biogenesis
+GO:0051092	3	GO:0045892	negative regulation of transcription, DNA-templated
+GO:0052040	7	GO:0019054	modulation by virus of host cellular process
+GO:0034121	15	GO:0002221	pattern recognition receptor signaling pathway
+GO:1902475	13	GO:0006811	ion transport
+GO:0044403	9	GO:0016032	viral process
+GO:0005976	1	GO:0006508	proteolysis
+GO:0046631	20	GO:0060759	regulation of response to cytokine stimulus
+GO:0046632	18	GO:0045137	development of primary sexual characteristics
+GO:0007249	15	GO:0002221	pattern recognition receptor signaling pathway
+GO:1902106	18	GO:0045137	development of primary sexual characteristics
+GO:0034755	11	GO:1901379	regulation of potassium ion transmembrane transport
+GO:0002819	5	GO:0045088	regulation of innate immune response
+GO:0071709	16	GO:0045229	external encapsulating structure organization
+GO:0051604	1	GO:0006508	proteolysis
+GO:0090646	4	GO:0006259	DNA metabolic process
+GO:0048190	18	GO:0045137	development of primary sexual characteristics
+GO:1990822	13	GO:0006811	ion transport
+GO:1903707	18	GO:0045137	development of primary sexual characteristics
+GO:0006099	1	GO:0006508	proteolysis
+GO:0006073	1	GO:0006508	proteolysis
+GO:0007008	16	GO:0045229	external encapsulating structure organization
+GO:2000179	15	GO:0002221	pattern recognition receptor signaling pathway
+GO:0009225	4	GO:0006259	DNA metabolic process
+GO:0006022	1	GO:0006508	proteolysis
+GO:0000963	4	GO:0006259	DNA metabolic process
+GO:0099116	4	GO:0006259	DNA metabolic process
+GO:0015802	13	GO:0006811	ion transport
+GO:0015807	13	GO:0006811	ion transport

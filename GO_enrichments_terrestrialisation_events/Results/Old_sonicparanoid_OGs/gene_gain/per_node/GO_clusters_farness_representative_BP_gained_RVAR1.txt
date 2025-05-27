@@ -1,0 +1,104 @@
+GO:0002098	1	GO:0046486	glycerolipid metabolic process
+GO:0051480	5	GO:0045185	maintenance of protein location
+GO:0006568	1	GO:0046486	glycerolipid metabolic process
+GO:0030513	6	GO:0010453	regulation of cell fate commitment
+GO:0014017	3	GO:0014017	neuroblast fate commitment
+GO:0015721	5	GO:0045185	maintenance of protein location
+GO:0050918	5	GO:0045185	maintenance of protein location
+GO:0048190	2	GO:0048732	gland development
+GO:0008586	2	GO:0048732	gland development
+GO:0010160	2	GO:0048732	gland development
+GO:0040025	2	GO:0048732	gland development
+GO:0040028	2	GO:0048732	gland development
+GO:0008407	2	GO:0048732	gland development
+GO:0099054	4	GO:0099172	presynapse organization
+GO:0045040	5	GO:0045185	maintenance of protein location
+GO:0006525	1	GO:0046486	glycerolipid metabolic process
+GO:0001516	1	GO:0046486	glycerolipid metabolic process
+GO:0030718	2	GO:0048732	gland development
+GO:0046716	6	GO:0010453	regulation of cell fate commitment
+GO:0040036	6	GO:0010453	regulation of cell fate commitment
+GO:1901046	6	GO:0010453	regulation of cell fate commitment
+GO:0042744	1	GO:0046486	glycerolipid metabolic process
+GO:0048749	2	GO:0048732	gland development
+GO:0045185	5	GO:0045185	maintenance of protein location
+GO:0050793	6	GO:0010453	regulation of cell fate commitment
+GO:0042182	1	GO:0046486	glycerolipid metabolic process
+GO:0048732	2	GO:0048732	gland development
+GO:0072553	4	GO:0099172	presynapse organization
+GO:0048002	5	GO:0045185	maintenance of protein location
+GO:0008045	3	GO:0014017	neuroblast fate commitment
+GO:0006714	1	GO:0046486	glycerolipid metabolic process
+GO:0006716	1	GO:0046486	glycerolipid metabolic process
+GO:0006718	1	GO:0046486	glycerolipid metabolic process
+GO:0070588	5	GO:0045185	maintenance of protein location
+GO:0046113	1	GO:0046486	glycerolipid metabolic process
+GO:0006749	1	GO:0046486	glycerolipid metabolic process
+GO:0072523	1	GO:0046486	glycerolipid metabolic process
+GO:0071526	6	GO:0010453	regulation of cell fate commitment
+GO:0070525	1	GO:0046486	glycerolipid metabolic process
+GO:0048132	3	GO:0014017	neuroblast fate commitment
+GO:0016106	1	GO:0046486	glycerolipid metabolic process
+GO:0099172	4	GO:0099172	presynapse organization
+GO:0099174	4	GO:0099172	presynapse organization
+GO:0042659	6	GO:0010453	regulation of cell fate commitment
+GO:0035672	5	GO:0045185	maintenance of protein location
+GO:0007367	2	GO:0048732	gland development
+GO:0085029	4	GO:0099172	presynapse organization
+GO:0006706	1	GO:0046486	glycerolipid metabolic process
+GO:0048100	2	GO:0048732	gland development
+GO:0019882	5	GO:0045185	maintenance of protein location
+GO:0006144	1	GO:0046486	glycerolipid metabolic process
+GO:0071168	5	GO:0045185	maintenance of protein location
+GO:0006650	1	GO:0046486	glycerolipid metabolic process
+GO:0048613	2	GO:0048732	gland development
+GO:2000370	6	GO:0010453	regulation of cell fate commitment
+GO:0045880	6	GO:0010453	regulation of cell fate commitment
+GO:0006109	1	GO:0046486	glycerolipid metabolic process
+GO:0008340	2	GO:0048732	gland development
+GO:0071692	5	GO:0045185	maintenance of protein location
+GO:0006629	1	GO:0046486	glycerolipid metabolic process
+GO:0051384	5	GO:0045185	maintenance of protein location
+GO:0048813	3	GO:0014017	neuroblast fate commitment
+GO:0006857	5	GO:0045185	maintenance of protein location
+GO:0006644	1	GO:0046486	glycerolipid metabolic process
+GO:0098869	6	GO:0010453	regulation of cell fate commitment
+GO:0008645	5	GO:0045185	maintenance of protein location
+GO:0043252	5	GO:0045185	maintenance of protein location
+GO:0031960	5	GO:0045185	maintenance of protein location
+GO:1903828	6	GO:0010453	regulation of cell fate commitment
+GO:0007304	3	GO:0014017	neuroblast fate commitment
+GO:0090646	1	GO:0046486	glycerolipid metabolic process
+GO:0032956	6	GO:0010453	regulation of cell fate commitment
+GO:0007306	3	GO:0014017	neuroblast fate commitment
+GO:1905606	4	GO:0099172	presynapse organization
+GO:0010453	6	GO:0010453	regulation of cell fate commitment
+GO:0016925	1	GO:0046486	glycerolipid metabolic process
+GO:0006828	5	GO:0045185	maintenance of protein location
+GO:0035210	2	GO:0048732	gland development
+GO:0071896	5	GO:0045185	maintenance of protein location
+GO:0006816	5	GO:0045185	maintenance of protein location
+GO:0045455	1	GO:0046486	glycerolipid metabolic process
+GO:0090263	6	GO:0010453	regulation of cell fate commitment
+GO:0030488	1	GO:0046486	glycerolipid metabolic process
+GO:0046486	1	GO:0046486	glycerolipid metabolic process
+GO:2001222	3	GO:0014017	neuroblast fate commitment
+GO:0050879	2	GO:0048732	gland development
+GO:0045596	6	GO:0010453	regulation of cell fate commitment
+GO:0007216	6	GO:0010453	regulation of cell fate commitment
+GO:0035209	2	GO:0048732	gland development
+GO:1905475	6	GO:0010453	regulation of cell fate commitment
+GO:0006805	1	GO:0046486	glycerolipid metabolic process
+GO:0006979	5	GO:0045185	maintenance of protein location
+GO:0007480	2	GO:0048732	gland development
+GO:2000242	6	GO:0010453	regulation of cell fate commitment
+GO:0042445	1	GO:0046486	glycerolipid metabolic process
+GO:0042447	1	GO:0046486	glycerolipid metabolic process
+GO:1905936	6	GO:0010453	regulation of cell fate commitment
+GO:0051966	6	GO:0010453	regulation of cell fate commitment
+GO:0002474	5	GO:0045185	maintenance of protein location
+GO:0007427	2	GO:0048732	gland development
+GO:0072499	3	GO:0014017	neuroblast fate commitment
+GO:0048069	5	GO:0045185	maintenance of protein location
+GO:0006206	1	GO:0046486	glycerolipid metabolic process
+GO:0007446	2	GO:0048732	gland development

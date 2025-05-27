@@ -1,0 +1,120 @@
+GO:0031749	6	GO:0019955	cytokine binding
+GO:0042834	5	GO:0030246	carbohydrate binding
+GO:0004185	2	GO:0008233	peptidase activity
+GO:0030246	5	GO:0030246	carbohydrate binding
+GO:0005249	9	GO:0005230	extracellular ligand-gated ion channel activity
+GO:0005230	9	GO:0005230	extracellular ligand-gated ion channel activity
+GO:0061980	5	GO:0030246	carbohydrate binding
+GO:0008270	5	GO:0030246	carbohydrate binding
+GO:0001653	7	GO:0004888	transmembrane signaling receptor activity
+GO:0038023	7	GO:0004888	transmembrane signaling receptor activity
+GO:0035198	5	GO:0030246	carbohydrate binding
+GO:0008233	2	GO:0008233	peptidase activity
+GO:0008237	2	GO:0008233	peptidase activity
+GO:0005355	8	GO:0015106	bicarbonate transmembrane transporter activity
+GO:0061507	5	GO:0030246	carbohydrate binding
+GO:0008201	5	GO:0030246	carbohydrate binding
+GO:0044183	5	GO:0030246	carbohydrate binding
+GO:0004252	2	GO:0008233	peptidase activity
+GO:0004653	2	GO:0008233	peptidase activity
+GO:0004674	1	GO:0004674	protein serine/threonine kinase activity
+GO:0004222	2	GO:0008233	peptidase activity
+GO:0004679	1	GO:0004674	protein serine/threonine kinase activity
+GO:0050480	4	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0106310	1	GO:0004674	protein serine/threonine kinase activity
+GO:0003724	4	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0008061	5	GO:0030246	carbohydrate binding
+GO:0004712	1	GO:0004674	protein serine/threonine kinase activity
+GO:0033130	6	GO:0019955	cytokine binding
+GO:0022848	9	GO:0005230	extracellular ligand-gated ion channel activity
+GO:0030594	7	GO:0004888	transmembrane signaling receptor activity
+GO:0044390	6	GO:0019955	cytokine binding
+GO:0019955	6	GO:0019955	cytokine binding
+GO:0030165	6	GO:0019955	cytokine binding
+GO:0031624	6	GO:0019955	cytokine binding
+GO:0070492	5	GO:0030246	carbohydrate binding
+GO:0046872	5	GO:0030246	carbohydrate binding
+GO:0004888	7	GO:0004888	transmembrane signaling receptor activity
+GO:0005549	5	GO:0030246	carbohydrate binding
+GO:0005534	5	GO:0030246	carbohydrate binding
+GO:0005536	5	GO:0030246	carbohydrate binding
+GO:0005539	5	GO:0030246	carbohydrate binding
+GO:0051381	5	GO:0030246	carbohydrate binding
+GO:0015179	8	GO:0015106	bicarbonate transmembrane transporter activity
+GO:0098631	6	GO:0019955	cytokine binding
+GO:0098632	6	GO:0019955	cytokine binding
+GO:0008528	7	GO:0004888	transmembrane signaling receptor activity
+GO:0017151	6	GO:0019955	cytokine binding
+GO:0001530	5	GO:0030246	carbohydrate binding
+GO:0015106	8	GO:0015106	bicarbonate transmembrane transporter activity
+GO:0016936	5	GO:0030246	carbohydrate binding
+GO:0004568	4	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0004965	7	GO:0004888	transmembrane signaling receptor activity
+GO:0004181	2	GO:0008233	peptidase activity
+GO:0042803	6	GO:0019955	cytokine binding
+GO:0004970	9	GO:0005230	extracellular ligand-gated ion channel activity
+GO:0004112	4	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0004519	4	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0051861	5	GO:0030246	carbohydrate binding
+GO:0051082	6	GO:0019955	cytokine binding
+GO:0015280	9	GO:0005230	extracellular ligand-gated ion channel activity
+GO:0008271	8	GO:0015106	bicarbonate transmembrane transporter activity
+GO:0015278	9	GO:0005230	extracellular ligand-gated ion channel activity
+GO:0004104	4	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0003690	5	GO:0030246	carbohydrate binding
+GO:0016671	4	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0043565	5	GO:0030246	carbohydrate binding
+GO:0042577	4	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0004693	1	GO:0004674	protein serine/threonine kinase activity
+GO:0000987	5	GO:0030246	carbohydrate binding
+GO:0000976	5	GO:0030246	carbohydrate binding
+GO:0097472	1	GO:0004674	protein serine/threonine kinase activity
+GO:0032813	6	GO:0019955	cytokine binding
+GO:0030332	6	GO:0019955	cytokine binding
+GO:0034485	4	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0008353	1	GO:0004674	protein serine/threonine kinase activity
+GO:0016798	4	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0016799	4	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0047631	4	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0097153	2	GO:0008233	peptidase activity
+GO:0004364	4	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0016705	4	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0098960	7	GO:0004888	transmembrane signaling receptor activity
+GO:0005035	7	GO:0004888	transmembrane signaling receptor activity
+GO:0061750	4	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0008066	7	GO:0004888	transmembrane signaling receptor activity
+GO:0022824	9	GO:0005230	extracellular ligand-gated ion channel activity
+GO:0080030	4	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0004713	1	GO:0004674	protein serine/threonine kinase activity
+GO:0004714	1	GO:0004674	protein serine/threonine kinase activity
+GO:0005000	7	GO:0004888	transmembrane signaling receptor activity
+GO:0008083	6	GO:0019955	cytokine binding
+GO:0001067	5	GO:0030246	carbohydrate binding
+GO:0022835	9	GO:0005230	extracellular ligand-gated ion channel activity
+GO:0099604	9	GO:0005230	extracellular ligand-gated ion channel activity
+GO:0016854	4	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0016857	4	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0016885	4	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0052658	4	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0052659	4	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0106018	4	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0016421	4	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0004497	4	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0005154	6	GO:0019955	cytokine binding
+GO:0004453	4	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0019531	8	GO:0015106	bicarbonate transmembrane transporter activity
+GO:0005119	6	GO:0019955	cytokine binding
+GO:0047429	4	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0004445	4	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0008158	7	GO:0004888	transmembrane signaling receptor activity
+GO:0020037	5	GO:0030246	carbohydrate binding
+GO:0004439	4	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0048019	6	GO:0019955	cytokine binding
+GO:0005506	5	GO:0030246	carbohydrate binding
+GO:0034235	5	GO:0030246	carbohydrate binding
+GO:0015925	4	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0015145	8	GO:0015106	bicarbonate transmembrane transporter activity
+GO:0015149	8	GO:0015106	bicarbonate transmembrane transporter activity
+GO:0004190	2	GO:0008233	peptidase activity
+GO:0055077	8	GO:0015106	bicarbonate transmembrane transporter activity
+GO:0005254	8	GO:0015106	bicarbonate transmembrane transporter activity

@@ -1,0 +1,121 @@
+GO:0018995	6	GO:0110165	cellular anatomical entity
+GO:0005576	6	GO:0110165	cellular anatomical entity
+GO:0005746	2	GO:0042579	microbody
+GO:0035032	4	GO:0070069	cytochrome complex
+GO:0034045	6	GO:0110165	cellular anatomical entity
+GO:0070772	2	GO:0042579	microbody
+GO:0060205	2	GO:0042579	microbody
+GO:0070069	4	GO:0070069	cytochrome complex
+GO:0001669	2	GO:0042579	microbody
+GO:0005615	6	GO:0110165	cellular anatomical entity
+GO:0031983	2	GO:0042579	microbody
+GO:0031160	5	GO:0005886	plasma membrane
+GO:0043657	1	GO:0033646	host intracellular part
+GO:0042600	5	GO:0005886	plasma membrane
+GO:0098803	4	GO:0070069	cytochrome complex
+GO:0019005	4	GO:0070069	cytochrome complex
+GO:0009277	5	GO:0005886	plasma membrane
+GO:0034774	2	GO:0042579	microbody
+GO:0070469	6	GO:0110165	cellular anatomical entity
+GO:0005942	4	GO:0070069	cytochrome complex
+GO:0045277	4	GO:0070069	cytochrome complex
+GO:0033643	1	GO:0033646	host intracellular part
+GO:0033644	1	GO:0033646	host intracellular part
+GO:0033646	1	GO:0033646	host intracellular part
+GO:0033647	1	GO:0033646	host intracellular part
+GO:0033648	1	GO:0033646	host intracellular part
+GO:0043656	1	GO:0033646	host intracellular part
+GO:0000325	2	GO:0042579	microbody
+GO:0042025	1	GO:0033646	host intracellular part
+GO:0044423	4	GO:0070069	cytochrome complex
+GO:0000776	3	GO:0098687	chromosomal region
+GO:0000779	3	GO:0098687	chromosomal region
+GO:0030424	5	GO:0005886	plasma membrane
+GO:0030425	5	GO:0005886	plasma membrane
+GO:0098687	3	GO:0098687	chromosomal region
+GO:0000428	4	GO:0070069	cytochrome complex
+GO:0048046	6	GO:0110165	cellular anatomical entity
+GO:0043025	5	GO:0005886	plasma membrane
+GO:0032590	5	GO:0005886	plasma membrane
+GO:0000781	3	GO:0098687	chromosomal region
+GO:0005935	5	GO:0005886	plasma membrane
+GO:0031430	3	GO:0098687	chromosomal region
+GO:0005788	2	GO:0042579	microbody
+GO:0000793	3	GO:0098687	chromosomal region
+GO:0002080	2	GO:0042579	microbody
+GO:0043189	2	GO:0042579	microbody
+GO:0097447	5	GO:0005886	plasma membrane
+GO:0035267	2	GO:0042579	microbody
+GO:0044297	6	GO:0110165	cellular anatomical entity
+GO:0020002	1	GO:0033646	host intracellular part
+GO:0005796	2	GO:0042579	microbody
+GO:0005818	3	GO:0098687	chromosomal region
+GO:0031011	2	GO:0042579	microbody
+GO:0062023	5	GO:0005886	plasma membrane
+GO:0046696	4	GO:0070069	cytochrome complex
+GO:0033650	1	GO:0033646	host intracellular part
+GO:0005581	4	GO:0070069	cytochrome complex
+GO:0036338	4	GO:0070069	cytochrome complex
+GO:0055036	6	GO:0110165	cellular anatomical entity
+GO:0031934	3	GO:0098687	chromosomal region
+GO:0044295	5	GO:0005886	plasma membrane
+GO:0099115	3	GO:0098687	chromosomal region
+GO:0044177	1	GO:0033646	host intracellular part
+GO:0019031	4	GO:0070069	cytochrome complex
+GO:0042579	2	GO:0042579	microbody
+GO:0031380	2	GO:0042579	microbody
+GO:0005777	2	GO:0042579	microbody
+GO:0005721	3	GO:0098687	chromosomal region
+GO:0005685	2	GO:0042579	microbody
+GO:0035869	6	GO:0110165	cellular anatomical entity
+GO:0032580	2	GO:0042579	microbody
+GO:0030430	1	GO:0033646	host intracellular part
+GO:0005619	5	GO:0005886	plasma membrane
+GO:0036477	6	GO:0110165	cellular anatomical entity
+GO:0044165	1	GO:0033646	host intracellular part
+GO:0034364	4	GO:0070069	cytochrome complex
+GO:0031676	2	GO:0042579	microbody
+GO:0045170	3	GO:0098687	chromosomal region
+GO:0034358	4	GO:0070069	cytochrome complex
+GO:0098024	4	GO:0070069	cytochrome complex
+GO:0044178	1	GO:0033646	host intracellular part
+GO:0032994	4	GO:0070069	cytochrome complex
+GO:1990777	4	GO:0070069	cytochrome complex
+GO:0033655	1	GO:0033646	host intracellular part
+GO:0042729	2	GO:0042579	microbody
+GO:0030089	4	GO:0070069	cytochrome complex
+GO:0033645	1	GO:0033646	host intracellular part
+GO:0000214	2	GO:0042579	microbody
+GO:0034705	4	GO:0070069	cytochrome complex
+GO:0035861	3	GO:0098687	chromosomal region
+GO:0090734	3	GO:0098687	chromosomal region
+GO:0031253	5	GO:0005886	plasma membrane
+GO:0072562	6	GO:0110165	cellular anatomical entity
+GO:0043186	3	GO:0098687	chromosomal region
+GO:0032809	5	GO:0005886	plasma membrane
+GO:0035371	3	GO:0098687	chromosomal region
+GO:0043204	6	GO:0110165	cellular anatomical entity
+GO:0099503	2	GO:0042579	microbody
+GO:0009897	5	GO:0005886	plasma membrane
+GO:0016324	5	GO:0005886	plasma membrane
+GO:0031082	6	GO:0110165	cellular anatomical entity
+GO:0031083	6	GO:0110165	cellular anatomical entity
+GO:0030056	5	GO:0005886	plasma membrane
+GO:0034270	6	GO:0110165	cellular anatomical entity
+GO:0030141	2	GO:0042579	microbody
+GO:0043005	5	GO:0005886	plasma membrane
+GO:0016020	6	GO:0110165	cellular anatomical entity
+GO:0005886	5	GO:0005886	plasma membrane
+GO:0044199	1	GO:0033646	host intracellular part
+GO:0005604	5	GO:0005886	plasma membrane
+GO:0110165	6	GO:0110165	cellular anatomical entity
+GO:0000795	3	GO:0098687	chromosomal region
+GO:0009506	5	GO:0005886	plasma membrane
+GO:0044200	1	GO:0033646	host intracellular part
+GO:0031143	5	GO:0005886	plasma membrane
+GO:0055044	6	GO:0110165	cellular anatomical entity
+GO:0034518	4	GO:0070069	cytochrome complex
+GO:0019028	4	GO:0070069	cytochrome complex
+GO:0005634	2	GO:0042579	microbody
+GO:0000408	4	GO:0070069	cytochrome complex
+GO:0048471	6	GO:0110165	cellular anatomical entity

@@ -1,0 +1,28 @@
+GO:0000981	3	GO:0003700	DNA-binding transcription factor activity
+GO:0016709	4	GO:0005035	death receptor activity
+GO:0003700	3	GO:0003700	DNA-binding transcription factor activity
+GO:0036122	2	GO:0005515	protein binding
+GO:0015459	6	GO:0008603	cAMP-dependent protein kinase regulator activity
+GO:0043621	2	GO:0005515	protein binding
+GO:0048018	1	GO:0005179	hormone activity
+GO:0005096	6	GO:0008603	cAMP-dependent protein kinase regulator activity
+GO:0005184	1	GO:0005179	hormone activity
+GO:0005179	1	GO:0005179	hormone activity
+GO:0071855	2	GO:0005515	protein binding
+GO:0019894	2	GO:0005515	protein binding
+GO:0005515	2	GO:0005515	protein binding
+GO:0005080	2	GO:0005515	protein binding
+GO:0099106	6	GO:0008603	cAMP-dependent protein kinase regulator activity
+GO:0004862	6	GO:0008603	cAMP-dependent protein kinase regulator activity
+GO:0004517	4	GO:0005035	death receptor activity
+GO:0005031	4	GO:0005035	death receptor activity
+GO:0070840	2	GO:0005515	protein binding
+GO:0005035	4	GO:0005035	death receptor activity
+GO:0140110	3	GO:0003700	DNA-binding transcription factor activity
+GO:0048306	2	GO:0005515	protein binding
+GO:0001228	3	GO:0003700	DNA-binding transcription factor activity
+GO:0019900	2	GO:0005515	protein binding
+GO:0019901	2	GO:0005515	protein binding
+GO:1990226	2	GO:0005515	protein binding
+GO:0030547	6	GO:0008603	cAMP-dependent protein kinase regulator activity
+GO:0008603	6	GO:0008603	cAMP-dependent protein kinase regulator activity

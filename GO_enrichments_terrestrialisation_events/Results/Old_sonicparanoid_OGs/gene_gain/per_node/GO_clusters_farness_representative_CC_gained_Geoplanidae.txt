@@ -1,0 +1,65 @@
+GO:0031983	4	GO:0000322	storage vacuole
+GO:0005741	4	GO:0000322	storage vacuole
+GO:0070187	2	GO:0098687	chromosomal region
+GO:0005876	2	GO:0098687	chromosomal region
+GO:0060205	4	GO:0000322	storage vacuole
+GO:0042729	2	GO:0098687	chromosomal region
+GO:0034774	4	GO:0000322	storage vacuole
+GO:0000793	2	GO:0098687	chromosomal region
+GO:0009506	3	GO:0044423	virion component
+GO:0031968	4	GO:0000322	storage vacuole
+GO:0044094	1	GO:0033646	host intracellular part
+GO:0018995	1	GO:0033646	host intracellular part
+GO:0098654	3	GO:0044423	virion component
+GO:0019028	3	GO:0044423	virion component
+GO:0005828	2	GO:0098687	chromosomal region
+GO:0098687	2	GO:0098687	chromosomal region
+GO:0070772	4	GO:0000322	storage vacuole
+GO:0031511	2	GO:0098687	chromosomal region
+GO:0000781	2	GO:0098687	chromosomal region
+GO:0044200	1	GO:0033646	host intracellular part
+GO:0044201	1	GO:0033646	host intracellular part
+GO:0000775	2	GO:0098687	chromosomal region
+GO:0005628	3	GO:0044423	virion component
+GO:0000776	2	GO:0098687	chromosomal region
+GO:0044199	1	GO:0033646	host intracellular part
+GO:0034506	2	GO:0098687	chromosomal region
+GO:0001401	4	GO:0000322	storage vacuole
+GO:0043657	1	GO:0033646	host intracellular part
+GO:0042763	3	GO:0044423	virion component
+GO:0042764	3	GO:0044423	virion component
+GO:0051233	2	GO:0098687	chromosomal region
+GO:0042025	1	GO:0033646	host intracellular part
+GO:0033650	1	GO:0033646	host intracellular part
+GO:0030870	4	GO:0000322	storage vacuole
+GO:0030430	1	GO:0033646	host intracellular part
+GO:0005576	3	GO:0044423	virion component
+GO:0044423	3	GO:0044423	virion component
+GO:0033644	1	GO:0033646	host intracellular part
+GO:0033646	1	GO:0033646	host intracellular part
+GO:0019033	3	GO:0044423	virion component
+GO:0031083	3	GO:0044423	virion component
+GO:0033551	2	GO:0098687	chromosomal region
+GO:0000322	4	GO:0000322	storage vacuole
+GO:0000324	4	GO:0000322	storage vacuole
+GO:0005823	2	GO:0098687	chromosomal region
+GO:0080008	3	GO:0044423	virion component
+GO:0005615	3	GO:0044423	virion component
+GO:0031461	3	GO:0044423	virion component
+GO:0036338	3	GO:0044423	virion component
+GO:0097729	3	GO:0044423	virion component
+GO:0001669	4	GO:0000322	storage vacuole
+GO:0005882	2	GO:0098687	chromosomal region
+GO:0036126	3	GO:0044423	virion component
+GO:0016592	4	GO:0000322	storage vacuole
+GO:0030141	4	GO:0000322	storage vacuole
+GO:0033647	1	GO:0033646	host intracellular part
+GO:0033648	1	GO:0033646	host intracellular part
+GO:0031903	4	GO:0000322	storage vacuole
+GO:0019031	3	GO:0044423	virion component
+GO:0005778	4	GO:0000322	storage vacuole
+GO:0043656	1	GO:0033646	host intracellular part
+GO:0000779	2	GO:0098687	chromosomal region
+GO:0033643	1	GO:0033646	host intracellular part
+GO:0000408	3	GO:0044423	virion component
+GO:0005776	4	GO:0000322	storage vacuole

@@ -1,0 +1,95 @@
+GO:0016020	5	GO:0016020	membrane
+GO:0034045	5	GO:0016020	membrane
+GO:0044297	5	GO:0016020	membrane
+GO:0030424	4	GO:0035869	ciliary transition zone
+GO:0030425	4	GO:0035869	ciliary transition zone
+GO:0110085	4	GO:0035869	ciliary transition zone
+GO:0001669	4	GO:0035869	ciliary transition zone
+GO:0043025	5	GO:0016020	membrane
+GO:0070648	4	GO:0035869	ciliary transition zone
+GO:0030670	4	GO:0035869	ciliary transition zone
+GO:0008074	5	GO:0016020	membrane
+GO:0008076	3	GO:0005942	phosphatidylinositol 3-kinase complex
+GO:0034705	3	GO:0005942	phosphatidylinositol 3-kinase complex
+GO:0097730	4	GO:0035869	ciliary transition zone
+GO:0020002	1	GO:0033646	host intracellular part
+GO:0031143	4	GO:0035869	ciliary transition zone
+GO:0098021	2	GO:0019028	viral capsid
+GO:0098857	5	GO:0016020	membrane
+GO:0005581	3	GO:0005942	phosphatidylinositol 3-kinase complex
+GO:0005615	5	GO:0016020	membrane
+GO:0019031	2	GO:0019028	viral capsid
+GO:0036338	2	GO:0019028	viral capsid
+GO:0044298	5	GO:0016020	membrane
+GO:0045121	5	GO:0016020	membrane
+GO:0043204	5	GO:0016020	membrane
+GO:0019005	3	GO:0005942	phosphatidylinositol 3-kinase complex
+GO:0033655	1	GO:0033646	host intracellular part
+GO:0055036	5	GO:0016020	membrane
+GO:0044167	1	GO:0033646	host intracellular part
+GO:0032809	5	GO:0016020	membrane
+GO:0044177	1	GO:0033646	host intracellular part
+GO:0044178	1	GO:0033646	host intracellular part
+GO:0033644	1	GO:0033646	host intracellular part
+GO:0098595	5	GO:0016020	membrane
+GO:0005925	4	GO:0035869	ciliary transition zone
+GO:0043160	4	GO:0035869	ciliary transition zone
+GO:0000151	3	GO:0005942	phosphatidylinositol 3-kinase complex
+GO:0018995	5	GO:0016020	membrane
+GO:0009986	5	GO:0016020	membrane
+GO:0044200	1	GO:0033646	host intracellular part
+GO:0044201	1	GO:0033646	host intracellular part
+GO:0044199	1	GO:0033646	host intracellular part
+GO:0031461	3	GO:0005942	phosphatidylinositol 3-kinase complex
+GO:0043657	1	GO:0033646	host intracellular part
+GO:0033643	1	GO:0033646	host intracellular part
+GO:0033648	1	GO:0033646	host intracellular part
+GO:0044174	1	GO:0033646	host intracellular part
+GO:0030430	1	GO:0033646	host intracellular part
+GO:0034518	3	GO:0005942	phosphatidylinositol 3-kinase complex
+GO:0035032	3	GO:0005942	phosphatidylinositol 3-kinase complex
+GO:0060106	5	GO:0016020	membrane
+GO:0044423	2	GO:0019028	viral capsid
+GO:0005942	3	GO:0005942	phosphatidylinositol 3-kinase complex
+GO:0005576	5	GO:0016020	membrane
+GO:0030427	5	GO:0016020	membrane
+GO:0042600	5	GO:0016020	membrane
+GO:0042170	4	GO:0035869	ciliary transition zone
+GO:0009579	5	GO:0016020	membrane
+GO:0034357	5	GO:0016020	membrane
+GO:0009526	4	GO:0035869	ciliary transition zone
+GO:0042651	5	GO:0016020	membrane
+GO:0016234	5	GO:0016020	membrane
+GO:0005934	5	GO:0016020	membrane
+GO:0005935	5	GO:0016020	membrane
+GO:0097447	4	GO:0035869	ciliary transition zone
+GO:0031332	3	GO:0005942	phosphatidylinositol 3-kinase complex
+GO:0051286	5	GO:0016020	membrane
+GO:0031160	5	GO:0016020	membrane
+GO:0060187	5	GO:0016020	membrane
+GO:0097225	4	GO:0035869	ciliary transition zone
+GO:0033255	3	GO:0005942	phosphatidylinositol 3-kinase complex
+GO:0000791	4	GO:0035869	ciliary transition zone
+GO:0035869	4	GO:0035869	ciliary transition zone
+GO:0090665	3	GO:0005942	phosphatidylinositol 3-kinase complex
+GO:0036128	3	GO:0005942	phosphatidylinositol 3-kinase complex
+GO:0042588	4	GO:0035869	ciliary transition zone
+GO:0005929	4	GO:0035869	ciliary transition zone
+GO:0031528	4	GO:0035869	ciliary transition zone
+GO:0005902	4	GO:0035869	ciliary transition zone
+GO:0031941	3	GO:0005942	phosphatidylinositol 3-kinase complex
+GO:0033583	4	GO:0035869	ciliary transition zone
+GO:0034704	3	GO:0005942	phosphatidylinositol 3-kinase complex
+GO:0098562	5	GO:0016020	membrane
+GO:0000940	3	GO:0005942	phosphatidylinositol 3-kinase complex
+GO:0019028	2	GO:0019028	viral capsid
+GO:0019029	2	GO:0019028	viral capsid
+GO:0019013	2	GO:0019028	viral capsid
+GO:0070772	3	GO:0005942	phosphatidylinositol 3-kinase complex
+GO:0060205	4	GO:0035869	ciliary transition zone
+GO:0009898	5	GO:0016020	membrane
+GO:0043656	1	GO:0033646	host intracellular part
+GO:0000407	5	GO:0016020	membrane
+GO:0033646	1	GO:0033646	host intracellular part
+GO:0034774	4	GO:0035869	ciliary transition zone
+GO:0031256	5	GO:0016020	membrane

@@ -1,0 +1,80 @@
+GO:0031423	2	GO:0005102	signaling receptor binding
+GO:0022832	3	GO:0022843	voltage-gated cation channel activity
+GO:0005179	2	GO:0005102	signaling receptor binding
+GO:0009922	5	GO:0016417	S-acyltransferase activity
+GO:0022836	3	GO:0022843	voltage-gated cation channel activity
+GO:0022839	3	GO:0022843	voltage-gated cation channel activity
+GO:0005121	2	GO:0005102	signaling receptor binding
+GO:0120160	1	GO:0070026	nitric oxide binding
+GO:0050750	2	GO:0005102	signaling receptor binding
+GO:0102756	5	GO:0016417	S-acyltransferase activity
+GO:0070325	2	GO:0005102	signaling receptor binding
+GO:0030545	7	GO:0098772	molecular function regulator
+GO:0030546	7	GO:0098772	molecular function regulator
+GO:0019901	2	GO:0005102	signaling receptor binding
+GO:0008083	2	GO:0005102	signaling receptor binding
+GO:0005267	3	GO:0022843	voltage-gated cation channel activity
+GO:0048018	2	GO:0005102	signaling receptor binding
+GO:0046332	2	GO:0005102	signaling receptor binding
+GO:0030291	7	GO:0098772	molecular function regulator
+GO:0000977	1	GO:0070026	nitric oxide binding
+GO:0005102	2	GO:0005102	signaling receptor binding
+GO:0015079	3	GO:0022843	voltage-gated cation channel activity
+GO:0071855	2	GO:0005102	signaling receptor binding
+GO:0008307	7	GO:0098772	molecular function regulator
+GO:0005244	3	GO:0022843	voltage-gated cation channel activity
+GO:0005184	2	GO:0005102	signaling receptor binding
+GO:0005249	3	GO:0022843	voltage-gated cation channel activity
+GO:0022843	3	GO:0022843	voltage-gated cation channel activity
+GO:0039660	7	GO:0098772	molecular function regulator
+GO:0019864	1	GO:0070026	nitric oxide binding
+GO:0031404	1	GO:0070026	nitric oxide binding
+GO:0098772	7	GO:0098772	molecular function regulator
+GO:0016936	1	GO:0070026	nitric oxide binding
+GO:0070026	1	GO:0070026	nitric oxide binding
+GO:0045735	7	GO:0098772	molecular function regulator
+GO:0090729	7	GO:0098772	molecular function regulator
+GO:0051381	1	GO:0070026	nitric oxide binding
+GO:0002162	2	GO:0005102	signaling receptor binding
+GO:0030345	7	GO:0098772	molecular function regulator
+GO:0030331	1	GO:0070026	nitric oxide binding
+GO:0004857	7	GO:0098772	molecular function regulator
+GO:0031005	2	GO:0005102	signaling receptor binding
+GO:0005125	2	GO:0005102	signaling receptor binding
+GO:0030021	7	GO:0098772	molecular function regulator
+GO:0017080	7	GO:0098772	molecular function regulator
+GO:0005133	2	GO:0005102	signaling receptor binding
+GO:0030274	2	GO:0005102	signaling receptor binding
+GO:0048156	2	GO:0005102	signaling receptor binding
+GO:1990782	2	GO:0005102	signaling receptor binding
+GO:0000900	1	GO:0070026	nitric oxide binding
+GO:0005031	4	GO:0019199	transmembrane receptor protein kinase activity
+GO:0005199	7	GO:0098772	molecular function regulator
+GO:0030246	1	GO:0070026	nitric oxide binding
+GO:0030247	1	GO:0070026	nitric oxide binding
+GO:0030248	1	GO:0070026	nitric oxide binding
+GO:0016409	5	GO:0016417	S-acyltransferase activity
+GO:0043130	2	GO:0005102	signaling receptor binding
+GO:0042169	2	GO:0005102	signaling receptor binding
+GO:0019199	4	GO:0019199	transmembrane receptor protein kinase activity
+GO:0003730	1	GO:0070026	nitric oxide binding
+GO:0061608	7	GO:0098772	molecular function regulator
+GO:0004930	4	GO:0019199	transmembrane receptor protein kinase activity
+GO:0030971	2	GO:0005102	signaling receptor binding
+GO:0004675	4	GO:0019199	transmembrane receptor protein kinase activity
+GO:0019706	5	GO:0016417	S-acyltransferase activity
+GO:0019707	5	GO:0016417	S-acyltransferase activity
+GO:0004714	4	GO:0019199	transmembrane receptor protein kinase activity
+GO:0036122	2	GO:0005102	signaling receptor binding
+GO:0016417	5	GO:0016417	S-acyltransferase activity
+GO:0030159	7	GO:0098772	molecular function regulator
+GO:0031435	2	GO:0005102	signaling receptor binding
+GO:0070530	2	GO:0005102	signaling receptor binding
+GO:0043539	7	GO:0098772	molecular function regulator
+GO:0050699	2	GO:0005102	signaling receptor binding
+GO:0019211	7	GO:0098772	molecular function regulator
+GO:0005549	1	GO:0070026	nitric oxide binding
+GO:0098821	4	GO:0019199	transmembrane receptor protein kinase activity
+GO:0005024	4	GO:0019199	transmembrane receptor protein kinase activity
+GO:0045296	2	GO:0005102	signaling receptor binding
+GO:0005154	2	GO:0005102	signaling receptor binding

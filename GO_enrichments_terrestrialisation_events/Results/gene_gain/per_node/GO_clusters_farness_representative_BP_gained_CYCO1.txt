@@ -1,0 +1,111 @@
+GO:0009193	2	GO:0009218	pyrimidine ribonucleotide metabolic process
+GO:0009636	5	GO:0009636	response to toxic substance
+GO:0032480	6	GO:0033555	multicellular organismal response to stress
+GO:0006744	7	GO:0045948	positive regulation of translational initiation
+GO:0010827	8	GO:0051651	maintenance of location in cell
+GO:0051017	3	GO:0061572	actin filament bundle organization
+GO:0048149	6	GO:0033555	multicellular organismal response to stress
+GO:0051384	5	GO:0009636	response to toxic substance
+GO:0009185	2	GO:0009218	pyrimidine ribonucleotide metabolic process
+GO:0065001	4	GO:0110069	syncytial embryo cellularization
+GO:0043500	6	GO:0033555	multicellular organismal response to stress
+GO:0043502	6	GO:0033555	multicellular organismal response to stress
+GO:0009949	4	GO:0110069	syncytial embryo cellularization
+GO:0046662	6	GO:0033555	multicellular organismal response to stress
+GO:0018991	6	GO:0033555	multicellular organismal response to stress
+GO:0006612	8	GO:0051651	maintenance of location in cell
+GO:0016577	1	GO:0070076	histone lysine demethylation
+GO:0008045	4	GO:0110069	syncytial embryo cellularization
+GO:0006970	5	GO:0009636	response to toxic substance
+GO:0061061	4	GO:0110069	syncytial embryo cellularization
+GO:0009147	2	GO:0009218	pyrimidine ribonucleotide metabolic process
+GO:0010043	5	GO:0009636	response to toxic substance
+GO:0009133	2	GO:0009218	pyrimidine ribonucleotide metabolic process
+GO:0009138	2	GO:0009218	pyrimidine ribonucleotide metabolic process
+GO:0051220	8	GO:0051651	maintenance of location in cell
+GO:0019692	2	GO:0009218	pyrimidine ribonucleotide metabolic process
+GO:0008340	4	GO:0110069	syncytial embryo cellularization
+GO:0009394	2	GO:0009218	pyrimidine ribonucleotide metabolic process
+GO:0070076	1	GO:0070076	histone lysine demethylation
+GO:0043401	5	GO:0009636	response to toxic substance
+GO:0030708	4	GO:0110069	syncytial embryo cellularization
+GO:0006099	7	GO:0045948	positive regulation of translational initiation
+GO:0051238	8	GO:0051651	maintenance of location in cell
+GO:0008214	1	GO:0070076	histone lysine demethylation
+GO:0006882	8	GO:0051651	maintenance of location in cell
+GO:0008302	3	GO:0061572	actin filament bundle organization
+GO:0046940	2	GO:0009218	pyrimidine ribonucleotide metabolic process
+GO:0032648	6	GO:0033555	multicellular organismal response to stress
+GO:0051495	9	GO:0051130	positive regulation of cellular component organization
+GO:0046112	2	GO:0009218	pyrimidine ribonucleotide metabolic process
+GO:0009260	2	GO:0009218	pyrimidine ribonucleotide metabolic process
+GO:0007346	9	GO:0051130	positive regulation of cellular component organization
+GO:0030865	3	GO:0061572	actin filament bundle organization
+GO:0032608	6	GO:0033555	multicellular organismal response to stress
+GO:0030866	3	GO:0061572	actin filament bundle organization
+GO:0006833	8	GO:0051651	maintenance of location in cell
+GO:0050687	8	GO:0051651	maintenance of location in cell
+GO:0042994	7	GO:0045948	positive regulation of translational initiation
+GO:0051457	8	GO:0051651	maintenance of location in cell
+GO:0031960	5	GO:0009636	response to toxic substance
+GO:0045167	8	GO:0051651	maintenance of location in cell
+GO:0046390	2	GO:0009218	pyrimidine ribonucleotide metabolic process
+GO:0022037	4	GO:0110069	syncytial embryo cellularization
+GO:0009220	2	GO:0009218	pyrimidine ribonucleotide metabolic process
+GO:0007303	4	GO:0110069	syncytial embryo cellularization
+GO:0051764	3	GO:0061572	actin filament bundle organization
+GO:0045948	7	GO:0045948	positive regulation of translational initiation
+GO:0061572	3	GO:0061572	actin filament bundle organization
+GO:0045931	9	GO:0051130	positive regulation of cellular component organization
+GO:2001237	8	GO:0051651	maintenance of location in cell
+GO:0009218	2	GO:0009218	pyrimidine ribonucleotide metabolic process
+GO:0071383	5	GO:0009636	response to toxic substance
+GO:0030104	8	GO:0051651	maintenance of location in cell
+GO:0030073	8	GO:0051651	maintenance of location in cell
+GO:0007517	4	GO:0110069	syncytial embryo cellularization
+GO:0014910	9	GO:0051130	positive regulation of cellular component organization
+GO:0014911	9	GO:0051130	positive regulation of cellular component organization
+GO:0070544	1	GO:0070076	histone lysine demethylation
+GO:0019856	2	GO:0009218	pyrimidine ribonucleotide metabolic process
+GO:0003014	6	GO:0033555	multicellular organismal response to stress
+GO:0046048	2	GO:0009218	pyrimidine ribonucleotide metabolic process
+GO:0030010	9	GO:0051130	positive regulation of cellular component organization
+GO:0051651	8	GO:0051651	maintenance of location in cell
+GO:0046033	2	GO:0009218	pyrimidine ribonucleotide metabolic process
+GO:0006221	2	GO:0009218	pyrimidine ribonucleotide metabolic process
+GO:0046039	2	GO:0009218	pyrimidine ribonucleotide metabolic process
+GO:0110069	4	GO:0110069	syncytial embryo cellularization
+GO:0009208	2	GO:0009218	pyrimidine ribonucleotide metabolic process
+GO:0046323	8	GO:0051651	maintenance of location in cell
+GO:0046324	8	GO:0051651	maintenance of location in cell
+GO:0033555	6	GO:0033555	multicellular organismal response to stress
+GO:0014909	9	GO:0051130	positive regulation of cellular component organization
+GO:0003009	6	GO:0033555	multicellular organismal response to stress
+GO:0014874	6	GO:0033555	multicellular organismal response to stress
+GO:0071577	8	GO:0051651	maintenance of location in cell
+GO:0048660	9	GO:0051130	positive regulation of cellular component organization
+GO:0048661	9	GO:0051130	positive regulation of cellular component organization
+GO:0006206	2	GO:0009218	pyrimidine ribonucleotide metabolic process
+GO:0043327	5	GO:0009636	response to toxic substance
+GO:0018230	7	GO:0045948	positive regulation of translational initiation
+GO:0048659	9	GO:0051130	positive regulation of cellular component organization
+GO:0031365	1	GO:0070076	histone lysine demethylation
+GO:0035204	4	GO:0110069	syncytial embryo cellularization
+GO:0030588	4	GO:0110069	syncytial embryo cellularization
+GO:0034720	1	GO:0070076	histone lysine demethylation
+GO:0006482	1	GO:0070076	histone lysine demethylation
+GO:0030239	3	GO:0061572	actin filament bundle organization
+GO:0010638	9	GO:0051130	positive regulation of cellular component organization
+GO:0055001	4	GO:0110069	syncytial embryo cellularization
+GO:0055002	4	GO:0110069	syncytial embryo cellularization
+GO:0006470	1	GO:0070076	histone lysine demethylation
+GO:0051090	7	GO:0045948	positive regulation of translational initiation
+GO:0000278	9	GO:0051130	positive regulation of cellular component organization
+GO:0097501	5	GO:0009636	response to toxic substance
+GO:0009408	5	GO:0009636	response to toxic substance
+GO:0009749	5	GO:0009636	response to toxic substance
+GO:0021549	4	GO:0110069	syncytial embryo cellularization
+GO:0051130	9	GO:0051130	positive regulation of cellular component organization
+GO:0045214	3	GO:0061572	actin filament bundle organization
+GO:1901701	5	GO:0009636	response to toxic substance
+GO:0007616	6	GO:0033555	multicellular organismal response to stress

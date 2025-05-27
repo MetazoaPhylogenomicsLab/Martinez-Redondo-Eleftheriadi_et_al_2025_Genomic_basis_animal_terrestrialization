@@ -1,0 +1,83 @@
+GO:0031860	4	GO:0000706	meiotic DNA double-strand break processing
+GO:2000105	9	GO:1905779	positive regulation of exonuclease activity
+GO:0048232	3	GO:0007338	single fertilization
+GO:0045944	9	GO:1905779	positive regulation of exonuclease activity
+GO:0007534	4	GO:0000706	meiotic DNA double-strand break processing
+GO:0034508	7	GO:0007059	chromosome segregation
+GO:0104004	6	GO:0104004	cellular response to environmental stimulus
+GO:0052167	2	GO:0075528	modulation by virus of host immune response
+GO:0052170	2	GO:0075528	modulation by virus of host immune response
+GO:0034644	6	GO:0104004	cellular response to environmental stimulus
+GO:0032506	7	GO:0007059	chromosome segregation
+GO:0075528	2	GO:0075528	modulation by virus of host immune response
+GO:0019064	1	GO:0046718	viral entry into host cell
+GO:0034605	6	GO:0104004	cellular response to environmental stimulus
+GO:0000212	7	GO:0007059	chromosome segregation
+GO:0019080	1	GO:0046718	viral entry into host cell
+GO:0019083	1	GO:0046718	viral entry into host cell
+GO:1905779	9	GO:1905779	positive regulation of exonuclease activity
+GO:0010791	4	GO:0000706	meiotic DNA double-strand break processing
+GO:0030435	5	GO:0006949	syncytium formation
+GO:0030437	3	GO:0007338	single fertilization
+GO:0031509	9	GO:1905779	positive regulation of exonuclease activity
+GO:0019049	2	GO:0075528	modulation by virus of host immune response
+GO:0010780	4	GO:0000706	meiotic DNA double-strand break processing
+GO:0046718	1	GO:0046718	viral entry into host cell
+GO:0044650	1	GO:0046718	viral entry into host cell
+GO:0035821	1	GO:0046718	viral entry into host cell
+GO:0051276	7	GO:0007059	chromosome segregation
+GO:0007320	3	GO:0007338	single fertilization
+GO:0007340	3	GO:0007338	single fertilization
+GO:0007342	3	GO:0007338	single fertilization
+GO:0000741	7	GO:0007059	chromosome segregation
+GO:0035036	3	GO:0007338	single fertilization
+GO:0007338	3	GO:0007338	single fertilization
+GO:0000737	4	GO:0000706	meiotic DNA double-strand break processing
+GO:0071482	6	GO:0104004	cellular response to environmental stimulus
+GO:0071478	6	GO:0104004	cellular response to environmental stimulus
+GO:0000706	4	GO:0000706	meiotic DNA double-strand break processing
+GO:0046813	1	GO:0046718	viral entry into host cell
+GO:0051781	9	GO:1905779	positive regulation of exonuclease activity
+GO:0010026	5	GO:0006949	syncytium formation
+GO:0045087	2	GO:0075528	modulation by virus of host immune response
+GO:0045026	7	GO:0007059	chromosome segregation
+GO:0018119	9	GO:1905779	positive regulation of exonuclease activity
+GO:0009617	2	GO:0075528	modulation by virus of host immune response
+GO:0010520	4	GO:0000706	meiotic DNA double-strand break processing
+GO:0052031	2	GO:0075528	modulation by virus of host immune response
+GO:0006952	6	GO:0104004	cellular response to environmental stimulus
+GO:0007130	7	GO:0007059	chromosome segregation
+GO:0007131	4	GO:0000706	meiotic DNA double-strand break processing
+GO:0044414	2	GO:0075528	modulation by virus of host immune response
+GO:1902410	7	GO:0007059	chromosome segregation
+GO:0006949	5	GO:0006949	syncytium formation
+GO:0071214	6	GO:0104004	cellular response to environmental stimulus
+GO:0044409	1	GO:0046718	viral entry into host cell
+GO:0039548	2	GO:0075528	modulation by virus of host immune response
+GO:0007283	3	GO:0007338	single fertilization
+GO:0039502	2	GO:0075528	modulation by virus of host immune response
+GO:0039503	2	GO:0075528	modulation by virus of host immune response
+GO:0007218	6	GO:0104004	cellular response to environmental stimulus
+GO:0039663	1	GO:0046718	viral entry into host cell
+GO:0016233	4	GO:0000706	meiotic DNA double-strand break processing
+GO:0035306	9	GO:1905779	positive regulation of exonuclease activity
+GO:0061025	7	GO:0007059	chromosome segregation
+GO:0060333	2	GO:0075528	modulation by virus of host immune response
+GO:0031297	4	GO:0000706	meiotic DNA double-strand break processing
+GO:1900015	9	GO:1905779	positive regulation of exonuclease activity
+GO:0032200	7	GO:0007059	chromosome segregation
+GO:0042138	4	GO:0000706	meiotic DNA double-strand break processing
+GO:0018023	9	GO:1905779	positive regulation of exonuclease activity
+GO:0032755	9	GO:1905779	positive regulation of exonuclease activity
+GO:0032757	9	GO:1905779	positive regulation of exonuclease activity
+GO:0007059	7	GO:0007059	chromosome segregation
+GO:0051321	3	GO:0007338	single fertilization
+GO:0060142	5	GO:0006949	syncytium formation
+GO:0060143	5	GO:0006949	syncytium formation
+GO:0045998	9	GO:1905779	positive regulation of exonuclease activity
+GO:0051301	7	GO:0007059	chromosome segregation
+GO:0007009	7	GO:0007059	chromosome segregation
+GO:0010921	9	GO:1905779	positive regulation of exonuclease activity
+GO:1901741	5	GO:0006949	syncytium formation
+GO:0006809	9	GO:1905779	positive regulation of exonuclease activity
+GO:1901739	5	GO:0006949	syncytium formation

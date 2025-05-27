@@ -1,0 +1,69 @@
+GO:0044423	2	GO:0044423	virion component
+GO:0034703	5	GO:0090665	glycoprotein complex
+GO:0034705	5	GO:0090665	glycoprotein complex
+GO:0009986	6	GO:0035869	ciliary transition zone
+GO:0097449	6	GO:0035869	ciliary transition zone
+GO:0033650	1	GO:0030430	host cell cytoplasm
+GO:0098975	6	GO:0035869	ciliary transition zone
+GO:0033655	1	GO:0030430	host cell cytoplasm
+GO:0030425	6	GO:0035869	ciliary transition zone
+GO:0070187	4	GO:0042641	actomyosin
+GO:0008076	3	GO:0098797	plasma membrane protein complex
+GO:0031527	6	GO:0035869	ciliary transition zone
+GO:1903561	6	GO:0035869	ciliary transition zone
+GO:0031511	4	GO:0042641	actomyosin
+GO:0030430	1	GO:0030430	host cell cytoplasm
+GO:0042575	5	GO:0090665	glycoprotein complex
+GO:0033645	1	GO:0030430	host cell cytoplasm
+GO:0033648	1	GO:0030430	host cell cytoplasm
+GO:0099617	4	GO:0042641	actomyosin
+GO:0000781	4	GO:0042641	actomyosin
+GO:0000783	4	GO:0042641	actomyosin
+GO:0036063	4	GO:0042641	actomyosin
+GO:0044156	1	GO:0030430	host cell cytoplasm
+GO:0005615	6	GO:0035869	ciliary transition zone
+GO:0034361	5	GO:0090665	glycoprotein complex
+GO:0044174	1	GO:0030430	host cell cytoplasm
+GO:0044177	1	GO:0030430	host cell cytoplasm
+GO:0044178	1	GO:0030430	host cell cytoplasm
+GO:0032982	6	GO:0035869	ciliary transition zone
+GO:0035861	4	GO:0042641	actomyosin
+GO:0031430	4	GO:0042641	actomyosin
+GO:0035869	6	GO:0035869	ciliary transition zone
+GO:0005929	6	GO:0035869	ciliary transition zone
+GO:0030175	6	GO:0035869	ciliary transition zone
+GO:0090665	5	GO:0090665	glycoprotein complex
+GO:0005883	4	GO:0042641	actomyosin
+GO:0005886	3	GO:0098797	plasma membrane protein complex
+GO:0042627	5	GO:0090665	glycoprotein complex
+GO:0020002	1	GO:0030430	host cell cytoplasm
+GO:0020007	6	GO:0035869	ciliary transition zone
+GO:0020009	4	GO:0042641	actomyosin
+GO:0030055	6	GO:0035869	ciliary transition zone
+GO:0030056	6	GO:0035869	ciliary transition zone
+GO:0005828	4	GO:0042641	actomyosin
+GO:0042641	4	GO:0042641	actomyosin
+GO:0005813	4	GO:0042641	actomyosin
+GO:0005815	4	GO:0042641	actomyosin
+GO:0030849	4	GO:0042641	actomyosin
+GO:0033255	5	GO:0090665	glycoprotein complex
+GO:0034518	5	GO:0090665	glycoprotein complex
+GO:0043083	6	GO:0035869	ciliary transition zone
+GO:0098797	3	GO:0098797	plasma membrane protein complex
+GO:1990423	4	GO:0042641	actomyosin
+GO:0043034	4	GO:0042641	actomyosin
+GO:0019028	2	GO:0044423	virion component
+GO:0019029	2	GO:0044423	virion component
+GO:0015630	4	GO:0042641	actomyosin
+GO:0019013	2	GO:0044423	virion component
+GO:0055036	2	GO:0044423	virion component
+GO:0019031	2	GO:0044423	virion component
+GO:0097546	6	GO:0035869	ciliary transition zone
+GO:0097539	6	GO:0035869	ciliary transition zone
+GO:0042025	1	GO:0030430	host cell cytoplasm
+GO:0005576	6	GO:0035869	ciliary transition zone
+GO:0016010	3	GO:0098797	plasma membrane protein complex
+GO:0031264	3	GO:0098797	plasma membrane protein complex
+GO:0031265	3	GO:0098797	plasma membrane protein complex
+GO:0000214	4	GO:0042641	actomyosin
+GO:0043235	5	GO:0090665	glycoprotein complex

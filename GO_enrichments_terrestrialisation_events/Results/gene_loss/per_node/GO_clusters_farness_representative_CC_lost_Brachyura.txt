@@ -1,0 +1,93 @@
+GO:0031514	6	GO:0036126	sperm flagellum
+GO:0019031	3	GO:0044423	virion component
+GO:0019033	3	GO:0044423	virion component
+GO:0000792	5	GO:0098687	chromosomal region
+GO:0000795	4	GO:0000120	RNA polymerase I transcription regulator complex
+GO:0042025	1	GO:0033647	host intracellular organelle
+GO:0044196	1	GO:0033647	host intracellular organelle
+GO:0005576	8	GO:0005576	extracellular region
+GO:0002080	7	GO:0005886	plasma membrane
+GO:0090571	4	GO:0000120	RNA polymerase I transcription regulator complex
+GO:0099086	4	GO:0000120	RNA polymerase I transcription regulator complex
+GO:0032156	5	GO:0098687	chromosomal region
+GO:0008076	7	GO:0005886	plasma membrane
+GO:0044167	1	GO:0033647	host intracellular organelle
+GO:0044156	1	GO:0033647	host intracellular organelle
+GO:0020002	1	GO:0033647	host intracellular organelle
+GO:0000781	5	GO:0098687	chromosomal region
+GO:0000782	5	GO:0098687	chromosomal region
+GO:0036126	6	GO:0036126	sperm flagellum
+GO:0000775	5	GO:0098687	chromosomal region
+GO:0044177	1	GO:0033647	host intracellular organelle
+GO:0044178	1	GO:0033647	host intracellular organelle
+GO:0097729	6	GO:0036126	sperm flagellum
+GO:0034705	7	GO:0005886	plasma membrane
+GO:0055036	3	GO:0044423	virion component
+GO:0070531	4	GO:0000120	RNA polymerase I transcription regulator complex
+GO:0015630	5	GO:0098687	chromosomal region
+GO:0005668	4	GO:0000120	RNA polymerase I transcription regulator complex
+GO:0001669	7	GO:0005886	plasma membrane
+GO:0033645	1	GO:0033647	host intracellular organelle
+GO:0098687	5	GO:0098687	chromosomal region
+GO:0072669	2	GO:0043235	receptor complex
+GO:0000307	2	GO:0043235	receptor complex
+GO:0072687	5	GO:0098687	chromosomal region
+GO:0005814	5	GO:0098687	chromosomal region
+GO:0005816	5	GO:0098687	chromosomal region
+GO:0097228	6	GO:0036126	sperm flagellum
+GO:0044204	1	GO:0033647	host intracellular organelle
+GO:0098802	7	GO:0005886	plasma membrane
+GO:0030430	1	GO:0033647	host intracellular organelle
+GO:0044094	1	GO:0033647	host intracellular organelle
+GO:1902554	2	GO:0043235	receptor complex
+GO:0019028	3	GO:0044423	virion component
+GO:0019029	3	GO:0044423	virion component
+GO:0019013	3	GO:0044423	virion component
+GO:0044199	1	GO:0033647	host intracellular organelle
+GO:0030016	5	GO:0098687	chromosomal region
+GO:0030017	5	GO:0098687	chromosomal region
+GO:0032153	8	GO:0005576	extracellular region
+GO:0032154	7	GO:0005886	plasma membrane
+GO:0044165	1	GO:0033647	host intracellular organelle
+GO:0000786	5	GO:0098687	chromosomal region
+GO:0044174	1	GO:0033647	host intracellular organelle
+GO:0044175	1	GO:0033647	host intracellular organelle
+GO:0035686	6	GO:0036126	sperm flagellum
+GO:0035102	4	GO:0000120	RNA polymerase I transcription regulator complex
+GO:0042622	7	GO:0005886	plasma membrane
+GO:0005891	7	GO:0005886	plasma membrane
+GO:0033647	1	GO:0033647	host intracellular organelle
+GO:0033648	1	GO:0033647	host intracellular organelle
+GO:0043291	8	GO:0005576	extracellular region
+GO:0030991	2	GO:0043235	receptor complex
+GO:0005886	7	GO:0005886	plasma membrane
+GO:0032839	7	GO:0005886	plasma membrane
+GO:0032982	7	GO:0005886	plasma membrane
+GO:0005813	5	GO:0098687	chromosomal region
+GO:0005815	5	GO:0098687	chromosomal region
+GO:0044423	3	GO:0044423	virion component
+GO:0097225	6	GO:0036126	sperm flagellum
+GO:0044200	1	GO:0033647	host intracellular organelle
+GO:0098975	7	GO:0005886	plasma membrane
+GO:0005902	7	GO:0005886	plasma membrane
+GO:0032783	4	GO:0000120	RNA polymerase I transcription regulator complex
+GO:0098794	8	GO:0005576	extracellular region
+GO:0071944	8	GO:0005576	extracellular region
+GO:0045120	4	GO:0000120	RNA polymerase I transcription regulator complex
+GO:0033655	1	GO:0033647	host intracellular organelle
+GO:0065010	8	GO:0005576	extracellular region
+GO:0000120	4	GO:0000120	RNA polymerase I transcription regulator complex
+GO:0043332	7	GO:0005886	plasma membrane
+GO:0033644	1	GO:0033647	host intracellular organelle
+GO:0009897	7	GO:0005886	plasma membrane
+GO:0005615	8	GO:0005576	extracellular region
+GO:0099634	7	GO:0005886	plasma membrane
+GO:0044220	1	GO:0033647	host intracellular organelle
+GO:0044219	1	GO:0033647	host intracellular organelle
+GO:0043230	8	GO:0005576	extracellular region
+GO:0043235	2	GO:0043235	receptor complex
+GO:0098839	7	GO:0005886	plasma membrane
+GO:0009986	8	GO:0005576	extracellular region
+GO:0000214	4	GO:0000120	RNA polymerase I transcription regulator complex
+GO:0005921	7	GO:0005886	plasma membrane
+GO:1903561	8	GO:0005576	extracellular region

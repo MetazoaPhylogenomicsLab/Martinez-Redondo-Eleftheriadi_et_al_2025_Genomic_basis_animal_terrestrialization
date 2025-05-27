@@ -1,0 +1,365 @@
+GO:0060041	5	GO:0031016	pancreas development
+GO:0060042	4	GO:0071599	otic vesicle development
+GO:0060039	4	GO:0071599	otic vesicle development
+GO:1902083	13	GO:0006508	proteolysis
+GO:0023019	11	GO:0007166	cell surface receptor signaling pathway
+GO:0043052	17	GO:0009593	detection of chemical stimulus
+GO:0043057	16	GO:0097009	energy homeostasis
+GO:0043087	16	GO:0097009	energy homeostasis
+GO:0016567	13	GO:0006508	proteolysis
+GO:0010994	18	GO:0032196	transposition
+GO:0071076	6	GO:0006310	DNA recombination
+GO:0051004	16	GO:0097009	energy homeostasis
+GO:0043009	3	GO:0001763	morphogenesis of a branching structure
+GO:0010923	14	GO:0010562	positive regulation of phosphorus metabolic process
+GO:0048863	1	GO:0045666	positive regulation of neuron differentiation
+GO:0072175	4	GO:0071599	otic vesicle development
+GO:0072112	4	GO:0071599	otic vesicle development
+GO:0007389	2	GO:0007389	pattern specification process
+GO:0035176	16	GO:0097009	energy homeostasis
+GO:0035179	16	GO:0097009	energy homeostasis
+GO:0007379	2	GO:0007389	pattern specification process
+GO:0003002	2	GO:0007389	pattern specification process
+GO:0021987	5	GO:0031016	pancreas development
+GO:0019827	3	GO:0001763	morphogenesis of a branching structure
+GO:0035148	3	GO:0001763	morphogenesis of a branching structure
+GO:0030900	5	GO:0031016	pancreas development
+GO:1903265	11	GO:0007166	cell surface receptor signaling pathway
+GO:0021915	4	GO:0071599	otic vesicle development
+GO:1904600	18	GO:0032196	transposition
+GO:0019800	13	GO:0006508	proteolysis
+GO:0032897	9	GO:0048525	negative regulation of viral process
+GO:0048562	4	GO:0071599	otic vesicle development
+GO:0035282	2	GO:0007389	pattern specification process
+GO:0050966	17	GO:0009593	detection of chemical stimulus
+GO:0048525	9	GO:0048525	negative regulation of viral process
+GO:0035212	1	GO:0045666	positive regulation of neuron differentiation
+GO:0007417	5	GO:0031016	pancreas development
+GO:0044790	9	GO:0048525	negative regulation of viral process
+GO:0007447	5	GO:0031016	pancreas development
+GO:0048538	5	GO:0031016	pancreas development
+GO:0048539	5	GO:0031016	pancreas development
+GO:0032814	19	GO:1901978	positive regulation of cell cycle checkpoint
+GO:0032816	19	GO:1901978	positive regulation of cell cycle checkpoint
+GO:0001947	4	GO:0071599	otic vesicle development
+GO:0001934	14	GO:0010562	positive regulation of phosphorus metabolic process
+GO:0039573	10	GO:0002218	activation of innate immune response
+GO:0070986	2	GO:0007389	pattern specification process
+GO:0060384	5	GO:0031016	pancreas development
+GO:0048690	1	GO:0045666	positive regulation of neuron differentiation
+GO:0070918	6	GO:0006310	DNA recombination
+GO:0050906	17	GO:0009593	detection of chemical stimulus
+GO:0050907	17	GO:0009593	detection of chemical stimulus
+GO:0050909	16	GO:0097009	energy homeostasis
+GO:0007166	11	GO:0007166	cell surface receptor signaling pathway
+GO:0051351	16	GO:0097009	energy homeostasis
+GO:0007156	18	GO:0032196	transposition
+GO:0007157	18	GO:0032196	transposition
+GO:0048686	1	GO:0045666	positive regulation of neuron differentiation
+GO:0048677	1	GO:0045666	positive regulation of neuron differentiation
+GO:0048678	17	GO:0009593	detection of chemical stimulus
+GO:0007176	14	GO:0010562	positive regulation of phosphorus metabolic process
+GO:0039693	8	GO:0044826	viral genome integration into host DNA
+GO:0039696	8	GO:0044826	viral genome integration into host DNA
+GO:0039697	8	GO:0044826	viral genome integration into host DNA
+GO:0007129	12	GO:0007129	homologous chromosome pairing at meiosis
+GO:0048644	4	GO:0071599	otic vesicle development
+GO:0051340	16	GO:0097009	energy homeostasis
+GO:0039686	8	GO:0044826	viral genome integration into host DNA
+GO:1902307	19	GO:1901978	positive regulation of cell cycle checkpoint
+GO:0039689	8	GO:0044826	viral genome integration into host DNA
+GO:1903883	11	GO:0007166	cell surface receptor signaling pathway
+GO:1903886	14	GO:0010562	positive regulation of phosphorus metabolic process
+GO:0051304	18	GO:0032196	transposition
+GO:0051306	12	GO:0007129	homologous chromosome pairing at meiosis
+GO:0007107	18	GO:0032196	transposition
+GO:0051307	12	GO:0007129	homologous chromosome pairing at meiosis
+GO:0051308	12	GO:0007129	homologous chromosome pairing at meiosis
+GO:0000165	11	GO:0007166	cell surface receptor signaling pathway
+GO:0039644	7	GO:0006355	regulation of transcription, DNA-templated
+GO:0060420	5	GO:0031016	pancreas development
+GO:0044821	12	GO:0007129	homologous chromosome pairing at meiosis
+GO:0044826	8	GO:0044826	viral genome integration into host DNA
+GO:0060415	4	GO:0071599	otic vesicle development
+GO:0060444	4	GO:0071599	otic vesicle development
+GO:0031146	13	GO:0006508	proteolysis
+GO:0044805	18	GO:0032196	transposition
+GO:0031102	1	GO:0045666	positive regulation of neuron differentiation
+GO:0031103	1	GO:0045666	positive regulation of neuron differentiation
+GO:0051444	13	GO:0006508	proteolysis
+GO:0035845	1	GO:0045666	positive regulation of neuron differentiation
+GO:0031294	19	GO:1901978	positive regulation of cell cycle checkpoint
+GO:0031295	19	GO:1901978	positive regulation of cell cycle checkpoint
+GO:0016925	13	GO:0006508	proteolysis
+GO:0016926	13	GO:0006508	proteolysis
+GO:0042026	18	GO:0032196	transposition
+GO:0002093	4	GO:0071599	otic vesicle development
+GO:0075713	8	GO:0044826	viral genome integration into host DNA
+GO:2001141	7	GO:0006355	regulation of transcription, DNA-templated
+GO:0051153	1	GO:0045666	positive regulation of neuron differentiation
+GO:0051155	1	GO:0045666	positive regulation of neuron differentiation
+GO:1903506	7	GO:0006355	regulation of transcription, DNA-templated
+GO:1903508	7	GO:0006355	regulation of transcription, DNA-templated
+GO:0075732	8	GO:0044826	viral genome integration into host DNA
+GO:0035589	11	GO:0007166	cell surface receptor signaling pathway
+GO:0046324	19	GO:1901978	positive regulation of cell cycle checkpoint
+GO:0046325	19	GO:1901978	positive regulation of cell cycle checkpoint
+GO:0002089	4	GO:0071599	otic vesicle development
+GO:0043123	11	GO:0007166	cell surface receptor signaling pathway
+GO:0046330	11	GO:0007166	cell surface receptor signaling pathway
+GO:0014066	11	GO:0007166	cell surface receptor signaling pathway
+GO:0051149	1	GO:0045666	positive regulation of neuron differentiation
+GO:0006360	7	GO:0006355	regulation of transcription, DNA-templated
+GO:0006351	7	GO:0006355	regulation of transcription, DNA-templated
+GO:0006355	7	GO:0006355	regulation of transcription, DNA-templated
+GO:0006357	7	GO:0006355	regulation of transcription, DNA-templated
+GO:0006382	6	GO:0006310	DNA recombination
+GO:0014029	4	GO:0071599	otic vesicle development
+GO:0014015	1	GO:0045666	positive regulation of neuron differentiation
+GO:0014016	1	GO:0045666	positive regulation of neuron differentiation
+GO:0034058	18	GO:0032196	transposition
+GO:0006310	6	GO:0006310	DNA recombination
+GO:1905458	1	GO:0045666	positive regulation of neuron differentiation
+GO:0060219	4	GO:0071599	otic vesicle development
+GO:0060249	16	GO:0097009	energy homeostasis
+GO:0003143	4	GO:0071599	otic vesicle development
+GO:0000724	6	GO:0006310	DNA recombination
+GO:0000725	6	GO:0006310	DNA recombination
+GO:0000729	6	GO:0006310	DNA recombination
+GO:0000731	6	GO:0006310	DNA recombination
+GO:0018345	13	GO:0006508	proteolysis
+GO:1902230	11	GO:0007166	cell surface receptor signaling pathway
+GO:0000706	6	GO:0006310	DNA recombination
+GO:0045087	10	GO:0002218	activation of innate immune response
+GO:0060788	3	GO:0001763	morphogenesis of a branching structure
+GO:0007597	13	GO:0006508	proteolysis
+GO:0003229	4	GO:0071599	otic vesicle development
+GO:0032990	1	GO:0045666	positive regulation of neuron differentiation
+GO:0007553	14	GO:0010562	positive regulation of phosphorus metabolic process
+GO:0007554	14	GO:0010562	positive regulation of phosphorus metabolic process
+GO:0051785	19	GO:1901978	positive regulation of cell cycle checkpoint
+GO:1905146	13	GO:0006508	proteolysis
+GO:0000578	2	GO:0007389	pattern specification process
+GO:0042332	17	GO:0009593	detection of chemical stimulus
+GO:0010085	2	GO:0007389	pattern specification process
+GO:0071897	6	GO:0006310	DNA recombination
+GO:0065001	2	GO:0007389	pattern specification process
+GO:0007638	17	GO:0009593	detection of chemical stimulus
+GO:0006260	6	GO:0006310	DNA recombination
+GO:0034397	18	GO:0032196	transposition
+GO:0034398	18	GO:0032196	transposition
+GO:1902806	19	GO:1901978	positive regulation of cell cycle checkpoint
+GO:0060562	4	GO:0071599	otic vesicle development
+GO:0031664	11	GO:0007166	cell surface receptor signaling pathway
+GO:1901424	17	GO:0009593	detection of chemical stimulus
+GO:0007606	16	GO:0097009	energy homeostasis
+GO:0009414	17	GO:0009593	detection of chemical stimulus
+GO:0006275	7	GO:0006355	regulation of transcription, DNA-templated
+GO:0006278	6	GO:0006310	DNA recombination
+GO:0042472	4	GO:0071599	otic vesicle development
+GO:0035994	17	GO:0009593	detection of chemical stimulus
+GO:0097009	16	GO:0097009	energy homeostasis
+GO:0046782	9	GO:0048525	negative regulation of viral process
+GO:0031638	13	GO:0006508	proteolysis
+GO:1903901	9	GO:0048525	negative regulation of viral process
+GO:0043550	14	GO:0010562	positive regulation of phosphorus metabolic process
+GO:0071599	4	GO:0071599	otic vesicle development
+GO:0002456	17	GO:0009593	detection of chemical stimulus
+GO:0090085	13	GO:0006508	proteolysis
+GO:0046716	18	GO:0032196	transposition
+GO:0046718	8	GO:0044826	viral genome integration into host DNA
+GO:0071562	18	GO:0032196	transposition
+GO:2000053	11	GO:0007166	cell surface receptor signaling pathway
+GO:2000055	11	GO:0007166	cell surface receptor signaling pathway
+GO:0043547	16	GO:0097009	energy homeostasis
+GO:2000042	6	GO:0006310	DNA recombination
+GO:0046856	13	GO:0006508	proteolysis
+GO:1902680	7	GO:0006355	regulation of transcription, DNA-templated
+GO:0043654	18	GO:0032196	transposition
+GO:0071696	3	GO:0001763	morphogenesis of a branching structure
+GO:0071697	3	GO:0001763	morphogenesis of a branching structure
+GO:0033058	16	GO:0097009	energy homeostasis
+GO:0046813	8	GO:0044826	viral genome integration into host DNA
+GO:1902615	17	GO:0009593	detection of chemical stimulus
+GO:0046849	16	GO:0097009	energy homeostasis
+GO:0110077	18	GO:0032196	transposition
+GO:0061057	11	GO:0007166	cell surface receptor signaling pathway
+GO:0061059	11	GO:0007166	cell surface receptor signaling pathway
+GO:0061077	18	GO:0032196	transposition
+GO:0051607	10	GO:0002218	activation of innate immune response
+GO:0071630	13	GO:0006508	proteolysis
+GO:0046596	9	GO:0048525	negative regulation of viral process
+GO:0046597	9	GO:0048525	negative regulation of viral process
+GO:0045444	1	GO:0045666	positive regulation of neuron differentiation
+GO:0034143	11	GO:0007166	cell surface receptor signaling pathway
+GO:0002253	10	GO:0002218	activation of innate immune response
+GO:0098727	3	GO:0001763	morphogenesis of a branching structure
+GO:0009798	2	GO:0007389	pattern specification process
+GO:0098742	18	GO:0032196	transposition
+GO:0002220	10	GO:0002218	activation of innate immune response
+GO:0002218	10	GO:0002218	activation of innate immune response
+GO:0009786	19	GO:1901978	positive regulation of cell cycle checkpoint
+GO:0002230	10	GO:0002218	activation of innate immune response
+GO:0030335	19	GO:1901978	positive regulation of cell cycle checkpoint
+GO:0045141	12	GO:0007129	homologous chromosome pairing at meiosis
+GO:0006513	13	GO:0006508	proteolysis
+GO:0010493	13	GO:0006508	proteolysis
+GO:0010496	18	GO:0032196	transposition
+GO:1905666	19	GO:1901978	positive regulation of cell cycle checkpoint
+GO:0036090	18	GO:0032196	transposition
+GO:1905668	19	GO:1901978	positive regulation of cell cycle checkpoint
+GO:0006543	13	GO:0006508	proteolysis
+GO:0006537	13	GO:0006508	proteolysis
+GO:0098868	3	GO:0001763	morphogenesis of a branching structure
+GO:0042730	16	GO:0097009	energy homeostasis
+GO:0006508	13	GO:0006508	proteolysis
+GO:0016049	18	GO:0032196	transposition
+GO:0002752	11	GO:0007166	cell surface receptor signaling pathway
+GO:0046622	1	GO:0045666	positive regulation of neuron differentiation
+GO:0002780	10	GO:0002218	activation of innate immune response
+GO:0098813	18	GO:0032196	transposition
+GO:0009880	2	GO:0007389	pattern specification process
+GO:0030422	6	GO:0006310	DNA recombination
+GO:0062208	11	GO:0007166	cell surface receptor signaling pathway
+GO:0030449	10	GO:0002218	activation of innate immune response
+GO:0045213	13	GO:0006508	proteolysis
+GO:0030433	13	GO:0006508	proteolysis
+GO:0090305	6	GO:0006310	DNA recombination
+GO:1902965	19	GO:1901978	positive regulation of cell cycle checkpoint
+GO:1902966	19	GO:1901978	positive regulation of cell cycle checkpoint
+GO:0034727	18	GO:0032196	transposition
+GO:2000300	19	GO:1901978	positive regulation of cell cycle checkpoint
+GO:0097400	11	GO:0007166	cell surface receptor signaling pathway
+GO:0051984	19	GO:1901978	positive regulation of cell cycle checkpoint
+GO:0009593	17	GO:0009593	detection of chemical stimulus
+GO:0009595	17	GO:0009593	detection of chemical stimulus
+GO:0060900	4	GO:0071599	otic vesicle development
+GO:0014894	16	GO:0097009	energy homeostasis
+GO:0043922	8	GO:0044826	viral genome integration into host DNA
+GO:1902946	18	GO:0032196	transposition
+GO:0042595	17	GO:0009593	detection of chemical stimulus
+GO:0048060	17	GO:0009593	detection of chemical stimulus
+GO:0061371	5	GO:0031016	pancreas development
+GO:0070307	4	GO:0071599	otic vesicle development
+GO:0019062	8	GO:0044826	viral genome integration into host DNA
+GO:0019064	8	GO:0044826	viral genome integration into host DNA
+GO:0014820	16	GO:0097009	energy homeostasis
+GO:0043903	9	GO:0048525	negative regulation of viral process
+GO:0002803	10	GO:0002218	activation of innate immune response
+GO:0002807	10	GO:0002218	activation of innate immune response
+GO:0002808	10	GO:0002218	activation of innate immune response
+GO:0019083	8	GO:0044826	viral genome integration into host DNA
+GO:0045746	11	GO:0007166	cell surface receptor signaling pathway
+GO:0045739	6	GO:0006310	DNA recombination
+GO:0019043	8	GO:0044826	viral genome integration into host DNA
+GO:0061304	4	GO:0071599	otic vesicle development
+GO:0008065	4	GO:0071599	otic vesicle development
+GO:0014809	19	GO:1901978	positive regulation of cell cycle checkpoint
+GO:0098670	8	GO:0044826	viral genome integration into host DNA
+GO:0098671	8	GO:0044826	viral genome integration into host DNA
+GO:0045892	7	GO:0006355	regulation of transcription, DNA-templated
+GO:0045893	7	GO:0006355	regulation of transcription, DNA-templated
+GO:1901664	16	GO:0097009	energy homeostasis
+GO:1901666	16	GO:0097009	energy homeostasis
+GO:0008049	16	GO:0097009	energy homeostasis
+GO:0009629	17	GO:0009593	detection of chemical stimulus
+GO:2000147	19	GO:1901978	positive regulation of cell cycle checkpoint
+GO:0045840	19	GO:1901978	positive regulation of cell cycle checkpoint
+GO:0097240	18	GO:0032196	transposition
+GO:0070197	12	GO:0007129	homologous chromosome pairing at meiosis
+GO:0034585	6	GO:0006310	DNA recombination
+GO:0045834	14	GO:0010562	positive regulation of phosphorus metabolic process
+GO:0030204	13	GO:0006508	proteolysis
+GO:0032042	6	GO:0006310	DNA recombination
+GO:0010762	19	GO:1901978	positive regulation of cell cycle checkpoint
+GO:0010765	19	GO:1901978	positive regulation of cell cycle checkpoint
+GO:0070121	3	GO:0001763	morphogenesis of a branching structure
+GO:0016339	18	GO:0032196	transposition
+GO:0090220	12	GO:0007129	homologous chromosome pairing at meiosis
+GO:0099004	11	GO:0007166	cell surface receptor signaling pathway
+GO:0006963	10	GO:0002218	activation of innate immune response
+GO:0061180	4	GO:0071599	otic vesicle development
+GO:0006986	17	GO:0009593	detection of chemical stimulus
+GO:0036498	11	GO:0007166	cell surface receptor signaling pathway
+GO:0034620	17	GO:0009593	detection of chemical stimulus
+GO:0010881	19	GO:1901978	positive regulation of cell cycle checkpoint
+GO:0010882	11	GO:0007166	cell surface receptor signaling pathway
+GO:0061299	4	GO:0071599	otic vesicle development
+GO:0010828	19	GO:1901978	positive regulation of cell cycle checkpoint
+GO:0010811	19	GO:1901978	positive regulation of cell cycle checkpoint
+GO:0030858	1	GO:0045666	positive regulation of neuron differentiation
+GO:0015074	6	GO:0006310	DNA recombination
+GO:0045665	1	GO:0045666	positive regulation of neuron differentiation
+GO:0045666	1	GO:0045666	positive regulation of neuron differentiation
+GO:0072080	4	GO:0071599	otic vesicle development
+GO:2000781	6	GO:0006310	DNA recombination
+GO:0001763	3	GO:0001763	morphogenesis of a branching structure
+GO:1903003	13	GO:0006508	proteolysis
+GO:0050767	1	GO:0045666	positive regulation of neuron differentiation
+GO:2000736	1	GO:0045666	positive regulation of neuron differentiation
+GO:0035010	16	GO:0097009	energy homeostasis
+GO:2000738	1	GO:0045666	positive regulation of neuron differentiation
+GO:0033209	11	GO:0007166	cell surface receptor signaling pathway
+GO:0050729	10	GO:0002218	activation of innate immune response
+GO:0010562	14	GO:0010562	positive regulation of phosphorus metabolic process
+GO:0035006	10	GO:0002218	activation of innate immune response
+GO:0001702	3	GO:0001763	morphogenesis of a branching structure
+GO:0001894	16	GO:0097009	energy homeostasis
+GO:0061762	11	GO:0007166	cell surface receptor signaling pathway
+GO:0009952	2	GO:0007389	pattern specification process
+GO:0009954	2	GO:0007389	pattern specification process
+GO:1901978	19	GO:1901978	positive regulation of cell cycle checkpoint
+GO:0010508	14	GO:0010562	positive regulation of phosphorus metabolic process
+GO:0048478	6	GO:0006310	DNA recombination
+GO:0009946	2	GO:0007389	pattern specification process
+GO:0061709	18	GO:0032196	transposition
+GO:0021543	5	GO:0031016	pancreas development
+GO:0055010	4	GO:0071599	otic vesicle development
+GO:0016239	14	GO:0010562	positive regulation of phosphorus metabolic process
+GO:1900426	10	GO:0002218	activation of innate immune response
+GO:0048168	19	GO:1901978	positive regulation of cell cycle checkpoint
+GO:0007060	12	GO:0007129	homologous chromosome pairing at meiosis
+GO:0001558	19	GO:1901978	positive regulation of cell cycle checkpoint
+GO:0008407	4	GO:0071599	otic vesicle development
+GO:0032481	14	GO:0010562	positive regulation of phosphorus metabolic process
+GO:0090502	6	GO:0006310	DNA recombination
+GO:0007014	13	GO:0006508	proteolysis
+GO:0048147	19	GO:1901978	positive regulation of cell cycle checkpoint
+GO:0040025	5	GO:0031016	pancreas development
+GO:0040026	5	GO:0031016	pancreas development
+GO:0040028	5	GO:0031016	pancreas development
+GO:0031099	3	GO:0001763	morphogenesis of a branching structure
+GO:0040017	19	GO:1901978	positive regulation of cell cycle checkpoint
+GO:0021629	3	GO:0001763	morphogenesis of a branching structure
+GO:0040032	3	GO:0001763	morphogenesis of a branching structure
+GO:0070570	1	GO:0045666	positive regulation of neuron differentiation
+GO:2000696	1	GO:0045666	positive regulation of neuron differentiation
+GO:0052372	9	GO:0048525	negative regulation of viral process
+GO:0045998	14	GO:0010562	positive regulation of phosphorus metabolic process
+GO:1904894	11	GO:0007166	cell surface receptor signaling pathway
+GO:2000651	19	GO:1901978	positive regulation of cell cycle checkpoint
+GO:0033522	13	GO:0006508	proteolysis
+GO:0061564	1	GO:0045666	positive regulation of neuron differentiation
+GO:0070534	13	GO:0006508	proteolysis
+GO:0045966	14	GO:0010562	positive regulation of phosphorus metabolic process
+GO:0031016	5	GO:0031016	pancreas development
+GO:0032196	18	GO:0032196	transposition
+GO:0032197	18	GO:0032196	transposition
+GO:0048266	17	GO:0009593	detection of chemical stimulus
+GO:0000045	18	GO:0032196	transposition
+GO:0001655	5	GO:0031016	pancreas development
+GO:0072347	17	GO:0009593	detection of chemical stimulus
+GO:2000644	14	GO:0010562	positive regulation of phosphorus metabolic process
+GO:2000646	14	GO:0010562	positive regulation of phosphorus metabolic process
+GO:0045944	7	GO:0006355	regulation of transcription, DNA-templated
+GO:0045937	14	GO:0010562	positive regulation of phosphorus metabolic process
+GO:0019221	11	GO:0007166	cell surface receptor signaling pathway
+GO:0099173	18	GO:0032196	transposition
+GO:0032147	14	GO:0010562	positive regulation of phosphorus metabolic process
+GO:1904801	1	GO:0045666	positive regulation of neuron differentiation
+GO:0008284	19	GO:1901978	positive regulation of cell cycle checkpoint
+GO:0048793	5	GO:0031016	pancreas development
+GO:0051092	7	GO:0006355	regulation of transcription, DNA-templated
+GO:0060026	4	GO:0071599	otic vesicle development
+GO:0060027	4	GO:0071599	otic vesicle development
+GO:0033674	14	GO:0010562	positive regulation of phosphorus metabolic process

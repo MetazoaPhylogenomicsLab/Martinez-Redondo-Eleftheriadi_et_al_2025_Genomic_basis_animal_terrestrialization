@@ -1,0 +1,68 @@
+GO:0010927	4	GO:0010927	cellular component assembly involved in morphogenesis
+GO:0040024	6	GO:0003012	muscle system process
+GO:0040011	8	GO:1903828	negative regulation of cellular protein localization
+GO:0032532	8	GO:1903828	negative regulation of cellular protein localization
+GO:0051607	5	GO:0032094	response to food
+GO:0006910	8	GO:1903828	negative regulation of cellular protein localization
+GO:0071244	5	GO:0032094	response to food
+GO:0070972	8	GO:1903828	negative regulation of cellular protein localization
+GO:0007605	6	GO:0003012	muscle system process
+GO:0032366	2	GO:0051952	regulation of amine transport
+GO:0032367	2	GO:0051952	regulation of amine transport
+GO:0034605	5	GO:0032094	response to food
+GO:0034608	6	GO:0003012	muscle system process
+GO:0034609	6	GO:0003012	muscle system process
+GO:0032094	5	GO:0032094	response to food
+GO:0015810	2	GO:0051952	regulation of amine transport
+GO:0015811	2	GO:0051952	regulation of amine transport
+GO:0010037	5	GO:0032094	response to food
+GO:0045176	8	GO:1903828	negative regulation of cellular protein localization
+GO:0032373	2	GO:0051952	regulation of amine transport
+GO:0032376	2	GO:0051952	regulation of amine transport
+GO:0009408	5	GO:0032094	response to food
+GO:0140546	5	GO:0032094	response to food
+GO:0000101	2	GO:0051952	regulation of amine transport
+GO:0030239	4	GO:0010927	cellular component assembly involved in morphogenesis
+GO:0061526	2	GO:0051952	regulation of amine transport
+GO:0007193	1	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0060993	6	GO:0003012	muscle system process
+GO:0003012	6	GO:0003012	muscle system process
+GO:0002385	5	GO:0032094	response to food
+GO:0019722	1	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0007156	3	GO:0044331	cell-cell adhesion mediated by cadherin
+GO:0007186	1	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0007187	1	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0007188	1	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0085029	4	GO:0010927	cellular component assembly involved in morphogenesis
+GO:0010883	8	GO:1903828	negative regulation of cellular protein localization
+GO:0010888	8	GO:1903828	negative regulation of cellular protein localization
+GO:0042135	8	GO:1903828	negative regulation of cellular protein localization
+GO:1902437	6	GO:0003012	muscle system process
+GO:0023041	1	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0009553	6	GO:0003012	muscle system process
+GO:0001508	8	GO:1903828	negative regulation of cellular protein localization
+GO:1903828	8	GO:1903828	negative regulation of cellular protein localization
+GO:0001963	8	GO:1903828	negative regulation of cellular protein localization
+GO:0007135	4	GO:0010927	cellular component assembly involved in morphogenesis
+GO:0016339	3	GO:0044331	cell-cell adhesion mediated by cadherin
+GO:0030719	4	GO:0010927	cellular component assembly involved in morphogenesis
+GO:0046627	8	GO:1903828	negative regulation of cellular protein localization
+GO:0044331	3	GO:0044331	cell-cell adhesion mediated by cadherin
+GO:0055001	4	GO:0010927	cellular component assembly involved in morphogenesis
+GO:0055002	4	GO:0010927	cellular component assembly involved in morphogenesis
+GO:0014055	2	GO:0051952	regulation of amine transport
+GO:0014056	2	GO:0051952	regulation of amine transport
+GO:0014057	2	GO:0051952	regulation of amine transport
+GO:0045071	8	GO:1903828	negative regulation of cellular protein localization
+GO:0008361	8	GO:1903828	negative regulation of cellular protein localization
+GO:0051260	4	GO:0010927	cellular component assembly involved in morphogenesis
+GO:0051259	4	GO:0010927	cellular component assembly involved in morphogenesis
+GO:0050954	6	GO:0003012	muscle system process
+GO:0051952	2	GO:0051952	regulation of amine transport
+GO:0007212	1	GO:0007186	G protein-coupled receptor signaling pathway
+GO:0050976	6	GO:0003012	muscle system process
+GO:1905953	8	GO:1903828	negative regulation of cellular protein localization
+GO:0009615	5	GO:0032094	response to food
+GO:0050901	3	GO:0044331	cell-cell adhesion mediated by cadherin
+GO:2000370	8	GO:1903828	negative regulation of cellular protein localization
+GO:0007304	4	GO:0010927	cellular component assembly involved in morphogenesis

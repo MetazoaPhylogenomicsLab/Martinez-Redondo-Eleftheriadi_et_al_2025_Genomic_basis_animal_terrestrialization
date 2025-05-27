@@ -1,0 +1,246 @@
+GO:0005534	10	GO:0001530	lipopolysaccharide binding
+GO:0005537	10	GO:0001530	lipopolysaccharide binding
+GO:0004714	5	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0038023	3	GO:0038023	signaling receptor activity
+GO:0004402	5	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0060089	3	GO:0038023	signaling receptor activity
+GO:0001595	3	GO:0038023	signaling receptor activity
+GO:0004962	3	GO:0038023	signaling receptor activity
+GO:0003756	5	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0070851	8	GO:0005102	signaling receptor binding
+GO:0003990	6	GO:0004518	nuclease activity
+GO:0004185	5	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0004945	3	GO:0038023	signaling receptor activity
+GO:0003677	9	GO:0003677	DNA binding
+GO:0003964	5	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0003968	5	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:1990846	2	GO:0004857	enzyme inhibitor activity
+GO:0003700	11	GO:0005198	structural molecule activity
+GO:0019788	5	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0031423	8	GO:0005102	signaling receptor binding
+GO:0016796	6	GO:0004518	nuclease activity
+GO:0004888	3	GO:0038023	signaling receptor activity
+GO:0004908	3	GO:0038023	signaling receptor activity
+GO:0000405	9	GO:0003677	DNA binding
+GO:0048256	6	GO:0004518	nuclease activity
+GO:0031435	10	GO:0001530	lipopolysaccharide binding
+GO:0008236	5	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0004104	6	GO:0004518	nuclease activity
+GO:0019966	8	GO:0005102	signaling receptor binding
+GO:0019955	8	GO:0005102	signaling receptor binding
+GO:0005125	7	GO:0048018	receptor ligand activity
+GO:0047372	6	GO:0004518	nuclease activity
+GO:0034338	6	GO:0004518	nuclease activity
+GO:0004806	6	GO:0004518	nuclease activity
+GO:0090729	11	GO:0005198	structural molecule activity
+GO:0005149	7	GO:0048018	receptor ligand activity
+GO:0017171	6	GO:0004518	nuclease activity
+GO:0005133	7	GO:0048018	receptor ligand activity
+GO:0000175	6	GO:0004518	nuclease activity
+GO:0005139	7	GO:0048018	receptor ligand activity
+GO:0004252	5	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0080030	6	GO:0004518	nuclease activity
+GO:0042162	9	GO:0003677	DNA binding
+GO:0016895	6	GO:0004518	nuclease activity
+GO:0016896	6	GO:0004518	nuclease activity
+GO:0120160	10	GO:0001530	lipopolysaccharide binding
+GO:0017108	6	GO:0004518	nuclease activity
+GO:0004527	6	GO:0004518	nuclease activity
+GO:0055106	2	GO:0004857	enzyme inhibitor activity
+GO:0008409	6	GO:0004518	nuclease activity
+GO:0016864	5	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0004518	6	GO:0004518	nuclease activity
+GO:0030594	3	GO:0038023	signaling receptor activity
+GO:0004519	6	GO:0004518	nuclease activity
+GO:0019838	8	GO:0005102	signaling receptor binding
+GO:0039660	11	GO:0005198	structural molecule activity
+GO:0004532	6	GO:0004518	nuclease activity
+GO:0001851	8	GO:0005102	signaling receptor binding
+GO:0061663	5	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0061665	5	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0061733	5	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0001848	8	GO:0005102	signaling receptor binding
+GO:0008126	6	GO:0004518	nuclease activity
+GO:0038085	8	GO:0005102	signaling receptor binding
+GO:0004725	5	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0005540	10	GO:0001530	lipopolysaccharide binding
+GO:0010313	8	GO:0005102	signaling receptor binding
+GO:0004364	5	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0030291	2	GO:0004857	enzyme inhibitor activity
+GO:0005213	11	GO:0005198	structural molecule activity
+GO:0061809	5	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0140297	8	GO:0005102	signaling receptor binding
+GO:0019212	2	GO:0004857	enzyme inhibitor activity
+GO:0061134	1	GO:0061135	endopeptidase regulator activity
+GO:0030547	2	GO:0004857	enzyme inhibitor activity
+GO:0030548	2	GO:0004857	enzyme inhibitor activity
+GO:0019237	9	GO:0003677	DNA binding
+GO:0008191	1	GO:0061135	endopeptidase regulator activity
+GO:0004930	3	GO:0038023	signaling receptor activity
+GO:0009881	3	GO:0038023	signaling receptor activity
+GO:0051400	8	GO:0005102	signaling receptor binding
+GO:0019208	2	GO:0004857	enzyme inhibitor activity
+GO:0030246	8	GO:0005102	signaling receptor binding
+GO:0031369	8	GO:0005102	signaling receptor binding
+GO:0003690	9	GO:0003677	DNA binding
+GO:0030957	10	GO:0001530	lipopolysaccharide binding
+GO:0005044	11	GO:0005198	structural molecule activity
+GO:0005031	3	GO:0038023	signaling receptor activity
+GO:0031956	5	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0140375	3	GO:0038023	signaling receptor activity
+GO:0019902	8	GO:0005102	signaling receptor binding
+GO:0016538	2	GO:0004857	enzyme inhibitor activity
+GO:0005000	3	GO:0038023	signaling receptor activity
+GO:0008146	5	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0016504	1	GO:0061135	endopeptidase regulator activity
+GO:0043565	9	GO:0003677	DNA binding
+GO:1990825	9	GO:0003677	DNA binding
+GO:0050135	5	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0032422	9	GO:0003677	DNA binding
+GO:0004896	3	GO:0038023	signaling receptor activity
+GO:0098632	10	GO:0001530	lipopolysaccharide binding
+GO:0004861	2	GO:0004857	enzyme inhibitor activity
+GO:0004864	2	GO:0004857	enzyme inhibitor activity
+GO:0004866	1	GO:0061135	endopeptidase regulator activity
+GO:0004867	1	GO:0061135	endopeptidase regulator activity
+GO:0004857	2	GO:0004857	enzyme inhibitor activity
+GO:0004190	5	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0008270	10	GO:0001530	lipopolysaccharide binding
+GO:0019888	2	GO:0004857	enzyme inhibitor activity
+GO:0003887	5	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0008080	5	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0008083	7	GO:0048018	receptor ligand activity
+GO:0043621	8	GO:0005102	signaling receptor binding
+GO:0008020	3	GO:0038023	signaling receptor activity
+GO:0016866	5	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0051010	10	GO:0001530	lipopolysaccharide binding
+GO:0004523	6	GO:0004518	nuclease activity
+GO:0061135	1	GO:0061135	endopeptidase regulator activity
+GO:0000995	11	GO:0005198	structural molecule activity
+GO:0008307	11	GO:0005198	structural molecule activity
+GO:0016423	5	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0140103	5	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0005179	7	GO:0048018	receptor ligand activity
+GO:0001786	10	GO:0001530	lipopolysaccharide binding
+GO:0005124	8	GO:0005102	signaling receptor binding
+GO:0072341	8	GO:0005102	signaling receptor binding
+GO:0051428	7	GO:0048018	receptor ligand activity
+GO:0016709	5	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0034481	5	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0004517	5	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0047756	5	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0030492	8	GO:0005102	signaling receptor binding
+GO:0008097	9	GO:0003677	DNA binding
+GO:0098960	3	GO:0038023	signaling receptor activity
+GO:0031768	7	GO:0048018	receptor ligand activity
+GO:0030545	2	GO:0004857	enzyme inhibitor activity
+GO:0030546	2	GO:0004857	enzyme inhibitor activity
+GO:0016168	9	GO:0003677	DNA binding
+GO:0051427	8	GO:0005102	signaling receptor binding
+GO:0008066	3	GO:0038023	signaling receptor activity
+GO:0048018	7	GO:0048018	receptor ligand activity
+GO:0005198	11	GO:0005198	structural molecule activity
+GO:0008013	8	GO:0005102	signaling receptor binding
+GO:0000030	5	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0005509	10	GO:0001530	lipopolysaccharide binding
+GO:0019864	10	GO:0001530	lipopolysaccharide binding
+GO:0019865	10	GO:0001530	lipopolysaccharide binding
+GO:0030345	11	GO:0005198	structural molecule activity
+GO:0030296	2	GO:0004857	enzyme inhibitor activity
+GO:0005102	8	GO:0005102	signaling receptor binding
+GO:0016608	7	GO:0048018	receptor ligand activity
+GO:0004869	1	GO:0061135	endopeptidase regulator activity
+GO:0004301	5	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0015459	2	GO:0004857	enzyme inhibitor activity
+GO:0004222	5	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0071813	10	GO:0001530	lipopolysaccharide binding
+GO:0071814	10	GO:0001530	lipopolysaccharide binding
+GO:0005200	11	GO:0005198	structural molecule activity
+GO:0015026	3	GO:0038023	signaling receptor activity
+GO:0005546	10	GO:0001530	lipopolysaccharide binding
+GO:0038187	3	GO:0038023	signaling receptor activity
+GO:0035033	2	GO:0004857	enzyme inhibitor activity
+GO:0035034	2	GO:0004857	enzyme inhibitor activity
+GO:0042608	8	GO:0005102	signaling receptor binding
+GO:1990782	10	GO:0001530	lipopolysaccharide binding
+GO:0070325	8	GO:0005102	signaling receptor binding
+GO:0005507	10	GO:0001530	lipopolysaccharide binding
+GO:0050700	8	GO:0005102	signaling receptor binding
+GO:0055102	2	GO:0004857	enzyme inhibitor activity
+GO:0004322	5	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0001849	10	GO:0001530	lipopolysaccharide binding
+GO:0089720	10	GO:0001530	lipopolysaccharide binding
+GO:0048020	7	GO:0048018	receptor ligand activity
+GO:0031994	10	GO:0001530	lipopolysaccharide binding
+GO:0048306	8	GO:0005102	signaling receptor binding
+GO:0019911	11	GO:0005198	structural molecule activity
+GO:0030374	2	GO:0004857	enzyme inhibitor activity
+GO:0005035	3	GO:0038023	signaling receptor activity
+GO:0030346	10	GO:0001530	lipopolysaccharide binding
+GO:0042826	8	GO:0005102	signaling receptor binding
+GO:0030331	7	GO:0048018	receptor ligand activity
+GO:0060229	2	GO:0004857	enzyme inhibitor activity
+GO:0008140	10	GO:0001530	lipopolysaccharide binding
+GO:0003682	8	GO:0005102	signaling receptor binding
+GO:0042169	8	GO:0005102	signaling receptor binding
+GO:0046965	7	GO:0048018	receptor ligand activity
+GO:0046966	7	GO:0048018	receptor ligand activity
+GO:0030023	11	GO:0005198	structural molecule activity
+GO:0035197	9	GO:0003677	DNA binding
+GO:0042834	10	GO:0001530	lipopolysaccharide binding
+GO:0061507	10	GO:0001530	lipopolysaccharide binding
+GO:0070410	8	GO:0005102	signaling receptor binding
+GO:0030627	9	GO:0003677	DNA binding
+GO:0042802	8	GO:0005102	signaling receptor binding
+GO:0061980	9	GO:0003677	DNA binding
+GO:0042809	7	GO:0048018	receptor ligand activity
+GO:0023026	10	GO:0001530	lipopolysaccharide binding
+GO:0001227	11	GO:0005198	structural molecule activity
+GO:0001228	11	GO:0005198	structural molecule activity
+GO:0008297	6	GO:0004518	nuclease activity
+GO:0003712	2	GO:0004857	enzyme inhibitor activity
+GO:0003713	2	GO:0004857	enzyme inhibitor activity
+GO:0002020	8	GO:0005102	signaling receptor binding
+GO:0003714	2	GO:0004857	enzyme inhibitor activity
+GO:0000981	11	GO:0005198	structural molecule activity
+GO:0000977	9	GO:0003677	DNA binding
+GO:0000978	9	GO:0003677	DNA binding
+GO:0043274	8	GO:0005102	signaling receptor binding
+GO:0004859	2	GO:0004857	enzyme inhibitor activity
+GO:0140444	5	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0097493	11	GO:0005198	structural molecule activity
+GO:0008373	5	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0045499	7	GO:0048018	receptor ligand activity
+GO:0005126	8	GO:0005102	signaling receptor binding
+GO:0005127	7	GO:0048018	receptor ligand activity
+GO:0035259	7	GO:0048018	receptor ligand activity
+GO:0030882	10	GO:0001530	lipopolysaccharide binding
+GO:0050693	8	GO:0005102	signaling receptor binding
+GO:0008656	1	GO:0061135	endopeptidase regulator activity
+GO:0003823	8	GO:0005102	signaling receptor binding
+GO:0005138	7	GO:0048018	receptor ligand activity
+GO:0043035	9	GO:0003677	DNA binding
+GO:0030169	10	GO:0001530	lipopolysaccharide binding
+GO:0042975	8	GO:0005102	signaling receptor binding
+GO:0005104	7	GO:0048018	receptor ligand activity
+GO:0034987	8	GO:0005102	signaling receptor binding
+GO:0008009	7	GO:0048018	receptor ligand activity
+GO:0050750	7	GO:0048018	receptor ligand activity
+GO:0070530	10	GO:0001530	lipopolysaccharide binding
+GO:0010385	9	GO:0003677	DNA binding
+GO:0005521	8	GO:0005102	signaling receptor binding
+GO:0043422	10	GO:0001530	lipopolysaccharide binding
+GO:0070976	8	GO:0005102	signaling receptor binding
+GO:0043548	8	GO:0005102	signaling receptor binding
+GO:0005501	10	GO:0001530	lipopolysaccharide binding
+GO:0003691	9	GO:0003677	DNA binding
+GO:0004602	5	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0004862	2	GO:0004857	enzyme inhibitor activity
+GO:0003951	5	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0001530	10	GO:0001530	lipopolysaccharide binding
+GO:0046920	5	GO:0140103	catalytic activity, acting on a glycoprotein
+GO:0000900	9	GO:0003677	DNA binding
+GO:0035312	6	GO:0004518	nuclease activity
+GO:0001875	3	GO:0038023	signaling receptor activity
+GO:0140416	2	GO:0004857	enzyme inhibitor activity
+GO:0008603	2	GO:0004857	enzyme inhibitor activity

@@ -1,0 +1,442 @@
+GO:0060761	12	GO:0032103	positive regulation of response to external stimulus
+GO:0032722	2	GO:0001819	positive regulation of cytokine production
+GO:0030225	25	GO:0031214	biomineral tissue development
+GO:0060759	12	GO:0032103	positive regulation of response to external stimulus
+GO:1902107	8	GO:1902107	positive regulation of leukocyte differentiation
+GO:0032747	2	GO:0001819	positive regulation of cytokine production
+GO:2000309	2	GO:0001819	positive regulation of cytokine production
+GO:0032735	2	GO:0001819	positive regulation of cytokine production
+GO:0050796	24	GO:0090276	regulation of peptide hormone secretion
+GO:0150119	22	GO:0150106	regulation of protein localization to cell-cell junction
+GO:0006399	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0018119	5	GO:0031399	regulation of protein modification process
+GO:0032700	2	GO:0001819	positive regulation of cytokine production
+GO:0010634	14	GO:0051712	positive regulation of killing of cells of other organism
+GO:0001774	29	GO:0006959	humoral immune response
+GO:0007260	5	GO:0031399	regulation of protein modification process
+GO:1902254	14	GO:0051712	positive regulation of killing of cells of other organism
+GO:0051044	5	GO:0031399	regulation of protein modification process
+GO:0150105	22	GO:0150106	regulation of protein localization to cell-cell junction
+GO:0150106	22	GO:0150106	regulation of protein localization to cell-cell junction
+GO:0042307	23	GO:0065002	intracellular protein transmembrane transport
+GO:0050777	12	GO:0032103	positive regulation of response to external stimulus
+GO:0050727	12	GO:0032103	positive regulation of response to external stimulus
+GO:0050729	12	GO:0032103	positive regulation of response to external stimulus
+GO:0032310	24	GO:0090276	regulation of peptide hormone secretion
+GO:0032880	22	GO:0150106	regulation of protein localization to cell-cell junction
+GO:1904702	22	GO:0150106	regulation of protein localization to cell-cell junction
+GO:1904703	22	GO:0150106	regulation of protein localization to cell-cell junction
+GO:0050730	5	GO:0031399	regulation of protein modification process
+GO:0050731	5	GO:0031399	regulation of protein modification process
+GO:0031116	16	GO:0046785	microtubule polymerization
+GO:0060341	15	GO:0050865	regulation of cell activation
+GO:0002281	29	GO:0006959	humoral immune response
+GO:0042472	25	GO:0031214	biomineral tissue development
+GO:0060333	13	GO:0002221	pattern recognition receptor signaling pathway
+GO:0006974	29	GO:0006959	humoral immune response
+GO:0032834	8	GO:1902107	positive regulation of leukocyte differentiation
+GO:0097722	27	GO:0001539	cilium or flagellum-dependent cell motility
+GO:0045824	12	GO:0032103	positive regulation of response to external stimulus
+GO:0035891	21	GO:0016032	viral process
+GO:0006809	6	GO:0015012	heparan sulfate proteoglycan biosynthetic process
+GO:0008033	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0072175	25	GO:0031214	biomineral tissue development
+GO:0001960	13	GO:0002221	pattern recognition receptor signaling pathway
+GO:0075520	21	GO:0016032	viral process
+GO:0001959	13	GO:0002221	pattern recognition receptor signaling pathway
+GO:0042531	5	GO:0031399	regulation of protein modification process
+GO:0030317	27	GO:0001539	cilium or flagellum-dependent cell motility
+GO:0046785	16	GO:0046785	microtubule polymerization
+GO:0042509	5	GO:0031399	regulation of protein modification process
+GO:0019076	21	GO:0016032	viral process
+GO:0002761	8	GO:1902107	positive regulation of leukocyte differentiation
+GO:0002763	8	GO:1902107	positive regulation of leukocyte differentiation
+GO:0045429	6	GO:0015012	heparan sulfate proteoglycan biosynthetic process
+GO:0060550	7	GO:0035306	positive regulation of dephosphorylation
+GO:0060552	7	GO:0035306	positive regulation of dephosphorylation
+GO:0060557	6	GO:0015012	heparan sulfate proteoglycan biosynthetic process
+GO:1990758	19	GO:0098813	nuclear chromosome segregation
+GO:0035590	13	GO:0002221	pattern recognition receptor signaling pathway
+GO:0071896	22	GO:0150106	regulation of protein localization to cell-cell junction
+GO:0071897	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0042138	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0048567	25	GO:0031214	biomineral tissue development
+GO:0016233	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0001539	27	GO:0001539	cilium or flagellum-dependent cell motility
+GO:0051712	14	GO:0051712	positive regulation of killing of cells of other organism
+GO:0040020	20	GO:0010948	negative regulation of cell cycle process
+GO:0046824	14	GO:0051712	positive regulation of killing of cells of other organism
+GO:0017014	5	GO:0031399	regulation of protein modification process
+GO:1902948	5	GO:0031399	regulation of protein modification process
+GO:0045672	8	GO:1902107	positive regulation of leukocyte differentiation
+GO:0010835	5	GO:0031399	regulation of protein modification process
+GO:0000722	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0010496	18	GO:0007049	cell cycle
+GO:0017145	18	GO:0007049	cell cycle
+GO:0002832	12	GO:0032103	positive regulation of response to external stimulus
+GO:1902476	23	GO:0065002	intracellular protein transmembrane transport
+GO:0045639	8	GO:1902107	positive regulation of leukocyte differentiation
+GO:0048662	14	GO:0051712	positive regulation of killing of cells of other organism
+GO:0097190	13	GO:0002221	pattern recognition receptor signaling pathway
+GO:0097191	13	GO:0002221	pattern recognition receptor signaling pathway
+GO:0090312	5	GO:0031399	regulation of protein modification process
+GO:0060294	27	GO:0001539	cilium or flagellum-dependent cell motility
+GO:0043500	29	GO:0006959	humoral immune response
+GO:0048143	25	GO:0031214	biomineral tissue development
+GO:0007439	25	GO:0031214	biomineral tissue development
+GO:0032211	4	GO:0051052	regulation of DNA metabolic process
+GO:0048611	25	GO:0031214	biomineral tissue development
+GO:0034393	14	GO:0051712	positive regulation of killing of cells of other organism
+GO:0048613	25	GO:0031214	biomineral tissue development
+GO:1901216	15	GO:0050865	regulation of cell activation
+GO:0051301	18	GO:0007049	cell cycle
+GO:0060285	27	GO:0001539	cilium or flagellum-dependent cell motility
+GO:0090305	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0051987	20	GO:0010948	negative regulation of cell cycle process
+GO:0031347	12	GO:0032103	positive regulation of response to external stimulus
+GO:1903708	8	GO:1902107	positive regulation of leukocyte differentiation
+GO:0007020	16	GO:0046785	microtubule polymerization
+GO:1902166	14	GO:0051712	positive regulation of killing of cells of other organism
+GO:0010508	7	GO:0035306	positive regulation of dephosphorylation
+GO:0007032	17	GO:0031023	microtubule organizing center organization
+GO:0007039	6	GO:0015012	heparan sulfate proteoglycan biosynthetic process
+GO:0032755	2	GO:0001819	positive regulation of cytokine production
+GO:0033141	5	GO:0031399	regulation of protein modification process
+GO:1902004	5	GO:0031399	regulation of protein modification process
+GO:0007131	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0002526	29	GO:0006959	humoral immune response
+GO:0045910	4	GO:0051052	regulation of DNA metabolic process
+GO:0002532	29	GO:0006959	humoral immune response
+GO:0002534	1	GO:0001816	cytokine production
+GO:0006278	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0035825	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:1902100	20	GO:0010948	negative regulation of cell cycle process
+GO:0044000	21	GO:0016032	viral process
+GO:0007218	13	GO:0002221	pattern recognition receptor signaling pathway
+GO:0002694	15	GO:0050865	regulation of cell activation
+GO:0044409	21	GO:0016032	viral process
+GO:0002696	15	GO:0050865	regulation of cell activation
+GO:0075733	21	GO:0016032	viral process
+GO:0010833	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0002250	9	GO:0002712	regulation of B cell mediated immunity
+GO:0039504	11	GO:0039545	suppression by virus of host MAVS activity
+GO:0019724	9	GO:0002712	regulation of B cell mediated immunity
+GO:0008608	19	GO:0098813	nuclear chromosome segregation
+GO:0046688	29	GO:0006959	humoral immune response
+GO:0002637	10	GO:0002208	somatic diversification of immunoglobulins involved in immune response
+GO:0002639	10	GO:0002208	somatic diversification of immunoglobulins involved in immune response
+GO:0034085	19	GO:0098813	nuclear chromosome segregation
+GO:0034087	19	GO:0098813	nuclear chromosome segregation
+GO:2000279	4	GO:0051052	regulation of DNA metabolic process
+GO:0033046	20	GO:0010948	negative regulation of cell cycle process
+GO:0033048	20	GO:0010948	negative regulation of cell cycle process
+GO:0002200	25	GO:0031214	biomineral tissue development
+GO:0002204	10	GO:0002208	somatic diversification of immunoglobulins involved in immune response
+GO:0010569	4	GO:0051052	regulation of DNA metabolic process
+GO:0002208	10	GO:0002208	somatic diversification of immunoglobulins involved in immune response
+GO:0046209	6	GO:0015012	heparan sulfate proteoglycan biosynthetic process
+GO:0006303	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0051985	15	GO:0050865	regulation of cell activation
+GO:0050864	15	GO:0050865	regulation of cell activation
+GO:0050865	15	GO:0050865	regulation of cell activation
+GO:0050867	15	GO:0050865	regulation of cell activation
+GO:0019058	21	GO:0016032	viral process
+GO:0001775	18	GO:0007049	cell cycle
+GO:0002381	10	GO:0002208	somatic diversification of immunoglobulins involved in immune response
+GO:2001057	6	GO:0015012	heparan sulfate proteoglycan biosynthetic process
+GO:0050871	15	GO:0050865	regulation of cell activation
+GO:0031577	20	GO:0010948	negative regulation of cell cycle process
+GO:0002377	10	GO:0002208	somatic diversification of immunoglobulins involved in immune response
+GO:0045321	18	GO:0007049	cell cycle
+GO:0007094	20	GO:0010948	negative regulation of cell cycle process
+GO:0030071	20	GO:0010948	negative regulation of cell cycle process
+GO:0002712	9	GO:0002712	regulation of B cell mediated immunity
+GO:0002714	9	GO:0002712	regulation of B cell mediated immunity
+GO:1904356	4	GO:0051052	regulation of DNA metabolic process
+GO:0007064	19	GO:0098813	nuclear chromosome segregation
+GO:1905819	20	GO:0010948	negative regulation of cell cycle process
+GO:0043247	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:2000780	4	GO:0051052	regulation of DNA metabolic process
+GO:0045738	4	GO:0051052	regulation of DNA metabolic process
+GO:2001032	4	GO:0051052	regulation of DNA metabolic process
+GO:2001034	4	GO:0051052	regulation of DNA metabolic process
+GO:0046718	21	GO:0016032	viral process
+GO:0002703	9	GO:0002712	regulation of B cell mediated immunity
+GO:0002705	9	GO:0002712	regulation of B cell mediated immunity
+GO:0002706	9	GO:0002712	regulation of B cell mediated immunity
+GO:0002708	9	GO:0002712	regulation of B cell mediated immunity
+GO:0140527	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0016064	9	GO:0002712	regulation of B cell mediated immunity
+GO:0006839	23	GO:0065002	intracellular protein transmembrane transport
+GO:0007049	18	GO:0007049	cell cycle
+GO:0002891	9	GO:0002712	regulation of B cell mediated immunity
+GO:0010628	2	GO:0001819	positive regulation of cytokine production
+GO:0051276	17	GO:0031023	microtubule organizing center organization
+GO:0071806	23	GO:0065002	intracellular protein transmembrane transport
+GO:0007004	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0051240	2	GO:0001819	positive regulation of cytokine production
+GO:0002889	9	GO:0002712	regulation of B cell mediated immunity
+GO:0001816	1	GO:0001816	cytokine production
+GO:0001817	2	GO:0001819	positive regulation of cytokine production
+GO:0030150	23	GO:0065002	intracellular protein transmembrane transport
+GO:0001819	2	GO:0001819	positive regulation of cytokine production
+GO:0016444	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0016445	10	GO:0002208	somatic diversification of immunoglobulins involved in immune response
+GO:0016032	21	GO:0016032	viral process
+GO:0016447	10	GO:0002208	somatic diversification of immunoglobulins involved in immune response
+GO:0070096	16	GO:0046785	microtubule polymerization
+GO:0002821	9	GO:0002712	regulation of B cell mediated immunity
+GO:0002822	9	GO:0002712	regulation of B cell mediated immunity
+GO:0002824	9	GO:0002712	regulation of B cell mediated immunity
+GO:0045040	23	GO:0065002	intracellular protein transmembrane transport
+GO:0032677	2	GO:0001819	positive regulation of cytokine production
+GO:0002819	9	GO:0002712	regulation of B cell mediated immunity
+GO:0051204	23	GO:0065002	intracellular protein transmembrane transport
+GO:0051205	23	GO:0065002	intracellular protein transmembrane transport
+GO:0065002	23	GO:0065002	intracellular protein transmembrane transport
+GO:0045841	20	GO:0010948	negative regulation of cell cycle process
+GO:0032210	4	GO:0051052	regulation of DNA metabolic process
+GO:0006953	29	GO:0006959	humoral immune response
+GO:0006954	29	GO:0006959	humoral immune response
+GO:0071173	20	GO:0010948	negative regulation of cell cycle process
+GO:0045830	10	GO:0002208	somatic diversification of immunoglobulins involved in immune response
+GO:0071174	20	GO:0010948	negative regulation of cell cycle process
+GO:0045839	20	GO:0010948	negative regulation of cell cycle process
+GO:0032637	1	GO:0001816	cytokine production
+GO:0044743	23	GO:0065002	intracellular protein transmembrane transport
+GO:2000042	4	GO:0051052	regulation of DNA metabolic process
+GO:2000816	20	GO:0010948	negative regulation of cell cycle process
+GO:0010780	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0007127	19	GO:0098813	nuclear chromosome segregation
+GO:0032205	4	GO:0051052	regulation of DNA metabolic process
+GO:0045190	10	GO:0002208	somatic diversification of immunoglobulins involved in immune response
+GO:0045191	10	GO:0002208	somatic diversification of immunoglobulins involved in immune response
+GO:0051382	16	GO:0046785	microtubule polymerization
+GO:0051781	15	GO:0050865	regulation of cell activation
+GO:0051784	20	GO:0010948	negative regulation of cell cycle process
+GO:0090151	23	GO:0065002	intracellular protein transmembrane transport
+GO:0051321	18	GO:0007049	cell cycle
+GO:0018198	5	GO:0031399	regulation of protein modification process
+GO:0002562	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0000070	19	GO:0098813	nuclear chromosome segregation
+GO:2001251	20	GO:0010948	negative regulation of cell cycle process
+GO:0032757	2	GO:0001819	positive regulation of cytokine production
+GO:1900015	2	GO:0001819	positive regulation of cytokine production
+GO:0099116	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0035303	7	GO:0035306	positive regulation of dephosphorylation
+GO:0035306	7	GO:0035306	positive regulation of dephosphorylation
+GO:0006312	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0051455	19	GO:0098813	nuclear chromosome segregation
+GO:0010791	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:1905779	4	GO:0051052	regulation of DNA metabolic process
+GO:0034605	29	GO:0006959	humoral immune response
+GO:0051709	15	GO:0050865	regulation of cell activation
+GO:0010789	19	GO:0098813	nuclear chromosome segregation
+GO:0045144	19	GO:0098813	nuclear chromosome segregation
+GO:1902075	29	GO:0006959	humoral immune response
+GO:0052150	14	GO:0051712	positive regulation of killing of cells of other organism
+GO:0039564	14	GO:0051712	positive regulation of killing of cells of other organism
+GO:0019083	21	GO:0016032	viral process
+GO:0039557	11	GO:0039545	suppression by virus of host MAVS activity
+GO:0070726	16	GO:0046785	microtubule polymerization
+GO:0039526	14	GO:0051712	positive regulation of killing of cells of other organism
+GO:0039540	11	GO:0039545	suppression by virus of host MAVS activity
+GO:0031341	15	GO:0050865	regulation of cell activation
+GO:0039545	11	GO:0039545	suppression by virus of host MAVS activity
+GO:0050832	29	GO:0006959	humoral immune response
+GO:0039548	11	GO:0039545	suppression by virus of host MAVS activity
+GO:0051177	19	GO:0098813	nuclear chromosome segregation
+GO:0035822	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0039502	11	GO:0039545	suppression by virus of host MAVS activity
+GO:0061983	19	GO:0098813	nuclear chromosome segregation
+GO:0031640	18	GO:0007049	cell cycle
+GO:0000963	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0007135	19	GO:0098813	nuclear chromosome segregation
+GO:0046765	21	GO:0016032	viral process
+GO:0039674	21	GO:0016032	viral process
+GO:0046740	21	GO:0016032	viral process
+GO:0046739	21	GO:0016032	viral process
+GO:0039722	11	GO:0039545	suppression by virus of host MAVS activity
+GO:0039723	11	GO:0039545	suppression by virus of host MAVS activity
+GO:0044001	21	GO:0016032	viral process
+GO:0007531	26	GO:0043935	sexual sporulation resulting in formation of a cellular spore
+GO:0007533	26	GO:0043935	sexual sporulation resulting in formation of a cellular spore
+GO:0007534	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0000002	17	GO:0031023	microtubule organizing center organization
+GO:0031860	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0070590	26	GO:0043935	sexual sporulation resulting in formation of a cellular spore
+GO:0042244	26	GO:0043935	sexual sporulation resulting in formation of a cellular spore
+GO:0051383	17	GO:0031023	microtubule organizing center organization
+GO:0052040	14	GO:0051712	positive regulation of killing of cells of other organism
+GO:0000737	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0034508	16	GO:0046785	microtubule polymerization
+GO:0000706	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0007062	19	GO:0098813	nuclear chromosome segregation
+GO:0034080	16	GO:0046785	microtubule polymerization
+GO:0010893	6	GO:0015012	heparan sulfate proteoglycan biosynthetic process
+GO:0061844	29	GO:0006959	humoral immune response
+GO:0050691	12	GO:0032103	positive regulation of response to external stimulus
+GO:0002294	25	GO:0031214	biomineral tissue development
+GO:0045589	8	GO:1902107	positive regulation of leukocyte differentiation
+GO:0042552	25	GO:0031214	biomineral tissue development
+GO:0032835	25	GO:0031214	biomineral tissue development
+GO:0080009	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0050688	12	GO:0032103	positive regulation of response to external stimulus
+GO:1902106	8	GO:1902107	positive regulation of leukocyte differentiation
+GO:0050678	15	GO:0050865	regulation of cell activation
+GO:0006959	29	GO:0006959	humoral immune response
+GO:0002286	29	GO:0006959	humoral immune response
+GO:0002221	13	GO:0002221	pattern recognition receptor signaling pathway
+GO:0002218	12	GO:0032103	positive regulation of response to external stimulus
+GO:0038203	13	GO:0002221	pattern recognition receptor signaling pathway
+GO:1905037	17	GO:0031023	microtubule organizing center organization
+GO:0000741	17	GO:0031023	microtubule organizing center organization
+GO:0140546	29	GO:0006959	humoral immune response
+GO:0030476	26	GO:0043935	sexual sporulation resulting in formation of a cellular spore
+GO:0030435	26	GO:0043935	sexual sporulation resulting in formation of a cellular spore
+GO:0030437	26	GO:0043935	sexual sporulation resulting in formation of a cellular spore
+GO:0045666	8	GO:1902107	positive regulation of leukocyte differentiation
+GO:0034293	26	GO:0043935	sexual sporulation resulting in formation of a cellular spore
+GO:0002790	24	GO:0090276	regulation of peptide hormone secretion
+GO:0002791	24	GO:0090276	regulation of peptide hormone secretion
+GO:0045670	8	GO:1902107	positive regulation of leukocyte differentiation
+GO:0060251	15	GO:0050865	regulation of cell activation
+GO:0002768	13	GO:0002221	pattern recognition receptor signaling pathway
+GO:0002757	13	GO:0002221	pattern recognition receptor signaling pathway
+GO:0002758	12	GO:0032103	positive regulation of response to external stimulus
+GO:0045637	8	GO:1902107	positive regulation of leukocyte differentiation
+GO:0045638	8	GO:1902107	positive regulation of leukocyte differentiation
+GO:0051300	17	GO:0031023	microtubule organizing center organization
+GO:0008156	6	GO:0015012	heparan sulfate proteoglycan biosynthetic process
+GO:0061448	25	GO:0031214	biomineral tissue development
+GO:0000819	19	GO:0098813	nuclear chromosome segregation
+GO:2000104	6	GO:0015012	heparan sulfate proteoglycan biosynthetic process
+GO:0044788	21	GO:0016032	viral process
+GO:0032411	14	GO:0051712	positive regulation of killing of cells of other organism
+GO:0032414	14	GO:0051712	positive regulation of killing of cells of other organism
+GO:0033138	5	GO:0031399	regulation of protein modification process
+GO:0032651	2	GO:0001819	positive regulation of cytokine production
+GO:0032655	2	GO:0001819	positive regulation of cytokine production
+GO:0002700	10	GO:0002208	somatic diversification of immunoglobulins involved in immune response
+GO:0002702	10	GO:0002208	somatic diversification of immunoglobulins involved in immune response
+GO:0032675	2	GO:0001819	positive regulation of cytokine production
+GO:0031349	12	GO:0032103	positive regulation of response to external stimulus
+GO:0031334	16	GO:0046785	microtubule polymerization
+GO:0032642	2	GO:0001819	positive regulation of cytokine production
+GO:0032635	1	GO:0001816	cytokine production
+GO:2000273	13	GO:0002221	pattern recognition receptor signaling pathway
+GO:0034755	23	GO:0065002	intracellular protein transmembrane transport
+GO:0032602	1	GO:0001816	cytokine production
+GO:0030072	24	GO:0090276	regulation of peptide hormone secretion
+GO:0030073	24	GO:0090276	regulation of peptide hormone secretion
+GO:0042102	14	GO:0051712	positive regulation of killing of cells of other organism
+GO:0045088	12	GO:0032103	positive regulation of response to external stimulus
+GO:0045089	12	GO:0032103	positive regulation of response to external stimulus
+GO:0006509	6	GO:0015012	heparan sulfate proteoglycan biosynthetic process
+GO:0046782	21	GO:0016032	viral process
+GO:0002831	12	GO:0032103	positive regulation of response to external stimulus
+GO:0002833	12	GO:0032103	positive regulation of response to external stimulus
+GO:0022612	25	GO:0031214	biomineral tissue development
+GO:0022402	18	GO:0007049	cell cycle
+GO:0062207	13	GO:0002221	pattern recognition receptor signaling pathway
+GO:0051607	29	GO:0006959	humoral immune response
+GO:0050764	15	GO:0050865	regulation of cell activation
+GO:0099601	13	GO:0002221	pattern recognition receptor signaling pathway
+GO:0050766	15	GO:0050865	regulation of cell activation
+GO:0071222	29	GO:0006959	humoral immune response
+GO:1901990	20	GO:0010948	negative regulation of cell cycle process
+GO:1901991	20	GO:0010948	negative regulation of cell cycle process
+GO:0140014	19	GO:0098813	nuclear chromosome segregation
+GO:1900544	7	GO:0035306	positive regulation of dephosphorylation
+GO:0032102	12	GO:0032103	positive regulation of response to external stimulus
+GO:0032103	12	GO:0032103	positive regulation of response to external stimulus
+GO:0007099	17	GO:0031023	microtubule organizing center organization
+GO:0009615	29	GO:0006959	humoral immune response
+GO:1901988	20	GO:0010948	negative regulation of cell cycle process
+GO:0048478	4	GO:0051052	regulation of DNA metabolic process
+GO:0070591	26	GO:0043935	sexual sporulation resulting in formation of a cellular spore
+GO:0050921	12	GO:0032103	positive regulation of response to external stimulus
+GO:0007059	18	GO:0007049	cell cycle
+GO:0043935	26	GO:0043935	sexual sporulation resulting in formation of a cellular spore
+GO:0001889	25	GO:0031214	biomineral tissue development
+GO:0032273	16	GO:0046785	microtubule polymerization
+GO:0046883	24	GO:0090276	regulation of peptide hormone secretion
+GO:0032224	14	GO:0051712	positive regulation of killing of cells of other organism
+GO:0034391	14	GO:0051712	positive regulation of killing of cells of other organism
+GO:0046879	24	GO:0090276	regulation of peptide hormone secretion
+GO:0098908	14	GO:0051712	positive regulation of killing of cells of other organism
+GO:0032008	13	GO:0002221	pattern recognition receptor signaling pathway
+GO:1901857	7	GO:0035306	positive regulation of dephosphorylation
+GO:1904064	14	GO:0051712	positive regulation of killing of cells of other organism
+GO:0016241	7	GO:0035306	positive regulation of dephosphorylation
+GO:0050851	13	GO:0002221	pattern recognition receptor signaling pathway
+GO:0050852	13	GO:0002221	pattern recognition receptor signaling pathway
+GO:0031113	16	GO:0046785	microtubule polymerization
+GO:0006110	6	GO:0015012	heparan sulfate proteoglycan biosynthetic process
+GO:0002699	9	GO:0002712	regulation of B cell mediated immunity
+GO:0060326	27	GO:0001539	cilium or flagellum-dependent cell motility
+GO:0098813	19	GO:0098813	nuclear chromosome segregation
+GO:0090087	24	GO:0090276	regulation of peptide hormone secretion
+GO:0050830	29	GO:0006959	humoral immune response
+GO:0002429	13	GO:0002221	pattern recognition receptor signaling pathway
+GO:0060556	6	GO:0015012	heparan sulfate proteoglycan biosynthetic process
+GO:0071940	16	GO:0046785	microtubule polymerization
+GO:0045913	7	GO:0035306	positive regulation of dephosphorylation
+GO:0002440	10	GO:0002208	somatic diversification of immunoglobulins involved in immune response
+GO:0045930	20	GO:0010948	negative regulation of cell cycle process
+GO:0002685	15	GO:0050865	regulation of cell activation
+GO:0002688	12	GO:0032103	positive regulation of response to external stimulus
+GO:0032760	2	GO:0001819	positive regulation of cytokine production
+GO:0031023	17	GO:0031023	microtubule organizing center organization
+GO:0090276	24	GO:0090276	regulation of peptide hormone secretion
+GO:0030856	8	GO:1902107	positive regulation of leukocyte differentiation
+GO:0015012	6	GO:0015012	heparan sulfate proteoglycan biosynthetic process
+GO:0043372	8	GO:1902107	positive regulation of leukocyte differentiation
+GO:0043374	25	GO:0031214	biomineral tissue development
+GO:0006261	6	GO:0015012	heparan sulfate proteoglycan biosynthetic process
+GO:0070673	29	GO:0006959	humoral immune response
+GO:0071887	14	GO:0051712	positive regulation of killing of cells of other organism
+GO:0031214	25	GO:0031214	biomineral tissue development
+GO:0000018	4	GO:0051052	regulation of DNA metabolic process
+GO:0000045	16	GO:0046785	microtubule polymerization
+GO:0010959	24	GO:0090276	regulation of peptide hormone secretion
+GO:0098534	17	GO:0031023	microtubule organizing center organization
+GO:0051984	15	GO:0050865	regulation of cell activation
+GO:0030593	27	GO:0001539	cilium or flagellum-dependent cell motility
+GO:0010921	7	GO:0035306	positive regulation of dephosphorylation
+GO:0010922	7	GO:0035306	positive regulation of dephosphorylation
+GO:1903046	19	GO:0098813	nuclear chromosome segregation
+GO:0030388	6	GO:0015012	heparan sulfate proteoglycan biosynthetic process
+GO:0019882	29	GO:0006959	humoral immune response
+GO:0046425	13	GO:0002221	pattern recognition receptor signaling pathway
+GO:0090068	20	GO:0010948	negative regulation of cell cycle process
+GO:0019069	21	GO:0016032	viral process
+GO:1990834	29	GO:0006959	humoral immune response
+GO:0002949	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0044650	21	GO:0016032	viral process
+GO:0014070	29	GO:0006959	humoral immune response
+GO:0007517	25	GO:0031214	biomineral tissue development
+GO:0016482	23	GO:0065002	intracellular protein transmembrane transport
+GO:0007286	26	GO:0043935	sexual sporulation resulting in formation of a cellular spore
+GO:0044406	21	GO:0016032	viral process
+GO:0048515	26	GO:0043935	sexual sporulation resulting in formation of a cellular spore
+GO:0090529	17	GO:0031023	microtubule organizing center organization
+GO:0045859	5	GO:0031399	regulation of protein modification process
+GO:0010948	20	GO:0010948	negative regulation of cell cycle process
+GO:0032200	17	GO:0031023	microtubule organizing center organization
+GO:0031399	5	GO:0031399	regulation of protein modification process
+GO:1901987	20	GO:0010948	negative regulation of cell cycle process
+GO:0031028	13	GO:0002221	pattern recognition receptor signaling pathway
+GO:0002764	13	GO:0002221	pattern recognition receptor signaling pathway
+GO:0000082	19	GO:0098813	nuclear chromosome segregation
+GO:0000917	17	GO:0031023	microtubule organizing center organization
+GO:0051298	17	GO:0031023	microtubule organizing center organization
+GO:0001932	5	GO:0031399	regulation of protein modification process
+GO:0045786	20	GO:0010948	negative regulation of cell cycle process
+GO:0000723	3	GO:0090305	nucleic acid phosphodiester bond hydrolysis
+GO:0051316	19	GO:0098813	nuclear chromosome segregation
+GO:0051052	4	GO:0051052	regulation of DNA metabolic process
+GO:0051053	4	GO:0051052	regulation of DNA metabolic process
+GO:2000278	4	GO:0051052	regulation of DNA metabolic process
+GO:0006275	6	GO:0015012	heparan sulfate proteoglycan biosynthetic process
+GO:0007346	20	GO:0010948	negative regulation of cell cycle process

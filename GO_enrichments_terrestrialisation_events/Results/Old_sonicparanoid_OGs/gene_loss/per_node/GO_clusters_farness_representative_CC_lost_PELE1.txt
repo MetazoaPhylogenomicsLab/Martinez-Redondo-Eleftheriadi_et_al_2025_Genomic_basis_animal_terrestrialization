@@ -1,0 +1,61 @@
+GO:0065010	7	GO:0000943	retrotransposon nucleocapsid
+GO:0009986	4	GO:0030312	external encapsulating structure
+GO:0098975	6	GO:0005935	cellular bud neck
+GO:0030425	6	GO:0005935	cellular bud neck
+GO:0008076	2	GO:0008328	ionotropic glutamate receptor complex
+GO:1903561	7	GO:0000943	retrotransposon nucleocapsid
+GO:0018995	4	GO:0030312	external encapsulating structure
+GO:0030430	1	GO:0033644	host cell membrane
+GO:0042575	6	GO:0005935	cellular bud neck
+GO:0044732	7	GO:0000943	retrotransposon nucleocapsid
+GO:0033644	1	GO:0033644	host cell membrane
+GO:0070820	7	GO:0000943	retrotransposon nucleocapsid
+GO:0070821	7	GO:0000943	retrotransposon nucleocapsid
+GO:0051286	4	GO:0030312	external encapsulating structure
+GO:0008328	2	GO:0008328	ionotropic glutamate receptor complex
+GO:0098878	2	GO:0008328	ionotropic glutamate receptor complex
+GO:0043657	1	GO:0033644	host cell membrane
+GO:0044156	1	GO:0033644	host cell membrane
+GO:0005615	4	GO:0030312	external encapsulating structure
+GO:0034361	5	GO:0034364	high-density lipoprotein particle
+GO:0034364	5	GO:0034364	high-density lipoprotein particle
+GO:0044177	1	GO:0033644	host cell membrane
+GO:0044178	1	GO:0033644	host cell membrane
+GO:0032982	6	GO:0005935	cellular bud neck
+GO:0032983	2	GO:0008328	ionotropic glutamate receptor complex
+GO:0035869	7	GO:0000943	retrotransposon nucleocapsid
+GO:0044853	3	GO:0005886	plasma membrane
+GO:0005915	6	GO:0005935	cellular bud neck
+GO:0005919	6	GO:0005935	cellular bud neck
+GO:0005935	6	GO:0005935	cellular bud neck
+GO:0001772	3	GO:0005886	plasma membrane
+GO:0005901	3	GO:0005886	plasma membrane
+GO:0000943	7	GO:0000943	retrotransposon nucleocapsid
+GO:0005886	3	GO:0005886	plasma membrane
+GO:0042627	5	GO:0034364	high-density lipoprotein particle
+GO:0020002	1	GO:0033644	host cell membrane
+GO:0030056	6	GO:0005935	cellular bud neck
+GO:0031160	4	GO:0030312	external encapsulating structure
+GO:0005816	7	GO:0000943	retrotransposon nucleocapsid
+GO:0030017	7	GO:0000943	retrotransposon nucleocapsid
+GO:0042600	4	GO:0030312	external encapsulating structure
+GO:0001891	3	GO:0005886	plasma membrane
+GO:0032809	3	GO:0005886	plasma membrane
+GO:0030312	4	GO:0030312	external encapsulating structure
+GO:0043296	6	GO:0005935	cellular bud neck
+GO:0044219	1	GO:0033644	host cell membrane
+GO:0035579	7	GO:0000943	retrotransposon nucleocapsid
+GO:0019013	6	GO:0005935	cellular bud neck
+GO:0055036	3	GO:0005886	plasma membrane
+GO:0019031	6	GO:0005935	cellular bud neck
+GO:0019033	6	GO:0005935	cellular bud neck
+GO:0044201	1	GO:0033644	host cell membrane
+GO:0031012	4	GO:0030312	external encapsulating structure
+GO:0060187	4	GO:0030312	external encapsulating structure
+GO:0042025	1	GO:0033644	host cell membrane
+GO:0005576	4	GO:0030312	external encapsulating structure
+GO:0045335	7	GO:0000943	retrotransposon nucleocapsid
+GO:0031260	3	GO:0005886	plasma membrane
+GO:0045211	3	GO:0005886	plasma membrane
+GO:0043230	7	GO:0000943	retrotransposon nucleocapsid
+GO:0043235	6	GO:0005935	cellular bud neck

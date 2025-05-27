@@ -1,0 +1,77 @@
+GO:1903490	6	GO:0051726	regulation of cell cycle
+GO:0095500	7	GO:0098926	postsynaptic signal transduction
+GO:0031445	2	GO:0006265	DNA topological change
+GO:0042994	2	GO:0006265	DNA topological change
+GO:1900075	7	GO:0098926	postsynaptic signal transduction
+GO:1905144	1	GO:0071869	response to catecholamine
+GO:1905145	1	GO:0071869	response to catecholamine
+GO:0034587	2	GO:0006265	DNA topological change
+GO:0031507	2	GO:0006265	DNA topological change
+GO:0044087	7	GO:0098926	postsynaptic signal transduction
+GO:0044071	6	GO:0051726	regulation of cell cycle
+GO:1902275	5	GO:0070507	regulation of microtubule cytoskeleton organization
+GO:1903436	6	GO:0051726	regulation of cell cycle
+GO:1903438	6	GO:0051726	regulation of cell cycle
+GO:0006310	2	GO:0006265	DNA topological change
+GO:0007213	7	GO:0098926	postsynaptic signal transduction
+GO:0007218	7	GO:0098926	postsynaptic signal transduction
+GO:0006346	2	GO:0006265	DNA topological change
+GO:0032886	7	GO:0098926	postsynaptic signal transduction
+GO:0031031	6	GO:0051726	regulation of cell cycle
+GO:1903532	7	GO:0098926	postsynaptic signal transduction
+GO:0030720	4	GO:0051321	meiotic cell cycle
+GO:0031122	5	GO:0070507	regulation of microtubule cytoskeleton organization
+GO:0030717	4	GO:0051321	meiotic cell cycle
+GO:0000018	2	GO:0006265	DNA topological change
+GO:1905269	5	GO:0070507	regulation of microtubule cytoskeleton organization
+GO:0045840	6	GO:0051726	regulation of cell cycle
+GO:1903046	4	GO:0051321	meiotic cell cycle
+GO:0051276	5	GO:0070507	regulation of microtubule cytoskeleton organization
+GO:0120261	5	GO:0070507	regulation of microtubule cytoskeleton organization
+GO:0120263	5	GO:0070507	regulation of microtubule cytoskeleton organization
+GO:0090224	5	GO:0070507	regulation of microtubule cytoskeleton organization
+GO:0045450	4	GO:0051321	meiotic cell cycle
+GO:0019055	6	GO:0051726	regulation of cell cycle
+GO:0045478	4	GO:0051321	meiotic cell cycle
+GO:0030953	5	GO:0070507	regulation of microtubule cytoskeleton organization
+GO:0070507	5	GO:0070507	regulation of microtubule cytoskeleton organization
+GO:0000226	5	GO:0070507	regulation of microtubule cytoskeleton organization
+GO:0032197	4	GO:0051321	meiotic cell cycle
+GO:1905758	6	GO:0051726	regulation of cell cycle
+GO:0048599	4	GO:0051321	meiotic cell cycle
+GO:0042138	4	GO:0051321	meiotic cell cycle
+GO:0071867	1	GO:0071869	response to catecholamine
+GO:0071868	1	GO:0071869	response to catecholamine
+GO:0071869	1	GO:0071869	response to catecholamine
+GO:0007317	4	GO:0051321	meiotic cell cycle
+GO:0022402	4	GO:0051321	meiotic cell cycle
+GO:0051785	5	GO:0070507	regulation of microtubule cytoskeleton organization
+GO:0071870	1	GO:0071869	response to catecholamine
+GO:0051726	6	GO:0051726	regulation of cell cycle
+GO:0060153	6	GO:0051726	regulation of cell cycle
+GO:0030437	4	GO:0051321	meiotic cell cycle
+GO:0001172	2	GO:0006265	DNA topological change
+GO:0097435	5	GO:0070507	regulation of microtubule cytoskeleton organization
+GO:0051321	4	GO:0051321	meiotic cell cycle
+GO:0006265	2	GO:0006265	DNA topological change
+GO:0030178	7	GO:0098926	postsynaptic signal transduction
+GO:0051301	4	GO:0051321	meiotic cell cycle
+GO:0090308	2	GO:0006265	DNA topological change
+GO:0090309	2	GO:0006265	DNA topological change
+GO:0010528	7	GO:0098926	postsynaptic signal transduction
+GO:0010529	7	GO:0098926	postsynaptic signal transduction
+GO:1903350	1	GO:0071869	response to catecholamine
+GO:1903351	1	GO:0071869	response to catecholamine
+GO:0007052	5	GO:0070507	regulation of microtubule cytoskeleton organization
+GO:0098813	4	GO:0051321	meiotic cell cycle
+GO:0007059	4	GO:0051321	meiotic cell cycle
+GO:0007088	6	GO:0051726	regulation of cell cycle
+GO:0060236	5	GO:0070507	regulation of microtubule cytoskeleton organization
+GO:0098926	7	GO:0098926	postsynaptic signal transduction
+GO:0000819	5	GO:0070507	regulation of microtubule cytoskeleton organization
+GO:0033044	5	GO:0070507	regulation of microtubule cytoskeleton organization
+GO:0007049	4	GO:0051321	meiotic cell cycle
+GO:0007127	4	GO:0051321	meiotic cell cycle
+GO:0031453	2	GO:0006265	DNA topological change
+GO:0007141	4	GO:0051321	meiotic cell cycle
+GO:0007130	4	GO:0051321	meiotic cell cycle

@@ -1,0 +1,126 @@
+GO:0004714	1	GO:0004888	transmembrane signaling receptor activity
+GO:0004993	1	GO:0004888	transmembrane signaling receptor activity
+GO:0043548	3	GO:0030246	carbohydrate binding
+GO:0098632	3	GO:0030246	carbohydrate binding
+GO:1990188	3	GO:0030246	carbohydrate binding
+GO:0003691	2	GO:0003677	DNA binding
+GO:0003697	2	GO:0003677	DNA binding
+GO:0032422	2	GO:0003677	DNA binding
+GO:0015267	4	GO:0005216	ion channel activity
+GO:0004930	1	GO:0004888	transmembrane signaling receptor activity
+GO:0003964	7	GO:0140097	catalytic activity, acting on DNA
+GO:0048018	3	GO:0030246	carbohydrate binding
+GO:0004888	1	GO:0004888	transmembrane signaling receptor activity
+GO:0008227	1	GO:0004888	transmembrane signaling receptor activity
+GO:0022829	4	GO:0005216	ion channel activity
+GO:0008528	1	GO:0004888	transmembrane signaling receptor activity
+GO:0031717	3	GO:0030246	carbohydrate binding
+GO:0031718	3	GO:0030246	carbohydrate binding
+GO:0000977	2	GO:0003677	DNA binding
+GO:0000978	2	GO:0003677	DNA binding
+GO:0022803	4	GO:0005216	ion channel activity
+GO:0005112	3	GO:0030246	carbohydrate binding
+GO:0005139	3	GO:0030246	carbohydrate binding
+GO:0004252	6	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0008422	6	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0000900	2	GO:0003677	DNA binding
+GO:0042162	2	GO:0003677	DNA binding
+GO:0004222	6	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0005031	1	GO:0004888	transmembrane signaling receptor activity
+GO:0016936	3	GO:0030246	carbohydrate binding
+GO:0046332	3	GO:0030246	carbohydrate binding
+GO:0030594	1	GO:0004888	transmembrane signaling receptor activity
+GO:0004519	6	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0045296	3	GO:0030246	carbohydrate binding
+GO:0043035	2	GO:0003677	DNA binding
+GO:0099589	1	GO:0004888	transmembrane signaling receptor activity
+GO:0061665	7	GO:0140097	catalytic activity, acting on DNA
+GO:0030246	3	GO:0030246	carbohydrate binding
+GO:0005216	4	GO:0005216	ion channel activity
+GO:0005230	4	GO:0005216	ion channel activity
+GO:0000217	2	GO:0003677	DNA binding
+GO:0004725	6	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0015101	4	GO:0005216	ion channel activity
+GO:0001530	3	GO:0030246	carbohydrate binding
+GO:0008502	1	GO:0004888	transmembrane signaling receptor activity
+GO:0004180	6	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0004181	6	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0016503	1	GO:0004888	transmembrane signaling receptor activity
+GO:0004983	1	GO:0004888	transmembrane signaling receptor activity
+GO:0004984	1	GO:0004888	transmembrane signaling receptor activity
+GO:0005231	4	GO:0005216	ion channel activity
+GO:0003918	7	GO:0140097	catalytic activity, acting on DNA
+GO:0004523	6	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0031492	2	GO:0003677	DNA binding
+GO:0015666	6	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0051082	3	GO:0030246	carbohydrate binding
+GO:0060089	1	GO:0004888	transmembrane signaling receptor activity
+GO:0004945	1	GO:0004888	transmembrane signaling receptor activity
+GO:0008270	3	GO:0030246	carbohydrate binding
+GO:0038023	1	GO:0004888	transmembrane signaling receptor activity
+GO:0051019	3	GO:0030246	carbohydrate binding
+GO:0003690	2	GO:0003677	DNA binding
+GO:0015616	7	GO:0140097	catalytic activity, acting on DNA
+GO:0004908	1	GO:0004888	transmembrane signaling receptor activity
+GO:0032050	3	GO:0030246	carbohydrate binding
+GO:0008649	7	GO:0140097	catalytic activity, acting on DNA
+GO:0140097	7	GO:0140097	catalytic activity, acting on DNA
+GO:0042923	3	GO:0030246	carbohydrate binding
+GO:0016614	7	GO:0140097	catalytic activity, acting on DNA
+GO:0016616	7	GO:0140097	catalytic activity, acting on DNA
+GO:0000987	2	GO:0003677	DNA binding
+GO:0062105	7	GO:0140097	catalytic activity, acting on DNA
+GO:0003677	2	GO:0003677	DNA binding
+GO:0009881	1	GO:0004888	transmembrane signaling receptor activity
+GO:0016798	6	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0016799	6	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0038187	1	GO:0004888	transmembrane signaling receptor activity
+GO:0030492	3	GO:0030246	carbohydrate binding
+GO:0016783	7	GO:0140097	catalytic activity, acting on DNA
+GO:0051540	3	GO:0030246	carbohydrate binding
+GO:0000287	3	GO:0030246	carbohydrate binding
+GO:0051536	3	GO:0030246	carbohydrate binding
+GO:0051539	3	GO:0030246	carbohydrate binding
+GO:2001070	3	GO:0030246	carbohydrate binding
+GO:0043621	3	GO:0030246	carbohydrate binding
+GO:0050431	3	GO:0030246	carbohydrate binding
+GO:0022857	4	GO:0005216	ion channel activity
+GO:0022858	4	GO:0005216	ion channel activity
+GO:0005048	3	GO:0030246	carbohydrate binding
+GO:0098960	1	GO:0004888	transmembrane signaling receptor activity
+GO:0035613	2	GO:0003677	DNA binding
+GO:0015450	4	GO:0005216	ion channel activity
+GO:0022848	4	GO:0005216	ion channel activity
+GO:0008028	4	GO:0005216	ion channel activity
+GO:0051287	2	GO:0003677	DNA binding
+GO:0070330	7	GO:0140097	catalytic activity, acting on DNA
+GO:0001875	1	GO:0004888	transmembrane signaling receptor activity
+GO:0016875	7	GO:0140097	catalytic activity, acting on DNA
+GO:0019966	3	GO:0030246	carbohydrate binding
+GO:0033293	3	GO:0030246	carbohydrate binding
+GO:0019955	3	GO:0030246	carbohydrate binding
+GO:0016829	7	GO:0140097	catalytic activity, acting on DNA
+GO:0016810	6	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0016811	6	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0016840	7	GO:0140097	catalytic activity, acting on DNA
+GO:0016435	7	GO:0140097	catalytic activity, acting on DNA
+GO:0070492	3	GO:0030246	carbohydrate binding
+GO:0030957	3	GO:0030246	carbohydrate binding
+GO:0016832	7	GO:0140097	catalytic activity, acting on DNA
+GO:0003887	7	GO:0140097	catalytic activity, acting on DNA
+GO:0050135	6	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0046872	3	GO:0030246	carbohydrate binding
+GO:0030976	2	GO:0003677	DNA binding
+GO:0005540	3	GO:0030246	carbohydrate binding
+GO:0005536	3	GO:0030246	carbohydrate binding
+GO:0005539	3	GO:0030246	carbohydrate binding
+GO:0004415	6	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0008169	7	GO:0140097	catalytic activity, acting on DNA
+GO:0001595	1	GO:0004888	transmembrane signaling receptor activity
+GO:0004812	7	GO:0140097	catalytic activity, acting on DNA
+GO:0015562	4	GO:0005216	ion channel activity
+GO:0004448	7	GO:0140097	catalytic activity, acting on DNA
+GO:0099095	4	GO:0005216	ion channel activity
+GO:0070008	6	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0061809	6	GO:0016798	hydrolase activity, acting on glycosyl bonds
+GO:0004992	1	GO:0004888	transmembrane signaling receptor activity

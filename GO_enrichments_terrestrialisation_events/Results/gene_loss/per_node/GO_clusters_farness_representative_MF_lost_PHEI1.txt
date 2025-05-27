@@ -1,0 +1,291 @@
+GO:0047961	10	GO:0004169	dolichyl-phosphate-mannose-protein mannosyltransferase activity
+GO:0030215	4	GO:0008092	cytoskeletal protein binding
+GO:0000900	3	GO:0032934	sterol binding
+GO:0003887	10	GO:0004169	dolichyl-phosphate-mannose-protein mannosyltransferase activity
+GO:0003964	10	GO:0004169	dolichyl-phosphate-mannose-protein mannosyltransferase activity
+GO:0005524	3	GO:0032934	sterol binding
+GO:0061665	10	GO:0004169	dolichyl-phosphate-mannose-protein mannosyltransferase activity
+GO:0034593	6	GO:0004721	phosphoprotein phosphatase activity
+GO:0034595	6	GO:0004721	phosphoprotein phosphatase activity
+GO:0005545	3	GO:0032934	sterol binding
+GO:0047946	10	GO:0004169	dolichyl-phosphate-mannose-protein mannosyltransferase activity
+GO:0005547	3	GO:0032934	sterol binding
+GO:0016907	2	GO:0004888	transmembrane signaling receptor activity
+GO:0005534	3	GO:0032934	sterol binding
+GO:0005539	3	GO:0032934	sterol binding
+GO:0052866	6	GO:0004721	phosphoprotein phosphatase activity
+GO:0051011	4	GO:0008092	cytoskeletal protein binding
+GO:0019955	4	GO:0008092	cytoskeletal protein binding
+GO:0140299	3	GO:0032934	sterol binding
+GO:0015280	1	GO:0015276	ligand-gated ion channel activity
+GO:0000405	3	GO:0032934	sterol binding
+GO:0042834	3	GO:0032934	sterol binding
+GO:0015278	1	GO:0015276	ligand-gated ion channel activity
+GO:0005161	4	GO:0008092	cytoskeletal protein binding
+GO:0042923	3	GO:0032934	sterol binding
+GO:0070840	4	GO:0008092	cytoskeletal protein binding
+GO:0008408	7	GO:0004536	deoxyribonuclease activity
+GO:0005031	2	GO:0004888	transmembrane signaling receptor activity
+GO:0005035	2	GO:0004888	transmembrane signaling receptor activity
+GO:0070976	4	GO:0008092	cytoskeletal protein binding
+GO:0004725	6	GO:0004721	phosphoprotein phosphatase activity
+GO:0004712	5	GO:0004672	protein kinase activity
+GO:0004713	5	GO:0004672	protein kinase activity
+GO:0004714	5	GO:0004672	protein kinase activity
+GO:0005119	4	GO:0008092	cytoskeletal protein binding
+GO:1901981	3	GO:0032934	sterol binding
+GO:0019901	4	GO:0008092	cytoskeletal protein binding
+GO:0005007	5	GO:0004672	protein kinase activity
+GO:0004748	10	GO:0004169	dolichyl-phosphate-mannose-protein mannosyltransferase activity
+GO:0000030	10	GO:0004169	dolichyl-phosphate-mannose-protein mannosyltransferase activity
+GO:0005133	4	GO:0008092	cytoskeletal protein binding
+GO:0008013	4	GO:0008092	cytoskeletal protein binding
+GO:0008158	2	GO:0004888	transmembrane signaling receptor activity
+GO:0098641	4	GO:0008092	cytoskeletal protein binding
+GO:0000146	8	GO:0016887	ATPase
+GO:0004709	5	GO:0004672	protein kinase activity
+GO:0098632	4	GO:0008092	cytoskeletal protein binding
+GO:0009378	8	GO:0016887	ATPase
+GO:0001965	4	GO:0008092	cytoskeletal protein binding
+GO:0046790	4	GO:0008092	cytoskeletal protein binding
+GO:0008112	10	GO:0004169	dolichyl-phosphate-mannose-protein mannosyltransferase activity
+GO:0035312	7	GO:0004536	deoxyribonuclease activity
+GO:0004896	2	GO:0004888	transmembrane signaling receptor activity
+GO:0004386	8	GO:0016887	ATPase
+GO:0005262	1	GO:0015276	ligand-gated ion channel activity
+GO:0080025	3	GO:0032934	sterol binding
+GO:0031267	4	GO:0008092	cytoskeletal protein binding
+GO:0004993	2	GO:0004888	transmembrane signaling receptor activity
+GO:0070097	4	GO:0008092	cytoskeletal protein binding
+GO:0003697	3	GO:0032934	sterol binding
+GO:0046789	3	GO:0032934	sterol binding
+GO:0005229	1	GO:0015276	ligand-gated ion channel activity
+GO:0008296	7	GO:0004536	deoxyribonuclease activity
+GO:0004983	2	GO:0004888	transmembrane signaling receptor activity
+GO:0004984	2	GO:0004888	transmembrane signaling receptor activity
+GO:0005245	1	GO:0015276	ligand-gated ion channel activity
+GO:0005247	1	GO:0015276	ligand-gated ion channel activity
+GO:0003677	3	GO:0032934	sterol binding
+GO:0003678	8	GO:0016887	ATPase
+GO:0106310	5	GO:0004672	protein kinase activity
+GO:0008253	6	GO:0004721	phosphoprotein phosphatase activity
+GO:0004945	2	GO:0004888	transmembrane signaling receptor activity
+GO:0004930	2	GO:0004888	transmembrane signaling receptor activity
+GO:0061731	10	GO:0004169	dolichyl-phosphate-mannose-protein mannosyltransferase activity
+GO:0008227	2	GO:0004888	transmembrane signaling receptor activity
+GO:0010313	4	GO:0008092	cytoskeletal protein binding
+GO:0004430	5	GO:0004672	protein kinase activity
+GO:0046872	3	GO:0032934	sterol binding
+GO:0097472	5	GO:0004672	protein kinase activity
+GO:0004438	6	GO:0004721	phosphoprotein phosphatase activity
+GO:0004523	7	GO:0004536	deoxyribonuclease activity
+GO:0017025	4	GO:0008092	cytoskeletal protein binding
+GO:0043565	3	GO:0032934	sterol binding
+GO:0035198	3	GO:0032934	sterol binding
+GO:0004518	7	GO:0004536	deoxyribonuclease activity
+GO:0004519	7	GO:0004536	deoxyribonuclease activity
+GO:0046974	10	GO:0004169	dolichyl-phosphate-mannose-protein mannosyltransferase activity
+GO:0070260	6	GO:0004721	phosphoprotein phosphatase activity
+GO:0004190	6	GO:0004721	phosphoprotein phosphatase activity
+GO:0016773	5	GO:0004672	protein kinase activity
+GO:0070273	3	GO:0032934	sterol binding
+GO:0016775	5	GO:0004672	protein kinase activity
+GO:0019237	3	GO:0032934	sterol binding
+GO:0030165	4	GO:0008092	cytoskeletal protein binding
+GO:0016728	10	GO:0004169	dolichyl-phosphate-mannose-protein mannosyltransferase activity
+GO:0030169	3	GO:0032934	sterol binding
+GO:0004169	10	GO:0004169	dolichyl-phosphate-mannose-protein mannosyltransferase activity
+GO:0004693	5	GO:0004672	protein kinase activity
+GO:0045295	4	GO:0008092	cytoskeletal protein binding
+GO:0030158	10	GO:0004169	dolichyl-phosphate-mannose-protein mannosyltransferase activity
+GO:0017108	7	GO:0004536	deoxyribonuclease activity
+GO:0035613	3	GO:0032934	sterol binding
+GO:0004687	5	GO:0004672	protein kinase activity
+GO:0004672	5	GO:0004672	protein kinase activity
+GO:0004674	5	GO:0004672	protein kinase activity
+GO:0003779	4	GO:0008092	cytoskeletal protein binding
+GO:0008353	5	GO:0004672	protein kinase activity
+GO:0016895	7	GO:0004536	deoxyribonuclease activity
+GO:0140097	7	GO:0004536	deoxyribonuclease activity
+GO:0004100	10	GO:0004169	dolichyl-phosphate-mannose-protein mannosyltransferase activity
+GO:0015026	2	GO:0004888	transmembrane signaling receptor activity
+GO:0016887	8	GO:0016887	ATPase
+GO:0097108	4	GO:0008092	cytoskeletal protein binding
+GO:0000977	3	GO:0032934	sterol binding
+GO:0000978	3	GO:0032934	sterol binding
+GO:0008821	7	GO:0004536	deoxyribonuclease activity
+GO:0070740	10	GO:0004169	dolichyl-phosphate-mannose-protein mannosyltransferase activity
+GO:0016301	5	GO:0004672	protein kinase activity
+GO:0097603	1	GO:0015276	ligand-gated ion channel activity
+GO:0097604	1	GO:0015276	ligand-gated ion channel activity
+GO:0052744	6	GO:0004721	phosphoprotein phosphatase activity
+GO:0033130	4	GO:0008092	cytoskeletal protein binding
+GO:0051434	4	GO:0008092	cytoskeletal protein binding
+GO:0046966	4	GO:0008092	cytoskeletal protein binding
+GO:0052745	6	GO:0004721	phosphoprotein phosphatase activity
+GO:0003951	5	GO:0004672	protein kinase activity
+GO:0043812	6	GO:0004721	phosphoprotein phosphatase activity
+GO:0005227	1	GO:0015276	ligand-gated ion channel activity
+GO:0030620	3	GO:0032934	sterol binding
+GO:0043035	3	GO:0032934	sterol binding
+GO:0017134	4	GO:0008092	cytoskeletal protein binding
+GO:0005244	1	GO:0015276	ligand-gated ion channel activity
+GO:0004175	6	GO:0004721	phosphoprotein phosphatase activity
+GO:0004527	7	GO:0004536	deoxyribonuclease activity
+GO:0004112	6	GO:0004721	phosphoprotein phosphatase activity
+GO:0004114	6	GO:0004721	phosphoprotein phosphatase activity
+GO:0004115	6	GO:0004721	phosphoprotein phosphatase activity
+GO:0060089	2	GO:0004888	transmembrane signaling receptor activity
+GO:0140333	8	GO:0016887	ATPase
+GO:0008270	3	GO:0032934	sterol binding
+GO:0015276	1	GO:0015276	ligand-gated ion channel activity
+GO:0001653	2	GO:0004888	transmembrane signaling receptor activity
+GO:0038023	2	GO:0004888	transmembrane signaling receptor activity
+GO:0050750	4	GO:0008092	cytoskeletal protein binding
+GO:0004908	2	GO:0004888	transmembrane signaling receptor activity
+GO:0001223	4	GO:0008092	cytoskeletal protein binding
+GO:0008233	6	GO:0004721	phosphoprotein phosphatase activity
+GO:0051432	4	GO:0008092	cytoskeletal protein binding
+GO:0015631	4	GO:0008092	cytoskeletal protein binding
+GO:0008201	3	GO:0032934	sterol binding
+GO:0034485	6	GO:0004721	phosphoprotein phosphatase activity
+GO:0004675	5	GO:0004672	protein kinase activity
+GO:0036122	4	GO:0008092	cytoskeletal protein binding
+GO:0098821	5	GO:0004672	protein kinase activity
+GO:0072345	1	GO:0015276	ligand-gated ion channel activity
+GO:0016783	10	GO:0004169	dolichyl-phosphate-mannose-protein mannosyltransferase activity
+GO:0016772	5	GO:0004672	protein kinase activity
+GO:0008331	1	GO:0015276	ligand-gated ion channel activity
+GO:0004792	10	GO:0004169	dolichyl-phosphate-mannose-protein mannosyltransferase activity
+GO:0005024	5	GO:0004672	protein kinase activity
+GO:0050431	4	GO:0008092	cytoskeletal protein binding
+GO:0033550	6	GO:0004721	phosphoprotein phosphatase activity
+GO:0004767	6	GO:0004721	phosphoprotein phosphatase activity
+GO:0003774	8	GO:0016887	ATPase
+GO:0008094	8	GO:0016887	ATPase
+GO:0003724	8	GO:0016887	ATPase
+GO:0003725	3	GO:0032934	sterol binding
+GO:0004721	6	GO:0004721	phosphoprotein phosphatase activity
+GO:0004722	6	GO:0004721	phosphoprotein phosphatase activity
+GO:0004715	5	GO:0004672	protein kinase activity
+GO:0008081	6	GO:0004721	phosphoprotein phosphatase activity
+GO:0070325	4	GO:0008092	cytoskeletal protein binding
+GO:0022832	1	GO:0015276	ligand-gated ion channel activity
+GO:0022834	1	GO:0015276	ligand-gated ion channel activity
+GO:0022839	1	GO:0015276	ligand-gated ion channel activity
+GO:0008429	3	GO:0032934	sterol binding
+GO:0008017	4	GO:0008092	cytoskeletal protein binding
+GO:0019966	4	GO:0008092	cytoskeletal protein binding
+GO:0032266	3	GO:0032934	sterol binding
+GO:0001042	4	GO:0008092	cytoskeletal protein binding
+GO:0045028	2	GO:0004888	transmembrane signaling receptor activity
+GO:0001846	4	GO:0008092	cytoskeletal protein binding
+GO:0001848	4	GO:0008092	cytoskeletal protein binding
+GO:0001849	4	GO:0008092	cytoskeletal protein binding
+GO:0043325	3	GO:0032934	sterol binding
+GO:0005178	4	GO:0008092	cytoskeletal protein binding
+GO:0003874	10	GO:0004169	dolichyl-phosphate-mannose-protein mannosyltransferase activity
+GO:0005518	4	GO:0008092	cytoskeletal protein binding
+GO:0004888	2	GO:0004888	transmembrane signaling receptor activity
+GO:0046030	6	GO:0004721	phosphoprotein phosphatase activity
+GO:0005546	3	GO:0032934	sterol binding
+GO:0019902	4	GO:0008092	cytoskeletal protein binding
+GO:0008188	2	GO:0004888	transmembrane signaling receptor activity
+GO:0004439	6	GO:0004721	phosphoprotein phosphatase activity
+GO:0005509	3	GO:0032934	sterol binding
+GO:0010314	3	GO:0032934	sterol binding
+GO:0001968	4	GO:0008092	cytoskeletal protein binding
+GO:0008528	2	GO:0004888	transmembrane signaling receptor activity
+GO:0015924	10	GO:0004169	dolichyl-phosphate-mannose-protein mannosyltransferase activity
+GO:0070001	6	GO:0004721	phosphoprotein phosphatase activity
+GO:0045159	4	GO:0008092	cytoskeletal protein binding
+GO:0004992	2	GO:0004888	transmembrane signaling receptor activity
+GO:0004222	6	GO:0004721	phosphoprotein phosphatase activity
+GO:0018024	10	GO:0004169	dolichyl-phosphate-mannose-protein mannosyltransferase activity
+GO:0070700	4	GO:0008092	cytoskeletal protein binding
+GO:0034452	4	GO:0008092	cytoskeletal protein binding
+GO:0005543	3	GO:0032934	sterol binding
+GO:0043237	4	GO:0008092	cytoskeletal protein binding
+GO:0001727	5	GO:0004672	protein kinase activity
+GO:0008568	8	GO:0016887	ATPase
+GO:0051010	4	GO:0008092	cytoskeletal protein binding
+GO:0051015	4	GO:0008092	cytoskeletal protein binding
+GO:0000403	3	GO:0032934	sterol binding
+GO:0008574	8	GO:0016887	ATPase
+GO:0008092	4	GO:0008092	cytoskeletal protein binding
+GO:0047555	6	GO:0004721	phosphoprotein phosphatase activity
+GO:0072518	5	GO:0004672	protein kinase activity
+GO:0070300	3	GO:0032934	sterol binding
+GO:0042800	10	GO:0004169	dolichyl-phosphate-mannose-protein mannosyltransferase activity
+GO:0005171	4	GO:0008092	cytoskeletal protein binding
+GO:0005112	4	GO:0008092	cytoskeletal protein binding
+GO:0005113	4	GO:0008092	cytoskeletal protein binding
+GO:0000182	3	GO:0032934	sterol binding
+GO:0102545	6	GO:0004721	phosphoprotein phosphatase activity
+GO:0000149	4	GO:0008092	cytoskeletal protein binding
+GO:0016174	10	GO:0004169	dolichyl-phosphate-mannose-protein mannosyltransferase activity
+GO:0032934	3	GO:0032934	sterol binding
+GO:0016175	10	GO:0004169	dolichyl-phosphate-mannose-protein mannosyltransferase activity
+GO:0022824	1	GO:0015276	ligand-gated ion channel activity
+GO:0043394	4	GO:0008092	cytoskeletal protein binding
+GO:0008146	10	GO:0004169	dolichyl-phosphate-mannose-protein mannosyltransferase activity
+GO:0022835	1	GO:0015276	ligand-gated ion channel activity
+GO:0004376	10	GO:0004169	dolichyl-phosphate-mannose-protein mannosyltransferase activity
+GO:0003691	3	GO:0032934	sterol binding
+GO:0050840	4	GO:0008092	cytoskeletal protein binding
+GO:0016646	10	GO:0004169	dolichyl-phosphate-mannose-protein mannosyltransferase activity
+GO:0050839	4	GO:0008092	cytoskeletal protein binding
+GO:0003682	4	GO:0008092	cytoskeletal protein binding
+GO:1990782	4	GO:0008092	cytoskeletal protein binding
+GO:0004843	6	GO:0004721	phosphoprotein phosphatase activity
+GO:0003688	3	GO:0032934	sterol binding
+GO:0032549	3	GO:0032934	sterol binding
+GO:0099589	2	GO:0004888	transmembrane signaling receptor activity
+GO:0005230	1	GO:0015276	ligand-gated ion channel activity
+GO:0061775	8	GO:0016887	ATPase
+GO:0099528	2	GO:0004888	transmembrane signaling receptor activity
+GO:0032027	4	GO:0008092	cytoskeletal protein binding
+GO:0030594	2	GO:0004888	transmembrane signaling receptor activity
+GO:0060072	1	GO:0015276	ligand-gated ion channel activity
+GO:0008234	6	GO:0004721	phosphoprotein phosphatase activity
+GO:0050510	10	GO:0004169	dolichyl-phosphate-mannose-protein mannosyltransferase activity
+GO:0035091	3	GO:0032934	sterol binding
+GO:0047238	10	GO:0004169	dolichyl-phosphate-mannose-protein mannosyltransferase activity
+GO:0015923	6	GO:0004721	phosphoprotein phosphatase activity
+GO:0017166	4	GO:0008092	cytoskeletal protein binding
+GO:0004529	7	GO:0004536	deoxyribonuclease activity
+GO:0017018	6	GO:0004721	phosphoprotein phosphatase activity
+GO:0046975	10	GO:0004169	dolichyl-phosphate-mannose-protein mannosyltransferase activity
+GO:0017176	10	GO:0004169	dolichyl-phosphate-mannose-protein mannosyltransferase activity
+GO:0004536	7	GO:0004536	deoxyribonuclease activity
+GO:0015464	2	GO:0004888	transmembrane signaling receptor activity
+GO:1990814	3	GO:0032934	sterol binding
+GO:0004197	6	GO:0004721	phosphoprotein phosphatase activity
+GO:0015485	3	GO:0032934	sterol binding
+GO:0035173	5	GO:0004672	protein kinase activity
+GO:0004016	10	GO:0004169	dolichyl-phosphate-mannose-protein mannosyltransferase activity
+GO:0045296	4	GO:0008092	cytoskeletal protein binding
+GO:0099604	1	GO:0015276	ligand-gated ion channel activity
+GO:0035004	5	GO:0004672	protein kinase activity
+GO:0004652	10	GO:0004169	dolichyl-phosphate-mannose-protein mannosyltransferase activity
+GO:0004683	5	GO:0004672	protein kinase activity
+GO:0003786	4	GO:0008092	cytoskeletal protein binding
+GO:0003777	8	GO:0016887	ATPase
+GO:0004622	6	GO:0004721	phosphoprotein phosphatase activity
+GO:0050290	6	GO:0004721	phosphoprotein phosphatase activity
+GO:0050291	10	GO:0004169	dolichyl-phosphate-mannose-protein mannosyltransferase activity
+GO:0000992	3	GO:0032934	sterol binding
+GO:0016894	7	GO:0004536	deoxyribonuclease activity
+GO:0019783	6	GO:0004721	phosphoprotein phosphatase activity
+GO:0008375	10	GO:0004169	dolichyl-phosphate-mannose-protein mannosyltransferase activity
+GO:0015020	10	GO:0004169	dolichyl-phosphate-mannose-protein mannosyltransferase activity
+GO:0043621	4	GO:0008092	cytoskeletal protein binding
+GO:0035251	10	GO:0004169	dolichyl-phosphate-mannose-protein mannosyltransferase activity
+GO:0031491	3	GO:0032934	sterol binding
+GO:0048256	7	GO:0004536	deoxyribonuclease activity
+GO:0016889	7	GO:0004536	deoxyribonuclease activity
+GO:0051424	3	GO:0032934	sterol binding
+GO:0004252	6	GO:0004721	phosphoprotein phosphatase activity
+GO:0003899	10	GO:0004169	dolichyl-phosphate-mannose-protein mannosyltransferase activity
+GO:0052742	5	GO:0004672	protein kinase activity
+GO:0016303	5	GO:0004672	protein kinase activity

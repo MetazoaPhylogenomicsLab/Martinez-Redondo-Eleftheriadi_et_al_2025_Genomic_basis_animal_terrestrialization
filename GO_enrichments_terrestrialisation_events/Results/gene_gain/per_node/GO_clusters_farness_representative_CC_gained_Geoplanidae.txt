@@ -1,0 +1,72 @@
+GO:0034774	4	GO:0060205	cytoplasmic vesicle lumen
+GO:0019029	2	GO:0044423	virion component
+GO:0000776	3	GO:0098687	chromosomal region
+GO:0000779	3	GO:0098687	chromosomal region
+GO:0019013	2	GO:0044423	virion component
+GO:0031983	4	GO:0060205	cytoplasmic vesicle lumen
+GO:0106068	2	GO:0044423	virion component
+GO:0033655	1	GO:0033643	host cell part
+GO:0070187	3	GO:0098687	chromosomal region
+GO:0098687	3	GO:0098687	chromosomal region
+GO:0020002	1	GO:0033643	host cell part
+GO:0042729	3	GO:0098687	chromosomal region
+GO:0009506	5	GO:0060187	cell pole
+GO:0000793	3	GO:0098687	chromosomal region
+GO:0000794	3	GO:0098687	chromosomal region
+GO:0005741	4	GO:0060205	cytoplasmic vesicle lumen
+GO:0060205	4	GO:0060205	cytoplasmic vesicle lumen
+GO:0030915	3	GO:0098687	chromosomal region
+GO:0033644	1	GO:0033643	host cell part
+GO:0055044	5	GO:0060187	cell pole
+GO:1902555	2	GO:0044423	virion component
+GO:0055037	4	GO:0060205	cytoplasmic vesicle lumen
+GO:0005876	3	GO:0098687	chromosomal region
+GO:0031097	5	GO:0060187	cell pole
+GO:0005937	5	GO:0060187	cell pole
+GO:0005938	5	GO:0060187	cell pole
+GO:0030430	1	GO:0033643	host cell part
+GO:0019028	2	GO:0044423	virion component
+GO:0032153	5	GO:0060187	cell pole
+GO:0043332	5	GO:0060187	cell pole
+GO:0044201	1	GO:0033643	host cell part
+GO:0000775	3	GO:0098687	chromosomal region
+GO:0009897	5	GO:0060187	cell pole
+GO:0001401	4	GO:0060205	cytoplasmic vesicle lumen
+GO:0051285	5	GO:0060187	cell pole
+GO:0051286	5	GO:0060187	cell pole
+GO:0033646	1	GO:0033643	host cell part
+GO:0060187	5	GO:0060187	cell pole
+GO:0042025	1	GO:0033643	host cell part
+GO:0031511	3	GO:0098687	chromosomal region
+GO:0043657	1	GO:0033643	host cell part
+GO:0033650	1	GO:0033643	host cell part
+GO:0030870	3	GO:0098687	chromosomal region
+GO:0033643	1	GO:0033643	host cell part
+GO:0097228	5	GO:0060187	cell pole
+GO:0019033	2	GO:0044423	virion component
+GO:0034506	3	GO:0098687	chromosomal region
+GO:0005921	5	GO:0060187	cell pole
+GO:0031083	5	GO:0060187	cell pole
+GO:0018995	1	GO:0033643	host cell part
+GO:1990234	2	GO:0044423	virion component
+GO:0000152	3	GO:0098687	chromosomal region
+GO:0031519	3	GO:0098687	chromosomal region
+GO:0080008	2	GO:0044423	virion component
+GO:0005628	5	GO:0060187	cell pole
+GO:0005615	5	GO:0060187	cell pole
+GO:0005634	3	GO:0098687	chromosomal region
+GO:0042764	5	GO:0060187	cell pole
+GO:0015630	3	GO:0098687	chromosomal region
+GO:0036338	2	GO:0044423	virion component
+GO:0001669	4	GO:0060205	cytoplasmic vesicle lumen
+GO:0032809	5	GO:0060187	cell pole
+GO:0000939	3	GO:0098687	chromosomal region
+GO:0016592	3	GO:0098687	chromosomal region
+GO:0044423	2	GO:0044423	virion component
+GO:0030141	4	GO:0060205	cytoplasmic vesicle lumen
+GO:0019031	2	GO:0044423	virion component
+GO:0033551	3	GO:0098687	chromosomal region
+GO:0031012	5	GO:0060187	cell pole
+GO:0005576	5	GO:0060187	cell pole
+GO:0000408	2	GO:0044423	virion component
+GO:0071013	3	GO:0098687	chromosomal region

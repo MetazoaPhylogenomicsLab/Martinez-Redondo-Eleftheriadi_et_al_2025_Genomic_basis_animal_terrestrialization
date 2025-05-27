@@ -1,0 +1,542 @@
+GO:0032005	15	GO:0007249	I-kappaB kinase/NF-kappaB signaling
+GO:1902022	20	GO:0089718	amino acid import across plasma membrane
+GO:0044003	13	GO:0044003	modulation by symbiont of host process
+GO:0006508	3	GO:0080058	protein deglutathionylation
+GO:0034612	8	GO:0035094	response to nicotine
+GO:0019064	12	GO:0016032	viral process
+GO:0033674	5	GO:0071071	regulation of phospholipid biosynthetic process
+GO:0044501	13	GO:0044003	modulation by symbiont of host process
+GO:0044658	12	GO:0016032	viral process
+GO:0035821	13	GO:0044003	modulation by symbiont of host process
+GO:0000750	15	GO:0007249	I-kappaB kinase/NF-kappaB signaling
+GO:0000722	1	GO:0071897	DNA biosynthetic process
+GO:0097638	20	GO:0089718	amino acid import across plasma membrane
+GO:0097639	20	GO:0089718	amino acid import across plasma membrane
+GO:0006352	1	GO:0071897	DNA biosynthetic process
+GO:0002949	1	GO:0071897	DNA biosynthetic process
+GO:0097396	8	GO:0035094	response to nicotine
+GO:0097398	8	GO:0035094	response to nicotine
+GO:0039707	12	GO:0016032	viral process
+GO:0006470	3	GO:0080058	protein deglutathionylation
+GO:0051701	13	GO:0044003	modulation by symbiont of host process
+GO:0051091	1	GO:0071897	DNA biosynthetic process
+GO:0051092	1	GO:0071897	DNA biosynthetic process
+GO:0052027	13	GO:0044003	modulation by symbiont of host process
+GO:0052029	13	GO:0044003	modulation by symbiont of host process
+GO:0007156	24	GO:0032196	transposition
+GO:0016925	3	GO:0080058	protein deglutathionylation
+GO:0070593	17	GO:0035051	cardiocyte differentiation
+GO:0006955	9	GO:0006952	defense response
+GO:0042327	5	GO:0071071	regulation of phospholipid biosynthetic process
+GO:0039557	10	GO:0039557	suppression by virus of host IRF7 activity
+GO:0070525	1	GO:0071897	DNA biosynthetic process
+GO:0043489	6	GO:0010835	regulation of protein ADP-ribosylation
+GO:0070534	3	GO:0080058	protein deglutathionylation
+GO:0097400	14	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:0043410	15	GO:0007249	I-kappaB kinase/NF-kappaB signaling
+GO:0039540	10	GO:0039557	suppression by virus of host IRF7 activity
+GO:0039548	10	GO:0039557	suppression by virus of host IRF7 activity
+GO:0039537	10	GO:0039557	suppression by virus of host IRF7 activity
+GO:0039502	14	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:0007218	15	GO:0007249	I-kappaB kinase/NF-kappaB signaling
+GO:0007249	15	GO:0007249	I-kappaB kinase/NF-kappaB signaling
+GO:0075111	13	GO:0044003	modulation by symbiont of host process
+GO:0039663	12	GO:0016032	viral process
+GO:0006278	1	GO:0071897	DNA biosynthetic process
+GO:0075109	13	GO:0044003	modulation by symbiont of host process
+GO:0043122	15	GO:0007249	I-kappaB kinase/NF-kappaB signaling
+GO:0043123	15	GO:0007249	I-kappaB kinase/NF-kappaB signaling
+GO:0031103	17	GO:0035051	cardiocyte differentiation
+GO:0039648	3	GO:0080058	protein deglutathionylation
+GO:0033209	14	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:0042116	24	GO:0032196	transposition
+GO:1904750	22	GO:0031343	positive regulation of cell killing
+GO:0023019	15	GO:0007249	I-kappaB kinase/NF-kappaB signaling
+GO:1904749	22	GO:0031343	positive regulation of cell killing
+GO:0034090	23	GO:0000226	microtubule cytoskeleton organization
+GO:1990822	20	GO:0089718	amino acid import across plasma membrane
+GO:0034086	23	GO:0000226	microtubule cytoskeleton organization
+GO:0034089	23	GO:0000226	microtubule cytoskeleton organization
+GO:0060153	13	GO:0044003	modulation by symbiont of host process
+GO:0019221	14	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:1905941	17	GO:0035051	cardiocyte differentiation
+GO:0016032	12	GO:0016032	viral process
+GO:0010951	6	GO:0010835	regulation of protein ADP-ribosylation
+GO:0048255	6	GO:0010835	regulation of protein ADP-ribosylation
+GO:1903826	20	GO:0089718	amino acid import across plasma membrane
+GO:0015802	20	GO:0089718	amino acid import across plasma membrane
+GO:0031860	1	GO:0071897	DNA biosynthetic process
+GO:0032831	16	GO:0045591	positive regulation of regulatory T cell differentiation
+GO:0032832	16	GO:0045591	positive regulation of regulatory T cell differentiation
+GO:0032834	16	GO:0045591	positive regulation of regulatory T cell differentiation
+GO:0060260	1	GO:0071897	DNA biosynthetic process
+GO:0060261	1	GO:0071897	DNA biosynthetic process
+GO:0044826	12	GO:0016032	viral process
+GO:0007534	2	GO:0046460	neutral lipid biosynthetic process
+GO:0030388	2	GO:0046460	neutral lipid biosynthetic process
+GO:0060278	22	GO:0031343	positive regulation of cell killing
+GO:0060279	22	GO:0031343	positive regulation of cell killing
+GO:0030316	17	GO:0035051	cardiocyte differentiation
+GO:0006513	3	GO:0080058	protein deglutathionylation
+GO:0052167	11	GO:0052200	response to host defenses
+GO:0050708	20	GO:0089718	amino acid import across plasma membrane
+GO:0002361	16	GO:0045591	positive regulation of regulatory T cell differentiation
+GO:0052170	11	GO:0052200	response to host defenses
+GO:0052173	11	GO:0052200	response to host defenses
+GO:1902003	6	GO:0010835	regulation of protein ADP-ribosylation
+GO:1902004	6	GO:0010835	regulation of protein ADP-ribosylation
+GO:0006694	2	GO:0046460	neutral lipid biosynthetic process
+GO:0019083	12	GO:0016032	viral process
+GO:1905777	6	GO:0010835	regulation of protein ADP-ribosylation
+GO:1905779	6	GO:0010835	regulation of protein ADP-ribosylation
+GO:0043588	17	GO:0035051	cardiocyte differentiation
+GO:0010791	1	GO:0071897	DNA biosynthetic process
+GO:0032660	4	GO:0032660	regulation of interleukin-17 production
+GO:0080164	5	GO:0071071	regulation of phospholipid biosynthetic process
+GO:0032667	4	GO:0032660	regulation of interleukin-17 production
+GO:0048864	17	GO:0035051	cardiocyte differentiation
+GO:0034390	18	GO:2000106	regulation of leukocyte apoptotic process
+GO:0034391	18	GO:2000106	regulation of leukocyte apoptotic process
+GO:0034393	18	GO:2000106	regulation of leukocyte apoptotic process
+GO:0032675	4	GO:0032660	regulation of interleukin-17 production
+GO:0032620	4	GO:0032660	regulation of interleukin-17 production
+GO:0032627	4	GO:0032660	regulation of interleukin-17 production
+GO:0046718	12	GO:0016032	viral process
+GO:0046740	12	GO:0016032	viral process
+GO:0035822	1	GO:0071897	DNA biosynthetic process
+GO:0052200	11	GO:0052200	response to host defenses
+GO:0045745	15	GO:0007249	I-kappaB kinase/NF-kappaB signaling
+GO:0042501	6	GO:0010835	regulation of protein ADP-ribosylation
+GO:0000737	1	GO:0071897	DNA biosynthetic process
+GO:0010893	5	GO:0071071	regulation of phospholipid biosynthetic process
+GO:0035592	20	GO:0089718	amino acid import across plasma membrane
+GO:0000706	1	GO:0071897	DNA biosynthetic process
+GO:0006310	1	GO:0071897	DNA biosynthetic process
+GO:0010835	6	GO:0010835	regulation of protein ADP-ribosylation
+GO:0060550	5	GO:0071071	regulation of phospholipid biosynthetic process
+GO:0060551	5	GO:0071071	regulation of phospholipid biosynthetic process
+GO:0060552	5	GO:0071071	regulation of phospholipid biosynthetic process
+GO:0060556	5	GO:0071071	regulation of phospholipid biosynthetic process
+GO:0060557	5	GO:0071071	regulation of phospholipid biosynthetic process
+GO:0016485	3	GO:0080058	protein deglutathionylation
+GO:0051712	22	GO:0031343	positive regulation of cell killing
+GO:0001172	1	GO:0071897	DNA biosynthetic process
+GO:0007417	17	GO:0035051	cardiocyte differentiation
+GO:0030225	17	GO:0035051	cardiocyte differentiation
+GO:0032309	20	GO:0089718	amino acid import across plasma membrane
+GO:0002298	16	GO:0045591	positive regulation of regulatory T cell differentiation
+GO:0060549	5	GO:0071071	regulation of phospholipid biosynthetic process
+GO:0031343	22	GO:0031343	positive regulation of cell killing
+GO:0031348	9	GO:0006952	defense response
+GO:0048662	22	GO:0031343	positive regulation of cell killing
+GO:2000516	16	GO:0045591	positive regulation of regulatory T cell differentiation
+GO:0043372	16	GO:0045591	positive regulation of regulatory T cell differentiation
+GO:0045591	16	GO:0045591	positive regulation of regulatory T cell differentiation
+GO:0002285	9	GO:0006952	defense response
+GO:0042362	2	GO:0046460	neutral lipid biosynthetic process
+GO:1904407	5	GO:0071071	regulation of phospholipid biosynthetic process
+GO:0042368	2	GO:0046460	neutral lipid biosynthetic process
+GO:0042359	2	GO:0046460	neutral lipid biosynthetic process
+GO:0052031	11	GO:0052200	response to host defenses
+GO:0006954	9	GO:0006952	defense response
+GO:0044414	11	GO:0052200	response to host defenses
+GO:0006182	2	GO:0046460	neutral lipid biosynthetic process
+GO:0052562	11	GO:0052200	response to host defenses
+GO:0051043	6	GO:0010835	regulation of protein ADP-ribosylation
+GO:0051044	6	GO:0010835	regulation of protein ADP-ribosylation
+GO:0052553	11	GO:0052200	response to host defenses
+GO:0032196	24	GO:0032196	transposition
+GO:0032197	24	GO:0032196	transposition
+GO:0002761	16	GO:0045591	positive regulation of regulatory T cell differentiation
+GO:0002763	16	GO:0045591	positive regulation of regulatory T cell differentiation
+GO:0010660	18	GO:2000106	regulation of leukocyte apoptotic process
+GO:0010661	18	GO:2000106	regulation of leukocyte apoptotic process
+GO:0033141	6	GO:0010835	regulation of protein ADP-ribosylation
+GO:0052572	11	GO:0052200	response to host defenses
+GO:0044403	13	GO:0044003	modulation by symbiont of host process
+GO:0044409	12	GO:0016032	viral process
+GO:0033135	6	GO:0010835	regulation of protein ADP-ribosylation
+GO:0010657	18	GO:2000106	regulation of leukocyte apoptotic process
+GO:0033138	6	GO:0010835	regulation of protein ADP-ribosylation
+GO:0033139	6	GO:0010835	regulation of protein ADP-ribosylation
+GO:1902991	6	GO:0010835	regulation of protein ADP-ribosylation
+GO:1902993	6	GO:0010835	regulation of protein ADP-ribosylation
+GO:0015908	20	GO:0089718	amino acid import across plasma membrane
+GO:0046635	16	GO:0045591	positive regulation of regulatory T cell differentiation
+GO:0046638	16	GO:0045591	positive regulation of regulatory T cell differentiation
+GO:0032113	5	GO:0071071	regulation of phospholipid biosynthetic process
+GO:0014032	17	GO:0035051	cardiocyte differentiation
+GO:0039503	10	GO:0039557	suppression by virus of host IRF7 activity
+GO:0014033	17	GO:0035051	cardiocyte differentiation
+GO:0045670	16	GO:0045591	positive regulation of regulatory T cell differentiation
+GO:0010632	22	GO:0031343	positive regulation of cell killing
+GO:0045672	16	GO:0045591	positive regulation of regulatory T cell differentiation
+GO:0009306	20	GO:0089718	amino acid import across plasma membrane
+GO:1902947	6	GO:0010835	regulation of protein ADP-ribosylation
+GO:1902948	6	GO:0010835	regulation of protein ADP-ribosylation
+GO:0045639	16	GO:0045591	positive regulation of regulatory T cell differentiation
+GO:0034205	3	GO:0080058	protein deglutathionylation
+GO:0052652	2	GO:0046460	neutral lipid biosynthetic process
+GO:0075136	11	GO:0052200	response to host defenses
+GO:0035306	5	GO:0071071	regulation of phospholipid biosynthetic process
+GO:0039686	12	GO:0016032	viral process
+GO:0009453	8	GO:0035094	response to nicotine
+GO:0060339	14	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:0090502	1	GO:0071897	DNA biosynthetic process
+GO:0071897	1	GO:0071897	DNA biosynthetic process
+GO:2000307	4	GO:0032660	regulation of interleukin-17 production
+GO:2000309	4	GO:0032660	regulation of interleukin-17 production
+GO:0009190	2	GO:0046460	neutral lipid biosynthetic process
+GO:0001818	4	GO:0032660	regulation of interleukin-17 production
+GO:0001819	4	GO:0032660	regulation of interleukin-17 production
+GO:0001837	17	GO:0035051	cardiocyte differentiation
+GO:0008053	23	GO:0000226	microtubule cytoskeleton organization
+GO:0002573	17	GO:0035051	cardiocyte differentiation
+GO:0032755	4	GO:0032660	regulation of interleukin-17 production
+GO:0032747	4	GO:0032660	regulation of interleukin-17 production
+GO:0032735	4	GO:0032660	regulation of interleukin-17 production
+GO:0030656	5	GO:0071071	regulation of phospholipid biosynthetic process
+GO:0030682	11	GO:0052200	response to host defenses
+GO:0032700	4	GO:0032660	regulation of interleukin-17 production
+GO:0072535	4	GO:0032660	regulation of interleukin-17 production
+GO:0045428	5	GO:0071071	regulation of phospholipid biosynthetic process
+GO:0045429	5	GO:0071071	regulation of phospholipid biosynthetic process
+GO:0075713	12	GO:0016032	viral process
+GO:0075732	12	GO:0016032	viral process
+GO:0090312	6	GO:0010835	regulation of protein ADP-ribosylation
+GO:1903863	23	GO:0000226	microtubule cytoskeleton organization
+GO:0015074	1	GO:0071897	DNA biosynthetic process
+GO:0010922	5	GO:0071071	regulation of phospholipid biosynthetic process
+GO:2000142	1	GO:0071897	DNA biosynthetic process
+GO:2000144	1	GO:0071897	DNA biosynthetic process
+GO:0032069	6	GO:0010835	regulation of protein ADP-ribosylation
+GO:0032829	16	GO:0045591	positive regulation of regulatory T cell differentiation
+GO:0006809	2	GO:0046460	neutral lipid biosynthetic process
+GO:0090305	1	GO:0071897	DNA biosynthetic process
+GO:0032075	6	GO:0010835	regulation of protein ADP-ribosylation
+GO:0046136	5	GO:0071071	regulation of phospholipid biosynthetic process
+GO:1903654	1	GO:0071897	DNA biosynthetic process
+GO:1904262	15	GO:0007249	I-kappaB kinase/NF-kappaB signaling
+GO:0030098	17	GO:0035051	cardiocyte differentiation
+GO:0016560	20	GO:0089718	amino acid import across plasma membrane
+GO:0015937	2	GO:0046460	neutral lipid biosynthetic process
+GO:0006110	5	GO:0071071	regulation of phospholipid biosynthetic process
+GO:0006114	2	GO:0046460	neutral lipid biosynthetic process
+GO:0014848	19	GO:0050877	nervous system process
+GO:0014832	19	GO:0050877	nervous system process
+GO:2001057	2	GO:0046460	neutral lipid biosynthetic process
+GO:0098908	22	GO:0031343	positive regulation of cell killing
+GO:1904776	22	GO:0031343	positive regulation of cell killing
+GO:0010496	24	GO:0032196	transposition
+GO:0010466	6	GO:0010835	regulation of protein ADP-ribosylation
+GO:0097205	19	GO:0050877	nervous system process
+GO:0070842	23	GO:0000226	microtubule cytoskeleton organization
+GO:0008645	20	GO:0089718	amino acid import across plasma membrane
+GO:0035006	7	GO:0045087	innate immune response
+GO:1901536	1	GO:0071897	DNA biosynthetic process
+GO:0032496	7	GO:0045087	innate immune response
+GO:0042594	9	GO:0006952	defense response
+GO:0090219	5	GO:0071071	regulation of phospholipid biosynthetic process
+GO:0044000	12	GO:0016032	viral process
+GO:0019543	2	GO:0046460	neutral lipid biosynthetic process
+GO:0071333	8	GO:0035094	response to nicotine
+GO:0050966	19	GO:0050877	nervous system process
+GO:1904659	20	GO:0089718	amino acid import across plasma membrane
+GO:0050968	19	GO:0050877	nervous system process
+GO:0050954	19	GO:0050877	nervous system process
+GO:0070673	8	GO:0035094	response to nicotine
+GO:0070613	6	GO:0010835	regulation of protein ADP-ribosylation
+GO:0003094	19	GO:0050877	nervous system process
+GO:0001889	17	GO:0035051	cardiocyte differentiation
+GO:0050911	19	GO:0050877	nervous system process
+GO:0050912	19	GO:0050877	nervous system process
+GO:0050913	19	GO:0050877	nervous system process
+GO:0060267	5	GO:0071071	regulation of phospholipid biosynthetic process
+GO:0014066	15	GO:0007249	I-kappaB kinase/NF-kappaB signaling
+GO:0006560	2	GO:0046460	neutral lipid biosynthetic process
+GO:0050907	19	GO:0050877	nervous system process
+GO:2000653	1	GO:0071897	DNA biosynthetic process
+GO:0046323	20	GO:0089718	amino acid import across plasma membrane
+GO:0046324	20	GO:0089718	amino acid import across plasma membrane
+GO:0046326	20	GO:0089718	amino acid import across plasma membrane
+GO:0006544	2	GO:0046460	neutral lipid biosynthetic process
+GO:0051707	11	GO:0052200	response to host defenses
+GO:0001580	19	GO:0050877	nervous system process
+GO:0031638	3	GO:0080058	protein deglutathionylation
+GO:0061008	17	GO:0035051	cardiocyte differentiation
+GO:0007296	23	GO:0000226	microtubule cytoskeleton organization
+GO:0060785	18	GO:2000106	regulation of leukocyte apoptotic process
+GO:0046460	2	GO:0046460	neutral lipid biosynthetic process
+GO:0046463	2	GO:0046460	neutral lipid biosynthetic process
+GO:0010827	20	GO:0089718	amino acid import across plasma membrane
+GO:0010828	20	GO:0089718	amino acid import across plasma membrane
+GO:0010812	22	GO:0031343	positive regulation of cell killing
+GO:0060742	17	GO:0035051	cardiocyte differentiation
+GO:0034614	9	GO:0006952	defense response
+GO:0060736	17	GO:0035051	cardiocyte differentiation
+GO:1904058	19	GO:0050877	nervous system process
+GO:0034605	9	GO:0006952	defense response
+GO:0001660	9	GO:0006952	defense response
+GO:0044319	9	GO:0006952	defense response
+GO:0045582	16	GO:0045591	positive regulation of regulatory T cell differentiation
+GO:1901921	1	GO:0071897	DNA biosynthetic process
+GO:0016339	24	GO:0032196	transposition
+GO:0090505	9	GO:0006952	defense response
+GO:0002237	7	GO:0045087	innate immune response
+GO:1903188	22	GO:0031343	positive regulation of cell killing
+GO:0000122	1	GO:0071897	DNA biosynthetic process
+GO:0106057	15	GO:0007249	I-kappaB kinase/NF-kappaB signaling
+GO:0039694	12	GO:0016032	viral process
+GO:0039695	12	GO:0016032	viral process
+GO:0006090	2	GO:0046460	neutral lipid biosynthetic process
+GO:0006094	2	GO:0046460	neutral lipid biosynthetic process
+GO:0039657	10	GO:0039557	suppression by virus of host IRF7 activity
+GO:0044419	13	GO:0044003	modulation by symbiont of host process
+GO:0039644	10	GO:0039557	suppression by virus of host IRF7 activity
+GO:0039645	13	GO:0044003	modulation by symbiont of host process
+GO:0034087	23	GO:0000226	microtubule cytoskeleton organization
+GO:0006089	2	GO:0046460	neutral lipid biosynthetic process
+GO:0006071	2	GO:0046460	neutral lipid biosynthetic process
+GO:0045621	16	GO:0045591	positive regulation of regulatory T cell differentiation
+GO:0043562	9	GO:0006952	defense response
+GO:0030703	17	GO:0035051	cardiocyte differentiation
+GO:0040029	4	GO:0032660	regulation of interleukin-17 production
+GO:0046209	2	GO:0046460	neutral lipid biosynthetic process
+GO:0006995	9	GO:0006952	defense response
+GO:1905866	22	GO:0031343	positive regulation of cell killing
+GO:0006952	9	GO:0006952	defense response
+GO:0006970	9	GO:0006952	defense response
+GO:0046782	12	GO:0016032	viral process
+GO:0098542	7	GO:0045087	innate immune response
+GO:0032651	4	GO:0032660	regulation of interleukin-17 production
+GO:0035773	20	GO:0089718	amino acid import across plasma membrane
+GO:0035774	20	GO:0089718	amino acid import across plasma membrane
+GO:0001952	22	GO:0031343	positive regulation of cell killing
+GO:0070301	9	GO:0006952	defense response
+GO:0045087	7	GO:0045087	innate immune response
+GO:0045026	23	GO:0000226	microtubule cytoskeleton organization
+GO:0030543	24	GO:0032196	transposition
+GO:0071548	8	GO:0035094	response to nicotine
+GO:2000378	5	GO:0071071	regulation of phospholipid biosynthetic process
+GO:0061178	20	GO:0089718	amino acid import across plasma membrane
+GO:0070417	9	GO:0006952	defense response
+GO:0044726	1	GO:0071897	DNA biosynthetic process
+GO:1905691	23	GO:0000226	microtubule cytoskeleton organization
+GO:0009066	2	GO:0046460	neutral lipid biosynthetic process
+GO:0051999	2	GO:0046460	neutral lipid biosynthetic process
+GO:0007605	19	GO:0050877	nervous system process
+GO:0006360	1	GO:0071897	DNA biosynthetic process
+GO:0051969	15	GO:0007249	I-kappaB kinase/NF-kappaB signaling
+GO:0019432	2	GO:0046460	neutral lipid biosynthetic process
+GO:0043065	18	GO:2000106	regulation of leukocyte apoptotic process
+GO:0019400	2	GO:0046460	neutral lipid biosynthetic process
+GO:0034341	7	GO:0045087	innate immune response
+GO:0045912	6	GO:0010835	regulation of protein ADP-ribosylation
+GO:0045913	6	GO:0010835	regulation of protein ADP-ribosylation
+GO:0043011	17	GO:0035051	cardiocyte differentiation
+GO:1900018	1	GO:0071897	DNA biosynthetic process
+GO:0097345	15	GO:0007249	I-kappaB kinase/NF-kappaB signaling
+GO:0098743	24	GO:0032196	transposition
+GO:0051926	20	GO:0089718	amino acid import across plasma membrane
+GO:0050650	2	GO:0046460	neutral lipid biosynthetic process
+GO:0015940	2	GO:0046460	neutral lipid biosynthetic process
+GO:0015939	2	GO:0046460	neutral lipid biosynthetic process
+GO:0048240	17	GO:0035051	cardiocyte differentiation
+GO:0030278	22	GO:0031343	positive regulation of cell killing
+GO:0030218	17	GO:0035051	cardiocyte differentiation
+GO:0045138	17	GO:0035051	cardiocyte differentiation
+GO:0030204	3	GO:0080058	protein deglutathionylation
+GO:0030206	2	GO:0046460	neutral lipid biosynthetic process
+GO:0032446	3	GO:0080058	protein deglutathionylation
+GO:0071222	8	GO:0035094	response to nicotine
+GO:0036093	23	GO:0000226	microtubule cytoskeleton organization
+GO:0019069	12	GO:0016032	viral process
+GO:0019082	12	GO:0016032	viral process
+GO:0016567	3	GO:0080058	protein deglutathionylation
+GO:0000070	23	GO:0000226	microtubule cytoskeleton organization
+GO:0007287	17	GO:0035051	cardiocyte differentiation
+GO:0106056	15	GO:0007249	I-kappaB kinase/NF-kappaB signaling
+GO:0060333	14	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:0097720	15	GO:0007249	I-kappaB kinase/NF-kappaB signaling
+GO:0006357	1	GO:0071897	DNA biosynthetic process
+GO:0006370	1	GO:0071897	DNA biosynthetic process
+GO:1905664	20	GO:0089718	amino acid import across plasma membrane
+GO:1905665	20	GO:0089718	amino acid import across plasma membrane
+GO:0043031	22	GO:0031343	positive regulation of cell killing
+GO:0070423	15	GO:0007249	I-kappaB kinase/NF-kappaB signaling
+GO:0070431	15	GO:0007249	I-kappaB kinase/NF-kappaB signaling
+GO:2001258	20	GO:0089718	amino acid import across plasma membrane
+GO:0034414	2	GO:0046460	neutral lipid biosynthetic process
+GO:0032793	1	GO:0071897	DNA biosynthetic process
+GO:0030500	17	GO:0035051	cardiocyte differentiation
+GO:0035872	15	GO:0007249	I-kappaB kinase/NF-kappaB signaling
+GO:1990961	24	GO:0032196	transposition
+GO:0031334	22	GO:0031343	positive regulation of cell killing
+GO:0010508	5	GO:0071071	regulation of phospholipid biosynthetic process
+GO:0035589	15	GO:0007249	I-kappaB kinase/NF-kappaB signaling
+GO:0015819	20	GO:0089718	amino acid import across plasma membrane
+GO:0070229	18	GO:2000106	regulation of leukocyte apoptotic process
+GO:0070231	18	GO:2000106	regulation of leukocyte apoptotic process
+GO:0060258	22	GO:0031343	positive regulation of cell killing
+GO:0071071	5	GO:0071071	regulation of phospholipid biosynthetic process
+GO:0010636	22	GO:0031343	positive regulation of cell killing
+GO:0034219	20	GO:0089718	amino acid import across plasma membrane
+GO:0045036	20	GO:0089718	amino acid import across plasma membrane
+GO:0051084	24	GO:0032196	transposition
+GO:0051085	24	GO:0032196	transposition
+GO:1990145	1	GO:0071897	DNA biosynthetic process
+GO:0051646	24	GO:0032196	transposition
+GO:0042026	24	GO:0032196	transposition
+GO:0070884	15	GO:0007249	I-kappaB kinase/NF-kappaB signaling
+GO:0030382	23	GO:0000226	microtubule cytoskeleton organization
+GO:1901021	20	GO:0089718	amino acid import across plasma membrane
+GO:0110039	22	GO:0031343	positive regulation of cell killing
+GO:0071356	8	GO:0035094	response to nicotine
+GO:0033173	15	GO:0007249	I-kappaB kinase/NF-kappaB signaling
+GO:0030194	22	GO:0031343	positive regulation of cell killing
+GO:0043903	13	GO:0044003	modulation by symbiont of host process
+GO:0016573	3	GO:0080058	protein deglutathionylation
+GO:0018108	3	GO:0080058	protein deglutathionylation
+GO:0043094	2	GO:0046460	neutral lipid biosynthetic process
+GO:0060352	24	GO:0032196	transposition
+GO:0007219	15	GO:0007249	I-kappaB kinase/NF-kappaB signaling
+GO:0019433	2	GO:0046460	neutral lipid biosynthetic process
+GO:0031145	3	GO:0080058	protein deglutathionylation
+GO:0034050	7	GO:0045087	innate immune response
+GO:0000281	23	GO:0000226	microtubule cytoskeleton organization
+GO:0000278	24	GO:0032196	transposition
+GO:0000226	23	GO:0000226	microtubule cytoskeleton organization
+GO:0006685	2	GO:0046460	neutral lipid biosynthetic process
+GO:0009167	2	GO:0046460	neutral lipid biosynthetic process
+GO:0009168	2	GO:0046460	neutral lipid biosynthetic process
+GO:0006641	2	GO:0046460	neutral lipid biosynthetic process
+GO:0035924	8	GO:0035094	response to nicotine
+GO:0006638	2	GO:0046460	neutral lipid biosynthetic process
+GO:0006639	2	GO:0046460	neutral lipid biosynthetic process
+GO:0009126	2	GO:0046460	neutral lipid biosynthetic process
+GO:0009127	2	GO:0046460	neutral lipid biosynthetic process
+GO:0030866	23	GO:0000226	microtubule cytoskeleton organization
+GO:0051445	22	GO:0031343	positive regulation of cell killing
+GO:0045938	22	GO:0031343	positive regulation of cell killing
+GO:0035094	8	GO:0035094	response to nicotine
+GO:0035051	17	GO:0035051	cardiocyte differentiation
+GO:0051251	16	GO:0045591	positive regulation of regulatory T cell differentiation
+GO:0001778	9	GO:0006952	defense response
+GO:0034367	23	GO:0000226	microtubule cytoskeleton organization
+GO:0048663	17	GO:0035051	cardiocyte differentiation
+GO:0048665	17	GO:0035051	cardiocyte differentiation
+GO:0050886	19	GO:0050877	nervous system process
+GO:0050870	16	GO:0045591	positive regulation of regulatory T cell differentiation
+GO:0050877	19	GO:0050877	nervous system process
+GO:0034379	22	GO:0031343	positive regulation of cell killing
+GO:0006956	9	GO:0006952	defense response
+GO:0006959	9	GO:0006952	defense response
+GO:0050848	15	GO:0007249	I-kappaB kinase/NF-kappaB signaling
+GO:0050849	15	GO:0007249	I-kappaB kinase/NF-kappaB signaling
+GO:0019511	3	GO:0080058	protein deglutathionylation
+GO:0016042	2	GO:0046460	neutral lipid biosynthetic process
+GO:0039563	10	GO:0039557	suppression by virus of host IRF7 activity
+GO:0042753	22	GO:0031343	positive regulation of cell killing
+GO:0042759	2	GO:0046460	neutral lipid biosynthetic process
+GO:0039573	10	GO:0039557	suppression by virus of host IRF7 activity
+GO:0039523	10	GO:0039557	suppression by virus of host IRF7 activity
+GO:0006909	24	GO:0032196	transposition
+GO:0055011	17	GO:0035051	cardiocyte differentiation
+GO:0055014	17	GO:0035051	cardiocyte differentiation
+GO:0098671	12	GO:0016032	viral process
+GO:0009593	8	GO:0035094	response to nicotine
+GO:0039656	13	GO:0044003	modulation by symbiont of host process
+GO:0034113	24	GO:0032196	transposition
+GO:0051591	8	GO:0035094	response to nicotine
+GO:0001666	9	GO:0006952	defense response
+GO:0009626	7	GO:0045087	innate immune response
+GO:0030968	15	GO:0007249	I-kappaB kinase/NF-kappaB signaling
+GO:0007010	23	GO:0000226	microtubule cytoskeleton organization
+GO:0045168	17	GO:0035051	cardiocyte differentiation
+GO:0046331	17	GO:0035051	cardiocyte differentiation
+GO:0098974	23	GO:0000226	microtubule cytoskeleton organization
+GO:1905808	22	GO:0031343	positive regulation of cell killing
+GO:0030046	23	GO:0000226	microtubule cytoskeleton organization
+GO:0019933	15	GO:0007249	I-kappaB kinase/NF-kappaB signaling
+GO:0046425	15	GO:0007249	I-kappaB kinase/NF-kappaB signaling
+GO:0046128	2	GO:0046460	neutral lipid biosynthetic process
+GO:0016266	3	GO:0080058	protein deglutathionylation
+GO:0016268	3	GO:0080058	protein deglutathionylation
+GO:0046130	2	GO:0046460	neutral lipid biosynthetic process
+GO:0044550	2	GO:0046460	neutral lipid biosynthetic process
+GO:0036260	1	GO:0071897	DNA biosynthetic process
+GO:0006167	2	GO:0046460	neutral lipid biosynthetic process
+GO:0016239	5	GO:0071071	regulation of phospholipid biosynthetic process
+GO:0060079	15	GO:0007249	I-kappaB kinase/NF-kappaB signaling
+GO:0070050	24	GO:0032196	transposition
+GO:0006144	1	GO:0071897	DNA biosynthetic process
+GO:0080058	3	GO:0080058	protein deglutathionylation
+GO:1903039	22	GO:0031343	positive regulation of cell killing
+GO:0009070	2	GO:0046460	neutral lipid biosynthetic process
+GO:0110011	22	GO:0031343	positive regulation of cell killing
+GO:1902389	20	GO:0089718	amino acid import across plasma membrane
+GO:0035545	17	GO:0035051	cardiocyte differentiation
+GO:0097402	24	GO:0032196	transposition
+GO:0051014	24	GO:0032196	transposition
+GO:0051016	23	GO:0000226	microtubule cytoskeleton organization
+GO:0018401	3	GO:0080058	protein deglutathionylation
+GO:0007169	15	GO:0007249	I-kappaB kinase/NF-kappaB signaling
+GO:0007111	23	GO:0000226	microtubule cytoskeleton organization
+GO:2000106	18	GO:2000106	regulation of leukocyte apoptotic process
+GO:2000107	18	GO:2000106	regulation of leukocyte apoptotic process
+GO:0031099	17	GO:0035051	cardiocyte differentiation
+GO:0071620	1	GO:0071897	DNA biosynthetic process
+GO:0030301	20	GO:0089718	amino acid import across plasma membrane
+GO:0035725	20	GO:0089718	amino acid import across plasma membrane
+GO:0060761	14	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:0043007	1	GO:0071897	DNA biosynthetic process
+GO:0060759	14	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:0042045	20	GO:0089718	amino acid import across plasma membrane
+GO:0006677	2	GO:0046460	neutral lipid biosynthetic process
+GO:0019073	12	GO:0016032	viral process
+GO:0071357	7	GO:0045087	innate immune response
+GO:0070227	18	GO:2000106	regulation of leukocyte apoptotic process
+GO:0070228	18	GO:2000106	regulation of leukocyte apoptotic process
+GO:0070232	18	GO:2000106	regulation of leukocyte apoptotic process
+GO:0070233	18	GO:2000106	regulation of leukocyte apoptotic process
+GO:0036031	2	GO:0046460	neutral lipid biosynthetic process
+GO:1905864	22	GO:0031343	positive regulation of cell killing
+GO:0089718	20	GO:0089718	amino acid import across plasma membrane
+GO:0034340	7	GO:0045087	innate immune response
+GO:0035002	17	GO:0035051	cardiocyte differentiation
+GO:0032366	20	GO:0089718	amino acid import across plasma membrane
+GO:0032367	20	GO:0089718	amino acid import across plasma membrane
+GO:0001960	14	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:0001959	14	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:0045824	7	GO:0045087	innate immune response
+GO:0007411	17	GO:0035051	cardiocyte differentiation
+GO:0009651	9	GO:0006952	defense response
+GO:0043327	8	GO:0035094	response to nicotine
+GO:0046514	2	GO:0046460	neutral lipid biosynthetic process
+GO:0048678	9	GO:0006952	defense response
+GO:0097485	17	GO:0035051	cardiocyte differentiation
+GO:0042330	8	GO:0035094	response to nicotine
+GO:1903401	20	GO:0089718	amino acid import across plasma membrane
+GO:0019377	2	GO:0046460	neutral lipid biosynthetic process
+GO:0006935	8	GO:0035094	response to nicotine
+GO:0010644	24	GO:0032196	transposition
+GO:0035335	3	GO:0080058	protein deglutathionylation
+GO:0009452	1	GO:0071897	DNA biosynthetic process
+GO:0060337	14	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:0060338	14	GO:0001959	regulation of cytokine-mediated signaling pathway
+GO:0031102	17	GO:0035051	cardiocyte differentiation
+GO:0050975	19	GO:0050877	nervous system process
+GO:0050976	19	GO:0050877	nervous system process
+GO:0061564	17	GO:0035051	cardiocyte differentiation
+GO:0050914	19	GO:0050877	nervous system process
+GO:0001845	23	GO:0000226	microtubule cytoskeleton organization
+GO:0071887	18	GO:2000106	regulation of leukocyte apoptotic process
+GO:0045332	20	GO:0089718	amino acid import across plasma membrane
+GO:1904745	23	GO:0000226	microtubule cytoskeleton organization
+GO:0035199	8	GO:0035094	response to nicotine
+GO:0046477	2	GO:0046460	neutral lipid biosynthetic process
+GO:0046479	2	GO:0046460	neutral lipid biosynthetic process
+GO:0006814	20	GO:0089718	amino acid import across plasma membrane
+GO:0046942	20	GO:0089718	amino acid import across plasma membrane
+GO:0015849	20	GO:0089718	amino acid import across plasma membrane
+GO:0016558	20	GO:0089718	amino acid import across plasma membrane
