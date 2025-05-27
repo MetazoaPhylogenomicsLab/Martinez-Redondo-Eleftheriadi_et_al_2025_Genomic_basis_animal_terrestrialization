@@ -1,7 +1,7 @@
 # Genomic basis of animal terrestrialisation
 
 ## 1. Description
-This repository contains the scripts and files needed to reproduce the analysis in: Martínez-Redondo, Eleftheriadi et al. 2025. *Lack of a universal genomic toolkit for animal terrestrialisation*. (under review)
+This repository contains the scripts and files needed to reproduce the analysis in: Martínez-Redondo, Eleftheriadi et al. (2025). *Lack of a universal genomic toolkit for animal terrestrialisation*. (under review)
 
 Input proteomes for species for which an IsoSeq reference transcriptome was not generated, and their functional annotation with [FANTASIA](https://github.com/MetazoaPhylogenomicsLab/FANTASIA), can be found in [**MATEdb2**](https://github.com/MetazoaPhylogenomicsLab/MATEdb2).
 
