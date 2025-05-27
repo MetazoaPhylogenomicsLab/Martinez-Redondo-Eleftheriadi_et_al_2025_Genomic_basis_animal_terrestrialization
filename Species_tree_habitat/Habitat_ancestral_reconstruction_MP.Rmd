@@ -1,0 +1,163 @@
+---
+title: "Maximum Parsimony ancestral habitat reconstruction"
+author: "Gemma I. Martínez-Redondo"
+date: "2025-Mar-06"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(ape)
+library(dplyr)
+library(ggplot2)
+library(ggtree)
+library(paleotree)
+setwd("~/Metazoa_analyses/Ancestral_habitat")
+```
+
+## Ancestral reconstruction of Habitat
+
+Let's try to reconstruct as good as we can the ancestral habitat.
+```{r Ancestral reconstruction}
+#Load tree
+tr <- read.tree(file = "metazoa_sp_tree_node_names.nwk")
+
+#Load habitat information
+hab_df <- read.table(file="species_habitat.txt", header=FALSE)
+hab_df <- rbind(hab_df, cbind(tr$tip.label[!tr$tip.label %in% hab_df$V1],rep("Outgroup",length(tr$tip.label[!tr$tip.label %in% hab_df$V1]))))
+hab <- unlist(hab_df[2])
+names(hab) <- as.vector(unlist(hab_df[1]))
+
+#Infer ancestral nodes states using 2 parsimony methods implemented in the paleotree library
+anc_states_MPR <- ancPropStateMat(hab, tr, type="MPR")
+
+#Set important clades for plotting (terrestrial phyla)
+craniata<-MRCA(tr,c("PETM1","HSAP1"))
+nematoda<-MRCA(tr,c("TOBR1","CELE"))
+tardigrada<-MRCA(tr,c("ESIG1","PMET1"))
+onychophora<-MRCA(tr,c("EPTR1","OGIL1"))
+arthropoda<-MRCA(tr,c("PFLA1","DMEL1"))
+platyhelminthes<-MRCA(tr,c("SLEU1","ONUN"))
+mollusca<-MRCA(tr,c("HAEG1","CASP1"))
+annelida<-MRCA(tr,c("MPIT1","NNAJ1"))
+nemertea<-MRCA(tr,c("TPOL1","LEPN"))
+
+#Plot for MPR ancestral reconstruction
+habitat_MPR <- apply(anc_states_MPR, 1, function(x) {
+  if (x[1] == 1) {
+    return("Aquatic")
+  } else if (x[2] == 1) {
+    return("Outgroup")
+  } else if (x[3] == 1) {
+    return("Terrestrial")
+  }  else {
+    return(NA) # in case neither column is 1
+  }
+})
+node_states_MPR <- data.frame(node = rownames(anc_states_MPR), state = habitat_MPR)
+# Basic ggtree plot with circular layout
+p <- ggtree(tr, layout = "circular", branch.length="none") 
+# Add the node labels (optional, if you want to show node numbers)
+p <- p + geom_text2(aes(subset = !isTip, label = node), hjust = -0.3, size = 1, color="black")
+# Merge node states (ancestral reconstruction data) with the ggtree plot data
+p$data <- merge(p$data, node_states_MPR, by.x = "node", by.y = "node", all.x = TRUE)
+# Color the branches according to the habitat state (0 = Aquatic, 1 = Terrestrial)
+p <- p + aes(color = as.factor(state))
+# Define custom colors for the states
+p <- p + scale_color_manual(values = c("Aquatic" = "#005f73", "Terrestrial" = "#BB3E03", "Outgroup"="black"),
+                            labels = c("Aquatic", "Outgroup", "Terrestrial", "Ambiguous"),
+                            na.value = "red",
+                            name= "Habitat")
+# Add tip labels (labels for the species at the tips of the tree)
+p <- p + geom_tiplab(size = 1, align = TRUE)
+# Adjust title, legend, etc.
+p <- p + theme(legend.position = "right") +
+         ggtitle("Ancestral Habitat Reconstruction (MPR)") +
+         theme(plot.title = element_text(hjust = 0.5))
+#Add labels for phyla that contain terrestrial species
+p <- p + geom_cladelab(node=craniata, label="Craniata", offset=3, lineheight=5, offset.text=1) +
+          geom_cladelab(node=nematoda, label="Nematoda", offset=3, lineheight=5, offset.text=12) +
+          geom_cladelab(node=tardigrada, label="Tardigrada", offset=3, lineheight=5, offset.text=12) +
+          geom_cladelab(node=onychophora, label="Onychophora", offset=3, lineheight=5, offset.text=14) +
+          geom_cladelab(node=arthropoda, label="Arthropoda", offset=3, lineheight=5, offset.text=1) +
+          geom_cladelab(node=platyhelminthes, label="Platyhelminthes", offset=3, lineheight=5, offset.text=1) +
+          geom_cladelab(node=mollusca, label="Mollusca", offset=3, lineheight=5, offset.text=11) +
+          geom_cladelab(node=annelida, label="Annelida", offset=3, lineheight=5, offset.text=3) +
+          geom_cladelab(node=nemertea, label="Nemertea", offset=3, lineheight=5, offset.text=2)
+# Show the plot
+pdf("/home/metazomics/Metazoa_analyses/Ancestral_habitat/MPR_ancestral_habitat.pdf",width=15, height=15)
+print(p)
+dev.off()
+```
+
+```{r Manually fix Ancestral reconstruction for ambiguous and wrong branches}
+anc_states_MPR <- ancPropStateMat(hab, tr, type="MPR")
+#Panarthropoda (fossils and old info)
+anc_states_MPR[arthropoda,] <- c(1,0,0) #Aquatic
+anc_states_MPR[1444,] <- c(1,0,0) #Aquatic
+anc_states_MPR[1182,] <- c(1,0,0) #Aquatic
+anc_states_MPR[1165,] <- c(1,0,0) #Aquatic
+anc_states_MPR[1157,] <- c(1,0,0) #Aquatic
+anc_states_MPR[tardigrada,] <- c(1,0,0) #Aquatic
+anc_states_MPR[1159,] <- c(1,0,0) #Aquatic
+anc_states_MPR[1160,] <- c(1,0,0) #Aquatic
+anc_states_MPR[1159,] <- c(1,0,0) #Aquatic
+#Mollusca (https://royalsocietypublishing.org/doi/10.1098/rspb.2021.1855)
+anc_states_MPR[1789,] <- c(1,0,0) #Aquatic
+anc_states_MPR[1790,] <- c(1,0,0) #Aquatic
+anc_states_MPR[1791,] <- c(1,0,0) #Aquatic
+anc_states_MPR[1792,] <- c(1,0,0) #Aquatic
+#Nematoda
+anc_states_MPR[1137,] <- c(1,0,0) #Aquatic
+anc_states_MPR[1138,] <- c(1,0,0) #Aquatic
+#Annelida (https://onlinelibrary.wiley.com/doi/full/10.1111/zsc.12426)
+anc_states_MPR[1939,] <- c(1,0,0) #Aquatic
+anc_states_MPR[1940,] <- c(1,0,0) #Aquatic
+
+habitat_MPR <- apply(anc_states_MPR, 1, function(x) {
+  if (x[1] == 1) {
+    return("Aquatic")
+  } else if (x[2] == 1) {
+    return("Outgroup")
+  } else if (x[3] == 1) {
+    return("Terrestrial")
+  }  else {
+    return(NA) # in case neither column is 1
+  }
+})
+node_states_MPR <- data.frame(node = rownames(anc_states_MPR), state = habitat_MPR)
+# Basic ggtree plot with circular layout
+p <- ggtree(tr, layout = "circular") 
+# Add the node labels (optional, if you want to show node numbers)
+#p <- p + geom_text2(aes(subset = !isTip, label = node), hjust = -0.3, size = 1, color="black") #Node ids, same as in MPR ancestral. For using node labels as depicted in the original input tree, use the following line instead
+p <- p + geom_text2(aes(subset = !isTip, label = c(tr$tip.label,tr$node.label)), hjust = -0.3, size = 1, color="black")
+# Merge node states (ancestral reconstruction data) with the ggtree plot data
+p$data <- merge(p$data, node_states_MPR, by.x = "node", by.y = "node", all.x = TRUE)
+# Color the branches according to the habitat state (0 = Aquatic, 1 = Terrestrial)
+p <- p + aes(color = as.factor(state))
+# Define custom colors for the states
+p <- p + scale_color_manual(values = c("Aquatic" = "#005f73", "Terrestrial" = "#BB3E03",  "Outgroup"="black"),
+                            labels = c("Aquatic", "Outgroup", "Terrestrial", "Ambiguous"),
+                            na.value = "red",
+                            name= "Habitat")
+# Add tip labels (labels for the species at the tips of the tree)
+p <- p + geom_tiplab(size = 1, align = TRUE)
+# Adjust title, legend, etc.
+p <- p + theme(legend.position = "right") +
+         ggtitle("Ancestral Habitat Reconstruction (MPR)") +
+         theme(plot.title = element_text(hjust = 0.5))
+#Add labels for phyla that contain terrestrial species
+p <- p + geom_cladelab(node=craniata, label="Craniata", offset=3, lineheight=5, offset.text=1) +
+          geom_cladelab(node=nematoda, label="Nematoda", offset=3, lineheight=5, offset.text=12) +
+          geom_cladelab(node=tardigrada, label="Tardigrada", offset=3, lineheight=5, offset.text=12) +
+          geom_cladelab(node=onychophora, label="Onychophora", offset=3, lineheight=5, offset.text=14) +
+          geom_cladelab(node=arthropoda, label="Arthropoda", offset=3, lineheight=5, offset.text=1) +
+          geom_cladelab(node=platyhelminthes, label="Platyhelminthes", offset=3, lineheight=5, offset.text=1) +
+          geom_cladelab(node=mollusca, label="Mollusca", offset=3, lineheight=5, offset.text=11) +
+          geom_cladelab(node=annelida, label="Annelida", offset=3, lineheight=5, offset.text=3) +
+          geom_cladelab(node=nemertea, label="Nemertea", offset=3, lineheight=5, offset.text=2)
+# Show the plot
+pdf("/home/metazomics/Metazoa_analyses/Ancestral_habitat/MPR_ancestral_manual_mod_habitat.pdf",width=15, height=15)
+print(p)
+dev.off()
+```
