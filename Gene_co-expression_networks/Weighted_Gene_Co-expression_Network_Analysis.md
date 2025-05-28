@@ -622,12 +622,11 @@ extract_significant_module_genes <- function(significant_modules, datExpr,
 extract_significant_module_genes(significant_modules, adjusted_counts_rld_limma_trans_GG, moduleColors, sigMods2genes, SPECIES_CODE)
 
 ################################################################################
-######         WGCNA Tutorials Simulated-06-RelatingToExt         ############## 
-###### 6 Relating modules and module eigengenes to external data  ##############
+######   Relating modules and module eigengenes to external data  ##############
 ################################################################################
 
 ################################################################################
-# 6a.Representing modules by eigengenes and relating eigengenes to one another #
+#  Representing modules by eigengenes and relating eigengenes to one another   #
 ################################################################################
 
 # To get a sense of how related the modules are one can summarize each module 
