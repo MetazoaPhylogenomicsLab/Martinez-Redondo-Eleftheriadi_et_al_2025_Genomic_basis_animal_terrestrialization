@@ -1,9 +1,9 @@
 # Genomic basis of animal terrestrialisation
 
 ## 1. Description
-This repository contains the scripts and files needed to reproduce the analysis in: Martínez-Redondo, Eleftheriadi et al. (2025). *Lack of a universal genomic toolkit for animal terrestrialisation*. (under review)
+This repository contains the scripts and files needed to reproduce the analyses in: Martínez-Redondo, Eleftheriadi et al. (2025). *Lack of a universal genomic toolkit for animal terrestrialisation*. (under review)
 
-Input proteomes for species for which an IsoSeq reference transcriptome was not generated, and their functional annotation with [FANTASIA](https://github.com/MetazoaPhylogenomicsLab/FANTASIA), can be found in [**MATEdb2**](https://github.com/MetazoaPhylogenomicsLab/MATEdb2).
+Input proteomes for species for which an IsoSeq reference transcriptome was not generated, and their functional annotation with [FANTASIA](https://github.com/MetazoaPhylogenomicsLab/FANTASIA), can be found in [MATEdb2](https://github.com/MetazoaPhylogenomicsLab/MATEdb2).
 
 ## 2. Directories in this repository
 - **Species_tree_habitat:** This directory contains the species tree, habitat and phylum information, and ancestral habitat reconstruction files and scripts.
@@ -15,5 +15,5 @@ Input proteomes for species for which an IsoSeq reference transcriptome was not 
 - **GCN:** This directory contains the scripts and files needed to perform the gene coexpression network analyses.
 - **Hub_phylostratigraphy:** This directory contains the scripts and files needed to perform the phylostratigraphic analyses of hub genes.
 - **Semantic_similarity_ConstellatoR:** This directory contains the scripts and files needed to perform the functional convergence analyses using [pygosemsim](https://github.com/mojaie/pygosemsim/tree/master/pygosemsim) and [constellatoR](https://github.com/MetazoaPhylogenomicsLab/constellatoR).
-- **Pathway_analyses:** This directory contains the scripts and files needed to perform pathway analyses (PANGEA and KO terms).
-- **Machine_Learning:** This directory contains the scripts and files needed to perform the machine learning XGBoost classification model for habitat.
+- **Pathway_analyses:** This directory contains the scripts and files needed to perform pathway analyses on hub genes (KO terms).
+- **Machine_Learning:** This directory contains the scripts and files needed to perform the machine learning XGBoost classification model for habitat, and posterior analyses on the top OGs obtained.
