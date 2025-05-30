@@ -1,10 +1,8 @@
 ## 1. Description
 
-.
+This directory contains scripts and explanations on the gain and loss evolutionary analyses.
 
-## 2. Files in this repository
-
-## 3. Workflow
+## 2. Workflow
 
 ### Gene gain analysis (age of origin of each OG - phylostratigraphy)
 

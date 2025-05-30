@@ -1,10 +1,8 @@
 ## 1. Description
 
-.
+This directory contains information on the functional convergence analyses using semantic similarity of GO terms and constellatoR.
 
-## 2. Files in this repository
-
-## 3. Workflow
+## 2. Workflow
 
 ### Building the Semantic Similarity matrix for ConstellatoR
 

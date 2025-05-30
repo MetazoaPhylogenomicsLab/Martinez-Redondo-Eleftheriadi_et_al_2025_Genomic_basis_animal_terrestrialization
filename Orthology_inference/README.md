@@ -2,9 +2,7 @@
 
 Orthology inference (i.e. identification of gene families) was done using [SonicParanoid2](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03298-4).
 
-## 2. Files in this repository
-
-## 3. Workflow
+## 2. Workflow
 
 ### Obtaining OGs using SonicParanoid
 
