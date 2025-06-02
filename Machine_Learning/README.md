@@ -2,9 +2,7 @@
 
 Given the dataset's complexity and scale precluding us from doing traditional phylogenomic analyses, we decided to use Machine Learning (XGBoost) to identify putative interesting genes. In this part, we want to identify genes that may have been involved in the convergent transition to life on land due to their pattern of gain-loss-duplication-expansion. Here, we expect to get genes that were old but were independently co-opted or lost in terrestrial lineages (parallel evolution).
 
-## 2. Files in this repository
-
-## 3. Workflow
+## 2. Workflow
 
 ### 0. Installation of required packages in Conda/Python environment
 

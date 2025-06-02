@@ -1,10 +1,8 @@
 ## 1. Description
 
-.
+This directory contains scripts and explanations on the GO enrichment analyses of genes gained and lost at terrestrialization lineages.
 
-## 2. Files in this repository
-
-## 3. Workflow
+## 2. Workflow
 
 ### GO enrichment analyses
 

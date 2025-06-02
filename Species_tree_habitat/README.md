@@ -1,10 +1,8 @@
 ## 1. Description
 
-.
+This directory contains the species tree, habitat and taxonomic information, as well as scripts and explanation for the ancestral habitat reconstruction.
 
-## 2. Files in this repository
-
-## 3. Workflow
+## 2. Workflow
 
 ### Resolving species tree polytomies
 
