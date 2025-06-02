@@ -4,7 +4,7 @@ The following scripts were made following the WGCNA tutorials.
 
 ## 1. Filtering low count transcripts, normalisation and batch effect removal
 
-```r
+``` r
 set.seed(0)
 library(DESeq2) 
 library(vroom)
@@ -222,12 +222,11 @@ dev.off()
 
 save(txi_COCO, metadata_COCO, adjusted_counts_rld_limma_trans_GG, salmonSE_rld_limma_GG, blocksize, 
      file = paste0(filtering_path, "1.Filtering.RData"))
-
 ```
 
 ## 2. Network construcion
 
-```r
+``` r
 set.seed(0)
 library(WGCNA)
 library(SummarizedExperiment)
@@ -350,7 +349,7 @@ save(sft, net , file = paste0(network_construction_path, SPECIES_CODE,"_sft_and_
 
 ## 3. Relate modules to stress experiments
 
-```r
+``` r
 set.seed(0)
 library(WGCNA)
 library(SummarizedExperiment)
@@ -876,5 +875,4 @@ Hubs <- HubGenes_extraction(significant_modules, all_traits_associations, datKME
 
 save(MEs, datTraits, moduleTraitCor, moduleTraitPvalue, 
      all_traits_associations, significant_modules,sigMods_unique,colorh1, ADJ1, Alldegrees1, Hubs, file = paste0(mod2traits_path, "3.Mods2Traits.RData"))
-
 ```

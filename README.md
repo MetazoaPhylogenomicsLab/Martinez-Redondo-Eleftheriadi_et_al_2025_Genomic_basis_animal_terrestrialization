@@ -11,9 +11,9 @@ Input proteomes for species for which an IsoSeq reference transcriptome was not 
 - **Intermediate_conversion_files:** This directory contains intermediate conversion files used in several analyses.
 - **Gene_repertoire_evolution:** This directory contains the scripts and files needed to perform the gene repertoire evolutionary analyses (gene gain and loss).
 - **GO_enrichments_terrestrialisation_events:** This directory contains the scripts and files needed to perform the GO enrichment analyses of OGs gained and lost at the independent terrestrialisation events, as well as output files.
-- **IsoSeq:** This directory contains the scripts and files needed to perform the IsoSeq data preprocessing and reference transcriptome assembly.
-- **GCN:** This directory contains the scripts and files needed to perform the gene coexpression network analyses.
-- **Hub_phylostratigraphy:** This directory contains the scripts and files needed to perform the phylostratigraphic analyses of hub genes.
+- **RNA_data_preprocessing:** This directory contains the scripts needed to perform the IsoSeq data preprocessing and reference transcriptome assembly along with the short reads preprocessing and mapping to the reference transcriptome.
+- **Gene_co-expression_networks:** This directory contains the scripts needed to perform the gene coexpression network analyses.
+- **Phylostratigraphy_of_Hub_Genes:** This directory contains the scripts and files needed to perform the phylostratigraphic analyses of hub genes.
 - **Semantic_similarity_ConstellatoR:** This directory contains the scripts and files needed to perform the functional convergence analyses using [pygosemsim](https://github.com/mojaie/pygosemsim/tree/master/pygosemsim) and [constellatoR](https://github.com/MetazoaPhylogenomicsLab/constellatoR).
-- **Pathway_analyses:** This directory contains the scripts and files needed to perform pathway analyses on hub genes (KO terms).
+- **Pathway_Functional_Convergence_of_Hub_Genes:** This directory contains the scripts needed to perform pathway analyses on hub genes (KO terms).
 - **Machine_Learning:** This directory contains the scripts and files needed to perform the machine learning XGBoost classification model for habitat, and posterior analyses on the top OGs obtained.

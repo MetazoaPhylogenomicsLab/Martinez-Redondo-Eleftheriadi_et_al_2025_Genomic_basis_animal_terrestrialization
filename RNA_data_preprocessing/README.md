@@ -211,3 +211,10 @@ with open(long_iso_pep, "w") as output_handle:
     SeqIO.write(filtered_records, output_handle, "fasta")
 print(f"Filtered and saved to {long_iso_pep}")
 ```
+
+In figshare you can found for each species the generated:
+
+1.  Transcriptome
+2.  Proteome
+3.  Longest isoforms proteome
+4.  Functional annotation using FANTASIA
