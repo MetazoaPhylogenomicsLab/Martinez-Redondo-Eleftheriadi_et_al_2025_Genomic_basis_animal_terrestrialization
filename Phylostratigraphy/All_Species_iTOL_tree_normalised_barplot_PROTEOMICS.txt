@@ -1,0 +1,38 @@
+DATASET_MULTIBAR
+#In multi-value bar charts, each ID is associated to multiple numeric values, which are displayed as a stacked or aligned bar chart
+#lines starting with a hash are comments and ignored during parsing
+
+#=================================================================#
+#                    MANDATORY SETTINGS                           #
+#=================================================================#
+#select the separator which is used to delimit the data below (TAB,SPACE or COMMA).This separator must be used throughout this file.
+SEPARATOR COMMA
+
+#label is used in the legend table (can be changed later)
+DATASET_LABEL,Proteomics bar chart
+
+#define colors for each individual field column (use hexadecimal, RGB or RGBA notation; if using RGB/RGBA, COMMA cannot be used as SEPARATOR)
+FIELD_COLORS,#4E0039,#822168,#9C3982,#B25099,#C469AD,#D485C0,#E0A4D0,#EAC1DF,#D9BDCC,#D3CCC2,#E8F0DB,#B6D293,#75A24F,#7C885E,#0C4C00
+
+FIELD_LABELS,N974,N976,N978,N981,N983,N984,N986,N989,N992,N996,N1002,Phylum2Protostomia,Phylum,Species2Phylum,Species
+
+
+#=================================================================#
+#       Actual data follows after the "DATA" keyword              #
+#=================================================================#
+DATA
+#N974,N976,N978,N981,N983,N984,N986,N989,N992,N996,N1002,Path_N1002_to_Phylum_Sum,Phylum,Path_Phylum_to_Species_Sum,Species
+C. elegans,68.31,7.09,1.54,1.62,1.7,1.85,0.85,0.93,1.85,2.7,4.16,3.71,0.39,2.7800000000000002,0.54
+A. marina,73.47,8.16,1.02,3.06,1.02,3.06,0.0,1.02,2.04,1.02,1.02,0.0,0.0,4.08,1.02
+E. andrei,55.32,12.77,4.26,0.0,2.13,2.13,2.13,2.13,2.13,2.13,4.26,6.39,0.0,4.26,0.0
+H. medicinalis,64.29,9.52,0.0,0.0,4.76,2.38,0.0,0.0,7.14,0.0,4.76,4.76,0.0,2.38,0.0
+L. chalicophora,59.91,8.62,2.59,3.45,3.02,2.16,0.0,0.86,1.29,2.59,3.88,3.01,0.43,4.73,3.45
+L. marina,67.45,7.01,1.84,0.83,1.17,2.67,0.67,1.34,2.34,2.67,4.01,2.67,0.17,4.33,0.83
+L. oceanica,64.62,11.54,1.54,1.54,2.31,5.38,2.31,1.54,3.08,2.31,1.54,0.0,0.0,1.54,0.77
+O. nungara,53.57,9.52,4.76,2.98,2.38,4.17,0.6,2.38,2.98,2.38,2.98,1.79,0.0,8.35,1.19
+P. acuta,58.06,10.75,6.45,2.15,2.15,2.15,0.0,4.3,2.15,0.0,7.53,1.08,0.0,2.16,1.08
+P. laevis,56.06,7.58,0.0,3.03,0.0,6.06,0.0,1.52,3.03,3.03,6.06,0.0,0.0,10.62,3.03
+P. turbinatus,56.1,2.44,2.44,2.44,2.44,4.88,2.44,4.88,4.88,4.88,4.88,0.0,0.0,7.32,0.0
+S. mediterranea,57.14,8.53,2.23,1.67,4.45,3.15,0.56,1.3,3.15,1.48,3.71,2.42,0.0,10.03,0.19
+S. pectinata,54.69,6.25,3.12,9.38,4.69,1.56,1.56,0.0,4.69,4.69,3.12,4.68,0.0,1.56,0.0
+T. pisana,78.57,7.14,0.0,7.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.14,0.0

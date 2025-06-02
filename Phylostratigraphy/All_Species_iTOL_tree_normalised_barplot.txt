@@ -1,0 +1,138 @@
+DATASET_MULTIBAR
+#In multi-value bar charts, each ID is associated to multiple numeric values, which are displayed as a stacked or aligned bar chart
+#lines starting with a hash are comments and ignored during parsing
+
+#=================================================================#
+#                    MANDATORY SETTINGS                           #
+#=================================================================#
+#select the separator which is used to delimit the data below (TAB,SPACE or COMMA).This separator must be used throughout this file.
+#SEPARATOR TAB
+#SEPARATOR SPACE
+SEPARATOR COMMA
+
+#label is used in the legend table (can be changed later)
+DATASET_LABEL,example multi bar chart
+
+#dataset color (can be changed later)
+COLOR,#ff0000
+
+#define colors for each individual field column (use hexadecimal, RGB or RGBA notation; if using RGB/RGBA, COMMA cannot be used as SEPARATOR)
+#FIELD_COLORS,#5C4033,#7B5E42,#916848,#A87A52,#C89F7C,#D9C2AA,#E6D8C3,#C2D5DD,#A5C0D1,#7FA8C4,#5B93B4,#3D7EA6,#2C5D8A
+FIELD_COLORS,#F94144,#F3722C,#F8961E,#F9C74F,#90BE6D,#43AA8B,#577590,#277DA1,#FF99CC,#A5C9CA,#E4A5C9,#FFD166,#06D6A0
+#field labels
+#FIELD_LABELS,f1,f2,f3
+FIELD_LABELS,N974,N976,N978,N981,N983,N984,N986,N989,N992,N996,N1002,Phylum,Species
+
+#=================================================================#
+#                    OPTIONAL SETTINGS                            #
+#=================================================================#
+
+
+
+#=================================================================#
+#     all other optional settings can be set or changed later     #
+#           in the web interface (under 'Datasets' tab)           #
+#=================================================================#
+
+#dataset scale: you can simply set the values where the scale will be drawn
+#DATASET_SCALE,2000,10000,20000
+#or you can specify value, label, color, width, style and label size factor for each scale line (dash separated, format: VALUE-LABEL-COLOR-WIDTH-DASHED-LABEL_SCALE_FACTOR))
+#DATASET_SCALE,2000-2k line-#0000ff-5-1-1,10000-line at 10k-#ff0000-1-0-2,20000-3rd line-#00ff00-5-1-1
+
+
+#Each dataset can have a legend, which is defined using LEGEND_XXX fields below
+#For each row in the legend, there should be one shape, color and label.
+#Optionally, you can define an exact legend position using LEGEND_POSITION_X and LEGEND_POSITION_Y. To use automatic legend positioning, do NOT define these values
+#Optionally, shape scaling can be present (LEGEND_SHAPE_SCALES). For each shape, you can define a scaling factor between 0 and 1.
+#To order legend entries horizontally instead of vertically, set LEGEND_HORIZONTAL to 1
+#Shape should be a number between 1 and 6, or any protein domain shape definition.
+#1: square
+#2: circle
+#3: star
+#4: right pointing triangle
+#5: left pointing triangle
+#6: checkmark
+
+#LEGEND_TITLE,Dataset legend
+#LEGEND_SCALE,1
+#LEGEND_POSITION_X,100
+#LEGEND_POSITION_Y,100
+#LEGEND_HORIZONTAL,0
+#LEGEND_SHAPES,1,2,3
+#LEGEND_COLORS,#ff0000,#00ff00,#0000ff
+#LEGEND_LABELS,value1,value2,value3
+#LEGEND_SHAPE_SCALES,1,1,0.5
+
+#maximum width
+#WIDTH,1000
+
+#left margin, used to increase/decrease the spacing to the next dataset. Can be negative, causing datasets to overlap.
+#MARGIN,0
+
+#always show internal values; if set, values associated to internal nodes will be displayed even if these nodes are not collapsed. It could cause overlapping in the dataset display.
+#SHOW_INTERNAL,0
+
+#show dashed lines between leaf labels and the dataset
+DASHED_LINES,1
+
+#bar height factor; Default bar height will be slightly less than the available space between leaves, but you can set a multiplication factor here to increase/decrease it (values from 0 to 1 will decrease it, values above 1 will increase it)
+#HEIGHT_FACTOR,1
+
+#Bars are aligned to the node lines by default. Using BAR_SHIFT, you can move them all up/down by a fixed amount
+#BAR_SHIFT,0
+
+#align individual fields; if set to 1, individual bar charts will not be stacked
+#ALIGN_FIELDS,0
+
+#border width; if set above 0, a border of specified width (in pixels) will be drawn around the bars
+#BORDER_WIDTH,0
+
+#border color; used when BORDER_WIDTH is above 0
+#BORDER_COLOR,#0000ff
+
+#Display individual values inside the bars
+#SHOW_VALUE,0
+
+#Position of the value label, relative to the bar (when SHOW_VALUE is set to 1)
+#can be one of: left, center, right
+#LABEL_POSITION,right
+
+#shift all labels horizontally and/or vertically
+#LABEL_SHIFT_X,0
+#LABEL_SHIFT_Y,0
+
+#multiply the size of all labels by this factor
+#LABEL_SIZE_FACTOR,1
+
+#color of the value labels. Ignored if LABEL_AUTO_COLOR is 1
+#BAR_LABEL_COLOR,#0000ff
+
+#if set to 1, calculate the value label color automatically, based on the darkness of the bar. Labels will be white or black.
+#LABEL_AUTO_COLOR,1
+
+#Internal tree nodes can be specified using IDs directly, or using the 'last common ancestor' method described in iTOL help pages
+#=================================================================#
+#       Actual data follows after the "DATA" keyword              #
+#=================================================================#
+DATA
+#ID1,value1,value2,value3
+#ID2,value4,value5,value6
+#9606,10000,15000,9000
+#LEAF1|LEAF2,11000,9000,120007
+C. elegans,53.27,7.51,2.69,1.71,2.99,3.69,0.93,2.15,2.45,2.79,5.14,0.54,0.73
+A. marina,55.85,9.03,3.49,3.9,2.87,4.93,1.03,3.49,3.9,2.46,2.87,0.21,0.41
+E. andrei,51.71,9.27,5.2,1.3,3.09,3.58,1.14,2.93,3.25,2.93,4.88,0.0,2.11
+H. medicinalis,49.38,10.8,4.63,1.23,3.09,7.1,0.93,3.4,3.4,1.54,9.88,0.31,0.31
+L. chalicophora,51.69,9.54,3.77,2.09,3.99,4.7,0.98,2.35,2.57,3.19,4.08,0.4,3.86
+L. marina,54.63,7.76,2.36,1.87,2.68,3.74,0.61,1.87,2.11,3.05,5.24,0.28,1.34
+L. oceanica,58.03,6.77,1.55,2.13,2.71,3.09,0.77,2.51,3.68,4.26,4.64,0.39,1.55
+O. nungara,45.92,9.92,3.53,2.19,3.62,4.79,0.76,2.1,3.2,1.85,5.05,0.0,1.18
+P. acuta,51.94,7.49,4.74,1.98,4.05,5.25,0.95,3.27,2.76,2.84,4.57,0.43,1.98
+P. aurorbis,51.95,7.5,3.2,1.82,3.82,5.86,1.24,3.02,2.8,3.42,4.09,5.37,1.95
+P. laevis,47.15,5.69,1.08,1.9,4.34,4.34,1.08,2.17,5.96,5.42,7.05,0.81,3.79
+P. turbinatus,42.08,7.09,3.55,2.6,4.26,6.86,2.13,4.02,4.02,3.31,7.8,0.71,1.42
+S. mediterranea,51.02,9.17,3.81,2.11,3.7,3.81,0.89,1.7,2.96,1.41,4.44,0.0,0.41
+S. pectinata,49.41,5.29,4.12,4.71,4.12,1.76,0.59,1.18,3.53,2.94,4.71,0.0,0.59
+T. longissimum,38.27,5.76,6.17,2.88,7.82,2.88,1.23,4.12,2.06,3.29,4.94,0.41,0.0
+T. melanocephalum,35.64,7.09,4.0,2.73,7.64,4.0,1.82,4.73,3.82,3.82,6.0,0.91,2.73
+T. pisana,54.76,9.52,2.38,2.38,2.38,1.19,1.19,3.57,0.0,2.38,3.57,1.19,0.0
