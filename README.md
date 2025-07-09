@@ -5,6 +5,8 @@ This repository contains the scripts and files needed to reproduce the analyses 
 
 Input proteomes for species for which an IsoSeq reference transcriptome was not generated, and their functional annotation with [FANTASIA](https://github.com/MetazoaPhylogenomicsLab/FANTASIA), can be found in [MATEdb2](https://github.com/MetazoaPhylogenomicsLab/MATEdb2).
 
+Input and output data for all the analyses can be found at FigShare (10.6084/m9.figshare.29210009).
+
 ## 2. Directories in this repository
 - **Species_tree_habitat:** This directory contains the species tree, habitat and phylum information, and ancestral habitat reconstruction files and scripts.
 - **Orthology_inference:** This directory contains scripts needed to infere orthogroups using SonicParanoid2, and the output files. Intermediate files are available upon request given their large size to be uploaded in most data repositories.
