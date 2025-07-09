@@ -215,7 +215,7 @@ A. Gains
     plt.savefig("GO_enrich_gains_convergence_nodes.svg",bbox_inches="tight")
     ```
 
-    ![GO_enrich_gains_convergence_nodes.png](images/GO_enrich_gains_convergence_nodes.png)
+    ![GO_enrich_gains_convergence_nodes.svg](images/GO_enrich_gains_convergence_nodes.svg)
 
 B. Losses
 
@@ -268,7 +268,7 @@ sns.heatmap(df_go,annot=True,cmap="YlGnBu")
 plt.savefig("GO_enrich_losses_convergence_nodes.svg",bbox_inches="tight")
 ```
 
-![GO_enrich_losses_convergence_nodes.png](images/GO_enrich_losses_convergence_nodes.png)
+![GO_enrich_losses_convergence_nodes.svg](images/GO_enrich_losses_convergence_nodes.svg)
 
 # 
 
