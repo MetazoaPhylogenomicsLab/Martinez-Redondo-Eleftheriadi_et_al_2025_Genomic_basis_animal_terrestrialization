@@ -285,24 +285,6 @@ To better show in the paper’s figure the gains in the Protostomia node, we sel
     
     # Save as SVG
     plt.savefig(species+"phylostratum_OGs_gained.svg", format='svg')
-    
-    #Old version
-    # Create bar plot
-    #plt.figure(figsize=(10, 6))
-    #plt.bar(age_ogs_sp_sorted['Phylostratum'], age_ogs_sp_sorted['group_id'], color='skyblue')
-    
-    # Custom x-tick labels: add "N" before each
-    #xtick_labels = ['N' + str(ps) for ps in age_ogs_sp_sorted['Phylostratum']]
-    #plt.xticks(ticks=range(len(age_ogs_sp_sorted['Phylostratum'])), labels=xtick_labels, rotation=45)
-    
-    # Labeling
-    #plt.xlabel('Phylostratum')
-    #plt.ylabel('Number of OGs gained')
-    #plt.title('OG Count per Phylostratum')
-    #plt.tight_layout()
-    
-    # Save as SVG
-    #plt.savefig(species+"phylostratum_OGs_gained.svg", format='svg')
     ```
     
 
@@ -466,40 +448,6 @@ Let’s check OGs gain/loss at the terrestrialization nodes (for nodes correspon
     	print(sp)
     	len(unassigned_genes[sp_conversion[sp]])
     ```
-    
-- Results with Old SonicParanoid OGs
-    
-    
-    | Terrestrialization event | Node | # Gains | # Loss |
-    | --- | --- | --- | --- |
-    | Hexapoda | 1353 | 296 | 2012 |
-    | Anomura (Coenobitidae) | 1815 | 536 | 4579 |
-    | Brachyura (Gecarcinidae) | 1913 | 84 | 4738 |
-    | Isopoda | 1592 | 384 | 11164 |
-    | TRLO1 (Amphipoda) | TRLO1 | 9 (+6317) | 5790 |
-    | Myriapoda | 1117 | 493 | 60067 |
-    | Arachnida | 1119 | 645 | 3081 |
-    | Onychophora | 1057 | 2545 | 89347 |
-    | ETES1 (tardigrade) | ETES1 (tardigrade) | 4 (+8778) | 1181 |
-    | RVAR1 (tardigrade) | RVAR1 (tardigrade) | 19 (+7500) | 1072 |
-    | Macrobiotidae + Richtersiidae | 1082 | 295 | 962 |
-    | PPUN2 (nematode) | PPUN2 | 11 (+7268) | 1944 |
-    | ANGR1 (nematode) | ANGR1 | 7 (+8567) | 3344 |
-    | Rhabditida | 1236 | 534 | 2980 |
-    | Stylomatophora | 1801 | 167 | 7202 |
-    | Ellobiida (mollusca) | 1830 | 1011 | 7065 |
-    | Onchidiidae (systelommatophora) | OVER1 | 11 (+3262) | 4297 |
-    | Pomatiidae (caenogastropoda) | PELE1 | 10 (+4685) | 4501 |
-    | DRAW1+PELO1+Crassi | 1860 | 319 | 2611 |
-    | PELO1+Crass | 1882 | 236 | 1877 |
-    | Crassiclitellata | 1903 | 552 | 2284 |
-    | CYCO1 (leech) | CYCO1 (leech) | 17 (+2141) | 6640 |
-    | ECRY2 (enchytreid) | ECRY2 (enchytreid) | 21 (+1975) | 4118 |
-    | HRPE1 (annelid) | HRPE1 | 19 (+4402) | 3710 |
-    | PHEI1 (annelid) | PHEI1 (annelid) | 7 (+3249) | 12304 |
-    | Acteonemertidae (nemertea) | 1391 | 445 | 3649 |
-    | Geoplanidae | 1612 | 348 | 2541 |
-    | Tetrapoda | 1143 | 231 | 1189 |
 
 | Terrestrialization event | Node | # Gains | # Loss |
 | --- | --- | --- | --- |
